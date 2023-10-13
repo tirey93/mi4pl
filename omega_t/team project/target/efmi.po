@@ -3120,7 +3120,7 @@ msgstr "Chciałbyś dołączyć do załogi nieustraszonych piratów na niebezpie
 
 msgctxt "barscu011"
 msgid "Ooh.  That sounds like fun..."
-msgstr "Byłoby zabawnie..."
+msgstr "Brzmi ciekawie..."
 
 msgctxt "guyscu042"
 msgid "Great!"
@@ -3180,7 +3180,7 @@ msgstr "Mam kilka precelków..."
 
 msgctxt "guyscu045"
 msgid "Well, that seems harmless enough."
-msgstr "To brzmi nieszkodliwie."
+msgstr "To brzmi całkiem niewinnie."
 
 msgctxt "barscu020"
 msgid "Yup, the SCUMM Bar's Famous Kudu Jerky Pretzels."
@@ -3212,7 +3212,7 @@ msgstr "Tamten pijaczyna przy stole ma ostatni koszyczek."
 
 msgctxt "guyscu050"
 msgid "Can't you give them to me without a basket?"
-msgstr "Nie możesz dać mi precelków bez koszyczka?"
+msgstr "Nie możesz mi ich dać bez koszyka?"
 
 msgctxt "barscu023"
 msgid "Sorry, it's SCUMM Bar policy."
@@ -3224,7 +3224,7 @@ msgstr "Na pewno nie możesz dać mi kilku precelków?"
 
 msgctxt "barscu024"
 msgid "You really don't want to carry these babies around in your bare hands."
-msgstr "Naprawdę nie chciałbyś ich nosić gołymi rękoma."
+msgstr "Naprawdę nie chciałbyś nosić tych cudeniek gołymi rękoma."
 
 msgctxt "guyscu052"
 msgid "You're probably right."
@@ -3232,7 +3232,7 @@ msgstr "Pewnie masz racje."
 
 msgctxt "barscu025"
 msgid "That's the spirit!  See if the inebriated fellow over there'll see fit to give you some."
-msgstr "Tak trzymaj! Sprawdź, czy tamten pijaczyna będzie skory, by ci je oddać."
+msgstr "Oto chodzi! Sprawdź, czy tamten pijaczyna będzie skory, by ci je oddać."
 
 msgctxt "guyscu053"
 msgid "Can I get a refill on these pretzels?"
@@ -3256,7 +3256,7 @@ msgstr "Ale ja chcę więcej."
 
 msgctxt "barscu028"
 msgid "Quit yer whinin'."
-msgstr "Zamknij jadaczkę."
+msgstr "Przestań jęczeć."
 
 msgctxt "guyscu056"
 msgid "Grog me, barkeep!"
@@ -3264,15 +3264,15 @@ msgstr "Daj mi grogu!"
 
 msgctxt "barscu029"
 msgid "Why I'll be glad to...after you show me some ID."
-msgstr "Chętnie... ale najpierw okarz dowodzik."
+msgstr "Chętnie... ale najpierw okaż dowodzik."
 
 msgctxt "guyscu057"
 msgid "No, really, grog me!"
-msgstr "Na serio, daj grogu!"
+msgstr "Nie, serio, daj grogu!"
 
 msgctxt "barscu030"
 msgid "No, really, ID!"
-msgstr "Na serio, dowodzik!"
+msgstr "Nie, serio, dowodzik!"
 
 msgctxt "guyscu058"
 msgid "I've got troubles."
@@ -3324,7 +3324,7 @@ msgstr "Słyszałeś... Charles L. Charles to PRZYSZŁOŚĆ wyspy Szpady!"
 
 msgctxt "guyscu064"
 msgid "The thought of Charles still gets my knickers in a bunch."
-msgstr "Z myślą że ten Charles mnie wnerwia."
+msgstr "Na samą myśl o Charlesie wciąż mam ciarki."
 
 msgctxt "barscu037"
 msgid "I empathize."
@@ -3376,7 +3376,7 @@ msgstr " "
 
 msgctxt "barscu043"
 msgid "Well it may be the kudu talking, but I could swear that I saw a couple of unemployed pirates lollygaging about in the middle of town."
-msgstr "Może to od tych kudu, ale zdawało mi się, że słyszałem bezrobotnych piratów gadających sobie beztrosko w centrum miasta."
+msgstr "Może to od tych kudu, ale mógłbym przysiąc, że w centrum miasta widziałem kilku bezrobotnych zbijających bąki piratów."
 
 msgctxt "barscu044"
 msgid "Maybe they can be talked into joining your crew."
@@ -3384,11 +3384,11 @@ msgstr "Może oni byliby chętni dołączyć do twej załogi."
 
 msgctxt "guyscu071"
 msgid "My dreams are filled with absurd, Fellini-esque images of fascistic despair."
-msgstr "Moje sny sa pełne absurdalnych faszystowskich obrazów rodem z Felliniego."
+msgstr "Moje sny wypełnione są absurdalnymi obrazami faszystowskiej rozpaczy w stylu Felliniego."
 
 msgctxt "barscu045"
 msgid "Really.  Well, I think you've had just about enough grog for one evening."
-msgstr "W takim razie sądzę, że musisz odstawić grog dzisiejszego wieczoru."
+msgstr "W takim razie sądzę, że masz już dość grogu na dzisiejszy wieczór."
 
 msgctxt "guyscu072"
 msgid "But you haven't given me any grog."
@@ -3412,7 +3412,7 @@ msgstr "Stan ciągle tam pracuje?"
 
 msgctxt "barscu048"
 msgid "Oh, no no.  The whole place is run by the Harbormistress these days."
-msgstr "W dzisiejszych czasach to miejsce należy do Pani Kapitan Portu."
+msgstr "Nie. Teraz miejscem zarządza Pani Kapitan Portu."
 
 msgctxt "guyscu075"
 msgid "'Harbor...mistress?'"
@@ -3440,7 +3440,7 @@ msgstr "Jasne."
 
 msgctxt "guyscu079"
 msgid "I've got a ship, but I remain troubled about the devaluation of the human spirit in this increasingly technological age."
-msgstr "Mam statek, ale martwi mnie problem dewaluacji ducha pirackiego w coraz bardziej rozrastającej się technologii."
+msgstr "Mam statek, ale nadal martwi mnie dewaluacja ludzkiego ducha w tej coraz bardziej stechnicyzowanej erze."
 
 msgctxt "barscu051"
 msgid "Agh.  You'd be surprised how often I hear that, Mister Threepwood."
@@ -3456,15 +3456,15 @@ msgstr "No tak."
 
 msgctxt "barscu053"
 msgid "Put a few pints of grog into just about any pirate you meet these days..."
-msgstr "Wlej parę kropel grogu do dowolnego pirata, którego spotkasz na ulicy..."
+msgstr "Postaw kilka kufli grogu dowolnemu piratowi, którego spotkasz w dzisiejszych czasach..."
 
 msgctxt "barscu054"
 msgid "and he'll start telling you about how he feels like he's lost control of his life..."
-msgstr "a zacznie ci odpowiadać jak się czuje, tracąc kontrolę nad swoim życiem...."
+msgstr "a zacznie ci odpowiadać, że czuje się jakby tracił kontrolę nad własnym życiem"
 
 msgctxt "barscu055"
 msgid "and how it's all he can do to hold onto a world that seems to be spinning faster and faster with every passing day."
-msgstr "i jak wszystko, co go jeszcze trzyma na ziemi z każdym dniem wiruje coraz szybciej."
+msgstr "i jak wszystko, co go jeszcze trzyma na ziemi z każdym dniem wiruje coraz szybciej i szybciej."
 
 msgctxt "guyscu081"
 msgid "Are you sure that your grog hasn't gone bad?"
@@ -3524,7 +3524,7 @@ msgstr "W sumie, wygladasz mi na 15..."
 
 msgctxt "barscu063"
 msgid "But we're carding anyone who looks under 23, just to be safe."
-msgstr "Ale my podajemy grog powyżej 23... tak dla bezpieczenstwa."
+msgstr "Ale my podajemy grog powyżej 23... tak dla pewności."
 
 msgctxt "guyscu088"
 msgid "But Charles is trying to destroy my wife's mansion!"
@@ -3532,11 +3532,11 @@ msgstr "Ale Charles chce zniszczyć rezydencję mojej żony!"
 
 msgctxt "guyscu089"
 msgid "That's gotta be a crime, right?"
-msgstr "To podpada pod paragraf, nie?"
+msgstr "To nie podpada pod paragraf?"
 
 msgctxt "barscu064"
 msgid "If your wife hadn't neglected her duties for so long, she wouldn't have been declared dead, now would she?"
-msgstr "Gdyby twoja żona nie zaniedbywałaby tyle swoich obowiązków, nie uważano by jej za zmarłą, co nie?"
+msgstr "Gdyby twoja żona nie zaniedbywałaby swoich obowiązków, nie uważano by jej za zmarłą, nie sądzisz?"
 
 msgctxt "barscu065"
 msgid "Besides, the way I hear it, Charles is going to build a gigantic roller coaster over the remains of your decadent mansion."
@@ -3556,7 +3556,7 @@ msgstr "Luksusowego, pożerającego podatki symbolu pirackiej plutokracji..."
 
 msgctxt "barscu068"
 msgid "Or a really bitchin' cool roller coaster?"
-msgstr "Czy miażdżąco odjechanej kolejki?"
+msgstr "Czy miażdżąco odjechanej górskiej kolejki?"
 
 msgctxt "guyscu091"
 msgid "That's pretty compelling..."
@@ -3564,7 +3564,7 @@ msgstr "Jakie to przekonujące..."
 
 msgctxt "guyscu092"
 msgid "But Charles is a scheming demagogue!"
-msgstr "Ale Charles jest powiązany z intrygą!"
+msgstr "Ale Charles jest podstępnym demagogiem!"
 
 msgctxt "guyscu093"
 msgid "I bet he's just telling you what you want to hear!"
@@ -3572,11 +3572,11 @@ msgstr "Mówi ci tylko to, co chcesz usłyszeć!"
 
 msgctxt "barscu069"
 msgid "Aye, perhaps...but what if he's telling the truth, and it just happens to be what we want to hear?"
-msgstr "Może i tak... a co jeśli nie kłamie i jego obietnice się spełnią?"
+msgstr "Może i tak... a co jeśli nie kłamie i stanie się to, co wszyscy chcą usłyszeć?"
 
 msgctxt "guyscu094"
 msgid "Okay, you've got me there..."
-msgstr "Nie mam pojęcia..."
+msgstr "Tu mnie masz..."
 
 msgctxt "guyscu095"
 msgid "But Charles isn't a real pirate!"
@@ -49032,6 +49032,6 @@ msgstr ""
 
 msgctxt "txtcdt800"
 msgid "Patent-Nr. 5.315.057"
-msgstr ""
+msgstr "Patent-Nr. 5.315.057"
 
 

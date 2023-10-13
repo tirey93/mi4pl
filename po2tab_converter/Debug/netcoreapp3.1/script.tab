@@ -778,7 +778,7 @@ guyscu040	Wiesz mo¿e cos wiêcej o tym Australijczyku?
 barscu009	Nie bardzo.
 barscu010	Ale z chêci¹ bym mu przemówi³ do rozumu.
 guyscu041	Chcia³byœ do³¹czyæ do za³ogi nieustraszonych piratów na niebezpiecznej misji?
-barscu011	By³oby zabawnie...
+barscu011	Brzmi ciekawie...
 guyscu042	Œwietnie!
 barscu012	...ale najpierw muszê to uzgodniæ z szefem.
 barscu013	HEJ, SZEFIE!
@@ -793,7 +793,7 @@ navscu005	NAWET O TYM NIE MYŒL, £AJZO!
 barscu018	Wygl¹da na nieugiêtego.
 guyscu044	Masz jakieœ przek¹ski?
 barscu019	Mam kilka precelków...
-guyscu045	To brzmi nieszkodliwie.
+guyscu045	To brzmi ca³kiem niewinnie.
 barscu020	Wys³awiane przez SCUMM Bar, precle z suszonego kudu.
 guyscu046	 
 guyscu047	Masz cos innego?
@@ -801,22 +801,22 @@ guyscu048	To poproszê kilka.
 barscu021	Nie dam ci ich.
 guyscu049	Co?! Wiêc dlaczego...
 barscu022	Tamten pijaczyna przy stole ma ostatni koszyczek.
-guyscu050	Nie mo¿esz daæ mi precelków bez koszyczka?
+guyscu050	Nie mo¿esz mi ich daæ bez koszyka?
 barscu023	Takie zasady.
 guyscu051	Na pewno nie mo¿esz daæ mi kilku precelków?
-barscu024	Naprawdê nie chcia³byœ ich nosiæ go³ymi rêkoma.
+barscu024	Naprawdê nie chcia³byœ nosiæ tych cudeniek go³ymi rêkoma.
 guyscu052	Pewnie masz racje.
-barscu025	Tak trzymaj! SprawdŸ, czy tamten pijaczyna bêdzie skory, by ci je oddaæ.
+barscu025	Oto chodzi! SprawdŸ, czy tamten pijaczyna bêdzie skory, by ci je oddaæ.
 guyscu053	Dasz mi dok³adkê precelków?
 barscu026	Jesteœ pierwsz¹ osob¹, która zapyta³a o drug¹ porcjê.
 guyscu054	Po prostu krêci mnie smak kudu.
 barscu027	Najpierw musisz skoñczyæ te, co masz.
 guyscu055	Ale ja chcê wiêcej.
-barscu028	Zamknij jadaczkê.
+barscu028	Przestañ jêczeæ.
 guyscu056	Daj mi grogu!
-barscu029	Chêtnie... ale najpierw okarz dowodzik.
-guyscu057	Na serio, daj grogu!
-barscu030	Na serio, dowodzik!
+barscu029	Chêtnie... ale najpierw oka¿ dowodzik.
+guyscu057	Nie, serio, daj grogu!
+barscu030	Nie, serio, dowodzik!
 guyscu058	Mam k³opoty.
 barscu031	Jakie?
 guyscu059	Wci¹¿ mam k³opoty.
@@ -829,7 +829,7 @@ guyscu062	Jakiœ wa¿niak zwany Charlesem L. Charlesem wci¹¿ próbuje zniszczyæ mi 
 barscu035	Nie mów tak brzydko o panu Charlesie.
 guyscu063	¯e jak?
 barscu036	S³ysza³eœ... Charles L. Charles to PRZYSZ£OŒÆ wyspy Szpady!
-guyscu064	Z myœl¹ ¿e ten Charles mnie wnerwia.
+guyscu064	Na sam¹ myœl o Charlesie wci¹¿ mam ciarki.
 barscu037	Rozumiem.
 guyscu065	Rz¹d próbuje zburzyæ mi dom.
 barscu038	Przykra sprawa, panie Threepwood.
@@ -842,29 +842,29 @@ barscu041	Chyba siedzi tam, przy kominku.
 guyscu069	Dziêki.
 guyscu070	Mam nawigatora, ale potrzebujê za³ogi.
 barscu042	 
-barscu043	Mo¿e to od tych kudu, ale zdawa³o mi siê, ¿e s³ysza³em bezrobotnych piratów gadaj¹cych sobie beztrosko w centrum miasta.
+barscu043	Mo¿e to od tych kudu, ale móg³bym przysi¹c, ¿e w centrum miasta widzia³em kilku bezrobotnych zbijaj¹cych b¹ki piratów.
 barscu044	Mo¿e oni byliby chêtni do³¹czyæ do twej za³ogi.
-guyscu071	Moje sny sa pe³ne absurdalnych faszystowskich obrazów rodem z Felliniego.
-barscu045	W takim razie s¹dzê, ¿e musisz odstawiæ grog dzisiejszego wieczoru.
+guyscu071	Moje sny wype³nione s¹ absurdalnymi obrazami faszystowskiej rozpaczy w stylu Felliniego.
+barscu045	W takim razie s¹dzê, ¿e masz ju¿ doœæ grogu na dzisiejszy wieczór.
 guyscu072	Ale nie da³eœ mi nawet kropelki.
 barscu046	Tym lepiej.
 guyscu073	Potrzebuje statku na wyspê Mamony.
 barscu047	Mo¿esz spróbowaæ na stoczni wyspy Szpady.
 guyscu074	Stan ci¹gle tam pracuje?
-barscu048	W dzisiejszych czasach to miejsce nale¿y do Pani Kapitan Portu.
+barscu048	Nie. Teraz miejscem zarz¹dza Pani Kapitan Portu.
 guyscu075	\
 barscu049	Jest bardzo przepisowa... choæ ma swoje s³abe strony.
 guyscu076	Jeœli to jest jej s³aba strona, to niech j¹ zachowa dla siebie.
 guyscu077	To gdzie mogê znaleŸæ statek?
 barscu050	W stoczni wyspy Szpady.
 guyscu078	Jasne.
-guyscu079	Mam statek, ale martwi mnie problem dewaluacji ducha pirackiego w coraz bardziej rozrastaj¹cej siê technologii.
+guyscu079	Mam statek, ale nadal martwi mnie dewaluacja ludzkiego ducha w tej coraz bardziej stechnicyzowanej erze.
 barscu051	Zdziwi³byœ siê, jak czêsto ludzie przychodz¹ do mnie z tym problem.
 guyscu080	Serio?
 barscu052	No tak.
-barscu053	Wlej parê kropel grogu do dowolnego pirata, którego spotkasz na ulicy...
-barscu054	a zacznie ci odpowiadaæ jak siê czuje, trac¹c kontrolê nad swoim ¿yciem....
-barscu055	i jak wszystko, co go jeszcze trzyma na ziemi z ka¿dym dniem wiruje coraz szybciej.
+barscu053	Postaw kilka kufli grogu dowolnemu piratowi, którego spotkasz w dzisiejszych czasach...
+barscu054	a zacznie ci odpowiadaæ, ¿e czuje siê jakby traci³ kontrolê nad w³asnym ¿yciem
+barscu055	i jak wszystko, co go jeszcze trzyma na ziemi z ka¿dym dniem wiruje coraz szybciej i szybciej.
 guyscu081	Jesteœ pewien, ¿e twój grog siê nie psuje?
 barscu056	To warto rozwa¿yæ.
 guyscu082	Ju¿ mi wystarczy u¿alania siê nad sob¹.
@@ -879,20 +879,20 @@ guyscu086	Ale ja lubiê te spodnie.
 barscu061	Wiêc... nie ma grogu.
 guyscu087	Co? Nie wygl¹dam na 14 lat?
 barscu062	W sumie, wygladasz mi na 15...
-barscu063	Ale my podajemy grog powy¿ej 23... tak dla bezpieczenstwa.
+barscu063	Ale my podajemy grog powy¿ej 23... tak dla pewnoœci.
 guyscu088	Ale Charles chce zniszczyæ rezydencjê mojej ¿ony!
-guyscu089	To podpada pod paragraf, nie?
-barscu064	Gdyby twoja ¿ona nie zaniedbywa³aby tyle swoich obowi¹zków, nie uwa¿ano by jej za zmar³¹, co nie?
+guyscu089	To nie podpada pod paragraf?
+barscu064	Gdyby twoja ¿ona nie zaniedbywa³aby swoich obowi¹zków, nie uwa¿ano by jej za zmar³¹, nie s¹dzisz?
 barscu065	Poza tym, dobieg³y mnie s³uchy, ¿e Charles chce wybudowaæ na miejscu twojej by³ej rezydencji ogromn¹ kolejkê górsk¹.
 guyscu090	Kolejkê? Brzmi znajomo...
 barscu066	Co wyspie Szpady bardziej potrzeba:
 barscu067	Luksusowego, po¿eraj¹cego podatki symbolu pirackiej plutokracji...
-barscu068	Czy mia¿d¿¹co odjechanej kolejki?
+barscu068	Czy mia¿d¿¹co odjechanej górskiej kolejki?
 guyscu091	Jakie to przekonuj¹ce...
-guyscu092	Ale Charles jest powi¹zany z intryg¹!
+guyscu092	Ale Charles jest podstêpnym demagogiem!
 guyscu093	Mówi ci tylko to, co chcesz us³yszeæ!
-barscu069	Mo¿e i tak... a co jeœli nie k³amie i jego obietnice siê spe³ni¹?
-guyscu094	Nie mam pojêcia...
+barscu069	Mo¿e i tak... a co jeœli nie k³amie i stanie siê to, co wszyscy chc¹ us³yszeæ?
+guyscu094	Tu mnie masz...
 guyscu095	Ale Charles to nie pirat!
 guyscu096	Jak taki s³aby snob jak Charles mo¿e daæ nadziejê i pragnienia zawadiackiej spo³ecznoœci piratów na wyspie Szpady?
 barscu070	Teorytycznie bym siê z tob¹ zgodzi³...

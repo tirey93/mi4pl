@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T090212Z" creationid="damia" creationdate="20231013T090212Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Options</seg>
       </tuv>
       <tuv lang="pl">
@@ -13649,6 +13657,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>To Eau de LeChuck jest naprawdę taki popularny?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eeee Eeee Eeee!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T102343Z" creationid="damia" creationdate="20231013T102343Z">
+        <seg>Eeee Eeee Eeee!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68667,6 +68683,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Ktokolwiek tu żyje, musi być naprawdę niski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoo Eeee Eeee Eeee Eeee Eeee! Eeee!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T102346Z" creationid="damia" creationdate="20231013T102346Z">
+        <seg>Whoo Eeee Eeee Eeee Eeee Eeee! Eeee!</seg>
       </tuv>
     </tu>
     <tu>

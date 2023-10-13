@@ -1,14 +1,14 @@
-13/10/2023, 11:38
+13/10/2023, 13:14
 Project Statistics
 
                  	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
 Total:           	   12257	82088	                 381603	                452824	     1	
-Remaining:       	    1520	 3665	                  21381	                 23528	     1	
+Remaining:       	    1515	 3648	                  21301	                 23436	     1	
 Unique:          	   11203	79058	                 367437	                436666	     1	
-Unique Remaining:	    1278	 3127	                  18550	                 20400	     1	
+Unique Remaining:	    1274	 3113	                  18483	                 20323	     1	
 
 
 Individual File Statistics:
 
 File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-efmi.po  	         12257	              1520	          11203	                     1278	      82088	           3665	       79058	                  3127	                       381603	                            21381	                        367437	                                   18550	                      452824	                           23528	                       436666	                                  20400	
+efmi.po  	         12257	              1515	          11203	                     1274	      82088	           3648	       79058	                  3113	                       381603	                            21301	                        367437	                                   18483	                      452824	                           23436	                       436666	                                  20323	

@@ -20,6 +20,7 @@ namespace po2tab_converter
 
             var regexMarkup = new Regex("msgctxt \"([^\"]+)\"");
             var regexPl = new Regex("msgstr \"([^\"]+)\"");
+            var regexOrg = new Regex("msgid \"([^\"]+)\"");
 
             string result = "";
             string errors = "";
@@ -31,7 +32,18 @@ namespace po2tab_converter
 
                 try
                 {
-                    result += regexMarkup.Match(textWithCuttedStart).Groups[1].Value + "\t" + regexPl.Match(textWithCuttedStart).Groups[1].Value + "\r\n";
+                    var textPl = regexPl.Match(textWithCuttedStart).Groups[1].Value;
+                    var textOrg = regexOrg.Match(textWithCuttedStart).Groups[1].Value;
+                    var markup = regexMarkup.Match(textWithCuttedStart).Groups[1].Value;
+
+                    string textTarget = textOrg;
+                    if (!string.IsNullOrEmpty(textPl))
+                    {
+                        textTarget = textPl;
+                    }
+
+
+                    result += markup+ "\t" + textTarget + "\r\n";
                 }
                 catch (Exception ex)
                 {

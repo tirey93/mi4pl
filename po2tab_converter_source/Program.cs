@@ -9,7 +9,13 @@ namespace po2tab_converter
     {
         static void Main(string[] args)
         {
-            string fileName = "efmi.po";
+            string fileName = "..\\..\\..\\omega_t\\team project\\target\\efmi.po";
+
+            if (!File.Exists(fileName))
+            {
+                fileName = "efmi.po";
+            }
+
             if (args.Length > 0 && !string.IsNullOrEmpty(args[0]))
             {
                 fileName = args[0];

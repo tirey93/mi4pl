@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/po2tab_converter_source/.vs
+/po2tab_converter_source/.vs/po2tab_converter/v17/.suo

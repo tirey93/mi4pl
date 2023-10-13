@@ -36,10 +36,14 @@ namespace po2tab_converter
                     var textOrg = regexOrg.Match(textWithCuttedStart).Groups[1].Value;
                     var markup = regexMarkup.Match(textWithCuttedStart).Groups[1].Value;
 
-                    string textTarget = textOrg;
+                    string textTarget = markup;
                     if (!string.IsNullOrEmpty(textPl))
                     {
                         textTarget = textPl;
+                    }
+                    else if (!string.IsNullOrEmpty(textOrg))
+                    {
+                        textTarget = textOrg;
                     }
 
 

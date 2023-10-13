@@ -1,14 +1,14 @@
-13/10/2023, 13:23
+13/10/23 15:19
 Project Statistics
 
-                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
-Total:           	   12257	82088	                 381603	                452824	     1	
-Remaining:       	    1515	 3648	                  21301	                 23436	     1	
-Unique:          	   11203	79058	                 367437	                436666	     1	
-Unique Remaining:	    1274	 3113	                  18483	                 20323	     1	
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	   12257	82088	                     381603	                       452824	     1	
+Remaining:       	    1510	 3643	                      21286	                        23421	     1	
+Unique:          	   11203	79058	                     367437	                       436666	     1	
+Unique Remaining:	    1270	 3109	                      18469	                        20309	     1	
 
 
 Individual File Statistics:
 
-File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
-efmi.po  	         12257	              1515	          11203	                     1274	      82088	           3648	       79058	                  3113	                       381603	                            21301	                        367437	                                   18483	                      452824	                           23436	                       436666	                                  20323	
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+efmi.po  	         12257	              1510	          11203	                     1270	      82088	           3643	       79058	                  3109	                           381603	                                21286	                            367437	                                       18469	                             452824	                                  23421	                              436666	                                         20309	

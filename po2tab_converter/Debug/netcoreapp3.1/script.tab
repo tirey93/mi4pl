@@ -1,4 +1,4 @@
-DOEL012	Nie mato³eczku 123. Podczas mojej nieobecnoœci sta³o siê coœ strasznego. Nie widzê innego wyt³umaczenia...
+DOEL012	Nie mato³eczku. Podczas mojej nieobecnoœci sta³o siê coœ strasznego. Nie widzê innego wyt³umaczenia...
 DOGB013	Hej! To Timmy! Jak siê masz?
 DOGB014	Albo ma pe³n¹ kuwetê albo chce nam coœ powiedzieæ. O co chodzi?
 DOEL016	Timmy, coœ nie tak?
@@ -284,7 +284,7 @@ el1gme034	Tak, skarbie, wiem, ale przez demolkê wisz¹c¹ nad will¹, kolejna katap
 el1gme035	Potrzebujemy jakiegoœ zakazu, który tylko moi prawnicy mog¹ wydaæ!
 guygme029	Ale ja chcê tworzyæ sprytne has³a wyborcze i robiæ badania operacyjne!
 el1gme036	Guybrushu, mi³oœci mego ¿ycia, jestem politykiem. Pozwól mi czyniæ m¹ powinnoœæ, a ja pozwolê ci czyniæ twoj¹.
-guygme030	Jak¹?
+guygme030	Co to?
 el1gme037	¯eglowanie po Trójwyspie z pozornie bezcelowym zadaniem.
 guygme031	Co?
 el1gme038	Wybacz, powiedzia³am to na g³os?
@@ -3566,7 +3566,7 @@ claluc048	Mo¿e ta byæ! Dziêki za sguestie.
 guyluc149	Wygl¹da mi na to ¿e próbujesz wyrobów tej niez³ej knajpki.
 claluc049	A ja myœla³am ¿e po prostu chce siê napiæ.
 guyluc150	Mo¿e próbujesz uwieœæ kogoœ naprawdê przystojnego, kotku.
-claluc050	Tak, napewno, szczególnie po tym jak zjad³am wszstkie 23 przeterminowane kartfle z pok³adu.
+claluc050	To pewnie wina tych 23 butelek pszennego grogu, które niedawno wypi³em...
 claluc051	Ale fajny jesteœ kiedy tak mówisz.
 guyluc151	--prze³yka--
 guyluc152	Pytanie retoryczne?
@@ -3645,7 +3645,7 @@ ozzozi062	Mam nadziêje ¿e masz ³ódŸ do szybkiej ucieczki.
 ozzozi063	Kiedy twój ojciec widzia³ ciê po raz pierwszy, zesztywnia³ na wieki.
 ozzozi064	Raz w ¿yciu spotka³em takiego tchórza!
 ozzozi065	Jesteœ odra¿aj¹cy jak ma³pa w peniuarze.
-guyozi110	Z twoim oddechem, wrogowie napewno ³atwo siê dusz¹.
+guyozi110	Z twoim oddechem, wrogowie na pewno ³atwo siê dusz¹.
 guyozi111	Sk¹d ty to wiesz? Nie masz a¿ tylu palców!
 guyozi112	A od kiedy to my gramy w Kiepskich?
 guyozi113	Jak dla ciebie, to mogê byæ tylko odka¿ony.
@@ -3668,7 +3668,7 @@ guyozi129	Fryzura nic tutaj nie wnosi!
 guyozi130	A co? Chcesz jedn¹ porzyczyæ?
 guyozi131	Mój, na szczêscie, mnie chocia¿ rozpoznawa³.
 guyozi132	Musia³ ciê nauczyæ wszystkiego co wiesz!
-ozzozi066	Z twoim oddechem, wrogowie napewno ³atwo siê dusz¹.
+ozzozi066	Z twoim oddechem, wrogowie na pewno ³atwo siê dusz¹.
 ozzozi067	Sk¹d ty to wiesz? Nie masz a¿ tylu palców!.
 ozzozi068	A od kiedy to my gramy w Kiepskich?
 ozzozi069	Jak dla ciebie, to mogê byæ tylko odka¿ony.
@@ -4382,7 +4382,7 @@ daimdo006	Wiêc uciek³am od tej wiedŸmy i przygwoŸdzi³am siê do tego statku.
 daimdo007	No a póŸniej ju¿ wiesz, gadanie.
 guymdo009	Wygl¹dasz dziwnie znajomo.
 daimdo008	Mo¿e spotkaliœmy siê w jakimœ koszmarze.
-guymdo010	Nie, napewno nie.
+guymdo010	Nie, na pewno nie.
 daimdo009	W³aœnie, ¿e tak. Kojarzysz?
 daimdo010	JESTEM W£ADC¥ CA£EGO ŒWIATA!!!
 guymdo011	AAAAGH!
@@ -9554,7 +9554,7 @@ guypla172	Hej spójrz! W³aœnie tam!
 guypla173	Wygl¹daj¹ na g³odnych. Nic dziwnego. Tu chyba nie z³apiesz ¿adnej ryby.
 guyplt159	Uuuch, ja tego nie chcia³em zwin¹æ, serio.!
 guyplt160	Musi byæ jakiœ sposób ¿eby to ukraœæ, tylko na razie mi to nie wychodzi...
-guyplt161	Nigdy! Po k³opotach jakie sprawi³o mi zdobycie tego, napewno bêd¹ chcieli to wyœlizgn¹æ z moich r¹k.
+guyplt161	O nie! Za du¿o mnie to kosztowa³o. Musia³aby mi to wyrwaæ z moich zimnych, martwych palców, ¿eby to odzyskaæ.
 guyplt162	Nikogo tu nie ma.
 guypop247	Nie dziêki. Za du¿o mnie kosztowa³o zdobycie tego.
 guypop248	Czy to ci przeszkadza?
@@ -10185,7 +10185,7 @@ txtall031	z:
 txtall032	sztuczna drewniana noga
 txtall033	sztuczna skóra
 txtall034	wskazówki
-txtall035	G
+txtall035	U
 txtall036	P
 txtall037	D
 txtall038	L
@@ -10252,19 +10252,19 @@ txtall098	&Multiplayer
 txtall099	&Nowa gra
 txtall100	&Powrót do gry
 txtall101	&Wznów gre
-txtall102	&Zakoncz
+txtall102	&Zakoñcz
 txtall103	Opcje
 txtall104	U¿yj klawiszy lewo/prawo do zmiany opcji
 txtall105	Brak
 txtall106	Niski
-txtall107	Sredni
+txtall107	Œredni
 txtall108	Wysoki
 txtall109	Tylko glosy
 txtall110	Glosy i napisy
 txtall111	Tylko napisy
 txtall112	Wolno
 txtall113	Szybko
-txtall114	Wl.
+txtall114	W³.
 txtall115	Widok
 txtall116	Postacie
 txtall117	Normalny
@@ -10284,26 +10284,26 @@ txtall130	&Efekty glosów
 txtall131	Tryb ruchu
 txtall132	&Joystick/Gamepad
 txtall133	Konfiguruj klawisze...
-txtall134	&Jasnosc
+txtall134	&Jasnoœæ
 txtall135	Opcje Multiplayer...
 txtall136	Wróæ do menu
 txtall137	Opcje 3D
-txtall138	Wybierz urz¹dzenie i nacisnij Enter
+txtall138	Wybierz urz¹dzenie i naciœnij Enter
 txtall139	Wybierz tryb dla tego urz¹dzenia i naciœnij Enter
 txtall140	Opcje wyœwietlania
 txtall141	Tryby zgodne
 txtall142	Wróæ do opcji
-txtall143	Naciœnij Enter, by zmienic
+txtall143	Naciœnij Enter, by zmieniæ
 txtall144	Resetuj zmiany
 txtall145	Wróæ do ustawieñ
 txtall146	Klawiatura - pomoc
-txtall147	Nacisnij w prawo: pomoc - Joystick/Gamepad
+txtall147	Naciœnij w prawo: pomoc - Joystick/Gamepad
 txtall148	Gamepad-/Joystick - pomoc
 txtall149	Naciœnij w prawo dla pomocy w Inwentarzu
 txtall150	Inwentarz
 txtall151	Nacisij w prawo: klawiatura - pomoc
-txtall152	Nacisnij Enter, by wrócic do menu
-txtall153	Brak dostepnej pomocy. Naciœnij ESC, by kontynuowac.
+txtall152	Naciœnij Enter, by wróciæ do menu
+txtall153	Brak dostepnej pomocy. Naciœnij ESC, by kontynuowaæ.
 txtall154	karykatura
 txtall155	kolczyki
 txtall156	Ubierz:
@@ -10394,7 +10394,7 @@ txtall241	Q
 txtall242	P
 txtall243	Pd.
 txtall244	T
-txtall245	G
+txtall245	U
 txtall246	V
 txtall247	Zach.
 txtall248	X
@@ -10458,21 +10458,21 @@ txtall305	Rusz
 txtall306	Do przodu
 txtall307	W lewo
 txtall308	W prawo
-txtall309	Do tylu
+txtall309	Do ty³u
 txtall310	NUMPAD-5 lub E
 txtall311	Zbadaj rzecz
 txtall312	Enter lub U
-txtall313	Uzyj rzeczy/ Rozmawiaj z:
+txtall313	U¿yj rzeczy/ Rozmawiaj z:
 txtall314	NUMPAD-+ lub P
-txtall315	Podnies/ Porzuc
+txtall315	Podnieœ/ Porzuæ
 txtall316	NUM Ins/I
 txtall317	Otwórz inwentarz
 txtall318	DEL/ kropka
-txtall319	Pomin tekst
+txtall319	Pomiñ tekst
 txtall320	Shift
 txtall321	Biegnij
 txtall322	Esc
-txtall323	Pomin scene
+txtall323	Pomiñ scenê
 txtall324	Pauza
 txtall325	Pauza
 txtall326	1 do 9
@@ -10495,7 +10495,7 @@ txtall342	W lewo
 txtall343	Prawo
 txtall344	W prawo
 txtall345	Dol
-txtall346	Do tylu
+txtall346	Do ty³u
 txtall347	Przycisk 1
 txtall348	Przycisk 2
 txtall349	Przycisk 3
@@ -10532,13 +10532,13 @@ txtall379	Gra zapisana
 txtall380	Wróc do menu
 txtall381	Przerywniki
 txtall382	Zamkn¹æ Ucieczkê z Wyspy Ma³p?
-txtall383	Na pewno chcesz wyjsc?
+txtall383	Na pewno chcesz wyjœæ?
 txtall384	&Tak
 txtall385	&Nie
 txtall386	Resetowaæ Ucieczkê z Wyspy Ma³p?
 txtall387	Na pewno chcesz uruchomiæ ponownie?
 txtall388	Gra wstrzymana
-txtall389	Nacisnij dowolny klawisz, aby powrocic.
+txtall389	Naciœnij dowolny klawisz, aby powróciæ.
 txtall390	Zapis Dialogu
 txtall391	Za pomoc¹ myszy przewijaj. Enter by kontynuowaæ.
 txtall392	Plik zapisu dialogu jest uszkodzony lub nie mo¿e byæ otwarty.
@@ -11630,7 +11630,7 @@ txtact020	Ty³ek
 txtall475	(Muzyka gra)
 txtall476	(Koniec melodyjki)
 txtall481	Menu
-txtall482	Pomin scene
+txtall482	Pomiñ scenê
 txtall483	Szybkie wyjscie z pokoju
 txtall484	Zapisana gra
 txtall485	Wczytywanie...
@@ -11640,7 +11640,7 @@ txtall488	Przewijaj dialogi i zdania
 txtall489	Obroc inwentarz w lewo
 txtall490	Obroc inwentarz w prawo
 txtall491	Polacz przedmiot
-txtall492	Nacisnij prawo/lewo aby przewijac.
+txtall492	Naciœnij prawo/lewo aby przewijaæ.
 txtall493	Efekty dzwieku
 txtall494	Jakosc dzwieku
 txtall495	Joystick 17
@@ -11673,7 +11673,7 @@ txth1002	znacznie póŸniej
 txth1003	du¿o, du¿o póŸniej
 txtact021	AKT II
 txtact022	AKT III
-txtall519	Czy napewno chcesz wczytac?
+txtall519	Czy na pewno chcesz wczytaæ?
 txtpro001	Wybierz
 txtopc001	LucasArts Entertainment Company
 txtopc002	przedstawia

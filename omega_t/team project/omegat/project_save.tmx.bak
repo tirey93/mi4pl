@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24,8 +24,8 @@
       <tuv lang="en-US">
         <seg>&amp;Brightness</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>&amp;Jasnosc</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125125Z">
+        <seg>&amp;Jasność</seg>
       </tuv>
     </tu>
     <tu>
@@ -7159,16 +7159,16 @@
       <tuv lang="en-US">
         <seg>Are you sure you want to load this game?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy napewno chcesz wczytac?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125200Z">
+        <seg>Czy napewno chcesz wczytać?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Are you sure you want to quit?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Na pewno chcesz wyjsc?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125149Z">
+        <seg>Na pewno chcesz wyjść?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11111,8 +11111,8 @@
       <tuv lang="en-US">
         <seg>Choose a display device and press Enter</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wybierz urządzenie i nacisnij Enter</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124848Z">
+        <seg>Wybierz urządzenie i naciśnij Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -11673,6 +11673,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Obroc obiekt do gory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T130726Z" creationid="damia" creationdate="20231013T130726Z">
+        <seg>D</seg>
       </tuv>
     </tu>
     <tu>
@@ -15617,6 +15625,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ponadto, skrzynia ma w sobie podatki ode mnie z okazji zamążpójścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>G</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124654Z" creationid="damia" creationdate="20231013T124654Z">
+        <seg>G</seg>
       </tuv>
     </tu>
     <tu>
@@ -36488,8 +36504,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's full of hot coals.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231012T115556Z">
-        <seg>Pełen gorących węgli. TEST123</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T112309Z">
+        <seg>Pełen gorących węgli. TEST12345</seg>
       </tuv>
     </tu>
     <tu>
@@ -40376,8 +40392,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Medium</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sredni</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125056Z">
+        <seg>Średni</seg>
       </tuv>
     </tu>
     <tu>
@@ -40896,8 +40912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Move Backward</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Do tylu</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124541Z">
+        <seg>Do tyłu</seg>
       </tuv>
     </tu>
     <tu>
@@ -42344,8 +42360,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No help available at this time. Press ESC to continue</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Brak dostepnej pomocy. Naciśnij ESC, by kontynuowac.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125012Z">
+        <seg>Brak dostepnej pomocy. Naciśnij ESC, by kontynuować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43632,8 +43648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nooo, I don't think so.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, napewno nie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T131208Z">
+        <seg>Nie, na pewno nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47312,8 +47328,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wl.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125111Z">
+        <seg>Wł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49016,8 +49032,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pick up item/Put away held item</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podnies/ Porzuc</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124807Z">
+        <seg>Podnieś/ Porzuć</seg>
       </tuv>
     </tu>
     <tu>
@@ -49872,8 +49888,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Press Enter on a control to change</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Naciśnij Enter, by zmienic</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124953Z">
+        <seg>Naciśnij Enter, by zmienić</seg>
       </tuv>
     </tu>
     <tu>
@@ -49888,16 +49904,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Press Enter to return to the main menu</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nacisnij Enter, by wrócic do menu</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124902Z">
+        <seg>Naciśnij Enter, by wrócić do menu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Press any key to return to the game</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nacisnij dowolny klawisz, aby powrocic.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124924Z">
+        <seg>Naciśnij dowolny klawisz, aby powrócić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49912,8 +49928,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Press right for Gamepad/Joystick Help</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nacisnij w prawo: pomoc - Joystick/Gamepad</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124832Z">
+        <seg>Naciśnij w prawo: pomoc - Joystick/Gamepad</seg>
       </tuv>
     </tu>
     <tu>
@@ -51646,6 +51662,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124713Z" creationid="damia" creationdate="20231013T124713Z">
+        <seg>Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shiny.</seg>
       </tuv>
       <tuv lang="pl">
@@ -51880,8 +51904,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Skip Cut-Scene</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pomin scene</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124731Z">
+        <seg>Pomiń scenę</seg>
       </tuv>
     </tu>
     <tu>
@@ -51896,16 +51920,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Skip cutscene</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pomin scene</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124745Z">
+        <seg>Pomiń scenę</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Skip dialogue line</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pomin tekst</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124703Z">
+        <seg>Pomiń tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -61568,8 +61592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>U</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>G</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T130716Z">
+        <seg>U</seg>
       </tuv>
     </tu>
     <tu>
@@ -62664,16 +62688,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Use Left and Right arrows to change Pages</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nacisnij prawo/lewo aby przewijac.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124939Z">
+        <seg>Naciśnij prawo/lewo aby przewijać.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Use item/Talk to character</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Uzyj rzeczy/ Rozmawiaj z:</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124619Z">
+        <seg>Użyj rzeczy/ Rozmawiaj z:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67217,8 +67241,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What's that?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T084034Z">
-        <seg>Jaką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T130134Z">
+        <seg>Co to?</seg>
       </tuv>
     </tu>
     <tu>
@@ -69497,8 +69521,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>With your breath, I'm sure they all suffocated.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z twoim oddechem, wrogowie napewno łatwo się duszą.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T131012Z">
+        <seg>Z twoim oddechem, wrogowie na pewno łatwo się duszą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70071,6 +70095,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wybierz</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231013T125220Z" creationid="damia" creationdate="20231013T125220Z">
+        <seg>Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Y'know, I can't think of anything you'd want, either.</seg>
       </tuv>
       <tuv lang="pl">
@@ -70177,8 +70209,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ya know, maybe it's the fact that I've had 23 whole wheat potato grogs in the last hour...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak, napewno, szczególnie po tym jak zjadłam wszstkie 23 przeterminowane kartfle z pokładu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T131153Z">
+        <seg>To pewnie wina tych 23 butelek pszennego grogu, które niedawno wypiłem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -79460,8 +79492,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>&amp;Zakoncz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231013T124441Z">
+        <seg>&amp;Zakończ</seg>
       </tuv>
     </tu>
     <tu>

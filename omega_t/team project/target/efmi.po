@@ -1144,7 +1144,7 @@ msgstr "Guybrushu, miłości mego życia, jestem politykiem. Pozwól mi czynić 
 
 msgctxt "guygme030"
 msgid "What's that?"
-msgstr "Jaką?"
+msgstr "Co to?"
 
 msgctxt "el1gme037"
 msgid "Sailing around the Tri-Island Area on seemingly pointless errands."
@@ -14272,7 +14272,7 @@ msgstr "Może próbujesz uwieść kogoś naprawdę przystojnego, kotku."
 
 msgctxt "claluc050"
 msgid "Ya know, maybe it's the fact that I've had 23 whole wheat potato grogs in the last hour..."
-msgstr "Tak, napewno, szczególnie po tym jak zjadłam wszstkie 23 przeterminowane kartfle z pokładu."
+msgstr "To pewnie wina tych 23 butelek pszennego grogu, które niedawno wypiłem..."
 
 msgctxt "claluc051"
 msgid "Hee hee... but you're cute when you talk like that."
@@ -14588,7 +14588,7 @@ msgstr "Jesteś odrażający jak małpa w peniuarze."
 
 msgctxt "guyozi110"
 msgid "With your breath, I'm sure they all suffocated."
-msgstr "Z twoim oddechem, wrogowie napewno łatwo się duszą."
+msgstr "Z twoim oddechem, wrogowie na pewno łatwo się duszą."
 
 msgctxt "guyozi111"
 msgid "Well, how do you know?  You don't have that many fingers!"
@@ -14680,7 +14680,7 @@ msgstr "Musiał cię nauczyć wszystkiego co wiesz!"
 
 msgctxt "ozzozi066"
 msgid "With your breath, I'm sure they all suffocated."
-msgstr "Z twoim oddechem, wrogowie napewno łatwo się duszą."
+msgstr "Z twoim oddechem, wrogowie na pewno łatwo się duszą."
 
 msgctxt "ozzozi067"
 msgid "How do you know?  You don't have that many fingers!"
@@ -17536,7 +17536,7 @@ msgstr "Może spotkaliśmy się w jakimś koszmarze."
 
 msgctxt "guymdo010"
 msgid "Nooo, I don't think so."
-msgstr "Nie, napewno nie."
+msgstr "Nie, na pewno nie."
 
 msgctxt "daimdo009"
 msgid "Yes you have.  Watch this."
@@ -38224,7 +38224,7 @@ msgstr "Musi być jakiś sposób żeby to ukraść, tylko na razie mi to nie wyc
 
 msgctxt "guyplt161"
 msgid "Heck no!  After all the trouble I've gone through to get this thing in the first place, she'll have to pry it from my cold dead fingers if she wants it back!"
-msgstr "Nigdy! Po kłopotach jakie sprawiło mi zdobycie tego, napewno będą chcieli to wyślizgnąć z moich rąk."
+msgstr "O nie! Za dużo mnie to kosztowało. Musiałaby mi to wyrwać z moich zimnych, martwych palców, żeby to odzyskać."
 
 msgctxt "guyplt162"
 msgid "There's nobody here."
@@ -40748,7 +40748,7 @@ msgstr "wskazówki"
 
 msgctxt "txtall035"
 msgid "U"
-msgstr "G"
+msgstr "U"
 
 msgctxt "txtall036"
 msgid "R"
@@ -40756,7 +40756,7 @@ msgstr "P"
 
 msgctxt "txtall037"
 msgid "D"
-msgstr ""
+msgstr "D"
 
 msgctxt "txtall038"
 msgid "L"
@@ -41016,7 +41016,7 @@ msgstr "&Wznów gre"
 
 msgctxt "txtall102"
 msgid "&Quit"
-msgstr "&Zakoncz"
+msgstr "&Zakończ"
 
 msgctxt "txtall103"
 msgid "Options"
@@ -41036,7 +41036,7 @@ msgstr "Niski"
 
 msgctxt "txtall107"
 msgid "Medium"
-msgstr "Sredni"
+msgstr "Średni"
 
 msgctxt "txtall108"
 msgid "High"
@@ -41064,7 +41064,7 @@ msgstr "Szybko"
 
 msgctxt "txtall114"
 msgid "On"
-msgstr "Wl."
+msgstr "Wł."
 
 msgctxt "txtall115"
 msgid "Camera-Relative"
@@ -41144,7 +41144,7 @@ msgstr "Konfiguruj klawisze..."
 
 msgctxt "txtall134"
 msgid "&Brightness"
-msgstr "&Jasnosc"
+msgstr "&Jasność"
 
 msgctxt "txtall135"
 msgid "Multiplayer Options..."
@@ -41160,7 +41160,7 @@ msgstr "Opcje 3D"
 
 msgctxt "txtall138"
 msgid "Choose a display device and press Enter"
-msgstr "Wybierz urządzenie i nacisnij Enter"
+msgstr "Wybierz urządzenie i naciśnij Enter"
 
 msgctxt "txtall139"
 msgid "Choose a mode for this device and press Enter"
@@ -41180,7 +41180,7 @@ msgstr "Wróć do opcji"
 
 msgctxt "txtall143"
 msgid "Press Enter on a control to change"
-msgstr "Naciśnij Enter, by zmienic"
+msgstr "Naciśnij Enter, by zmienić"
 
 msgctxt "txtall144"
 msgid "Reset to &defaults"
@@ -41196,7 +41196,7 @@ msgstr "Klawiatura - pomoc"
 
 msgctxt "txtall147"
 msgid "Press right for Gamepad/Joystick Help"
-msgstr "Nacisnij w prawo: pomoc - Joystick/Gamepad"
+msgstr "Naciśnij w prawo: pomoc - Joystick/Gamepad"
 
 msgctxt "txtall148"
 msgid "Gamepad/Joystick Help"
@@ -41216,11 +41216,11 @@ msgstr "Nacisij w prawo: klawiatura - pomoc"
 
 msgctxt "txtall152"
 msgid "Press Enter to return to the main menu"
-msgstr "Nacisnij Enter, by wrócic do menu"
+msgstr "Naciśnij Enter, by wrócić do menu"
 
 msgctxt "txtall153"
 msgid "No help available at this time. Press ESC to continue"
-msgstr "Brak dostepnej pomocy. Naciśnij ESC, by kontynuowac."
+msgstr "Brak dostepnej pomocy. Naciśnij ESC, by kontynuować."
 
 msgctxt "txtall154"
 msgid "caricature"
@@ -41516,7 +41516,7 @@ msgstr ""
 
 msgctxt "txtall228"
 msgid "D"
-msgstr ""
+msgstr "D"
 
 msgctxt "txtall229"
 msgid "E"
@@ -41528,7 +41528,7 @@ msgstr ""
 
 msgctxt "txtall231"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 msgctxt "txtall232"
 msgid "H"
@@ -41584,7 +41584,7 @@ msgstr ""
 
 msgctxt "txtall245"
 msgid "U"
-msgstr "G"
+msgstr "U"
 
 msgctxt "txtall246"
 msgid "V"
@@ -41840,7 +41840,7 @@ msgstr "W prawo"
 
 msgctxt "txtall309"
 msgid "Move Backward"
-msgstr "Do tylu"
+msgstr "Do tyłu"
 
 msgctxt "txtall310"
 msgid "NUMPAD-5 or E"
@@ -41856,7 +41856,7 @@ msgstr "Enter lub U"
 
 msgctxt "txtall313"
 msgid "Use item/Talk to character"
-msgstr "Uzyj rzeczy/ Rozmawiaj z:"
+msgstr "Użyj rzeczy/ Rozmawiaj z:"
 
 msgctxt "txtall314"
 msgid "NUMPAD-+ or P"
@@ -41864,7 +41864,7 @@ msgstr "NUMPAD-+ lub P"
 
 msgctxt "txtall315"
 msgid "Pick up item/Put away held item"
-msgstr "Podnies/ Porzuc"
+msgstr "Podnieś/ Porzuć"
 
 msgctxt "txtall316"
 msgid "NUMPAD-Ins or I"
@@ -41880,11 +41880,11 @@ msgstr "DEL/ kropka"
 
 msgctxt "txtall319"
 msgid "Skip dialogue line"
-msgstr "Pomin tekst"
+msgstr "Pomiń tekst"
 
 msgctxt "txtall320"
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 msgctxt "txtall321"
 msgid "Run"
@@ -41896,7 +41896,7 @@ msgstr ""
 
 msgctxt "txtall323"
 msgid "Skip cutscene"
-msgstr "Pomin scene"
+msgstr "Pomiń scenę"
 
 msgctxt "txtall324"
 msgid "Pause"
@@ -41988,7 +41988,7 @@ msgstr "Dol"
 
 msgctxt "txtall346"
 msgid "Move Backward"
-msgstr "Do tylu"
+msgstr "Do tyłu"
 
 msgctxt "txtall347"
 msgid "Button 1"
@@ -42136,7 +42136,7 @@ msgstr "Zamknąć Ucieczkę z Wyspy Małp?"
 
 msgctxt "txtall383"
 msgid "Are you sure you want to quit?"
-msgstr "Na pewno chcesz wyjsc?"
+msgstr "Na pewno chcesz wyjść?"
 
 msgctxt "txtall384"
 msgid "&Yes"
@@ -42160,7 +42160,7 @@ msgstr "Gra wstrzymana"
 
 msgctxt "txtall389"
 msgid "Press any key to return to the game"
-msgstr "Nacisnij dowolny klawisz, aby powrocic."
+msgstr "Naciśnij dowolny klawisz, aby powrócić."
 
 msgctxt "txtall390"
 msgid "Dialogue Transcript"
@@ -46528,7 +46528,7 @@ msgstr ""
 
 msgctxt "txtall482"
 msgid "Skip Cut-Scene"
-msgstr "Pomin scene"
+msgstr "Pomiń scenę"
 
 msgctxt "txtall483"
 msgid "Quick Room Exit"
@@ -46568,7 +46568,7 @@ msgstr "Polacz przedmiot"
 
 msgctxt "txtall492"
 msgid "Use Left and Right arrows to change Pages"
-msgstr "Nacisnij prawo/lewo aby przewijac."
+msgstr "Naciśnij prawo/lewo aby przewijać."
 
 msgctxt "txtall493"
 msgid "&Audio Effects"
@@ -46700,11 +46700,11 @@ msgstr "AKT III"
 
 msgctxt "txtall519"
 msgid "Are you sure you want to load this game?"
-msgstr "Czy napewno chcesz wczytac?"
+msgstr "Czy na pewno chcesz wczytać?"
 
 msgctxt "txtpro001"
 msgid "Wybierz"
-msgstr ""
+msgstr "Wybierz"
 
 msgctxt "txtopc001"
 msgid "LucasArts Entertainment Company"

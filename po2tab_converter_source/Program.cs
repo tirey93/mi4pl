@@ -24,10 +24,6 @@ namespace po2tab_converter
             string file = File.ReadAllText(fileName);
             var splitted = file.Split("msgctxt");
 
-            var regexMarkup = new Regex("msgctxt \"([^\"]+)\"");
-            var regexPl = new Regex("msgstr \"([^\"]+)\"");
-            var regexOrg = new Regex("msgid \"([^\"]+)\"");
-
             string result = "";
             string errors = "";
 
@@ -36,24 +32,25 @@ namespace po2tab_converter
                 if (string.IsNullOrEmpty(text)) continue;
                 var textWithCuttedStart = "msgctxt" + text;
 
+                var splitter = new PoSplitter(textWithCuttedStart);
+                if (!splitter.IsValid)
+                    continue;
+
                 try
                 {
-                    var textPl = regexPl.Match(textWithCuttedStart).Groups[1].Value;
-                    var textOrg = regexOrg.Match(textWithCuttedStart).Groups[1].Value;
-                    var markup = regexMarkup.Match(textWithCuttedStart).Groups[1].Value;
-
+                    var markup = splitter.Markup;
                     string textTarget = markup;
-                    if (!string.IsNullOrEmpty(textPl))
+                    var plText = splitter.PlText;
+                    if (!string.IsNullOrEmpty(plText))
                     {
-                        textTarget = textPl;
+                        textTarget = plText;
                     }
-                    else if (!string.IsNullOrEmpty(textOrg))
+                    else if (!string.IsNullOrEmpty(splitter.OrgText))
                     {
-                        textTarget = textOrg;
+                        textTarget = splitter.OrgText;
                     }
 
-
-                    result += markup+ "\t" + textTarget + "\r\n";
+                    result += markup + "\t" + textTarget + "\r\n";
                 }
                 catch (Exception ex)
                 {

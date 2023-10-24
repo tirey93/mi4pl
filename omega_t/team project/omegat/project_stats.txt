@@ -1,14 +1,14 @@
-17/10/23 17:21
-Project Statistics
+24.10.23 00:10
+Statystyka projektu
 
-                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	   12257	82088	                     381603	                       452824	     1	
-Remaining:       	    1496	 3625	                      21150	                        23281	     1	
-Unique:          	   11203	79058	                     367437	                       436666	     1	
-Unique Remaining:	    1256	 3091	                      18333	                        20169	     1	
+                           	Segmentów	Wyrazów	Znaków (bez spacji)	Znaków (ze spacjami)	#Pliki	
+Całkowita liczba:          	    12257	  82088	             381603	              452824	     1	
+Pozostało:                 	     1496	   3625	              21150	               23281	     1	
+Niepowtarzalnych ogólnie:  	    11203	  79058	             367437	              436666	     1	
+Niepowtarzalnych pozostało:	     1256	   3091	              18333	               20169	     1	
 
 
-Individual File Statistics:
+Statystyka poszczególnych plików:
 
-File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-efmi.po  	         12257	              1496	          11203	                     1256	      82088	           3625	       79058	                  3091	                           381603	                                21150	                            367437	                                       18333	                             452824	                                  23281	                              436666	                                         20169	
+Nazwa pliku	Wszystkie segmenty	Segmentów pozostało	Unikalne segmenty	Unikalnych segmentów pozostało	Całkowita ilość wyrazów	Wyrazów pozostało	Unikalne wyrazy	Unikalnych wyrazów pozostało	Znaków (bez spacji)	Znaków pozostało (bez spacji)	Unikalne wyrazy (bez spacji)	Unikalnych wyrazów pozostało (bez spacji)	Znaków (ze spacjami)	Znaków pozostało (ze spacjami)	Unikalne wyrazy (ze spacjami)	Unikalnych wyrazów pozostało (ze spacjami)	
+efmi.po    	             12257	               1496	            11203	                          1256	                  82088	             3625	          79058	                        3091	             381603	                        21150	                      367437	                                    18333	              452824	                         23281	                       436666	                                     20169	

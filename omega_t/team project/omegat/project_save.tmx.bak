@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15759,8 +15759,8 @@
       <tuv lang="en-US">
         <seg>Gee these LucasArts™ adventure games are getting shorter and shorter...Aha!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Rany, te przygodówki od LucasArts są coraz krótsze... Aha!</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231023T210949Z">
+        <seg>Rany, te przygodówki od LucasArts™ są coraz krótsze... Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19419,8 +19419,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey!!!  It's Timmy the Monkey!  How are ya, boy?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T073535Z">
-        <seg>Hej! To Timmy! Jak się masz?</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231023T210841Z">
+        <seg>Hej! To małpka Timmy! Jak się masz mały?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45392,8 +45392,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh all right.  Oh, does this mean I get to run the island now?  I've got some revolutionary ideas about subsidized child care--</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130714T131947Z">
-        <seg>No dobrze. Czy to oznacza, że mam opuszczać wyspę już teraz? Mam kilka rewolucyjnych pomysłów na temat dotacji dla dzieci...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20231017T140108Z">
+        <seg>No dobrze. Czy to oznacza, że już teraz mam opuszczać wyspę? Mam kilka rewolucyjnych pomysłów na subsydiowaną opiekę nad dziećmi...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50288,8 +50288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>QUIET!...Good pirates, can't you see that this man is merely trying to buy your votes with empty slogans and cheap gimmickry?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T075921Z">
-        <seg>CISZA! Dobrzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231023T210936Z">
+        <seg>CISZA! Drodzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?</seg>
       </tuv>
     </tu>
     <tu>
@@ -59000,8 +59000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There's been an outbreak of scurvy?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Epidemia szkorbutu?</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231023T210856Z">
+        <seg>Wybuchła epidemia szkorbutu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -79644,8 +79644,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>...and, if re-elected, I promise that Męlée Island™ will remain a place where men and women can be proud of their pirate traditions and lifestyle!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T075100Z">
-        <seg>...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231023T210919Z">
+        <seg>...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady™ pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!</seg>
       </tuv>
     </tu>
     <tu>

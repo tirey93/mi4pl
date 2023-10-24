@@ -4,7 +4,7 @@ msgstr "Nie matołeczku. Podczas mojej nieobecności stało się coś strasznego
 
 msgctxt "DOGB013"
 msgid "Hey!!!  It's Timmy the Monkey!  How are ya, boy?"
-msgstr "Hej! To Timmy! Jak się masz?"
+msgstr "Hej! To małpka Timmy! Jak się masz mały?"
 
 msgctxt "DOGB014"
 msgid "Either his litter box is full, or he's trying to tell us something.  What is it, boy?"
@@ -20,11 +20,11 @@ msgstr "Darmowy grog w barze SCUMM?"
 
 msgctxt "DOEL019"
 msgid "There's been an outbreak of scurvy?"
-msgstr "Epidemia szkorbutu?"
+msgstr "Wybuchła epidemia szkorbutu?"
 
 msgctxt "DOGB020"
 msgid "You won 74 bucks playing Bingo but lost it all playing banana futures?"
-msgstr "Wygrałeś 74 dolce w bingo, ale przegrałeś je grając na rynku wymiany bananów?"
+msgstr "Wygrałeś 74 dolce w bingo, ale przegrałeś je w spadające małpki?"
 
 msgctxt "DOGB021"
 msgid "There's trouble at the Governor's Mansion?!?!  Let's go!"
@@ -36,7 +36,7 @@ msgstr "Kłopoty w willi gubernator?! Szybko!"
 
 msgctxt "E1EL001"
 msgid "...and, if re-elected, I promise that Męlée Island™ will remain a place where men and women can be proud of their pirate traditions and lifestyle!"
-msgstr "...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!"
+msgstr "...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady™ pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!"
 
 msgctxt "E1HK002"
 msgid "What about good times and free grog?"
@@ -76,7 +76,7 @@ msgstr "Buu! Jesteśmy głupi?"
 
 msgctxt "E2EL004"
 msgid "QUIET!...Good pirates, can't you see that this man is merely trying to buy your votes with empty slogans and cheap gimmickry?"
-msgstr "CISZA! Dobrzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?"
+msgstr "CISZA! Drodzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?"
 
 msgctxt "E2CR005"
 msgid "Grog, grog, grog, grog!"
@@ -136,7 +136,7 @@ msgstr "Dokładnie."
 
 msgctxt "H1GB026"
 msgid "Gee these LucasArts™ adventure games are getting shorter and shorter...Aha!"
-msgstr "Rany, te przygodówki od LucasArts są coraz krótsze... Aha!"
+msgstr "Rany, te przygodówki od LucasArts™ są coraz krótsze... Aha!"
 
 msgctxt "MEGB001"
 msgid "That should take the air out of his soufflé."

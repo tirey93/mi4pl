@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15759,8 +15759,8 @@
       <tuv xml:lang="en-US">
         <seg>Gee these LucasArts™ adventure games are getting shorter and shorter...Aha!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Rany, te przygodówki od LucasArts są coraz krótsze... Aha!</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T210949Z">
+        <seg>Rany, te przygodówki od LucasArts™ są coraz krótsze... Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19419,8 +19419,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey!!!  It's Timmy the Monkey!  How are ya, boy?</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Rael" changedate="20130801T073535Z">
-        <seg>Hej! To Timmy! Jak się masz?</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T210841Z">
+        <seg>Hej! To małpka Timmy! Jak się masz mały?</seg>
       </tuv>
     </tu>
     <tu>
@@ -50288,8 +50288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>QUIET!...Good pirates, can't you see that this man is merely trying to buy your votes with empty slogans and cheap gimmickry?</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Rael" changedate="20130801T075921Z">
-        <seg>CISZA! Dobrzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T210936Z">
+        <seg>CISZA! Drodzy piraci, czy nie widzicie, że ten człowiek próbuje was przekupić pustymi sloganami i tanimi sztuczkami?</seg>
       </tuv>
     </tu>
     <tu>
@@ -59000,8 +59000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>There's been an outbreak of scurvy?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Epidemia szkorbutu?</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T210856Z">
+        <seg>Wybuchła epidemia szkorbutu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72649,8 +72649,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You won 74 bucks playing Bingo but lost it all playing banana futures?</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Rael" changedate="20130801T074542Z">
-        <seg>Wygrałeś 74 dolce w bingo, ale przegrałeś je grając na rynku wymiany bananów?</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T220442Z">
+        <seg>Wygrałeś 74 dolce w bingo, ale przegrałeś je w spadające małpki?</seg>
       </tuv>
     </tu>
     <tu>
@@ -79644,8 +79644,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>...and, if re-elected, I promise that Męlée Island™ will remain a place where men and women can be proud of their pirate traditions and lifestyle!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Rael" changedate="20130801T075100Z">
-        <seg>...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231023T210919Z">
+        <seg>...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady™ pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!</seg>
       </tuv>
     </tu>
     <tu>

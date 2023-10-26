@@ -1,14 +1,14 @@
-17/10/23 17:21
+26/10/23 12:35
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	   12257	82088	                     381603	                       452824	     1	
-Remaining:       	    1496	 3625	                      21150	                        23281	     1	
+Remaining:       	    1494	 3625	                      21148	                        23279	     1	
 Unique:          	   11203	79058	                     367437	                       436666	     1	
-Unique Remaining:	    1256	 3091	                      18333	                        20169	     1	
+Unique Remaining:	    1255	 3091	                      18332	                        20168	     1	
 
 
 Individual File Statistics:
 
 File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-efmi.po  	         12257	              1496	          11203	                     1256	      82088	           3625	       79058	                  3091	                           381603	                                21150	                            367437	                                       18333	                             452824	                                  23281	                              436666	                                         20169	
+efmi.po  	         12257	              1494	          11203	                     1255	      82088	           3625	       79058	                  3091	                           381603	                                21148	                            367437	                                       18332	                             452824	                                  23279	                              436666	                                         20168	

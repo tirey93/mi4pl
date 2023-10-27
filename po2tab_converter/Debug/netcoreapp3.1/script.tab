@@ -149,7 +149,7 @@ guymel004	A wiesz, nie mam zielonego pojêcia.
 clamel004	Za³atwi³eœ nam podpisan¹ umowê!
 clamel005	Hmm... wygl¹da dobrze... ³adnie...
 otimel002	Chwila! To standardowa umowa rz¹dowa dla ROBOTNIKÓW, bez systemu emerytalnego i opieki dentystycznej!
-clamel006	Hej, racja! ¯¹damy DOGODNEJ umowy rz¹dowej i w³asnego biurka!
+clamel006	Hej, racja! ¯¹damy INTRATNEJ umowy w urzêdzie i w³asnego biurka!
 otimel003	Wróæ, jak za³atwisz coœ, co nie obejmuje niewolniczej pracy.
 otimel004	Po co nam to pokazujesz?
 guymel005	A wiesz, nie mam mglistego pojêcia.
@@ -157,7 +157,7 @@ clamel007	Za³atwi³eœ nam podpisan¹ umowê!
 clamel008	Hmm... Zobaczmy...
 clamel009	mmm, hmm... tak... a, tak... dobrze... aha.
 otimel005	Carla, rozumiesz chocia¿ po³owê z tych bzdur?
-clamel010	Ni w z¹b. Ale tytu³ g³osi ”dogodna”!
+clamel010	Ni w z¹b. Ale tytu³ g³osi ”intratna”!
 otimel006	Niech bêdzie!
 clamel011	Dobra, Threepwood, masz za³ogê.
 guymel006	A wiesz, pojêcia nie mam.
@@ -402,7 +402,7 @@ guyvoo034	Prowadz¹ na zewn¹trz.
 guyscu001	Chyba ju¿ nie bêdzie tego potrzebowa³.
 sb1scu001	Hej! fradda fruddah frzz ...
 guyscu002	Chyba nie jest skory do dzielenia siê preclami.
-guyscu211	”Sto lat”.
+guyscu211	G³osi ”Sto lat”.
 guyscu212	Nie, to pewnie jedyna rzecz, jak¹ ten biedak ma poza imieniem.
 guyscu005	Nieprzytomny.
 guyscu006	To jeden z barwnych i uzale¿nionych od chemii psów morskich Szpady.
@@ -452,7 +452,7 @@ el1gmi005	Do czego to s³u¿y?
 guygmi005	Potrzebujê go, by niechêtne ³otry do³¹czy³y do mej za³ogi.
 el1gmi006	A nie mo¿esz przekonaæ ich sw¹ oœlepiaj¹c¹ charyzm¹ i pochlebstwami?
 guygmi006	Moja charyzma zu¿y³a siê w podró¿y poœlubnej.
-guygmi007	Sam nie wiem, ale przeczuwam, ¿e podpisany kontrakt rz¹dowy mo¿e siê przydaæ.
+guygmi007	Sam nie wiem, ale przeczuwam, ¿e podpisana umowa mo¿e siê przydaæ.
 el1gmi007	No dobra, podpiszê to.
 el1gmi008	Niech zgadnê: kolejna gubernatorska ³apówka.
 guygmi008	Wolê nazwê ”bodziec sponsorowany przez pañstwo”.
@@ -657,10 +657,10 @@ guymel052	...uroczy domek u wybrze¿y wyspy £upu.
 clamel032	Co za luksus.
 otimel020	 
 clamel033	Wszyscy wiedz¹, ¿e tajemniczy zagraniczny inwestor wykupi³ wszystkie nieruchomoœci wokó³ wyspy £upu!
-guymel053	... ciep³¹ rz¹dow¹ posadkê!
+guymel053	... intratn¹ posadkê w urzêdzie!
 clamel034	Brzmi ciekawie.
 otimel021	Carla, co ty robisz?
-clamel035	A o jakiej rz¹dowej posadce mówimy?
+clamel035	A o jak intratnej posadce mówimy?
 guymel054	Wiesz, takiej z stawk¹ w sektorze prywatnym, 3 razy na miesi¹c...
 guymel055	...bez kontroli...
 guymel056	...i bez zagro¿enia zwolnienia!
@@ -1510,7 +1510,7 @@ guyshi024	No i to jest super ³ajba!
 guyshi025	Ale fajny ponton!
 guyshi026	Nie u¿yjê go... nie jest mój.
 guyshi027	"Sprzedane".
-guyshi028	"Statek na sprzeda¿".
+guyshi028	G³osi "Statek na sprzeda¿".
 guyshi029	Spadaj¹ce butelki!
 guyshi030	Nie mogê go u¿yæ... nie mam kasy.
 guyshi031	Myœla³em, ¿e du¿e kobiety s¹ weselsze.
@@ -1526,7 +1526,7 @@ guyshi038	Nic tam ciekawego.
 guymhe001	Puk, puk.
 meamhe001	Kto tam?
 guymhe002	"Woskowy Dom Miêshaka".
-guymhe003	Hmm... "Pokaz wosku". Ciekawe, czy poka¿¹ "Mad Wosk: Wojownik Pszczó³".
+guymhe003	Hmm... g³osi: "Pokaz wosku". Ciekawe, czy poka¿¹ "Mad Wosk: Wojownik Pszczó³".
 guymhe004	Mamy pe³niê!
 guymhe005	 
 guymhe006	Ukraœæ ksiê¿yc? Odbi³o ci?
@@ -1561,7 +1561,7 @@ habshi032	Co? Próbujesz uwieœæ pracownika gubernatora?
 guyshi047	Nie.
 guyshi048	Wiêc odpowiadasz za statki.
 guyshi049	Pyskataœ jak na chwalebnego obserwatora p¹kli, wiesz?
-habshi033	Zazdroœcisz mi po prostu dogodnej posadki.
+habshi033	Zazdroœcisz mi po prostu intratnej posadki.
 habshi034	By³aby lepsza, gdybym nie musia³a u¿eraæ siê z takimi jak ty.
 guyshi050	Rekwirujê ten statek!
 habshi035	Nie tak szybko.
@@ -1856,29 +1856,29 @@ guymhi065	Masz jakiœ pomys³, co móg³bym zrobiæ z t¹ map¹?
 meamhi081	Dziadek Marley mówi³, ¿e p³ótno, które da³ mi do pracy mia³o jakieœ wyj¹tkowe "voodoo" w³aœciwoœci.Mo¿e to ci pomo¿e.
 guymhi066	Chyba muszê sam rozwi¹zaæ tajemnicê Talizmanu Upokorzenia.
 meamhi082	Spoko. Coœ jeszcze?
-guytri001	Panie Ser, nie powinniœmy op³yn¹æ te ciemne i niebezpieczne chmur?
-navtri001	G³upstwa, kapitanie. Mrzawka nikomu nie zaszkodzi³a.
+guytri001	Panie Ser, nie powinniœmy omin¹æ tych ciemnych i z³owieszczych chmur?
+navtri001	G³upstwa, kapitanie. M¿awka nikomu nie zaszkodzi³a.
 otitri001	 
 clatri001	 
 navtri002	 
 guytri002	 
-navtri003	Zamkn¹æ w³az ³adowni!
-otitri002	Wszyscy pod pok³ad!
+navtri003	Opuœciæ w³azy!
+otitri002	Otaklowaæ kad³ub!
 clatri002	Wci¹gn¹æ ¿agle!
-navtri004	Opró¿niæ toalety!
-otitri003	Ods¹czyæ zeze!
+navtri004	Opró¿niæ nocniki!
+otitri003	Ods¹czyæ zêzê!
 clatri003	Gdzie z ³apami!
-guytri003	Sory, ma³a.
+guytri003	Sorry, ma³a.
 otitri004	Teraz ja prowadzê!
-navtri005	P³aczcie ³zami wojny, psy morskie!
+navtri005	Krwawi zamêt i spuœæcie psy wojny!
 clatri004	Uwolniæ krakena!
 guytri004	Nie po twarzy! Nie po twarzy!
-navtri006	Armaty d³u¿ej tak nie wytrzymaj¹, kapitanie!
+navtri006	Statek d³u¿ej nie poci¹gnie, kapitanie!
 otitri005	Ma³py, ma³py, ma³py!
 guytri005	Nie ma to jak w domu, nie ma to jak w domu...
-otitri006	To mia³byæ trzygodzinny rejs!
+otitri006	To mia³ byæ tylko trzygodzinny rejs!
 guytri006	Panie Ser, a nie by³oby proœciej ¿eglowaæ Z DALA od tego tajfunu na horyzoncie?
-navtri007	A co by by³o w tym zabawnego, kapitanie?
+navtri007	Arrrr, a gdzie w tym zabawa, kapitanie?
 guylaw001	Przepraszam. Czy to...
 whilaw001	Wejœæ!
 thrlaw001	Wejœæ!
@@ -2079,7 +2079,7 @@ guybas023	Widzê tylko piêæ rodzajów martwych ryb!
 baibas015	Wiesz, ¿e to nie jest nasz ca³y asortyment?
 guybas024	Kawior? W takim miejscu?
 baibas016	W ten sposób pozby³em siê moich zepsutych przynêt.
-guybas025	Ten wydruk mówi: "Nie stosowaæ do komsumpcji na ludziach oraz na zwierzêtach".
+guybas025	Ten wydruk g³osi: "Nie stosowaæ do konsumpcji na ludziach oraz na zwierzêtach".
 guybas026	Nawet gdybym lubi³ kawior, nie dotkn¹³bym tego!
 guybas027	Pomys³ na kawior w takim sklepie dziwi mnie.
 guybas028	Zobaczmy...
@@ -2218,7 +2218,7 @@ guyhoj028	Hej, powinienem tutaj przyprowadziæ Meathooka. Polubi³ by to miejsce.
 guyhoj029	Mi³o widzieæ, ¿e Wyspa Mamony nie pieœci siê z kryminalistami.
 guyhoj030	Mama zawsze mi powtarza³a, ¿ebym siê nie bawi³ ostrymi narzêdziami.
 guyhoj031	Na tym jest mnóstwo krwi innych ludzi.
-guyhoj032	Tu pisze "Contra Leges Marinas Latrocinium Maris Est".
+guyhoj032	G³osi: "Contra Leges Marinas Latrocinium Maris Est".
 guyhoj033	to chyba znaczy...
 guyhoj034	Teraz nie mam pomys³u co to znaczy.
 guyhoj035	To chyba znaczy " Chwytaj Dzieñ"
@@ -2702,7 +2702,7 @@ guyban098	Oh nie. Ja tam nie wejdê ponownie.
 guyban099	Powinienem najpierw pogadaæ z kasjerk¹.
 guyluc153	Hej to trójg³owa ma³pa!
 guyluc154	Hej, czy to nie David Copperfield?
-guyluc155	O nie, masz wielkiego skorpiona na ramieniu!
+guyluc155	Jejku, masz wielkiego skorpiona na ramieniu!
 guyluc156	Hej, patrz! Tam jest coœ ciekawego!
 guyluc157	O nie! To jakiœ trylobit!
 guyluc158	Na krêcony makaron, to H.G Wells, pije jak skunks!
@@ -2774,7 +2774,7 @@ guyluc033	Twój kolega wygl¹da jakby siê zahipnotyzowa³.
 sgoluc028	A dziêkuje.
 guyluc034	Hej to trójg³owa ma³pa!
 guyluc187	Hej, czy to nie David Copperfield?
-guyluc036	O nie, masz wielkiego skorpiona na ramieniu!
+guyluc036	Jejku, masz wielkiego skorpiona na ramieniu!
 guyluc037	Hej, patrz! Tam jest coœ ciekawego!
 guyluc039	Na krêcony makaron, to H.G Wells, pije jak skunks!
 guyluc040	Wielki Bo¿e, to tym j¹ zabi³eœ?!
@@ -2953,7 +2953,7 @@ guybas068	Serio? Jak to?
 baibas053	Jesteœmy zasypywani.
 guybas069	Przez obcych najeŸdŸców?
 baibas054	Gorzej, turystów!
-guybas070	Yipes!
+guybas070	Jejku!
 baibas055	Dzisiaj za wiele ich nie ma, ale widzia³byœ co siê dzia³o w zesz³ym tygodniu, wy³a¿¹ jak zgni³e zw³oki na spokojnym morzu.
 baibas056	Szukaj¹ jakiegoœ sposobu na biznes u starego pirata,
 baibas057	... przymuszaj¹ idiotycznych piratów do zmiany sposobu ¿ycia.
@@ -3037,7 +3037,7 @@ manluc018	Ale ty masz jeszcze kawa³ek ¿ycia.
 guyluc083	Racja.
 guyluc084	To zabawne, ale moje zdrowie nie zapewni mi dobrej emerytury.
 guyluc085	Dlaczego nie mo¿esz wejœæ do œrodka?
-manluc019	Inspektor  mówi, ¿e to miejsce zbrodni i nie pozwala zostawiaæ œladów póki nie skoñczy sprawy.
+manluc019	Inspektor mówi, ¿e to miejsce zbrodni i nie pozwala zostawiaæ œladów póki nie skoñczy sprawy.
 guyluc086	A co nas to obchodzi!
 manluc020	W przeciwieñstwie do ciebie ja szanuje prawo. Nikt nie wejdzie do banku dopóki sprawa siê nie rozwi¹¿ê.
 guyluc087	Wiêc po co tak tutaj stoisz?
@@ -4454,7 +4454,7 @@ murgpt023	S£UCHAJCIE prawdziwej pirackiej muzyki!
 murgpt024	POCZUJCIE jak wasze wnêtrzonoœci poruszaj¹ waszym cia³em prosto do restauracji czystego Z£A!!! MWAH-HAH-HAH-HAAA!!!
 waigpt001	Nie drzyj siê tak, Murray!
 clagpt001	Wow, to by³ szalony rejs.
-otigpt001	¯adna ciep³a posadka nie jest warta takiego zachodu.
+otigpt001	¯adna intratna posadka nie jest warta takiego zachodu.
 guygpt030	Witam na Wyspie Jambalaya, domu prawdziwych piratów oraz tajemniczych voodoo kl¹tw!
 otigpt002	I jakiœ restauracji tematycznych.
 clagpt002	i turystów.
@@ -5812,176 +5812,176 @@ parkab060	<kwak> Na zachódzachódzachódzachód! <kwak> <gwizdek>
 parkab061	<kwak> Nigdzie!
 parkab062	<kwak> Nigdzie! <hik>.
 parkab063	<kwak> NigdzieNigdzieNigdzieNigdzie!
-daishi015	Wspaniale, ale dlaczego pomalowano nie na ró¿owo?
-navscu055	Gratuluje, masz osobistego nawigatora.
-guyall001	To oficjalny symbol biura gubernatora.
+daishi015	NieŸle... hej, kto mnie tak pomalowa³?
+navscu055	Gratulujê, masz osobistego nawigatora.
+guyall001	To oficjalny symbol urzêdu gubernatora.
 guyall002	Nie.
-guyall003	Nag³ówek mówi: " Kontrakt na prace u Gubernatora w Szpada".
+guyall003	Nag³ówek g³osi: " Umowa Zatrudnienia w urzêdzie Szpady -- Wersja Intratna".
 guyall004	Yoink!
-guyall005	Nag³ówek mówi: "Kontrakt zawarcia pracy u gubernatora"
-guyall006	Nikt siê nie kapnie, jak to wezmê.
-guyall007	Ta dêtka sie tu nie przyda.
-guyall008	Mmmmm ... Precelki "Kudu-Jerky"
-guyall009	Ta miska na precelki jest pusta.
+guyall005	Nag³ówek g³osi: " Umowa Zatrudnienia w urzêdzie Szpady".
+guyall006	Nikomu nie szkodzê, jak to wezmê.
+guyall007	Ta dêtka siê tu nie przyda.
+guyall008	Mmmmm... precelki "Kudu-Jerky"...
+guyall009	Pusta miska na precelki.
 guyall010	<¿uje, ¿uje>
-guyall011	<wzdycha> Przyda³by sie ³yk zimnego grogu do popicia.
+guyall011	Przyda³by siê ³yk zimnego grogu do popicia.
 guyall012	Zosta³y tylko okruszki.
 guyall013	Jeœli bêdê chodzi³ i rozdawa³ to na prawo i lewo, nic dla mnie nie zostanie.
-guyall014	Jest tu wiele rodzajów egzotycznych drinków.
-guyall015	Nie mam baru.
-guyall016	Hmm. Ciekawe co jest w œrodku...
-guyall017	<Ahem> Moja kochana Elaine,
-guyall018	jeœli to czytasz, to ju¿ siê o¿eni³aœ a ja ju¿ jestem martwy.
-guyall019	Teraz, kiedy ju¿ ostatecznie zwi¹za³aœ siê z nieustraszonym piratem-mê¿em,
-guyall020	czas pokazaæ ci ostatni kawa³ek rodzinnej uk³adanki.
-guyall021	W Banku Wyspy Mamony znajdziesz skrzynie pod moim nazwiskiem.
-guyall022	Poza innymi rzeczami, skrzynia zawiera akt notarialny dotycz¹cy Posiad³oœci Marleyów.
-guyall023	Masz jej pilnowaæ jak oka w g³owie.
-guyall024	Ponadto, skrzynia ma w sobie podatki ode mnie z okazji zam¹¿pójœcia.
-guyall025	Przepraszam, ¿e nie mog³em dorêczyæ ich osobiœcie.
-guyall026	Ale jestem naprawdê pewny, ¿e wybra³aœ odpowiedniego mê¿czyznê abym móg³ go nazywaæ wnuczkiem.
-guyall027	Na koniec i co najwa¿niejsze, skrzynia zawiera klucz do najbardziej przera¿aj¹cego sekretu Karaibów:
-guyall028	Tajemnicy sto razy bardziej przera¿aj¹cej ni¿ Mega£up. Tajemnicy zwanej...
+guyall014	Zawiera ró¿nego rodzaju propozycje tropikalnych drinków.
+guyall015	Nie mam barku.
+guyall016	Hmm. Zajrzyjmy...
+guyall017	Moja kochana Elaine,
+guyall018	jeœli to czytasz, to ju¿ wysz³aœ za m¹¿ a ja jestem martwy.
+guyall019	Teraz, gdy w koñcu ustatkowa³aœ siê z nieustraszonym mê¿em piratem,
+guyall020	nadszed³ czas, abyœ upomnia³a siê o ostatnie elementy naszego dziedzictwa.
+guyall021	W Banku Wyspy Mamony znajdziesz depozyt pod moim nazwiskiem.
+guyall022	W skrzyni znajdziesz miêdzy innymi akt w³asnoœci posiad³oœci Marleyów.
+guyall023	Pilnuj go jak oka w g³owie.
+guyall024	Co wiêcej, skrzynia zawiera równie¿ prezenty œlubne dla ciebie.
+guyall025	Przepraszam, ¿e nie mog³em wrêczyæ Ci ich osobiœcie.
+guyall026	Ale stojê na grobem z przekonaniem, ¿e wybra³aœ cz³owieka, którego z dum¹ móg³bym nazywaæ "wnukiem".
+guyall027	Wreszcie, co najwa¿niejsze, skrzynia zawiera klucze do najbardziej przera¿aj¹cego sekretu na Karaibach.
+guyall028	Tajemnicy dziesiêæ razy gorszej ni¿ Big Whoop. Tajemnicy zwanej...
 guyall029	TALIZMANEM Upokorzenia!
-guyall030	Yipes!
-guyall031	Jeœli straszliwa moc Talizmanu Upokorzenia znalaz³aby siê w niew³aœciwych rêkach...
-guyall032	trudno powiedzieæ jaki by³by przera¿aj¹cy wp³yw na niczego niespodziewaj¹cych siê piratów!
-guyall033	Strze¿ tego sekretu przez ca³e ¿ycie i wiedz, ¿e gdziekolwiek jesteœ, twój dziadek ci¹gle nad tob¹ czuwa.
-guyall034	Pozdrawiam,
+guyall030	Jejku!
+guyall031	Gdyby nikczemna moc Talizmanu Upokorzenia kiedykolwiek trafi³a w niepowo³ane rêce,
+guyall032	nie wiadomo, jakiego rodzaju zrodzone z piek³a krzywdy mog³yby zostaæ wyzwolone na wszystkich rozrywkowych piratach!
+guyall033	Strze¿ tych sekretów przez ca³e ¿ycie i wiedz, ¿e gdziekolwiek jesteœ, twój dziadek ci¹gle nad tob¹ czuwa.
+guyall034	Z mi³oœci¹,
 guyall035	Horatio Torquemeda Marley.
-guyall036	Jak cudownie.
-guyall037	Uh. P.S.: Jeœli Twoja matka bêdzie siê krêci³a ko³o moich pami¹tek, przeka¿ jej ode mnie, ¿eby sobie zrobi³a d³ugi spacer po molo.
+guyall036	S³odko.
+guyall037	P.S. Jeœli twoi sp³ukani rodzice przyjd¹ w poszukiwaniu ja³mu¿ny, powiedz im, ¿eby zrobili sobie d³ugi spacer po krótkiej k³adce!
 guyall038	Spójrzmy....
-guyall039	Blablabla w Lucre Banku...
-guyall040	... blablabla w skrytce ...
-guyall041	... papier na posiad³oœæ. Dobrze..
-guyall042	... oraz prezenty œlubne. Dobrze ...
-guyall043	... Talizmanem Upokorzenia. A niech to ...
+guyall039	Blablabla w Banku Mamony...
+guyall040	... blablabla w skrzynia w depozycie ...
+guyall041	... akt w³asnoœci posiad³oœci. Dobrze..
+guyall042	... prezenty œlubne. Dobrze ...
+guyall043	... Talizman Upokorzenia. le...
 guyall044	Z powa¿aniem H.T Marley.
-guyall045	Wygl¹da na w niez³ym stanie!
-guyall046	Hej, za pozytywk¹ widaæ jak¹œ butelkê grogu.
+guyall045	Mieszek jest w stanie idealnym!
+guyall046	Hej, za mieszkiem widaæ butelkê niez³ego grogu.
 guyall047	Nie, raczej nie.
-guyall048	Co mam teraz z tym zrobiæ?
-guyall049	Muzyka w takim ma³ym przedmiocie.
-guyall050	Hej, nawet ta butelka jest za ma³a na pozytywkê!
+guyall048	Nie potrzeba tu mieszka.
+guyall049	Urocza, ma³a pozytywka.
+guyall050	Hej, za pozytywk¹ widaæ butelkê niez³ego grogu.
 guyall051	Z³amany miecz.
-guyall052	To stary i z³amany miecz.
-guyall053	Ale du¿o g¹bek.
+guyall052	Stary, pêkniêty miecz.
+guyall053	W cholerê tu g¹bek.
 guyall054	Masa g¹bek!
-guyall055	G¹bki w garœæ.
-guyall056	Oo, butelka wina z roku 67. Œwietny rocznik, zapach starego wina z posmakiem grogu.
-guyall057	Hej, tam jest kilka g¹bek.
-guyall058	Nie dziêki, tak stary grog na pewno ma wiele nie proszonych organizmów.
-guyall059	Œmierdzi jak lekko spalona ryba.
-guyall060	Œmierdzi trochê jak kwiaty rosn¹ce na szambie.
-guyall061	Œmierdzi jak ryba..trochê stara.
-guyall062	Œmierdzi trochê jak zw³oki rozk³adaj¹ce siê na bagnach.
-guyall063	Œmierdzi zupe³nie jak drwal z lekko spoconymi pachami.
-guyall064	To ma taki ³adny aromat czegoœ brudnego.
-guyall065	Chusteczka z wygrawerowanym napisem P.P
-guyall066	Zaczynam w¹tpiæ ¿e Marley to mój dziadek.
-guyall067	To ma³a rybka u¿ywana jako przynêta.
+guyall055	Ma³a garœæ g¹bek.
+guyall056	To butelka Chateau de Spittle z 67 roku. Doskona³y grog vintage o nonszalanckim smaku i soczystym posmaku.
+guyall057	Hej, pod tym jest ma³y stosik g¹bek.
+guyall058	Nie dziêki, to coœ œmierdzi!
+guyall059	Pachnie trochê jak ryba wêdzona w hikorze.
+guyall060	Pachnie trochê jak kwiaty rosn¹ce w szambie.
+guyall061	Pachnie trochê jak rybie smarki.
+guyall062	Pachnie trochê jak zw³oki p³ywaj¹ce w bagnie.
+guyall063	Pachnie tak, jakby drwal wytar³ nim pachy.
+guyall064	Choæ ma s³ab¹ woñ czegoœ mi³ego.
+guyall065	Na tej chusteczce wyhaftowano "P.P."
+guyall066	Szczerze w¹tpiê, ¿e TO nale¿y do dziadka Marleya.
+guyall067	To zdech³a rybka u¿ywana jako przynêta.
 guyall068	Ewww...
 guyall069	Ostre i kuj¹ce.
 guyall070	Auæ. Ostre.
-guyall071	Istniej¹ rzeczy, które nie powinny wisieæ na haku.
+guyall071	Nie trzeba tego nadziewaæ.
 guyall072	Drewniana rêka.
-guyall073	To drewniana rêka pokryta termitami.
-guyall074	Zgni³a drewniana rêka.
+guyall073	To drewniana rêka zaatakowana przez termity.
+guyall074	Prze¿uta drewniana rêka.
 guyall075	Mam ju¿ rêkê.
-guyall076	Wygl¹da ca³kiem porz¹dnie, ale jakoœ mam za d³ug¹ rêkê.
-guyall077	Nie dziêki. Moja skóra jest idealna i nie trzeba jej zmieniaæ.
-guyall078	Ta droga zaprowadzi mnie do domu Pegnose'a.
-guyall079	Dziwne, dla mnie to bardziej przypomina rozk³ad jazdy.
-guyall080	Nag³ówek mówi...
-guyall081	Wiele nieprzydatnych rzeczy: przepisy na ciasto, adresy, telefony, dziennik chorób...
-guyall082	Lepiej to zatrzymam, mo¿e mi siê jeszcze przydaæ.
-guyall083	Hej! S³yszê termity! To musi byæ ich kolacja.
-guyall084	To tylko wiórki po drewnie.
-guyall085	Jeœli mia³bym chomika, móg³bym u¿yæ tego jako wyœció³ki.
-guyall086	Tak, a to pachnie niesamowicie ciekawie.
-guyall087	Nic nie pachnie lepiej ni¿ serowa woda po goleniu.
+guyall076	Wygl¹da jak ¿ywy ale jest za rozci¹gliwy, by byæ prawdziwy.
+guyall077	Nie dziêki. Moja skóra jest ju¿ idealna.
+guyall078	To wskazówki do domu Pegnose'a Pete'a.
+guyall079	Dziwne. Bardziej przypominaj¹ rozk³ad jazdy.
+guyall080	Nazwa g³osi...
+guyall081	Wiele nieprzydatnych informacji jak: recepty na protezy, adres, numer telefonu, alergie...
+guyall082	Ta laska ma prawie niezauwa¿alne pêkniêcie.
+guyall083	Hej! S³yszê termity! Pewnie maj¹ obiad.
+guyall084	To kupa trocin.
+guyall085	Gdybym mia³ chomika, móg³bym ich u¿yæ jako œció³ki.
+guyall086	To powinno sprawiæ, ¿e mikstura bêdzie pachnieæ interesuj¹co.
+guyall087	Nic nie pachnie lepiej ni¿ cedrowa woda koloñska.
 guyall088	Butelka pe³na perfum.
 guyall089	Nosi nazwê Eau de LeChuck.
-guyall090	"Teraz mo¿esz œmierdzieæ jak najbardziej nie¿ywy pirat jakiego zna³y Karaiby"
-guyall091	OSTRZE¯ENIE: Przed u¿yciem upewnij siê ¿e w pobli¿u nie ma zwierz¹, astmatyków lub kobiet w ci¹¿y a tak¿e skonsultuj siê z lekarzem lub farmaceut¹.
+guyall090	"Teraz mo¿esz pachnieæ jak najbardziej niechlubny pirat, jakiego kiedykolwiek zna³y Karaiby".
+guyall091	"OSTRZE¯ENIE: Zawartoœæ nie powinna byæ stosowana na zwierzêtach lub w ich pobli¿u, u osób z chorobami serca lub kobiet w ci¹¿y".
 guyall092	 
-guyall093	To œmierdzi naprawdê Ÿle. Nawet jak na pirata.
-guyall094	To œmierdzi tak jak wygl¹da.
+guyall093	To œmierdzi Ÿle. Nawet jak na pirata.
+guyall094	Pachnie jak powinno.
 guyall095	To zegar szachowy.
-cdaall001	Odczep siê!
+cdaall001	Nie tykaj!
 sgoall001	Mierzymy nim czas gry.
-cdaall002	Nie dotykaj!
-sgoall002	Jest w u¿yciu.
-cdaall003	Jedno dotkniêcie, a nie ¿yjesz.
-sgoall003	Inaczej zgubimy siê w czasie.
-sgoall004	Ekhm, nie. Rêce precz!
-cdaall004	£APY PRZY SOBIE!
-sgoall005	Nie poleca³bym dotykania tego.
-cdaall005	Mog³oby byæ to nie zdrowe dla ciebie.
-sgoall006	B¹dŸ uwa¿ny, piraczyno.
-sgoall007	Bez zegara moglibyœmy graæ wiecznie.
-guyall096	To zegar z opcj¹ liczenia czasu.
-guyall097	To ma³a butelka na perfumy wype³niona wod¹.
-guyall098	To pusta butelka na perfumy.
-guyall099	To butelka na perfumy z mnóstwem ró¿nych rzeczy.
+cdaall002	£apy precz!
+sgoall002	U¿ywamy go.
+cdaall003	Tknij i po tobie!
+sgoall003	Jest nam potrzebny, by mierzyæ czas.
+sgoall004	Nie. Nie dotykaj go.
+cdaall004	Zostaw go!
+sgoall005	Na twoim miejscu bym go nie dotyka³.
+cdaall005	Zaszkodzi³oby to twojemu zdrowiu!
+sgoall006	Cierpliwoœci, piraciku.
+sgoall007	Bez zegara gra trwa³aby wiecznoœæ.
+guyall096	To zegar z minutnikiem.
+guyall097	To ma³y rozpylacz perfum wype³niony wod¹.
+guyall098	To pusty rozpylacz perfum.
+guyall099	To ma³y rozpylacz perfum z mnóstwem rzeczy w œrodku.
 guyall100	W tej butelce nic nie ma.
-guyall101	Ta butelka ma za suchy sk³ad, ¿eby coœ z niej wylecia³o.
-guyall102	Hej! To DOK£ADNIE ten sam zapach co na chusteczce, tylko mocniejszy.
+guyall101	Zawartoœæ tej butelki jest za sucha, aby ni¹ spryskaæ..
+guyall102	Hej! Pachnie DOK£ADNIE jak chusteczka, tylko mocniej!
 guyall103	Pachnie jak woda.
-guyall104	To pachnie dok³adnie jak tamta chusteczka...
-guyall105	... jeœli by przypuszczaæ, ¿e chusteczka ma woñ chomiczych odchodów.
-guyall106	... jeœli by przypuszczaæ, ¿e chusteczka ma woñ chomiczych odchodów.
-guyall107	oraz trochê ryby.
-guyall108	... jeœli by przyj¹æ, ¿e chusteczka pachnie jak ryba.
-guyall109	du¿o ryby.
-guyall110	... jeœli by przyj¹æ, ¿e chusteczka pachnie jak ryba.
-guyall111	tylko trochê ³adniej.
-guyall112	... jeœli by przyj¹æ, ¿e chusteczka pachnia³a tak ³adnie.
-guyall113	tylko jeszcze przyjemniej.
-guyall114	... jeœli by przyj¹æ, ¿e chusteczka pachnia³a tak ³adnie.
-guyall115	tylko bez b³ota.
-guyall116	... jeœli by przyj¹æ, ¿e chusteczka by³a tak b³otnista.
-guyall117	Ale ³adny aromat!
-guyall118	Nie, wolê to zatrzymaæ dla siebie, a oddaæ najwy¿ej zaufanemu cz³owiekowi.
-guyall119	To bardzo ³adny kwiatek.
-guyall120	Ten kwiatek ³adnie pachnie.
-guyall121	Mimo, ¿e ³adnie to z kwiatkiem wygl¹da, lepiej to zabiorê.
+guyall104	Pachnie prawie jak tamta chusteczka...
+guyall105	...choæ ona pachnie bardziej jak œció³ka dla chomika,
+guyall106	...choæ ona pachnie bardziej jak œció³ka dla chomika.
+guyall107	i trochê rybniej.
+guyall108	...choæ ona pachnie trochê rybniej.
+guyall109	trochê rybniej,
+guyall110	...choæ ona pachnie trochê rybniej,
+guyall111	i trochê przyjemniej.
+guyall112	...choæ ona pachnie trochê przyjemniej.
+guyall113	trochê przyjemniej,
+guyall114	...choæ ona pachnie trochê przyjemniej,
+guyall115	i trochê b³otniej.
+guyall116	...choæ ona pachnie trochê b³otniej.
+guyall117	Có¿ za wyrazisty aromat!
+guyall118	Nie, wola³bym zachowaæ to dla siebie i wybranej grupy bliskich przyjació³.
+guyall119	Przyjemnie pachn¹cy kwiatek.
+guyall120	Bez w¹tpienia pachnie przyjemnie.
+guyall121	Chocia¿ mog³oby to wygl¹daæ lepiej z kwiatkiem, lepiej go zachowam.
 guyall122	No, i teraz moja mieszanka pachnie ju¿ lepiej.
-guyall123	Nic nie pachnie ³adniej!
-guyall124	To druga najwiêksza kaczka jak¹ w ¿yciu trzyma³em.
-ducall001	MoooOOO!
-guyall125	Mu? Czy jesteœ jak¹œ odmian¹ kaczko-krowy?
+guyall123	Nic nie pachnie lepiej ni¿ kwiaty.
+guyall124	To druga najwiêksza kaczka, jak¹ w ¿yciu mia³em w spodniach.
+ducall001	MuuuUUU!
+guyall125	Muu? Co z ciebie za kaczka?!
 ducall002	KWAAK!
-guyall126	Ew ... ale t³uste.
-guyall127	Chyba u¿ywano tego na te narzêdzie tortur.
-guyall128	Nie, i tak moja dieta jest ju¿ bardzo kaloryczna.
-guyall129	To jest ju¿ wystarczaj¹co t³uste.
-guyall130	Czegoœ mi tu brakuje.
-guyall131	Hej, patrz, hak pasuje jak ula³.
-guyall132	Na koñcu prêta jest haczyk.
+guyall126	Ale t³uste.
+guyall127	Myœlê, ¿e nak³adaj¹ to na te ¿elazne kolce, aby umo¿liwiæ p³ynne wbijanie...
+guyall128	Nie, mam doœæ t³uszczu po rybie z frytkami.
+guyall129	Jest ju¿ wystarczaj¹co t³uste.
+guyall130	Chyba czegoœ mu brakuje na górze.
+guyall131	Hej, ten hak pasuje jak ula³.
+guyall132	Na koñcu s³upa wetkniêto haczyk.
 guyall133	To pusty Pojemniczek.
-guyall134	Jest wype³niony przynêtami.
-guyall135	Mam kilka œwiec¹cych rybek zamkniêtych w œrodku.
-guyall136	Kici kici kici...
-guyall137	Phew! Lepiej zamknê je w œrodku póki rekiny nie zaczn¹ wêszyæ.
-guyall138	Nie, moje ma³e rybki mog¹ uciec, jeœli je uwolniê.
-guyall139	W¹tpiê, ¿eby te rybki chcia³y wp³yn¹æ do mojego pustego. Pojemniczka bez odpowiedniej motywacji.
-guyall140	No, a teraz moja przynêta pozostanie œwie¿a na d³u¿ej.
-guyall141	Nie wcisn¹ tam ju¿ wiêcej przynêty.
-guyall142	Lepiej tego nie otwieraæ, inaczej moje rybki mog¹ uciec.
-guyall143	Ju¿ jest ich wystarczaj¹co.
-guyall144	Ale to nie musi byæ œwie¿e ca³y czas!
-guyall145	To skradzione skarby z banku!
+guyall134	Pe³ny œmierdz¹cej przynêty.
+guyall135	W œrodku jest œwiec¹ca rybka.
+guyall136	Rybci, rybci, rybci...
+guyall137	Fiuu! Lepiej to zamknê, zanim przyci¹gnê rekiny.
+guyall138	Nie, rybka mi ucieknie, jeœli go otworzê.
+guyall139	Nie s¹dzê, by rybki tak po prostu wp³ynê³y do pustego Pojemniczka bez jakiejœ zachêty.
+guyall140	Teraz moja przynêta utrzyma œwie¿oœæ.
+guyall141	Ju¿ wiêcej tam nie wejdzie.
+guyall142	Lepiej nie otwieraæ bo rybka mi ucieknie.
+guyall143	Ju¿ coœ tam mam.
+guyall144	Có¿, to nie musi byæ œwie¿e.
+guyall145	To skradziony ³up z banku!
 guyall146	Hej, a to co?
 guyall147	Ma³a œrubka.
-guyall148	Idê o zak³ad, ¿e to nale¿y do nosa Pegnose'a!
-guyall149	Teraz mogê oczyœciæ swoje imiê!
-guyall150	Hmm, zastanawia mnie do czego ta œrubka mog³a by s³u¿yæ...
-guyall151	Nie jestem pewien jak móg³bym tego u¿yæ. Mo¿e kto inny wie...
-guyall152	To sztuczny nos!
-guyall153	Wolnoœæ coraz bli¿ej.
-guyall154	Nie. Mój w³asny nos dzia³a wystarczaj¹co dobrze.
+guyall148	Na pewno pasuje do protezy nosa Pegnose'a!
+guyall149	Teraz mogê oczyœciæ dobre imiê Guybrusha Threepwooda!
+guyall150	Hmm, zastanawia mnie do czego ta œrubka mog³a s³u¿yæ...
+guyall151	Nie jestem pewien, w co mam to wkrêciæ.
+guyall152	To proteza nosa!
+guyall153	Ale bez glutów!
+guyall154	Nie. Mój w³asny nos dzia³a bardzo dobrze.
 guyscu209	Dzieñ dobry, Panie Serze.
 navscu065	Tak?
 guyscu210	Witam, niechlujnie wygl¹daj¹cy piracie. Jestem Guybrush Threepwood, Potê¿ny Pirat.
@@ -6827,7 +6827,7 @@ guypop241	Nie wzi¹³em ze sob¹ ¿adnych drobnych...
 deapop298	Skoro tak, to lepiej bêdzie jeœli od³o¿ysz to na swoje miejsce, jasne?
 deapop299	Od³ó¿ to na miejsce, nêdzna szumowino.
 deapop300	Czy ja coœ s³ysza³em?
-guypop242	Nic, tylko przera¿aj¹c¹ melodie z mojej
+guypop242	Nie, tylko nawiedzaj¹ce melodie mojej pozytywki.
 guypop243	O nie... ta sztuczna jest zrobiona z porcelany. Brrr
 guypop244	Nie dotknê tego.
 guypop245	Co my tu mamy... gumowe palce...sztuczne wyrostki... metalowe jajniki... nie, tu nic ciekawego dla mnie.
@@ -8164,24 +8164,24 @@ guyall233	Lepiej, ¿ebym tu nie grzeba³, nie chcê wszêdzie zostawiaæ odcisków pal
 guyall234	Nie mam pojêcia co mam z tym zrobiæ. Ale mo¿e kto inny wie.
 guyall235	Tam nie ma nic, co mi sie przyda.
 guyall236	Na dnie tego ktoœ coœ wyskroba³...
-guyall237	Tutaj jest napisane, ¿e Mindy kocha Freda.
-guyall238	Tutaj jest napisane, ¿e Cindy kocha Freda.
-guyall239	Tutaj jest napisane, ¿e Wendy kocha Freda.
-guyall240	Tutaj jest napisane ¿e Mindy kocha Neda.
-guyall241	Tutaj jest napisane, ¿e Cindy kocha Neda.
-guyall242	Tutaj jest napisane, ¿e Wendy kocha Neda.
-guyall243	Tutaj jest napisane, ¿e Mindy kocha Jeda.
-guyall244	Tutaj jest napisane, ¿e Cindy kocha Jeda.
-guyall245	Tutaj jest napisane, ¿e Wendy kocha Jeda.
-guyall246	...ale obok tego jest napisane 'Jerry kocha Mindy.'
-guyall247	...ale obok tego jest napisane 'Jerry kocha Cindy.'
-guyall248	...ale obok tego jest napisane 'Jerry kocha Wendy.'
-guyall249	...ale obok tego jest napisane 'Larry kocha Mindy.'
-guyall250	...ale obok tego jest napisane 'Larry kocha Cindy.'
-guyall251	...ale obok tego jest napisane 'Larry kocha Wendy.'
-guyall252	...ale obok tego jest napisane 'Harry kocha Mindy.'
-guyall253	...ale obok tego jest napisane 'Harry kocha Cindy.'
-guyall254	...ale obok tego jest napisane 'Harry kocha Wendy.'
+guyall237	G³osi: "Mindy kocha Freda".
+guyall238	G³osi: "Cindy kocha Freda."
+guyall239	G³osi: "Wendy kocha Freda."
+guyall240	G³osi: "Mindy kocha Neda."
+guyall241	G³osi: "Cindy kocha Neda."
+guyall242	G³osi: "Wendy kocha Neda."
+guyall243	G³osi: "Mindy kocha Jeda."
+guyall244	G³osi: "Cindy kocha Jeda."
+guyall245	G³osi: "Wendy kocha Jeda."
+guyall246	...ale obok tego g³osi "Jerry kocha Mindy."
+guyall247	...ale obok tego g³osi "Jerry kocha Cindy."
+guyall248	...ale obok tego g³osi "Jerry kocha Wendy."
+guyall249	...ale obok tego g³osi "Larry kocha Mindy."
+guyall250	...ale obok tego g³osi "Larry kocha Cindy."
+guyall251	...ale obok tego g³osi "Larry kocha Wendy."
+guyall252	...ale obok tego g³osi "Harry kocha Mindy."
+guyall253	...ale obok tego g³osi "Harry kocha Cindy."
+guyall254	...ale obok tego g³osi "Harry kocha Wendy."
 guyall255	Nie powiem, to dziwne miejsce do wyra¿ania swojej mi³oœci.
 guyall256	W¹tpiê, by jej siê to podoba³o.
 guyall257	W¹tpiê, by mu siê to podoba³o.
@@ -8674,7 +8674,7 @@ guylua072	To nie jest normalny widok.
 guylua073	Tu jest mokro! Lepiej wybiorê inne miejsce.
 guylua074	Mo¿e usi¹dê tutaj.
 guylua075	Mmm! Pieczeñ ze œwini.
-guylua076	Hej, chwileczkê... Tutaj pisz¹, ¿e to wieprzowe sashimi.
+guylua076	Hej, chwileczkê... etykietka g³osi, ¿e to wieprzowe sashimi.
 guylua077	Ta œwinia jest surowa! Eugh!
 guylua078	Skoñczy³em z niegotowanymi œwiniami tydzieñ temu.
 guylua079	Jezu, tutaj w ogóle nie ma nastroju.
@@ -8737,7 +8737,7 @@ guysta032	A co to zmieni?
 guysta033	Nie zupe³nie.
 guysta034	Jaka ³adna pla¿a, tymczasowo.
 guysta035	Nie mam czasu na guzdranie siê po pla¿y.
-guysta036	Napis: "Wakacje ze Stanem"
+guysta036	G³osi: "Wakacje ze Stanem"
 guysta037	Biurko Stana jest na zewn¹trz. To na pewno z³y znak.
 guysta038	Nienawidzê pracy przed biurkiem!
 guysta039	...choæ przynajmniej jest ubezpieczone.
@@ -8784,7 +8784,7 @@ guyplt137	"Planeta Threepwood wygra³a Nagrodê Z³otej Ryby na Jambalaya". NieŸle.
 guyplt138	Kradzie¿ nagrody to nie to samo co jej wygrywanie.
 guyplt139	"Najlepsze (bo tylko tu) ryby - Planeta Threepwood." Wygl¹da na fajne miejsce.
 guyplt140	Chyba uda³o im siê znaleŸæ ró¿ne w³asnoœci Elaine...
-guyplt141	Rêkawiczki, jakieœ pozytywki, ro¿ki z plastiku... Elaine dosta³a by ataku jakby to zobaczy³a.
+guyplt141	Rêkawiczki, pozytywka, ro¿ki z plastiku... Elaine dosta³a by ataku jakby to zobaczy³a.
 guyplt142	Przynajmniej to miejsce ma bar.
 guyplt143	HEJ! To obraz przeklêtego pierœcienia z ostatniej czêœci... Ciekawe jak go zdobyli. No i te kaczko-kszta³tne urz¹dzenie.
 guyplt144	Te rzeczy ju¿ mi narobi³y doœæ k³opotów.
@@ -9065,7 +9065,7 @@ guyall303	Ma³a, metalowa, butelka po mleku.
 guyall304	Bezu¿yteczna.
 guyall305	Czy to tylko moja fantazja, czy wam te¿ siê wydaje, ¿e przypomina to kule do krêgi?
 guyall306	Jaka frajda jest w ¿onglowaniu jedn¹ rzecz¹?
-guyall307	Tutaj jest napisane "H.T."
+guyall307	G³osi: "H.T."
 guyall308	Nie gram na akordeonie.
 guyall309	Ale maleñka tarcza. Musia³a byæ u¿ywana do równie maleñkich wojen.
 guyall310	 
@@ -9174,7 +9174,7 @@ guygpt097	Osobiœcie preferuje grog w rozmiarze giga.
 guygpt098	Oooh. Piêkny kwiatek.
 guygpt099	Raczej pow¹tpiewam, ¿e taki kwiateczek pozwoli mi siê zbli¿yæ do zagadki Talizmanu Upokorzenia.
 guygpt100	Chyba w œrodku nic i nikogo nie ma.
-guygpt101	Napis mówi: " Wróæ póŸniej po MroŸnie JumboSoki Owocowe"
+guygpt101	Napis g³osi: " Wróæ póŸniej po MroŸnie JumboSoki Owocowe"
 guygpt102	"Dodane sk³adniki od¿ywcze dadz¹ ci du¿o energii ( i zapobiega szkorbutowi w 99% przypadków)! "
 guygpt103	Ta jasne, ja w³o¿ê tutaj kupon Ma³piego kufla, a potem bêdê mia³ z tego same k³opoty.
 guygpt104	Zrobiê to w swoim czasie.
@@ -9208,7 +9208,7 @@ guyall349	Teraz ludzie bêd¹ mogli pisaæ gdziekolwiek bêd¹, czy tego chc¹ czy nie
 guyall350	Wygl¹da mi na nowy... Ciekawe jak on siê znalaz³ przy tych wszystkich rodzinnych klejnotach.
 guyall351	Ju¿ mi wystarcza bi¿uterii jak na jedn¹ podró¿.
 guyall352	Widaæ coœ do pisania w œrodku.
-guyall353	To pióro piszê "Drugi Bank na Lucre".
+guyall353	Na piórze napis: "Drugi Bank na Mamonie".
 guyall354	Musia³o mu siê coœ przekrêciæ kiedy le¿a³ w skrzyni... Nie mogê uwierzyæ, ¿e Dziadek Marley to ukrad³.
 guyall355	Muszê mieæ na czym pisaæ.
 guyall356	Kiedy przychodzi co do czego to nie umiem malowaæ.
@@ -9248,7 +9248,7 @@ guyall389	To bez sensu...
 guyall390	PLLLPHHHTT!!  PTUI!
 guyall391	DOBRY SOS! Ale smak jest OKROPNY.
 guyall392	EUUGGUhhHH!
-guyall393	Tutaj pisze, ¿e jestem ca³kowicie sprawny fizycznie i mentalnie aby wyst¹piæ w œwiatowych zawodach nurkowania na Archipelagu Tri-Island.
+guyall393	G³osi, ¿e jestem ca³kowicie sprawny fizycznie i mentalnie aby wyst¹piæ w œwiatowych zawodach nurkowania na Archipelagu Trójwysp.
 guyall394	To mi nie pasuje.
 guyall395	Czuje siê jak kretyn, zak³adaj¹c to.
 guyall396	Pointy.
@@ -9396,7 +9396,7 @@ guyall495	To nie potrzebuje obrazu z map¹ na Wyspê Jambalaya.
 guyall496	To nie bêdzie wdziêczne za pomalowanie.
 guyall497	Podobnie jak na Pani Stoczni, na mnie te¿ to nie robi ¿adnego wra¿enia.
 guyall498	Nie! To mój grog!
-guyall499	Tu jest napisane, ¿e mo¿na to wymieniaæ tylko z rzeczami od Planety Threepwood.
+guyall499	G³osi, ¿e mo¿na to wymieniaæ tylko z rzeczami od Planety Threepwood.
 guyall500	Nic na tym nie ma.
 guyall501	Kiedyœ ju¿ tutaj by³em.
 guyall502	No niby wygl¹daj¹ podobnie, ale ludzie a¿ tak g³upi nie s¹.
@@ -9792,7 +9792,7 @@ h1gb025	Rzeczywiœcie. Fajna sztuczka?
 h1ch027	Mwah-hah-haaaa!
 h1el029a	Charles, ty manipulacyjna gnido.
 h1el029b	wynoœ siê z mojego domu zanim naœle na ciebie moje piranie pudle!
-h1gb028	Yipes!
+h1gb028	Jejku!
 h1ch030	Tak, tak, ale teraz Pani Marley
 h1gb031	Threepwood
 h1ch032	czy zna pani jakiœ inny sposób na komunikowanie siê z Gubernatorem Wyspy Szpady?
@@ -10154,12 +10154,12 @@ txtall222	SHIFT
 txtall001	Symbolu Gubernatora Wyspy Szpady
 txtall002	Obejrzyj:
 txtall003	list gubernatora
-txtall004	kontrakt o ciep³¹ rz¹dkow¹ posadkê
-txtall005	kontrakt o ciep³¹ rz¹dkow¹ posadkê (podpisany)
+txtall004	intratna umowa o pracê w urzêdzie
+txtall005	podpisana intratna umowa o pracê w urzêdzie
 txtall006	U¿yj:
 txtall007	z:
-txtall008	kontrakt o rz¹dow¹ posadkê
-txtall009	kontrakt o rz¹dow¹ posadkê(podpisany)
+txtall008	umowa o pracê w urzêdzie
+txtall009	podpisana umowa o pracê w urzêdzie
 txtall010	dziurawa dêtka
 txtall011	miska precelków
 txtall012	Jedz:
@@ -10167,7 +10167,7 @@ txtall013	U¿yj:
 txtall014	drink-menu
 txtall015	Czytaj:
 txtall016	list
-txtall017	mieszak
+txtall017	mieszek
 txtall018	WeŸ:
 txtall019	pozytywka
 txtall020	Graj:
@@ -10679,8 +10679,8 @@ txtgme020	rezydencja
 txtgme021	Szpada
 txtgme022	IdŸ do:
 txtgmi001	Elaine
-txtgmi002	wygodna umowe o prace u gubernatora (podpisana)
-txtgmi003	umowe o prace u gubenatora (podpisana)
+txtgmi002	podpisana intratna umowa o pracê w urzêdzie
+txtgmi003	podpisana umowa o pracê w urzêdzie
 txtgmi004	szafe
 txtgmi005	ladny obraz
 txtgmi006	portet Elaine

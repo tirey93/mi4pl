@@ -604,7 +604,7 @@ msgstr "Chwila! To standardowa umowa rządowa dla ROBOTNIKÓW, bez systemu emery
 
 msgctxt "clamel006"
 msgid "Hey, you're right!  We want a CUSHY government contract, with a desk!"
-msgstr "Hej, racja! Żądamy DOGODNEJ umowy rządowej i własnego biurka!"
+msgstr "Hej, racja! Żądamy INTRATNEJ umowy w urzędzie i własnego biurka!"
 
 msgctxt "otimel003"
 msgid "Come back when you got something that doesn't involve back-breaking labor."
@@ -636,7 +636,7 @@ msgstr "Carla, rozumiesz chociaż połowę z tych bzdur?"
 
 msgctxt "clamel010"
 msgid "Not a clue.  But look, it says 'cushy' in the title!"
-msgstr "Ni w ząb. Ale tytuł głosi ”dogodna”!"
+msgstr "Ni w ząb. Ale tytuł głosi ”intratna”!"
 
 msgctxt "otimel006"
 msgid "Well, all right then!"
@@ -1616,7 +1616,7 @@ msgstr "Chyba nie jest skory do dzielenia się preclami."
 
 msgctxt "guyscu211"
 msgid "It says 'Happy Birthday'."
-msgstr "”Sto lat”."
+msgstr "Głosi ”Sto lat”."
 
 msgctxt "guyscu212"
 msgid "Nah, it's probably the only thing this poor guy has to his name."
@@ -1816,7 +1816,7 @@ msgstr "Moja charyzma zużyła się w podróży poślubnej."
 
 msgctxt "guygmi007"
 msgid "I'm not sure.  I just have a hunch that a signed government contract might be useful."
-msgstr "Sam nie wiem, ale przeczuwam, że podpisany kontrakt rządowy może się przydać."
+msgstr "Sam nie wiem, ale przeczuwam, że podpisana umowa może się przydać."
 
 msgctxt "el1gmi007"
 msgid "Oh, all right, let me sign it."
@@ -2636,7 +2636,7 @@ msgstr "Wszyscy wiedzą, że tajemniczy zagraniczny inwestor wykupił wszystkie 
 
 msgctxt "guymel053"
 msgid "...cushy government jobs!"
-msgstr "... ciepłą rządową posadkę!"
+msgstr "... intratną posadkę w urzędzie!"
 
 msgctxt "clamel034"
 msgid "Hmmm.  That sounds interesting."
@@ -2648,7 +2648,7 @@ msgstr "Carla, co ty robisz?"
 
 msgctxt "clamel035"
 msgid "What kind of cushy government jobs are we talking about?"
-msgstr "A o jakiej rządowej posadce mówimy?"
+msgstr "A o jak intratnej posadce mówimy?"
 
 msgctxt "guymel054"
 msgid "You know, the kind where you're paid three times the going private sector rate..."
@@ -6048,7 +6048,7 @@ msgstr "\"Sprzedane\"."
 
 msgctxt "guyshi028"
 msgid "It says 'Ship for Sale'."
-msgstr "\"Statek na sprzedaż\"."
+msgstr "Głosi \"Statek na sprzedaż\"."
 
 msgctxt "guyshi029"
 msgid "Watch the bottle drop!"
@@ -6112,7 +6112,7 @@ msgstr "\"Woskowy Dom Mięshaka\"."
 
 msgctxt "guymhe003"
 msgid "Hmm... it says 'Wax Show'.  I wonder if they're showing 'Mad Wax: Beehive Warrior'."
-msgstr "Hmm... \"Pokaz wosku\". Ciekawe, czy pokażą \"Mad Wosk: Wojownik Pszczół\"."
+msgstr "Hmm... głosi: \"Pokaz wosku\". Ciekawe, czy pokażą \"Mad Wosk: Wojownik Pszczół\"."
 
 msgctxt "guymhe004"
 msgid "Hey look!  A full moon!"
@@ -6252,7 +6252,7 @@ msgstr "Pyskataś jak na chwalebnego obserwatora pąkli, wiesz?"
 
 msgctxt "habshi033"
 msgid "You're just jealous of my cushy government job."
-msgstr "Zazdrościsz mi po prostu dogodnej posadki."
+msgstr "Zazdrościsz mi po prostu intratnej posadki."
 
 msgctxt "habshi034"
 msgid "It would be even better if I didn't have to put up with the likes of you."
@@ -7432,11 +7432,11 @@ msgstr "Spoko. Coś jeszcze?"
 
 msgctxt "guytri001"
 msgid "Mister Cheese, shouldn't we steer away from those dark, portentous clouds?"
-msgstr "Panie Ser, nie powinniśmy opłynąć te ciemne i niebezpieczne chmur?"
+msgstr "Panie Ser, nie powinniśmy ominąć tych ciemnych i złowieszczych chmur?"
 
 msgctxt "navtri001"
 msgid "Nonsense, Captain.  A little rain never hurt anyone."
-msgstr "Głupstwa, kapitanie. Mrzawka nikomu nie zaszkodziła."
+msgstr "Głupstwa, kapitanie. Mżawka nikomu nie zaszkodziła."
 
 msgctxt "otitri001"
 msgid "Aiiieeee!"
@@ -7456,11 +7456,11 @@ msgstr " "
 
 msgctxt "navtri003"
 msgid "Batten down the hatches!"
-msgstr "Zamknąć właz ładowni!"
+msgstr "Opuścić włazy!"
 
 msgctxt "otitri002"
 msgid "Rig for silent running!"
-msgstr "Wszyscy pod pokład!"
+msgstr "Otaklować kadłub!"
 
 msgctxt "clatri002"
 msgid "Shorten sail!"
@@ -7468,11 +7468,11 @@ msgstr "Wciągnąć żagle!"
 
 msgctxt "navtri004"
 msgid "Clear the scuppers!"
-msgstr "Opróżnić toalety!"
+msgstr "Opróżnić nocniki!"
 
 msgctxt "otitri003"
 msgid "Drain the bilges!"
-msgstr "Odsączyć zeze!"
+msgstr "Odsączyć zęzę!"
 
 msgctxt "clatri003"
 msgid "Get your hands off me!"
@@ -7480,7 +7480,7 @@ msgstr "Gdzie z łapami!"
 
 msgctxt "guytri003"
 msgid "Sorry, baby."
-msgstr "Sory, mała."
+msgstr "Sorry, mała."
 
 msgctxt "otitri004"
 msgid "My turn to drive!"
@@ -7488,7 +7488,7 @@ msgstr "Teraz ja prowadzę!"
 
 msgctxt "navtri005"
 msgid "Cry havoc, and let slip the dogs of war!"
-msgstr "Płaczcie łzami wojny, psy morskie!"
+msgstr "Krwawi zamęt i spuśćcie psy wojny!"
 
 msgctxt "clatri004"
 msgid "Release the kraken!"
@@ -7500,7 +7500,7 @@ msgstr "Nie po twarzy! Nie po twarzy!"
 
 msgctxt "navtri006"
 msgid "Oh, the ship canna stand the strain, Cap'n!"
-msgstr "Armaty dłużej tak nie wytrzymają, kapitanie!"
+msgstr "Statek dłużej nie pociągnie, kapitanie!"
 
 msgctxt "otitri005"
 msgid "Monkeys, monkeys, monkeys!"
@@ -7512,7 +7512,7 @@ msgstr "Nie ma to jak w domu, nie ma to jak w domu..."
 
 msgctxt "otitri006"
 msgid "This was only supposed to be a three-hour tour!"
-msgstr "To miałbyć trzygodzinny rejs!"
+msgstr "To miał być tylko trzygodzinny rejs!"
 
 msgctxt "guytri006"
 msgid "Mister Cheese, wouldn't it be easier to sail AROUND that typhoon on the horizon?"
@@ -7520,7 +7520,7 @@ msgstr "Panie Ser, a nie byłoby prościej żeglować Z DALA od tego tajfunu na 
 
 msgctxt "navtri007"
 msgid "Arrrr, where'd be the fun in that, Captain?"
-msgstr "A co by było w tym zabawnego, kapitanie?"
+msgstr "Arrrr, a gdzie w tym zabawa, kapitanie?"
 
 msgctxt "guylaw001"
 msgid "Um, excuse me.  Is this..."
@@ -8324,7 +8324,7 @@ msgstr "W ten sposób pozbyłem się moich zepsutych przynęt."
 
 msgctxt "guybas025"
 msgid "Hmmm... the fine print says. 'May not be fit for human or animal consumption.'"
-msgstr "Ten wydruk mówi: \"Nie stosować do komsumpcji na ludziach oraz na zwierzętach\"."
+msgstr "Ten wydruk głosi: \"Nie stosować do konsumpcji na ludziach oraz na zwierzętach\"."
 
 msgctxt "guybas026"
 msgid "Even if I LIKED caviar, I wouldn't take that stuff!"
@@ -8880,7 +8880,7 @@ msgstr "Na tym jest mnóstwo krwi innych ludzi."
 
 msgctxt "guyhoj032"
 msgid "It says 'Contra Leges Marinas Latrocinium maris est.'"
-msgstr "Tu pisze \"Contra Leges Marinas Latrocinium Maris Est\"."
+msgstr "Głosi: \"Contra Leges Marinas Latrocinium Maris Est\"."
 
 msgctxt "guyhoj033"
 msgid "Eh, I think that means..."
@@ -10816,7 +10816,7 @@ msgstr "Hej, czy to nie David Copperfield?"
 
 msgctxt "guyluc155"
 msgid "Yipes, there's a spider on your shoulder!"
-msgstr "O nie, masz wielkiego skorpiona na ramieniu!"
+msgstr "Jejku, masz wielkiego skorpiona na ramieniu!"
 
 msgctxt "guyluc156"
 msgid "Wow, look at all those candy bars!"
@@ -11104,7 +11104,7 @@ msgstr "Hej, czy to nie David Copperfield?"
 
 msgctxt "guyluc036"
 msgid "Yipes, there's a scorpion on your shoulder!"
-msgstr "O nie, masz wielkiego skorpiona na ramieniu!"
+msgstr "Jejku, masz wielkiego skorpiona na ramieniu!"
 
 msgctxt "guyluc037"
 msgid "Look over there, it's something interesting!"
@@ -11820,7 +11820,7 @@ msgstr "Gorzej, turystów!"
 
 msgctxt "guybas070"
 msgid "Yipes!"
-msgstr ""
+msgstr "Jejku!"
 
 msgctxt "baibas055"
 msgid "There aren't many of 'em around today, but ya hang around for a week, and they'll pop up like a bloated corpse in a calm sea."
@@ -12156,7 +12156,7 @@ msgstr "Dlaczego nie możesz wejść do środka?"
 
 msgctxt "manluc019"
 msgid "The Inspector says that it's a crime scene, and needs to remain sealed until the case is closed."
-msgstr "Inspektor  mówi, że to miejsce zbrodni i nie pozwala zostawiać śladów póki nie skończy sprawy."
+msgstr "Inspektor mówi, że to miejsce zbrodni i nie pozwala zostawiać śladów póki nie skończy sprawy."
 
 msgctxt "guyluc086"
 msgid "Let's break in!"
@@ -17824,7 +17824,7 @@ msgstr "Wow, to był szalony rejs."
 
 msgctxt "otigpt001"
 msgid "NO cushy government job is worth this much grief."
-msgstr "Żadna ciepła posadka nie jest warta takiego zachodu."
+msgstr "Żadna intratna posadka nie jest warta takiego zachodu."
 
 msgctxt "guygpt030"
 msgid "Welcome to Jambalaya Island™, home of swashbuckling pirates and spooooky voodoo curses!"
@@ -23256,15 +23256,15 @@ msgstr "<kwak> NigdzieNigdzieNigdzieNigdzie!"
 
 msgctxt "daishi015"
 msgid "Suits me fine...hey, who painted me pink?"
-msgstr "Wspaniale, ale dlaczego pomalowano nie na różowo?"
+msgstr "Nieźle... hej, kto mnie tak pomalował?"
 
 msgctxt "navscu055"
 msgid "Congratulations.  You got yourself a navigator."
-msgstr "Gratuluje, masz osobistego nawigatora."
+msgstr "Gratuluję, masz osobistego nawigatora."
 
 msgctxt "guyall001"
 msgid "It's the official symbol of the governor's office."
-msgstr "To oficjalny symbol biura gubernatora."
+msgstr "To oficjalny symbol urzędu gubernatora."
 
 msgctxt "guyall002"
 msgid "Nah."
@@ -23272,7 +23272,7 @@ msgstr "Nie."
 
 msgctxt "guyall003"
 msgid "The header says: 'Męlée Government Employment Contract -- Cushy Edition'"
-msgstr "Nagłówek mówi: \" Kontrakt na prace u Gubernatora w Szpada\"."
+msgstr "Nagłówek głosi: \" Umowa Zatrudnienia w urzędzie Szpady -- Wersja Intratna\"."
 
 msgctxt "guyall004"
 msgid "Yoink!"
@@ -23280,23 +23280,23 @@ msgstr ""
 
 msgctxt "guyall005"
 msgid "The header says: 'Męlée Government Employment Contract'"
-msgstr "Nagłówek mówi: \"Kontrakt zawarcia pracy u gubernatora\""
+msgstr "Nagłówek głosi: \" Umowa Zatrudnienia w urzędzie Szpady\"."
 
 msgctxt "guyall006"
 msgid "No one will care if I take this."
-msgstr "Nikt się nie kapnie, jak to wezmę."
+msgstr "Nikomu nie szkodzę, jak to wezmę."
 
 msgctxt "guyall007"
 msgid "Oh, this inner tube has no use here."
-msgstr "Ta dętka sie tu nie przyda."
+msgstr "Ta dętka się tu nie przyda."
 
 msgctxt "guyall008"
 msgid "Mmmm... kudu jerky pretzels..."
-msgstr "Mmmmm ... Precelki \"Kudu-Jerky\""
+msgstr "Mmmmm... precelki \"Kudu-Jerky\"..."
 
 msgctxt "guyall009"
 msgid "It's an empty pretzel bowl."
-msgstr "Ta miska na precelki jest pusta."
+msgstr "Pusta miska na precelki."
 
 msgctxt "guyall010"
 msgid "(munch munch)"
@@ -23304,7 +23304,7 @@ msgstr "<żuje, żuje>"
 
 msgctxt "guyall011"
 msgid "<Sigh>  I wish I had some grog to wash that down with."
-msgstr "<wzdycha> Przydałby sie łyk zimnego grogu do popicia."
+msgstr "Przydałby się łyk zimnego grogu do popicia."
 
 msgctxt "guyall012"
 msgid "There's nothing but crumbs left."
@@ -23316,63 +23316,63 @@ msgstr "Jeśli będę chodził i rozdawał to na prawo i lewo, nic dla mnie nie 
 
 msgctxt "guyall014"
 msgid "It has all sorts of exciting tropical drink suggestions."
-msgstr "Jest tu wiele rodzajów egzotycznych drinków."
+msgstr "Zawiera różnego rodzaju propozycje tropikalnych drinków."
 
 msgctxt "guyall015"
 msgid "I don't have a full bar."
-msgstr "Nie mam baru."
+msgstr "Nie mam barku."
 
 msgctxt "guyall016"
 msgid "Hmmm let's see what it says..."
-msgstr "Hmm. Ciekawe co jest w środku..."
+msgstr "Hmm. Zajrzyjmy..."
 
 msgctxt "guyall017"
 msgid "<Ahem>  My dearest Elaine,"
-msgstr "<Ahem> Moja kochana Elaine,"
+msgstr "Moja kochana Elaine,"
 
 msgctxt "guyall018"
 msgid "If you are reading this, then you are married, and I am dead."
-msgstr "jeśli to czytasz, to już się ożeniłaś a ja już jestem martwy."
+msgstr "jeśli to czytasz, to już wyszłaś za mąż a ja jestem martwy."
 
 msgctxt "guyall019"
 msgid "Now that you've finally settled down with a fearless pirate husband,"
-msgstr "Teraz, kiedy już ostatecznie związałaś się z nieustraszonym piratem-mężem,"
+msgstr "Teraz, gdy w końcu ustatkowałaś się z nieustraszonym mężem piratem,"
 
 msgctxt "guyall020"
 msgid "it's time for you to claim the final pieces of your family's heritage."
-msgstr "czas pokazać ci ostatni kawałek rodzinnej układanki."
+msgstr "nadszedł czas, abyś upomniała się o ostatnie elementy naszego dziedzictwa."
 
 msgctxt "guyall021"
 msgid "At the Lucre Island™ Municipal Bank, you'll find a safe deposit chest under my name."
-msgstr "W Banku Wyspy Mamony znajdziesz skrzynie pod moim nazwiskiem."
+msgstr "W Banku Wyspy Mamony znajdziesz depozyt pod moim nazwiskiem."
 
 msgctxt "guyall022"
 msgid "Among other things, the chest contains the deed to the Marley Mansion."
-msgstr "Poza innymi rzeczami, skrzynia zawiera akt notarialny dotyczący Posiadłości Marleyów."
+msgstr "W skrzyni znajdziesz między innymi akt własności posiadłości Marleyów."
 
 msgctxt "guyall023"
 msgid "Never lose sight of this deed."
-msgstr "Masz jej pilnować jak oka w głowie."
+msgstr "Pilnuj go jak oka w głowie."
 
 msgctxt "guyall024"
 msgid "Furthermore, the chest also contains my wedding gifts to you."
-msgstr "Ponadto, skrzynia ma w sobie podatki ode mnie z okazji zamążpójścia."
+msgstr "Co więcej, skrzynia zawiera również prezenty ślubne dla ciebie."
 
 msgctxt "guyall025"
 msgid "I'm sorry that I was unable to deliver them in person,"
-msgstr "Przepraszam, że nie mogłem doręczyć ich osobiście."
+msgstr "Przepraszam, że nie mogłem wręczyć Ci ich osobiście."
 
 msgctxt "guyall026"
 msgid "But I go to my grave confident that you've chosen a man I would be proud to call 'grandson.'"
-msgstr "Ale jestem naprawdę pewny, że wybrałaś odpowiedniego mężczyznę abym mógł go nazywać wnuczkiem."
+msgstr "Ale stoję na grobem z przekonaniem, że wybrałaś człowieka, którego z dumą mógłbym nazywać \"wnukiem\"."
 
 msgctxt "guyall027"
 msgid "Lastly, and most importantly, the chest contains the keys to the most terrifying secret in the Caribbean;"
-msgstr "Na koniec i co najważniejsze, skrzynia zawiera klucz do najbardziej przerażającego sekretu Karaibów:"
+msgstr "Wreszcie, co najważniejsze, skrzynia zawiera klucze do najbardziej przerażającego sekretu na Karaibach."
 
 msgctxt "guyall028"
 msgid "a secret ten times as terrifying as Big Whoop.  The Secret of..."
-msgstr "Tajemnicy sto razy bardziej przerażającej niż MegaŁup. Tajemnicy zwanej..."
+msgstr "Tajemnicy dziesięć razy gorszej niż Big Whoop. Tajemnicy zwanej..."
 
 msgctxt "guyall029"
 msgid "The ULTIMATE INSULT!"
@@ -23380,35 +23380,35 @@ msgstr "TALIZMANEM Upokorzenia!"
 
 msgctxt "guyall030"
 msgid "Yipes!"
-msgstr ""
+msgstr "Jejku!"
 
 msgctxt "guyall031"
 msgid "If the unholy power of the Ultimate Insult ever found its way into the wrong hands,"
-msgstr "Jeśli straszliwa moc Talizmanu Upokorzenia znalazłaby się w niewłaściwych rękach..."
+msgstr "Gdyby nikczemna moc Talizmanu Upokorzenia kiedykolwiek trafiła w niepowołane ręce,"
 
 msgctxt "guyall032"
 msgid "there's no telling what sorts of heck-spawned mischief could be unleashed upon our fun-loving pirate citizens!"
-msgstr "trudno powiedzieć jaki byłby przerażający wpływ na niczego niespodziewających się piratów!"
+msgstr "nie wiadomo, jakiego rodzaju zrodzone z piekła krzywdy mogłyby zostać wyzwolone na wszystkich rozrywkowych piratach!"
 
 msgctxt "guyall033"
 msgid "Guard these secrets with your life, and know that, no matter where you are, your grandfather is watching over you."
-msgstr "Strzeż tego sekretu przez całe życie i wiedz, że gdziekolwiek jesteś, twój dziadek ciągle nad tobą czuwa."
+msgstr "Strzeż tych sekretów przez całe życie i wiedz, że gdziekolwiek jesteś, twój dziadek ciągle nad tobą czuwa."
 
 msgctxt "guyall034"
 msgid "With all my love,"
-msgstr "Pozdrawiam,"
+msgstr "Z miłością,"
 
 msgctxt "guyall035"
 msgid "Horatio Torquemeda Marley."
-msgstr ""
+msgstr "Horatio Torquemeda Marley."
 
 msgctxt "guyall036"
 msgid "How sweet."
-msgstr "Jak cudownie."
+msgstr "Słodko."
 
 msgctxt "guyall037"
 msgid "Uh, P.S. If your deadbeat parents come around looking for a handout, tell 'em to take a long walk off a short gangplank!"
-msgstr "Uh. P.S.: Jeśli Twoja matka będzie się kręciła koło moich pamiątek, przekaż jej ode mnie, żeby sobie zrobiła długi spacer po molo."
+msgstr "P.S. Jeśli twoi spłukani rodzice przyjdą w poszukiwaniu jałmużny, powiedz im, żeby zrobili sobie długi spacer po krótkiej kładce!"
 
 msgctxt "guyall038"
 msgid "Let's see..."
@@ -23416,23 +23416,23 @@ msgstr "Spójrzmy...."
 
 msgctxt "guyall039"
 msgid "Blah blah blah Lucre Bank..."
-msgstr "Blablabla w Lucre Banku..."
+msgstr "Blablabla w Banku Mamony..."
 
 msgctxt "guyall040"
 msgid "...Yadda yadda safe deposit chest..."
-msgstr "... blablabla w skrytce ..."
+msgstr "... blablabla w skrzynia w depozycie ..."
 
 msgctxt "guyall041"
 msgid "...Deed to the Mansion: Good..."
-msgstr "... papier na posiadłość. Dobrze.."
+msgstr "... akt własności posiadłości. Dobrze.."
 
 msgctxt "guyall042"
 msgid "...Wedding gifts: Good..."
-msgstr "... oraz prezenty ślubne. Dobrze ..."
+msgstr "... prezenty ślubne. Dobrze ..."
 
 msgctxt "guyall043"
 msgid "...Ultimate Insult: Bad..."
-msgstr "... Talizmanem Upokorzenia. A niech to ..."
+msgstr "... Talizman Upokorzenia. Źle..."
 
 msgctxt "guyall044"
 msgid "Yours truly, H.T. Marley."
@@ -23440,11 +23440,11 @@ msgstr "Z poważaniem H.T Marley."
 
 msgctxt "guyall045"
 msgid "It's a codpiece in like-new condition!"
-msgstr "Wygląda na w niezłym stanie!"
+msgstr "Mieszek jest w stanie idealnym!"
 
 msgctxt "guyall046"
 msgid "Hey, there's a bottle of fine grog behind this codpiece."
-msgstr "Hej, za pozytywką widać jakąś butelkę grogu."
+msgstr "Hej, za mieszkiem widać butelkę niezłego grogu."
 
 msgctxt "guyall047"
 msgid "No, I don't think so."
@@ -23452,15 +23452,15 @@ msgstr "Nie, raczej nie."
 
 msgctxt "guyall048"
 msgid "That doesn't need a codpiece."
-msgstr "Co mam teraz z tym zrobić?"
+msgstr "Nie potrzeba tu mieszka."
 
 msgctxt "guyall049"
 msgid "It's a cute little music box."
-msgstr "Muzyka w takim małym przedmiocie."
+msgstr "Urocza, mała pozytywka."
 
 msgctxt "guyall050"
 msgid "Hey, there's a bottle of fine grog behind this music box."
-msgstr "Hej, nawet ta butelka jest za mała na pozytywkę!"
+msgstr "Hej, za pozytywką widać butelkę niezłego grogu."
 
 msgctxt "guyall051"
 msgid "It's a broken sword"
@@ -23468,11 +23468,11 @@ msgstr "Złamany miecz."
 
 msgctxt "guyall052"
 msgid "It's an old, cracked sword."
-msgstr "To stary i złamany miecz."
+msgstr "Stary, pęknięty miecz."
 
 msgctxt "guyall053"
 msgid "It's a whole heck of a lot of sponges."
-msgstr "Ale dużo gąbek."
+msgstr "W cholerę tu gąbek."
 
 msgctxt "guyall054"
 msgid "It's a bunch of sponges."
@@ -23480,59 +23480,59 @@ msgstr "Masa gąbek!"
 
 msgctxt "guyall055"
 msgid "It's a small handful of sponges."
-msgstr "Gąbki w garść."
+msgstr "Mała garść gąbek."
 
 msgctxt "guyall056"
 msgid "It's a bottle of the '67 Chateau de Spittle.  A fine vintage grog with an insouciant flavor and a saucy aftertaste."
-msgstr "Oo, butelka wina z roku 67. Świetny rocznik, zapach starego wina z posmakiem grogu."
+msgstr "To butelka Chateau de Spittle z 67 roku. Doskonały grog vintage o nonszalanckim smaku i soczystym posmaku."
 
 msgctxt "guyall057"
 msgid "Hey, there's a little pile of sponges under this."
-msgstr "Hej, tam jest kilka gąbek."
+msgstr "Hej, pod tym jest mały stosik gąbek."
 
 msgctxt "guyall058"
 msgid "No thanks, that thing reeks!"
-msgstr "Nie dzięki, tak stary grog na pewno ma wiele nie proszonych organizmów."
+msgstr "Nie dzięki, to coś śmierdzi!"
 
 msgctxt "guyall059"
 msgid "It smells somewhat like hickory smoked fish."
-msgstr "Śmierdzi jak lekko spalona ryba."
+msgstr "Pachnie trochę jak ryba wędzona w hikorze."
 
 msgctxt "guyall060"
 msgid "It smells sort of like flowers growing in a cesspool."
-msgstr "Śmierdzi trochę jak kwiaty rosnące na szambie."
+msgstr "Pachnie trochę jak kwiaty rosnące w szambie."
 
 msgctxt "guyall061"
 msgid "It smells a little like fish snot."
-msgstr "Śmierdzi jak ryba..trochę stara."
+msgstr "Pachnie trochę jak rybie smarki."
 
 msgctxt "guyall062"
 msgid "It smells a tiny bit like a corpse floating in a bog."
-msgstr "Śmierdzi trochę jak zwłoki rozkładające się na bagnach."
+msgstr "Pachnie trochę jak zwłoki pływające w bagnie."
 
 msgctxt "guyall063"
 msgid "Smells kinda like a lumberjack wiped his armpits with it."
-msgstr "Śmierdzi zupełnie jak drwal z lekko spoconymi pachami."
+msgstr "Pachnie tak, jakby drwal wytarł nim pachy."
 
 msgctxt "guyall064"
 msgid "It has the faintest whiff of something nice, though."
-msgstr "To ma taki ładny aromat czegoś brudnego."
+msgstr "Choć ma słabą woń czegoś miłego."
 
 msgctxt "guyall065"
 msgid "This hanky has 'P.P.' embroidered on it."
-msgstr "Chusteczka z wygrawerowanym napisem P.P"
+msgstr "Na tej chusteczce wyhaftowano \"P.P.\""
 
 msgctxt "guyall066"
 msgid "I highly doubt that THIS belonged to Grandpa Marley."
-msgstr "Zaczynam wątpić że Marley to mój dziadek."
+msgstr "Szczerze wątpię, że TO należy do dziadka Marleya."
 
 msgctxt "guyall067"
 msgid "It's a little dead fish used for fishing bait."
-msgstr "To mała rybka używana jako przynęta."
+msgstr "To zdechła rybka używana jako przynęta."
 
 msgctxt "guyall068"
 msgid "Ewww..."
-msgstr ""
+msgstr "Ewww..."
 
 msgctxt "guyall069"
 msgid "It's sharp and hooky."
@@ -23544,7 +23544,7 @@ msgstr "Auć. Ostre."
 
 msgctxt "guyall071"
 msgid "Nah, that doesn't need to get hooked."
-msgstr "Istnieją rzeczy, które nie powinny wisieć na haku."
+msgstr "Nie trzeba tego nadziewać."
 
 msgctxt "guyall072"
 msgid "It's a wooden hand."
@@ -23552,11 +23552,11 @@ msgstr "Drewniana ręka."
 
 msgctxt "guyall073"
 msgid "It's a wooden hand infested with termites."
-msgstr "To drewniana ręka pokryta termitami."
+msgstr "To drewniana ręka zaatakowana przez termity."
 
 msgctxt "guyall074"
 msgid "It's a chewed up wooden hand."
-msgstr "Zgniła drewniana ręka."
+msgstr "Przeżuta drewniana ręka."
 
 msgctxt "guyall075"
 msgid "I'm using the hand."
@@ -23564,51 +23564,51 @@ msgstr "Mam już rękę."
 
 msgctxt "guyall076"
 msgid "It looks pretty life-like, but it feels too stretchy to be real."
-msgstr "Wygląda całkiem porządnie, ale jakoś mam za długą rękę."
+msgstr "Wygląda jak żywy ale jest za rozciągliwy, by być prawdziwy."
 
 msgctxt "guyall077"
 msgid "No thanks.  My skin is perfectly fine the way it is."
-msgstr "Nie dzięki. Moja skóra jest idealna i nie trzeba jej zmieniać."
+msgstr "Nie dzięki. Moja skóra jest już idealna."
 
 msgctxt "guyall078"
 msgid "They're directions to Pegnose Pete's house."
-msgstr "Ta droga zaprowadzi mnie do domu Pegnose'a."
+msgstr "To wskazówki do domu Pegnose'a Pete'a."
 
 msgctxt "guyall079"
 msgid "Weird.  Looks more like a train schedule to me."
-msgstr "Dziwne, dla mnie to bardziej przypomina rozkład jazdy."
+msgstr "Dziwne. Bardziej przypominają rozkład jazdy."
 
 msgctxt "guyall080"
 msgid "The name on it says..."
-msgstr "Nagłówek mówi..."
+msgstr "Nazwa głosi..."
 
 msgctxt "guyall081"
 msgid "It has all sorts of useless information, such as: prosthetic prescriptions, address, phone number, allergies..."
-msgstr "Wiele nieprzydatnych rzeczy: przepisy na ciasto, adresy, telefony, dziennik chorób..."
+msgstr "Wiele nieprzydatnych informacji jak: recepty na protezy, adres, numer telefonu, alergie..."
 
 msgctxt "guyall082"
 msgid "This cane has an almost imperceptible crack in it."
-msgstr "Lepiej to zatrzymam, może mi się jeszcze przydać."
+msgstr "Ta laska ma prawie niezauważalne pęknięcie."
 
 msgctxt "guyall083"
 msgid "Hey!  I can hear the termites.  Must be dinner time."
-msgstr "Hej! Słyszę termity! To musi być ich kolacja."
+msgstr "Hej! Słyszę termity! Pewnie mają obiad."
 
 msgctxt "guyall084"
 msgid "It's a pile of sawdust."
-msgstr "To tylko wiórki po drewnie."
+msgstr "To kupa trocin."
 
 msgctxt "guyall085"
 msgid "If I had a hamster, I could use this stuff for bedding."
-msgstr "Jeśli miałbym chomika, mógłbym użyć tego jako wyściółki."
+msgstr "Gdybym miał chomika, mógłbym ich użyć jako ściółki."
 
 msgctxt "guyall086"
 msgid "There, that should make the concoction smell interesting."
-msgstr "Tak, a to pachnie niesamowicie ciekawie."
+msgstr "To powinno sprawić, że mikstura będzie pachnieć interesująco."
 
 msgctxt "guyall087"
 msgid "Nothing smells better than cedar cologne."
-msgstr "Nic nie pachnie lepiej niż serowa woda po goleniu."
+msgstr "Nic nie pachnie lepiej niż cedrowa woda kolońska."
 
 msgctxt "guyall088"
 msgid "It's a full bottle of perfume."
@@ -23620,11 +23620,11 @@ msgstr "Nosi nazwę Eau de LeChuck."
 
 msgctxt "guyall090"
 msgid "'Now you can smell like the most infamous pirate the Caribbean has ever known.'"
-msgstr "\"Teraz możesz śmierdzieć jak najbardziej nieżywy pirat jakiego znały Karaiby\""
+msgstr "\"Teraz możesz pachnieć jak najbardziej niechlubny pirat, jakiego kiedykolwiek znały Karaiby\"."
 
 msgctxt "guyall091"
 msgid "'WARNING: The contents of this bottle should not be used on or near animals, anyone with a heart condition, or pregnant women.'"
-msgstr "OSTRZEŻENIE: Przed użyciem upewnij się że w pobliżu nie ma zwierzą, astmatyków lub kobiet w ciąży a także skonsultuj się z lekarzem lub farmaceutą."
+msgstr "\"OSTRZEŻENIE: Zawartość nie powinna być stosowana na zwierzętach lub w ich pobliżu, u osób z chorobami serca lub kobiet w ciąży\"."
 
 msgctxt "guyall092"
 msgid "Phew!"
@@ -23632,11 +23632,11 @@ msgstr " "
 
 msgctxt "guyall093"
 msgid "This stuff smells bad, even for a pirate!"
-msgstr "To śmierdzi naprawdę źle. Nawet jak na pirata."
+msgstr "To śmierdzi źle. Nawet jak na pirata."
 
 msgctxt "guyall094"
 msgid "That smells fine the way it is."
-msgstr "To śmierdzi tak jak wygląda."
+msgstr "Pachnie jak powinno."
 
 msgctxt "guyall095"
 msgid "It's a chess clock."
@@ -23644,7 +23644,7 @@ msgstr "To zegar szachowy."
 
 msgctxt "cdaall001"
 msgid "Don't touch that!"
-msgstr "Odczep się!"
+msgstr "Nie tykaj!"
 
 msgctxt "sgoall001"
 msgid "We're using it to time our match."
@@ -23652,59 +23652,59 @@ msgstr "Mierzymy nim czas gry."
 
 msgctxt "cdaall002"
 msgid "Hands off!"
-msgstr "Nie dotykaj!"
+msgstr "Łapy precz!"
 
 msgctxt "sgoall002"
 msgid "We're using that."
-msgstr "Jest w użyciu."
+msgstr "Używamy go."
 
 msgctxt "cdaall003"
 msgid "Touch it and die!"
-msgstr "Jedno dotknięcie, a nie żyjesz."
+msgstr "Tknij i po tobie!"
 
 msgctxt "sgoall003"
 msgid "We need it to keep track of the time."
-msgstr "Inaczej zgubimy się w czasie."
+msgstr "Jest nam potrzebny, by mierzyć czas."
 
 msgctxt "sgoall004"
 msgid "Um, no, don't touch that."
-msgstr "Ekhm, nie. Ręce precz!"
+msgstr "Nie. Nie dotykaj go."
 
 msgctxt "cdaall004"
 msgid "Leave it alone!"
-msgstr "ŁAPY PRZY SOBIE!"
+msgstr "Zostaw go!"
 
 msgctxt "sgoall005"
 msgid "I wouldn't recommend touching that."
-msgstr "Nie polecałbym dotykania tego."
+msgstr "Na twoim miejscu bym go nie dotykał."
 
 msgctxt "cdaall005"
 msgid "It would be harmful to your health!"
-msgstr "Mogłoby być to nie zdrowe dla ciebie."
+msgstr "Zaszkodziłoby to twojemu zdrowiu!"
 
 msgctxt "sgoall006"
 msgid "Patience, pirate-boy."
-msgstr "Bądź uważny, piraczyno."
+msgstr "Cierpliwości, piraciku."
 
 msgctxt "sgoall007"
 msgid "Without the clock, this game would go on forever."
-msgstr "Bez zegara moglibyśmy grać wiecznie."
+msgstr "Bez zegara gra trwałaby wieczność."
 
 msgctxt "guyall096"
 msgid "It's just a clock with a timer."
-msgstr "To zegar z opcją liczenia czasu."
+msgstr "To zegar z minutnikiem."
 
 msgctxt "guyall097"
 msgid "It's a little perfume spritzer filled with water."
-msgstr "To mała butelka na perfumy wypełniona wodą."
+msgstr "To mały rozpylacz perfum wypełniony wodą."
 
 msgctxt "guyall098"
 msgid "It's an empty perfume spritzer."
-msgstr "To pusta butelka na perfumy."
+msgstr "To pusty rozpylacz perfum."
 
 msgctxt "guyall099"
 msgid "It's a little perfume spritzer with a bunch of stuff in it."
-msgstr "To butelka na perfumy z mnóstwem różnych rzeczy."
+msgstr "To mały rozpylacz perfum z mnóstwem rzeczy w środku."
 
 msgctxt "guyall100"
 msgid "There's nothing in this bottle."
@@ -23712,11 +23712,11 @@ msgstr "W tej butelce nic nie ma."
 
 msgctxt "guyall101"
 msgid "The contents of this bottle are too dry to spritz."
-msgstr "Ta butelka ma za suchy skład, żeby coś z niej wyleciało."
+msgstr "Zawartość tej butelki jest za sucha, aby nią spryskać.."
 
 msgctxt "guyall102"
 msgid "Hey!  This smells EXACTLY like that hanky, only stronger!"
-msgstr "Hej! To DOKŁADNIE ten sam zapach co na chusteczce, tylko mocniejszy."
+msgstr "Hej! Pachnie DOKŁADNIE jak chusteczka, tylko mocniej!"
 
 msgctxt "guyall103"
 msgid "It smells like water."
@@ -23724,75 +23724,75 @@ msgstr "Pachnie jak woda."
 
 msgctxt "guyall104"
 msgid "This almost smells like that hanky..."
-msgstr "To pachnie dokładnie jak tamta chusteczka..."
+msgstr "Pachnie prawie jak tamta chusteczka..."
 
 msgctxt "guyall105"
 msgid "...except the hanky smells more like hamster bedding,"
-msgstr "... jeśli by przypuszczać, że chusteczka ma woń chomiczych odchodów."
+msgstr "...choć ona pachnie bardziej jak ściółka dla chomika,"
 
 msgctxt "guyall106"
 msgid "...except the hanky smells more like hamster bedding."
-msgstr "... jeśli by przypuszczać, że chusteczka ma woń chomiczych odchodów."
+msgstr "...choć ona pachnie bardziej jak ściółka dla chomika."
 
 msgctxt "guyall107"
 msgid "and more fishy."
-msgstr "oraz trochę ryby."
+msgstr "i trochę rybniej."
 
 msgctxt "guyall108"
 msgid "...except the hanky smells more fishy."
-msgstr "... jeśli by przyjąć, że chusteczka pachnie jak ryba."
+msgstr "...choć ona pachnie trochę rybniej."
 
 msgctxt "guyall109"
 msgid "more fishy,"
-msgstr "dużo ryby."
+msgstr "trochę rybniej,"
 
 msgctxt "guyall110"
 msgid "...except the hanky smells more fishy,"
-msgstr "... jeśli by przyjąć, że chusteczka pachnie jak ryba."
+msgstr "...choć ona pachnie trochę rybniej,"
 
 msgctxt "guyall111"
 msgid "and more pleasant."
-msgstr "tylko trochę ładniej."
+msgstr "i trochę przyjemniej."
 
 msgctxt "guyall112"
 msgid "...except the hanky smells more pleasant."
-msgstr "... jeśli by przyjąć, że chusteczka pachniała tak ładnie."
+msgstr "...choć ona pachnie trochę przyjemniej."
 
 msgctxt "guyall113"
 msgid "more pleasant,"
-msgstr "tylko jeszcze przyjemniej."
+msgstr "trochę przyjemniej,"
 
 msgctxt "guyall114"
 msgid "...except the hanky smells more pleasant,"
-msgstr "... jeśli by przyjąć, że chusteczka pachniała tak ładnie."
+msgstr "...choć ona pachnie trochę przyjemniej,"
 
 msgctxt "guyall115"
 msgid "and more mucky."
-msgstr "tylko bez błota."
+msgstr "i trochę błotniej."
 
 msgctxt "guyall116"
 msgid "...except the hanky smells more mucky."
-msgstr "... jeśli by przyjąć, że chusteczka była tak błotnista."
+msgstr "...choć ona pachnie trochę błotniej."
 
 msgctxt "guyall117"
 msgid "What a distinct aroma!"
-msgstr "Ale ładny aromat!"
+msgstr "Cóż za wyrazisty aromat!"
 
 msgctxt "guyall118"
 msgid "Nah, I'd prefer to keep this to myself and a select group of close friends."
-msgstr "Nie, wolę to zatrzymać dla siebie, a oddać najwyżej zaufanemu człowiekowi."
+msgstr "Nie, wolałbym zachować to dla siebie i wybranej grupy bliskich przyjaciół."
 
 msgctxt "guyall119"
 msgid "It's a pleasant smelling flower."
-msgstr "To bardzo ładny kwiatek."
+msgstr "Przyjemnie pachnący kwiatek."
 
 msgctxt "guyall120"
 msgid "This flower sure smells pleasant."
-msgstr "Ten kwiatek ładnie pachnie."
+msgstr "Bez wątpienia pachnie przyjemnie."
 
 msgctxt "guyall121"
 msgid "Although that might look better with a flower, I think I'll hang on to it."
-msgstr "Mimo, że ładnie to z kwiatkiem wygląda, lepiej to zabiorę."
+msgstr "Chociaż mogłoby to wyglądać lepiej z kwiatkiem, lepiej go zachowam."
 
 msgctxt "guyall122"
 msgid "There, that should make my concoction smell better."
@@ -23800,19 +23800,19 @@ msgstr "No, i teraz moja mieszanka pachnie już lepiej."
 
 msgctxt "guyall123"
 msgid "Nothing smells better than flowers."
-msgstr "Nic nie pachnie ładniej!"
+msgstr "Nic nie pachnie lepiej niż kwiaty."
 
 msgctxt "guyall124"
 msgid "That's the second biggest duck I've ever had in my pants."
-msgstr "To druga największa kaczka jaką w życiu trzymałem."
+msgstr "To druga największa kaczka, jaką w życiu miałem w spodniach."
 
 msgctxt "ducall001"
 msgid "MoooOOO!"
-msgstr ""
+msgstr "MuuuUUU!"
 
 msgctxt "guyall125"
 msgid "Moo?!  What kinda weird duck are you?!"
-msgstr "Mu? Czy jesteś jakąś odmianą kaczko-krowy?"
+msgstr "Muu? Co z ciebie za kaczka?!"
 
 msgctxt "ducall002"
 msgid "QUACK!"
@@ -23820,31 +23820,31 @@ msgstr "KWAAK!"
 
 msgctxt "guyall126"
 msgid "Ew... greasy."
-msgstr "Ew ... ale tłuste."
+msgstr "Ale tłuste."
 
 msgctxt "guyall127"
 msgid "I guess they use it on these iron maiden spikes to allow smooth impaling..."
-msgstr "Chyba używano tego na te narzędzie tortur."
+msgstr "Myślę, że nakładają to na te żelazne kolce, aby umożliwić płynne wbijanie..."
 
 msgctxt "guyall128"
 msgid "No, I get enough grease eating fish and chips."
-msgstr "Nie, i tak moja dieta jest już bardzo kaloryczna."
+msgstr "Nie, mam dość tłuszczu po rybie z frytkami."
 
 msgctxt "guyall129"
 msgid "That's greasy enough as it is."
-msgstr "To jest już wystarczająco tłuste."
+msgstr "Jest już wystarczająco tłuste."
 
 msgctxt "guyall130"
 msgid "This pole seems to be missing something at the top."
-msgstr "Czegoś mi tu brakuje."
+msgstr "Chyba czegoś mu brakuje na górze."
 
 msgctxt "guyall131"
 msgid "Hey, the hook snapped right in there."
-msgstr "Hej, patrz, hak pasuje jak ulał."
+msgstr "Hej, ten hak pasuje jak ulał."
 
 msgctxt "guyall132"
 msgid "This pole has a hook jammed into the end of it."
-msgstr "Na końcu pręta jest haczyk."
+msgstr "Na końcu słupa wetknięto haczyk."
 
 msgctxt "guyall133"
 msgid "It's an empty ScupperWare container."
@@ -23852,51 +23852,51 @@ msgstr "To pusty Pojemniczek."
 
 msgctxt "guyall134"
 msgid "It's filled with stinky bait."
-msgstr "Jest wypełniony przynętami."
+msgstr "Pełny śmierdzącej przynęty."
 
 msgctxt "guyall135"
 msgid "There's a little glowing fish sealed inside."
-msgstr "Mam kilka świecących rybek zamkniętych w środku."
+msgstr "W środku jest świecąca rybka."
 
 msgctxt "guyall136"
 msgid "Here fishy fishy fishy..."
-msgstr "Kici kici kici..."
+msgstr "Rybci, rybci, rybci..."
 
 msgctxt "guyall137"
 msgid "Phew!  I better close this back up, before I attract sharks."
-msgstr "Phew! Lepiej zamknę je w środku póki rekiny nie zaczną węszyć."
+msgstr "Fiuu! Lepiej to zamknę, zanim przyciągnę rekiny."
 
 msgctxt "guyall138"
 msgid "No, my little fish might escape if I open it."
-msgstr "Nie, moje małe rybki mogą uciec, jeśli je uwolnię."
+msgstr "Nie, rybka mi ucieknie, jeśli go otworzę."
 
 msgctxt "guyall139"
 msgid "Eh, I don't think the fishies are gonna just swim into an empty ScupperWare container without some incentive."
-msgstr "Wątpię, żeby te rybki chciały wpłynąć do mojego pustego. Pojemniczka bez odpowiedniej motywacji."
+msgstr "Nie sądzę, by rybki tak po prostu wpłynęły do pustego Pojemniczka bez jakiejś zachęty."
 
 msgctxt "guyall140"
 msgid "There, now my bait will stay fresh."
-msgstr "No, a teraz moja przynęta pozostanie świeża na dłużej."
+msgstr "Teraz moja przynęta utrzyma świeżość."
 
 msgctxt "guyall141"
 msgid "I can't fit any more bait in there."
-msgstr "Nie wcisną tam już więcej przynęty."
+msgstr "Już więcej tam nie wejdzie."
 
 msgctxt "guyall142"
 msgid "I better not open it, or my little fishy might escape."
-msgstr "Lepiej tego nie otwierać, inaczej moje rybki mogą uciec."
+msgstr "Lepiej nie otwierać bo rybka mi ucieknie."
 
 msgctxt "guyall143"
 msgid "I already have something in there."
-msgstr "Już jest ich wystarczająco."
+msgstr "Już coś tam mam."
 
 msgctxt "guyall144"
 msgid "Well, that doesn't need to be kept fresh."
-msgstr "Ale to nie musi być świeże cały czas!"
+msgstr "Cóż, to nie musi być świeże."
 
 msgctxt "guyall145"
 msgid "It's the stolen booty from the bank!"
-msgstr "To skradzione skarby z banku!"
+msgstr "To skradziony łup z banku!"
 
 msgctxt "guyall146"
 msgid "Hey, what's this?"
@@ -23908,31 +23908,31 @@ msgstr "Mała śrubka."
 
 msgctxt "guyall148"
 msgid "I'll bet it goes to Pegnose's prosthetic nose!"
-msgstr "Idę o zakład, że to należy do nosa Pegnose'a!"
+msgstr "Na pewno pasuje do protezy nosa Pegnose'a!"
 
 msgctxt "guyall149"
 msgid "Now I can clear the good name of Guybrush Threepwood!"
-msgstr "Teraz mogę oczyścić swoje imię!"
+msgstr "Teraz mogę oczyścić dobre imię Guybrusha Threepwooda!"
 
 msgctxt "guyall150"
 msgid "Hmm... I wonder what this little brass screw could be used for..."
-msgstr "Hmm, zastanawia mnie do czego ta śrubka mogła by służyć..."
+msgstr "Hmm, zastanawia mnie do czego ta śrubka mogła służyć..."
 
 msgctxt "guyall151"
 msgid "I'm not sure what I am supposed to be screwing this into."
-msgstr "Nie jestem pewien jak mógłbym tego użyć. Może kto inny wie..."
+msgstr "Nie jestem pewien, w co mam to wkręcić."
 
 msgctxt "guyall152"
 msgid "It's a prosthetic nose!"
-msgstr "To sztuczny nos!"
+msgstr "To proteza nosa!"
 
 msgctxt "guyall153"
 msgid "Booger free, too!"
-msgstr "Wolność coraz bliżej."
+msgstr "Ale bez glutów!"
 
 msgctxt "guyall154"
 msgid "No, my current nose works perfectly fine."
-msgstr "Nie. Mój własny nos działa wystarczająco dobrze."
+msgstr "Nie. Mój własny nos działa bardzo dobrze."
 
 msgctxt "guyscu209"
 msgid "Hello again, Mister Cheese."
@@ -27316,7 +27316,7 @@ msgstr "Czy ja coś słyszałem?"
 
 msgctxt "guypop242"
 msgid "Nope, just the haunting melodies of my music box."
-msgstr "Nic, tylko przerażającą melodie z mojej"
+msgstr "Nie, tylko nawiedzające melodie mojej pozytywki."
 
 msgctxt "guypop243"
 msgid "It's a false leg made of...porcelain.  Ewwww."
@@ -28876,7 +28876,7 @@ msgstr "A może porcelana?"
 
 msgctxt "guysta022"
 msgid "Ewww..."
-msgstr ""
+msgstr "Ewww..."
 
 msgctxt "stasta056"
 msgid "Uh oh.  Oops, too fragile."
@@ -32664,75 +32664,75 @@ msgstr "Na dnie tego ktoś coś wyskrobał..."
 
 msgctxt "guyall237"
 msgid "It says 'Mindy loves Fred.'"
-msgstr "Tutaj jest napisane, że Mindy kocha Freda."
+msgstr "Głosi: \"Mindy kocha Freda\"."
 
 msgctxt "guyall238"
 msgid "It says 'Cindy loves Fred.'"
-msgstr "Tutaj jest napisane, że Cindy kocha Freda."
+msgstr "Głosi: \"Cindy kocha Freda.\""
 
 msgctxt "guyall239"
 msgid "It says 'Wendy loves Fred.'"
-msgstr "Tutaj jest napisane, że Wendy kocha Freda."
+msgstr "Głosi: \"Wendy kocha Freda.\""
 
 msgctxt "guyall240"
 msgid "It says 'Mindy loves Ned.'"
-msgstr "Tutaj jest napisane że Mindy kocha Neda."
+msgstr "Głosi: \"Mindy kocha Neda.\""
 
 msgctxt "guyall241"
 msgid "It says 'Cindy loves Ned.'"
-msgstr "Tutaj jest napisane, że Cindy kocha Neda."
+msgstr "Głosi: \"Cindy kocha Neda.\""
 
 msgctxt "guyall242"
 msgid "It says 'Wendy loves Ned.'"
-msgstr "Tutaj jest napisane, że Wendy kocha Neda."
+msgstr "Głosi: \"Wendy kocha Neda.\""
 
 msgctxt "guyall243"
 msgid "It says 'Mindy loves Jed.'"
-msgstr "Tutaj jest napisane, że Mindy kocha Jeda."
+msgstr "Głosi: \"Mindy kocha Jeda.\""
 
 msgctxt "guyall244"
 msgid "It says 'Cindy loves Jed.'"
-msgstr "Tutaj jest napisane, że Cindy kocha Jeda."
+msgstr "Głosi: \"Cindy kocha Jeda.\""
 
 msgctxt "guyall245"
 msgid "It says 'Wendy loves Jed.'"
-msgstr "Tutaj jest napisane, że Wendy kocha Jeda."
+msgstr "Głosi: \"Wendy kocha Jeda.\""
 
 msgctxt "guyall246"
 msgid "...but scratched out right next to that it says 'Jerry loves Mindy.'"
-msgstr "...ale obok tego jest napisane 'Jerry kocha Mindy.'"
+msgstr "...ale obok tego głosi \"Jerry kocha Mindy.\""
 
 msgctxt "guyall247"
 msgid "...but scratched out right next to that it says 'Jerry loves Cindy.'"
-msgstr "...ale obok tego jest napisane 'Jerry kocha Cindy.'"
+msgstr "...ale obok tego głosi \"Jerry kocha Cindy.\""
 
 msgctxt "guyall248"
 msgid "...but scratched out right next to that it says 'Jerry loves Wendy.'"
-msgstr "...ale obok tego jest napisane 'Jerry kocha Wendy.'"
+msgstr "...ale obok tego głosi \"Jerry kocha Wendy.\""
 
 msgctxt "guyall249"
 msgid "...but scratched out right next to that it says 'Larry loves Mindy.'"
-msgstr "...ale obok tego jest napisane 'Larry kocha Mindy.'"
+msgstr "...ale obok tego głosi \"Larry kocha Mindy.\""
 
 msgctxt "guyall250"
 msgid "...but scratched out right next to that it says 'Larry loves Cindy.'"
-msgstr "...ale obok tego jest napisane 'Larry kocha Cindy.'"
+msgstr "...ale obok tego głosi \"Larry kocha Cindy.\""
 
 msgctxt "guyall251"
 msgid "...but scratched out right next to that it says 'Larry loves Wendy.'"
-msgstr "...ale obok tego jest napisane 'Larry kocha Wendy.'"
+msgstr "...ale obok tego głosi \"Larry kocha Wendy.\""
 
 msgctxt "guyall252"
 msgid "...but scratched out right next to that it says 'Harry loves Mindy.'"
-msgstr "...ale obok tego jest napisane 'Harry kocha Mindy.'"
+msgstr "...ale obok tego głosi \"Harry kocha Mindy.\""
 
 msgctxt "guyall253"
 msgid "...but scratched out right next to that it says 'Harry loves Cindy.'"
-msgstr "...ale obok tego jest napisane 'Harry kocha Cindy.'"
+msgstr "...ale obok tego głosi \"Harry kocha Cindy.\""
 
 msgctxt "guyall254"
 msgid "...but scratched out right next to that it says 'Harry loves Wendy.'"
-msgstr "...ale obok tego jest napisane 'Harry kocha Wendy.'"
+msgstr "...ale obok tego głosi \"Harry kocha Wendy.\""
 
 msgctxt "guyall255"
 msgid "What a weird place to profess your love for someone."
@@ -33292,7 +33292,7 @@ msgstr "Ewwww ... Niw..."
 
 msgctxt "guypla138"
 msgid "Ewww..."
-msgstr ""
+msgstr "Ewww..."
 
 msgctxt "guypla139"
 msgid "I think the owner of this oil would notice a big piece of bagel sitting in there."
@@ -34704,7 +34704,7 @@ msgstr "Mmm! Pieczeń ze świni."
 
 msgctxt "guylua076"
 msgid "Hey, wait a minute... this little tag says it's pork sashimi."
-msgstr "Hej, chwileczkę... Tutaj piszą, że to wieprzowe sashimi."
+msgstr "Hej, chwileczkę... etykietka głosi, że to wieprzowe sashimi."
 
 msgctxt "guylua077"
 msgid "This pig isn't cooked!  Eugh!"
@@ -34956,7 +34956,7 @@ msgstr "Nie mam czasu na guzdranie się po plaży."
 
 msgctxt "guysta036"
 msgid "It says 'Stan's Time Share Emporium'."
-msgstr "Napis: \"Wakacje ze Stanem\""
+msgstr "Głosi: \"Wakacje ze Stanem\""
 
 msgctxt "guysta037"
 msgid "Stan's desk is outside.  That can't be good for the finish."
@@ -35144,7 +35144,7 @@ msgstr "Chyba udało im się znaleźć różne własności Elaine..."
 
 msgctxt "guyplt141"
 msgid "Glove, music box, plastic ice cream cone... Elaine's gonna have an aneurysm when she finds out about this."
-msgstr "Rękawiczki, jakieś pozytywki, rożki z plastiku... Elaine dostała by ataku jakby to zobaczyła."
+msgstr "Rękawiczki, pozytywka, rożki z plastiku... Elaine dostała by ataku jakby to zobaczyła."
 
 msgctxt "guyplt142"
 msgid "At least this place has a bar."
@@ -36268,7 +36268,7 @@ msgstr "Jaka frajda jest w żonglowaniu jedną rzeczą?"
 
 msgctxt "guyall307"
 msgid "It says 'H.T.' on it."
-msgstr "Tutaj jest napisane \"H.T.\""
+msgstr "Głosi: \"H.T.\""
 
 msgctxt "guyall308"
 msgid "I don't play the accordion."
@@ -36704,7 +36704,7 @@ msgstr "Chyba w środku nic i nikogo nie ma."
 
 msgctxt "guygpt101"
 msgid "The sign says: 'Coming soon: JumboJuice Frozen Fruit Smoothies'."
-msgstr "Napis mówi: \" Wróć później po Mroźnie JumboSoki Owocowe\""
+msgstr "Napis głosi: \" Wróć później po Mroźnie JumboSoki Owocowe\""
 
 msgctxt "guygpt102"
 msgid "'Added nutrients give you energy boosts (and helps prevent scurvy in 99% of pirates age 2 and above!)'"
@@ -36840,7 +36840,7 @@ msgstr "Widać coś do pisania w środku."
 
 msgctxt "guyall353"
 msgid "This pen says 'Second Bank of Lucre' on it."
-msgstr "To pióro piszę \"Drugi Bank na Lucre\"."
+msgstr "Na piórze napis: \"Drugi Bank na Mamonie\"."
 
 msgctxt "guyall354"
 msgid "It must have fallen in the chest during the robbery...I'd hate to think that Grandpa Marley stole it."
@@ -37000,7 +37000,7 @@ msgstr ""
 
 msgctxt "guyall393"
 msgid "It says I'm globally certified and physically fit to compete in any Tri-Island Area world diving competitions."
-msgstr "Tutaj pisze, że jestem całkowicie sprawny fizycznie i mentalnie aby wystąpić w światowych zawodach nurkowania na Archipelagu Tri-Island."
+msgstr "Głosi, że jestem całkowicie sprawny fizycznie i mentalnie aby wystąpić w światowych zawodach nurkowania na Archipelagu Trójwysp."
 
 msgctxt "guyall394"
 msgid "It just doesn't match my shoes."
@@ -37592,7 +37592,7 @@ msgstr "Nie! To mój grog!"
 
 msgctxt "guyall499"
 msgid "It says it can only be redeemed by staff of Planet Threepwood."
-msgstr "Tu jest napisane, że można to wymieniać tylko z rzeczami od Planety Threepwood."
+msgstr "Głosi, że można to wymieniać tylko z rzeczami od Planety Threepwood."
 
 msgctxt "guyall500"
 msgid "I don't really want to show this off."
@@ -39176,7 +39176,7 @@ msgstr "wynoś się z mojego domu zanim naśle na ciebie moje piranie pudle!"
 
 msgctxt "h1gb028"
 msgid "Yipes!"
-msgstr ""
+msgstr "Jejku!"
 
 msgctxt "h1ch030"
 msgid "Now now, my dear Mrs. Marley-"
@@ -40624,11 +40624,11 @@ msgstr "list gubernatora"
 
 msgctxt "txtall004"
 msgid "cushy government job contract form"
-msgstr "kontrakt o ciepłą rządkową posadkę"
+msgstr "intratna umowa o pracę w urzędzie"
 
 msgctxt "txtall005"
 msgid "signed cushy government job contract"
-msgstr "kontrakt o ciepłą rządkową posadkę (podpisany)"
+msgstr "podpisana intratna umowa o pracę w urzędzie"
 
 msgctxt "txtall006"
 msgid "Give"
@@ -40640,11 +40640,11 @@ msgstr "z:"
 
 msgctxt "txtall008"
 msgid "government job contract form"
-msgstr "kontrakt o rządową posadkę"
+msgstr "umowa o pracę w urzędzie"
 
 msgctxt "txtall009"
 msgid "signed government job contract"
-msgstr "kontrakt o rządową posadkę(podpisany)"
+msgstr "podpisana umowa o pracę w urzędzie"
 
 msgctxt "txtall010"
 msgid "popped inner tube"
@@ -40676,7 +40676,7 @@ msgstr "list"
 
 msgctxt "txtall017"
 msgid "codpiece"
-msgstr "mieszak"
+msgstr "mieszek"
 
 msgctxt "txtall018"
 msgid "Pick up"
@@ -42724,11 +42724,11 @@ msgstr ""
 
 msgctxt "txtgmi002"
 msgid "signed cushy government job contract"
-msgstr "wygodna umowe o prace u gubernatora (podpisana)"
+msgstr "podpisana intratna umowa o pracę w urzędzie"
 
 msgctxt "txtgmi003"
 msgid "signed government job contract"
-msgstr "umowe o prace u gubenatora (podpisana)"
+msgstr "podpisana umowa o pracę w urzędzie"
 
 msgctxt "txtgmi004"
 msgid "coat closet"

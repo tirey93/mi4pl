@@ -6020,7 +6020,7 @@ msgstr "Możesz nas pan tam zabrać, panie Ser?"
 
 msgctxt "navshi004"
 msgid "Aye."
-msgstr "Tak."
+msgstr "Aj."
 
 msgctxt "guyshi023"
 msgid "Make it so."
@@ -12916,7 +12916,7 @@ msgstr "Ale ja w to nie wierzę."
 
 msgctxt "guyhos054"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "frehos080"
 msgid "Well sir, it's been my experience that ducks have exceptionally tiny teeth."
@@ -13688,7 +13688,7 @@ msgstr "Nie ufam Mikrogrogeriom."
 
 msgctxt "guyhoj102"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "otihoj031"
 msgid "I've never seen a pirate go blind drinka micro-grog.  Now you tell me..."
@@ -15492,7 +15492,7 @@ msgstr "To nie, niewiele."
 
 msgctxt "guyozi145"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
 msgctxt "guyozi146"
 msgid "What's with all the dead animals?"
@@ -21540,7 +21540,7 @@ msgstr "Nie mogę sobie wyobrazić, że jesteś zapraszającym."
 
 msgctxt "murplt023"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "guyplt042"
 msgid "Well, for starters, you've got no arms."
@@ -23944,11 +23944,11 @@ msgstr "Tak?"
 
 msgctxt "guyscu210"
 msgid "Hi there, scruffy looking pirate person.  I'm Guybrush Threepwood, Mighty Pirate."
-msgstr "Witam, niechlujnie wyglądający piracie. Jestem Guybrush Threepwood, Potężny Pirat."
+msgstr "Witam, niechlujnie wyglądający piracie. Jam Guybrush Threepwood, Potężny Pirat."
 
 msgctxt "guyscu003"
 msgid "What's your name?"
-msgstr "Jak sie nazywasz?"
+msgstr "Jak się nazywasz?"
 
 msgctxt "navscu066"
 msgid "Cheese."
@@ -23960,83 +23960,83 @@ msgstr "Ignacy Ser."
 
 msgctxt "guyscu004"
 msgid "How would you like to join my crew of mighty pirates, Mister Cheese?"
-msgstr "Jak bardzo chciałbyś dołączyć do mojej załogi potężnych piratów, Panie Serze?"
+msgstr "Co Pan powie na dołączenie do mej załogi potężnych piratów, Panie Serze?"
 
 msgctxt "navscu068"
 msgid "And what, pray tell, might I be findin' myself doing if I joined this crew of mighty pirates?"
-msgstr "I co, powiedz mi szczerze, mógłbym mięć z tego, że dołączę do twojej załogi potężnych piratów?"
+msgstr "I co, powiedz, mógłbym robić, gdybym dołączył do tej załogi potężnych piratów?"
 
 msgctxt "guyscu213"
 msgid "Are you sure you don't want to join my crew of mighty pirates?"
-msgstr "Jesteś pewny, że nie chcesz dołączyć do potężnych piratów?"
+msgstr "Jesteś Pan pewny, że nie chce dołączyć do załogi potężnych piratów?"
 
 msgctxt "navscu069"
 msgid "Oh, I don't know...what kind of piratin' would I be doin'?"
-msgstr "Oh, jestem otwarty na sugestie. Co taki pirat miałby tam robić?"
+msgstr "Nie wiem. Jakiego rodzaju piractwa bym uprawiał?"
 
 msgctxt "guyscu214"
 msgid "Is there something I could do to convince you to navigate my ship to Lucre Island™?"
-msgstr "Czy jest jakiś sposób, żeby cię przekonać, abyś nawigował Moj statek na Wyspę Mamony?"
+msgstr "Czy dałby się Pan jakoś przekonać, aby nawigować mój statek na Wyspę Mamony?"
 
 msgctxt "navscu006"
 msgid "I'm open to persuasion...what do you have in mind?"
-msgstr "Jestem otwarty na sugestie...Co masz na myśli?"
+msgstr "Jestem otwarty na sugestie... Co masz na myśli?"
 
 msgctxt "guyscu215"
 msgid "Are you sure there's nothing I can do to convince you to navigate my ship to Lucre Island™?"
-msgstr "Jesteś pewny ze nie ma sposobu, żebyś był moim nawigatorem w kursie na Wyspę Mamony?"
+msgstr "Czy nic by Pana nie przekonało, aby nawigować mój statek na Wyspę Mamony?"
 
 msgctxt "guyscu008"
 msgid "I challenge you to another round of Insult Arm Wrestling, you big-armed freak!"
-msgstr "Jest pan gotów na kolejną rundę Znieważania na Rękę, cieniasie?"
+msgstr "Wyzywam Pana na kolejną rundę Znieważania na Rękę, ty wielkoramienny świrze!"
 
 msgctxt "navscu007"
 msgid "Very well.  If you win, I'll be your navigator."
-msgstr "Oczywiście! Jeśli wygrasz będę twoim nawigatorem."
+msgstr "Znakomicie! Wygrasz, a będę twym nawigatorem."
 
 msgctxt "guyscu217"
 msgid "You're on."
-msgstr "Wiec zaczynajmy."
+msgstr "Stoi."
 
 msgctxt "guyscu218"
 msgid "Are you looking forward to sailing to Lucre Island™?"
-msgstr "Nie może sie pan doczekać naszego rejsu na Wyspę Mamony?"
+msgstr "Nie może się Pan doczekać rejsu na Wyspę Mamony?"
 
 msgctxt "navscu008"
 msgid "Aye...it'll be a pleasure to sail with a refined wit such as yourself."
-msgstr "Aj. To wielki zaszczyt pływać z takim mądrym piratem."
+msgstr "Aj... sama przyjemność żeglować z tak subtelnym kpiarzem jak ty."
 
 msgctxt "guyscu219"
 msgid "What big arms you have, Mister Cheese."
-msgstr "Ale mam pan wielkie mięśnie, Panie Ser."
+msgstr "Ale mam Pan wielkie ramiona, Panie Ser."
 
 msgctxt "navscu009"
 msgid "The better to Insult Arm Wrestle with, Mister Threepwood."
-msgstr "Lepiej sie z nimi zmierz w Znieważaniu na Ręce."
+msgstr "Najlepsze do Znieważania na Rękę, Panie Threepwood."
 
 msgctxt "guyscu220"
 msgid "Tell me again about this thing you call 'Insult Arm Wrestling.'"
-msgstr "Powiedz mi jeszcze raz o tym Znieważaniu na rękę."
+msgstr "Opowiedz mi jeszcze raz o tym Znieważaniu na Rękę."
 
 msgctxt "navscu010"
 msgid "I thought I'd made myself clear..."
-msgstr "Myślałem, że wyraziłem sie jasno..."
+msgstr "Sądziłem, że wyraziłem się jasno..."
 
 msgctxt "navscu011"
 msgid "It's just like Insult Sword Fighting...but with arm wrestling."
-msgstr "To takie samo jak Znieważanie na Miecze...ale z rękoma."
+msgstr "To jak Znieważanie na Miecze... tylko na rękę."
 
 msgctxt "guyscu013"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
 msgctxt "guyscu014"
 msgid "Wait a minute.  Your name is 'I. Cheese'?"
-msgstr "Chwila. Nazywasz się \"I.Ser\"?"
+msgstr "Chwila. Nazywasz się \"I. Ser\"?"
 
 msgctxt "navscu012"
 msgid "Aye."
-msgstr "Tak."
+msgstr "Aj."
 
 msgctxt "guyscu223"
 msgid "Cheese?"
@@ -24048,11 +24048,11 @@ msgstr "Wybacz, ale ciężko pojąć absurd tego imienia."
 
 msgctxt "navscu013"
 msgid "If you say so, Mister THREEPWOOD."
-msgstr "I kto to mówi, panie THREEPWOOD."
+msgstr "Bez wątpienia, Panie THREEPWOOD."
 
 msgctxt "guyscu017"
 msgid "I'll have you know that the Threepwood name has a long and noble history."
-msgstr "Wiedz, że nazwisko Threepwood posiada długą i zacną historię."
+msgstr "Musi Pan wiedzieć, że nazwisko Threepwood posiada długą i zacną historię."
 
 msgctxt "navscu014"
 msgid "So does mine."
@@ -24064,15 +24064,15 @@ msgstr "Chciałbym usłyszeć \"długą i zacną historię\" rodu Serów."
 
 msgctxt "navscu015"
 msgid "Aye, it'd be my pleasure!"
-msgstr "Aye, z rozkoszą!"
+msgstr "Aj, z przyjemnością!"
 
 msgctxt "navscu016"
 msgid "Naturally, no discussion of my family would be complete without mentioning my great-great-grandfather..."
-msgstr "Zaiste, nie w sposób nie wspomnieć mego prapradziadka..."
+msgstr "Zaiste żadna rozmowa o mojej rodzinie nie byłaby kompletna bez wspomnienia o moim pra-pradziadku..."
 
 msgctxt "navscu017"
 msgid "who single-handedly revolutionized the art of roadside carriage wheel repair."
-msgstr "który zrewolucjonizował sztukę naprawy powozów."
+msgstr "który urządzał wielkie, olbrzymie uroczystości dla całego archipelagu."
 
 msgctxt "guyscu019"
 msgid "Who was that?"
@@ -24080,19 +24080,19 @@ msgstr "Kto to był?"
 
 msgctxt "navscu018"
 msgid "Are you daft?  Have ye never heard'a Jack Cheese?"
-msgstr "Kpisz sobie? Nie słyszałeś o Lewarze LeSerze?"
+msgstr "Kpisz sobie? Nie słyszałeś o Serze Feta?"
 
 msgctxt "guyscu228"
 msgid "I don't ride many carriages in my line of work, sorry."
-msgstr "W mym fachu nieczęsto ujeżdżam powozy."
+msgstr "Rzadko mnie zapraszają na takie balangi."
 
 msgctxt "guyscu229"
 msgid "Tell me more about the family Cheese."
-msgstr "Opowiedz coś więcej o Serach."
+msgstr "Opowiedz coś więcej o rodzinie Serów."
 
 msgctxt "navscu019"
 msgid "Well, there's my great-uncle."
-msgstr "No, mam stryjecznego dziadka."
+msgstr "Jest jeszcze mój pra-wuj."
 
 msgctxt "guyscu230"
 msgid "What's he famous for?"
@@ -24100,7 +24100,7 @@ msgstr "Z czego słynie?"
 
 msgctxt "navscu020"
 msgid "He's a renowned holy man who remains steadfastly neutral in any conflict."
-msgstr "Znany świętoszek – w kłótni jest zawsze neutralny."
+msgstr "Święty człowiek - pozostaje niezłomnie neutralny w każdym konflikcie."
 
 msgctxt "guyscu231"
 msgid "Let me guess..."
@@ -24108,7 +24108,7 @@ msgstr "Niech zgadnę..."
 
 msgctxt "guyscu232"
 msgid "Swiss Cheese?"
-msgstr "Szwajcar?"
+msgstr "Ser Szwajcarski?"
 
 msgctxt "navscu021"
 msgid "Ah, so you've heard of him!"
@@ -24116,7 +24116,7 @@ msgstr "Słyszałeś o nim!"
 
 msgctxt "navscu022"
 msgid "My brother is starting to make a name for himself."
-msgstr "Brat szuka sobie pseudonimu."
+msgstr "Mój brat wyrabia sobie pseudonim."
 
 msgctxt "guyscu233"
 msgid "Really?  What does he do?"
@@ -24124,7 +24124,7 @@ msgstr "Serio? Czym się para?"
 
 msgctxt "navscu023"
 msgid "He sings depressing, autobiographical songs."
-msgstr "Śpiewa deprymujące, autobiograficzne pieśni."
+msgstr "Niczym, słoma mu z butów wychodzi."
 
 msgctxt "guyscu234"
 msgid "Give me a second..."
@@ -24132,7 +24132,7 @@ msgstr "Moment..."
 
 msgctxt "guyscu235"
 msgid "Blue Cheese?"
-msgstr "BlueSer?"
+msgstr "Podlaski?"
 
 msgctxt "navscu024"
 msgid "You really know your Cheeses!"
@@ -24140,7 +24140,7 @@ msgstr "Masz nosa do Serów!"
 
 msgctxt "navscu025"
 msgid "My great-great-great aunt was legendarily ugly."
-msgstr "Moja pra-pra-pra ciotka była legendarnie brzydka."
+msgstr "Moja pra-pra-ciotka była legendarnie brzydka."
 
 msgctxt "guyscu236"
 msgid "How ugly was she?"
@@ -24168,51 +24168,51 @@ msgstr "Nie winię cię... niewielu pamięta Gorgon Zolę Ser."
 
 msgctxt "guyscu240"
 msgid "Argh.  I think I've curd enough about your family."
-msgstr "Argh. Myślę, że juz za dużo sie nasłuchałem o Serach."
+msgstr "Argh. \"Wyserzyła\" mnie ta rozmowa o rodzinie."
 
 msgctxt "guyscu241"
 msgid "It's been nice chatting, but I've got to see a man about a monkey."
-msgstr "Milo było poznać, ale musze iść wytresować małpy."
+msgstr "Milo było poznać, ale czas zwijać małpi interes."
 
 msgctxt "guyscu242"
 msgid "You'd be helping a band of bloodthirsty brigands sack a small fishing village!"
-msgstr "Będziesz mógł pomagać grupie ludzi, pragnących ograbić niczego sie nie spodziewające wioski!"
+msgstr "Pomagałby Pan bandzie krwiożerczych bandytów splądrować małą wioskę rybacką!"
 
 msgctxt "navscu028"
 msgid "Arr, that doesn't sound too manly.  Any girly-pirate can loot a defenseless fishing community."
-msgstr "Arr. To nie brzmi zbyt męsko. Każda baba-pirat może Grabic bezbronne ryby."
+msgstr "Arr. To nie brzmi zbyt mężnie. Każdy zniewieściały pirat może splądrować bezbronną rybacką społeczność."
 
 msgctxt "guyscu243"
 msgid "Like I said, we're planning to plunder a piscatorial port."
-msgstr "Tak jak mówiłem, będziemy plądrować przybrzeżne porty."
+msgstr "Tak jak mówiłem, będziemy plądrować nadmorski port."
 
 msgctxt "navscu029"
 msgid "Pshaw."
-msgstr ""
+msgstr "Pshaw."
 
 msgctxt "guyscu244"
 msgid "You'd be looking for sunken treasure with a group of cutthroat killing-machines."
-msgstr "Będziesz szukał zatopionych skarbów z grupa pragnących śmierci maszyn."
+msgstr "Szukałby Pan zatopionego skarbu z grupą bezwzględnych maszyn do zabijania."
 
 msgctxt "navscu030"
 msgid "Sunken treasure hunts are for thieves and scalawags, junior.  Real pirates KEEP their treasure."
-msgstr "Młody, zatopione skarby są dla złodziei i łobuzów. Prawdziwi piraci ODBIERAJA sobie skarby."
+msgstr "Łowy zatopionych skarbów są dla złodziei i nicponi, młodzieńcze. Prawdziwi piraci TRZYMAJĄ swoje skarby."
 
 msgctxt "guyscu245"
 msgid "As I mentioned, we'll be scouring seabeds for soggy stolen shekels."
-msgstr "Jak wspominałem, będziemy szukali skarbów na dnach mórz."
+msgstr "Jak wspominałem, będziemy przeczesywać dna w poszukiwaniu mokrych szekli."
 
 msgctxt "navscu031"
 msgid "Sorry, that sounds sort of stupid."
-msgstr "Przykro mi, ale to brzmi głupio."
+msgstr "Przykro mi, ale to brzmi durnie."
 
 msgctxt "guyscu246"
 msgid "You'd be travelling to Lucre Island™ with a crew of cretinous buccaneers to meet with my wife's lawyers."
-msgstr "Będziesz mógł podróżować na Wyspę Mamony z piratami, by spotkać prawników mojej zony."
+msgstr "Popłynąłby Pan na Wyspę Mamony z ekipą kretyńskich korsarzy, by spotkać się z prawnikami mojej żony."
 
 msgctxt "navscu032"
 msgid "Now THAT sounds like a worthy mission for a Mighty Pirate Navigator like meself."
-msgstr "No, i TO brzmi jak misja warta zachodu dla Potężnego Nawigatora Pirackiego."
+msgstr "I TO brzmi jak misja warta zachodu dla Potężnego Pirata Nawigatora, takiego jak ja."
 
 msgctxt "guyscu247"
 msgid "Really?"
@@ -24220,11 +24220,11 @@ msgstr "Serio?"
 
 msgctxt "navscu033"
 msgid "Aye.  The seas around Lucre Island™ are very treacherous, and can only be navigated by a skilled sailor."
-msgstr "Aj. Morza wokół Wyspy Mamony są bardzo zdradzieckie, i mogą być nawigowanie tylko przez doświadczonych."
+msgstr "Aj. Morza wokół Wyspy Mamony są bardzo zdradliwe, a poruszać się po nich może tylko doświadczony żeglarz."
 
 msgctxt "navscu034"
 msgid "I'd love to face that challenge, but--"
-msgstr "Uwielbiam się zmierzać z wyzwaniem, ale..."
+msgstr "Chętnie bym stawił temu czoła, ale..."
 
 msgctxt "guyscu248"
 msgid "But what?"
@@ -24236,19 +24236,19 @@ msgstr "Nie mogę."
 
 msgctxt "guyscu249"
 msgid "Let me think about that for a moment."
-msgstr "Daj mi o tym pomyśleć przez chwile."
+msgstr "Zastanowię się nad tym przez chwilę."
 
 msgctxt "navscu036"
 msgid "Sure, take your time."
-msgstr "Oczywiście, to twój czas."
+msgstr "Pewnie, nie spiesz się."
 
 msgctxt "navscu037"
 msgid "Because, if I leave my bar for too long, it'll be stolen out from under me!"
-msgstr "Ponieważ jeśli opuszczę mój bar na zbyt długo, to ktoś mi go ukradnie!"
+msgstr "Bo jeśli zostawię mój bar na zbyt długo, zostanie mi on skradziony!"
 
 msgctxt "guyscu250"
 msgid "You're the owner of the SCUMM Bar!?"
-msgstr "Jesteś właścicielem SCUMM-Baru?"
+msgstr "Jest Pan właścicielem SCUMM Baru!?"
 
 msgctxt "navscu038"
 msgid "Aye, the one and only."
@@ -24256,27 +24256,27 @@ msgstr "Aj. Jednym i jedynym."
 
 msgctxt "guyscu251"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "guyscu252"
 msgid "Why not?  Have you lost your nerve?"
-msgstr "Dlaczego nie? Nie te nerwy?"
+msgstr "Czemu nie? Stracił Pan odwagę?"
 
 msgctxt "navscu039"
 msgid "A'listen, skippy, I've got more nerve than a three-legged cat at a dog show!"
-msgstr "Słuchaj młody. Mam więcej nerwów niż trzy nogi kot w psim Reality-Show."
+msgstr "Słuchaj, młody. Mam więcej odwagi niż trójnogi kot na wystawie psów!"
 
 msgctxt "guyscu253"
 msgid "Well then, why can't you join my crew?"
-msgstr "Więc dlaczego nie możesz dołączyć do mojej załogi?"
+msgstr "Więc dlaczego nie może Pan do nas dołączyć?"
 
 msgctxt "guyscu254"
 msgid "Why not?  Is your keister glued to that chair?"
-msgstr "Dlaczego nie? Twój tyłek przykleił sie do krzesła?"
+msgstr "Dlaczego? Kuper przylgnął Panu do krzesła?"
 
 msgctxt "navscu040"
 msgid "Well, yes, now that you mention it, it is.  But that's not why I can't go, Mister Wisen-pirate"
-msgstr "Hm, tak, dobrze kombinujesz, nie ma co. Ale to nie dlatego nie mogę płynąć, Piracie."
+msgstr "Cóż, tak. Jak już o tym wspominasz to tak. Ale to nie dlatego nie mogę płynąć."
 
 msgctxt "guyscu255"
 msgid "Well then, why?"
@@ -24284,7 +24284,7 @@ msgstr "Wiec czemu nie?"
 
 msgctxt "navscu041"
 msgid "I've been fighting off a hostile takeover bid from an Australian land developer."
-msgstr "Wałczyłem z wrogimi Australijczykami, którzy wykupywali ziemie."
+msgstr "Odpierałem wrogą ofertę przejęcia ze strony australijskiego dewelopera gruntów."
 
 msgctxt "guyscu256"
 msgid "Come again?"
@@ -24292,63 +24292,63 @@ msgstr "Słucham?"
 
 msgctxt "navscu042"
 msgid "You heard me..."
-msgstr "No słuchaj..."
+msgstr "Słyszałeś..."
 
 msgctxt "navscu043"
 msgid "A greedy Australian is making a grab for my bar!"
-msgstr "Chciwy Australijczyk chciał zrabować mój bar!"
+msgstr "Chciwy Australijczyk próbuje przejąć mój bar!"
 
 msgctxt "guyscu257"
 msgid "With guns and swords and cannons?"
-msgstr "Ze strzelbami i mieczami i armatami?"
+msgstr "Bronią, mieczem i armatą?"
 
 msgctxt "navscu044"
 msgid "Worse, with insults, gibes, and mockeries!"
-msgstr "Gorzej. Przez zniewagę, docinki i kpiny!"
+msgstr "Gorzej. Zniewagą, docinkiem i kpiną."
 
 msgctxt "navscu045"
 msgid "It's taken all of my Insult Arm Wrestling skill to keep him at bay!"
-msgstr "Cale moje umiejętności Znieważania na Rękę trzymał na dystans!"
+msgstr "Utrzymanie go w ryzach wymagało całej mojej zręczności w Znieważaniu na Rękę!"
 
 msgctxt "guyscu258"
 msgid "Gosh.  If it weren't for the whole 'wife being declared dead' thing,"
-msgstr "To nieco w stylu ' mojej żony, która była zadeklarowana jako umarła'"
+msgstr "Rany. Gdyby nie to, że żona została uznana za zmarłą,"
 
 msgctxt "guyscu259"
 msgid "I'd say that was the strangest thing I'd heard all week."
-msgstr "To chyba najbardziej szalona historia jaką słyszałem w tym tygodniu."
+msgstr "uznałbym, że to najdziwniejsza rzecz, jaką słyszałem przez tydzień."
 
 msgctxt "guyscu260"
 msgid "What makes you think that the SCUMM Bar's going to be stolen?"
-msgstr "Dlaczego ci się wydaje, że ktoś może ukraść ci SCUMM-Bar?"
+msgstr "Skąd pomysł, że SCUMM Bar zostanie skradziony?"
 
 msgctxt "navscu046"
 msgid "Well, it's like this..."
-msgstr "Może dlatego, że..."
+msgstr "No więc to tak..."
 
 msgctxt "guyscu261"
 msgid "I find it difficult to believe that the SCUMM Bar is owned by somebody named 'I. Cheese.'"
-msgstr "Nie mogę uwierzyć, że SCUMM-Bar może należeć do kogoś kto się nazywa 'I.Ser'."
+msgstr "Trudno mi uwierzyć, że SCUMM Bar jest własnością kogoś o imieniu \"I. Ser\""
 
 msgctxt "navscu047"
 msgid "Don't make me come over there, Driftwood."
-msgstr "Co ty nie powiesz, Panie Drftwood."
+msgstr "Co Pan nie powie, Panie Ślizwood."
 
 msgctxt "guyscu262"
 msgid "THREEPwood."
-msgstr ""
+msgstr "THREEPwood."
 
 msgctxt "navscu048"
 msgid "Whatever.  Anyway..."
-msgstr "Może być. W każdym razie..."
+msgstr "Jak chcesz. W każdym razie..."
 
 msgctxt "guyscu263"
 msgid "That's funny, I always thought the SCUMM Bar was owned by a guy named 'Ron.'"
-msgstr "To zabawne, zawsze myślałem, że SCUMM-Bar należy do faceta o imieniu 'Ron'."
+msgstr "To zabawne. Zawsze myślałem, że SCUMM Bar jest własnością faceta o imieniu \"Ron\"."
 
 msgctxt "navscu049"
 msgid "Aye, he was the original owner.  I won the bar from him in an epic, twelve-hour long game of Insult Go Fish."
-msgstr "Aj. On był na początku właścicielem. Ale wygrałem z nim ten bar w epickiej, dwunastogodzinnej walce w Znieważaniu na Rybach."
+msgstr "Aj. On był na początku. Ale wygrałem go od niego w epickiej, dwunastogodzinnej walce w Znieważaniu na Rybach."
 
 msgctxt "guyscu264"
 msgid "That sounds like a humongous fib."
@@ -24356,43 +24356,43 @@ msgstr "To brzmi jak olbrzymia bajka."
 
 msgctxt "navscu050"
 msgid "Believe what you like.  In any event..."
-msgstr "Wież w co chcesz, w każdym razie..."
+msgstr "Wierz w co chcesz, w każdym razie..."
 
 msgctxt "navscu051"
 msgid "While you were away, the 'Insult Sword Fighting' paradigm became attached to a host of other pirate pastimes."
-msgstr "Kiedy ty leżałeś w kołysce Znieważanie na Rękę było największym hobbym piratów."
+msgstr "Podczas twojej nieobecności paradygmat \"Znieważania na Miecze\" został dołączony do wielu innych pirackich rozrywek."
 
 msgctxt "guyscu265"
 msgid "'Paradigm?'"
-msgstr "Hobbym?"
+msgstr "Paradygmat?"
 
 msgctxt "navscu116"
 msgid "Well nowadays, you can't throw a dart or play a game of checkers without being expected to toss in a withering bon mot."
-msgstr "W dzisiejszych czasach, nie możesz rzucać do celu lub grać w inne żałosne gry bez dowcipnych uwag."
+msgstr "Cóż, w dzisiejszych czasach nie można zagrać w rzutki czy w warcaby, nie oczekując, że nikt nie trzaśnie jakiś złośliwy bon mot."
 
 msgctxt "guyscu266"
 msgid "I think I tossed a bon mot in a food fight once..."
-msgstr "Chyba straciłeś dowcipne uwagi w jednej walce na jedzenie..."
+msgstr "Ja chyba kiedyś rzuciłem bon motem w walce na żarcie..."
 
 msgctxt "navscu117"
 msgid "My particular specialty is Insult Arm Wrestling, which I use to defend my bar from hostile takeovers."
-msgstr "Moja szczególna specjalność to Znieważanie na Rękę, używam jej żeby odstraszać natrętnych kolegów."
+msgstr "Moją specjalnością jest Znieważanie na Rękę, którego używam do obrony baru przed wrogim przejęciem."
 
 msgctxt "guyscu267"
 msgid "Don't you mean 'Insult Sword Fighting?'"
-msgstr "Nie miałeś na myśli przypadkiem ' Znieważanie na Miecze '?"
+msgstr "Ma Pan na myśli Znieważanie na Miecze?"
 
 msgctxt "navscu118"
 msgid "Nay."
-msgstr "Nie!"
+msgstr "Nie."
 
 msgctxt "guyscu268"
 msgid "You're thinking of 'Insult Sword Fighting,' you dotty old fool!"
-msgstr "Myślałeś chyba o ' Znieważaniu na Miecze ', stary głupcze!"
+msgstr "Myślał Pan o Znieważaniu na Miecze, ty stary głupcze!"
 
 msgctxt "navscu119"
 msgid "You're out of touch, Mister Marley."
-msgstr "Jesteś nieugięty, Panie Marley."
+msgstr "Odkleił się Pan, Panie Marley."
 
 msgctxt "guyscu269"
 msgid "Insult Arm Wrestling?"
@@ -24400,7 +24400,7 @@ msgstr "Znieważanie na Rękę?"
 
 msgctxt "guyscu270"
 msgid "If I beat you at Insult Arm Wrestling, will you be my navigator?"
-msgstr "Jeśli pokonam cię w Znieważaniu na Rękę, będziesz moim nawigatorem?"
+msgstr "Jeśli wygram na rękę, zostanie Pan moim nawigatorem?"
 
 msgctxt "navscu056"
 msgid "Hmmm.  That's an interesting proposition, Threepwood."
@@ -24412,7 +24412,7 @@ msgstr "Tak? To znaczy, oczywiście że tak!"
 
 msgctxt "navscu057"
 msgid "How about this:  If you beat me, I'll be your navigator..."
-msgstr "A może tak: jeśli pokonasz mnie, będę twoim nawigatorem..."
+msgstr "Może tak: jeśli pokonasz mnie, będę twoim nawigatorem..."
 
 msgctxt "guyscu272"
 msgid "Great!"
@@ -24428,11 +24428,11 @@ msgstr "Zgoda."
 
 msgctxt "navscu059"
 msgid "Well then...let's see what you've got!"
-msgstr "No wiec...pokarz na co cię stać!"
+msgstr "A więc... pokaż na co cię stać!"
 
 msgctxt "guyscu274"
 msgid "I was kind of hoping that you'd cave in due to my incessant nagging."
-msgstr "Miałem nadzieje, że powoli uginasz sie przy moim nieustającym dręczeniu."
+msgstr "Miałem nadzieję, że podda się Pan przez to moje nieustanne zrzędzenie."
 
 msgctxt "navscu060"
 msgid "Kid, I've been married for thirty years."
@@ -24444,23 +24444,23 @@ msgstr "No i?"
 
 msgctxt "navscu061"
 msgid "So, if there's one thing I'm immune to, it's incessant, high pitched, nagging."
-msgstr "No i jeśli jest jakaś rzecz przez, którą jestem nieugięty to jest to nieustające dręczenie."
+msgstr "No i jeśli jest jedna rzecz, na którą jestem odporny, to jest to nieustanne, piskliwe, zrzędzenie."
 
 msgctxt "navscu062"
 msgid "...high-pitched..."
-msgstr "... dokuczliwa..."
+msgstr "... piskliwe..."
 
 msgctxt "navscu063"
 msgid "...nagging."
-msgstr "... bardzo zła..."
+msgstr "... zrzędzenie."
 
 msgctxt "guyscu276"
 msgid "I haven't got a clue."
-msgstr "Nie mam nic na myśli."
+msgstr "Nie miałem pojęcia."
 
 msgctxt "navscu064"
 msgid "Well, let me know when you've got one."
-msgstr "Więc daj mi znać, kiedy będziesz coś miał."
+msgstr "Więc daj mi znać, kiedy będziesz miał."
 
 msgctxt "navluc001"
 msgid "There you go, Mister Marley.  Lucre Island™."
@@ -27716,7 +27716,7 @@ msgstr "Raczej nie, kapitanie."
 
 msgctxt "guygpt041"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "navgpt019"
 msgid "Ten stary jacht potrzebuje większego przeglądu zanim gdziekolwiek odpłynie."
@@ -33624,7 +33624,7 @@ msgstr "Co jeszcze?!"
 
 msgctxt "navshi016"
 msgid "Why not?"
-msgstr "Dlaczego nie?"
+msgstr "Czemu nie?"
 
 msgctxt "navshi017"
 msgid "Yeah, for another two whole acts."
@@ -33692,7 +33692,7 @@ msgstr "AAAAgh!"
 
 msgctxt "navshi033"
 msgid "Aye."
-msgstr "Tak."
+msgstr "Aj."
 
 msgctxt "eddpla039"
 msgid "Why don't you quit bothering me and go dive?"
@@ -39764,7 +39764,7 @@ msgstr "Na pewno sobie poradzę. Musisz być Pegnose Pete."
 
 msgctxt "eypp010a"
 msgid "Aye."
-msgstr "Tak."
+msgstr "Aj."
 
 msgctxt "eyel011a"
 msgid "Szkoda. Muszę, "
@@ -46008,15 +46008,15 @@ msgstr ""
 
 msgctxt "txtscu006D"
 msgid "nieustraszonym zeglazem"
-msgstr ""
+msgstr "nieustraszonym żeglarzem"
 
 msgctxt "txtscu007D"
 msgid "wiekszym graczem grajacym w rzutki"
-msgstr ""
+msgstr "większym graczem grającym w rzutki"
 
 msgctxt "txtscu008D"
 msgid "mniejszym graczem grajacym w rzutki"
-msgstr ""
+msgstr "mniejszym graczem grającym w rzutki"
 
 msgctxt "txtoze002D"
 msgid "straszną fontannę"

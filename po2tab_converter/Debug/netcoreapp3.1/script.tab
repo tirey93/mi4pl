@@ -1503,7 +1503,7 @@ otishi007	Œwietnie. Teraz dok¹d p³yniemy?
 guyshi021	Wyspa Jambalaya! Dom Talizmanu Upokorzenia.
 clashi006	Wyspa Jambalaya? Co to za nazwa?
 guyshi022	Mo¿esz nas pan tam zabraæ, panie Ser?
-navshi004	Tak.
+navshi004	Aj.
 guyshi023	To w drogê.
 habshi016	Hej! Co to za œmiecenie w moim porcie?
 guyshi024	No i to jest super ³ajba!
@@ -3227,7 +3227,7 @@ frehos077	Coœ tajemniczego.
 frehos078	Wiêkszoœæ opowiadañ mówi, ¿e oderwa³a mu go jakaœ kaczka.
 guyhos053	Ewww.
 frehos079	Ale ja w to nie wierzê.
-guyhos054	Dlaczego nie?
+guyhos054	Czemu nie?
 frehos080	Z w³asnego doœwiadczenia wiem, ¿e kaczki nie maj¹ do tego zdolnych zêbów.
 frehos081	To by trwa³o wieki dla kaczki, nawet dla jakiejœ wœciek³ej kaczki, ¿eby komuœ odgryŸæ nos.
 frehos082	Nie wyobra¿am sobie faceta z kaczk¹ przyczepion¹ do nosa przez godzinê, nikt by sobie na to tak d³ugo nie pozwoli³.
@@ -3420,7 +3420,7 @@ guyhoj100	Czyli grog jest ok?
 otihoj029	To jest fajne.
 guyhoj101	A mo¿e kupiæ ci trochê w³asno przyrz¹dzanego grogu z Mikrogrogerii?
 otihoj030	Nie ufam Mikrogrogeriom.
-guyhoj102	Dlaczego nie?
+guyhoj102	Czemu nie?
 otihoj031	Widzia³em kiedyœ pirata, który oœlep³ pij¹c jakiœ produkt z Mikrogrogerii...
 otihoj032	Jaki rodzaj grogu?
 guyhoj103	Racja.
@@ -5383,7 +5383,7 @@ murplt021	Oferujemy crem de la crem w pirackim wydaniu, rodzinn¹ atmosferê i mnó
 ptwplt002	Murray!
 murplt022	Jest ok. Specjalnie doda³em to o "Ÿle".
 guyplt041	Nie mogê sobie wyobraziæ, ¿e jesteœ zapraszaj¹cym.
-murplt023	Dlaczego nie?
+murplt023	Czemu nie?
 guyplt042	No, nie masz r¹k na przyk³ad.
 murplt024	Z£U nie potrzebne s¹ rêce. Patrz@
 murplt025	Ej, ty! Tak, ty z twarz¹!
@@ -5984,136 +5984,136 @@ guyall153	Ale bez glutów!
 guyall154	Nie. Mój w³asny nos dzia³a bardzo dobrze.
 guyscu209	Dzieñ dobry, Panie Serze.
 navscu065	Tak?
-guyscu210	Witam, niechlujnie wygl¹daj¹cy piracie. Jestem Guybrush Threepwood, Potê¿ny Pirat.
-guyscu003	Jak sie nazywasz?
+guyscu210	Witam, niechlujnie wygl¹daj¹cy piracie. Jam Guybrush Threepwood, Potê¿ny Pirat.
+guyscu003	Jak siê nazywasz?
 navscu066	Ser.
 navscu067	Ignacy Ser.
-guyscu004	Jak bardzo chcia³byœ do³¹czyæ do mojej za³ogi potê¿nych piratów, Panie Serze?
-navscu068	I co, powiedz mi szczerze, móg³bym miêæ z tego, ¿e do³¹czê do twojej za³ogi potê¿nych piratów?
-guyscu213	Jesteœ pewny, ¿e nie chcesz do³¹czyæ do potê¿nych piratów?
-navscu069	Oh, jestem otwarty na sugestie. Co taki pirat mia³by tam robiæ?
-guyscu214	Czy jest jakiœ sposób, ¿eby ciê przekonaæ, abyœ nawigowa³ Moj statek na Wyspê Mamony?
-navscu006	Jestem otwarty na sugestie...Co masz na myœli?
-guyscu215	Jesteœ pewny ze nie ma sposobu, ¿ebyœ by³ moim nawigatorem w kursie na Wyspê Mamony?
-guyscu008	Jest pan gotów na kolejn¹ rundê Zniewa¿ania na Rêkê, cieniasie?
-navscu007	Oczywiœcie! Jeœli wygrasz bêdê twoim nawigatorem.
-guyscu217	Wiec zaczynajmy.
-guyscu218	Nie mo¿e sie pan doczekaæ naszego rejsu na Wyspê Mamony?
-navscu008	Aj. To wielki zaszczyt p³ywaæ z takim m¹drym piratem.
-guyscu219	Ale mam pan wielkie miêœnie, Panie Ser.
-navscu009	Lepiej sie z nimi zmierz w Zniewa¿aniu na Rêce.
-guyscu220	Powiedz mi jeszcze raz o tym Zniewa¿aniu na rêkê.
-navscu010	Myœla³em, ¿e wyrazi³em sie jasno...
-navscu011	To takie samo jak Zniewa¿anie na Miecze...ale z rêkoma.
+guyscu004	Co Pan powie na do³¹czenie do mej za³ogi potê¿nych piratów, Panie Serze?
+navscu068	I co, powiedz, móg³bym robiæ, gdybym do³¹czy³ do tej za³ogi potê¿nych piratów?
+guyscu213	Jesteœ Pan pewny, ¿e nie chce do³¹czyæ do za³ogi potê¿nych piratów?
+navscu069	Nie wiem. Jakiego rodzaju piractwa bym uprawia³?
+guyscu214	Czy da³by siê Pan jakoœ przekonaæ, aby nawigowaæ mój statek na Wyspê Mamony?
+navscu006	Jestem otwarty na sugestie... Co masz na myœli?
+guyscu215	Czy nic by Pana nie przekona³o, aby nawigowaæ mój statek na Wyspê Mamony?
+guyscu008	Wyzywam Pana na kolejn¹ rundê Zniewa¿ania na Rêkê, ty wielkoramienny œwirze!
+navscu007	Znakomicie! Wygrasz, a bêdê twym nawigatorem.
+guyscu217	Stoi.
+guyscu218	Nie mo¿e siê Pan doczekaæ rejsu na Wyspê Mamony?
+navscu008	Aj... sama przyjemnoœæ ¿eglowaæ z tak subtelnym kpiarzem jak ty.
+guyscu219	Ale mam Pan wielkie ramiona, Panie Ser.
+navscu009	Najlepsze do Zniewa¿ania na Rêkê, Panie Threepwood.
+guyscu220	Opowiedz mi jeszcze raz o tym Zniewa¿aniu na Rêkê.
+navscu010	S¹dzi³em, ¿e wyrazi³em siê jasno...
+navscu011	To jak Zniewa¿anie na Miecze... tylko na rêkê.
 guyscu013	Ah.
-guyscu014	Chwila. Nazywasz siê "I.Ser"?
-navscu012	Tak.
+guyscu014	Chwila. Nazywasz siê "I. Ser"?
+navscu012	Aj.
 guyscu223	"Ser"?
 guyscu224	Wybacz, ale ciê¿ko poj¹æ absurd tego imienia.
-navscu013	I kto to mówi, panie THREEPWOOD.
-guyscu017	Wiedz, ¿e nazwisko Threepwood posiada d³ug¹ i zacn¹ historiê.
+navscu013	Bez w¹tpienia, Panie THREEPWOOD.
+guyscu017	Musi Pan wiedzieæ, ¿e nazwisko Threepwood posiada d³ug¹ i zacn¹ historiê.
 navscu014	Moje tak¿e.
 guyscu018	Chcia³bym us³yszeæ "d³ug¹ i zacn¹ historiê" rodu Serów.
-navscu015	Aye, z rozkosz¹!
-navscu016	Zaiste, nie w sposób nie wspomnieæ mego prapradziadka...
-navscu017	który zrewolucjonizowa³ sztukê naprawy powozów.
+navscu015	Aj, z przyjemnoœci¹!
+navscu016	Zaiste ¿adna rozmowa o mojej rodzinie nie by³aby kompletna bez wspomnienia o moim pra-pradziadku...
+navscu017	który urz¹dza³ wielkie, olbrzymie uroczystoœci dla ca³ego archipelagu.
 guyscu019	Kto to by³?
-navscu018	Kpisz sobie? Nie s³ysza³eœ o Lewarze LeSerze?
-guyscu228	W mym fachu nieczêsto uje¿d¿am powozy.
-guyscu229	Opowiedz coœ wiêcej o Serach.
-navscu019	No, mam stryjecznego dziadka.
+navscu018	Kpisz sobie? Nie s³ysza³eœ o Serze Feta?
+guyscu228	Rzadko mnie zapraszaj¹ na takie balangi.
+guyscu229	Opowiedz coœ wiêcej o rodzinie Serów.
+navscu019	Jest jeszcze mój pra-wuj.
 guyscu230	Z czego s³ynie?
-navscu020	Znany œwiêtoszek – w k³ótni jest zawsze neutralny.
+navscu020	Œwiêty cz³owiek - pozostaje niez³omnie neutralny w ka¿dym konflikcie.
 guyscu231	Niech zgadnê...
-guyscu232	Szwajcar?
+guyscu232	Ser Szwajcarski?
 navscu021	S³ysza³eœ o nim!
-navscu022	Brat szuka sobie pseudonimu.
+navscu022	Mój brat wyrabia sobie pseudonim.
 guyscu233	Serio? Czym siê para?
-navscu023	Œpiewa deprymuj¹ce, autobiograficzne pieœni.
+navscu023	Niczym, s³oma mu z butów wychodzi.
 guyscu234	Moment...
-guyscu235	BlueSer?
+guyscu235	Podlaski?
 navscu024	Masz nosa do Serów!
-navscu025	Moja pra-pra-pra ciotka by³a legendarnie brzydka.
+navscu025	Moja pra-pra-ciotka by³a legendarnie brzydka.
 guyscu236	Jak bardzo?
 navscu026	Tak, ¿e a¿ ch³opy kamienieli na jej widok.
 guyscu029	Momencik...
 guyscu238	eee...
 guyscu239	Nic mi nie œwita.
 navscu027	Nie winiê ciê... niewielu pamiêta Gorgon Zolê Ser.
-guyscu240	Argh. Myœlê, ¿e juz za du¿o sie nas³ucha³em o Serach.
-guyscu241	Milo by³o poznaæ, ale musze iœæ wytresowaæ ma³py.
-guyscu242	Bêdziesz móg³ pomagaæ grupie ludzi, pragn¹cych ograbiæ niczego sie nie spodziewaj¹ce wioski!
-navscu028	Arr. To nie brzmi zbyt mêsko. Ka¿da baba-pirat mo¿e Grabic bezbronne ryby.
-guyscu243	Tak jak mówi³em, bêdziemy pl¹drowaæ przybrze¿ne porty.
+guyscu240	Argh. "Wyserzy³a" mnie ta rozmowa o rodzinie.
+guyscu241	Milo by³o poznaæ, ale czas zwijaæ ma³pi interes.
+guyscu242	Pomaga³by Pan bandzie krwio¿erczych bandytów spl¹drowaæ ma³¹ wioskê ryback¹!
+navscu028	Arr. To nie brzmi zbyt mê¿nie. Ka¿dy zniewieœcia³y pirat mo¿e spl¹drowaæ bezbronn¹ ryback¹ spo³ecznoœæ.
+guyscu243	Tak jak mówi³em, bêdziemy pl¹drowaæ nadmorski port.
 navscu029	Pshaw.
-guyscu244	Bêdziesz szuka³ zatopionych skarbów z grupa pragn¹cych œmierci maszyn.
-navscu030	M³ody, zatopione skarby s¹ dla z³odziei i ³obuzów. Prawdziwi piraci ODBIERAJA sobie skarby.
-guyscu245	Jak wspomina³em, bêdziemy szukali skarbów na dnach mórz.
-navscu031	Przykro mi, ale to brzmi g³upio.
-guyscu246	Bêdziesz móg³ podró¿owaæ na Wyspê Mamony z piratami, by spotkaæ prawników mojej zony.
-navscu032	No, i TO brzmi jak misja warta zachodu dla Potê¿nego Nawigatora Pirackiego.
+guyscu244	Szuka³by Pan zatopionego skarbu z grup¹ bezwzglêdnych maszyn do zabijania.
+navscu030	£owy zatopionych skarbów s¹ dla z³odziei i nicponi, m³odzieñcze. Prawdziwi piraci TRZYMAJ¥ swoje skarby.
+guyscu245	Jak wspomina³em, bêdziemy przeczesywaæ dna w poszukiwaniu mokrych szekli.
+navscu031	Przykro mi, ale to brzmi durnie.
+guyscu246	Pop³yn¹³by Pan na Wyspê Mamony z ekip¹ kretyñskich korsarzy, by spotkaæ siê z prawnikami mojej ¿ony.
+navscu032	I TO brzmi jak misja warta zachodu dla Potê¿nego Pirata Nawigatora, takiego jak ja.
 guyscu247	Serio?
-navscu033	Aj. Morza wokó³ Wyspy Mamony s¹ bardzo zdradzieckie, i mog¹ byæ nawigowanie tylko przez doœwiadczonych.
-navscu034	Uwielbiam siê zmierzaæ z wyzwaniem, ale...
+navscu033	Aj. Morza wokó³ Wyspy Mamony s¹ bardzo zdradliwe, a poruszaæ siê po nich mo¿e tylko doœwiadczony ¿eglarz.
+navscu034	Chêtnie bym stawi³ temu czo³a, ale...
 guyscu248	Ale co?
 navscu035	Nie mogê.
-guyscu249	Daj mi o tym pomyœleæ przez chwile.
-navscu036	Oczywiœcie, to twój czas.
-navscu037	Poniewa¿ jeœli opuszczê mój bar na zbyt d³ugo, to ktoœ mi go ukradnie!
-guyscu250	Jesteœ w³aœcicielem SCUMM-Baru?
+guyscu249	Zastanowiê siê nad tym przez chwilê.
+navscu036	Pewnie, nie spiesz siê.
+navscu037	Bo jeœli zostawiê mój bar na zbyt d³ugo, zostanie mi on skradziony!
+guyscu250	Jest Pan w³aœcicielem SCUMM Baru!?
 navscu038	Aj. Jednym i jedynym.
-guyscu251	Dlaczego nie?
-guyscu252	Dlaczego nie? Nie te nerwy?
-navscu039	S³uchaj m³ody. Mam wiêcej nerwów ni¿ trzy nogi kot w psim Reality-Show.
-guyscu253	Wiêc dlaczego nie mo¿esz do³¹czyæ do mojej za³ogi?
-guyscu254	Dlaczego nie? Twój ty³ek przyklei³ sie do krzes³a?
-navscu040	Hm, tak, dobrze kombinujesz, nie ma co. Ale to nie dlatego nie mogê p³yn¹æ, Piracie.
+guyscu251	Czemu nie?
+guyscu252	Czemu nie? Straci³ Pan odwagê?
+navscu039	S³uchaj, m³ody. Mam wiêcej odwagi ni¿ trójnogi kot na wystawie psów!
+guyscu253	Wiêc dlaczego nie mo¿e Pan do nas do³¹czyæ?
+guyscu254	Dlaczego? Kuper przylgn¹³ Panu do krzes³a?
+navscu040	Có¿, tak. Jak ju¿ o tym wspominasz to tak. Ale to nie dlatego nie mogê p³yn¹æ.
 guyscu255	Wiec czemu nie?
-navscu041	Wa³czy³em z wrogimi Australijczykami, którzy wykupywali ziemie.
+navscu041	Odpiera³em wrog¹ ofertê przejêcia ze strony australijskiego dewelopera gruntów.
 guyscu256	S³ucham?
-navscu042	No s³uchaj...
-navscu043	Chciwy Australijczyk chcia³ zrabowaæ mój bar!
-guyscu257	Ze strzelbami i mieczami i armatami?
-navscu044	Gorzej. Przez zniewagê, docinki i kpiny!
-navscu045	Cale moje umiejêtnoœci Zniewa¿ania na Rêkê trzyma³ na dystans!
-guyscu258	To nieco w stylu ' mojej ¿ony, która by³a zadeklarowana jako umar³a'
-guyscu259	To chyba najbardziej szalona historia jak¹ s³ysza³em w tym tygodniu.
-guyscu260	Dlaczego ci siê wydaje, ¿e ktoœ mo¿e ukraœæ ci SCUMM-Bar?
-navscu046	Mo¿e dlatego, ¿e...
-guyscu261	Nie mogê uwierzyæ, ¿e SCUMM-Bar mo¿e nale¿eæ do kogoœ kto siê nazywa 'I.Ser'.
-navscu047	Co ty nie powiesz, Panie Drftwood.
+navscu042	S³ysza³eœ...
+navscu043	Chciwy Australijczyk próbuje przej¹æ mój bar!
+guyscu257	Broni¹, mieczem i armat¹?
+navscu044	Gorzej. Zniewag¹, docinkiem i kpin¹.
+navscu045	Utrzymanie go w ryzach wymaga³o ca³ej mojej zrêcznoœci w Zniewa¿aniu na Rêkê!
+guyscu258	Rany. Gdyby nie to, ¿e ¿ona zosta³a uznana za zmar³¹,
+guyscu259	uzna³bym, ¿e to najdziwniejsza rzecz, jak¹ s³ysza³em przez tydzieñ.
+guyscu260	Sk¹d pomys³, ¿e SCUMM Bar zostanie skradziony?
+navscu046	No wiêc to tak...
+guyscu261	Trudno mi uwierzyæ, ¿e SCUMM Bar jest w³asnoœci¹ kogoœ o imieniu "I. Ser"
+navscu047	Co Pan nie powie, Panie Œlizwood.
 guyscu262	THREEPwood.
-navscu048	Mo¿e byæ. W ka¿dym razie...
-guyscu263	To zabawne, zawsze myœla³em, ¿e SCUMM-Bar nale¿y do faceta o imieniu 'Ron'.
-navscu049	Aj. On by³ na pocz¹tku w³aœcicielem. Ale wygra³em z nim ten bar w epickiej, dwunastogodzinnej walce w Zniewa¿aniu na Rybach.
+navscu048	Jak chcesz. W ka¿dym razie...
+guyscu263	To zabawne. Zawsze myœla³em, ¿e SCUMM Bar jest w³asnoœci¹ faceta o imieniu "Ron".
+navscu049	Aj. On by³ na pocz¹tku. Ale wygra³em go od niego w epickiej, dwunastogodzinnej walce w Zniewa¿aniu na Rybach.
 guyscu264	To brzmi jak olbrzymia bajka.
-navscu050	Wie¿ w co chcesz, w ka¿dym razie...
-navscu051	Kiedy ty le¿a³eœ w ko³ysce Zniewa¿anie na Rêkê by³o najwiêkszym hobbym piratów.
-guyscu265	Hobbym?
-navscu116	W dzisiejszych czasach, nie mo¿esz rzucaæ do celu lub graæ w inne ¿a³osne gry bez dowcipnych uwag.
-guyscu266	Chyba straci³eœ dowcipne uwagi w jednej walce na jedzenie...
-navscu117	Moja szczególna specjalnoœæ to Zniewa¿anie na Rêkê, u¿ywam jej ¿eby odstraszaæ natrêtnych kolegów.
-guyscu267	Nie mia³eœ na myœli przypadkiem ' Zniewa¿anie na Miecze '?
-navscu118	Nie!
-guyscu268	Myœla³eœ chyba o ' Zniewa¿aniu na Miecze ', stary g³upcze!
-navscu119	Jesteœ nieugiêty, Panie Marley.
+navscu050	Wierz w co chcesz, w ka¿dym razie...
+navscu051	Podczas twojej nieobecnoœci paradygmat "Zniewa¿ania na Miecze" zosta³ do³¹czony do wielu innych pirackich rozrywek.
+guyscu265	Paradygmat?
+navscu116	Có¿, w dzisiejszych czasach nie mo¿na zagraæ w rzutki czy w warcaby, nie oczekuj¹c, ¿e nikt nie trzaœnie jakiœ z³oœliwy bon mot.
+guyscu266	Ja chyba kiedyœ rzuci³em bon motem w walce na ¿arcie...
+navscu117	Moj¹ specjalnoœci¹ jest Zniewa¿anie na Rêkê, którego u¿ywam do obrony baru przed wrogim przejêciem.
+guyscu267	Ma Pan na myœli Zniewa¿anie na Miecze?
+navscu118	Nie.
+guyscu268	Myœla³ Pan o Zniewa¿aniu na Miecze, ty stary g³upcze!
+navscu119	Odklei³ siê Pan, Panie Marley.
 guyscu269	Zniewa¿anie na Rêkê?
-guyscu270	Jeœli pokonam ciê w Zniewa¿aniu na Rêkê, bêdziesz moim nawigatorem?
+guyscu270	Jeœli wygram na rêkê, zostanie Pan moim nawigatorem?
 navscu056	Hmmm. Ciekawa propozycja, Threepwood.
 guyscu271	Tak? To znaczy, oczywiœcie ¿e tak!
-navscu057	A mo¿e tak: jeœli pokonasz mnie, bêdê twoim nawigatorem...
+navscu057	Mo¿e tak: jeœli pokonasz mnie, bêdê twoim nawigatorem...
 guyscu272	Œwietnie!
 navscu058	Ale tylko jeœli nauczysz mnie jakichœ nowych obelg.
 guyscu273	Zgoda.
-navscu059	No wiec...pokarz na co ciê staæ!
-guyscu274	Mia³em nadzieje, ¿e powoli uginasz sie przy moim nieustaj¹cym drêczeniu.
+navscu059	A wiêc... poka¿ na co ciê staæ!
+guyscu274	Mia³em nadziejê, ¿e podda siê Pan przez to moje nieustanne zrzêdzenie.
 navscu060	Dziecko. By³em ¿onaty przez trzydzieœci lat.
 guyscu275	No i?
-navscu061	No i jeœli jest jakaœ rzecz przez, któr¹ jestem nieugiêty to jest to nieustaj¹ce drêczenie.
-navscu062	... dokuczliwa...
-navscu063	... bardzo z³a...
-guyscu276	Nie mam nic na myœli.
-navscu064	Wiêc daj mi znaæ, kiedy bêdziesz coœ mia³.
+navscu061	No i jeœli jest jedna rzecz, na któr¹ jestem odporny, to jest to nieustanne, piskliwe, zrzêdzenie.
+navscu062	... piskliwe...
+navscu063	... zrzêdzenie.
+guyscu276	Nie mia³em pojêcia.
+navscu064	Wiêc daj mi znaæ, kiedy bêdziesz mia³.
 navluc001	No i jesteœmy, Panie Marley. Wyspa Mamony.
 guyluc001	Dziêki, Panie Serze. Yy, czy nastêpnym razem nie moglibyœmy dostaæ sie tu z mniejszym dramatyzmem?
 otiluc001	Oh, nie. Nie planujemy bycia tu nastêpny raz, prawda?
@@ -6927,7 +6927,7 @@ guygpt039	Ahoj, Panie Serze!
 navgpt017	Wielkie ahoj, kapitanie. W czym mogê pomóc?
 guygpt040	Zbieramy za³ogê, za chwilê wyp³ywamy!
 navgpt018	Raczej nie, kapitanie.
-guygpt041	Dlaczego nie?
+guygpt041	Czemu nie?
 navgpt019	Ten stary jacht potrzebuje wiêkszego przegl¹du zanim gdziekolwiek odp³ynie.
 daigpt001	Musisz mnie naprawiæ NA MIEJSCY, Serowaty!
 navgpt020	Poza tym, nie chcia³ pan przypadkiem szukaæ tego Talizmanu uprzedzenia czy coœ?
@@ -8404,7 +8404,7 @@ navshi012	Gdzieœ siê tu krêci.
 navshi013	Mówi³em mu, ¿eby nie opuszcza³ stoczni.
 navshi014	No to mówi, synu.
 navshi015	Co jeszcze?!
-navshi016	Dlaczego nie?
+navshi016	Czemu nie?
 navshi017	Tak, przez kolejne dwa akty.
 navshi018	Co?
 navshi019	Hmm...no i co z tego?
@@ -8421,7 +8421,7 @@ navshi029	¯e co!? Australijczyk po³o¿y³ swój hak na moim barze!?
 navshi030	Ja WIEDZIA£EM, ¿e tak bêdzie jak wyjadê!
 navshi031	Jak to?
 navshi032	AAAAgh!
-navshi033	Tak.
+navshi033	Aj.
 eddpla039	Czemu nie dasz mi spokoju i nie pójdziesz skakaæ?
 eddpla040	Tak, jestem œwiadomy faktu, ¿e próbujesz mnie zaszanta¿owaæ.
 eddpla041	Czy to ³apówka? Jeœli tak, to jest upokarzaj¹ce.
@@ -9939,7 +9939,7 @@ eyel007d	Co to ma wspólnego z Talizmanem Upokorzenia?
 eyel007e	Co siê sta³o z Guybrushem? Co tak cuchnie?
 eypp008	Arrr, By³a-Gubernator Marley. Ciê¿ko jest kobiecie na to odpowiedzieæ, wiesz?
 eyel009	Na pewno sobie poradzê. Musisz byæ Pegnose Pete.
-eypp010a	Tak.
+eypp010a	Aj.
 eyel011a	Szkoda. Muszê, 
 eypp012	Muszê nalegaæ.
 eyel013	Cholera.
@@ -11500,9 +11500,9 @@ txtpph005D	t³ust¹ tkaninê
 txtpta005D	tabacco do ¿ucia
 txtscu004D	pijanym marynarzem
 txtscu005D	towarzyskim barmanem
-txtscu006D	nieustraszonym zeglazem
-txtscu007D	wiekszym graczem grajacym w rzutki
-txtscu008D	mniejszym graczem grajacym w rzutki
+txtscu006D	nieustraszonym ¿eglarzem
+txtscu007D	wiêkszym graczem graj¹cym w rzutki
+txtscu008D	mniejszym graczem graj¹cym w rzutki
 txtoze002D	straszn¹ fontannê
 txtoze003D	straszne ptaki
 txtscu015D	straszne drzwi

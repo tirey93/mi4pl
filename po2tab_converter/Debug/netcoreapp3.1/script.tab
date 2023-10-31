@@ -1051,7 +1051,7 @@ voovoo085	Musisz odkryæ tajemnice Talizmanu Upokorzenia, by pokonaæ tych bliŸnia
 guyvoo093	Wci¹¿ nie wiem, jak powstrzymaæ tych dwóch z³oli.
 voovoo086	ZnajdŸ Talizman Upokorzenia. W³aœnie t¹ drog¹ musisz pod¹¿aæ.
 guyvoo094	W³aœciwie dobrze wiem, co mam robiæ dalej.
-voovoo087	To dobrze.
+voovoo087	Niech bêdzie.
 voovoo088	Wyczuwam, ¿e chcesz wiedzieæ CZYM jest Talizman Upokorzenia.
 guyvoo095	Dobry strza³.
 guyvoo096	Nie to chcia³e...
@@ -1211,8 +1211,8 @@ grgscu005	To robota... INNYCH graczy.
 nedscu018	Taa, my nigdy nie pud³ujemy.
 guyscu138	Nie zalewaj.
 grgscu006	Serio. Wybierz liczbê, on w ni¹ trafi.
-guyscu139	Na pewno nie trafisz kolejnej przy pierwszym strzale.
-nedscu019	Podaj liczbê, to trafiê.
+guyscu139	Na bank nie trafisz kolejnego celu.
+nedscu019	Trafiê co chcesz.
 guyscu140	Czy tacy m³odzi, napakowani osobnicy nie do³¹czyliby do mej pirackiej za³ogi?
 nedscu020	Chcia³bym, ale po wygraniu Mistrzostw wyspy Szpady, bêdê musia³ wyruszyæ w trasê po Puchar Rzutek na Trójwyspie.
 grgscu007	W sumie to mo¿esz do niego do³¹czyæ bo to ja bêdê mistrzem wyspy Szpady.
@@ -1544,9 +1544,9 @@ guyshi040	Wróci³em.
 guyshi041	Piêkna noc na rejs, nie?
 habshi021	Oczywiœcie, o ile masz lódŸ.
 habshi022	Znikaj, mam przerwê.
-guyshi042	Jesteœ Pan Kapitan Portu?
+guyshi042	Jesteœ Panem Stoczni?
 habshi023	Nie.
-habshi024	Jestem PANI kapitan portu.
+habshi024	Jestem PANI¥ Stoczni.
 habshi025	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, wyspa Szpady".
 habshi026	Oddzia³ Us³ug Transportu Œród-Wyspowego.
 guyshi043	To znaczy?
@@ -3701,7 +3701,7 @@ ozzozi095	Wygl¹da jakby niektóre rzeczy siê ba³y ciebie ¿e je ukradniesz.
 ozzozi096	Nie jesteœ pêpkiem œwiata!
 ozzozi097	Jesteœ bardziej zabawniejszy ni¿ ci ludzie spod krzy¿a.
 ozzozi098	Œlepy widzi lepiej ni¿ ty.
-ozzozi099	Czy mama cie upuœci³a do garnka z wrz¹tkiem?
+ozzozi099	Widzia³eœ o jednego klapsa za du¿o od Illywhackera.
 ozzozi100	Powodujesz u mnie wœciekliznê.
 ozzozi101	Pachniesz gorzej ni¿ ma³pa z biegunk¹.
 ozzozi102	Nie próbuj siê ze mn¹ bawiæ.
@@ -4442,7 +4442,7 @@ murgpt011	(Wszelkie prawa zastrze¿one dla Pana Ozziego Mandrilla)
 murgpt012	Gdzie ka¿dy PRAWDZIWY pirat idzie, kiedy nie ma kto mu gotowaæ i ma ma³o pieniêdzy w kieszeni?
 murgpt013	Do Planety Threepwood!
 murgpt014	WejdŸcie i zasmakujcie w znanym na ca³y œwiat Guybrush Burgerze.
-murgpt015	oraz pijcie z naszego najlepszego kufla Mega Ma³py!
+murgpt015	oraz pijcie z naszego najlepszego Mega Ma³piego Kubka!
 murgpt016	Ca³¹ to œwietn¹ ofertê oraz mnóstwo ca³kowicie piracko-familijnej atmosfery znajdzie tylko w PLANECIE THREEPWOOD!
 murgpt017	Bo Murray prawdê wam powie!
 murgpt018	(Planeta Threepwood jest prawnym znakiem towarowym zastrze¿onym dla Pana Ozziego Mandrilla)
@@ -4523,7 +4523,7 @@ guymig014	AAAaaaahhhhh..
 opemig022	Myœla³em, ¿e wypadniesz na poziomie "Pastwisko", ale nie!
 opemig023	Do³¹czy³eœ do naszej elity, mój kolego.
 opemig024	Nie wielu przetrwa³o jazdy na naszej moskiej krowie.
-opemig025	ChodŸ ze mn¹ do lady, a dam ci Kupon Ma³piego Kubka!
+opemig025	ChodŸ ze mn¹ do lady, a dam ci kupon na posi³ek Ma³py z Kubkiem!
 opemig026	Masz! Baw siê dobrze!
 guymig015	Mo¿e kilka kropelek kleju pomo¿e...
 guymig016	Voila! Klejona krowa!
@@ -4652,7 +4652,7 @@ guystb037	Chyba jest ju¿ doœæ widowiskowe i nie potrzebuje mojej pomocy.
 guystb038	Logo towarowe Starbuccaneera
 guystb039	Kubki, koszulki, termosy, dzbanki do kawy...
 guystb040	...oraz kilka rzeczy których nie rozpoznaje.
-guystb041	Hej, Logo-kubki Starbuccaneera wygl¹daj¹ prawie identycznie jak Srebrny Ma³pi Kubek.
+guystb041	Hej, ten kubek z logo StarBuccaneer™ wygl¹da na mniej wiêcej taki sam kszta³t i rozmiar jak Kubek Srebrnej Ma³py.
 guystb042	Na pewno wyprodukowano je w tym samym pañstwie.
 guystb043	Ale oszuœci. Na Wyspie Szpady dostanê dok³adnie to samo tylko dziesiêæ razy taniej!
 sbcstb013	Tak, ale teraz jesteœ poza Wysp¹ Szpady.
@@ -4745,7 +4745,7 @@ artplt028	Eww.
 guyplt024	Nie, serio... to mnie relaksuje.
 guyplt025	Jeœli to co s³ysza³em jest prawd¹, coraz wiêcej piratów jest w Internecie.
 artplt029	Nie mam pojêcie co to jest, ale spróbuje to namalowaæ.
-guyplt026	Nie wyobra¿am sobie czegoœ bardziej odprê¿aj¹cego dla pirata ni¿ wpadniêcie w³aœnie tu na jakiegoœ Mega Ma³piego kufla.
+guyplt026	Nie wyobra¿am sobie niczego, co pirat móg³by pokochaæ bardziej ni¿ przybycie na Planetê Threepwood na posi³ek Mega Ma³py z Kubkiem!
 artplt030	Oooh, to dobre. Czekaj...
 guyplt027	Z drugiej strony, nie chcê obrazu ze mn¹. Bojê siê, ¿e mogê przez to straciæ dusze.
 artplt031	Te¿ prawie skoñczy³em. Dobrze, powiedz mi jak zmienisz zdanie.
@@ -5216,13 +5216,13 @@ guymig040	Raczej jak p³ywaj¹cy wieprz.
 opemig051	Tak? To spróbuj wepchn¹æ siê do ¿arcia, które oni jedz¹ to zobaczysz jakie groŸne s¹.
 guymig041	Ale po co wam mechaniczna syrena?
 opemig052	G³ównie dla rozrywki.
-opemig053	Ale dzisiaj jest wiêcej, dajemy kupony do Planety Threepwood na Ma³pi Kubek ka¿demu, kto przejedzie Krowê na maksymalnych ustawieniach.
+opemig053	Ale w ramach promocji rozdajemy kupon Planet Threepwood na bezp³atny posi³ek Ma³py z Kubkiem dla ka¿dego, kto ujedzie na Manacie na najwy¿szym ustawieniu.
 guymig042	Jeszcze raz, po co tu syrena?
 opemig054	Zwykle p³acisz za jazdê.
-opemig055	Ale dzisiaj jest wiêcej, dajemy kupony do Planety Threepwood na Ma³pi Kubek ka¿demu wielkiemu piratowi, który ujeŸdzi wieprza na maksymalnych ustawieniach.
+opemig055	Ale obecnie prowadzimy promocjê, w ramach której mo¿esz otrzymaæ kupon Planet Threepwood na bezp³atny kubek srebrnej ma³py. O ile jesteœ na tyle piracki, by jeŸdziæ na najwy¿szym ustawieniu.
 guymig043	Myœlê, ¿e spróbuje szczêœcia na waszej Syrence.
 opemig056	Jasne! Poka¿ co umiesz!
-opemig057	Niestety, ju¿ wygra³eœ swój kupon, a rozdajemy tylko jeden na klienta.
+opemig057	Niestety, ju¿ wygra³eœ swój kupon na posi³ek Ma³py z Kubkiem, a rozdajemy tylko jeden na klienta.
 guymig044	Ujecha³bym jeszcze raz t¹ krowê.
 guymig045	Te krowie rozmowy s¹ za mocne dla mnie. Gadajmy o czymœ innym.
 opemig058	Dobrze.
@@ -5466,8 +5466,8 @@ clvplt026	Hmmm.
 clvplt027	Nie. Niestety nie mam doœæ du¿o Punktów Doœwiadczenia, ¿eby ci coœ poradziæ.
 guyplt072	Jedna z czêœci wygl¹da jak ma³pia g³owa ze srebra.
 clvplt028	Ma³pia g³owa ze srebra?
-clvplt029	To brzmi jak Srebrny Ma³pi Kubek, którego u¿ywa siê tu na specjalne zamówienia.
-guyplt073	Uwa¿asz, ¿e ten Kubek jest jednym z czêœci?
+clvplt029	Zupe³nie jak Kubek Srebrnej Ma³py, którego u¿ywaj¹ na specjalne okazje w Planet Threepwood!
+guyplt073	Uwa¿asz, ¿e ten Kubek Srebrnej Ma³py jest jedn¹ z czêœci?
 clvplt030	Odda³bym za to po³owê moich Punktów Uderzenia.
 guyplt074	Wiesz co, ju¿ nie chce z tob¹ gadaæ o tym Talizmanie Upokorzenia.
 clvplt031	Spoko.
@@ -5568,7 +5568,7 @@ ptwplt053	Jestem doœæ zajêta.
 ptwplt054	Proszê, zostaw mnie w spokoju póki nie wiesz jak mi zap³aciæ.
 guyplt118	I chcia³bym te¿ dostaæ ten Ma³pi Kubek.
 ptwplt055	To œwietnie.
-ptwplt056	Przyniosê ci posi³ek oraz Kubek za kilka minut.
+ptwplt056	Za kilka minut przyniosê jedzenie i ceremonialny Mega Ma³pi Kubek.
 hb2cpt021	¯ARCIE!
 hb2cpt022	GROG!
 hb2cpt023	DZIWKI!
@@ -6899,30 +6899,30 @@ guymot064	Zaraz sam zobaczysz. Móg³byœ ju¿ skoñczyæ i otworzyæ mi i sobie bramê?
 guymot065	To nie istotne. Wa¿ne jest tylko to, ¿ebyœ otworzy³ t¹ cholern¹ bramê i rozwi¹za³ zagadkê.
 guymot066	Czy ja zawsze brzmiê tak wkurzaj¹co? Mo¿esz ju¿ nam otworzyæ?
 guymot067	le!
-guyall155	"BebikoGrog. Ca³a pe³nia smaku grogu, a w butelce tylko 2 procent alkoholu"
-guyall156	To jest niepoprawne.
+guyall155	"Grog Jr™. Ca³y wspania³y smak Grogu z tylko dwoma procentami alkoholu".
+guyall156	Co za krzywda.
 guyall157	(siorbanie)
-guyall158	Euggh! Obrzydlistwo!
-guyall159	"Ten kupon jest wymienialny tylko w Planecie Threepwood, mo¿na go wymieniæ na jeden(1) Srebrny Ma³pi kufel.
-guyall160	"Oferta wa¿na do 12/25. Wszêdzie indziej zakazany. Nie zamienialny z innymi ofertami naszej promocji ani nawet z niewolnikami bêd¹cymi w Planecie Threepwood"
-guyall161	Ale mo¿na go wymieniæ tylko z rzeczami z Planety Threepwood.
-guyall162	"Super Kropelka: Co kropelka sklei, nic ju¿ nie rozklei.
-guyall163	Ta reklama mówi sama za siebie.
-guyall164	Nie, jako dziecko ju¿ naw¹cha³em sie kleju.
-guyall165	No nie, chyba ¿e bêdê musia³.
-guyall166	To ca³kiem niez³a karykatura mnie na Srebrnym Ma³pim Kubku.
-guyall167	Jeœli to zdjêcie by³o z tym kubkiem, móg³bym je pomyliæ z tym prawdziwym.
-guyall168	Pod warunkiem, ¿e bêdzie ciemno i ludzie bêd¹ idiotami.
-guyall169	Ale na pocz¹tku to ja pojawi³em siê na zdjêciu.
-guyall170	Nie s¹dzê, ¿eby mi to jakoœ pomog³o.
-guyall171	To mi w niczym nie pomo¿e.
-guyall172	To zbyt drogi dla mnie kufel z logiem Starbuccaneera.
-guyall173	Pusty.
-guyall174	Wow, wygl¹da na to, ¿e to orygina³!
-guyall175	Nie mo¿na narysowaæ karykatury kufla na kubku.
-guyall176	Genialne, ale myœlê, ¿e ³atwiej by by³o z klejem czy czymœ takim.
-guyall177	Hej, no ja nie mogê! Kufel wygl¹da lepiej ni¿ orygina³!
-guyall178	Na pewno móg³bym siê z tym zawin¹æ trochê szybciej.
+guyall158	Euggh! Okropne!
+guyall159	"Ten kupon mo¿na zrealizowaæ w dowolnej restauracji Planet Threepwood na jeden posi³ek Srebrnej Ma³py z Kubkiem".
+guyall160	'Oferta wygasa 25/12. Dostêpna w wybranych placówkach. Nie obowi¹zuje w po³¹czeniu z innymi ofertami ani w przypadku pracowników lub niewolników konglomeratu Planet Threepwood".
+guyall161	Ta osoba nie pracuje w Planet Threepwood.
+guyall162	"Hiper Klej: Kropli moc trzyma sztos!"
+guyall163	To musi myæ silny towar.
+guyall164	Nie, maj¹c 5 lat doœæ siê naw¹cha³em.
+guyall165	Eh, lepiej ¿eby siê nie klei³o.
+guyall166	To doœæ dobra karykatura mnie z Kubkiem Srebrnej Ma³py
+guyall167	Jakby obrazek by³ na kubku, mo¿na by go pomyliæ z tym prawdziwym...
+guyall168	Gdyby by³o ciemno a porównuj¹cy by³by g³upi.
+guyall169	Samo z siebie nic chyba nie zrobi.
+guyall170	Nie s¹dzê, by to wiele da³o.
+guyall171	Teraz mogê to na coœ przykleiæ.
+guyall172	To przeceniony, modny kubek z logo StarBuccaneer's™.
+guyall173	Nic w œrodku nie ma.
+guyall174	Jej, w zasadzie wygl¹da jak orygina³!
+guyall175	Ta karykatura sama siê nie utrzyma na kubku.
+guyall176	To dobry pomys³, ale myœlê, ¿e ³atwiej by³oby na³o¿yæ klej na to, co chcê przykleiæ.
+guyall177	Spójrzcie! W zasadzie wygl¹da jak orygina³!
+guyall178	Mo¿e lepiej to zatrzymam, dopóki nie bêdê tego potrzebowa³.
 guygpt039	Ahoj, Panie Serze!
 navgpt017	Wielkie ahoj, kapitanie. W czym mogê pomóc?
 guygpt040	Zbieramy za³ogê, za chwilê wyp³ywamy!
@@ -7229,7 +7229,7 @@ guysta023	Brzmi super, ale najpierw muszê o tym pogadaæ ze swoj¹ ¿on¹.
 stasta063	Widzisz! Musisz zapytaæ ¿ony! Nie chcia³byœ mieæ u niej przechlapane, co?
 guysta024	Tak! To znaczy, nie chce spaæ w budzie z jej pieskami.
 stasta064	Aha. No to dziêki za wys³uchanie.
-stasta065	WeŸ jeszcze tylko swój kupon na Ma³pi Kubek do Plantety Threepwood, stary przyjacielu.
+stasta065	WeŸ jeszcze tylko swój kupon na Ma³pi Kubek do Planety Threepwood, stary przyjacielu.
 guysta025	(chrapie)
 stasta066	Hej! Wstawaj!
 guysta026	Zzzzzz....
@@ -7247,7 +7247,7 @@ guygom001	Jest za ma³a. Mo¿e gdybym mia³ ma³pê do dyspozycji.
 guygom002	On ma banana!
 guygom003	Choæ tutaj ma³peczko!
 guygom004	Teraz wejœcie jest jeszcze wê¿sze.
-guygom005	Wentylator jest zupe³nie otwarty.
+guygom005	Wywiewka jest zupe³nie otwarta.
 guygom006	Jest tu ciemno, jednak widzê zatrzask na drzwiach.
 guygom007	Jest tu ciemno, ale widzê zatrzask na drzwiach oraz g³odn¹ ma³pê.
 guygom008	Jest tu ciemno, ale widzê zatrzask na drzwiach i banana na ziemi.
@@ -8049,59 +8049,59 @@ jojtow003	Spadaj st¹d! Nie dos³ownie, rzecz jasna.
 jojtow004	Zaufaj swoim uczuciom, Guybrushu i spróbuj nas nie pozabijaæ.
 jojtow005	B¥D jak Wielki Ma³pi Robot, Guybrushu.
 jojtow006	Aby powstrzymaæ plan Ozziego, musisz wdrapaæ siê na szczyt wie¿y.
-guyall179	Mam tylko t¹ jedn¹ rzecz.
+guyall179	Mam tylko to.
 guyall180	Lepiej tego nie robiæ.
-guyall181	Myœlê, ¿e to idiotyczny pomys³, ¿eby st¹d wszystko wynosiæ.
+guyall181	W¹tpiê, by dobrym pomys³em by³o wyjmowanie teraz czegokolwiek.
 guyall182	Eee, lepiej nie.
-guyall183	Lepiej jeœli jeszcze to zostawiê u siebie.
-guyall184	Nie mam ¿adnej rzeczy.
+guyall183	Lepiej zostawiæ to dla siebie.
+guyall184	Nie mam nic na koncie.
 guyall185	Ciekawe, co to jest...
-guyall186	Nie mogê tego u¿yæ!
-guyall187	Nie wezmê tego.
+guyall186	Nie u¿yjê tego!
+guyall187	Nie podniosê tego.
 guyall188	Nie.
 guyall189	W¹tpiê.
-guyall190	Nie ma mowy, by to le¿a³o w moich spodniach.
+guyall190	Nie ma szans, ¿e wejdzie mi do spodni.
 guyall191	Mmmm.
 guyall192	Nie siêgnê.
 guyall193	Pusto.
 guyall194	Zamkniête.
-guyall195	<chrz¹kniêcie> Ani drgnie.
+guyall195	Ani drgnie.
 guyall196	Z czym?
 guyall197	To mi niczym nie pomo¿e.
 guyall198	Nikogo tu nie ma
 guyall199	Racja.
-guyall200	To jest OGROMNE!
+guyall200	To OGROMNE!
 guyall201	Ee, nie.
 guyall202	To nie by³oby zbyt mile.
 guyall203	To by by³o sprzeczne z pirackim kodeksem.
 guyall204	Móg³bym, ale jest pe³ne.
-guyall205	Pomimo œwietnej zabawy jak¹ by mi to sprawi³o, dziœ nie przesuwam ¿adnych mebli !
+guyall205	Mimo ¿e by³aby to œwietna zabawa, nie bêdê dziœ przenosiæ ¿adnych mebli.
 guyall206	Nie teraz.
 guyall207	Raczej nie.
-guyall208	To nie jest tak jak u¿yjesz jednej z tych.
+guyall208	Tak siê tego nie u¿ywa.
 guyall209	Po co mia³bym tego chcieæ?
-guyall210	W³aœnie to robiê.
-guyall211	W³aœnie to mam przy sobie.
-guyall212	Naprawdê mi to nie potrzebne.
-guyall213	Jest o ile to idzie.
-guyall214	Odpad³o.
+guyall210	Ju¿ to zrobi³em.
+guyall211	Ju¿ to mam.
+guyall212	Nie potrzeba mi tego.
+guyall213	To by by³o na tyle.
+guyall214	Jest przybite.
 guyall215	Otwarte.
 guyall216	Zamkniête.
 guyall217	To drabina.
-guyall218	To miejsce do tego nie s³u¿y.
+guyall218	Nie ma na to doœæ miejsca.
 guyall219	Nie tutaj!
-guyall220	Eh, to dobry pomys³...Szkoda, ¿e konstruktorzy nie pomyœleli o tym wczeœniej.
-guyall221	Eee, zbyt oczywiste.
-guyall222	Wow, miliony zastosowañ jednego urz¹dzenia...Niedobrze, ¿e konstruktorzy nie chc¹ ¿ebym to mia³.
-chagme016	Ale ty mo¿esz mnie nazywaæ nastêpnym Gubernatorem Wyspy Szpady.
+guyall220	Dobry pomys³... Szkoda, ¿e projektanci o tym nie pomyœleli.
+guyall221	Nie, zbyt oczywiste.
+guyall222	Mogê wymyœliæ milion zastosowañ dla tego przedmiotu... szkoda, ¿e projektanci nie chc¹, ¿ebym go mia³.
+chagme016	Ale mo¿esz nazywaæ mnie nastêpnym gubernatorem!
 guyall223	Ah, urocza Pani Threepwood.
-wailua043	Hej! Hej! Nie dotykaj tego!
-wailua044	To drogie kolekcje.
+wailua043	Hej! Hej! Nie dotykaæ!
+wailua044	To z drogiej kolekcji.
 wailua045	Powiedzia³em ³apy precz!
-chelua014	Równie dobrze mo¿esz to ukraœæ
-chelua015	Jedzenie jest nie dla mnie.
+chelua014	Równie dobrze mo¿esz to wzi¹æ.
+chelua015	Teraz ju¿ mi siê nie przyda.
 pi6scr001	Argh. Egh. Ugh. Ooph. Argh. Urgh. Doh. Agh. Ahh. Ooo. Eee. Ugh.
-pi6scr002	Bo¿e. Egh. Ugh. Urgh. Agh. Ahh. Ooo. Eee. Ugh.
+pi6scr002	Chargh. Egh. Ugh. Urgh. Agh. Ahh. Ooo. Eee. Ugh.
 pi6scr003a	Urgh. Agh. Gargh. Ah.
 pi6scr004a	Whoah!
 pi6scr005	Aaaaahhh! Oh!
@@ -8121,49 +8121,49 @@ pi4scr006a	Aaaaaaahhhhhh!
 pi5scr006	Aaaaaahhhh! Ooph!
 pi4scr007a	Huh? Urgh...
 pi5scr007a	Ha? Auuaaaa.....
-pi4scr008a	Hmmm... <zrzêdzenia>
-pi5scr008a	Oooh. Uh huh?
-otishi008	Oh, czeœæ Guybrush.
-otishi009	Kto co?
+pi4scr008a	Hmmm...
+pi5scr008a	Oooh. O o?
+otishi008	Czeœæ Guybrush.
+otishi009	Co jest?
 otimel043	Nie!
 habshi125	Otis, kto tam jest?
 habshi126	Co?
-habshi127	Dziêki. Id¹ prosto na moje biodra.
-macpla110	Nazywasz to skokiem? Pobijê to z zamkniêtymi oczami.
+habshi127	Nie dziêki. Id¹ prosto do moich bioder.
+macpla110	To twój skok? Pobijê go z zamkniêtymi oczami.
 macpla111	A teraz przepraszam na chwilê, idê siê przygotowaæ.
 macpla112	Marnujesz wszystkim czas!
 macpla113	Pospiesz siê!
-macpla114	Bêdziesz tam stercza³ ca³y dzieñ, czy co!?
-macpla115	Zamknij dziób i skacz!
-macpla116	Chcesz skakaæ?
-macpla117	To dobrze.
-macpla118	Zamknij dziób i skacz!
-macpla119	A wiêc wyzywasz mnie na pojedynek w skokach?
-macpla120	Chcesz skakaæ?
-macpla121	Przygotuj siê na upokorzenia, Panie Threepwood.
-artplt036	Masz ju¿ karykaturê. Chciwoœæ nie pop³aca.
+macpla114	Bêdziesz tam stercza³ ca³y dzieñ!?
+macpla115	WeŸ siê w garœæ i skacz!
+macpla116	Chcesz siê zmierzyæ... ze mn¹?
+macpla117	Niech bêdzie.
+macpla118	WeŸ siê w garœæ i skacz!
+macpla119	Wyzywasz mnie wiêc na pojedynek?
+macpla120	Chcesz siê zmierzyæ... ze mn¹?
+macpla121	Przygotuj siê na upokorzenie, Panie Threepwood.
+artplt036	Masz ju¿ karykaturê. Nie b¹dŸ chciwy.
 artplt037	No tak.
 hertoc156	Nie nazywaj mnie tak!
 hertoc158	Gadzooks!  Gdzie jest moja wnuczka!
-hertoc159	Z powodu jednej tajemnicy nie ujawniê siê Ozziemu, zanim mnie nie bêdzie chcia³ zabiæ.
-hertoc160	Jasne, ¿e nie! Gadam o tajemnicy czterech czêœci Talizmanu Upokorzenia!
-hertoc161	To jest TO!
-hertoc162	To oficjalna Piecz¹tka Gubernatora Wyspy Szpady. Jedna z wielu.
-hertoc163	Dobry urzêdnik zawsze ma kilka przy sobie gdyby jedna siê zgubi³a.
-hertoc164	Moja Piecz¹tka to klucz odblokowuj¹cy moc w³adania Talizmanem Upokorzenia: bez niej,  to tylko do niczego nie potrzebne œmieci.
-hertoc165	Teraz Guybrysh, to wa¿ne: Gdzie jest inna Pieczêæ Gubernatora?
-hertoc167	Mówi³em: Póki Ozzie i LeChuck nie odnajd¹ Elaine, Talizman Upokorzenia nigdy nie bêdzie skoñczony.
-guyall226	To jakiœ rodzaj rz¹dowych papierów.
-guyall227	Ta dêtka wygl¹da, jakby pracowa³a pod niebotycznym ciœnieniem.
-guyall228	Wow, ta g¹bka siê naprawdê rozrasta!
-guyall229	To mo¿e i bêdzie ³adnie pachnieæ, ale nie dam rady wcisn¹æ tu tej przynêty.
+hertoc159	Z powodu jednego sekretu, którego nie wyjawi³em Ozziemu, zanim próbowa³ mnie zabiæ.
+hertoc160	Jasne, ¿e nie! Mówiê o tajemnicy czwartego elementu Talizmanu Upokorzenia!
+hertoc161	To TO!
+hertoc162	To oficjalna Pieczêæ Gubernatora Wyspy Szpady. Jedna z wielu.
+hertoc163	Dobry gubernator zawsze ma przy sobie zapas na wypadek zgubienia orygina³u.
+hertoc164	Pieczêæ jest kluczem do odblokowania przera¿aj¹cej mocy Talizmanu Upokorzenia; bez niej to tylko zabawne marakasy.
+hertoc165	Guybrushu, to bardzo wa¿ne: gdzie jest druga Pieczêæ Gubernatora?
+hertoc167	Jak mówi³em: Dopóki Ozzie i LeChuck nie znajd¹ Elaine, Talizman Upokorzenia nigdy nie zostanie skompletowany.
+guyall226	To jakiœ rz¹dowy dokument.
+guyall227	Ta dêtka wygl¹da, jakby by³a poddawana niewyobra¿alnym naprê¿eniom.
+guyall228	Wow, te ma³e g¹bki naprawdê siê rozszerzaj¹!
+guyall229	Mo¿e i zapachnie ³adniej, ale jest O WIELE za du¿a, aby j¹ tam w³o¿yæ.
 guyall230	W³aœnie tego u¿ywaj¹.
-guyall231	Wow, ten kufer jest wype³niony naprawdê cennymi œmieciami.
-guyall232	Przypuszczam, ¿e tutaj juz nic cennego nie ma.
-guyall233	Lepiej, ¿ebym tu nie grzeba³, nie chcê wszêdzie zostawiaæ odcisków palców.
-guyall234	Nie mam pojêcia co mam z tym zrobiæ. Ale mo¿e kto inny wie.
-guyall235	Tam nie ma nic, co mi sie przyda.
-guyall236	Na dnie tego ktoœ coœ wyskroba³...
+guyall231	Wow, jest wype³niona wszelkiego rodzaju cennymi rupieciami.
+guyall232	Zgadujê, ¿e nie ma tu ju¿ nic wartoœciowego.
+guyall233	Bojê siê w tym grzebaæ, ¿eby nie pobrudziæ wszystkiego odciskami palców.
+guyall234	Nie mam pojêcia, co mam z tym zrobiæ. Mo¿e ktoœ inny wie.
+guyall235	Nie ma tam ju¿ nic u¿ytecznego.
+guyall236	Na spodzie jest coœ wydrapane.
 guyall237	G³osi: "Mindy kocha Freda".
 guyall238	G³osi: "Cindy kocha Freda."
 guyall239	G³osi: "Wendy kocha Freda."
@@ -8173,20 +8173,20 @@ guyall242	G³osi: "Wendy kocha Neda."
 guyall243	G³osi: "Mindy kocha Jeda."
 guyall244	G³osi: "Cindy kocha Jeda."
 guyall245	G³osi: "Wendy kocha Jeda."
-guyall246	...ale obok tego g³osi "Jerry kocha Mindy."
-guyall247	...ale obok tego g³osi "Jerry kocha Cindy."
-guyall248	...ale obok tego g³osi "Jerry kocha Wendy."
-guyall249	...ale obok tego g³osi "Larry kocha Mindy."
-guyall250	...ale obok tego g³osi "Larry kocha Cindy."
-guyall251	...ale obok tego g³osi "Larry kocha Wendy."
-guyall252	...ale obok tego g³osi "Harry kocha Mindy."
-guyall253	...ale obok tego g³osi "Harry kocha Cindy."
-guyall254	...ale obok tego g³osi "Harry kocha Wendy."
-guyall255	Nie powiem, to dziwne miejsce do wyra¿ania swojej mi³oœci.
-guyall256	W¹tpiê, by jej siê to podoba³o.
-guyall257	W¹tpiê, by mu siê to podoba³o.
-guyall258	To druga najwiêksza kaczka jak¹ mam w spodniach.
-guyall259	Ale pierwsza tak du¿a jak¹ przy mnie widzicie.
+guyall246	...ale obok jest "Jerry kocha Mindy."
+guyall247	...ale obok jest "Jerry kocha Cindy."
+guyall248	...ale obok jest "Jerry kocha Wendy."
+guyall249	...ale obok jest "Larry kocha Mindy."
+guyall250	...ale obok jest "Larry kocha Cindy."
+guyall251	...ale obok jest "Larry kocha Wendy."
+guyall252	...ale obok jest "Harry kocha Mindy."
+guyall253	...ale obok jest "Harry kocha Cindy."
+guyall254	...ale obok jest "Harry kocha Wendy."
+guyall255	Co za dziwne miejsce na wyznawanie komuœ mi³oœci.
+guyall256	Raczej jej siê to nie spodoba.
+guyall257	Raczej mu siê to nie spodoba.
+guyall258	To druga najwiêksza kaczka jak¹ mia³em.
+guyall259	Ale najpierw wyrwa³em swoj¹ twarz ze zdjêcia.
 guyall260	Z mieczem...
 guyall261	Z pistoletem...
 guyall262	Z du¿ym skarbem...
@@ -8195,230 +8195,230 @@ guyall264	... i z opask¹ na oczy...
 guyall265	... i z papug¹ na ramieniu...
 guyall266	... czytaj¹c ksi¹¿kê nad ogniskiem.
 guyall267	... myj¹c talerze jedn¹ rêk¹ i myj¹c pod³ogê drug¹.
-guyall268	... tañcz¹c z martw¹ mysz¹, bêd¹c opl¹tany sieci¹.
-guyall269	Wygl¹dam jakbym by³ durny i rysunkowy...
-guyall270	Cieszê siê, ¿e oni nadal myœl¹, ¿e to prawdziwa wersja.
+guyall268	...wymachuj¹c martw¹ mysz¹ zapl¹tany w sieæ ryback¹.
+guyall269	Wygl¹dam g³upio i przerysowanie...
+guyall270	Chyba ich oszuka³em. Nadal myœl¹, ¿e to prawdziwy Ma³pi Kubek.
 guyall271	(siorbanie)
 guyall272	Nie chcê taniej podróby.
-guygme099	Nie, czyta³em ¿e nie wolno przeszkadzaæ zwierzêt¹ podczas karmienia.
-guygme100	Dlaczego to nie ma maski?
+guygme099	Nie, lepiej nie przeszkadzaæ wœciek³ym zwierzêtom, gdy jedz¹.
+guygme100	Nie s¹dzê, by chcia³ pust¹ miskê.
 guygme101	Hej...
 guygme102	Chwileczkê...
 guygme103	Prowadzi do miasta Szpady™.
 guygmi099	Nie wiem, na co Elaine pusta butelka.
-guygmi100	Nie to ¿e jestem ekspertem, ale porcelana mnie obrzydza!
-guygmi101	To drzwi do kuchni..
-guygmi102	Chcia³bym, ale z jakiegoœ powodu, Elaine zablokowa³a to.
-guyulg028	To jest jakaœ jaskinia.
-guyvau036	S¹dzê, ¿e ten grog jest za ³agodny by prze¿reæ ten zawias.
-guyvau037	Lepiej wezmê ten z³amany miecz ze sob¹, mo¿e mi siê jeszcze przydaæ...
-guyvoo132	To niez³y kciuk.
-guyvoo133	Bez wzglêdu na to jak wielki mia³by byæ ten kciuk, nie potrzebujê go.
+guygmi100	Nie jestem ekspertem, ale ta porcelana nie jest za ³adna.
+guygmi101	To drzwi do kuchni.
+guygmi102	Chcia³bym, ale z jakiegoœ powodu, Elaine to zablokowa³a.
+guyulg028	To jaskinia prowadz¹ca w g³¹b ska³.
+guyvau036	S¹dzê, ¿e ten grog jest za ³agodny, by prze¿reæ zawias.
+guyvau037	Lepiej wezmê ten z³amany miecz ze sob¹ - mo¿e mi siê jeszcze przydaæ...
+guyvoo132	Ale¿ kciuk.
+guyvoo133	Niew¹tpliwe by by³ u¿yteczny podczas ³apania stopa, jednak ja go nie potrzebujê.
 guyvoo134	Jak na ma³y palec, jest ca³kiem du¿y.
-guyvoo135	Ja juz mam ma³e palce.
+guyvoo135	Ja ju¿ mam ma³y palec.
 guyvoo136	Jeœli to jest palec serdeczny, to jaka jest obr¹czka.
-guyvoo137	Nie potrzebuje kolejnego palca serdecznego.
-guyvoo138	Ah, œrodkowy palec...najbardziej komunikatywny.
-guyvoo139	Nic ciekawego na górze.
-guylua054	Ups, mam dziwne przeczucie, ¿e coœ mog³em popsuæ.
+guyvoo137	Nie potrzebuje kolejnego serdecznego.
+guyvoo138	Ah, œrodkowy palec... najbardziej komunikatywny.
+guyvoo139	Nic ciekawego tam nie ma
+guylua054	Uh oh... Lepiej zmykam zanim zobaczy co zrobi³em.
 guylua055	Miniówa z trawy.
 guylua056	Przepraszam bardzo?
 guylua057	Facet nie wygl¹da na tutejszego.
-guylua058	Wygl¹da jakby wypi³a za du¿o swoich drinków z parasolk¹.
+guylua058	Wygl¹da jakby za bardzo lubi³a swoje drinki z palemk¹.
 guylua059	Hmmm ... ten styl malowania...
-guylua060	wygl¹da jakoœ...Meathookowo.
-guylua061	To obraz...ciekawe, chyba jest malowany woskiem.
+guylua060	wygl¹da jakoœ...Miêshakowo.
+guylua061	Wygl¹da na niesamowicie wypasiony napój.
 guylua062	Nie. PRAWDZIWI piraci nie pij¹ tak ³adnych napojów.
-guylua063	Te drinki wygl¹daj¹ za bardzo lodowato.
-guylua064	Nie dziêki. Dajcie mi grogu, a nie...
-guylua065	Na tym podawane jest jakieœ danie w kszta³cie kwadratu.
-guylua066	Tym siê chyba karmi wiewiórki.
-guylua067	Awww, jakie s³odkie! Malusieñkie ³udeczuœki p³ywaj¹ po kawa³eczku czegoœ na pewno s³odkiego.
-guylua068	To jakiœ rodzaj mechanizmu dziêki, któremu woda, a z ni¹ ³ódeczki, poruszaj¹ siê.
-guylua069	Nie, ta metalowa rzecz wygl¹da na ostr¹ jak brzytwa. Lepiej pod³ubiê w tym czymœ innym.
-guylua070	Cholera, pa³eczki s¹ za s³abe. Tylko prze³ama³em je na pó³!
-guymel138	Ju¿ mi siê nie chce.
-guymel139	W¹tpiê, ¿eby taka pustka im siê spodoba³a.
+guylua063	To jakieœ dziwacznie wygl¹daj¹ce drinki.
+guylua064	Nie dziêki. Dajcie mi Grogu a nie tego czegoœ.
+guylua065	Na tej g³upiej kwadratowej tacy znajduje siê miniaturowy zestaw posi³ków.
+guylua066	Jedzenia tyle co kot nap³aka³. Na co to?
+guylua067	Jakie to s³odkie! Malusieñkie ³ódeczki p³ywaj¹ce wokó³, nios¹ce malutkie kawa³eczki czegoœ, co wydaje siê byæ jadalne!
+guylua068	Pod wod¹ znajduje siê jakiœ mechanizm, który wprawia ³ódki w ruch.
+guylua069	Nie, te ³añcuchy i metale wygl¹daj¹ ca³kiem ostro. Lepiej spróbujê je zablokowaæ czymœ innym.
+guylua070	Cholera, pa³eczki s¹ za s³abe. Prze³ama³o je na pó³!
+guymel138	Ju¿ do³¹czyli do mej za³ogi.
+guymel139	Raczej nie chc¹ pustej miski.
 guymel140	S³ucham?
-guymel141	Czy te precelki kudu s¹ dobre?
-guymel142	Chyba s¹ zajêci.
+guymel141	Chcia³by ktoœ kudu precelka?
+guymel142	Chyba jest strasznie zajêta.
 guymel143	Jest trzecia w nocy.
-guystb106	Dajcie nalewkê!
+guystb106	Poproszê dolewkê.
 guystb107	To jest pami¹tka, nie kubek na kawê.
 guystb108	Uuuhhh...
-guystb109	Podaj mi moje Groggocino.
-guystb110	Jasne, zaraz bêdzie.
-guystb111	W tej kobiecie jest coœ dziwnego...
+guystb109	Proszê moje Groggocino.
+guystb110	No i jest.
+guystb111	Jest coœ bardzo osobliwego w tej kobiecie...
 guystb112	Nie dziêki. To nie mój typ.
-guystb113	Poza tym, mój horoskop na dziœ mówi: "Uwa¿aj na nowe znajomoœci i popsute bekony na horyzoncie"
+guystb113	Poza tym mój poranny horoskop mówi: "Uwa¿aj na nowe zainteresowania, na horyzoncie czai siê bekon".
 guystb114	Cokolwiek to znaczy.
 guystb115	Super!
-guystb116	To jakaœ taca z ciasteczkami z kremem.
-guystb117	Ciasteczka ze Schmear Whiz.
-guystb118	Akurat mam jedna.
-guystb119	Eww, Nie! Ostatnie by³o OBRZYDLIWE!
-guystb120	Przecie¿ to jest darmowe, tak?
+guystb116	To taca pe³na mini bajgli z jakimœ papkowatym ohydztwem.n
+guystb117	Mini bajgle z Schmear Whiz.
+guystb118	Ju¿ je mam.
+guystb119	Nie!  Ostatni by³ NAPRAWDÊ obrzydliwy!
+guystb120	Nie oferujecie darmowych dolewek, prawda?
 guyshi108	Dzieñ dobry, Panie Serze.
-guyshi109	Jak tam pok³ad?
+guyshi109	Jak siê sprawy maj¹?
 guyshi110	Gdzie jest Carla?
 guyshi111	Gdzie?
-guyshi112	A na co siê skar¿y?
-guyshi113	A gdzie Otis poszed³?
-guyshi114	Umm...Jest coœ co musze ci powiedzieæ o Scumm-Barze.
+guyshi112	Na co Carla siê skar¿y?
+guyshi113	A gdzie poszed³ Otis?
+guyshi114	Jest coœ, co muszê Panu powiedzieæ o Scumm-Barze.
 guyshi115	Jest coœ jeszcze na temat Scumm-Baru.
-guyshi116	Co z tego, ¿e Scumm-Baru ju¿ nie ma?
-guyshi117	Ci¹gle masz jeszcze prace jako nawigator na statku.
-guyshi118	Nigdy byœ nie zgad³ co znalaz³em o Charlesie L Charles.
-guyshi119	To ukryty LeChuck!
-guyshi120	To nie dziwi ciê to, ¿e Charles L. Charles to LeChuck?
-guyshi121	S³ysza³eœ mo¿e kiedyœ o czymœ co siê nazywa Talizman Upokorzenia?
-guyshi122	Umm, nie ...
-guyshi123	A co myœlisz o naszym gadaj¹cym popiersiu?
-guyshi124	Muszê wróciæ do roboty.
-guyshi125	Wszystko jest ok. Nie martw siê.
+guyshi116	Nie powinien siê Pan martwiæ siê o utratê SCUMM Baru.
+guyshi117	Wci¹¿ jest mi Pan potrzebny jako nawigator.
+guyshi118	Nie zgadnie Pan, czego dowiedzia³em siê o postaci Charlesa L. Charlesa.
+guyshi119	To LeChuck w przebraniu!
+guyshi120	To nie dziwi Pana, ¿e Charles L. Charles to LeChuck?
+guyshi121	S³ysza³ Pan mo¿e o czymœ nazywanym "Talizman Upokorzenia"?
+guyshi122	Nie...
+guyshi123	Co Pan s¹dzi o naszym gadaj¹cym galionie?
+guyshi124	Muszê wracaæ do roboty.
+guyshi125	Wszystko gra. Nie ma co siê martwiæ.
 guyshi126	Ktoœ wybi³ wszystkie okna.
-guyshi127	Ale to jest spalone.
-guyshi128	No ju¿ nic.
+guyshi127	Spalone do go³ej ziemi.
+guyshi128	W³aœciwie niewa¿ne.
 guyshi129	Gorzej.
-guyshi130	Zosta³ zamieniony w restauracje z francusko-hawajskim-chiñskim ¿arciem.
-guyshi131	Hej, moneta.
-guyshi132	Ju¿ mam monetê.
+guyshi130	Zosta³ zamieniony w fantazyjn¹ restauracjê z francusko-hawajsko-chiñskim ¿arciem.
+guyshi131	Hej, to moneta!
+guyshi132	Tam le¿y moneta.
 guyshi133	Pusto.
-guyshi134	Hej! Jest tu ktoœ!
-guyshi135	Ciekawe gdzie posz³a nasza Pani Stocznia.
-guyshi136	Otis, co ty tu robisz?
+guyshi134	Halooo! Jest tam kto?
+guyshi135	Ciekawe, gdzie posz³a Pani Stoczni.
+guyshi136	Otis, co ty tam robisz?
 guyshi137	Kto to?
-guyshi138	Nie wa¿ne, nie chce wiedzieæ.
+guyshi138	Niewa¿ne, wolê nie wiedzieæ.
 guyshi139	Nie, lepiej nie.
-guyshi140	Napi³bym siê teraz zimnego, orzeŸwiaj¹cego grogu.
-guyshi141	Hmm. Ktoœ ju¿ kupi³ tu ostatnio nieco grogu
+guyshi140	Z chêci¹ napi³bym siê teraz orzeŸwiaj¹cego grogu.
+guyshi141	Hmm... wygl¹da na to, ¿e ktoœ ostatnio kupowa³ trochê grogu.
 guyshi142	Okrutny grogomat, który ukrad³ mi monetê!
 guyshi143	Pokaza³em mu to i owo.
-guyshi144	Oddawaj mi monetê!
-guyshi145	Myœlê, ¿e ma doœæ.
-guyshi146	Potrzebujê mamony na grog.
+guyshi144	Oddawaj monetê!
+guyshi145	Myœlê, ¿e ma ju¿ doœæ.
+guyshi146	Potrzebujê pieniêdzy jeœli chcê grogu.
 guyshi147	Utknê³a!
 guyshi148	G³upi grogomat!
-guyshi149	Jackpot!
-guyshi150	Mam ju¿ jedn¹.
+guyshi149	W dziesi¹tkê!
+guyshi150	Ju¿ mam.
 guyshi151	Nie wiem, na co jej pusta miska.
 guyshi152	Przepraszam?
 guyshi153	Precla z suszonego kudu?
-guyshi154	Co powiesz?
+guyshi154	Sk¹d wiesz?
 guyshi155	Hej, ma przebite uszy. Po co ktoœ chcia³by zak³adaæ kolczyki na galion?
 guyshi156	Tak tego do niej nie przyczepiê.
 guyshi157	Nie przyjmie tego.
 guyshi158	Mój pó³-kompetentny nawigator.
 guyshi159	Ser.
 guyshi160	Jest... ró¿owy.
-guyshi161	Nie dziwota, ¿e TAKI okrêt nie zosta³ sprzedany.
-guymig047	Kurczê. Carla wygl¹da okropnie.
+guyshi161	Nie dziwota, ¿e nikt go nie kupi³.
+guymig047	Kurczê. Carla jest zalana w trupa.
 guykit034	Hmmm...
-guypla131	To namiot-przebieralnie.
-guypla132	To chyba sêdziowie w tych zawodach.
-guypla133	To sêdziowie w tych zawodach
-guypla134	To ta nowa dzieciêca focza oliwka z du¿ymi kawa³kami ³ososia o której tyle siê s³yszy.
+guypla131	To namiot przebieralnia.
+guypla132	To chyba sêdziowie w zawodach.
+guypla133	To sêdziowie w zawodach
+guypla134	To ten nowy, gruboziarnisty olej o smaku ³ososia, o którym tyle s³ysza³em.
 guypla135	Dzieciêca focza oliwka marki Bosun i Bosun.
-guypla136	Przypuszczam, ¿e ta oliwka mia³a byæ u¿ywana na ma³ych fokach, a nie na..
-guypla137	Ewwww ... Niw...
+guypla136	Przypuszczam, ¿e ta oliwka mia³a byæ u¿ywana na ma³ych fokach, a nie na...
+guypla137	Ewwww ... Nie...
 guypla138	Ewww...
-guypla139	Myœlê, ¿e w³aœciciel oliwki zauwa¿y³by tam kawa³ek ciasteczka.
+guypla139	Myœlê, ¿e w³aœciciel tej oliwki zauwa¿y³by w niej kawa³ek bajgla.
 guypla140	Nie rozumiem w czym by to mog³o pomóc.
-guypla141	Nie wiem co myœleæ.
-guypla142	A czy tamten facet nie obiecywa³ broniæ z³otego dziecka?
+guypla141	Nie wiem, co o nim myœleæ.
+guypla142	Czy to nie on przysi¹g³ chroniæ z³ote dziecko?
 guypla143	Super, goœciu.
-guypla144	To siê nazywa profesjonalizm.
-guypla145	Pokona³bym go po tym skoku z zamkniêtymi oczyma.
-guypla146	Powrót na mapê.
+guypla144	Nazywa siê profesjonalist¹.
+guypla145	Pokona³bym go zamkniêtymi oczyma.
+guypla146	Têdy z powrotem na mapê.
 guypla147	Whoops!
 guypla148	Czegoœ chyba zapomnia³em....
 guypla149	Hej.
 guypla150	Lepiej w to uwierz.
-guypla151	Nie, to mój certyfikat.
-guyplt119	Ja chcê i obraz i Ma³pi Kubek!
-guycgs024	Chyba ma z³y humor.
+guypla151	Nie, popisujê siê tylko certyfikatem.
+guyplt119	Ale ja go chcê i Ma³pi Kubek!
+guycgs024	Wydaje siê doœæ zrzêdliwy.
 guypta053	Muszê do toalety.
 guypta054	Wierz mi, ¿e warto.
-guygom018	To otwiera i zamyka odpowietrznik.
-guygom019	Nic nie przejdzie w ¿adn¹ stronê, kiedy jest zamkniêty.
+guygom018	Otwiera i zamyka wywiewkê.
+guygom019	Nic têdy nie przejdzie, kiedy wywiewka jest zamkniêta.
 guygpt052	Jeszcze Otis.
 guygpt053	Powoli zaczynam w¹tpiæ w jego nawigatorskie zdolnoœci.
-guygpt054	Wydaje siê byæ po wra¿eniem figury.
-guygpt055	Mo¿e i bym nim gdzieœ pop³yn¹³.
-guygpt056	Hej, to Murray,
-guygpt057	Mo¿e i tak ale ty ci¹gle siê obracasz...
+guygpt054	Wydaje siê byæ zachwycony tym pos¹giem.
+guygpt055	Chyba jest zdatny do ¿eglugi.
+guygpt056	Hej, to Murray!
+guygpt057	Wydaje siê, ¿e ten sto³ek siê krêci..
 guygpt058	Chcia³byœ mieæ znowu w¹trobê?
 guygpt059	Nie, raczej nie.
-guygpt060	Hej, Murray! Przynios³em ci parê stóp. Teraz mo¿esz sobie spacerowaæ.
-guygpt061	No có¿, nie do koñca wygl¹dasz jakbyœ móg³ chodziæ.
-guygpt062	To co naprawdê z³ego w specjalnoœciach?
-guygpt063	A mo¿e za³atwiæ ci w³asny ¿o³¹dek?
-guygpt064	Yikes.
-guygpt065	Murray...Patrz co dla ciebie mam.
-guygpt066	Widzê, ¿e dla tego nie masz ¿adnych z³ych pomys³ów.
+guygpt060	Hej, Murray! Przynios³em ci stopê. Teraz mo¿esz sobie spacerowaæ.
+guygpt061	Wygl¹da na to, ¿e nie ruszasz siê zbytnio z tego sto³ka.
+guygpt062	Wiêc, co jest dzisiaj specjalnego w twojej z³ej ofercie?
+guygpt063	A mo¿e za³atwiæ ci protetyczny ¿o³¹dek?
+guygpt064	Jejku.
+guygpt065	Murray... Patrz, co dla ciebie mam.
+guygpt066	Na pewno znajdziesz mu z³e zastosowanie.
 guygpt067	Trzymaj, masz serce.
-guygpt068	Napijmy siê?
-guygpt069	Masz, to pomo¿e pozostaæ ci trzeŸwy w pracy.
-guygpt070	Mam wra¿enie, ¿e tego nie chcesz.
+guygpt068	Napijemy siê?
+guygpt069	To mo¿e pomóc ci nie zasn¹æ na s³u¿bie.
+guygpt070	Chyba tego ju¿ nie potrzebujesz.
 guygpt071	G³odny?
-guygpt072	To chyba za du¿o dla mnie.
-guygpt073	Bêdzie dla mnie wiêcej p¹czków.
-guygpt074	Myœlê, ¿e zrobili z obrazem co siê da³o.
-guygpt075	Powinienem to robiæ?
+guygpt072	U¿y³by tego w s³u¿bie z³a.
+guygpt073	Wiêcej bajgli dla mnie.
+guygpt074	Myœlê, ¿e zrobi³a co mog³a z tym obrazem.
+guygpt075	Albo "temu obrazowi"?
 guytoc111	Dziadek?
-guytoc112	Nie ma o czym mówiæ. Musimy znaleŸæ sposób by pokonaæ Ozziego i LeChucka.
-guytoc113	LeChuck nie jest zaanga¿owany. Mia³em na myœli :Ozzie i jego kaczkê".
-guytoc114	Jeœli zaanga¿owanie to "praca ramiê w ramiê z Ozziem by zniszczyæ pirackie ¿ycie, jakie znamy" to tak.
-guytoc115	W tej chwili to nowy gubernator Wyspy Szpady.
+guytoc112	Tak siê nie rozmawia. Bêdziemy musieli wspó³pracowaæ, aby pokonaæ Ozziego i LeChucka.
+guytoc113	Powiedzia³em LeChuck? Myœla³em "Ozzie i jego kacza".
+guytoc114	Jeœli przez "zaanga¿owany" rozumiesz "pracuj¹cy ramiê w ramiê z Ozziem, by zniszczyæ piracki styl ¿ycia, jaki znamy", to tak.
+guytoc115	W³aœciwie to nowy gubernator Wyspy Szpady.
 guytoc116	Sekret Wyspy Ma³p?
 guytoc117	PRAWDZIWY Sekret Wyspy Ma³p?
-guytoc118	Sekret zgubionych gaci?
-guytoc119	Sekret œci¹gniêcia popularnych gier przygodowych za darmo?
-guytoc120	Ma on du¿o do czynienia z Gubernatorstwem na Wyspie Szpady? Tego siê obawia³em. Co to jest>
+guytoc118	Sekret Zagubionych Gaci?
+guytoc119	Sekret Dojenia W¹tpliwie Popularnej Serii Gier Wideo?
+guytoc120	Ten, który mia³ zwi¹zek z gubernatorstwem Wyspy Szpady? Zastanawia³em siê nad tym. Czym on jest?
 guytoc121	Mo¿e potrzebny nam plan awaryjny.
 guyjam001	Aiiee!
-guyjam002	No, i TO jest miasto piratów!
-guyjam003	Kamienista pla¿a.
-guykab103	A wiesz, ¿e siedz¹ na tobie dwie papugi?
+guyjam002	I TO jest miasto piratów!
+guyjam003	Kamienista pla¿yczka.
+guykab103	Czy wiesz, ¿e na twoich ramionach by³y dwie papugi?
 guykab104	Czapka Tiny LaFeete'a nie mo¿e tu byæ.
 casjam001	Ognia!
-casjam002	ZejdŸ z drogi!
-ptwgpt002	Murray! Mam nadziejê, ¿e nie chcesz nosiæ tych starych wnêtrznoœci.
-ptwplt057	Nie, dziêki. Jest ju¿ doœæ g³upie.
-ptwplt058	HEJ! Nie dotykaæ!
-ptwplt059	Przykro nam, ale bar jest teraz zamkniêty. Wpadnij póŸniej.
-clamel072	Mo¿e nie powinniœmy byæ g³odni, ale jesteœmy.
-clashi007	Tutaj jestem.
+casjam002	ChodŸ no tu!
+ptwgpt002	Murray!  Mam nadziejê, ¿e nie planujesz nosiæ tych okropnych flaków.
+ptwplt057	Nie, dziêki. Ju¿ jestem doœæ dziarski.
+ptwplt058	HEJ! HEJ! Patrz ale nie dotykaj!
+ptwplt059	Przykro mi, ale bar jest teraz zamkniêty. Wpadnij póŸniej.
+clamel072	Mo¿na byæ g³odny, ale nie a¿ TAK.
+clashi007	Tutaj jestem!
 clashi008	To nie fair. Otis oszukuje.
-clashi009	Ale takie obelgi nie istniej¹!
-chelua016	Zut alors! Nie masz czego tutaj szukaæ!
-chelua017	Zamknij te drzwi albo cie ugotuje!
+clashi009	Nie ma czegoœ takiego jak "Illywhacker"!
+chelua016	Zut alors! Nie wolno ci tu wracaæ!
+chelua017	Zamknij drzwi, zanim walnê ciê w czerep!
 navshi005	Ahoj.
-navshi006	Grzecznie, za grzecznie.
-navshi007	Ona czyœci pok³ad w³aœnie.
-navshi008	By³em œwiadkiem. Wygra³ sprawiedliwie.
-navshi009	Oh, bo ona i Otis grali w Zniewa¿anie na papier, kamieñ i no¿yce o to, kto czyœci pok³ad.
+navshi006	Cicho. Za cicho.
+navshi007	Czyœci szpigat.
+navshi008	By³em œwiadkiem. Wygra³ niepodwa¿alnie.
+navshi009	Ona i Otis zagrali w rundê w Zniewa¿anie na papier, kamieñ i no¿yce, aby zobaczyæ, kto bêdzie musia³ wyczyœciæ lukê.
 navshi010	No i przegra³a.
-navshi011	No i w³aœnie to chcia³em powiedzieæ Australijczykowi, ale to te¿ nie dzia³a³o.
+navshi011	To samo próbowa³em powiedzieæ temu australijskiemu palantowi, ale te¿ nie podzia³a³o.
 navshi012	Gdzieœ siê tu krêci.
-navshi013	Mówi³em mu, ¿eby nie opuszcza³ stoczni.
-navshi014	No to mówi, synu.
-navshi015	Co jeszcze?!
+navshi013	Prosi³em, ¿eby nie opuszcza³ stoczni.
+navshi014	Có¿ takiego?
+navshi015	Co teraz!?
 navshi016	Czemu nie?
 navshi017	Tak, przez kolejne dwa akty.
 navshi018	Co?
-navshi019	Hmm...no i co z tego?
+navshi019	Hmm... a mo¿e tak.
 navshi020	¯artujesz sobie? To by³o jasne od pocz¹tku.
-navshi021	A czy to ma coœ wspólnego z okropnymi upokorzeniami od strony spaghetti po¿eraj¹cej twoje klejnoty?
-navshi022	W takim razie nic nie wiem.
-navshi023	Chyba bêdê j¹ potrzebowa³ na wszystkie moje pojedynki na obelgi.
-navshi024	Robota? Co ty tak nazywasz?
+navshi021	Nie mia³oby to nic wspólnego z byciu pokonanym w Zniewa¿anie na Rêkê przez uzbrojonego w spaghetti pirata, prawda?
+navshi022	W takim razie nic o tym nie wiem.
+navshi023	Myœlê, ¿e mog³aby walczyæ za mnie we wszystkich meczach Zniewa¿ania na Rêkê.
+navshi024	Robota? Tak to nazywasz?
 navshi025	To chcia³em us³yszeæ.
-navshi026	Har! Ale tak siê dzieje zawsze. Trochê œwie¿ej wody z morza na pewno rozwi¹¿e problem.
+navshi026	Har! To siê zdarza ca³y czas. S³ona morska bryza faktycznie pomaga odœwie¿yæ nieco atmosferê.
 navshi027	To by³o dobre, Threepwood.
-navshi028	Chyba coœ o tym s³ysza³em, ale tylko jeœli to siê ju¿ sta³o.
-navshi029	¯e co!? Australijczyk po³o¿y³ swój hak na moim barze!?
-navshi030	Ja WIEDZIA£EM, ¿e tak bêdzie jak wyjadê!
+navshi028	Myœlê, ¿e us³ysza³bym coœ, gdyby to siê sta³o.
+navshi029	¯e co!? Australijski deweloper po³o¿y³ hak na moim barze!?
+navshi030	WIEDZIA£EM, ¿e tak bêdzie jak wyjadê!
 navshi031	Jak to?
 navshi032	AAAAgh!
 navshi033	Aj.
@@ -8450,7 +8450,7 @@ sbcstb057	Hej, czekaj. Zdajesz sobie sprawê, ¿e to jest p³atne?
 sbcstb058	Pyszna mieszanka topionego sera i nutki ³ososia pokryta genialnym kremem cukrowym.
 sbcstb059	Mamy dzisiaj darmow¹ promocje, na spróbowanie, nie ¿a³uj sobie.
 sbcstb060	Pyszny krem na ciasteczkach typu Schmear Whiz.
-sbcstb061	To darmowe ciasteczka Schemear Whiz pokryte genialnym kremem.
+sbcstb061	Ten przepyszny mini bajgiel ma na sobie Schmear Whiz firmy StarBuccaneer.
 sbcstb062	To jest pami¹tka, nie kubek na kawê.
 googme099	Hej! Z drogi!
 googme100	Tak, tak, sekundkê...
@@ -8636,7 +8636,7 @@ guymon006	Zaraz po¿a³ujesz!
 jojmon010	Dawaj, ciamajdo.
 hertoc040	Jak chcesz.
 hertoc094	Nie zawsze?
-guyplt119	Ja chcê i obraz i Ma³pi Kubek!
+guyplt119	Ale ja go chcê i Ma³pi Kubek!
 guywed001	Jej! Parzy!
 guywed002	Armata gotowa do strza³u.
 guywed003	Gdybym tylko móg³ j¹ odpaliæ.
@@ -8728,7 +8728,7 @@ guytow013	To jest na sta³e przyczepione do górnej czêœci wie¿y!
 guytow014	Muszê znaleŸæ inny sposób, ¿eby wy³¹czyæ t¹ rzecz.
 guytow015	To wielki wystaj¹cy prze³¹cznik.
 guytow016	Gdzie oni znaleŸli drzewo tak du¿e ¿eby starczy³o desek?!
-guyvoo140	Jeœli chce coœ wskazaæ, mogê u¿yæ W£ASNEGO palca.
+guyvoo140	Jeœli chcê coœ wskazaæ, mogê u¿yæ W£ASNEGO palca.
 guysta028	Na szalon¹ ma³pê! To Stan! Co on tu robi?!
 guysta029	Nowy budynek Stana wygl¹da bardzo œwi¹tecznie.
 guysta030	Drzwi s¹ chyba zamkniête.
@@ -9128,9 +9128,9 @@ guyall341	Mo¿e i to jest przydatne - ale do czego?
 guyall342	Auæ! Parzy!
 guyall343	Lepiej zrobiê to szybko. Nie wytrzymam zbyt d³ugo!
 guyall344	W¹tpiê, by ten wêgielek by³ u¿yteczny sam ze sob¹.
-guygom020	To jakiœ dziwny odpowietrznik.
-guygom021	To jakiœ zamkniêty wentylator.
-guygom022	Nie w³o¿ê banana do œrodka, bo wentylator jest zamkniêty.
+guygom020	To otwarta wywiewka.
+guygom021	To zamkniêta wywiewka.
+guygom022	Nie w³o¿ê tam banana, bo wywiewka jest zamkniêta.
 guygom023	Ciekawe czy beczka wybuchnie, kiedy j¹ zestrzelê.
 guygom024	Nie mam czy strzeliæ.
 guygom025	Nauczy³em siê, ¿e nie mo¿na przetrzymywaæ prochu blisko p³omieni.
@@ -9176,7 +9176,7 @@ guygpt099	Raczej pow¹tpiewam, ¿e taki kwiateczek pozwoli mi siê zbli¿yæ do zagad
 guygpt100	Chyba w œrodku nic i nikogo nie ma.
 guygpt101	Napis g³osi: " Wróæ póŸniej po MroŸnie JumboSoki Owocowe"
 guygpt102	"Dodane sk³adniki od¿ywcze dadz¹ ci du¿o energii ( i zapobiega szkorbutowi w 99% przypadków)! "
-guygpt103	Ta jasne, ja w³o¿ê tutaj kupon Ma³piego kufla, a potem bêdê mia³ z tego same k³opoty.
+guygpt103	Jasne, wy³ó¿cie wielk¹ beczkê darmowych kuponów na posi³ek z Ma³pim Kubkiem PO tym, jak zada³em sobie tyle trudu, aby go zdobyæ.
 guygpt104	Zrobiê to w swoim czasie.
 guygpt105	Drzwi prowadz¹ prosto do Mikrogroggerii.
 guygpt106	Drzwi prowadz¹ prosto do Starbuccaneera.
@@ -9233,7 +9233,7 @@ guyall374	To nie potrzebuje z³ota.
 guyall375	To srebrny kufel, który wygl¹da tak jak g³owa tej ma³py. ¯a³osne.
 guyall376	To jest naprawdê straszne.
 guyall377	Po pracy pójdê bo muszê to mieæ, ale nie ma mowy ¿ebym siê z tego napi³.
-guyall378	S¹dzê, ¿e by zauwa¿y³ gdybym ukrad³ jego kufel.
+guyall378	Myœlê, ¿e zauwa¿yliby, gdybym po prostu wyrwa³ ich ukochany Ma³pi Kubek i uciek³ z nim.
 guyall379	Mo¿e i wygl¹daj¹ podobnie, ale na pewno nie s¹ a¿ tak g³upi.
 guyall380	Ha, jestem ju¿ w dwóch-trzecich mojej drogi do w³asnego Talizmanu Upokorzenia.
 guyall381	To tylko pusty kufel Grogoccino Starbuccaneera
@@ -9242,7 +9242,7 @@ guyall383	Woooohooo!
 guyall384	Pogadajmy o  "objawieniu"! Czujê siê jakbym wypi³ ca³¹ plantacje kofeiny wliczaj¹c w to hodowców!
 guyall385	Ohh. Mo¿e to groggocino mi siê odbija.
 guyall386	Ohh. To smakuje tak jak wygl¹da.
-guyall387	To mini-bajgiel z przestarza³ym ³ososiem i topionym serem.
+guyall387	To mini bajgiel z przestarza³ym ³ososiem i topionym serem.
 guyall388	Nigdy w ¿yciu nie w³o¿ê tego do ust z powrotem.
 guyall389	To bez sensu...
 guyall390	PLLLPHHHTT!!  PTUI!
@@ -9328,18 +9328,18 @@ kahpla050	Dajmy mu odrobinê ciszy na skupienie.
 kahpla051	To dla nas zaszczyt.
 kahpla052	Mistrz Skoków mo¿e skakaæ gdzie chce.
 kahpla053	By³ ju¿ wszêdzie tam gdzie wszyscy sportowcy id¹, kiedy nie ma ju¿ kogo pokonaæ.
-ptwplt060	Hej! To, ¿e Ma³pi kufel masz gratis, to nie znaczy, ¿e masz za darmo ca³y posi³ek.
-ptwplt061	Przepraszam ciê, ale nie mo¿esz zatrzymaæ tego Ma³piego kufla.
-ptwplt062	Mo¿esz oddaæ ten kufel?
-ptwplt063	Obawiam siê, ¿e muszê cie zmusiæ do oddania tego Ma³piego kufla. Nie mo¿esz go zabraæ.
-ptwplt064	Stój, przestêpco! Nie mo¿esz st¹d wyjœæ z tym Kubkiem.
+ptwplt060	Hej Hej! Bezp³atny POSI£EK z ma³pim kubkiem nie oznacza otrzymania bezp³atnego Ma³piego Kubka!
+ptwplt061	Przepraszam Pana, ale nie mo¿e Pan zatrzymaæ tego Ma³piego Kubka.
+ptwplt062	Proszê zwróciæ Ma³pi Kubek.
+ptwplt063	Obawiam siê, ¿e bêdê musia³ poprosiæ Pana o oddanie Ma³piego Kubka. Nie mo¿e Pan go zatrzymaæ.
+ptwplt064	Nie ruszaj siê, draniu. Nie wyjdziesz st¹d z tym Ma³pim Kubkiem.
 ptwplt065	I o to chodzi.
 ptwplt066	Zajmij jakieœ miejsce.
 ptwplt067	Si¹dŸ gdzieœ.
 ptwplt068	Gotowy?
 ptwplt069	To jakiœ artysta.
 ptwplt070	Muszê ci powiedzieæ, ¿e ze wzglêdu na du¿¹ iloœæ klientów, nasi goœcie z kuponami czekaj¹ d³u¿ej.
-ptwplt071	Jednak, ca³y czas mo¿esz piæ za darmo z naszego kufla.
+ptwplt071	Nadal jednak otrzymasz bezp³atny napój w ceremonialnym Ma³pim Kubku.
 guyall443	Jak ³adnie pachnie drewnem.
 guyall444	"To oficjalny znak firmowy. Nawet nie próbuj go podrabiaæ"
 guyall445	Lepiej to od³o¿ê zanim Pani Rivers mi to skonfiskuje.
@@ -9506,9 +9506,9 @@ guyluc288	Bêdzie na to czas PO TYM jak za³atwiê sprawê w banku.
 guymel158	"Ye Olde Creepy, Nieoswietlone miejsce na ksiazki"
 guymel159	Jezu, ale to brzmi przekonujaco.
 guymel160	"Sprzedane"
-guymel161	"Sprzedane"...Zauwazam pewien wzorzec...
+guymel161	"Sprzedane"...Zauwa¿am tu wzorzec...
 guymel162	Kolejny znak "Sprzedane".
-guymel163	Powiedzia³aœ ¿ebym ci odda³ Symbol jak wróce z Wyspy Mamony.
+guymel163	Kaza³eœ mi zwróciæ symbol gubernatorski po powrocie z Wyspy Mamony, pamiêtasz?
 guymhi093	Meathook bêdzie z³y, jak siê dowie ¿e ukrad³em mu bezu¿tyczny pêdzel
 guymig048	Nigdy wiêcej - ani razu.
 guymig049	Hej, Barman! Uruchom krowê!
@@ -9569,32 +9569,32 @@ guypph029	Nie dziêki. Jeœli bym chcia³ œmierdz¹c¹ rybe, poszed³ bym do sklepu z 
 guypph030	Po co mi te kraby... nie mam ³odzi na krewetki.
 guypph031	Nie, ta kaczka jest wyzwolona.
 guypta117	Nie jestem idiot¹.
-guyscu277	Ten miecz jest troche stary. Wyglada na to ze opuscilem kilka awantur w tym barze.
-guyscu278	Jestem pewny ze nie jestem prawowitym nastepca krola.
-guyscu279	W polowie pelna. A moze nawet a polowie pusta.
-guyscu280	Wlasciciel nie bylby szczesliwy gdybym mu to wziol.
-guyscu281	Mysle ze nawet to kolo ratunkowe nie uratuje mnie przed tym, co sie dzieje za tymi drzwiami.
-guyscu282	Nie widze tam nikogo topiacego sie w swoich smutku.
-guyscu283	Ktos moglby sie przewrocic w glowie gdyby wiedzial do czego ten maszt jest uzywany.
-guyscu284	Nie planowalem dzisiaj zadnych pozarow.
+guyscu277	Wbi³ siê doœæ g³êboko. Wygl¹da na to, ¿e ominê³a mnie potê¿na walka w barze.
+guyscu278	Raczej nie jestem prawdziwym królem.
+guyscu279	W po³owie pe³na. Albo pusta.
+guyscu280	W³aœciciel nie by³by zadowolony, gdybym to wzi¹³.
+guyscu281	Nawet ko³o ratunkowe nie uratuje tego, co znajduje siê za drzwiami.
+guyscu282	Nie widzê nikogo, kto topi³by coœ innego ni¿ swoje smutki.
+guyscu283	Ktoœ bêdzie z³y, gdy zobaczy, do czego wykorzystano jego maszt.
+guyscu284	Nie planujê wzniecania po¿aru.
 guyscu285	Idealny na popcorn.
-guyscu286	Jesli jej slaba strona wyglada jak ten obraz, nie chce jej poznawac.
-guyscu287	Wow, to bylo niezle.
-guyscu288	To bylo dobre.
-guyscu289	Jestem pod wrazeniem.
-guyscu290	Hej, dobry jestes.
+guyscu286	Jeœli jej delikatna strona przypomina obraz za tob¹, to nie chcê jej widzieæ.
+guyscu287	To by³o niez³e.
+guyscu288	£adnie.
+guyscu289	Robi wra¿enie.
+guyscu290	Hej, dobry jesteœ.
 guyscu291	Niesamowite.
 guyshi162	UNGH!
 guyshi163	 
 guyshi164	Grrrrrr!
 guyshi165	Deeeeeeluxe!
-guyshi166	Chyba nie moge go sobie tak po prostu wziasc.
-guyshi167	Wyglada naprawde niezle.
-guyshi168	Uwazam ze to dobry pomysl zeby w poblizu Grogomatu kilka nich stalo.
-guyshi169	Nikt nie potrzebuje pomocy.
-guysta050	Têdy na pla¿e.
+guyshi166	Nie mogê go ot tak zabraæ.
+guyshi167	Wygl¹da na niez³y sprzêt.
+guyshi168	Raczej to dobry pomys³ trzymaæ kilka w pobli¿u grogomatu.
+guyshi169	Nikt teraz nie potrzebuje pomocy.
+guysta050	Prowadzi na pla¿ê.
 guystb121	Nie powinienm dotykaæ - nic nie szkodzi.
-guystb122	Te ciasteczka s¹ jakby z rzygami.
+guystb122	Te bajgle ju¿ wygl¹daj¹ jakby ktoœ na nie zwymiotowa³.
 guystb123	Myœle ¿e by widzia³a, gdybym zwin¹³ ca³¹ torbê.
 guystb124	A¿ taki z³y nie jestem ¿eby kraœæ coœ takiego. Widzicie, ju¿ mi siê ¿arty psuj¹!
 guytoc140	Nie s¹dzê ¿e drêczenie Hermana jego w³asnym zbierakiem bananów to dobry pomys³.
@@ -9605,8 +9605,8 @@ guytow025	St¹d tego nie u¿yje.
 guyuch029	Ale zas³ony s¹ ju¿ otwarte.
 guyulg029	Hej, ukradli mi przek¹ski!
 guyunc011	Whew! To dobra rzecz umieæ wytrzymaæ na bezdechu 10 minut!
-guyvoo141	Czujnie.
-guyvoo142	To nie jest wliczone w cene.
+guyvoo141	Œwidry.
+guyvoo142	Chyba nie s¹ na sprzeda¿.
 jojmon180	Bardzo ciekawe.
 jojmon181	Ma³py wybieraj¹ w³asn¹ œcie¿kê. Nie mam na tym ¿adnej kontroli.
 jojmon182	Choæ, okazuj¹ one wielki szacunek do u¿ytkowania Kapelusza Honoru.
@@ -10326,8 +10326,8 @@ txtall172	Ma³pi Kubek
 txtall173	pusty kubek po groggocino
 txtall174	kubek groggocino
 txtall175	pusty kubek po groggocino
-txtall176	bu³eczki z Schmear Whiz
-txtall177	zwitek ¿utego kawa³ka bu³eczki, œliny i Schmear Whiz
+txtall176	mini bajgle ze Schmear Whiz
+txtall177	soczysty zwitek prze¿utych kawa³ków bajgla i Schmear Whiz
 txtall178	certyfikat p³ywacki
 txtall179	Przyjrzyj siê:
 txtall180	czapka g³¹ba
@@ -10700,8 +10700,8 @@ txtgmi019	dzrzwi od sypialni
 txtgmi020	lampe
 txtgmi021	drzwi od kuchni
 txtgom001	wielkie metalowe drzwi
-txtgom002	wentylator
-txtgom003	dŸwignie
+txtgom002	wywiewka
+txtgom003	dŸwignia
 txtgom004	beczkê
 txtgom005	portal
 txtgom006	worki z prochem
@@ -11176,7 +11176,7 @@ txtshi001	dobrze wygl¹daj¹cy statek
 txtshi002	dobrze wygl¹daj¹ca ³ódŸ
 txtshi003	napis
 txtshi004	grogomat
-txtshi005	Pani kapitan portu
+txtshi005	Pani Stoczni
 txtshi006	galion
 txtshi007	œcie¿ka
 txtshi008	Filigranowa Dama
@@ -11219,9 +11219,9 @@ txtstb011	torba podró¿na
 txtstb012	pracownik Starbuccaneera
 txtstb013	groggoccino
 txtstb014	dziwna pani
-txtstb015	taca z bu³eczkami
-txtstb016	taca z bu³eczkami Schmear Whiz
-txtstb017	tacê z bezp³atnymi by³eczkami Schmear Whiz
+txtstb015	taca z mini bajglami
+txtstb016	taca z mini bajglami ze Schmear Whiz
+txtstb017	taca z bezp³atnymi mini bajglami ze Schmear Whiz
 txtsys001	Nie, nie chcê!
 txtsys002	Gry tego typu s¹ za ³atwe.
 txtsys003	Gniazdo TCP nie dzia³a.

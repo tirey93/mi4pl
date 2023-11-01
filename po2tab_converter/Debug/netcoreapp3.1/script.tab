@@ -10216,7 +10216,7 @@ txtall062	s³aby grog
 txtall063	kupon do Planety Threepwood
 txtall064	s³oik z klejem
 txtall065	karykatura Ma³piego Kubka
-txtall066	lepk¹ karykaturê Ma³piego Kubka
+txtall066	lepka karykatura Ma³piego Kubka
 txtall067	kubek z logiem Starbuccaneera
 txtall068	fa³szywy Ma³pi Kubek
 txtall069	Po³¹cz:
@@ -10323,9 +10323,9 @@ txtall169	Wrêcz:
 txtall170	dla:
 txtall171	Przyjrzyj siê:
 txtall172	Ma³pi Kubek
-txtall173	pusty kubek po groggocino
-txtall174	kubek groggocino
-txtall175	pusty kubek po groggocino
+txtall173	pusta fili¿anka po groggocino
+txtall174	fili¿anka groggocino
+txtall175	pusta fili¿anka po groggocino
 txtall176	mini bajgiel ze Schmear Whiz
 txtall177	soczysty zwitek prze¿utych kawa³ków bajgla i Schmear Whiz
 txtall178	certyfikat p³ywacki
@@ -10560,7 +10560,7 @@ txtall407	proteza flaków
 txtall408	proteza serca
 txtall409	proteza g³owy
 txtall410	proteza ty³ka
-txtall411	gor¹cy wêgielek
+txtall411	roz¿arzony wêgielek
 txtall412	Kopnij:
 txtall413	na:
 txtall414	Nieœmia³a Ma³pa
@@ -11403,164 +11403,37 @@ txtwed004	armata
 txtwed005	krata ³adowni
 txtwed006	wrogi okrêt
 txtwed007	wrogi pirat
-txtall021D	stary miecz
-txtall022D	z³amany miecz
-txtall056D	œwiec¹cy Pojemniczek
-txtall060D	ma³a œrubka
-txtall066D	lepka karykatura Ma³piego Kubka
-txtall160D	niebieski obraz
-txtall173D	pusta fili¿anka po groggocino
-txtall177D	prze¿ute ciasteczko Schmear Whiz
-txtall193D	czêœciowo gotowy Talizman Upokorzenia
-txtall411D	gor¹cy wêgielek
-txtall414D	tchórzliwa ma³pa
-txtall010D	rozpompowana detke
-txtall068D	podmieniony Kubek
-txtall415D	œmierdz¹c¹ ma³pê
-txtall417D	siln¹ ma³pê
-txtall424D	trójg³ow¹ ma³pê
-txtall426D	pustoœæ
-txtall427D	domowe perfumy
-txtban010D	du¿¹ beczkê
-txtban011D	skonfiskowany kredens
-txtban012D	ma³y skarb
-txtban017D	œmieszny cieñ
-txtbas002D	starym sprzedawc¹
-txtbas003D	darmowe przynêty
-txtbas012D	ogromny dziobak gigant ryby
-txtcan001D	szyk formacji skalnych
-txtcan002D	przewrócony samochód
-txtcpt003D	star¹, zniszczon¹ ³ódŸ
-txtcpt016D	mi³¹ nauczycielk¹
-txtgme003D	dziwny kaktus z detka rowerowa
-txtgme004D	przera¿aj¹c¹ katapultê
-txtgme009D	¿ywop³ot w kszta³cie œwini
-txtgme011D	¿ywop³ot w kszta³cie papugi
-txtgme012D	¿ywop³ot w kszta³cie ma³py
-txtgme015D	zywoplot w ksztalcie krowy
-txtgme017D	dziwnym kaktusem
-txtgmi005D	imponuj¹ce malowid³a
-txtgmi016D	szlachetna porcelana
-txtgmi018D	bardzo drog¹ procelane
-txtgom001D	ciê¿kie metalowe drzwi
-txtgpt018D	puste budynki
-txthei013D	kolumny
-txthoj004D	Iron Maiden
-txthos003D	gorsza wersja
-txthos006D	lepsza wersja
-txtjam007D	wielki kamieñ
-txtjam008D	ogromny g³az
-txtjam011D	ponury dom
-txtkab008D	brudn¹ pirack¹ wioskê
-txtkab010D	brudn¹ pirack¹ osadê
-txtlag002D	p³ytk¹ wodê
-txtlag003D	trochê mniej p³ytk¹ wodê
-txtlag004D	g³êbok¹ wodê
-txtlav002D	samotn¹ plamê
-txtlav005D	wyschniêty staw
-txtlaw001D	ma³¹ beczkê
-txtlua004D	sztukê nowoczesn¹
-txtlua005D	dziwny drink tropikalny
-txtlua006D	dziwne drinki tropikalne
-txtlua012D	nadziewan¹ wieprzowinê
-txtluc007D	niebiesk¹ esencje
-txtluc008D	kolorow¹ esencje
-txtluc009D	paskowan¹ esencje
-txtluc019D	zgni³e rybki
-txtluc023D	niebiesk¹ ³ódŸ
-txtluc027D	dziwny dom
-txtluc031D	dobrze zbudowanym graczem w szachy
-txtluc033D	chudym graczem w szachy
-txtluc034D	irytuj¹cym sprzedawc¹
-txtluc047D	œmierdz¹cym piratem
-txtlum003D	zaginion¹ lagunê
-txtlum004D	z³owieszcz¹ posiad³oœæ
-txtmel001D	przyjaznie wygl¹dajacymi piratami
-txtmig001D	GroŸn¹ Syrenkê Mechaniczn¹
-txtmig004D	niezwykle czysty i schludny bar
-txtmoh006D	z³amane Q-Tip
-txtmom006D	bardzo s³awn¹ wielk¹ czaszkê ma³py
-txtmom012D	na drug¹ stronê w¹wozu
-txtmon006D	"pijany byk"
-txtmon007D	"weso³y gibon"
-txtmon008D	"szybszy szympans"
-txtmon009D	"strachliwy pawian"
-txtmon010D	"wystraszona ma³pa"
-txtmon011D	muzykalna ma³pa
-txtmrb001D	du¿e rury
-txtmrb004D	dziwne prze³¹czniki
-txtmrb007D	dziwna maszyna
-txtpla013D	zrzêdliwym sêdziom
-txtpla014D	starym i m¹drym sêdziom
-txtplt002D	przyjaznym piratem
-txtplt014D	stare ciuchy Guybrusha
-txtplt018D	sekretny szyld
-txtpop006D	dziwny aparat
-txtpph005D	t³ust¹ tkaninê
-txtpta005D	tabacco do ¿ucia
-txtscu004D	pijanym marynarzem
-txtscu005D	towarzyskim barmanem
-txtscu006D	nieustraszonym ¿eglarzem
-txtscu007D	wiêkszym graczem graj¹cym w rzutki
-txtscu008D	mniejszym graczem graj¹cym w rzutki
-txtoze002D	straszn¹ fontannê
-txtoze003D	straszne ptaki
-txtscu015D	straszne drzwi
-txtscu017D	nafaszerowan¹ rybê
-txtshi001D	dobrze wygl¹daj¹cy statek
-txtshi002D	dobrze wygl¹daj¹ca ³ódŸ
-txtshi020D	³ódŸ sportow¹
-txtstb014D	dziwn¹ pani¹
-txtsys056D	czystych piratów na Jambalaya
-txttoc010D	wielkie ko³o
-txttow001D	ma³¹ wie¿ê
-txttow002D	œredni¹ wie¿ê
-txttow003D	naprawdê wielk¹ wie¿ê
-txttow005D	ogromny spust
-txttow004D	najwiêkszy milczek wszech czasów
-txttow006D	ogromnie wysok¹ trampolinê
-txtuch002D	zat³oczony bar
-txtuch007D	dziwny pierœcieñ
-txtunc002D	jasnym œwiat³em
-txtvau005D	wysok¹ zjawê
-txtvau007D	ni¿sz¹ zjawê
-txtvoo002D	dziwne lustro
-txtvoo003D	stó³ w kszta³cie d³oni
-txtvoo020D	ma³y palec
-txtwed001D	na³adowna armata
-txtwed003D	rozrzucone wegielki
-txtwed006D	obcy statek
 txtact001	Rzeczy, które robisz na Wyspie Szpady, bêd¹c martwym.
 txtact002	Rzeczy, które robisz na Wyspie Mamony, bêd¹c martwym.
 txtact003	Elaine Kampania Jest Zawsze Do Wygrania
-txtact004	Jak ujeŸdziæ syrene?
+txtact004	Jak ujeŸdziæ Manata?
 txtact005	To Œwiat Ozziego, My Tylko Tu ¯yjemy
-txtact006	Gdzie s¹ ci wszyscy piraci?
+txtact006	Gdzie ci piraci?
 txtact007	To Apokaliptyczny Œwiat Ozziego
 txtact008	Ucieczka z Wyspy Ma³p
-txtact009	Guybrush kopie wyj¹tkowo du¿y ty³ek
-txtact010	Kopniêcie Guybrusha w Wielgaœny ty³ek
+txtact009	Guybrush kopie niezwykle wielki ty³ek
+txtact010	Guybrush Kopie Wielgaœny Ty³ek
 txtall429	Napisy
-txtall430	Zmiany czynnika Whiz
+txtall430	&Zmieñ wspó³czynnik Gee Whiz...
 txtall431	<BAD DATA>
-txtall432	Slot
+txtall432	Strona
 txtall433	Uciek³eœ z Wyspy Ma³p?
-txtall434	Jesteœ pewny ¿e chcesz wygraæ?
+txtall434	Jesteœ pewny, ¿e chcesz wygraæ?
 txtall435	WYGRA£EŒ!
 txtall436	Ustawienia Gee Whiz
 txtall437	¯adne
 txtall438	Min.
 txtall439	Max.
-txtall440	Efekt cienia
-txtall441	Roznorodnosc efektow wideo
-txtall442	Wroc do opcji
-txtall443	monete
+txtall440	&Efekt cienia
+txtall441	&Ró¿ne Efekty Wideo
+txtall442	&Wróæ do opcji
+txtall443	moneta
 txtall444	dwa banany
 txtall445	menad¿er banku
-txtall446	kasjerk¹
-txtall446D	pracownikiem banku
+txtall446	kasjerka
+txtall446D	pracownik banku
 txtall447	Timmy
-txtall448	Close
+txtall448	Zamknij
 txtall449	ACK
 txtall450	OOP
 txtall451	EEK
@@ -11573,53 +11446,53 @@ txtall457	 przegrywa z
 txtall458	 pokonuje
 txtall459	kolekcja eksperymentalnych czêœci protez
 txtall460	Klient:
-txtall461	Pegnose Pete
-txtall462	Przepis na:
+txtall461	Ko³konosy Pete
+txtall462	Receptura:
 txtall463	Sztuczny Narz¹d ACME - model TK-421
-txtall464	Wskazówki do:
-txtall465	Bagien Czasoprzestrzeni
+txtall464	Wskazówki:
+txtall465	Bagna Czasoprzestrzeni
 txtall466	N
 txtall467	E
 txtall468	S
 txtall469	W
-txtall470	t³usty smar
-txtall471	drewnian¹ rêke z termitami
+txtall470	puszka t³uszczu z kurczaka
+txtall471	zaatakowana termitami proteza rêki
 txtall472	stos wiórków
-txtall473	³amliw¹ proteze
-txtall474	historiê choroby
+txtall473	lekko obgryziona proteza rêki
+txtall474	historia choroby
 txtcgs008	tutaj
-txtcgs009	WyjdŸ z
-txtfor003	IdŸ g³êbiej w
+txtcgs009	WyjdŸ z:
+txtfor003	IdŸ g³êbiej w:
 txtgme021	Szpada
-txthos014	katolog z laskami
+txthos014	katalog lasek
 txtkab017	Jumbeaux LaFeet
-txtlav010	kupe chwastów
-txtlav011	star¹ przestrzeñ po chwastach
-txtlav012	w po³owie pe³ny basen lawy
+txtlav010	p³at chwastów
+txtlav011	by³y p³at chwastów
+txtlav012	w po³owie pusty basen lawy
 txtluc053	Hugo
 txtmig009	*KRAKSA!*
 txtmom016	basen lawy
-txtmom017	PrzejdŸ przez
+txtmom017	IdŸ do:
 txtmon014	kwiatki
-txtpop019	Przynieœ plik
-txtpop020	Obróæ element
+txtpop019	Wciœnij przycisk
+txtpop020	Obróæ tarczê
 txtsta013	Dwie godziny i piêædziesi¹t siedem minut póŸniej...
 txtsys066	Doki Szpady
 txtsys067	Szpada
 txtsys086	Stocznia Szpady
-txttow008	Odbij
-txtvau016	mokre, grogowe coœ ze z³amanym mieczem na tym
-txtvau017	mokre, grogowe coœ
+txttow008	Skacz na:
+txtvau016	mokra, grogiem pachn¹ca, dziura ze starym, z³amanym mieczem
+txtvau017	mokra, grogiem pachn¹ca, dziura
 txtwed008	przewrócony kosz
 txtdem017	Z oficjalne dziennika Guybrusha Threepwooda...
-txtall477	prawie pe³n¹ puszke grogu
-txtall478	pust¹ puszkê po grogu
+txtall477	w po³owie pusta puszka grogu
+txtall478	w po³owie pe³na puszka grogu
 txtall479	Konfiguracje Gamepad/Joystick...
-txtall480	Jakosc obrazu
+txtall480	Jakoœæ filmu
 txttoc013	Horatio Torquemeda Marley
 txtact011	AKT I
 txtact012	Rzeczy, które robisz
-txtact013	na wyspie Szpady™
+txtact013	na Wyspie Szpady™
 txtact014	bêd¹c martwym
 txtact015	AKT III+
 txtact016	Guybrush
@@ -11628,21 +11501,21 @@ txtact018	Niezwykle
 txtact019	Wielki
 txtact020	Ty³ek
 txtall475	(Muzyka gra)
-txtall476	(Koniec melodyjki)
+txtall476	(Koniec muzyki)
 txtall481	Menu
 txtall482	Pomiñ scenê
-txtall483	Szybkie wyjscie z pokoju
-txtall484	Zapisana gra
+txtall483	Szybkie wyjœcie z pokoju
+txtall484	Gra Zapisana
 txtall485	Wczytywanie...
-txtall486	Jaystick analogowy
+txtall486	Tryb joysticka analogowego
 txtall487	PgUP i PgDown
 txtall488	Przewijaj dialogi i zdania
-txtall489	Obroc inwentarz w lewo
-txtall490	Obroc inwentarz w prawo
-txtall491	Polacz przedmiot
-txtall492	Naciœnij prawo/lewo aby przewijaæ.
-txtall493	Efekty dzwieku
-txtall494	Jakosc dzwieku
+txtall489	Obróæ inwentarz w lewo
+txtall490	Obróæ inwentarz w prawo
+txtall491	Po³¹cz przedmiot
+txtall492	Naciœnij prawo/lewo aby przewijaæ strony
+txtall493	&Efekty Audio
+txtall494	Jakoœæ Muzyki
 txtall495	Joystick 17
 txtall496	Joystick 18
 txtall497	Joystick 19
@@ -11651,13 +11524,13 @@ txtall499	Joy hat up
 txtall500	Joy hat down
 txtall501	Joy hat left
 txtall502	Joy hat right
-txtall503	Takich scen nie ma w wersji niemieckiej
-txtall504	i nie bêdzie
+txtall503	By³em tam, zrobi³em to
+txtall504	Chcia³em to zrobiæ
 txtall505	"Tam dom twój, gdzie serce twoje"
 txtall506	Guybrush Spotyka Swój Odpowiednik
 txtall507	Dobre Czasy i Darmowy Grog
-txtall508	Nikt nie zna K³opotów jakie Narobi³em
-txtall509	Szukuj¹c¹ Prawda o Charlesie
+txtall508	Nikt nie ma pojêcia o k³opotach na mojej scenie
+txtall509	Szokuj¹c¹ Prawda o Charlesie
 txtall510	Sushi + P³omienie = Zabawa
 txtall511	Kontrola obrotów
 txtall512	Gadaj z Rêk¹
@@ -11665,7 +11538,7 @@ txtall513	Guybrush i Porwania
 txtall514	Wyznania H.T. Marley
 txtall515	ŒmierdŸ po cichu
 txtall516	Prawdziwy Sekret Wyspy Ma³p
-txtall517	Die Talizman Upokorzenia
+txtall517	Talizman Upokorzenia
 txtall518	Ostateczna Kontra
 txtulg001	???
 txth1001	póŸniej
@@ -11704,7 +11577,7 @@ txtopc026	Linda Villalobos Grisanti
 txtopc027	Koordynator produkcji
 txtopc028	Christopher Tuite
 txtopc029	Kierownictwo projektu
-txtopc030	Sean Clark & Mike Stemmle                                                                              wersja polska: tirey93, twig, MC, Johnny, Zagadka, Rael, dziab i pytek1234
+txtopc030	Sean Clark & Mike Stemmle                                                                              wersja polska: tirey93, twig, ManualCzaszka, Johnny, Zagadka, Rael, dziab i tirey93
 txtcdt001	LucasArts Entertainment Company
 txtcdt002	przedstawia
 txtcdt003	UCIECZKA Z WYSPY MA£P™

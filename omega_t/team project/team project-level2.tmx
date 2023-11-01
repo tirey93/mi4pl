@@ -8,16 +8,16 @@
       <tuv xml:lang="en-US">
         <seg>&amp;Alter Gee Whiz Factor...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zmiany czynnika Whiz</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140742Z">
+        <seg>&amp;Zmień współczynnik Gee Whiz...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>&amp;Audio Effects</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Efekty dzwieku</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141934Z">
+        <seg>&amp;Efekty Audio</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv xml:lang="en-US">
         <seg>&amp;Misc. Video Effects</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Roznorodnosc efektow wideo</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140833Z">
+        <seg>&amp;Różne Efekty Wideo</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv xml:lang="en-US">
         <seg>&amp;Shadow Effects</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Efekt cienia</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140818Z">
+        <seg>&amp;Efekt cienia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1096,8 @@
       <tuv xml:lang="en-US">
         <seg>(Music stopped)</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>(Koniec melodyjki)</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141810Z">
+        <seg>(Koniec muzyki)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3203,6 +3203,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>&lt;BAD DATA&gt;</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140744Z" creationid="damia" creationdate="20231101T140744Z">
+        <seg>&lt;BAD DATA&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>&lt;Gasp&gt;  Oh mon dieu!  Not again!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -3955,6 +3963,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>???</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142150Z" creationid="damia" creationdate="20231101T142150Z">
+        <seg>???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T111339Z" creationid="damia" creationdate="20231031T111339Z">
@@ -4397,8 +4413,8 @@
       <tuv xml:lang="en-US">
         <seg>A&amp;nalog Joystick Mode</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jaystick analogowy</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141853Z">
+        <seg>Tryb joysticka analogowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -4447,6 +4463,14 @@
       </tuv>
       <tuv xml:lang="pl" changeid="Pytkowscy" changedate="20130712T215016Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>ACK</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140925Z" creationid="damia" creationdate="20231101T140925Z">
+        <seg>ACK</seg>
       </tuv>
     </tu>
     <tu>
@@ -5735,6 +5759,14 @@
       </tuv>
       <tuv xml:lang="pl" changeid="Pytkowscy" changedate="20130728T112223Z">
         <seg>Alibi, szmalibi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alisha Piccirillo</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142224Z" creationid="damia" creationdate="20231101T142224Z">
+        <seg>Alisha Piccirillo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7631,8 +7663,8 @@
       <tuv xml:lang="en-US">
         <seg>Are you sure you want to win?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jesteś pewny że chcesz wygrać?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140759Z">
+        <seg>Jesteś pewny, że chcesz wygrać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9119,8 +9151,8 @@
       <tuv xml:lang="en-US">
         <seg>Been There, Done That</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Takich scen nie ma w wersji niemieckiej</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142013Z">
+        <seg>Byłem tam, zrobiłem to</seg>
       </tuv>
     </tu>
     <tu>
@@ -9551,8 +9583,8 @@
       <tuv xml:lang="en-US">
         <seg>Bounce on</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Odbij</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141503Z">
+        <seg>Skacz na:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10981,6 +11013,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>CHEE</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140926Z" creationid="damia" creationdate="20231101T140926Z">
+        <seg>CHEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>CTRL</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T111339Z" creationid="damia" creationdate="20231031T111339Z">
@@ -11669,6 +11709,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Chris Miles</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142227Z" creationid="damia" creationdate="20231101T142227Z">
+        <seg>Chris Miles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Christopher Tuite</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142233Z" creationid="damia" creationdate="20231101T142233Z">
+        <seg>Christopher Tuite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Church of LeChuck</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11717,6 +11773,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140925Z" creationid="damia" creationdate="20231101T140925Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Close ze door before I whack you in ze noggin!</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T100620Z">
@@ -11743,8 +11807,8 @@
       <tuv xml:lang="en-US">
         <seg>Combine item</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Polacz przedmiot</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141915Z">
+        <seg>Połącz przedmiot</seg>
       </tuv>
     </tu>
     <tu>
@@ -12389,6 +12453,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Darragh O' Farrell</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142213Z" creationid="damia" creationdate="20231101T142213Z">
+        <seg>Darragh O' Farrell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>De Pollo's too good to be beaten by a flat-headed loser like you.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -12727,8 +12799,8 @@
       <tuv xml:lang="en-US">
         <seg>Directions:</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wskazówki do:</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141020Z">
+        <seg>Wskazówki:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14133,6 +14205,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>EEK</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140926Z" creationid="damia" creationdate="20231101T140926Z">
+        <seg>EEK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>ENTER</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T111333Z" creationid="damia" creationdate="20231031T111333Z">
@@ -14903,8 +14983,8 @@
       <tuv xml:lang="en-US">
         <seg>Enter the Manatee</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jak ujeździć syrene?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140618Z">
+        <seg>Jak ujeździć Manata?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16269,6 +16349,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>GARRETT JAMES</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142256Z" creationid="damia" creationdate="20231101T142256Z">
+        <seg>GARRETT JAMES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>GET HIM!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -16671,8 +16759,8 @@
       <tuv xml:lang="en-US">
         <seg>Get out of</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wyjdź z</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141243Z">
+        <seg>Wyjdź z:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17791,16 +17879,16 @@
       <tuv xml:lang="en-US">
         <seg>Guybrush Kicks Bigg Butt</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kopnięcie Guybrusha w Wielgaśny tyłek</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140718Z">
+        <seg>Guybrush Kopie Wielgaśny Tyłek</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Guybrush Kicks Unusually Large Butt</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Guybrush kopie wyjątkowo duży tyłek</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141756Z">
+        <seg>Guybrush kopie niezwykle wielki tyłek</seg>
       </tuv>
     </tu>
     <tu>
@@ -21649,6 +21737,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Horatio Torquemeda Marley</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141705Z" creationid="damia" creationdate="20231101T141705Z">
+        <seg>Horatio Torquemeda Marley</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Horatio Torquemeda Marley.</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231027T171358Z" creationid="damia" creationdate="20231027T171358Z">
@@ -22585,6 +22681,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Hugo</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141343Z" creationid="damia" creationdate="20231101T141343Z">
+        <seg>Hugo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Hugo decided to get out while the getting was good.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -22779,8 +22883,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I Meant to Do That</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>i nie będzie</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142024Z">
+        <seg>Chciałem to zrobić</seg>
       </tuv>
     </tu>
     <tu>
@@ -38551,6 +38655,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>John 'Buzz' Buzolich</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142205Z" creationid="damia" creationdate="20231101T142205Z">
+        <seg>John 'Buzz' Buzolich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>John and Martha?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -38759,6 +38871,38 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Joy hat down</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141942Z" creationid="damia" creationdate="20231101T141942Z">
+        <seg>Joy hat down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Joy hat left</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141946Z" creationid="damia" creationdate="20231101T141946Z">
+        <seg>Joy hat left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Joy hat right</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141947Z" creationid="damia" creationdate="20231101T141947Z">
+        <seg>Joy hat right</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Joy hat up</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141941Z" creationid="damia" creationdate="20231101T141941Z">
+        <seg>Joy hat up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Joystick/Gamepad Disabled</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -38819,6 +38963,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>Żongluj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Jumbeaux LaFeet</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141303Z" creationid="damia" creationdate="20231101T141303Z">
+        <seg>Jumbeaux LaFeet</seg>
       </tuv>
     </tu>
     <tu>
@@ -39355,6 +39507,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>Daj mi Lemoniadę Largo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Larry the O</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142221Z" creationid="damia" creationdate="20231101T142221Z">
+        <seg>Larry the O</seg>
       </tuv>
     </tu>
     <tu>
@@ -40127,6 +40287,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Linda Villalobos Grisanti</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142231Z" creationid="damia" creationdate="20231101T142231Z">
+        <seg>Linda Villalobos Grisanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Listen carefully, spanky:</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -40511,6 +40679,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>LucasArts Entertainment Company</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142158Z" creationid="damia" creationdate="20231101T142158Z">
+        <seg>LucasArts Entertainment Company</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>LucasArts Entertainment Company™</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -40617,8 +40793,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>M&amp;usic Quality</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jakosc dzwieku</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141940Z">
+        <seg>Jakość Muzyki</seg>
       </tuv>
     </tu>
     <tu>
@@ -40643,6 +40819,22 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>MIĘSO!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MICHAEL STEMMLE</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142257Z" creationid="damia" creationdate="20231101T142257Z">
+        <seg>MICHAEL STEMMLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MICHELLE HINNERS</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142258Z" creationid="damia" creationdate="20231101T142258Z">
+        <seg>MICHELLE HINNERS</seg>
       </tuv>
     </tu>
     <tu>
@@ -40787,6 +40979,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl" changeid="Pytkowscy" changedate="20130722T101753Z">
         <seg>Wiele lat temu, będąc genialnym młodzieńcem używającym tradycyjnych akwareli...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marc Overney</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142223Z" creationid="damia" creationdate="20231101T142223Z">
+        <seg>Marc Overney</seg>
       </tuv>
     </tu>
     <tu>
@@ -41215,10 +41415,26 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141810Z" creationid="damia" creationdate="20231101T141810Z">
+        <seg>Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Michael Land</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231013T105424Z" creationid="damia" creationdate="20231013T105424Z">
         <seg>Michael Land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Michelle Hinners</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142229Z" creationid="damia" creationdate="20231101T142229Z">
+        <seg>Michelle Hinners</seg>
       </tuv>
     </tu>
     <tu>
@@ -41505,8 +41721,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Mo&amp;vie Quality</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jakosc obrazu</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141704Z">
+        <seg>Jakość filmu</seg>
       </tuv>
     </tu>
     <tu>
@@ -42249,8 +42465,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Mystes O' Tyme Marshe</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Bagien Czasoprzestrzeni</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141024Z">
+        <seg>Bagna Czasoprzestrzeni</seg>
       </tuv>
     </tu>
     <tu>
@@ -43227,6 +43443,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>Nieźle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Nick Peck</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142220Z" creationid="damia" creationdate="20231101T142220Z">
+        <seg>Nick Peck</seg>
       </tuv>
     </tu>
     <tu>
@@ -44521,8 +44745,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nobody Nose the Trouble I've Scene</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nikt nie zna Kłopotów jakie Narobiłem</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142051Z">
+        <seg>Nikt nie ma pojęcia o kłopotach na mojej scenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -46019,6 +46243,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T111343Z" creationid="damia" creationdate="20231031T111343Z">
         <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>OOP</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140925Z" creationid="damia" creationdate="20231101T140925Z">
+        <seg>OOP</seg>
       </tuv>
     </tu>
     <tu>
@@ -49569,8 +49801,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Page</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Slot</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140749Z">
+        <seg>Strona</seg>
       </tuv>
     </tu>
     <tu>
@@ -49691,6 +49923,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T124342Z">
         <seg>Kołkonos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Pegnose Pete</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141009Z" creationid="damia" creationdate="20231101T140942Z">
+        <seg>Kołkonosy Pete</seg>
       </tuv>
     </tu>
     <tu>
@@ -49979,6 +50219,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>Osobiście wolałem ją bardziej kiedy witałem tylko gości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Peter McConnell</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142210Z" creationid="damia" creationdate="20231101T142210Z">
+        <seg>Peter McConnell</seg>
       </tuv>
     </tu>
     <tu>
@@ -50897,8 +51145,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Prescription:</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przepis na:</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141002Z">
+        <seg>Receptura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50953,8 +51201,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Press button</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przynieś plik</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141401Z">
+        <seg>Wciśnij przycisk</seg>
       </tuv>
     </tu>
     <tu>
@@ -51257,8 +51505,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Quick Room Exit</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Szybkie wyjscie z pokoju</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141825Z">
+        <seg>Szybkie wyjście z pokoju</seg>
       </tuv>
     </tu>
     <tu>
@@ -52071,6 +52319,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>SEAN CLARK &amp; MICHAEL STEMMLE</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142257Z" creationid="damia" creationdate="20231101T142257Z">
+        <seg>SEAN CLARK &amp; MICHAEL STEMMLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>SEE souvenirs of Guybrush Threepwood's most famous escapades!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -52201,8 +52457,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Save Successful</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zapisana gra</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141833Z">
+        <seg>Gra Zapisana</seg>
       </tuv>
     </tu>
     <tu>
@@ -52329,8 +52585,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sean Clark &amp; Mike Stemmle</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Sean Clark &amp; Mike Stemmle                                                                              wersja polska: tirey93, twig, MC, Johnny, Zagadka, Rael, dziab i pytek1234</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142254Z">
+        <seg>Sean Clark &amp; Mike Stemmle                                                                              wersja polska: tirey93, twig, ManualCzaszka, Johnny, Zagadka, Rael, dziab i tirey93</seg>
       </tuv>
     </tu>
     <tu>
@@ -54433,24 +54689,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Spin Inventory to left</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Obroc inwentarz w lewo</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141909Z">
+        <seg>Obróć inwentarz w lewo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Spin Inventory to right</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Obroc inwentarz w prawo</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141912Z">
+        <seg>Obróć inwentarz w prawo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Spin dial</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Obróć element</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141440Z">
+        <seg>Obróć tarczę</seg>
       </tuv>
     </tu>
     <tu>
@@ -54911,6 +55167,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Story, Game Design and Project Leads</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142256Z" creationid="damia" creationdate="20231101T142256Z">
+        <seg>Story, Game Design and Project Leads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Stove</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T125517Z">
@@ -55211,6 +55475,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>Mieczbójki, rozumiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Systems Programmer and Additional Design</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142300Z" creationid="damia" creationdate="20231101T142300Z">
+        <seg>Systems Programmer and Additional Design</seg>
       </tuv>
     </tu>
     <tu>
@@ -58393,8 +58665,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>The Shocking Truth About Charles</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Szukującą Prawda o Charlesie</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142056Z">
+        <seg>Szokującą Prawda o Charlesie</seg>
       </tuv>
     </tu>
     <tu>
@@ -58441,8 +58713,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>The Ultimate Insult</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Die Talizman Upokorzenia</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T142148Z">
+        <seg>Talizman Upokorzenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -62079,6 +62351,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Timmy</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140920Z" creationid="damia" creationdate="20231101T140920Z">
+        <seg>Timmy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Timmy want a banana?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -63857,8 +64137,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Use Left and Right arrows to change Pages</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231013T124939Z">
-        <seg>Naciśnij prawo/lewo aby przewijać.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141926Z">
+        <seg>Naciśnij prawo/lewo aby przewijać strony</seg>
       </tuv>
     </tu>
     <tu>
@@ -64385,8 +64665,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Walk deeper into</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Idź głębiej w</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141248Z">
+        <seg>Idź głębiej w:</seg>
       </tuv>
     </tu>
     <tu>
@@ -69210,8 +69490,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Where have all the Pirates Gone?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Gdzie są ci wszyscy piraci?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140639Z">
+        <seg>Gdzie ci piraci?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74968,6 +75248,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Z oficjalne dziennika Guybrusha Threepwooda...</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141624Z" creationid="damia" creationdate="20231101T141624Z">
+        <seg>Z oficjalne dziennika Guybrusha Threepwooda...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Ze boats, zay are stopped!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -75450,8 +75738,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>bank teller</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>kasjerką</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140856Z">
+        <seg>kasjerka</seg>
       </tuv>
     </tu>
     <tu>
@@ -76474,8 +76762,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>cup o' groggoccino</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>kubek groggocino</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T111112Z">
+        <seg>filiżanka groggocino</seg>
       </tuv>
     </tu>
     <tu>
@@ -76508,14 +76796,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>talerze</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>częściowo gotowy Talizman Upokorzenia</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110700Z" creationid="damia" creationdate="20231101T110700Z">
-        <seg>częściowo gotowy Talizman Upokorzenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -76794,8 +77074,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>empty groggoccino cup</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>pusty kubek po groggocino</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T111119Z">
+        <seg>pusta filiżanka po groggocino</seg>
       </tuv>
     </tu>
     <tu>
@@ -76842,8 +77122,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>ex-patch of weeds</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>starą przestrzeń po chwastach</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141334Z">
+        <seg>były płat chwastów</seg>
       </tuv>
     </tu>
     <tu>
@@ -77256,14 +77536,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>gorący węgielek</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110702Z" creationid="damia" creationdate="20231101T110702Z">
-        <seg>gorący węgielek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>government job contract form</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231026T135836Z">
@@ -77402,24 +77674,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>half empty can of grog</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>prawie pełną puszke grogu</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141641Z">
+        <seg>w połowie pusta puszka grogu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>half full can of grog</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>pustą puszkę po grogu</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141651Z">
+        <seg>w połowie pełna puszka grogu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>half-empty pool of lava</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>w połowie pełny basen lawy</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141342Z">
+        <seg>w połowie pusty basen lawy</seg>
       </tuv>
     </tu>
     <tu>
@@ -77888,14 +78160,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>lepką karykaturę Małpiego Kubka</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110625Z" creationid="damia" creationdate="20231101T110625Z">
-        <seg>lepka karykatura Małpiego Kubka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>let's give her a taste of things to come.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -77954,8 +78218,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>lightly-gnawed prosthetic hand</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>łamliwą proteze</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141232Z">
+        <seg>lekko obgryziona proteza ręki</seg>
       </tuv>
     </tu>
     <tu>
@@ -78056,18 +78320,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>małą śrubkę</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110617Z" creationid="damia" creationdate="20231101T110617Z">
-        <seg>mała śrubka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>medical records</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>historię choroby</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141238Z">
+        <seg>historia choroby</seg>
       </tuv>
     </tu>
     <tu>
@@ -78156,14 +78412,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl">
         <seg>mmm, hmm... tak... a, tak... dobrze... aha.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>mniejszym graczem grajacym w rzutki</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231028T162402Z" creationid="damia" creationdate="20231028T162402Z">
-        <seg>mniejszym graczem grającym w rzutki</seg>
       </tuv>
     </tu>
     <tu>
@@ -78360,22 +78608,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>niebieski obraz</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110628Z" creationid="damia" creationdate="20231101T110628Z">
-        <seg>niebieski obraz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>nieustraszonym zeglazem</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231028T162336Z" creationid="damia" creationdate="20231028T162336Z">
-        <seg>nieustraszonym żeglarzem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>nifty rock formation</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T122323Z">
@@ -78482,8 +78714,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>on Męlée Island™</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>na wyspie Szpady™</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141711Z">
+        <seg>na Wyspie Szpady™</seg>
       </tuv>
     </tu>
     <tu>
@@ -78626,8 +78858,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>patch of weeds</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>kupe chwastów</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141317Z">
+        <seg>płat chwastów</seg>
       </tuv>
     </tu>
     <tu>
@@ -79032,6 +79264,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>pracownikiem banku</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140917Z" creationid="damia" creationdate="20231101T140858Z">
+        <seg>pracownik banku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>prawnikami</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T130146Z" creationid="damia" creationdate="20231031T130146Z">
@@ -79160,14 +79400,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>pustą filiżankę po groggocino</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110634Z" creationid="damia" creationdate="20231101T110634Z">
-        <seg>pusta filiżanka po groggocino</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>put</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T123350Z">
@@ -79178,8 +79410,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>quarter</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>monete</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140847Z">
+        <seg>moneta</seg>
       </tuv>
     </tu>
     <tu>
@@ -79234,8 +79466,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>red hot chunk o' coal</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>gorący węgielek</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T111302Z">
+        <seg>rozżarzony węgielek</seg>
       </tuv>
     </tu>
     <tu>
@@ -79832,14 +80064,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>stary miecz</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110608Z" creationid="damia" creationdate="20231101T110608Z">
-        <seg>stary miecz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>stately portrait</seg>
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231031T123428Z">
@@ -79882,8 +80106,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>stick catalog</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>katolog z laskami</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141301Z">
+        <seg>katalog lasek</seg>
       </tuv>
     </tu>
     <tu>
@@ -79906,8 +80130,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>sticky Monkey Mug caricature</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>lepką karykaturę Małpiego Kubka</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T111001Z">
+        <seg>lepka karykatura Małpiego Kubka</seg>
       </tuv>
     </tu>
     <tu>
@@ -80120,14 +80344,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>tchórzliwą małpę</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110740Z" creationid="damia" creationdate="20231101T110740Z">
-        <seg>tchórzliwa małpa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>tent</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -80146,8 +80362,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>termite-infested prosthetic hand</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>drewnianą ręke z termitami</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141144Z">
+        <seg>zaatakowana termitami proteza ręki</seg>
       </tuv>
     </tu>
     <tu>
@@ -80282,8 +80498,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>tin of chicken grease</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tłusty smar</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141058Z">
+        <seg>puszka tłuszczu z kurczaka</seg>
       </tuv>
     </tu>
     <tu>
@@ -80698,16 +80914,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>wet, grog-smelling crack</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>mokre, grogowe coś</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141614Z">
+        <seg>mokra, grogiem pachnąca, dziura</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>wet, grog-smelling crack with a broken, old sword jammed in it</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>mokre, grogowe coś ze złamanym mieczem na tym</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141602Z">
+        <seg>mokra, grogiem pachnąca, dziura ze starym, złamanym mieczem</seg>
       </tuv>
     </tu>
     <tu>
@@ -80764,14 +80980,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv xml:lang="pl" changeid="damia" changedate="20231028T193748Z">
         <seg>który urządzał wielkie, olbrzymie uroczystości dla całego archipelagu.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>wiekszym graczem grajacym w rzutki</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231028T162347Z" creationid="damia" creationdate="20231028T162347Z">
-        <seg>większym graczem grającym w rzutki</seg>
       </tuv>
     </tu>
     <tu>
@@ -80888,14 +81096,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>wyżute ciasteczko ze śliną Schmear Whiz</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110657Z" creationid="damia" creationdate="20231101T110657Z">
-        <seg>przeżute ciasteczko Schmear Whiz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>yet unsophisticated public can be so draining.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -80920,26 +81120,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
-        <seg>złamany miecz</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110609Z" creationid="damia" creationdate="20231101T110609Z">
-        <seg>złamany miecz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
         <seg>© 2001 LucasArts Entertainment Company</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>2001 LucasArts Entertainment Company</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en-US">
-        <seg>świecący Pojemniczek</seg>
-      </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T110613Z" creationid="damia" creationdate="20231101T110613Z">
-        <seg>świecący Pojemniczek</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
@@ -80969,8 +81153,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>&amp;Return to options menu</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wroc do opcji</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T140844Z">
+        <seg>&amp;Wróć do opcji</seg>
       </tuv>
     </tu>
     <tu>
@@ -81139,8 +81323,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Go to</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przejdź przez</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231101T141350Z">
+        <seg>Idź do:</seg>
       </tuv>
     </tu>
     <tu>

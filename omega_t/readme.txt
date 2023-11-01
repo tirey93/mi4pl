@@ -1,0 +1,2 @@
+Po wybraniu File -> Create Translated Files OmegaT generuje plik target/efmi.po który należy przekonwerować do pliku script.tab
+Plik odmiany.po.bak zawiera wycięte powtórki podpisów. Możliwe że w przyszłości warto je przywrócić aby brzmiały lepiej(zamiast "Rozmawiaj z: osoba"; "Rozmawiaj z osobą")

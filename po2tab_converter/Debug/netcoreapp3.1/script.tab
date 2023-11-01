@@ -35,7 +35,7 @@ H1GB023	Dok³adnie.
 H1GB026	Rany, te przygodówki od LucasArts™ s¹ coraz krótsze... Aha!
 MEGB001	To powinno mu zabiæ æwieka!
 MELU002	Voila! Teraz powinno œmigaæ jak nowe. Eee? Có¿ tho? Statki! Nie rhuszaj¹ siê! Takh nie mo¿e byæ!
-MEGB004	Wosk - prawdziwy œrodek wyrazu Meathooka.
+MEGB004	Wosk - prawdziwy œrodek wyrazu Miêshaka.
 MADL001	Sk¹d do rufy-pupy mam wiedzieæ?
 MADL002	Mam ci coœ do przekazania, synu ciemnej zêzy - obchodzi mnie to tyle co funt  szczurzych k³aków!
 MADL003	Patrzcie go! Myœli, ¿e skoro jestem przymocowana do statku, to znam ka¿dy skrawek tej wyspy. Co za szczur œciekowy. Och, patrzcie na mnie. Jam Guybrush Threepnard – potê¿nie G£UPI pirat!
@@ -1454,7 +1454,7 @@ habshi002	Co to?
 guyshi005	Pieczêæ Gubernatorska wyspy Szpady.
 habshi003	Rozumiem.
 habshi004	Wiêc JESTEŒ wa¿n¹ osob¹. Têdy proszê, pani Marley. Poka¿ê pani pañski statek.
-habshi005	A o to... "Zgrabna Dama".
+habshi005	A o to... "Drobna Dama".
 guyshi006	Jest ró¿owa!
 habshi006	WyraŸnie widaæ twój ¿eglarski zmys³ do kolorów morza.
 guyshi007	Ale... jest ró¿owa!
@@ -1465,7 +1465,7 @@ habshi010	Wreszcie, pojazd ten ma byæ u¿ywany wy³¹cznie do celów s³u¿bowych, wiê
 habshi011	...¯ADNYCH WYŒCIGÓW!
 guyshi008	Mogê ju¿ p³yn¹æ?
 habshi012	Chyba tak.
-habshi013	¯yczê mi³ej podró¿y na "Zgrabnej Damie".
+habshi013	¯yczê mi³ej podró¿y na "Drobnej Damie".
 guyshi009	Jest... ró¿owa.
 habshi014	Chêtnie przesiedzia³abym w dokach z tob¹ ca³y dzieñ..
 habshi015	 ...w³aœciwie to k³amstwo. Nie zostanê tu ani chwili. ¯egnam!
@@ -2312,8 +2312,8 @@ guypph005	Hmmm ... brzmi ciekawie.
 ozzpph001	Wszystko w swoim czasie, Pegnosie...
 guypph006	Hej, znam sk¹dœ ten g³os!
 ozzpph002	Mamy tylko czêœæ naszego planu.
-ozzpph003	Rozliczymy siê sprawiedliwie, jak uda ci siê zgubiæ Guybrusha,
-ozzpph004	... wtedy oddam ci czêœæ skarbu Marleya.
+ozzpph003	Wykona³eœ godn¹ podziwu pracê, usuwaj¹c Guybrusha z drogi
+ozzpph004	... a tak¿e przyw³aszczaj¹c sobie schedê Marleyów.
 ozzpph005	Rozumiem, ¿e ukry³eœ go gdzieœ bezpiecznie do tego czasu?
 pegpph010	Oczywiœcie! Czy ja wygl¹dam na idiotê?
 pegpph011	Te œmieci co ciê tak interesuj¹ le¿¹ w sekretnej niewykrywalnej jaskini.
@@ -2321,12 +2321,12 @@ guypph007	Niewykrywalnej jaskini? Myœla³em, ¿e wszystkie s¹ zamkniête.
 ozzpph006	Te "œmieci", jak je nazwa³eœ, mog¹ byæ kluczem do drzwi ocalenia tej wyspy przed wszystkimi piratami.
 ozzpph007	Poza nami, oczywiœcie.
 pegpph012	Oczywiœcie. Powracaj¹c do tematu wynagr...
-ozzpph008	PóŸniej, mój synu. Teraz, skarb jest naszym ma³ym sekretem.
+ozzpph008	PóŸniej, dobry cz³owieku. Teraz scheda jest naszym ma³ym sekretem.
 ozzpph009	Wiêc dziób na k³ódkê, nikomu ani s³owa. Nie lubiê jak niepotrzebni znaj¹ moje plany.
 pegpph013	Rozumiem, Panie Mandrill. Zrobimy to jak pan karze, ale jeœli nie wyp³acisz mi to nie rêczê za siebie!
 ozzpph010	Nie udawaj takiego twardziela. Dostaniesz swoj¹ nale¿noœæ.
 pegpph014	Lepiej ¿eby.
-ozzpph011	Lepiej aby nikt mnie nie kojarzy³. Teraz, kiedy mamy nale¿noœci skarbu Marleya, muszê zacz¹æ rozumieæ moc wszechpotê¿nego Talizmanu Upokorzenia.
+ozzpph011	Idê zaj¹æ siê swoimi sprawami. Teraz, kiedy jesteœmy w posiadaniu schedy Marleya, muszê okreœliæ, jak wi¹¿e siê ona z Talizmanem Upokorzenia.
 guypph008	Ach, wiêc Ozzie i Pegnose wspó³pracuj¹. Zanim rozliczê siê tutaj z Pegnosem, muszê odwiedziæ Pana Mandrilla.
 guypph009	Ach, wiêc Pegnose i Ozzie stoj¹ za napadem na bank. Zanim stanê twarz¹ w twarz z Pegnosem, musze odwiedziæ Pana Mandrilla.
 guypph010	Jestem kapitanem tej tratwy!
@@ -2477,7 +2477,7 @@ ozzlag001	Chyba jakiœ kangur strzeli³ mi w g³owê.
 guylag006	Cicho...cicho. Zaraz upolujê Ozziego.
 ozzlag002	Ten Talizman Upokorzenia powoduje u mnie jakieœ choroby psychiczne.
 ozzlag003	Wiedzia³em, ¿eby lepiej u¿yæ jakieœ kl¹twy Voodoo na wyk³adowcê w Toowoomba.
-guylag007	Mój skarb musi byæ gdzieœ blisko.
+guylag007	Scheda musi byæ gdzieœ blisko.
 guylag008	Ale tutaj jest p³ytko. Widaæ butelki po piwie na dnie.
 guylag009	Nie dziêki. Nie chcê piæ.
 guylag010	Tutaj jest raczej g³êboko. Nie widaæ butelek.
@@ -2502,7 +2502,7 @@ guyuch011	Co za kretyn pozostawia kupe czaszek swoich ofiar o krok od miejsca uk
 guyuch012	S¹dzê, ¿e rodzice nie okazywali mu za du¿o mi³oœci.
 guyuch013	Ewww! Ta, jasne! A kto wie gdzie te czaszki le¿a³y?
 guyuch014	W sensie, poza tu³owiem ich w³aœcicieli.
-guyuch015	Rabunek z banku i skarb Marleya s¹ po drugiej stronie nie przebijalnej szyby.
+guyuch015	Rabunek z banku i scheda Marleya s¹ po drugiej stronie nieprzebijalnej szyby.
 guyuch016	Genialne, po prostu przebije to niet³uk¹ce siê okno swoj¹ g³ow¹!
 guyuch017	Ale pobrudzimy przez to dywan.
 guyuch018	Ciekawe co ujrz¹ moje oczy, kiedy ods³oniê t¹ zas³onkê...
@@ -2511,7 +2511,7 @@ guyuch020	Nie siêgnê tego haka.
 guyuch021	Ten przycisk po prostu krzyczy do mnie "Naciœnij mnie".
 guyuch022	Niestety, to poza moim zasiêgiem.
 guyuch023	Nie da rady.
-guyuch024	Hej! Czy to nie zaginiony skarb z Lucre Banku! No i skarb Marleya!
+guyuch024	Hej! Czy to nie zaginiony skarb z Lucre Banku! No i scheda Marleya!
 guyuch025	Muszê siê tam jakoœ dostaæ.
 guyuch026	To drabina. Prowadzi w górê.
 guyuch027	Kiedyœ w³o¿y³em drabinê do spodni...ale drugi raz tego nie zrobiê.
@@ -2620,7 +2620,7 @@ guyban023	Ah ... przepraszam bardzo...
 manban003	Proszê rozmawiaæ z pani¹ obok.
 guyban024	Ale ja chcia³em tylko...
 manban004	Proszê pytaæ tamt¹ pani¹. Jestem zajêty a ona z pewnoœci¹ ci pomo¿e.
-guyban025	Hej. Przyszed³em odebraæ pami¹tkê rodow¹ Marleyów.
+guyban025	Hej. Przyszed³em odebraæ schedê Marleyów.
 manban005	Pan jest Marley?
 manban006	Oh... rozumiem, Pan Marley.
 guyban026	Ekhm. Threepwood.
@@ -3882,7 +3882,7 @@ ozzozi132	To dziwne... Bo s³ysz³em ¿e to TY jeden obrabowa³eœ bank.
 guyozi150	 
 guyozi151	Pods³ucha³em jak gada³eœ o tym z Pegnosem na bagnach.
 ozzozi133	Co?
-guyozi152	To co s³yszysz. Znam ca³y twój plan kradzie¿y skarbu Marleya.
+guyozi152	To co s³yszysz. Znam ca³y twój plan kradzie¿y schedy Marleya.
 ozzozi134	 
 ozzozi135	Twój mizerny, piracki mó¿d¿ek wyindukowa³ sobie prawdê o moim "planie"
 ozzozi136	Tak poza tym, nigdy nic na mnie nie znajdziesz bez dowodu czyli skarbu.
@@ -3962,10 +3962,10 @@ ozzozi176	Hmmm.
 ozzozi177	Chyba ¿e blefujesz...
 ozzozi178	... ale w³aœnie planowa³em zrobiæ rozruszaæ stawy.
 ozzozi179	Ten blef jest s³abszy od poprzedniego.
-ozzozi180	Ale przypuszczam ¿e ucisk na Skarb Marlaya nie bola³by.
+ozzozi180	Ale przypuszczam, ¿e kolejny rzut oka na schedê Marleyów nie zaszkodzi.
 ozzozi181	-wzdycha-
 ozzozi182	Musze przyznaæ ¿e blefujesz bardziej nawet ode mnie.
-ozzozi183	Na szczêœcie dla ciebie, ci¹gle nie odkry³em sekretu Talizmanu Upokorzenia ze Skarbca Marleya.
+ozzozi183	Na szczêœcie dla ciebie wci¹¿ nie odkry³em sekretów Talizmanu Upokorzenia ze schedy Marleya.
 guyozi186	To bardzo mi³e. Taki ogrom skarbu.
 guyozi187	Mi³e dla oka.
 guyozi188	Myœla³em ¿e bêdzie bardziej olœniewaj¹ce.
@@ -4568,7 +4568,7 @@ macpla011	£adny skok, panie Threepwood.  Jeœli wybaczy mi pan na moment...
 guypla014	Zastanawiam siê o co w tym wszystkim chodzi?
 guypla015	To nie brzmi za ³adnie.
 guypla016	Ewww.
-guypla017	Marco jeszcze nie wie, ¿e  podmieni³em jego standardow¹ Dzieciêc¹ Focz¹ Oliwkê z ciasteczkami od Starbuccaneera.  Popatrzmy.
+guypla017	Marco nie wie, ¿e zast¹piliœmy jego zwyk³¹ Dzieciêc¹ Focz¹ Oliwkê podk³adaj¹c Shmear Whiz. Zobaczmy.
 macpla012	A teraz, przyjacielu..przygotuj siê na widok mistrza w akcji!
 macpla013	Powodzenia, panie Threepwood.
 macpla014	Nie zazdroszczê panu, panie Threepwood.
@@ -5011,7 +5011,7 @@ guypla061	Chcia³bym skoczyæ.
 kahpla031	Rzuæ wyzwanie De Pollo .
 guypla062	De Pollo oszukuje!
 kahpla032	Mówisz tak bezpodstawnie? Czemu tak s¹dzisz?
-guypla063	Wydaje mi siê, ¿e smaruje siê oliwk¹ dla dzieci przed skokiem.
+guypla063	Wydaje mi siê, ¿e smaruje siê dzieciêc¹ focz¹ oliwk¹ przed skokiem.
 kahpla033	Tylko tyle? To nie oszukiwanie.
 guypla064	Jest.
 kahpla034	Smarowanie siê od¿ywcz¹ oliwk¹ jest od zawsze dozwolone w skokach do wody na ca³ym œwiecie.
@@ -5040,7 +5040,7 @@ trppla028	Wiruj¹cy Szermierz
 trppla029	Alfa Ma³pa
 trppla030	A wiêc, jeœli chcesz to skopiowaæ musisz wciskaæ...?
 guypla073	Góra
-guypla074	Dól
+guypla074	Dó³
 guypla075	Lewo
 guypla076	Prawo
 trppla031	No! Widzê, ¿e ³apiesz.
@@ -5195,9 +5195,9 @@ guymig029	A co ze starym, dobrym grogiem?
 opemig041	¯e co? Taki prostacki napój?
 guymig030	Opowiedz mi jeszcze raz o sukcesie swojej MikroGroggerii?
 guymig031	A co to jest za dziwna rzecz z siod³em?
-opemig042	To, mój kolego, nasza GroŸna Syrenka Mechaniczna!
-guymig032	Wiêc o co chodzi z t¹ krow¹ morsk¹?
-opemig043	Nazywamy j¹ GroŸn¹ Syrenk¹ Mechaniczn¹.
+opemig042	To, mój kolego, nasza GroŸny Mechaniczny Manat!
+guymig032	Wiêc o co chodzi z tym Manatem?
+opemig043	Nazywamy go GroŸny Mechaniczny Manat.
 guymig033	A dlaczego wyspa wygl¹da tak...zdrowo?
 opemig044	Mieszkañcy naszej wyspy(dziêki Ozzie Mandrill Enterprises) pracuj¹ bardzo ciê¿ko, ¿eby utrzymaæ tu czystoœæ i rodzinn¹ atmosferê.
 guymig034	Rodzinn¹ atmosferê?
@@ -6211,7 +6211,7 @@ guyluc212	£aweczka wygl¹da naprawdê komfortowo.
 guyluc213	Hej! Widzia³em takie same na naszym statku.
 guyluc214	Nie, Elaine by sie to nie podoba³o.
 guyluc215	S¹dzê, ¿e niebieski jest lepszym kolorem jak na statek.
-guyluc216	Hmmm. Mo¿e w³aœciciel tej ³odzi nie zauwa¿y, ¿e podmieni³em ten statek na moj¹ Filigranow¹ Damê.
+guyluc216	Hmmm. Mo¿e w³aœciciel tej ³odzi nie zauwa¿y, ¿e podmieni³em ten statek na moj¹ Drobn¹ Damê.
 guyluc217	Administracja Portu na Wyspie Mamony.
 guyluc218	Lepiej, ¿ebym tam nie wchodzi³ i lepiej ¿eby nie widzieli jakich szkód narobi³ mój nawigator w ich porcie.
 guyluc219	Jacyœ faceci ze szkockim akcentem s¹ na tej ³odzi.
@@ -6241,7 +6241,7 @@ canluc005	IdŸcie st¹d. Tu nie ma nic ciekawego.
 guyluc242	To dobrze, ¿e bank nadal sobie jakoœ radzi.
 guyluc243	To droga do miasta.
 guyluc244	Prawnicy dobrze mi radzili, wyspa jest piêkna.
-guyluc245	To drzwi do Sklepu z laskami.
+guyluc245	To drzwi do Domu Lasek.
 guyluc246	Bêdzie na to du¿o czasu PO TYM jak pójdê do biura prawników.
 guyluc247	To pó³ka z przek¹skami.
 guyluc248	Powinienem iœæ do biura prawników zanim cokolwiek kupiê.
@@ -6797,7 +6797,7 @@ deapop292	... jak stêch³e powietrze.
 guypop217	To podwieszacz przynosz¹cy dokumenty z zaplecza.
 guypop218	Podwieszacz teraz nic nie trzyma.
 guypop219	Nie, potrzebuje tych wskazówek do kryjówki Pegnose'a.
-guypop220	To panel kontrolny systemu odzyskiwania danych.
+guypop220	To panel kontrolny systemu pobierania plików.
 deapop293	Kiedy mówi³em, ¿e "droga wolna" przy u¿ywaniu PlikoMatu nie mia³em na myœli "Droga wolna, ¿eby go ukraœæ".
 guypop221	Mam ju¿ jeden dokument od Dave'a. Jeœli bêdzie inny, bêdê musia³ ten od³o¿yæ.
 guypop222	Ja ju¿ mam akta Pegnose'a.
@@ -6806,7 +6806,7 @@ guypop224	Ah, zapomnij.
 guypop225	To kosz dla protez ca³ych koñczyn.
 guypop226	Nie potrzebujê ca³ego kosza z protezami.
 guypop227	W ewentualnoœci, jedna by mi siê przyda³a.
-guypop228	To mi wygl¹da na jakiœ rodzaj nowoczesnego systemy przechowywania danych.
+guypop228	To mi wygl¹da na jakiœ rodzaj nowoczesnego systemu pobierania plików.
 guypop229	Szkoda, ¿e one siê na mnie patrz¹.
 guypop230	Masz ju¿ doœæ dotykania ludzi za ich oczy. Dziêkuje.
 guypop231	Nie widzia³em tylu ostrokrawê¿nych rzeczy od czasu mojej ostatniej wizyty u lekarza.
@@ -6987,7 +6987,7 @@ guypta004	Tak, Pani Rivers?
 rivpta022	No i Mungle...
 munpta003	Tak?
 rivpta023	Co trzymasz w ustach, m³ody cz³owieku?
-munpta004	Pirack¹ Gumê Tobacco.
+munpta004	Piracki tytoñ do plucia.
 rivpta024	A reszcie przynios³eœ?
 munpta005	Akurat tak.
 rivpta025	No i w tym rzecz. Nie tolerujemy pirackich zabawek w tej klasie.
@@ -8317,7 +8317,7 @@ guykit034	Hmmm...
 guypla131	To namiot przebieralnia.
 guypla132	To chyba sêdziowie w zawodach.
 guypla133	To sêdziowie w zawodach
-guypla134	To ten nowy, gruboziarnisty olej o smaku ³ososia, o którym tyle s³ysza³em.
+guypla134	To ta nowa, gruboziarnista, ³ososiowa dzieciêca focz¹ oliwka, o którym tyle s³ysza³em.
 guypla135	Dzieciêca focza oliwka marki Bosun i Bosun.
 guypla136	Przypuszczam, ¿e ta oliwka mia³a byæ u¿ywana na ma³ych fokach, a nie na...
 guypla137	Ewwww ... Nie...
@@ -8542,11 +8542,11 @@ jojmon132	Nie widzê, ¿ebyœ trenowa³, Threepwood, wci¹¿ nie jesteœ gotów.
 jojmon133	Widocznie jakiœ lojalny g³upiec prze³¹czy³ kontrolkê otwieraj¹c¹ bramê do Wielkiej Ma³pie G³owy....
 jojmon134	...ale ten sam g³upiec zapomnia³ ju¿ nauczyæ mojego ojca ODWRÓCIÆ ten proces.
 jojmon135	W koñcu mój ojciec umar³ z g³odu, wci¹¿ ko³ysz¹c siê na prze³¹czniku, czekaj¹c na prost¹ komendê której ju¿ nigdy nie us³ysza³.
-jojmon136	Utykaj¹cy Gibon
-jojmon137	£aduj¹cy Szympans
-jojmon138	Szarpi¹cy Pawian
-jojmon139	Niespokojna Ma³pa
-jojmon140	Pijany Cz³ekokszta³tny
+jojmon136	Kulawy Gibon
+jojmon137	Nacieraj¹cy Szympans
+jojmon138	Podskakuj¹cy Pawian
+jojmon139	Niespokojny Cz³ekokszta³tny
+jojmon140	Pijana Ma³pa
 jojmon141	S³uchaj uwa¿nie: Nie bêdê powtarza³ sto razy.
 jojmon142	S¹ cztery podstawowe techniki walki Krav Ma³py
 jojmon143	Utykaj¹cy Gibon...
@@ -8749,7 +8749,7 @@ guysta044	Nie. Jestem pewny, ¿e nie chcê wiedzieæ
 guysta045	Materia³y na projekt time-sharingu.
 guysta046	Jedna mi wystarczy.
 guysta047	Prowadzi z powrotem.
-guysta048	To s¹ drzwi do korporacji Stana.
+guysta048	To s¹ drzwi do Domu Handlowego Stana.
 guysta049	OK.
 guyhei016	Chyba coœ musi do tego pasowaæ.
 guyhei017	Mamy tu kilka zaworów i linii ciœnieniowych wystaj¹cych z panelu sterowania.
@@ -8830,7 +8830,7 @@ guymel144	Jestem wstrz¹œniêty.
 guymel145	Dlaczego LeChuck ¿yje?
 guymel146	To znaczy, istnieje.
 guymel147	Co to JEST ten Talizman Upokorzenia i dlaczego LeChuck i Ozzie tak go pragn¹?
-guymel148	Ale co ma do niego skarb twojego dziadka?
+guymel148	Ale co ma do niego scheda twojego dziadka?
 guymel149	Mam plan!
 guymel150	Ukryjmy w domu to coœ zanim wybuchnie.
 guymel151	No mo¿e i tak, ale to mo¿e zadzia³aæ.
@@ -9044,7 +9044,7 @@ guyall283	Jeszcze by mi siê rozchorowa³.
 guyall284	W¹tpiê, ¿eby Timmiemu siê to podoba³o.
 guyoze012	To bardzo ma³e drzwiczki.
 guyall285	Wygl¹da mi na to, ¿e opada w dó³ mechanizmu.
-guyall286	To nowy model odchwaszczacza firmy StanCo.
+guyall286	To nowy model wypielacza firmy StanCo.
 guyall287	Sieka i mieli najmocniejsze czêœci twojej sa³aty.
 guyall288	Dobra, mam to!
 guyall289	Musze tego u¿yæ z CZYMŒ.
@@ -9141,7 +9141,7 @@ guygom029	Tam widaæ dziurê w wiadrze.
 guygom030	Nie, w œrodku jest dziura.
 guygom031	Hmm... ciekawe co jest za œcian¹ desek.
 guygom032	Zabite deskami tak, ¿e nigdy siê nie przebijê.
-guygom033	To woreczek.
+guygom033	To sakiewka.
 guygom034	Do niczego mi.
 guygom035	Ta kolejka pewnie porusza siê po tych torach.
 guygom036	Zepsuta.
@@ -9205,7 +9205,7 @@ guyall346	No i s¹ ró¿owe.
 guyall347	Nie, chyba nie pasuj¹ do mojego fasonu.
 guyall348	Zarobiê fortunê jeœli opatentuje naszyjniki z o³ówkiem!
 guyall349	Teraz ludzie bêd¹ mogli pisaæ gdziekolwiek bêd¹, czy tego chc¹ czy nie!
-guyall350	Wygl¹da mi na nowy... Ciekawe jak on siê znalaz³ przy tych wszystkich rodzinnych klejnotach.
+guyall350	Wygl¹da mi na nowy... Ciekawe jak on siê znalaz³ przy tych wszystkich starociach.
 guyall351	Ju¿ mi wystarcza bi¿uterii jak na jedn¹ podró¿.
 guyall352	Widaæ coœ do pisania w œrodku.
 guyall353	Na piórze napis: "Drugi Bank na Mamonie".
@@ -9385,7 +9385,7 @@ guyall484	To jest chore.
 guyall485	Jak przejdê przez wszystko to sobie to kupiê.
 guyall486	Lepiej to zachowam, na wszelki wypadek.
 guyall487	Te wiórki tu siê nie przydadz¹.
-guyall488	Ten skarb jest zbyt cenny, ¿eby tak go zostawiaæ.
+guyall488	Scheda jest zbyt cenna, ¿eby j¹ tak utraciæ.
 guyall489	To do siebie na pasuje.
 guyall490	Wygl¹da na to, ¿e Talizman Upokorzenia dzieli siê na trzy czêœci:
 guyall491	Na g³owê ma³py ze srebra, czapkê z br¹zu i cz³owieka ze z³ota.
@@ -9492,7 +9492,7 @@ guyluc274	To mówisz ¿e sp³aci³eœ ju¿ d³ug publiczny, Otis?
 guyluc275	Wchodzenie do w³azu to g³upi pomys³.
 guyluc276	Po co mam rozrzucaæ tutaj ca³¹ zawartoœæ moich kieszeni?
 guyluc277	Nie bêde wrzuca³ moich rzeczy do w³azy kanalizacyjnego.
-guyluc278	Po co mia³bym wrzucaæ wieczko do w³azu skoro przed chwil¹ ma³o nie dosta³em przepukliny wyjmuj¹c je?
+guyluc278	Po co mia³bym wrzucaæ wieczko do studzienki skoro przed chwil¹ ma³o nie dosta³em przepukliny wyjmuj¹c je?
 guyluc279	Tutaj jest ma³a kaczuszka. Musz¹ byæ tu kacze standardy.
 guyluc280	Pozwolê kaczuszk¹ zaj¹æ siê t¹ flag¹.
 guyluc281	Niez³a siekiera.
@@ -9695,7 +9695,7 @@ bagb007c	a po tym, odrazu do Elaine.
 bagb007d	Hmm. Zobaczmy...
 babm008	Pan Threepwood! Co Pan tutaj robi?
 bapp009a	Ja tylko,um, szukam gdzieœ w pobli¿u Grogomatu.
-bapp009b	Grzebanie wœród "cennych" pami¹tek rodowych to ciê¿ka praca.
+bapp009b	Grzebanie wœród "cennych" sched rodowych to ciê¿ka praca.
 babm010a	Powinien mnie Pan powiadomiæ o wyjœciu.
 babm010b	Mamy zasady zwi¹zane z opuszczaniem skrytki rodzinnej.
 bapp011	A wiêc naprawdê najpierw powinien mnie Pan powiadomiæ.
@@ -9711,7 +9711,7 @@ bagb020a	Mo¿e dlatego, ¿e Guybrush jest od ciebie o wiele przystojniejszy.
 bagb020b	W¹cha, w¹cha.
 bagb020c	No i dlatego ¿e PRAWDZIWY Guybrush nie œmierdzi jak œmieci ze staro¿ytnoœci. Whew!
 bapp021a	No dobra, przekona³eœ mnie!
-bapp021b	Odsuñ siê od tego Skarbu Marleya, i siedŸ cicho!
+bapp021b	Odsuñ siê od tej schedy Marleya, i siedŸ cicho!
 bapp021c	A teraz, Panie Threepwood,
 bapp021d	mo¿esz siê spojrzeæ w twarz która bêdzie ci siê œni³a po nocach! He he he.
 bagb022	Wiedzia³em ¿e spo³eczne banki mog¹ do tego doprowadzaæ.
@@ -9785,9 +9785,9 @@ h1gb011	... a wtedy Ozzie mówi ¿e przerobi mój statek na lalkê barbie
 h1gb012	... po tym zaatakowa³a mnie banda wœciek³ych misiów koala
 h1gb013a	... w koñcu prawnicy znaleŸli odpowiedni dokument który ocalil Rezydencjê
 h1gb013b	po rozwi¹zaniu pobocznych problemów jestem w domu
-h1el024a	No có¿, wygl¹da mi to na rzecz godn¹
-h1el024b	ocalenia skarbu mojego dziadka.
-h1el024c	Nikt inny nie móg³ go posiadaæ razem z Talizmanem Upokorzenia, cokolwiek to jest
+h1el024a	Có¿, najrozs¹dniejsz¹ rzecz¹ by³oby
+h1el024b	zniszczyæ schedê dziadka,
+h1el024c	aby nikt nie móg³ dostaæ w swoje rêce Talizmany Upokorzenia, czymkolwiek on jest.
 h1gb025	Rzeczywiœcie. Fajna sztuczka?
 h1ch027	Mwah-hah-haaaa!
 h1el029a	Charles, ty manipulacyjna gnido.
@@ -10151,37 +10151,37 @@ h2gb024b	SpóŸni³em siê, nie spóŸni³em.
 doel003d	To powinno le¿eæ na wierzchu.
 ozlc034b	po moim zdech³ym trupie, Mandrill!
 txtall222	SHIFT
-txtall001	Symbolu Gubernatora Wyspy Szpady
+txtall001	Symbol Gubernatora Wyspy Szpady
 txtall002	Obejrzyj:
-txtall003	list gubernatora
+txtall003	papiery gubernatora
 txtall004	intratna umowa o pracê w urzêdzie
 txtall005	podpisana intratna umowa o pracê w urzêdzie
-txtall006	U¿yj:
-txtall007	z:
+txtall006	Wrêcz:
+txtall007	dla:
 txtall008	umowa o pracê w urzêdzie
 txtall009	podpisana umowa o pracê w urzêdzie
 txtall010	dziurawa dêtka
 txtall011	miska precelków
 txtall012	Jedz:
-txtall013	U¿yj:
-txtall014	drink-menu
+txtall013	Zaoferuj:
+txtall014	menu drinków
 txtall015	Czytaj:
 txtall016	list
 txtall017	mieszek
-txtall018	WeŸ:
+txtall018	Podnieœ:
 txtall019	pozytywka
 txtall020	Graj:
 txtall021	stary miecz
 txtall022	z³amany miecz
-txtall023	jakaœ g¹bki
+txtall023	kilka g¹bek
 txtall024	butelka niez³ego grogu
 txtall025	chusteczka
-txtall026	przynêtê
+txtall026	przynêta
 txtall027	U¿yj:
 txtall028	haczyk na ryby
-txtall029	Nak³uj siê
-txtall030	Szturchnij
-txtall031	z:
+txtall029	Nak³uj siê:
+txtall030	Szturchnij:
+txtall031	u¿ywaj¹c:
 txtall032	sztuczna drewniana noga
 txtall033	sztuczna skóra
 txtall034	wskazówki
@@ -10190,7 +10190,7 @@ txtall036	P
 txtall037	D
 txtall038	L
 txtall039	jakiœ dokument
-txtall040	laskê
+txtall040	laska
 txtall041	trociny
 txtall042	perfumy
 txtall043	Spryskaj:
@@ -10199,43 +10199,43 @@ txtall045	Eau de LeChuck
 txtall046	zegar
 txtall047	spryskiwacz
 txtall048	kwiatek
-txtall049	kaczke
-txtall050	³y¿kê t³uszczu
+txtall049	kaczka
+txtall050	wiadro t³uszczu
 txtall051	s³up
-txtall052	s³up z dziurk¹
-txtall053	s³up z hakiem zaci¹gniêtym na górze
+txtall052	s³up z dziur¹
+txtall053	s³up z wetkniêtym hakiem
 txtall054	Pojemniczek
-txtall055	Otwórz
+txtall055	Otwórz:
 txtall056	œwiec¹cy Pojemniczek
-txtall057	Pojemniczek z przek¹sk¹
+txtall057	Pojemniczek z przynêt¹
 txtall058	skarby banku
 txtall059	Ukradnij:
-txtall060	ma³a œrubka
+txtall060	maluteñka œrubka
 txtall061	sztuczny nos
-txtall062	lekki grog
+txtall062	s³aby grog
 txtall063	kupon do Planety Threepwood
 txtall064	s³oik z klejem
-txtall065	karykaturê Ma³piego Kubka
+txtall065	karykatura Ma³piego Kubka
 txtall066	lepk¹ karykaturê Ma³piego Kubka
-txtall067	kufel z logiem Starbuccaneera
+txtall067	kubek z logiem Starbuccaneera
 txtall068	fa³szywy Ma³pi Kubek
 txtall069	Po³¹cz:
 txtall070	U¿yj:
-txtall071	IdŸ do:
+txtall071	PrzejdŸ przez:
 txtall072	z:
 txtall073	U¿yj:
-txtall074	WeŸ:
-txtall075	w³az
-txtall076	pami¹tka rodzinna Marleya
+txtall074	Podnieœ:
+txtall075	pokrywa studzienki
+txtall076	scheda rodziny Marleyów
 txtall077	Ucieczka z Wyspy Ma³p™
 txtall078	Nie mo¿na kontynuowaæ bez CD
-txtall079	Zapisz grê aby nie utraciæ postêpów
+txtall079	Zapisz grê, aby nie utraciæ postêpów
 txtall080	& Zapisz i wyjdŸ
 txtall081	&WyjdŸ
-txtall082	Wybrano: kamera wzglêdnego ruchu
-txtall083	Wybrano: ruch wzglêdem postaci
-txtall084	Tylko glosy
-txtall085	Glosy i napisy
+txtall082	Wybrano: ruch zale¿ny od kamery
+txtall083	Wybrano: ruch zale¿ny od postaci
+txtall084	Tylko g³osy
+txtall085	G³osy i napisy
 txtall086	Tylko napisy
 txtall087	Joystick/Gamepad odblokowany
 txtall088	Joystick/Gamepad zablokowany
@@ -10251,7 +10251,7 @@ txtall097	Autorzy
 txtall098	&Multiplayer
 txtall099	&Nowa gra
 txtall100	&Powrót do gry
-txtall101	&Wznów gre
+txtall101	&Wznów grê
 txtall102	&Zakoñcz
 txtall103	Opcje
 txtall104	U¿yj klawiszy lewo/prawo do zmiany opcji
@@ -10259,106 +10259,106 @@ txtall105	Brak
 txtall106	Niski
 txtall107	Œredni
 txtall108	Wysoki
-txtall109	Tylko glosy
-txtall110	Glosy i napisy
+txtall109	Tylko g³osy
+txtall110	G³osy i napisy
 txtall111	Tylko napisy
 txtall112	Wolno
 txtall113	Szybko
 txtall114	W³.
-txtall115	Widok
-txtall116	Postacie
+txtall115	zale¿ny od kamery
+txtall116	zale¿ny od postaci
 txtall117	Normalny
-txtall118	Jasniejszy
-txtall119	Najjasniejszy
+txtall118	Jaœniejszy
+txtall119	Najjaœniejszy
 txtall120	Ciemniejszy
 txtall121	Najciemniejszy
-txtall122	Odblokuj
-txtall123	Zablokuj
+txtall122	Odblokowano
+txtall123	Zablokowano
 txtall124	&Muzyka
-txtall125	Efekty
+txtall125	Efekty Audio
 txtall126	Mowa
 txtall127	&Napisy
-txtall128	Szybkosc napisow
-txtall129	&Transkrypcja dialogow
-txtall130	&Efekty glosów
-txtall131	Tryb ruchu
+txtall128	Szybkoœæ napisów
+txtall129	&Transkrypcja dialogów
+txtall130	&G³os i Efekty
+txtall131	&Tryb ruchu
 txtall132	&Joystick/Gamepad
 txtall133	Konfiguruj klawisze...
 txtall134	&Jasnoœæ
 txtall135	Opcje Multiplayer...
-txtall136	Wróæ do menu
+txtall136	&Wróæ do menu
 txtall137	Opcje 3D
 txtall138	Wybierz urz¹dzenie i naciœnij Enter
 txtall139	Wybierz tryb dla tego urz¹dzenia i naciœnij Enter
-txtall140	Opcje wyœwietlania
-txtall141	Tryby zgodne
-txtall142	Wróæ do opcji
+txtall140	Urz¹dz. Wyœw.
+txtall141	Tryby zgodnoœci
+txtall142	&Wróæ do opcji
 txtall143	Naciœnij Enter, by zmieniæ
 txtall144	Resetuj zmiany
-txtall145	Wróæ do ustawieñ
+txtall145	&Wróæ do ustawieñ
 txtall146	Klawiatura - pomoc
-txtall147	Naciœnij w prawo: pomoc - Joystick/Gamepad
-txtall148	Gamepad-/Joystick - pomoc
-txtall149	Naciœnij w prawo dla pomocy w Inwentarzu
-txtall150	Inwentarz
-txtall151	Nacisij w prawo: klawiatura - pomoc
+txtall147	Naciœnij w prawo: pomoc Joystick/Gamepad
+txtall148	pomoc Gamepad-/Joystick
+txtall149	Naciœnij w prawo - pomoc Inwentarz
+txtall150	pomoc Inwentarz
+txtall151	Naciœnij w prawo - pomoc klawiatura
 txtall152	Naciœnij Enter, by wróciæ do menu
-txtall153	Brak dostepnej pomocy. Naciœnij ESC, by kontynuowaæ.
+txtall153	Brak dostêpnej pomocy. Naciœnij ESC, by kontynuowaæ.
 txtall154	karykatura
 txtall155	kolczyki
 txtall156	Ubierz:
 txtall157	naszyjnik
-txtall158	pióro na smyczy
+txtall158	pióro na naszyjniku
 txtall159	pióro na ³añcuchu
 txtall160	niebieski obraz
-txtall161	Oceñ:
-txtall162	mapa wyspy Jambalaya
+txtall161	Wyceñ:
+txtall162	mapa Wyspy Jambalaya
 txtall163	szkic Talizmanu Upokorzenia
 txtall164	pêdzel
 txtall165	puszka grogu
 txtall166	Wypij:
 txtall167	pa³eczki
 txtall168	moneta
-txtall169	U¿yj:
-txtall170	z:
+txtall169	Wrêcz:
+txtall170	dla:
 txtall171	Przyjrzyj siê:
 txtall172	Ma³pi Kubek
 txtall173	pusty kubek po groggocino
 txtall174	kubek groggocino
 txtall175	pusty kubek po groggocino
-txtall176	mini bajgle ze Schmear Whiz
+txtall176	mini bajgiel ze Schmear Whiz
 txtall177	soczysty zwitek prze¿utych kawa³ków bajgla i Schmear Whiz
 txtall178	certyfikat p³ywacki
 txtall179	Przyjrzyj siê:
 txtall180	czapka g³¹ba
 txtall181	Ubierz:
-txtall182	trofeum
+txtall182	trofeum p³ywackie
 txtall183	broszurka od Stana
 txtall184	gwizdek
-txtall185	gwizdel na papugi
+txtall185	gwizdek na papugi
 txtall186	Magazyn SCAB
 txtall187	stateczek ¯ARKIL
 txtall188	Certyfikat Dobrego Pirat
 txtall189	Poka¿:
-txtall190	z:
+txtall190	dla:
 txtall191	Kuk³a Guybrush i Kuk³a LeChuck
 txtall192	czapka z br¹zu
-txtall193	czêœciowo wykonany Talizman Upokorzenia™
-txtall194	chwasty
+txtall193	czêœciowo wykonany Talizman Upokorzenia
+txtall194	wypielacz
 txtall195	banan
-txtall196	JedzL
-txtall197	U¿yj:
-txtall198	z:
+txtall196	Jedz:
+txtall197	Zaoferuj:
+txtall198	dla:
 txtall199	zbierak bananów
-txtall200	butelkê mleka
+txtall200	butelka mleka
 txtall201	orzech kokosowy
 txtall202	¯ongluj:
 txtall203	akordeon
-txtall204	Graj
-txtall205	tarcza
+txtall204	Graj:
+txtall205	tarcze
 txtall206	Graj:
 txtall207	czapka z br¹zu
-txtall208	uwaga
+txtall208	notka
 txtall209	Przeczytaj:
 txtall210	Rozmawiaj z:
 txtall211	ENTER
@@ -10378,7 +10378,7 @@ txtall225	A
 txtall226	B
 txtall227	C
 txtall228	D
-txtall229	Ws.
+txtall229	E
 txtall230	F
 txtall231	G
 txtall232	H
@@ -10387,16 +10387,16 @@ txtall234	J
 txtall235	K
 txtall236	L
 txtall237	M
-txtall238	Pn.
+txtall238	N
 txtall239	O
 txtall240	P
 txtall241	Q
 txtall242	P
-txtall243	Pd.
+txtall243	S
 txtall244	T
 txtall245	U
 txtall246	V
-txtall247	Zach.
+txtall247	W
 txtall248	X
 txtall249	Y
 txtall250	Z
@@ -10414,7 +10414,7 @@ txtall261	NUMPAD+
 txtall262	NUMPAD ENTER
 txtall263	NUMPAD period
 txtall264	Góra
-txtall265	Dól
+txtall265	Dó³
 txtall266	Prawo
 txtall267	Lewo
 txtall268	Joystick 1
@@ -10435,21 +10435,21 @@ txtall282	Joystick 15
 txtall283	Joystick 16
 txtall284	Aby kontynuowaæ w³ó¿ CD1!
 txtall285	Aby kontynuowaæ w³ó¿ CD2!
-txtall286	Zwykla Akcja
-txtall287	Pomin dialog
-txtall288	Obroc obiekt do gory
-txtall289	Obroc obiekt w dol
+txtall286	Akcja Domyœlna
+txtall287	Pomiñ dialog
+txtall288	Obróæ obiekt do góry
+txtall289	Obróæ obiekt w dó³
 txtall290	Biegnij
 txtall291	Patrz
 txtall292	U¿yj/mów
-txtall293	Podnieœæ/porzuciæ
+txtall293	Podnieœ/porzuæ
 txtall294	Inwentarz
-txtall295	"[Ten klawisz jest ju¿ u¿yty, wybierz inny]"
+txtall295	"[Niepoprawny Klawisz!]"
 txtall296	[Naciœnij nowy klawisz]
-txtall297	NUM 8/AGora
+txtall297	NUM 8/Góra
 txtall298	NUM 4/Lewo
 txtall299	NUM 6/Prawo
-txtall300	NUM 2/Dol
+txtall300	NUM 2/Dó³
 txtall301	NUMPAD-7
 txtall302	NUMPAD-9
 txtall303	NUMPAD-1
@@ -10464,7 +10464,7 @@ txtall311	Zbadaj rzecz
 txtall312	Enter lub U
 txtall313	U¿yj rzeczy/ Rozmawiaj z:
 txtall314	NUMPAD-+ lub P
-txtall315	Podnieœ/ Porzuæ
+txtall315	Podnieœ/Porzuæ przedmiot
 txtall316	NUM Ins/I
 txtall317	Otwórz inwentarz
 txtall318	DEL/ kropka
@@ -10474,11 +10474,11 @@ txtall321	Biegnij
 txtall322	Esc
 txtall323	Pomiñ scenê
 txtall324	Pauza
-txtall325	Pauza
+txtall325	Wstrzymaj grê
 txtall326	1 do 9
 txtall327	Wyjmij rzecz z inwentarza
-txtall328	Poprzednia pozycja w inwentarzu
-txtall329	Nastêpna pozycja w inwentarzu
+txtall328	Wyjmij poprzedni¹ rzecz z inwentarza
+txtall329	Wyjmij nastêpn¹ rzecz z inwentarza
 txtall330	Pó³noc
 txtall331	Zachód
 txtall332	Wschód
@@ -10488,7 +10488,7 @@ txtall335	Pó³nocny wschód
 txtall336	Po³udniowy zachód
 txtall337	Po³udniowy wschód
 txtall338	Rusz
-txtall339	Gora
+txtall339	Góra
 txtall340	Do przodu
 txtall341	Lewo
 txtall342	W lewo
@@ -10508,28 +10508,28 @@ txtall355	Wyci¹gnij poprzedni¹ przedmiot
 txtall356	Wyci¹gnij nastêpny przedmiot
 txtall357	Zbadaj trzymany przedmiot
 txtall358	Enter lub U
-txtall359	Zamknij inwentarz trzymajac przedmiot
-txtall360	Zamknij inwentarz nic nie trzymajac
-txtall361	Wybierz slot gdzie chcesz zapisaæ grê i naciœnij Enter.
-txtall362	Wybierz zapis który chcesz wczytaæ i naciœnij Enter.
-txtall363	Wybierz zapis który chcesz usun¹æ i naciœnij Enter.
+txtall359	Zamknij inwentarz trzymaj¹c przedmiot
+txtall360	Zamknij inwentarz nic nie trzymaj¹c
+txtall361	Wybierz slot do ZAPISANIA gry i naciœnij Enter
+txtall362	Wybierz slot do WCZYTANIA gry i naciœnij Enter
+txtall363	Wybierz slot do USUNIÊCIA gry i naciœnij Enter
 txtall364	Wpisz nazwê gry i wciœnij Enter
-txtall365	Nie zapisa³eœ gry!
-txtall366	Nie mogê wczytaæ postêpów!
+txtall365	Gra NIE zosta³a zapisana!
+txtall366	Nie mo¿na wczytaæ postêpów!
 txtall367	Nie znaleziono ¿adnych zapisów
 txtall368	Naciœnij Enter by kontynuowaæ
-txtall369	Dysk pe³ny! Proszê wykasowaæ zapisy gry lub w inny sposób stworzyæ miejsce na dysku twardym
-txtall370	Nie uda³o siê usun¹æ gry
-txtall371	Czy na pewno chcesz usun¹æ zapis?
-txtall372	Usuñ
-txtall373	Gra jest tu ju¿ zapisana.
-txtall374	Zast¹piæ?
-txtall375	Zastap
-txtall376	Anuluj
-txtall377	OK
+txtall369	Dysk pe³ny! Proszê wykasowaæ zapisy gry lub w inny sposób stworzyæ miejsce na dysku twardym.
+txtall370	Usuniêcie gry jest nieodwracalne.
+txtall371	Czy na pewno chcesz USUN¥Æ zapis?
+txtall372	&Usuñ
+txtall373	W tym slocie graj jest ju¿ zapisana.
+txtall374	Czy na pewno chcesz zast¹piæ?
+txtall375	&Zast¹p
+txtall376	&Anuluj
+txtall377	&OK
 txtall378	<wolne>
 txtall379	Gra zapisana
-txtall380	Wróc do menu
+txtall380	&Wróæ do menu
 txtall381	Przerywniki
 txtall382	Zamkn¹æ Ucieczkê z Wyspy Ma³p?
 txtall383	Na pewno chcesz wyjœæ?
@@ -10539,10 +10539,10 @@ txtall386	Resetowaæ Ucieczkê z Wyspy Ma³p?
 txtall387	Na pewno chcesz uruchomiæ ponownie?
 txtall388	Gra wstrzymana
 txtall389	Naciœnij dowolny klawisz, aby powróciæ.
-txtall390	Zapis Dialogu
-txtall391	Za pomoc¹ myszy przewijaj. Enter by kontynuowaæ.
-txtall392	Plik zapisu dialogu jest uszkodzony lub nie mo¿e byæ otwarty.
-txtall393	Zapis dialogu jest pusty.
+txtall390	Transkrypcja Dialogu
+txtall391	U¿yj strza³ek, aby przewijaæ. Enter, by kontynuowaæ.
+txtall392	Plik transkryptu dialogu jest uszkodzony lub nie mo¿e byæ otwarty.
+txtall393	Transkrypt dialogu jest pusty.
 txtall394	INT.
 txtall395	EXT.
 txtall396	DZIEÑ
@@ -10550,130 +10550,130 @@ txtall397	NOC
 txtall398	RANO
 txtall399	WIECZÓR
 txtall400	talerze
-txtall401	g¹bka(ma³¹)
-txtall402	g¹bka(œredni¹)
-txtall403	g¹bka(du¿¹)
+txtall401	ma³a morska g¹bka
+txtall402	œrednia morska g¹bka
+txtall403	du¿a morska g¹bka
 txtall404	proteza w¹troby
 txtall405	proteza stopy
 txtall406	proteza ¿o³¹dka
-txtall407	proteza wnêtrznoœci
+txtall407	proteza flaków
 txtall408	proteza serca
 txtall409	proteza g³owy
 txtall410	proteza ty³ka
 txtall411	gor¹cy wêgielek
 txtall412	Kopnij:
 txtall413	na:
-txtall414	Nieœmia³¹ Ma³pê
-txtall415	Œmierdz¹c¹ Ma³pê
-txtall416	Siln¹ Ma³pê
-txtall417	Krzepk¹ Ma³pê
+txtall414	Nieœmia³a Ma³pa
+txtall415	Œmierdz¹ca Ma³pa
+txtall416	Postawna Ma³pa
+txtall417	Krzepka Ma³pa
 txtall418	Jojo Junior
 txtall419	Ozzie/LeChuck
 txtall420	pirackie karty
 txtall421	wiórki
 txtall422	kolekcja eksperymentalnych czêœci protez
 txtall423	obrzydliwoœæ natury
-txtall424	Trój-G³owa Ma³pa
+txtall424	Trójg³owa Ma³pa
 txtall425	Pow¹chaj:
-txtall426	pustego spryskiwacza
+txtall426	pusty spryskiwacz
 txtall427	w³asnorêcznie robione perfumy
-txtall428	perfumy Pegonose'a Pete'a
+txtall428	perfumy Pete'a Ko³konosego
 txtban001	³añcuch
-txtban002	lampke
-txtban003	PrzejdŸ przez
-txtban004	kartki
+txtban002	lampka
+txtban003	WyjdŸ przez:
+txtban004	ulotka
 txtban005	kalendarz
-txtban006	ksiêge g³ówn¹
-txtban007	dyrektorem
-txtban008	kredyt
+txtban006	ksiêga g³ówna
+txtban007	magazyny bankowe
+txtban008	broszurki kredytowe
 txtban009	statek w butelce
-txtban010	du¿¹ beczkê
-txtban011	du¿¹ komodê
-txtban012	ma³y skarbik
+txtban010	beczki z odzysku
+txtban011	kredens z odzysku
+txtban012	malusieñki skarb
 txtban013	skarbiec banku
 txtban014	Kilka godzin póŸniej...
-txtban015	Przyjrzyj sie
+txtban015	Przyjrzyj siê:
 txtban016	Brittany
 txtban017	œmieszny cieñ
 txtbas001	Sir Dean
-txtbas002	starym sprzedawc¹
-txtbas003	darmow¹ przynête
+txtbas002	Stary £achudra
+txtbas003	darmowa przynêta
 txtbas004	cyrk termitów
-txtbas005	Zbadaj
-txtbas006	desce do krojenia
-txtbas007	beczkê z przynêtami
+txtbas005	Ogl¹daj:
+txtbas006	deska do krojenia
+txtbas007	beczki przynêt
 txtbas008	kawior
-txtbas009	pó³kê z rybami
+txtbas009	pó³ka z rybimi zasobami
 txtbas010	szczêki rekina
 txtbas011	wêdki
-txtbas012	wielki dziobak gigant ryby
-txtbas013	Wez
-txtbas014	g³owê ryby
-txtbas015	Jedz
-txtcan001	³adne formacje skalne
-txtcan002	uchylony koszyk
-txtcan003	ska³y
+txtbas012	wielkie haki
+txtbas013	WeŸ:
+txtbas014	g³owy ryb
+txtbas015	Jedz:
+txtcan001	³adna formacja skalne
+txtcan002	wywrócony wózek
+txtcan003	pod³o¿a skalne
 txtcan004	wielki g³az
-txtcan005	szybu kopalni
-txtcan006	Wejœcie do:
+txtcan005	szyb kopalni
+txtcan006	WejdŸ:
 txtcan007	Wyspa Ma³p
-txtcan008	Powróæ do
-txtcgs001	Admira³em Casaba
+txtcan008	Powróæ do:
+txtcgs001	Admira³ Casaba
 txtcgs002	armaty
 txtcgs003	¿agiel
 txtcgs004	statek
-txtcgs005	Atol Knutyñski
-txtcgs006	Powrót do
+txtcgs005	Atol Nicanic
+txtcgs006	Powróæ do:
 txtcgs007	Jambalaya
-txtcol001	ksiêdzem duchem
+txtcol001	ksi¹dz duch
 txtcol002	³awki
 txtcol003	podium
 txtcol004	lawa-³ódeczki
 txtcol005	S³owo LeChucka
 txtcol006	witra¿
-txtcol007	napis
+txtcol007	szyld
 txtcol008	lawa
 txtcpt001	szczêki rekina
-txtcpt002	kotwicê
-txtcpt003	po³owê ³odzi wios³owej
-txtcpt004	kierownice
+txtcpt002	kotwica
+txtcpt003	na wpó³ zakopana stara ³ódŸ
+txtcpt004	kierownica
 txtcpt005	drogowskaz
-txtcpt006	czaszke
-txtcpt007	kolo ratunkowe
-txtcpt008	³ódkê
+txtcpt006	czaszka
+txtcpt007	ko³o ratunkowe
+txtcpt008	³ódka
 txtcpt009	alarm po¿arowy
 txtcpt010	drzwi
 txtcpt011	Zapukaj do:
 txtcpt012	Ma³y LeChuck
 txtcpt013	Rozmawiaj z:
 txtcpt014	Ma³y Guybrush
-txtcpt015	Czartobrodym
-txtcpt016	mi³¹ nauczycielk¹
+txtcpt015	Czartobrody
+txtcpt016	mi³a nauczycielka
 txtcpt017	pla¿a
-txtcpt018	PrzejdŸ przez:
-txtcpt019	Centrum Dobrego Pirata
-txtcpt020	Wejœcie do:
+txtcpt018	IdŸ do:
+txtcpt019	Piracka Akademia Przeobra¿enia
+txtcpt020	WejdŸ:
 txtcpt021	IdŸ do:
-txtfor001	busz
-txtfor002	Przeciœnij siê przez:
-txtgme001	Boulder Flight Technician
-txtgme002	Tony DiBoulda
-txtgme003	dziwny kaktus z dêtk¹
+txtfor001	wiêkszy las
+txtfor002	PrzejdŸ przez:
+txtgme001	Technik Lotów Ska³
+txtgme002	Tony DiSka³a
+txtgme003	œmieszny kaktus z dêtk¹
 txtgme004	przera¿aj¹ca katapulta
-txtgme005	katapulta
+txtgme005	sterowanie katapult¹
 txtgme006	Majstruj przy:
 txtgme007	operator katapulty
 txtgme008	stos g³azów
 txtgme009	¿ywop³ot w kszta³cie œwini
 txtgme010	¿ywop³ot w kszta³cie grubego ptaka
 txtgme011	¿ywop³ot w kszta³cie papugi
-txtgme012	¿ywop³ot w kszta³cie malpy
-txtgme013	z urwiska
-txtgme014	Skocz:
+txtgme012	¿ywop³ot w kszta³cie ma³py
+txtgme013	urwisko
+txtgme014	Skocz z:
 txtgme015	¿ywop³ot w kszta³cie krowy
 txtgme016	kaktus
-txtgme017	zabawnie wygl¹daj¹cy kaktus
-txtgme018	W³ó¿
+txtgme017	œmieszny kaktus
+txtgme018	Na³ó¿:
 txtgme019	na:
 txtgme020	rezydencja
 txtgme021	Szpada
@@ -10681,68 +10681,68 @@ txtgme022	IdŸ do:
 txtgmi001	Elaine
 txtgmi002	podpisana intratna umowa o pracê w urzêdzie
 txtgmi003	podpisana umowa o pracê w urzêdzie
-txtgmi004	szafe
-txtgmi005	ladny obraz
-txtgmi006	portet Elaine
+txtgmi004	szafa na ubrania
+txtgmi005	okaza³y porter
+txtgmi006	portret Elaine
 txtgmi007	rodzinny portret
-txtgmi008	kanapie
-txtgmi009	Usi¹dŸ na
-txtgmi010	roslinke
-txtgmi011	gre w szachy
-txtgmi012	Graj
+txtgmi008	sofa
+txtgmi009	Usi¹dŸ na:
+txtgmi010	roœlina
+txtgmi011	szachy
+txtgmi012	Graj w:
 txtgmi013	plakat rodziny
-txtgmi014	zegar
-txtgmi015	skrzynie pelna smieci
-txtgmi016	szlachetna porcelane
-txtgmi017	Wez
-txtgmi018	mniej szlachetna porcelane
-txtgmi019	dzrzwi od sypialni
-txtgmi020	lampe
-txtgmi021	drzwi od kuchni
+txtgmi014	zegar dziadka
+txtgmi015	komoda z bibelotami
+txtgmi016	szlachetna porcelana
+txtgmi017	WeŸ:
+txtgmi018	mniej szlachetna porcelana
+txtgmi019	drzwi sypialni
+txtgmi020	lampa
+txtgmi021	drzwi do kuchni
 txtgom001	wielkie metalowe drzwi
 txtgom002	wywiewka
 txtgom003	dŸwignia
-txtgom004	beczkê
+txtgom004	beczka
 txtgom005	portal
 txtgom006	worki z prochem
-txtgom007	dŸwigniê
+txtgom007	dŸwignia
 txtgom008	wiadro
 txtgom009	zabite deskami przejœcie
-txtgom010	woreczek
+txtgom010	sakiewka
 txtgom011	wózek
-txtgom012	JedŸ
+txtgom012	JedŸ:
 txtgom013	korzenie
 txtgom014	kanion
-txtgom015	WyjdŸ z
+txtgom015	WyjdŸ z:
 txtgom016	rura
-txtgom017	Wejœcie do:
+txtgom017	WejdŸ:
 txtgom018	fala
 txtgom019	przed
 txtgom020	rzeczy
 txtgom021	przez
-txtgpt001	Panem Serem
-txtgpt002	turyst¹
-txtgpt003	³ódkê
-txtgpt004	Murrayem
-txtgpt005	statue Tiniego LaFeet
-txtgpt006	statue
-txtgpt007	p³yte
-txtgpt008	lampe
-txtgpt009	napis
+txtgpt001	Pan Ser
+txtgpt002	turysta
+txtgpt003	³ódka
+txtgpt004	Murray
+txtgpt005	statua Tiniego LaFeet
+txtgpt006	statua
+txtgpt007	p³ytka
+txtgpt008	lampa
+txtgpt009	szyld
 txtgpt010	kajak
-txtgpt011	napis powitawczy
-txtgpt012	wynajem kajaków
-txtgpt013	statek
-txtgpt014	boisko do siatkówki
+txtgpt011	napis powitalny
+txtgpt012	kajaki na wynajem
+txtgpt013	statki
+txtgpt014	siatka
 txtgpt015	szyld Starbuccaneera
-txtgpt016	napis Mikrogroggerii
-txtgpt017	kwiatka na parapecie
-txtgpt018	puste budynki
-txtgpt019	beczkê z kuponami
+txtgpt016	szyld Mikrogroggerii
+txtgpt017	kwiaty na parapecie
+txtgpt018	pusty budynek
+txtgpt019	beczka z kuponami
 txtgpt020	Wyspa Jambalaya
 txthei001	slot
 txthei002	kierownica
-txthei003	dŸwignie
+txthei003	dŸwignia
 txthei004	wskaŸniki
 txthei005	portal
 txthei006	system zaworów
@@ -10750,484 +10750,484 @@ txthei007	bojler
 txthei008	gad¿ety
 txthei009	przyciski
 txthei010	krzes³o bananowe
-txthei011	panel sterowania
-txthei012	drabine
-txthei013	widoczny slot
-txthoj001	Pegnosem
-txthoj002	Otisem
-txthoj003	Inspektorem Canardem
-txthoj004	maszyne tortur
-txthoj005	otwór
+txthei011	panel sterowania pod³okietnikiem
+txthei012	drabina
+txthei013	wyró¿niaj¹cy siê wlot
+txthoj001	Ko³konos
+txthoj002	Otis
+txthoj003	Inspektor Canard
+txthoj004	¿elazna dziewica
+txthoj005	obraz
 txthoj006	hak
-txthoj007	narzêdzie tortur
-txthoj008	pu³apke
+txthoj007	narzêdzia tortur
+txthoj008	pu³apka na raki
 txthos001	znak "Na sprzeda¿"
-txthos002	Wypróbuj
-txthos003	kolejne piêtro
-txthos004	znak " Wybróbuj nowe laski"
+txthos002	Spójrz na:
+txthos003	nieregularne dr¹¿ki
+txthos004	znak "Wybierz Dobr¹ Laskê"
 txthos005	laski
-txthos006	inn¹ litere
+txthos006	ró¿ne patyczki
 txthos007	dzwonek
-txthos008	Naciœnij
+txthos008	Naciœnij:
 txthos009	liczyd³o
-txthos010	ze starym sprzedawc¹
-txthos011	Freddiem
-txthos012	laske Pana Mandrilla
+txthos010	sprzedawca lasek
+txthos011	Freddie
+txthos012	laska Pana Mandrilla
 txthos013	drzwi
-txtjam001	pirackiej wyspepki
-txtjam002	Przycumuj na
-txtjam003	pla¿y
+txtjam001	pirackie miasto szant
+txtjam002	Przycumuj do:
+txtjam003	skalna pla¿a
 txtjam004	statek
 txtjam005	centrum Jambalaya
 txtjam006	Wakacje ze Stanem
-txtjam007	ogromny kamieñ
-txtjam008	du¿y g³az
+txtjam007	wielka wysoka ska³a
+txtjam008	wysoka ska³a
 txtjam009	statek Casaby
-txtjam010	oœrodek zawodów skoku do wody
-txtjam011	ponury dom
+txtjam010	zawody w skoku do wody
+txtjam011	jaskrawy dom
 txtjun001	Wyspa Ma³p
-txtjun002	Powróæ do
+txtjun002	Powróæ do:
 txtjun003	Wyspa Ma³p
-txtkab001	metabolicznym piratem
-txtkab002	papug¹
+txtkab001	pirat z zaburzeniami metabolicznymi
+txtkab002	papuga
 txtkab003	du¿y g³az
 txtkab004	pó³noc
-txtkab005	IdŸ na
+txtkab005	IdŸ na:
 txtkab006	zachód
 txtkab007	wschód
-txtkab008	nêdzn¹ wioskê piratów
-txtkab009	Powróæ do
-txtkab010	nêdzn¹ pirack¹ osadê
+txtkab008	nêdzna wioska piratów
+txtkab009	Powróæ do:
+txtkab010	nêdzna piracka osada
 txtkab011	po³udnie
 txtkab012	powrót
-txtkab013	papug¹ po lewej
-txtkab014	papug¹ po prawej
+txtkab013	papuga po lewej
+txtkab014	papuga po prawej
 txtkab015	ognisko
-txtkab016	kulê armatni¹
-txtkit001	szczura
+txtkab016	kula armatnia
+txtkit001	szczur
 txtkit002	ananas
 txtkit003	sushi kana³
-txtkit004	rybe
+txtkit004	ryba
 txtkit005	obraz z Wie¿¹ Eiffela
-txtkit006	nó¿
-txtkit007	Podziwiaj
-txtkit008	zupe rybn¹
-txtkit009	Pow¹chaj
+txtkit006	zestaw no¿y
+txtkit007	Podziwiaj:
+txtkit008	garnek zupy rybnej
+txtkit009	Pow¹chaj:
 txtkit010	przepis na sushi
-txtkit011	generator kana³u transportowego
-txtkit012	piec
-txtkit013	ma³pe
+txtkit011	generator pary do ³ódek z sushi
+txtkit012	Piecz:
+txtkit013	mosiê¿na mechaniczna ma³pa
 txtkit014	worek m¹ki
 txtlag001	Skocz do:
-txtlag002	p³ytk¹ wodê
-txtlag003	trochê g³êbsz¹ wode
-txtlag004	g³êbok¹ wode
-txtlag005	drzewo
+txtlag002	p³ytka woda
+txtlag003	nie tak p³ytka woda
+txtlag004	g³êboka woda
+txtlag005	drzewa
 txtlag006	Wyspa Mamony
-txtlag007	Powróæ do
-txtlag008	ukrytym korytarzem
-txtlag009	ZejdŸ
-txtlav001	œcie¿kê do d¿ungli
-txtlav002	samotn¹ palmê
+txtlag007	Powróæ do:
+txtlag008	ukryte przejœcie
+txtlag009	ZejdŸ z:
+txtlav001	œcie¿ka do d¿ungli
+txtlav002	samotna palma
 txtlav003	most
 txtlav004	basen lawy
 txtlav005	pusty dó³
 txtlav006	wielki g³az
-txtlav007	katedrê
+txtlav007	katedra
 txtlav008	Wyspa Ma³p
 txtlav009	lawa
-txtlaw001	ma³¹ beczkê
-txtlaw002	imiê
-txtlaw003	Przeczytaj
-txtlaw004	ksi¹¿kê
-txtlaw005	prawnikiem
+txtlaw001	ma³a beczka
+txtlaw002	etykieta imienia
+txtlaw003	Przeczytaj:
+txtlaw004	ksi¹¿ka
+txtlaw005	prawnicy
 txtlaw005D	prawnikami
-txtlua001	kelnerk¹
-txtlua002	klientem
-txtlua003	klientem
-txtlua004	sztukê nowoczesn¹
-txtlua005	dziwny drink tropikalny
-txtlua006	dziwne drniki tropikalne
-txtlua007	tace
-txtlua008	Wbij
-txtlua009	sto³ek
-txtlua010	Wstañ ze
-txtlua011	Usi¹dŸ na
-txtlua012	nadziewan¹ wieprzowine
-txtlua013	kana³ ³udkowy z sushi
-txtlua014	machinê rozpêdzaj¹c¹ kana³
-txtluc001	fontanne
-txtluc001	fontanne
-txtluc002	w³az kanalizacyjny
-txtluc003	w³az z za³o¿on¹ skór¹ zwierzêc¹
-txtluc004	otwarty w³az
-txtluc005	Filigranow¹ Damê
-txtluc006	ró¿ow¹ esencjê
-txtluc007	niebiesk¹ esencjê
-txtluc008	esencjê w kolorze têczy
-txtluc009	esencjê w wirowane paski
-txtluc010	taras
+txtlua001	kelnerka
+txtlua002	klient
+txtlua003	klient
+txtlua004	sztuka nowoczesna
+txtlua005	dziwny tropikalny drink
+txtlua006	dziwne tropikalne drinki
+txtlua007	kwadratowa taca
+txtlua008	Wbij:
+txtlua009	sto³ek barowy
+txtlua010	Wstañ ze:
+txtlua011	Usi¹dŸ na:
+txtlua012	wypchana œwinia
+txtlua013	kana³ ³ódek z sushi
+txtlua014	mechanizm napêdowy ³ódek z sushi
+txtluc001	fontanna
+txtluc001	fontanna
+txtluc002	studzienka
+txtluc003	w³az studzienki z naci¹gniêt¹ protez¹ skóry
+txtluc004	odkryta studzienka
+txtluc005	Drobna Dama
+txtluc006	ró¿owa esencja
+txtluc007	niebieska esencja
+txtluc008	esencja w kolorze têczy
+txtluc009	esencja w wiruj¹ce paski
+txtluc010	patio
 txtluc011	namiot
-txtluc012	monete
+txtluc012	moneta
 txtluc013	molo
 txtluc014	stanowisko z perfumami
 txtluc015	trawiasty pagórek
 txtluc016	okno banku
-txtluc017	pralnie
+txtluc017	pralnia
 txtluc018	park
-txtluc019	zgni³e rybki
-txtluc020	³awce
-txtluc021	Usi¹dŸ na
-txtluc022	kolo ratunkowe
-txtluc023	niebiesk¹ ³ódŸ
-txtluc024	administracje portu
+txtluc019	wiadro zgni³ych ryb
+txtluc020	³awka
+txtluc021	Usi¹dŸ na:
+txtluc022	ko³o ratunkowe
+txtluc023	niebieska ³ódŸ
+txtluc024	budynek w³adz portu
 txtluc025	³ódŸ wikingów
-txtluc026	skup czêœci zamiennych
+txtluc026	sklep z czêœciami do statków
 txtluc027	dziwny dom
 txtluc028	niski domek
 txtluc029	okno w celi
-txtluc030	spryskiwacze
-txtluc031	dobrze zbudowanym graczem w szachy
+txtluc030	stos spryskiwaczy
+txtluc031	têgi gracz w szachy
 txtluc032	Rozmawiaj z:
-txtluc033	chudym graczem w szachy
-txtluc034	nieznanym facetem od perfum
-txtluc035	I. Serem
-txtluc036	Carl¹
-txtluc037	Inspektorem Canardem
-txtluc038	dyrektorem banku
-txtluc039	Mamonê
-txtluc040	Opuœæ
-txtluc041	domu z laskami
-txtluc042	sklepu z przynêtami
-txtluc043	Lucre Banku
-txtluc044	kancelarii prawniczej
-txtluc045	pa³acu protez
-txtluc046	sali s¹dowej
-txtluc047	œmierdz¹cym piratem
-txtluc048	dobrze zbudowanym graczem w szachy
-txtluc049	chudym graczem w szachy
+txtluc033	chudy gracz w szachy
+txtluc034	irytuj¹cy podsuwacz perfum
+txtluc035	I. Ser
+txtluc036	Carla
+txtluc037	Inspektor Canard
+txtluc038	menad¿er banku
+txtluc039	Mamona
+txtluc040	Opuœæ:
+txtluc041	Dom Lasek
+txtluc042	sklep z przynêtami
+txtluc043	Bank Mamony
+txtluc044	kancelaria prawnicza
+txtluc045	Pa³ac Protez
+txtluc046	sala sprawiedliwoœci
+txtluc047	œmierdz¹cy pirat
+txtluc048	têgi gracz w szachy
+txtluc049	chudy gracz w szachy
 txtluc050	Brittany
-txtluc051	napis
-txtluc052	wysokiej jakoœci narzêdzia do stolarstwa
-txtlum001	domu Ozziego
-txtlum002	miasta
-txtlum003	Zaginion¹ Lagunê
-txtlum004	tajemniczej rezydencji
-txtlum005	zamglonych bagien
-txtmdo001	³ódkê
-txtmdo002	miasta
-txtmdo003	IdŸ na
-txtmel001	przyjaznymi piratemi
-txtmel002	Carla i Otisem
+txtluc051	flaga
+txtluc052	zaawansowane narzêdzie bednarskie
+txtlum001	dom Ozziego
+txtlum002	miasto
+txtlum003	tajemnicza laguna
+txtlum004	z³owieszcza rezydencja
+txtlum005	zamglone bagna
+txtmdo001	³ódka
+txtmdo002	miasto
+txtmdo003	IdŸ na:
+txtmel001	Znajomi Piraci
+txtmel002	Carla i Otis
 txtmel003	Rozmawiaj z:
-txtmel004	beczkê
+txtmel004	beczka
 txtmel005	SCUMMBar
 txtmel006	LUA bar
-txtmel007	bramê
-txtmel008	ratusz
+txtmel007	brama
+txtmel008	ratusz Szpady
 txtmel009	zegar
-txtmel010	fontanne
-txtmel011	dró¿ki do rezydencji gubernator
-txtmel012	wyspa Szpady™
-txtmel013	OdejdŸ na
+txtmel010	fontanna
+txtmel011	œcie¿ka do rezydencji gubernatora
+txtmel012	Wyspa Szpady™
+txtmel013	OdejdŸ do:
 txtmel014	drzwi do SCUMM-Baru
 txtmel015	drzwi LuaBaru
 txtmel016	Miêdzynarodowe Towarzystwo Mojo
-txtmel017	Wejœcie do:
+txtmel017	WejdŸ:
 txtmel018	drzwi
 txtmel019	doki
-txtmel020	ZejdŸ do
+txtmel020	ZejdŸ do:
 txtmel021	Elaine
-txtmel022	podpis ksiêgarni
-txtmel023	prawdziwy znak nieruchomosci
-txtmem001	u Meathooka
+txtmel022	szyld ksiêgarni
+txtmel023	szyld nieruchomoœci
+txtmem001	Miêshaka
 txtmem002	Szpada
 txtmem003	port
-txtmem004	willa gubernator
+txtmem004	rezydencja gubernatora
 txtmhe001	flaga
 txtmhe002	ksiê¿yc
 txtmhe003	most
-txtmhe004	drzwi do domu Meathooka
+txtmhe004	drzwi do domu Miêshaka
 txtmhe005	Zapukaj do:
-txtmhi001	Meathook
-txtmhi002	Dyskutuj z:
+txtmhi001	Miêshak
+txtmhi002	PrzeszkodŸ:
 txtmhi003	kominek
 txtmhi004	sztaluga
-txtmhi005	rolki papieru
+txtmhi005	beczka na papier
 txtmhi006	puszki z kolorowym woskiem
 txtmhi007	obraz na œcianie
 txtmhi008	obraz na ziemi
-txtmhi009	obraz oparty o œciane
-txtmhi010	œwieczka
+txtmhi009	obraz pod œcian¹
+txtmhi010	œwiecznik
 txtmhi011	pud³o z puszkami na wosk
-txtmhi012	inne beczki ze œmieciami
+txtmhi012	wiêcej beczek z ró¿noœciami
 txtmhi013	wiadro
 txtmib001	pêk bananów
 txtmib002	ocean
 txtmib003	rozgwiazda
 txtmib004	wielki g³az
 txtmib005	œcie¿ka
-txtmig001	GroŸn¹ Syrenkê Mechaniczn¹
-txtmig002	maŸ
+txtmig001	GroŸny Mechaniczny Manat
+txtmig002	smar
 txtmig003	bar
 txtmig004	niezwykle czysty i schludny bar
 txtmig005	automat do grogu
 txtmig006	drzwi na zewn¹trz
 txtmig007	Dwie godziny póŸniej...
-txtmig008	Barmanem
-txtmoh001	g³ow¹ ma³py
-txtmoh002	ma³pie oko
+txtmig008	barman
+txtmoh001	g³owa ma³py
+txtmoh002	ma³pie oczy
 txtmoh003	ma³pie ucho
 txtmoh004	ma³pie usta
 txtmoh005	ma³pi nos
-txtmoh006	z³amany
+txtmoh006	z³amany patyczek
 txtmoh007	grób
-txtmoh008	sciezki
-txtmoh009	symbol
+txtmoh008	œcie¿ka
+txtmoh009	s³up totemu
 txtmoh010	przejœcie
-txtmom001	miasta ma³p
+txtmom001	miasto ma³p
 txtmom002	kemping
 txtmom003	Koœció³ LeChucka
-txtmom004	wioskê
-txtmom005	Wejœcie do:
-txtmom006	œwiatowej s³awy wielk¹ g³owê ma³py
-txtmom007	Powróc do
-txtmom008	ba³agan
-txtmom009	pla¿y
+txtmom004	wioska
+txtmom005	WejdŸ:
+txtmom006	œwiatowej s³awy wielk¹ g³owa ma³py
+txtmom007	OdwiedŸ:
+txtmom008	zagracona porêba
+txtmom009	pla¿a
 txtmom010	kanion
-txtmom011	Wycieczka na
-txtmom012	drug¹ stronê kanionu
-txtmom013	punkt
-txtmom014	Spacerek na
+txtmom011	WejdŸ na:
+txtmom012	odleg³y kanion
+txtmom013	punkt widokowy
+txtmom014	WejdŸ na:
 txtmom015	zamek na wulkanie
-txtmon001	Jojo Juniorem
-txtmon002	ma³pê
+txtmon001	Jojo Junior
+txtmon002	ma³pa
 txtmon003	ma³pi kapelusz
-txtmon004	symbol
-txtmon005	drogê wyprowadzaj¹c¹ z miasta
-txtmon006	Pijany Cz³ekokszta³tny
-txtmon007	Utykaj¹cy Gibon
-txtmon008	£aduj¹cy Szympans
-txtmon009	Szarpi¹cy Pawian
-txtmon010	Niespokojna Ma³pa
-txtmon011	uzdolnion¹ muzycznie ma³pê
-txtmon012	ma³pi¹ drabinê
+txtmon004	s³up totemu
+txtmon005	œcie¿ka za miasto
+txtmon006	Pijana Ma³pa
+txtmon007	Kulawy Gibon
+txtmon008	Nacieraj¹cy Szympans
+txtmon009	Podskakuj¹cy Pawian
+txtmon010	Niespokojny Cz³ekokszta³tny
+txtmon011	uzdolniona muzycznie ma³pa
+txtmon012	ma³pia drabina
 txtmon013	IdŸ do:
-txtmot001	Guybrushem
-txtmot002	tratwê
-txtmot003	bramê
-txtmot004	kluczy z koœciotrupa
-txtmot005	broni
-txtmot006	gówno
-txtmot007	na
-txtmot008	line
-txtmot009	gumowego kurczaka
-txtmot010	ka³u¿e
-txtmot011	œcie¿kê z bagien
+txtmot001	Guybrush
+txtmot002	tratwa
+txtmot003	brama
+txtmot004	klucze z koœciotrupa
+txtmot005	broñ
+txtmot006	Strzel:
+txtmot007	w:
+txtmot008	lina
+txtmot009	gumowa kaczka z kó³kiem w œrodku
+txtmot010	ka³u¿a
+txtmot011	œcie¿ka z bagien
 txtmot012	bagna
-txtmot013	Opuœæ
-txtmrb001	wielk¹ rurê
-txtmrb002	P³yñ na
-txtmrb003	drabine
+txtmot013	Opuœæ:
+txtmrb001	wielka rura
+txtmrb002	P³yñ na:
+txtmrb003	drabina
 txtmrb004	dziwne kontrolki
 txtmrb005	zawór
 txtmrb006	wskaŸnik
-txtmrb007	dziwne maszyny
-txtoze001	Wez
-txtoze002	przera¿aj¹c¹ fontanne
-txtoze003	przera¿aj¹cego ptaka
-txtoze004	pensjonatu
-txtoze005	domu Ozziego
+txtmrb007	dziwna maszyneria
+txtoze001	Podnieœ:
+txtoze002	straszna fontanna
+txtoze003	straszny ptak
+txtoze004	dom goœcinny
+txtoze005	dom Ozziego
 txtoze006	las
-txtoze007	strasznej rezydencji
-txtozi001	Ozziem Mandrillem
-txtozi002	krokodyla
-txtozi003	dziobaka
-txtozi004	borsuka
-txtozi005	ma³ego koale
-txtozi006	koale
-txtozi007	pieska
-txtozi008	kangura
-txtozi009	ostryge
-txtozi010	wielkie jajko
-txtozi011	pó³kê z broni¹
-txtozi012	IdŸ do:
-txtozi013	miecz
+txtoze007	upiorna rezydencja
+txtozi001	Ozzie Mandrill
+txtozi002	krokodyl
+txtozi003	dziobak
+txtozi004	wombat
+txtozi005	ma³y koala
+txtozi006	koala
+txtozi007	pies dingo
+txtozi008	kangur
+txtozi009	struœ
+txtozi010	wielkie jajo
+txtozi011	szafka na broñ
+txtozi012	PrzejdŸ przez:
+txtozi013	miecze
 txtpac001	du¿y stos kamieni
 txtpac002	kamieñ
-txtpac003	Rzuæ
+txtpac003	Rzuæ:
 txtpac004	na:
 txtpac005	kana³ z lewej strony klifu
 txtpac006	kana³ na œrodku klifu
 txtpac007	kana³ po prawej stronie klifu
 txtpac008	Wyspa Ma³p
-txtpac009	Powróæ do
-txtpla001	namiot
-txtpla002	sêdziów p³ywackich
+txtpac009	Powróæ do:
+txtpla001	namiot przebieralnia
+txtpla002	sêdziowie p³ywaccy
 txtpla003	t³um
-txtpla004	sêdziom Eddem
-txtpla005	sêdziom Kahuna
-txtpla006	sêdziom Tripps
+txtpla004	sêdzia Edd
+txtpla005	sêdzia Kahuna
+txtpla006	sêdzia Tripps
 txtpla007	Marco de Pollo
-txtpla008	sciezki
+txtpla008	œcie¿ka
 txtpla009	Pod¹¿aj:
-txtpla010	oliwkê dla dzieci
+txtpla010	dzieciêca focza oliwka
 txtpla011	Kilka minut póŸniej...
-txtpla012	mewê
-txtpla013	zrzêdliwym sêdziom
-txtpla014	m¹drym sêdziom
-txtpla015	sêdziom-hipisem
-txtplt001	praca w Planecie Threepwood
-txtplt002	przyjaznym piratem
-txtplt003	turyst¹
-txtplt004	statue Elaine
-txtplt005	flage
-txtplt006	lade
-txtplt007	obraz s³ynnych kucharzy
-txtplt008	Nagrodê Z³otej Ryby
-txtplt009	Nagrodê Zgni³ej Langusty
-txtplt010	w³asnoœci Elaine Marley
+txtpla012	mewa
+txtpla013	zrzêdliwy sêdzia
+txtpla014	m¹dry sêdzia
+txtpla015	sêdzia hipis
+txtplt001	kelnerka z Planety Threepwood
+txtplt002	radosny pirat
+txtplt003	turysta
+txtplt004	statua Elaine
+txtplt005	flaga znakowa
+txtplt006	kasa
+txtplt007	portrety s³ynnych kucharzy
+txtplt008	Nagroda Z³otej Ryby
+txtplt009	Nagrodê Czerwonego Kraba
+txtplt010	akcesoria Elaine Marley
 txtplt011	bar
-txtplt012	czyjeœ w³asnoœci
-txtplt013	rêke Murraya
+txtplt012	przypadkowe akcesoria
+txtplt013	rêka Murraya
 txtplt014	stare ciuchy Guybrusha
-txtplt015	kufel LucasArtsa
+txtplt015	kubek LucasArts
 txtplt016	T-Shirty z logiem Planety Threepwood
-txtplt017	menu
+txtplt017	dzisiejsze menu
 txtplt018	sekretny szyld
-txtplt019	krzese³ko
-txtplt020	Wstañ z
-txtplt021	kelnerk¹
-txtpop001	Martwookim Dave'm
-txtpop002	z
-txtpop003	podwieszacz danych
-txtpop004	panelem systemu danych
+txtplt019	sto³ek
+txtplt020	Wstañ z:
+txtplt021	kelnerka
+txtpop001	Martwooki Dave
+txtpop002	z:
+txtpop003	system pobierania plików
+txtpop004	panel systemu pobierania plików
 txtpop005	kosz pe³en protez
-txtpop006	dziwne urz¹dzenie
-txtpop007	miske ze szklanymi oczyma
-txtpop008	kosz pe³en haków
-txtpop009	kosz z tanimi hakami i koñczynami
-txtpop010	protezy nogi z koœci s³oniowej z gumowym uchwytem
+txtpop006	dziwny przyrz¹d
+txtpop007	s³ój ze szklanymi oczami
+txtpop008	kosz ró¿nych metalowych haków
+txtpop009	kosz plastikowych haków i r¹k
+txtpop010	kosz z gumowymi nó¿kami
 txtpop011	hak
-txtpop012	proteze nogi z porcelany
-txtpop013	pó³ke na protezy
+txtpop012	proteza nogi z porcelany
+txtpop013	pó³ka z losowymi proteza
 txtpop014	drzwi
 txtpop015	dokument
-txtpop016	facetem z bia³ymi plamkami na oczach
-txtpop017	Pobaw siê
-txtpop018	rêke z mieczem
-txtpph001	tratwê
-txtpph002	Wskocz na
-txtpph003	obc¹ tratwê
-txtpph004	wycieraczkê
-txtpph005	t³ust¹ wycieraczkê.
+txtpop016	facet z dwoma opaskami na oczy
+txtpop017	Pogmeraj w:
+txtpop018	rêka z mieczem
+txtpph001	tratwa
+txtpph002	Wskocz na:
+txtpph003	obca tratwa
+txtpph004	wycieraczka
+txtpph005	t³usta wycieraczka
 txtpph006	dzbanek rumu
 txtpph007	wiadro ryb
 txtpta001	Kilka godzin póŸniej...
 txtpta002	Kilka minut póŸniej...
-txtpta003	skonfiskowany ³up piratów
-txtpta004	Ukradnij trochê
-txtpta005	zu¿yt¹ gumê
+txtpta003	skonfiskowany skarb z pirackimi gad¿etami
+txtpta004	Przekop siê przez:
+txtpta005	zu¿yty zwitek pirackiego tytoniu do plucia
 txtpta006	œmietnik
-txtpta007	pó³kê na ksi¹¿ki
-txtpta008	napis
-txtpta009	krzese³ko
+txtpta007	pó³ka na ksi¹¿ki
+txtpta008	szyld
+txtpta009	sto³ek
 txtpta010	globus
-txtpta011	napis
+txtpta011	szyld
 txtpta012	klocki
-txtpta013	doniczkê
-txtpta014	ma³y statek
-txtpta015	napis
-txtpta016	magnesy
-txtpta017	rysunek o³ówkiem
-txtpta018	lalkê
-txtpta019	procê
-txtpta020	armatê
-txtpta021	³awkê
+txtpta013	doniczka
+txtpta014	stek zabawka
+txtpta015	szyld
+txtpta016	tablica magnetyczna
+txtpta017	rysunek kredk¹
+txtpta018	lalka
+txtpta019	proca
+txtpta020	armata
+txtpta021	biurka
 txtpta022	biurko
-txtpta023	Pani¹ Rivers
+txtpta023	Pani Rivers
 txtpta024	Rozmawiaj z:
 txtpta025	drzwi
-txtpta026	PrzejdŸ przez
+txtpta026	PrzejdŸ przez:
 txtsco001	stos kamieni
-txtscu001	Wez
-txtscu002	balonowi
-txtscu003	Przyjrzyj sie
-txtscu004	pijanym marynarzem
-txtscu005	towarzyskim Barmanem
-txtscu006	zawadiackim marynarzem
-txtscu007	wiekszym graczem w rzutki
-txtscu008	mniejszym graczem w rzukti
-txtscu009	tarcze
-txtscu010	drzwi od kuchni
-txtscu011	Otworz
+txtscu001	WeŸ:
+txtscu002	balon
+txtscu003	Przyjrzyj siê:
+txtscu004	pijany marynarz
+txtscu005	towarzyski (choæ pokiereszowany) barman
+txtscu006	zrzêdny marynarz
+txtscu007	wysoki gracz w rzutki
+txtscu008	niski gracz w rzutki
+txtscu009	tarcza
+txtscu010	drzwi do kuchni
+txtscu011	Otwórz:
 txtscu012	obraz
 txtscu013	okno
 txtscu014	okno z widokiem
-txtscu015	strasznych drzwi
-txtscu016	U¿yj
-txtscu017	faszerowana rybe
+txtscu015	upiorne drzwi
+txtscu016	U¿yj:
+txtscu017	wypchana ryba
 txtscu018	miecz
-txtscu019	butelke
-txtscu020	kolo ratunkowe
-txtscu021	drewno opalowe
+txtscu019	butelka
+txtscu020	ko³o ratunkowe
+txtscu021	drewno opa³owe
 txtscu022	kocio³
 txtshi001	dobrze wygl¹daj¹cy statek
-txtshi002	dobrze wygl¹daj¹ca ³ódŸ
-txtshi003	napis
+txtshi002	dobrze wygl¹daj¹cy ponton
+txtshi003	szyld
 txtshi004	grogomat
-txtshi005	Pani Stoczni
+txtshi005	Pani Stocznia
 txtshi006	galion
 txtshi007	œcie¿ka
-txtshi008	Filigranowa Dama
+txtshi008	Drobna Dama
 txtshi009	pani bez zajêæ
 txtshi010	otwór na resztê
-txtshi011	barak
-txtshi012	Uderz
-txtshi013	Potrz¹œnij
-txtshi014	Zwymyœlaj
+txtshi011	sza³as stoczniowy
+txtshi012	Uderz:
+txtshi013	Potrz¹œnij:
+txtshi014	Zwymyœlaj:
 txtshi015	Kopnij:
-txtshi016	puszki z grogiem
-txtshi017	plisowany ró¿owy statek
-txtshi018	Powrót do:
-txtshi019	cabrio³ódz
-txtshi020	³ódz sportowa
+txtshi016	puszka z grogiem
+txtshi017	falbaniasty ró¿owy statek
+txtshi018	Powróæ do:
+txtshi019	kabriolet
+txtshi020	³ódŸ sportowa
 txtshi021	ko³o ratunkowe
 txtsta001	Stan
-txtsta002	nieruchomoœæ "Wakacje ze Stanem"
-txtsta003	pla¿e-marzenie
-txtsta004	napis
+txtsta002	Dom Towarowy "Wakacje ze Stanem"
+txtsta003	piêkna pla¿a
+txtsta004	szyld
 txtsta005	biurko
 txtsta006	szufladki
-txtsta007	irytuj¹ce ulotki
+txtsta007	stos ulotek
 txtsta008	wyspa
-txtsta009	Wróæ na
-txtsta010	drzwi do nieruchomoœci
-txtsta011	pla¿y
-txtsta012	PochodŸ po
-txtstb001	kasa
-txtstb002	statek dekoracyjny
-txtstb003	artyku³y reklamowe
-txtstb004	ekran
+txtsta009	Wróæ na:
+txtsta010	drzwi do Domu Towarowego Stana
+txtsta011	pla¿a
+txtsta012	ZejdŸ do:
+txtstb001	kasa fiskalna
+txtstb002	dekoracje statku
+txtstb003	towary
+txtstb004	wiadro na parasole
 txtstb005	szyld Starbuccaneera
-txtstb006	fili¿anka
-txtstb007	œmietanka do kawy
-txtstb008	fili¿anka z kaw¹ i cukrem
+txtstb006	fili¿anka kawy
+txtstb007	kremowa fili¿anka kawy
+txtstb008	s³odzona fili¿anka kawy
 txtstb009	automat Cap'n-ccino
-txtstb010	fili¿anki
+txtstb010	stos fili¿anek do kawy
 txtstb011	torba podró¿na
-txtstb012	pracownik Starbuccaneera
+txtstb012	kasjer Starbuccaneera
 txtstb013	groggoccino
 txtstb014	dziwna pani
 txtstb015	taca z mini bajglami
 txtstb016	taca z mini bajglami ze Schmear Whiz
 txtstb017	taca z bezp³atnymi mini bajglami ze Schmear Whiz
 txtsys001	Nie, nie chcê!
-txtsys002	Gry tego typu s¹ za ³atwe.
+txtsys002	Nie, przygodowe gry zespo³owe s¹ po prostu zbyt ³atwe.
 txtsys003	Gniazdo TCP nie dzia³a.
-txtsys004	To nie jest jakaœ sieciówka, ok?
-txtsys005	...i ¿adna zrêcznoœciówka dla wielu graczy!
-txtsys006	NIE PYTAJ SIÊ G£UPIO! NIE MA MULTIPLAYERA!
+txtsys004	To nie jest gra sieciowa, ok?!
+txtsys005	... nie ma te¿ wsparcia dla trybu multiplayer z hotseatem!
+txtsys006	PRZESTAÑ PYTAÆ! NIE MA MULTIPLAYERA!
 txtsys007	/sytx375/
 txtsys008	/sytx376/
 txtsys009	/sytx377/
@@ -11271,134 +11271,134 @@ txtsys046	/sytx414/
 txtsys047	/sytx424/
 txtsys048	Bank Wyspy Mamony
 txtsys049	SCUMMBar
-txtsys050	sklepu z przynêtami
+txtsys050	sklep z przynêtami
 txtsys051	Kanion Wyspy Ma³p
 txtsys052	Koœció³ LeChucka
-txtsys053	rezydencja gubernator od zewn¹trz
-txtsys054	rezydencja gubernator od wewn¹trz
-txtsys055	kopalniê z³ota
-txtsys056	Odnowione Pirackie Miasteczko Jambalaya
-txtsys057	Ma³pia G³owa od zewn¹trz
-txtsys058	domy z laskami
+txtsys053	zewnêtrzna czêœæ rezydencji
+txtsys054	wewnêtrzna czêœæ rezydencji
+txtsys055	kopalnia z³ota
+txtsys056	Gentryfikowane miasto piratów na Jambalaya
+txtsys057	Ma³pia G³owa od wewn¹trz
+txtsys058	Dom Lasek
 txtsys059	Sala Sprawiedliwoœci
-txtsys060	pla¿ê Atolu Knutyñskiego
+txtsys060	pla¿a Atolu Nicanic
 txtsys061	Kuchnia, LUA Bar
-txtsys062	Kamienie Knutyñskie
+txtsys062	ska³y nicanicañskie
 txtsys063	Laguna
 txtsys064	Kancelaria
 txtsys065	LUA Bar
-txtsys066	Port Szpady
+txtsys066	Doki Szpady
 txtsys067	Szpada
-txtsys068	pracownia Meathooka od zewn¹trz
-txtsys069	pracownia Meathooka od wewn¹trz
+txtsys068	pracownia Miêshaka od zewn¹trz
+txtsys069	pracownia Miêshaka od wewn¹trz
 txtsys070	Mikrogrogeria
 txtsys071	Pla¿a Wyspy Ma³p
-txtsys072	Ma³pi¹ G³owê
+txtsys072	Ma³pia G³owa
 txtsys073	mapa Wyspy Ma³p
-txtsys074	Ma³pie Centrum
+txtsys074	Ma³pie Miasto
 txtsys075	Bagna Czasoprzestrzeni
 txtsys076	ma³pi robot Belly
-txtsys077	Posiad³oœæ Ozziego od zewn¹trz
-txtsys078	Posiad³oœæ Ozziego od wewn¹trz
+txtsys077	Rezydencja Ozziego od zewn¹trz
+txtsys078	Rezydencja Ozziego od wewn¹trz
 txtsys079	Planeta Threepwood
-txtsys080	pa³acu protez
-txtsys081	Kryjówka Pegnose'a Pete'a
+txtsys080	Pa³ac Protez
+txtsys081	Kryjówka Pete'a Ko³konosego
 txtsys082	Promenada Mamony
 txtsys083	Piracka Akademia Treningu
-txtsys084	nieziemski widok
+txtsys084	malowniczy widok
 txtsys085	SCUMM Bar???
 txtsys086	Stocznia Szpady
-txtsys087	Pokój goœcinny Pegnose'a
+txtsys087	Salon Ko³konosa
 txtsys088	Wakacje ze Stanem
 txtsys089	StarBuccaneer's
-txtsys090	Obóz Hermana
+txtsys090	Obóz Zgni³ozêba
 txtsys091	podwodna pieczara
 txtsys092	skrytka banku
 txtsys093	Miêdzynarodowe Stowarzyszenie Mojo
 txtsys094	statek ma³¿eñski
 txttoc001	Herman Zgni³yz¹b
-txttoc002	huœtawkê
-txttoc003	na
-txttoc004	U¿yj
-txttoc005	pracusiem
+txttoc002	huœtawka
+txttoc003	na:
+txttoc004	U¿yj:
+txttoc005	do pracusia
 txttoc006	ognisko
-txttoc007	k³odê
-txttoc008	budê
+txttoc007	k³oda
+txttoc008	buda
 txttoc009	ryby
 txttoc010	ogromne ko³o
 txttoc011	zniszczony kad³ub statku
-txttoc012	œcie¿kê na Wyspê Ma³p
-txttow001	nisk¹ wie¿ê
-txttow002	œrednia wie¿ê
-txttow003	kolosalnie du¿¹ wie¿ê
-txttow004	najwiêksz¹ muszle na œwiecie
+txttoc012	œcie¿ka na Wyspê Ma³p
+txttow001	niska wie¿a
+txttow002	œrednia wie¿a
+txttow003	kolosalnie du¿a wie¿a
+txttow004	najwiêksza muszle na œwiecie
 txttow005	zbyt du¿y prze³¹cznik
-txttow006	bardzo du¿e deski
-txttow007	Od³ó¿
-txtuch001	czaszke
-txtuch002	barek
+txttow006	bardzo du¿e deska
+txttow007	Od³ó¿:
+txtuch001	czaszka
+txtuch002	pe³ny barek
 txtuch003	stó³
 txtuch004	³up
 txtuch005	stos czaszek
-txtuch006	zos³one
-txtuch007	przycisk
-txtuch008	Wspiac sie na
+txtuch006	zas³ona
+txtuch007	wisz¹cy pierœcieñ
+txtuch008	Wespnij siê:
 txtuch009	przycisk
 txtulg002	kamieñ
-txtulg003	rozgwiazde
+txtulg003	rozgwiazda
 txtulg004	koralowce
-txtulg005	podwodn¹ jaskini¹
-txtulg006	line
+txtulg005	tajemne drzwi
+txtulg006	lina
 txtulg007	wodorosty
-txtulg008	powierzchniê
-txtulg009	PêdŸ do
-txtulg010	jaskinii
-txtulg011	œwiec¹ce ryby
+txtulg008	powierzchnia
+txtulg009	Skieruj siê na:
+txtulg010	jaskinia
+txtulg011	bioluminescencyjne ryby
 txtunc001	stalaktyt
 txtunc002	jasne œwiat³o
-txtunc003	siê w g³êbine
-txtunc004	Opuœæ
-txtvau001	skrytke
-txtvau002	g¹bke
-txtvau003	g¹bke
-txtvau004	drzwi do skarbaca
+txtunc003	jaskinia
+txtunc004	Opuœæ:
+txtvau001	skrytka
+txtvau002	ma³y stos g¹bek
+txtvau003	ma³y stos g¹bek
+txtvau004	drzwi skarbca
 txtvau005	wy¿szy zawias
-txtvau006	Spróbuj otworzyæ
+txtvau006	Zerwij:
 txtvau007	ni¿szy zawias
-txtvau008	szparkê
-txtvau009	pó³ke
+txtvau008	szpara
+txtvau009	schodki
 txtvau010	krzes³o
-txtvau011	dziurê ze z³amanym mieczem
-txtvau012	g¹bki po³¹czone ze z³amanym mieczem
-txtvau013	po³¹cz g¹bk¹ nas¹czon¹ grogiem oraz ze z³amanym mieczem
-txtvau014	Spójrz w
-txtvau015	Wez
+txtvau011	dziura ze starym, z³amanym mieczem
+txtvau012	dziura z wetkniêtymi g¹bkami i starym, z³amanym mieczem
+txtvau013	mokra, grogiem pachn¹ca, dziura z wetkniêtymi g¹bkami i starym, z³amanym mieczem
+txtvau014	Spójrz na:
+txtvau015	Podnieœ:
 txtvoo001	Voodoo Lady
 txtvoo002	dziwne lustro
-txtvoo003	stol w ksztalcie dloni
+txtvoo003	stó³ w kszta³cie d³oni
 txtvoo004	palec
-txtvoo005	rysunek
-txtvoo006	popelniczke
+txtvoo005	Poci¹gnij:
+txtvoo006	lufka
 txtvoo007	miecz
 txtvoo008	koszyk z kurczakami
-txtvoo009	drabine
-txtvoo010	Wspiac sie na
-txtvoo011	stos kosci
-txtvoo012	maske Voodoo
-txtvoo013	lalke Voodoo
-txtvoo014	butelke z kremowa ciecza
-txtvoo015	Zbadaj
-txtvoo016	butelke z tajemniczym plynem
-txtvoo017	butelke z lepka ciecza
-txtvoo018	butelki ze sluzowata ciecza
+txtvoo009	drabina
+txtvoo010	Wespnij siê:
+txtvoo011	stos koœci
+txtvoo012	maska voodoo
+txtvoo013	lalka voodoo
+txtvoo014	butelka kremowego p³ynu
+txtvoo015	Zbadaj:
+txtvoo016	butelka smugowego p³ynu
+txtvoo017	butelka lepkiego p³ynu
+txtvoo018	butelka oœlizg³ego p³ynu
 txtvoo019	kciuk
-txtvoo020	maly palec
+txtvoo020	ma³y palec
 txtvoo021	serdeczny palec
 txtvoo022	œrodkowy palec
-txtvoo023	koraliki Voodoo
+txtvoo023	korale voodoo
 txtwed001	na³adowana armata
-txtwed002	kosz z gor¹cym wêglem
-txtwed003	kupka gor¹cego wêgla
+txtwed002	kosz roz¿arzonych wêgli
+txtwed003	stos roz¿arzonych wêgli
 txtwed004	armata
 txtwed005	krata ³adowni
 txtwed006	wrogi okrêt
@@ -11406,14 +11406,14 @@ txtwed007	wrogi pirat
 txtall021D	stary miecz
 txtall022D	z³amany miecz
 txtall056D	œwiec¹cy Pojemniczek
-txtall060D	ma³¹ œrubkê
-txtall066D	lepk¹ karykaturê Ma³piego Kubka
+txtall060D	ma³a œrubka
+txtall066D	lepka karykatura Ma³piego Kubka
 txtall160D	niebieski obraz
-txtall173D	pust¹ fili¿ankê po groggocino
-txtall177D	wy¿ute ciasteczko ze œlin¹ Schmear Whiz
+txtall173D	pusta fili¿anka po groggocino
+txtall177D	prze¿ute ciasteczko Schmear Whiz
 txtall193D	czêœciowo gotowy Talizman Upokorzenia
 txtall411D	gor¹cy wêgielek
-txtall414D	tchórzliw¹ ma³pê
+txtall414D	tchórzliwa ma³pa
 txtall010D	rozpompowana detke
 txtall068D	podmieniony Kubek
 txtall415D	œmierdz¹c¹ ma³pê
@@ -11556,7 +11556,7 @@ txtall441	Roznorodnosc efektow wideo
 txtall442	Wroc do opcji
 txtall443	monete
 txtall444	dwa banany
-txtall445	dyrektorem banku
+txtall445	menad¿er banku
 txtall446	kasjerk¹
 txtall446D	pracownikiem banku
 txtall447	Timmy
@@ -11578,10 +11578,10 @@ txtall462	Przepis na:
 txtall463	Sztuczny Narz¹d ACME - model TK-421
 txtall464	Wskazówki do:
 txtall465	Bagien Czasoprzestrzeni
-txtall466	Pn.
-txtall467	Ws.
-txtall468	Pd.
-txtall469	Zach.
+txtall466	N
+txtall467	E
+txtall468	S
+txtall469	W
 txtall470	t³usty smar
 txtall471	drewnian¹ rêke z termitami
 txtall472	stos wiórków
@@ -11604,7 +11604,7 @@ txtmon014	kwiatki
 txtpop019	Przynieœ plik
 txtpop020	Obróæ element
 txtsta013	Dwie godziny i piêædziesi¹t siedem minut póŸniej...
-txtsys066	Port Szpady
+txtsys066	Doki Szpady
 txtsys067	Szpada
 txtsys086	Stocznia Szpady
 txttow008	Odbij
@@ -11622,7 +11622,7 @@ txtact012	Rzeczy, które robisz
 txtact013	na wyspie Szpady™
 txtact014	bêd¹c martwym
 txtact015	AKT III+
-txtact016	Guybrushem
+txtact016	Guybrush
 txtact017	Kopnij
 txtact018	Niezwykle
 txtact019	Wielki
@@ -11848,7 +11848,7 @@ txtcdt133	Elaine Marley-Threepwood
 txtcdt134	CHARITY JAMES
 txtcdt135	Charles L. Charles/LeChuck
 txtcdt136	EARL BOEN
-txtcdt137	Ozziem Mandrillem
+txtcdt137	Ozzie Mandrill
 txtcdt138	ROLF JuHLICH
 txtcdt139	Admiral Ricardo Casaba: ACHIM SCHuLKE
 txtcdt140	Bagel, der Wirt der LUA-Bar: MARCO KRoGER

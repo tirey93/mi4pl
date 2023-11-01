@@ -148,7 +148,7 @@ msgstr "Voila! Teraz powinno śmigać jak nowe. Eee? Cóż tho? Statki! Nie rhus
 
 msgctxt "MEGB004"
 msgid "Wow.  Wax really is Meathook's preferred medium."
-msgstr "Wosk - prawdziwy środek wyrazu Meathooka."
+msgstr "Wosk - prawdziwy środek wyrazu Mięshaka."
 
 msgctxt "MADL001"
 msgid "How the poop deck should I know?"
@@ -5824,7 +5824,7 @@ msgstr "Więc JESTEŚ ważną osobą. Tędy proszę, pani Marley. Pokażę pani 
 
 msgctxt "habshi005"
 msgid "This...is the 'Dainty Lady'."
-msgstr "A o to... \"Zgrabna Dama\"."
+msgstr "A o to... \"Drobna Dama\"."
 
 msgctxt "guyshi006"
 msgid "It's pink!"
@@ -5868,7 +5868,7 @@ msgstr "Chyba tak."
 
 msgctxt "habshi013"
 msgid "Oh, and enjoy your voyages on the 'Dainty Lady'."
-msgstr "Życzę miłej podróży na \"Zgrabnej Damie\"."
+msgstr "Życzę miłej podróży na \"Drobnej Damie\"."
 
 msgctxt "guyshi009"
 msgid "It's...pink."
@@ -9256,11 +9256,11 @@ msgstr "Mamy tylko część naszego planu."
 
 msgctxt "ozzpph003"
 msgid "You've done an admirable job in getting Guybrush out of the way,"
-msgstr "Rozliczymy się sprawiedliwie, jak uda ci się zgubić Guybrusha,"
+msgstr "Wykonałeś godną podziwu pracę, usuwając Guybrusha z drogi"
 
 msgctxt "ozzpph004"
 msgid "as well as reappropriating the Marley family heirlooms."
-msgstr "... wtedy oddam ci część skarbu Marleya."
+msgstr "... a także przywłaszczając sobie schedę Marleyów."
 
 msgctxt "ozzpph005"
 msgid "I trust you've put them somewhere safe for the time being?"
@@ -9292,7 +9292,7 @@ msgstr "Oczywiście. Powracając do tematu wynagr..."
 
 msgctxt "ozzpph008"
 msgid "Later, my good man.  In the meantime, the heirlooms are our little secret."
-msgstr "Później, mój synu. Teraz, skarb jest naszym małym sekretem."
+msgstr "Później, dobry człowieku. Teraz scheda jest naszym małym sekretem."
 
 msgctxt "ozzpph009"
 msgid "Keep them hidden, and not a word to anyone.  We'd hate to have my plans spoiled by an indiscretion."
@@ -9312,7 +9312,7 @@ msgstr "Lepiej żeby."
 
 msgctxt "ozzpph011"
 msgid "I'm off to tend to my affairs.  Now that we're in possession of the Marley heirlooms, I must begin determining how they relate to the Ultimate Insult."
-msgstr "Lepiej aby nikt mnie nie kojarzył. Teraz, kiedy mamy należności skarbu Marleya, muszę zacząć rozumieć moc wszechpotężnego Talizmanu Upokorzenia."
+msgstr "Idę zająć się swoimi sprawami. Teraz, kiedy jesteśmy w posiadaniu schedy Marleya, muszę określić, jak wiąże się ona z Talizmanem Upokorzenia."
 
 msgctxt "guypph008"
 msgid "So, Ozzie and Pegnose are working together.  After I deal with Pegnose here, I'll have to pay Mister Mandrill a little visit."
@@ -9916,7 +9916,7 @@ msgstr "Wiedziałem, żeby lepiej użyć jakieś klątwy Voodoo na wykładowcę 
 
 msgctxt "guylag007"
 msgid "The heirlooms must be nearby."
-msgstr "Mój skarb musi być gdzieś blisko."
+msgstr "Scheda musi być gdzieś blisko."
 
 msgctxt "guylag008"
 msgid "It's pretty shallow here.  I can see the dirt on the bottom easily."
@@ -10016,7 +10016,7 @@ msgstr "W sensie, poza tułowiem ich właścicieli."
 
 msgctxt "guyuch015"
 msgid "The bank booty and the Marley Heirlooms are in the cavern on the other side of this unbreakable window."
-msgstr "Rabunek z banku i skarb Marleya są po drugiej stronie nie przebijalnej szyby."
+msgstr "Rabunek z banku i scheda Marleya są po drugiej stronie nieprzebijalnej szyby."
 
 msgctxt "guyuch016"
 msgid "Yeah, sure, I'll just break that reinforced glass by banging my head on it."
@@ -10052,7 +10052,7 @@ msgstr "Nie da rady."
 
 msgctxt "guyuch024"
 msgid "Hey!  That looks like the Lucre Town Bank's missing loot!  And the Marley Heirlooms!"
-msgstr "Hej! Czy to nie zaginiony skarb z Lucre Banku! No i skarb Marleya!"
+msgstr "Hej! Czy to nie zaginiony skarb z Lucre Banku! No i scheda Marleya!"
 
 msgctxt "guyuch025"
 msgid "I've got to find a way to get in there!"
@@ -10488,7 +10488,7 @@ msgstr "Proszę pytać tamtą panią. Jestem zajęty a ona z pewnością ci pomo
 
 msgctxt "guyban025"
 msgid "Hi.  I'm here to pick up the Marley family heirlooms."
-msgstr "Hej. Przyszedłem odebrać pamiątkę rodową Marleyów."
+msgstr "Hej. Przyszedłem odebrać schedę Marleyów."
 
 msgctxt "manban005"
 msgid "You're a Marley?"
@@ -15536,7 +15536,7 @@ msgstr "Co?"
 
 msgctxt "guyozi152"
 msgid "You heard me.  I know all about your scheme to steal the Marley heirlooms."
-msgstr "To co słyszysz. Znam cały twój plan kradzieży skarbu Marleya."
+msgstr "To co słyszysz. Znam cały twój plan kradzieży schedy Marleya."
 
 msgctxt "ozzozi134"
 msgid "Ha!"
@@ -15856,7 +15856,7 @@ msgstr "Ten blef jest słabszy od poprzedniego."
 
 msgctxt "ozzozi180"
 msgid "But I suppose another squiz at the Marley Heirlooms wouldn't hurt."
-msgstr "Ale przypuszczam że ucisk na Skarb Marlaya nie bolałby."
+msgstr "Ale przypuszczam, że kolejny rzut oka na schedę Marleyów nie zaszkodzi."
 
 msgctxt "ozzozi181"
 msgid "Ahhh."
@@ -15868,7 +15868,7 @@ msgstr "Musze przyznać że blefujesz bardziej nawet ode mnie."
 
 msgctxt "ozzozi183"
 msgid "Lucky for you I still haven't divined the secrets of the Ultimate Insult from the Marley Heirlooms."
-msgstr "Na szczęście dla ciebie, ciągle nie odkryłem sekretu Talizmanu Upokorzenia ze Skarbca Marleya."
+msgstr "Na szczęście dla ciebie wciąż nie odkryłem sekretów Talizmanu Upokorzenia ze schedy Marleya."
 
 msgctxt "guyozi186"
 msgid "It's very nice.  Lots of booty."
@@ -18280,7 +18280,7 @@ msgstr ""
 
 msgctxt "guypla017"
 msgid "What Marco doesn't know is that we've replaced his regular Baby Seal Oil with StarBuccaneers™ Shmear Whiz.  Let's watch."
-msgstr "Marco jeszcze nie wie, że  podmieniłem jego standardową Dziecięcą Foczą Oliwkę z ciasteczkami od Starbuccaneera.  Popatrzmy."
+msgstr "Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając Shmear Whiz. Zobaczmy."
 
 msgctxt "macpla012"
 msgid "Now, my friend...prepare to watch a master in action!"
@@ -20052,7 +20052,7 @@ msgstr "Mówisz tak bezpodstawnie? Czemu tak sądzisz?"
 
 msgctxt "guypla063"
 msgid "I think he's smearing baby seal oil all over himself before he dives."
-msgstr "Wydaje mi się, że smaruje się oliwką dla dzieci przed skokiem."
+msgstr "Wydaje mi się, że smaruje się dziecięcą foczą oliwką przed skokiem."
 
 msgctxt "kahpla033"
 msgid "Is that all?  Ha!  That's not cheating."
@@ -20168,7 +20168,7 @@ msgstr "Góra"
 
 msgctxt "guypla074"
 msgid "DOWN"
-msgstr "Dól"
+msgstr "Dół"
 
 msgctxt "guypla075"
 msgid "LEFT"
@@ -20788,15 +20788,15 @@ msgstr "A co to jest za dziwna rzecz z siodłem?"
 
 msgctxt "opemig042"
 msgid "That, my friend, is the Menacing Mechanical Manatee!"
-msgstr "To, mój kolego, nasza Groźna Syrenka Mechaniczna!"
+msgstr "To, mój kolego, nasza Groźny Mechaniczny Manat!"
 
 msgctxt "guymig032"
 msgid "So what's the deal with that Manatee thing again?"
-msgstr "Więc o co chodzi z tą krową morską?"
+msgstr "Więc o co chodzi z tym Manatem?"
 
 msgctxt "opemig043"
 msgid "It's called the Menacing Mechanical Manatee."
-msgstr "Nazywamy ją Groźną Syrenką Mechaniczną."
+msgstr "Nazywamy go Groźny Mechaniczny Manat."
 
 msgctxt "guymig033"
 msgid "Why does this island seem so... wholesome?"
@@ -24852,7 +24852,7 @@ msgstr "Sądzę, że niebieski jest lepszym kolorem jak na statek."
 
 msgctxt "guyluc216"
 msgid "Hmm.. maybe the owner of this boat wouldn't notice if I switched it with the Dainty Lady."
-msgstr "Hmmm. Może właściciel tej łodzi nie zauważy, że podmieniłem ten statek na moją Filigranową Damę."
+msgstr "Hmmm. Może właściciel tej łodzi nie zauważy, że podmieniłem ten statek na moją Drobną Damę."
 
 msgctxt "guyluc217"
 msgid "Lucre Island™ Port Authority"
@@ -24972,7 +24972,7 @@ msgstr "Prawnicy dobrze mi radzili, wyspa jest piękna."
 
 msgctxt "guyluc245"
 msgid "It's the door to the 'House o' Sticks'."
-msgstr "To drzwi do Sklepu z laskami."
+msgstr "To drzwi do Domu Lasek."
 
 msgctxt "guyluc246"
 msgid "There'll be plenty of time for that AFTER I go to the law offices."
@@ -27196,7 +27196,7 @@ msgstr "Nie, potrzebuje tych wskazówek do kryjówki Pegnose'a."
 
 msgctxt "guypop220"
 msgid "These are the controls for the file retrieval system."
-msgstr "To panel kontrolny systemu odzyskiwania danych."
+msgstr "To panel kontrolny systemu pobierania plików."
 
 msgctxt "deapop293"
 msgid "When I say 'feel free' to use my file system, I do NOT mean 'feel free to steal my control box.'"
@@ -27232,7 +27232,7 @@ msgstr "W ewentualności, jedna by mi się przydała."
 
 msgctxt "guypop228"
 msgid "It appears to be some sort of hi-tech file retrieval system."
-msgstr "To mi wygląda na jakiś rodzaj nowoczesnego systemy przechowywania danych."
+msgstr "To mi wygląda na jakiś rodzaj nowoczesnego systemu pobierania plików."
 
 msgctxt "guypop229"
 msgid "I wish they'd stop staring at me."
@@ -27956,7 +27956,7 @@ msgstr "Co trzymasz w ustach, młody człowieku?"
 
 msgctxt "munpta004"
 msgid "Pirate Spittin' Tobacco, ma'am."
-msgstr "Piracką Gumę Tobacco."
+msgstr "Piracki tytoń do plucia."
 
 msgctxt "rivpta024"
 msgid "Did you bring enough for everyone?"
@@ -33276,7 +33276,7 @@ msgstr "To sędziowie w zawodach"
 
 msgctxt "guypla134"
 msgid "It's that new chunky-style, lox flavored, baby seal oil I've heard so much about."
-msgstr "To ten nowy, gruboziarnisty olej o smaku łososia, o którym tyle słyszałem."
+msgstr "To ta nowa, gruboziarnista, łososiowa dziecięca foczą oliwka, o którym tyle słyszałem."
 
 msgctxt "guypla135"
 msgid "Bosun and Bosun's baby seal oil."
@@ -34176,23 +34176,23 @@ msgstr "W końcu mój ojciec umarł z głodu, wciąż kołysząc się na przeł�
 
 msgctxt "jojmon136"
 msgid "Gimpy Gibbon"
-msgstr "Utykający Gibon"
+msgstr "Kulawy Gibon"
 
 msgctxt "jojmon137"
 msgid "Charging Chimp"
-msgstr "Ładujący Szympans"
+msgstr "Nacierający Szympans"
 
 msgctxt "jojmon138"
 msgid "Bobbing Baboon"
-msgstr "Szarpiący Pawian"
+msgstr "Podskakujący Pawian"
 
 msgctxt "jojmon139"
 msgid "Anxious Ape"
-msgstr "Niespokojna Małpa"
+msgstr "Niespokojny Człekokształtny"
 
 msgctxt "jojmon140"
 msgid "Drunken Monkey"
-msgstr "Pijany Człekokształtny"
+msgstr "Pijana Małpa"
 
 msgctxt "jojmon141"
 msgid "Pay attention; I don't want to have to say this again."
@@ -35004,7 +35004,7 @@ msgstr "Prowadzi z powrotem."
 
 msgctxt "guysta048"
 msgid "It's the door to Stan's Time Share Emporium."
-msgstr "To są drzwi do korporacji Stana."
+msgstr "To są drzwi do Domu Handlowego Stana."
 
 msgctxt "guysta049"
 msgid "Uh.  Okay."
@@ -35328,7 +35328,7 @@ msgstr "Co to JEST ten Talizman Upokorzenia i dlaczego LeChuck i Ozzie tak go pr
 
 msgctxt "guymel148"
 msgid "What do your grandfather's heirlooms have to do with all of this?"
-msgstr "Ale co ma do niego skarb twojego dziadka?"
+msgstr "Ale co ma do niego scheda twojego dziadka?"
 
 msgctxt "guymel149"
 msgid "Well, I've got a plan!"
@@ -36184,7 +36184,7 @@ msgstr "Wygląda mi na to, że opada w dół mechanizmu."
 
 msgctxt "guyall286"
 msgid "It's a StanCo brand weed whipper."
-msgstr "To nowy model odchwaszczacza firmy StanCo."
+msgstr "To nowy model wypielacza firmy StanCo."
 
 msgctxt "guyall287"
 msgid "'It slices and dices your strongest weeds into table salad.'"
@@ -36572,7 +36572,7 @@ msgstr "Zabite deskami tak, że nigdy się nie przebiję."
 
 msgctxt "guygom033"
 msgid "It's a pouch."
-msgstr "To woreczek."
+msgstr "To sakiewka."
 
 msgctxt "guygom034"
 msgid "It looks pretty useless."
@@ -36828,7 +36828,7 @@ msgstr "Teraz ludzie będą mogli pisać gdziekolwiek będą, czy tego chcą czy
 
 msgctxt "guyall350"
 msgid "This necklace looks new.. I wonder how it got in with the rest of these old heirlooms."
-msgstr "Wygląda mi na nowy... Ciekawe jak on się znalazł przy tych wszystkich rodzinnych klejnotach."
+msgstr "Wygląda mi na nowy... Ciekawe jak on się znalazł przy tych wszystkich starociach."
 
 msgctxt "guyall351"
 msgid "I've had enough constricting jewelry for one adventure."
@@ -37548,7 +37548,7 @@ msgstr "Te wiórki tu się nie przydadzą."
 
 msgctxt "guyall488"
 msgid "These heirlooms are too valuable to waste on that."
-msgstr "Ten skarb jest zbyt cenny, żeby tak go zostawiać."
+msgstr "Scheda jest zbyt cenna, żeby ją tak utracić."
 
 msgctxt "guyall489"
 msgid "Those things really don't go together."
@@ -37976,7 +37976,7 @@ msgstr "Nie będe wrzucał moich rzeczy do włazy kanalizacyjnego."
 
 msgctxt "guyluc278"
 msgid "Why on Earth would I want to put the cover back on the manhole after I nearly gave myself a hernia removing it?!"
-msgstr "Po co miałbym wrzucać wieczko do włazu skoro przed chwilą mało nie dostałem przepukliny wyjmując je?"
+msgstr "Po co miałbym wrzucać wieczko do studzienki skoro przed chwilą mało nie dostałem przepukliny wyjmując je?"
 
 msgctxt "guyluc279"
 msgid "There's a duckling on this.  Must be the duck standard."
@@ -38788,7 +38788,7 @@ msgstr "Ja tylko,um, szukam gdzieś w pobliżu Grogomatu."
 
 msgctxt "bapp009b"
 msgid "Rummaging through family heirlooms is thirsty work."
-msgstr "Grzebanie wśród \"cennych\" pamiątek rodowych to ciężka praca."
+msgstr "Grzebanie wśród \"cennych\" sched rodowych to ciężka praca."
 
 msgctxt "babm010a"
 msgid "Well, you really should've called me first."
@@ -38852,7 +38852,7 @@ msgstr "No dobra, przekonałeś mnie!"
 
 msgctxt "bapp021b"
 msgid "Back away from the Marley heirlooms, and be quick about it!"
-msgstr "Odsuń się od tego Skarbu Marleya, i siedź cicho!"
+msgstr "Odsuń się od tej schedy Marleya, i siedź cicho!"
 
 msgctxt "bapp021c"
 msgid "Now, Mister Threepwood,"
@@ -39148,15 +39148,15 @@ msgstr "po rozwiązaniu pobocznych problemów jestem w domu"
 
 msgctxt "h1el024a"
 msgid "Well, seems like the sensible thing to do would be to"
-msgstr "No cóż, wygląda mi to na rzecz godną"
+msgstr "Cóż, najrozsądniejszą rzeczą byłoby"
 
 msgctxt "h1el024b"
 msgid "destroy my grandfather's heirlooms,"
-msgstr "ocalenia skarbu mojego dziadka."
+msgstr "zniszczyć schedę dziadka,"
 
 msgctxt "h1el024c"
 msgid "so that no one could get their hands on the Ultimate Insult, whatever that is."
-msgstr "Nikt inny nie mógł go posiadać razem z Talizmanem Upokorzenia, cokolwiek to jest"
+msgstr "aby nikt nie mógł dostać w swoje ręce Talizmany Upokorzenia, czymkolwiek on jest."
 
 msgctxt "h1gb025"
 msgid "I agree. Got a match?"
@@ -40612,7 +40612,7 @@ msgstr "SHIFT"
 
 msgctxt "txtall001"
 msgid "Męlée Island™ Gubernatorial Symbol"
-msgstr "Symbolu Gubernatora Wyspy Szpady"
+msgstr "Symbol Gubernatora Wyspy Szpady"
 
 msgctxt "txtall002"
 msgid "Look at"
@@ -40620,7 +40620,7 @@ msgstr "Obejrzyj:"
 
 msgctxt "txtall003"
 msgid "government paper"
-msgstr "list gubernatora"
+msgstr "papiery gubernatora"
 
 msgctxt "txtall004"
 msgid "cushy government job contract form"
@@ -40632,11 +40632,11 @@ msgstr "podpisana intratna umowa o pracę w urzędzie"
 
 msgctxt "txtall006"
 msgid "Give"
-msgstr "Użyj:"
+msgstr "Wręcz:"
 
 msgctxt "txtall007"
 msgid "to"
-msgstr "z:"
+msgstr "dla:"
 
 msgctxt "txtall008"
 msgid "government job contract form"
@@ -40660,11 +40660,11 @@ msgstr "Jedz:"
 
 msgctxt "txtall013"
 msgid "Offer"
-msgstr "Użyj:"
+msgstr "Zaoferuj:"
 
 msgctxt "txtall014"
 msgid "drink menu"
-msgstr "drink-menu"
+msgstr "menu drinków"
 
 msgctxt "txtall015"
 msgid "Read"
@@ -40680,7 +40680,7 @@ msgstr "mieszek"
 
 msgctxt "txtall018"
 msgid "Pick up"
-msgstr "Weź:"
+msgstr "Podnieś:"
 
 msgctxt "txtall019"
 msgid "music box"
@@ -40700,7 +40700,7 @@ msgstr "złamany miecz"
 
 msgctxt "txtall023"
 msgid "some sponges"
-msgstr "jakaś gąbki"
+msgstr "kilka gąbek"
 
 msgctxt "txtall024"
 msgid "bottle of fine grog"
@@ -40712,7 +40712,7 @@ msgstr "chusteczka"
 
 msgctxt "txtall026"
 msgid "bait"
-msgstr "przynętę"
+msgstr "przynęta"
 
 msgctxt "txtall027"
 msgid "Use"
@@ -40724,15 +40724,15 @@ msgstr "haczyk na ryby"
 
 msgctxt "txtall029"
 msgid "Prick self with"
-msgstr "Nakłuj się"
+msgstr "Nakłuj się:"
 
 msgctxt "txtall030"
 msgid "Poke"
-msgstr "Szturchnij"
+msgstr "Szturchnij:"
 
 msgctxt "txtall031"
 msgid "into"
-msgstr "z:"
+msgstr "używając:"
 
 msgctxt "txtall032"
 msgid "wooden prosthetic hand"
@@ -40760,7 +40760,7 @@ msgstr "D"
 
 msgctxt "txtall038"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 msgctxt "txtall039"
 msgid "some document"
@@ -40768,7 +40768,7 @@ msgstr "jakiś dokument"
 
 msgctxt "txtall040"
 msgid "walking cane"
-msgstr "laskę"
+msgstr "laska"
 
 msgctxt "txtall041"
 msgid "sawdust"
@@ -40788,7 +40788,7 @@ msgstr "na:"
 
 msgctxt "txtall045"
 msgid "Eau de LeChuck"
-msgstr ""
+msgstr "Eau de LeChuck"
 
 msgctxt "txtall046"
 msgid "clock"
@@ -40804,11 +40804,11 @@ msgstr "kwiatek"
 
 msgctxt "txtall049"
 msgid "duck"
-msgstr "kaczke"
+msgstr "kaczka"
 
 msgctxt "txtall050"
 msgid "grease bucket"
-msgstr "łyżkę tłuszczu"
+msgstr "wiadro tłuszczu"
 
 msgctxt "txtall051"
 msgid "pole"
@@ -40816,11 +40816,11 @@ msgstr "słup"
 
 msgctxt "txtall052"
 msgid "pole with a hole in the top"
-msgstr "słup z dziurką"
+msgstr "słup z dziurą"
 
 msgctxt "txtall053"
 msgid "pole with a hook jammed in the top"
-msgstr "słup z hakiem zaciągniętym na górze"
+msgstr "słup z wetkniętym hakiem"
 
 msgctxt "txtall054"
 msgid "ScupperWare"
@@ -40828,7 +40828,7 @@ msgstr "Pojemniczek"
 
 msgctxt "txtall055"
 msgid "Open"
-msgstr "Otwórz"
+msgstr "Otwórz:"
 
 msgctxt "txtall056"
 msgid "glowing ScupperWare"
@@ -40836,7 +40836,7 @@ msgstr "świecący Pojemniczek"
 
 msgctxt "txtall057"
 msgid "ScupperWare with bait in it"
-msgstr "Pojemniczek z przekąską"
+msgstr "Pojemniczek z przynętą"
 
 msgctxt "txtall058"
 msgid "bank booty"
@@ -40848,7 +40848,7 @@ msgstr "Ukradnij:"
 
 msgctxt "txtall060"
 msgid "itty-bitty brass screw"
-msgstr "mała śrubka"
+msgstr "maluteńka śrubka"
 
 msgctxt "txtall061"
 msgid "prosthetic nose"
@@ -40856,7 +40856,7 @@ msgstr "sztuczny nos"
 
 msgctxt "txtall062"
 msgid "wimpy grog"
-msgstr "lekki grog"
+msgstr "słaby grog"
 
 msgctxt "txtall063"
 msgid "Planet Threepwood coupon"
@@ -40868,7 +40868,7 @@ msgstr "słoik z klejem"
 
 msgctxt "txtall065"
 msgid "Monkey Mug caricature"
-msgstr "karykaturę Małpiego Kubka"
+msgstr "karykatura Małpiego Kubka"
 
 msgctxt "txtall066"
 msgid "sticky Monkey Mug caricature"
@@ -40876,7 +40876,7 @@ msgstr "lepką karykaturę Małpiego Kubka"
 
 msgctxt "txtall067"
 msgid "StarBuccaneer's™ logo mug"
-msgstr "kufel z logiem Starbuccaneera"
+msgstr "kubek z logiem Starbuccaneera"
 
 msgctxt "txtall068"
 msgid "fake Monkey Mug"
@@ -40892,7 +40892,7 @@ msgstr "Użyj:"
 
 msgctxt "txtall071"
 msgid "Walk through"
-msgstr "Idź do:"
+msgstr "Przejdź przez:"
 
 msgctxt "txtall072"
 msgid "with"
@@ -40904,15 +40904,15 @@ msgstr "Użyj:"
 
 msgctxt "txtall074"
 msgid "Pick up"
-msgstr "Weź:"
+msgstr "Podnieś:"
 
 msgctxt "txtall075"
 msgid "manhole cover"
-msgstr "właz"
+msgstr "pokrywa studzienki"
 
 msgctxt "txtall076"
 msgid "Marley family heirlooms"
-msgstr "pamiątka rodzinna Marleya"
+msgstr "scheda rodziny Marleyów"
 
 msgctxt "txtall077"
 msgid "Escape from Monkey Island™"
@@ -40924,7 +40924,7 @@ msgstr "Nie można kontynuować bez CD"
 
 msgctxt "txtall079"
 msgid "Save your game if you don't want to lose your progress."
-msgstr "Zapisz grę aby nie utracić postępów"
+msgstr "Zapisz grę, aby nie utracić postępów"
 
 msgctxt "txtall080"
 msgid "&Save and Quit"
@@ -40936,19 +40936,19 @@ msgstr "&Wyjdź"
 
 msgctxt "txtall082"
 msgid "Camera-Relative Movement Selected"
-msgstr "Wybrano: kamera względnego ruchu"
+msgstr "Wybrano: ruch zależny od kamery"
 
 msgctxt "txtall083"
 msgid "Character-Relative Movement Selected"
-msgstr "Wybrano: ruch względem postaci"
+msgstr "Wybrano: ruch zależny od postaci"
 
 msgctxt "txtall084"
 msgid "Voice Only"
-msgstr "Tylko glosy"
+msgstr "Tylko głosy"
 
 msgctxt "txtall085"
 msgid "Voice and Text"
-msgstr "Glosy i napisy"
+msgstr "Głosy i napisy"
 
 msgctxt "txtall086"
 msgid "Text Only"
@@ -41000,7 +41000,7 @@ msgstr "Autorzy"
 
 msgctxt "txtall098"
 msgid "&Multiplayer"
-msgstr ""
+msgstr "&Multiplayer"
 
 msgctxt "txtall099"
 msgid "&New Game"
@@ -41012,7 +41012,7 @@ msgstr "&Powrót do gry"
 
 msgctxt "txtall101"
 msgid "&Resume Game"
-msgstr "&Wznów gre"
+msgstr "&Wznów grę"
 
 msgctxt "txtall102"
 msgid "&Quit"
@@ -41044,11 +41044,11 @@ msgstr "Wysoki"
 
 msgctxt "txtall109"
 msgid "Voice Only"
-msgstr "Tylko glosy"
+msgstr "Tylko głosy"
 
 msgctxt "txtall110"
 msgid "Voice and Text"
-msgstr "Glosy i napisy"
+msgstr "Głosy i napisy"
 
 msgctxt "txtall111"
 msgid "Text Only"
@@ -41068,11 +41068,11 @@ msgstr "Wł."
 
 msgctxt "txtall115"
 msgid "Camera-Relative"
-msgstr "Widok"
+msgstr "zależny od kamery"
 
 msgctxt "txtall116"
 msgid "Character-Relative"
-msgstr "Postacie"
+msgstr "zależny od postaci"
 
 msgctxt "txtall117"
 msgid "Normal"
@@ -41080,11 +41080,11 @@ msgstr "Normalny"
 
 msgctxt "txtall118"
 msgid "Brighter"
-msgstr "Jasniejszy"
+msgstr "Jaśniejszy"
 
 msgctxt "txtall119"
 msgid "Brightest"
-msgstr "Najjasniejszy"
+msgstr "Najjaśniejszy"
 
 msgctxt "txtall120"
 msgid "Darker"
@@ -41096,11 +41096,11 @@ msgstr "Najciemniejszy"
 
 msgctxt "txtall122"
 msgid "Enabled"
-msgstr "Odblokuj"
+msgstr "Odblokowano"
 
 msgctxt "txtall123"
 msgid "Disabled"
-msgstr "Zablokuj"
+msgstr "Zablokowano"
 
 msgctxt "txtall124"
 msgid "Music &Volume"
@@ -41108,7 +41108,7 @@ msgstr "&Muzyka"
 
 msgctxt "txtall125"
 msgid "Sound Effects Vol&ume"
-msgstr "Efekty"
+msgstr "Efekty Audio"
 
 msgctxt "txtall126"
 msgid "Vo&ice Volume"
@@ -41120,23 +41120,23 @@ msgstr "&Napisy"
 
 msgctxt "txtall128"
 msgid "Text &Speed"
-msgstr "Szybkosc napisow"
+msgstr "Szybkość napisów"
 
 msgctxt "txtall129"
 msgid "&Dialogue Transcript"
-msgstr "&Transkrypcja dialogow"
+msgstr "&Transkrypcja dialogów"
 
 msgctxt "txtall130"
 msgid "Voice &Effects"
-msgstr "&Efekty glosów"
+msgstr "&Głos i Efekty"
 
 msgctxt "txtall131"
 msgid "&Movement Mode"
-msgstr "Tryb ruchu"
+msgstr "&Tryb ruchu"
 
 msgctxt "txtall132"
 msgid "&Joystick/Gamepad"
-msgstr ""
+msgstr "&Joystick/Gamepad"
 
 msgctxt "txtall133"
 msgid "&Configure Keys..."
@@ -41152,7 +41152,7 @@ msgstr "Opcje Multiplayer..."
 
 msgctxt "txtall136"
 msgid "&Return to main menu"
-msgstr "Wróć do menu"
+msgstr "&Wróć do menu"
 
 msgctxt "txtall137"
 msgid "3D Hardware Setup"
@@ -41168,15 +41168,15 @@ msgstr "Wybierz tryb dla tego urządzenia i naciśnij Enter"
 
 msgctxt "txtall140"
 msgid "Display Devices"
-msgstr "Opcje wyświetlania"
+msgstr "Urządz. Wyśw."
 
 msgctxt "txtall141"
 msgid "Supported Modes"
-msgstr "Tryby zgodne"
+msgstr "Tryby zgodności"
 
 msgctxt "txtall142"
 msgid "&Return to options menu"
-msgstr "Wróć do opcji"
+msgstr "&Wróć do opcji"
 
 msgctxt "txtall143"
 msgid "Press Enter on a control to change"
@@ -41188,7 +41188,7 @@ msgstr "Resetuj zmiany"
 
 msgctxt "txtall145"
 msgid "&Return to settings menu"
-msgstr "Wróć do ustawień"
+msgstr "&Wróć do ustawień"
 
 msgctxt "txtall146"
 msgid "Keyboard Help"
@@ -41196,23 +41196,23 @@ msgstr "Klawiatura - pomoc"
 
 msgctxt "txtall147"
 msgid "Press right for Gamepad/Joystick Help"
-msgstr "Naciśnij w prawo: pomoc - Joystick/Gamepad"
+msgstr "Naciśnij w prawo: pomoc Joystick/Gamepad"
 
 msgctxt "txtall148"
 msgid "Gamepad/Joystick Help"
-msgstr "Gamepad-/Joystick - pomoc"
+msgstr "pomoc Gamepad-/Joystick"
 
 msgctxt "txtall149"
 msgid "Press right for Inventory Help"
-msgstr "Naciśnij w prawo dla pomocy w Inwentarzu"
+msgstr "Naciśnij w prawo - pomoc Inwentarz"
 
 msgctxt "txtall150"
 msgid "Inventory Help"
-msgstr "Inwentarz"
+msgstr "pomoc Inwentarz"
 
 msgctxt "txtall151"
 msgid "Press right for Keyboard Help"
-msgstr "Nacisij w prawo: klawiatura - pomoc"
+msgstr "Naciśnij w prawo - pomoc klawiatura"
 
 msgctxt "txtall152"
 msgid "Press Enter to return to the main menu"
@@ -41220,7 +41220,7 @@ msgstr "Naciśnij Enter, by wrócić do menu"
 
 msgctxt "txtall153"
 msgid "No help available at this time. Press ESC to continue"
-msgstr "Brak dostepnej pomocy. Naciśnij ESC, by kontynuować."
+msgstr "Brak dostępnej pomocy. Naciśnij ESC, by kontynuować."
 
 msgctxt "txtall154"
 msgid "caricature"
@@ -41240,7 +41240,7 @@ msgstr "naszyjnik"
 
 msgctxt "txtall158"
 msgid "pen necklace"
-msgstr "pióro na smyczy"
+msgstr "pióro na naszyjniku"
 
 msgctxt "txtall159"
 msgid "pen on chain"
@@ -41252,11 +41252,11 @@ msgstr "niebieski obraz"
 
 msgctxt "txtall161"
 msgid "Appraise"
-msgstr "Oceń:"
+msgstr "Wyceń:"
 
 msgctxt "txtall162"
 msgid "map to Jambalaya Island™"
-msgstr "mapa wyspy Jambalaya"
+msgstr "mapa Wyspy Jambalaya"
 
 msgctxt "txtall163"
 msgid "sketch of the Ultimate Insult"
@@ -41284,11 +41284,11 @@ msgstr "moneta"
 
 msgctxt "txtall169"
 msgid "Give"
-msgstr "Użyj:"
+msgstr "Wręcz:"
 
 msgctxt "txtall170"
 msgid "to"
-msgstr "z:"
+msgstr "dla:"
 
 msgctxt "txtall171"
 msgid "Look at"
@@ -41312,7 +41312,7 @@ msgstr "pusty kubek po groggocino"
 
 msgctxt "txtall176"
 msgid "mini-bagel with Schmear Whiz™ on it"
-msgstr "mini bajgle ze Schmear Whiz"
+msgstr "mini bajgiel ze Schmear Whiz"
 
 msgctxt "txtall177"
 msgid "juicy wad of chewed up bagel chunks and Schmear Whiz™"
@@ -41336,7 +41336,7 @@ msgstr "Ubierz:"
 
 msgctxt "txtall182"
 msgid "diving trophy"
-msgstr "trofeum"
+msgstr "trofeum pływackie"
 
 msgctxt "txtall183"
 msgid "time share brochure"
@@ -41348,7 +41348,7 @@ msgstr "gwizdek"
 
 msgctxt "txtall185"
 msgid "parrot call"
-msgstr "gwizdel na papugi"
+msgstr "gwizdek na papugi"
 
 msgctxt "txtall186"
 msgid "SCAB Magazine"
@@ -41368,7 +41368,7 @@ msgstr "Pokaż:"
 
 msgctxt "txtall190"
 msgid "to"
-msgstr "z:"
+msgstr "dla:"
 
 msgctxt "txtall191"
 msgid "Li'l Guybrush & Li'l LeChuck"
@@ -41380,11 +41380,11 @@ msgstr "czapka z brązu"
 
 msgctxt "txtall193"
 msgid "partially complete ultimate insult"
-msgstr "częściowo wykonany Talizman Upokorzenia™"
+msgstr "częściowo wykonany Talizman Upokorzenia"
 
 msgctxt "txtall194"
 msgid "weed whipper"
-msgstr "chwasty"
+msgstr "wypielacz"
 
 msgctxt "txtall195"
 msgid "banana"
@@ -41392,15 +41392,15 @@ msgstr "banan"
 
 msgctxt "txtall196"
 msgid "Eat"
-msgstr "JedzL"
+msgstr "Jedz:"
 
 msgctxt "txtall197"
 msgid "Offer"
-msgstr "Użyj:"
+msgstr "Zaoferuj:"
 
 msgctxt "txtall198"
 msgid "to"
-msgstr "z:"
+msgstr "dla:"
 
 msgctxt "txtall199"
 msgid "banana picker"
@@ -41408,7 +41408,7 @@ msgstr "zbierak bananów"
 
 msgctxt "txtall200"
 msgid "milk bottle"
-msgstr "butelkę mleka"
+msgstr "butelka mleka"
 
 msgctxt "txtall201"
 msgid "coconut"
@@ -41424,11 +41424,11 @@ msgstr "akordeon"
 
 msgctxt "txtall204"
 msgid "Play"
-msgstr "Graj"
+msgstr "Graj:"
 
 msgctxt "txtall205"
 msgid "shields"
-msgstr "tarcza"
+msgstr "tarcze"
 
 msgctxt "txtall206"
 msgid "Play"
@@ -41440,7 +41440,7 @@ msgstr "czapka z brązu"
 
 msgctxt "txtall208"
 msgid "note"
-msgstr "uwaga"
+msgstr "notka"
 
 msgctxt "txtall209"
 msgid "Read"
@@ -41452,7 +41452,7 @@ msgstr "Rozmawiaj z:"
 
 msgctxt "txtall211"
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 msgctxt "txtall212"
 msgid "SPACE"
@@ -41468,7 +41468,7 @@ msgstr "Przecinek"
 
 msgctxt "txtall215"
 msgid "HOME"
-msgstr ""
+msgstr "HOME"
 
 msgctxt "txtall216"
 msgid "PGUP"
@@ -41480,39 +41480,39 @@ msgstr "PgDOWN"
 
 msgctxt "txtall218"
 msgid "DEL"
-msgstr ""
+msgstr "DEL"
 
 msgctxt "txtall219"
 msgid "INS"
-msgstr ""
+msgstr "INS"
 
 msgctxt "txtall220"
 msgid "ESC"
-msgstr ""
+msgstr "ESC"
 
 msgctxt "txtall221"
 msgid "CTRL"
-msgstr ""
+msgstr "CTRL"
 
 msgctxt "txtall223"
 msgid "ALT"
-msgstr ""
+msgstr "ALT"
 
 msgctxt "txtall224"
 msgid "BS"
-msgstr ""
+msgstr "BS"
 
 msgctxt "txtall225"
 msgid "A"
-msgstr ""
+msgstr "A"
 
 msgctxt "txtall226"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 msgctxt "txtall227"
 msgid "C"
-msgstr ""
+msgstr "C"
 
 msgctxt "txtall228"
 msgid "D"
@@ -41520,11 +41520,11 @@ msgstr "D"
 
 msgctxt "txtall229"
 msgid "E"
-msgstr "Ws."
+msgstr "E"
 
 msgctxt "txtall230"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 msgctxt "txtall231"
 msgid "G"
@@ -41532,43 +41532,43 @@ msgstr "G"
 
 msgctxt "txtall232"
 msgid "H"
-msgstr ""
+msgstr "H"
 
 msgctxt "txtall233"
 msgid "I"
-msgstr ""
+msgstr "I"
 
 msgctxt "txtall234"
 msgid "J"
-msgstr ""
+msgstr "J"
 
 msgctxt "txtall235"
 msgid "K"
-msgstr ""
+msgstr "K"
 
 msgctxt "txtall236"
 msgid "L"
-msgstr ""
+msgstr "L"
 
 msgctxt "txtall237"
 msgid "M"
-msgstr ""
+msgstr "M"
 
 msgctxt "txtall238"
 msgid "N"
-msgstr "Pn."
+msgstr "N"
 
 msgctxt "txtall239"
 msgid "O"
-msgstr ""
+msgstr "O"
 
 msgctxt "txtall240"
 msgid "P"
-msgstr ""
+msgstr "P"
 
 msgctxt "txtall241"
 msgid "Q"
-msgstr ""
+msgstr "Q"
 
 msgctxt "txtall242"
 msgid "R"
@@ -41576,11 +41576,11 @@ msgstr "P"
 
 msgctxt "txtall243"
 msgid "S"
-msgstr "Pd."
+msgstr "S"
 
 msgctxt "txtall244"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 msgctxt "txtall245"
 msgid "U"
@@ -41588,75 +41588,75 @@ msgstr "U"
 
 msgctxt "txtall246"
 msgid "V"
-msgstr ""
+msgstr "V"
 
 msgctxt "txtall247"
 msgid "W"
-msgstr "Zach."
+msgstr "W"
 
 msgctxt "txtall248"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgctxt "txtall249"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 msgctxt "txtall250"
 msgid "Z"
-msgstr ""
+msgstr "Z"
 
 msgctxt "txtall251"
 msgid "NUMPAD0"
-msgstr ""
+msgstr "NUMPAD0"
 
 msgctxt "txtall252"
 msgid "NUMPAD1"
-msgstr ""
+msgstr "NUMPAD1"
 
 msgctxt "txtall253"
 msgid "NUMPAD2"
-msgstr ""
+msgstr "NUMPAD2"
 
 msgctxt "txtall254"
 msgid "NUMPAD3"
-msgstr ""
+msgstr "NUMPAD3"
 
 msgctxt "txtall255"
 msgid "NUMPAD4"
-msgstr ""
+msgstr "NUMPAD4"
 
 msgctxt "txtall256"
 msgid "NUMPAD5"
-msgstr ""
+msgstr "NUMPAD5"
 
 msgctxt "txtall257"
 msgid "NUMPAD6"
-msgstr ""
+msgstr "NUMPAD6"
 
 msgctxt "txtall258"
 msgid "NUMPAD7"
-msgstr ""
+msgstr "NUMPAD7"
 
 msgctxt "txtall259"
 msgid "NUMPAD8"
-msgstr ""
+msgstr "NUMPAD8"
 
 msgctxt "txtall260"
 msgid "NUMPAD9"
-msgstr ""
+msgstr "NUMPAD9"
 
 msgctxt "txtall261"
 msgid "NUMPAD+"
-msgstr ""
+msgstr "NUMPAD+"
 
 msgctxt "txtall262"
 msgid "NUMPAD ENTER"
-msgstr ""
+msgstr "NUMPAD ENTER"
 
 msgctxt "txtall263"
 msgid "NUMPAD period"
-msgstr ""
+msgstr "NUMPAD period"
 
 msgctxt "txtall264"
 msgid "UP"
@@ -41664,7 +41664,7 @@ msgstr "Góra"
 
 msgctxt "txtall265"
 msgid "DOWN"
-msgstr "Dól"
+msgstr "Dół"
 
 msgctxt "txtall266"
 msgid "RIGHT"
@@ -41748,19 +41748,19 @@ msgstr "Aby kontynuować włóż CD2!"
 
 msgctxt "txtall286"
 msgid "Default Action"
-msgstr "Zwykla Akcja"
+msgstr "Akcja Domyślna"
 
 msgctxt "txtall287"
 msgid "Skip Dialogue Line"
-msgstr "Pomin dialog"
+msgstr "Pomiń dialog"
 
 msgctxt "txtall288"
 msgid "Cycle Objects Up"
-msgstr "Obroc obiekt do gory"
+msgstr "Obróć obiekt do góry"
 
 msgctxt "txtall289"
 msgid "Cycle Objects Down"
-msgstr "Obroc obiekt w dol"
+msgstr "Obróć obiekt w dół"
 
 msgctxt "txtall290"
 msgid "Run"
@@ -41776,7 +41776,7 @@ msgstr "Użyj/mów"
 
 msgctxt "txtall293"
 msgid "Pick up/Put away"
-msgstr "Podnieść/porzucić"
+msgstr "Podnieś/porzuć"
 
 msgctxt "txtall294"
 msgid "Inventory"
@@ -41784,7 +41784,7 @@ msgstr "Inwentarz"
 
 msgctxt "txtall295"
 msgid "[Invalid Key!]"
-msgstr "\"[Ten klawisz jest już użyty, wybierz inny]\""
+msgstr "\"[Niepoprawny Klawisz!]\""
 
 msgctxt "txtall296"
 msgid "[Press new key!]"
@@ -41792,7 +41792,7 @@ msgstr "[Naciśnij nowy klawisz]"
 
 msgctxt "txtall297"
 msgid "NUMPAD-8 or Up"
-msgstr "NUM 8/AGora"
+msgstr "NUM 8/Góra"
 
 msgctxt "txtall298"
 msgid "NUMPAD-4 or Left"
@@ -41804,23 +41804,23 @@ msgstr "NUM 6/Prawo"
 
 msgctxt "txtall300"
 msgid "NUMPAD-2 or Down"
-msgstr "NUM 2/Dol"
+msgstr "NUM 2/Dół"
 
 msgctxt "txtall301"
 msgid "NUMPAD-7"
-msgstr ""
+msgstr "NUMPAD-7"
 
 msgctxt "txtall302"
 msgid "NUMPAD-9"
-msgstr ""
+msgstr "NUMPAD-9"
 
 msgctxt "txtall303"
 msgid "NUMPAD-1"
-msgstr ""
+msgstr "NUMPAD-1"
 
 msgctxt "txtall304"
 msgid "NUMPAD-3"
-msgstr ""
+msgstr "NUMPAD-3"
 
 msgctxt "txtall305"
 msgid "Move"
@@ -41864,7 +41864,7 @@ msgstr "NUMPAD-+ lub P"
 
 msgctxt "txtall315"
 msgid "Pick up item/Put away held item"
-msgstr "Podnieś/ Porzuć"
+msgstr "Podnieś/Porzuć przedmiot"
 
 msgctxt "txtall316"
 msgid "NUMPAD-Ins or I"
@@ -41892,7 +41892,7 @@ msgstr "Biegnij"
 
 msgctxt "txtall322"
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 msgctxt "txtall323"
 msgid "Skip cutscene"
@@ -41904,7 +41904,7 @@ msgstr "Pauza"
 
 msgctxt "txtall325"
 msgid "Pause the game"
-msgstr "Pauza"
+msgstr "Wstrzymaj grę"
 
 msgctxt "txtall326"
 msgid "1 through 9"
@@ -41916,11 +41916,11 @@ msgstr "Wyjmij rzecz z inwentarza"
 
 msgctxt "txtall328"
 msgid "Bring out previous item from inventory"
-msgstr "Poprzednia pozycja w inwentarzu"
+msgstr "Wyjmij poprzednią rzecz z inwentarza"
 
 msgctxt "txtall329"
 msgid "Bring out next item from inventory"
-msgstr "Następna pozycja w inwentarzu"
+msgstr "Wyjmij następną rzecz z inwentarza"
 
 msgctxt "txtall330"
 msgid "North"
@@ -41960,7 +41960,7 @@ msgstr "Rusz"
 
 msgctxt "txtall339"
 msgid "Up"
-msgstr "Gora"
+msgstr "Góra"
 
 msgctxt "txtall340"
 msgid "Move Forward"
@@ -42040,23 +42040,23 @@ msgstr "Enter lub U"
 
 msgctxt "txtall359"
 msgid "Exit inventory holding current item"
-msgstr "Zamknij inwentarz trzymajac przedmiot"
+msgstr "Zamknij inwentarz trzymając przedmiot"
 
 msgctxt "txtall360"
 msgid "Exit inventory holding nothing"
-msgstr "Zamknij inwentarz nic nie trzymajac"
+msgstr "Zamknij inwentarz nic nie trzymając"
 
 msgctxt "txtall361"
 msgid "Choose a slot to SAVE your game and press Enter"
-msgstr "Wybierz slot gdzie chcesz zapisać grę i naciśnij Enter."
+msgstr "Wybierz slot do ZAPISANIA gry i naciśnij Enter"
 
 msgctxt "txtall362"
 msgid "Choose a game to LOAD and press Enter"
-msgstr "Wybierz zapis który chcesz wczytać i naciśnij Enter."
+msgstr "Wybierz slot do WCZYTANIA gry i naciśnij Enter"
 
 msgctxt "txtall363"
 msgid "Choose a game to ERASE and press Enter"
-msgstr "Wybierz zapis który chcesz usunąć i naciśnij Enter."
+msgstr "Wybierz slot do USUNIĘCIA gry i naciśnij Enter"
 
 msgctxt "txtall364"
 msgid "Type a name for your game and press Enter"
@@ -42064,11 +42064,11 @@ msgstr "Wpisz nazwę gry i wciśnij Enter"
 
 msgctxt "txtall365"
 msgid "Your game was NOT saved!"
-msgstr "Nie zapisałeś gry!"
+msgstr "Gra NIE została zapisana!"
 
 msgctxt "txtall366"
 msgid "Could not load the saved game!"
-msgstr "Nie mogę wczytać postępów!"
+msgstr "Nie można wczytać postępów!"
 
 msgctxt "txtall367"
 msgid "There were no saved games found."
@@ -42080,39 +42080,39 @@ msgstr "Naciśnij Enter by kontynuować"
 
 msgctxt "txtall369"
 msgid "Disk full! Please erase saved games or otherwise create space on your hard drive."
-msgstr "Dysk pełny! Proszę wykasować zapisy gry lub w inny sposób stworzyć miejsce na dysku twardym"
+msgstr "Dysk pełny! Proszę wykasować zapisy gry lub w inny sposób stworzyć miejsce na dysku twardym."
 
 msgctxt "txtall370"
 msgid "Erasing a game cannot be undone."
-msgstr "Nie udało się usunąć gry"
+msgstr "Usunięcie gry jest nieodwracalne."
 
 msgctxt "txtall371"
 msgid "Are you sure you want to ERASE this saved game?"
-msgstr "Czy na pewno chcesz usunąć zapis?"
+msgstr "Czy na pewno chcesz USUNĄĆ zapis?"
 
 msgctxt "txtall372"
 msgid "&Erase"
-msgstr "Usuń"
+msgstr "&Usuń"
 
 msgctxt "txtall373"
 msgid "There is already a saved game in this slot."
-msgstr "Gra jest tu już zapisana."
+msgstr "W tym slocie graj jest już zapisana."
 
 msgctxt "txtall374"
 msgid "Are you sure you want to replace it?"
-msgstr "Zastąpić?"
+msgstr "Czy na pewno chcesz zastąpić?"
 
 msgctxt "txtall375"
 msgid "&Replace"
-msgstr "Zastap"
+msgstr "&Zastąp"
 
 msgctxt "txtall376"
 msgid "&Cancel"
-msgstr "Anuluj"
+msgstr "&Anuluj"
 
 msgctxt "txtall377"
 msgid "&OK"
-msgstr "OK"
+msgstr "&OK"
 
 msgctxt "txtall378"
 msgid "(Empty)"
@@ -42124,7 +42124,7 @@ msgstr "Gra zapisana"
 
 msgctxt "txtall380"
 msgid "&Return to main menu"
-msgstr "Wróc do menu"
+msgstr "&Wróć do menu"
 
 msgctxt "txtall381"
 msgid "Cutscenes"
@@ -42164,27 +42164,27 @@ msgstr "Naciśnij dowolny klawisz, aby powrócić."
 
 msgctxt "txtall390"
 msgid "Dialogue Transcript"
-msgstr "Zapis Dialogu"
+msgstr "Transkrypcja Dialogu"
 
 msgctxt "txtall391"
 msgid "Use the arrow keys to scroll.  Press Enter to continue."
-msgstr "Za pomocą myszy przewijaj. Enter by kontynuować."
+msgstr "Użyj strzałek, aby przewijać. Enter, by kontynuować."
 
 msgctxt "txtall392"
 msgid "Dialogue transcript file is invalid or could not be opened."
-msgstr "Plik zapisu dialogu jest uszkodzony lub nie może być otwarty."
+msgstr "Plik transkryptu dialogu jest uszkodzony lub nie może być otwarty."
 
 msgctxt "txtall393"
 msgid "The dialogue transcript is currently empty."
-msgstr "Zapis dialogu jest pusty."
+msgstr "Transkrypt dialogu jest pusty."
 
 msgctxt "txtall394"
 msgid "INT."
-msgstr ""
+msgstr "INT."
 
 msgctxt "txtall395"
 msgid "EXT."
-msgstr ""
+msgstr "EXT."
 
 msgctxt "txtall396"
 msgid "DAY"
@@ -42208,15 +42208,15 @@ msgstr "talerze"
 
 msgctxt "txtall401"
 msgid "small sea sponge"
-msgstr "gąbka(małą)"
+msgstr "mała morska gąbka"
 
 msgctxt "txtall402"
 msgid "medium sea sponge"
-msgstr "gąbka(średnią)"
+msgstr "średnia morska gąbka"
 
 msgctxt "txtall403"
 msgid "large sea sponge"
-msgstr "gąbka(dużą)"
+msgstr "duża morska gąbka"
 
 msgctxt "txtall404"
 msgid "prosthetic liver"
@@ -42232,7 +42232,7 @@ msgstr "proteza żołądka"
 
 msgctxt "txtall407"
 msgid "prosthetic guts"
-msgstr "proteza wnętrzności"
+msgstr "proteza flaków"
 
 msgctxt "txtall408"
 msgid "prosthetic heart"
@@ -42260,19 +42260,19 @@ msgstr "na:"
 
 msgctxt "txtall414"
 msgid "Timid Monkey"
-msgstr "Nieśmiałą Małpę"
+msgstr "Nieśmiała Małpa"
 
 msgctxt "txtall415"
 msgid "Smelly Monkey"
-msgstr "Śmierdzącą Małpę"
+msgstr "Śmierdząca Małpa"
 
 msgctxt "txtall416"
 msgid "Strapping Monkey"
-msgstr "Silną Małpę"
+msgstr "Postawna Małpa"
 
 msgctxt "txtall417"
 msgid "Brawny Monkey"
-msgstr "Krzepką Małpę"
+msgstr "Krzepka Małpa"
 
 msgctxt "txtall418"
 msgid "Jojo Jr."
@@ -42280,7 +42280,7 @@ msgstr "Jojo Junior"
 
 msgctxt "txtall419"
 msgid "Ozzie/LeChuck"
-msgstr ""
+msgstr "Ozzie/LeChuck"
 
 msgctxt "txtall420"
 msgid "pirate gaming card"
@@ -42300,7 +42300,7 @@ msgstr "obrzydliwość natury"
 
 msgctxt "txtall424"
 msgid "Three-Headed Monkey"
-msgstr "Trój-Głowa Małpa"
+msgstr "Trójgłowa Małpa"
 
 msgctxt "txtall425"
 msgid "Smell"
@@ -42308,7 +42308,7 @@ msgstr "Powąchaj:"
 
 msgctxt "txtall426"
 msgid "empty spritzer bottle"
-msgstr "pustego spryskiwacza"
+msgstr "pusty spryskiwacz"
 
 msgctxt "txtall427"
 msgid "home-made perfume"
@@ -42316,7 +42316,7 @@ msgstr "własnoręcznie robione perfumy"
 
 msgctxt "txtall428"
 msgid "Pegnose Pete scented perfume"
-msgstr "perfumy Pegonose'a Pete'a"
+msgstr "perfumy Pete'a Kołkonosego"
 
 msgctxt "txtban001"
 msgid "pull-chain"
@@ -42324,15 +42324,15 @@ msgstr "łańcuch"
 
 msgctxt "txtban002"
 msgid "light fixture"
-msgstr "lampke"
+msgstr "lampka"
 
 msgctxt "txtban003"
 msgid "Exit through"
-msgstr "Przejdź przez"
+msgstr "Wyjdź przez:"
 
 msgctxt "txtban004"
 msgid "flyer"
-msgstr "kartki"
+msgstr "ulotka"
 
 msgctxt "txtban005"
 msgid "calendar"
@@ -42340,15 +42340,15 @@ msgstr "kalendarz"
 
 msgctxt "txtban006"
 msgid "ledger"
-msgstr "księge główną"
+msgstr "księga główna"
 
 msgctxt "txtban007"
 msgid "bank magazines"
-msgstr "dyrektorem"
+msgstr "magazyny bankowe"
 
 msgctxt "txtban008"
 msgid "loan advertisement"
-msgstr "kredyt"
+msgstr "broszurki kredytowe"
 
 msgctxt "txtban009"
 msgid "ship-in-a-bottle"
@@ -42356,15 +42356,15 @@ msgstr "statek w butelce"
 
 msgctxt "txtban010"
 msgid "repossessed barrels"
-msgstr "dużą beczkę"
+msgstr "beczki z odzysku"
 
 msgctxt "txtban011"
 msgid "repossessed dresser"
-msgstr "dużą komodę"
+msgstr "kredens z odzysku"
 
 msgctxt "txtban012"
 msgid "itty bitty treasure chests"
-msgstr "mały skarbik"
+msgstr "malusieńki skarb"
 
 msgctxt "txtban013"
 msgid "bank vault"
@@ -42376,11 +42376,11 @@ msgstr "Kilka godzin później..."
 
 msgctxt "txtban015"
 msgid "Look at"
-msgstr "Przyjrzyj sie"
+msgstr "Przyjrzyj się:"
 
 msgctxt "txtban016"
 msgid "Brittany"
-msgstr ""
+msgstr "Brittany"
 
 msgctxt "txtban017"
 msgid "funny shadow"
@@ -42388,15 +42388,15 @@ msgstr "śmieszny cień"
 
 msgctxt "txtbas001"
 msgid "Sir Dean"
-msgstr ""
+msgstr "Sir Dean"
 
 msgctxt "txtbas002"
 msgid "Salty Old Cur"
-msgstr "starym sprzedawcą"
+msgstr "Stary Łachudra"
 
 msgctxt "txtbas003"
 msgid "free bait"
-msgstr "darmową przynęte"
+msgstr "darmowa przynęta"
 
 msgctxt "txtbas004"
 msgid "termite circus"
@@ -42404,15 +42404,15 @@ msgstr "cyrk termitów"
 
 msgctxt "txtbas005"
 msgid "Watch"
-msgstr "Zbadaj"
+msgstr "Oglądaj:"
 
 msgctxt "txtbas006"
 msgid "cutting board"
-msgstr "desce do krojenia"
+msgstr "deska do krojenia"
 
 msgctxt "txtbas007"
 msgid "barrels of bait"
-msgstr "beczkę z przynętami"
+msgstr "beczki przynęt"
 
 msgctxt "txtbas008"
 msgid "caviar"
@@ -42420,7 +42420,7 @@ msgstr "kawior"
 
 msgctxt "txtbas009"
 msgid "shelves of fishing supplies"
-msgstr "półkę z rybami"
+msgstr "półka z rybimi zasobami"
 
 msgctxt "txtbas010"
 msgid "shark jaws"
@@ -42432,31 +42432,31 @@ msgstr "wędki"
 
 msgctxt "txtbas012"
 msgid "giant fishing hooks"
-msgstr "wielki dziobak gigant ryby"
+msgstr "wielkie haki"
 
 msgctxt "txtbas013"
 msgid "Take"
-msgstr "Wez"
+msgstr "Weź:"
 
 msgctxt "txtbas014"
 msgid "fish heads"
-msgstr "głowę ryby"
+msgstr "głowy ryb"
 
 msgctxt "txtbas015"
 msgid "Eat up"
-msgstr "Jedz"
+msgstr "Jedz:"
 
 msgctxt "txtcan001"
 msgid "nifty rock formation"
-msgstr "ładne formacje skalne"
+msgstr "ładna formacja skalne"
 
 msgctxt "txtcan002"
 msgid "overturned cart"
-msgstr "uchylony koszyk"
+msgstr "wywrócony wózek"
 
 msgctxt "txtcan003"
 msgid "rockbeds"
-msgstr "skały"
+msgstr "podłoża skalne"
 
 msgctxt "txtcan004"
 msgid "Big boulder"
@@ -42464,11 +42464,11 @@ msgstr "wielki głaz"
 
 msgctxt "txtcan005"
 msgid "mine shaft"
-msgstr "szybu kopalni"
+msgstr "szyb kopalni"
 
 msgctxt "txtcan006"
 msgid "Enter"
-msgstr "Wejście do:"
+msgstr "Wejdź:"
 
 msgctxt "txtcan007"
 msgid "Monkey Island™"
@@ -42476,11 +42476,11 @@ msgstr "Wyspa Małp"
 
 msgctxt "txtcan008"
 msgid "Go back to"
-msgstr "Powróć do"
+msgstr "Powróć do:"
 
 msgctxt "txtcgs001"
 msgid "Admiral Casaba"
-msgstr "Admirałem Casaba"
+msgstr "Admirał Casaba"
 
 msgctxt "txtcgs002"
 msgid "cannons"
@@ -42496,19 +42496,19 @@ msgstr "statek"
 
 msgctxt "txtcgs005"
 msgid "Knuttin Atoll"
-msgstr "Atol Knutyński"
+msgstr "Atol Nicanic"
 
 msgctxt "txtcgs006"
 msgid "Return to"
-msgstr "Powrót do"
+msgstr "Powróć do:"
 
 msgctxt "txtcgs007"
 msgid "Jambalaya"
-msgstr ""
+msgstr "Jambalaya"
 
 msgctxt "txtcol001"
 msgid "ghost priest"
-msgstr "księdzem duchem"
+msgstr "ksiądz duch"
 
 msgctxt "txtcol002"
 msgid "pews"
@@ -42516,7 +42516,7 @@ msgstr "ławki"
 
 msgctxt "txtcol003"
 msgid "podium"
-msgstr ""
+msgstr "podium"
 
 msgctxt "txtcol004"
 msgid "lava boat"
@@ -42532,7 +42532,7 @@ msgstr "witraż"
 
 msgctxt "txtcol007"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtcol008"
 msgid "lava"
@@ -42544,15 +42544,15 @@ msgstr "szczęki rekina"
 
 msgctxt "txtcpt002"
 msgid "anchor"
-msgstr "kotwicę"
+msgstr "kotwica"
 
 msgctxt "txtcpt003"
 msgid "half buried old rowboat"
-msgstr "połowę łodzi wiosłowej"
+msgstr "na wpół zakopana stara łódź"
 
 msgctxt "txtcpt004"
 msgid "steering wheel"
-msgstr "kierownice"
+msgstr "kierownica"
 
 msgctxt "txtcpt005"
 msgid "signpost"
@@ -42560,15 +42560,15 @@ msgstr "drogowskaz"
 
 msgctxt "txtcpt006"
 msgid "skull"
-msgstr "czaszke"
+msgstr "czaszka"
 
 msgctxt "txtcpt007"
 msgid "life preserver"
-msgstr "kolo ratunkowe"
+msgstr "koło ratunkowe"
 
 msgctxt "txtcpt008"
 msgid "rowboat"
-msgstr "łódkę"
+msgstr "łódka"
 
 msgctxt "txtcpt009"
 msgid "fire alarm"
@@ -42596,11 +42596,11 @@ msgstr "Mały Guybrush"
 
 msgctxt "txtcpt015"
 msgid "Hellbeard"
-msgstr "Czartobrodym"
+msgstr "Czartobrody"
 
 msgctxt "txtcpt016"
 msgid "nice teacher-lady"
-msgstr "miłą nauczycielką"
+msgstr "miła nauczycielka"
 
 msgctxt "txtcpt017"
 msgid "beach"
@@ -42608,15 +42608,15 @@ msgstr "plaża"
 
 msgctxt "txtcpt018"
 msgid "Go to"
-msgstr "Przejdź przez:"
+msgstr "Idź do:"
 
 msgctxt "txtcpt019"
 msgid "Pirate Transmogrification Academy"
-msgstr "Centrum Dobrego Pirata"
+msgstr "Piracka Akademia Przeobrażenia"
 
 msgctxt "txtcpt020"
 msgid "Enter"
-msgstr "Wejście do:"
+msgstr "Wejdź:"
 
 msgctxt "txtcpt021"
 msgid "Walk to"
@@ -42624,23 +42624,23 @@ msgstr "Idź do:"
 
 msgctxt "txtfor001"
 msgid "more forest"
-msgstr "busz"
+msgstr "większy las"
 
 msgctxt "txtfor002"
 msgid "Go over"
-msgstr "Przeciśnij się przez:"
+msgstr "Przejdź przez:"
 
 msgctxt "txtgme001"
 msgid "Boulder Flight Technician"
-msgstr ""
+msgstr "Technik Lotów Skał"
 
 msgctxt "txtgme002"
 msgid "Tony DiBoulda"
-msgstr ""
+msgstr "Tony DiSkała"
 
 msgctxt "txtgme003"
 msgid "funny-looking cactus with inner tube"
-msgstr "dziwny kaktus z dętką"
+msgstr "śmieszny kaktus z dętką"
 
 msgctxt "txtgme004"
 msgid "fearsome catapult"
@@ -42648,7 +42648,7 @@ msgstr "przerażająca katapulta"
 
 msgctxt "txtgme005"
 msgid "catapult controls"
-msgstr "katapulta"
+msgstr "sterowanie katapultą"
 
 msgctxt "txtgme006"
 msgid "Tinker with"
@@ -42676,15 +42676,15 @@ msgstr "żywopłot w kształcie papugi"
 
 msgctxt "txtgme012"
 msgid "monkey-shaped bush"
-msgstr "żywopłot w kształcie malpy"
+msgstr "żywopłot w kształcie małpy"
 
 msgctxt "txtgme013"
 msgid "cliff"
-msgstr "z urwiska"
+msgstr "urwisko"
 
 msgctxt "txtgme014"
 msgid "Jump off"
-msgstr "Skocz:"
+msgstr "Skocz z:"
 
 msgctxt "txtgme015"
 msgid "cow-shaped bush"
@@ -42696,11 +42696,11 @@ msgstr "kaktus"
 
 msgctxt "txtgme017"
 msgid "funny-looking cactus"
-msgstr "zabawnie wyglądający kaktus"
+msgstr "śmieszny kaktus"
 
 msgctxt "txtgme018"
 msgid "put"
-msgstr "Włóż"
+msgstr "Nałóż:"
 
 msgctxt "txtgme019"
 msgid "on"
@@ -42720,7 +42720,7 @@ msgstr "Idź do:"
 
 msgctxt "txtgmi001"
 msgid "Elaine"
-msgstr ""
+msgstr "Elaine"
 
 msgctxt "txtgmi002"
 msgid "signed cushy government job contract"
@@ -42732,15 +42732,15 @@ msgstr "podpisana umowa o pracę w urzędzie"
 
 msgctxt "txtgmi004"
 msgid "coat closet"
-msgstr "szafe"
+msgstr "szafa na ubrania"
 
 msgctxt "txtgmi005"
 msgid "stately portrait"
-msgstr "ladny obraz"
+msgstr "okazały porter"
 
 msgctxt "txtgmi006"
 msgid "portrait of Elaine"
-msgstr "portet Elaine"
+msgstr "portret Elaine"
 
 msgctxt "txtgmi007"
 msgid "family portrait"
@@ -42748,23 +42748,23 @@ msgstr "rodzinny portret"
 
 msgctxt "txtgmi008"
 msgid "sofa"
-msgstr "kanapie"
+msgstr "sofa"
 
 msgctxt "txtgmi009"
 msgid "Sit on"
-msgstr "Usiądź na"
+msgstr "Usiądź na:"
 
 msgctxt "txtgmi010"
 msgid "plant"
-msgstr "roslinke"
+msgstr "roślina"
 
 msgctxt "txtgmi011"
 msgid "chess set"
-msgstr "gre w szachy"
+msgstr "szachy"
 
 msgctxt "txtgmi012"
 msgid "Play"
-msgstr "Graj"
+msgstr "Graj w:"
 
 msgctxt "txtgmi013"
 msgid "family banner"
@@ -42772,35 +42772,35 @@ msgstr "plakat rodziny"
 
 msgctxt "txtgmi014"
 msgid "grandfather clock"
-msgstr "zegar"
+msgstr "zegar dziadka"
 
 msgctxt "txtgmi015"
 msgid "trinket-covered commode"
-msgstr "skrzynie pelna smieci"
+msgstr "komoda z bibelotami"
 
 msgctxt "txtgmi016"
 msgid "fine china"
-msgstr "szlachetna porcelane"
+msgstr "szlachetna porcelana"
 
 msgctxt "txtgmi017"
 msgid "Get"
-msgstr "Wez"
+msgstr "Weź:"
 
 msgctxt "txtgmi018"
 msgid "not-so-fine china"
-msgstr "mniej szlachetna porcelane"
+msgstr "mniej szlachetna porcelana"
 
 msgctxt "txtgmi019"
 msgid "bedroom door"
-msgstr "dzrzwi od sypialni"
+msgstr "drzwi sypialni"
 
 msgctxt "txtgmi020"
 msgid "lamp"
-msgstr "lampe"
+msgstr "lampa"
 
 msgctxt "txtgmi021"
 msgid "kitchen door"
-msgstr "drzwi od kuchni"
+msgstr "drzwi do kuchni"
 
 msgctxt "txtgom001"
 msgid "big metal door"
@@ -42816,11 +42816,11 @@ msgstr "dźwignia"
 
 msgctxt "txtgom004"
 msgid "barrel"
-msgstr "beczkę"
+msgstr "beczka"
 
 msgctxt "txtgom005"
 msgid "portal"
-msgstr ""
+msgstr "portal"
 
 msgctxt "txtgom006"
 msgid "sacks of gunpowder"
@@ -42828,7 +42828,7 @@ msgstr "worki z prochem"
 
 msgctxt "txtgom007"
 msgid "lever"
-msgstr "dźwignię"
+msgstr "dźwignia"
 
 msgctxt "txtgom008"
 msgid "bucket"
@@ -42840,7 +42840,7 @@ msgstr "zabite deskami przejście"
 
 msgctxt "txtgom010"
 msgid "pouch"
-msgstr "woreczek"
+msgstr "sakiewka"
 
 msgctxt "txtgom011"
 msgid "mine car"
@@ -42848,7 +42848,7 @@ msgstr "wózek"
 
 msgctxt "txtgom012"
 msgid "Ride"
-msgstr "Jedź"
+msgstr "Jedź:"
 
 msgctxt "txtgom013"
 msgid "roots"
@@ -42860,7 +42860,7 @@ msgstr "kanion"
 
 msgctxt "txtgom015"
 msgid "Exit to"
-msgstr "Wyjdź z"
+msgstr "Wyjdź z:"
 
 msgctxt "txtgom016"
 msgid "tube"
@@ -42868,7 +42868,7 @@ msgstr "rura"
 
 msgctxt "txtgom017"
 msgid "Enter"
-msgstr "Wejście do:"
+msgstr "Wejdź:"
 
 msgctxt "txtgom018"
 msgid "Wave"
@@ -42888,39 +42888,39 @@ msgstr "przez"
 
 msgctxt "txtgpt001"
 msgid "Mister Cheese"
-msgstr "Panem Serem"
+msgstr "Pan Ser"
 
 msgctxt "txtgpt002"
 msgid "tourist"
-msgstr "turystą"
+msgstr "turysta"
 
 msgctxt "txtgpt003"
 msgid "rowboat"
-msgstr "łódkę"
+msgstr "łódka"
 
 msgctxt "txtgpt004"
 msgid "Murray"
-msgstr "Murrayem"
+msgstr "Murray"
 
 msgctxt "txtgpt005"
 msgid "Tiny LaFeet statue"
-msgstr "statue Tiniego LaFeet"
+msgstr "statua Tiniego LaFeet"
 
 msgctxt "txtgpt006"
 msgid "statue"
-msgstr ""
+msgstr "statua"
 
 msgctxt "txtgpt007"
 msgid "plaque"
-msgstr "płyte"
+msgstr "płytka"
 
 msgctxt "txtgpt008"
 msgid "lamp"
-msgstr "lampe"
+msgstr "lampa"
 
 msgctxt "txtgpt009"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtgpt010"
 msgid "canoe"
@@ -42928,19 +42928,19 @@ msgstr "kajak"
 
 msgctxt "txtgpt011"
 msgid "welcome sign"
-msgstr "napis powitawczy"
+msgstr "napis powitalny"
 
 msgctxt "txtgpt012"
 msgid "rental canoes"
-msgstr "wynajem kajaków"
+msgstr "kajaki na wynajem"
 
 msgctxt "txtgpt013"
 msgid "ships"
-msgstr "statek"
+msgstr "statki"
 
 msgctxt "txtgpt014"
 msgid "volleyball net"
-msgstr "boisko do siatkówki"
+msgstr "siatka"
 
 msgctxt "txtgpt015"
 msgid "StarBuccaneer's™ sign"
@@ -42948,19 +42948,19 @@ msgstr "szyld Starbuccaneera"
 
 msgctxt "txtgpt016"
 msgid "Micro-Groggery sign"
-msgstr "napis Mikrogroggerii"
+msgstr "szyld Mikrogroggerii"
 
 msgctxt "txtgpt017"
 msgid "window sill flowers"
-msgstr "kwiatka na parapecie"
+msgstr "kwiaty na parapecie"
 
 msgctxt "txtgpt018"
 msgid "empty building"
-msgstr "puste budynki"
+msgstr "pusty budynek"
 
 msgctxt "txtgpt019"
 msgid "barrel of coupons"
-msgstr "beczkę z kuponami"
+msgstr "beczka z kuponami"
 
 msgctxt "txtgpt020"
 msgid "Jambalaya Island™"
@@ -42968,7 +42968,7 @@ msgstr "Wyspa Jambalaya"
 
 msgctxt "txthei001"
 msgid "slot"
-msgstr ""
+msgstr "slot"
 
 msgctxt "txthei002"
 msgid "ship's wheel"
@@ -42976,7 +42976,7 @@ msgstr "kierownica"
 
 msgctxt "txthei003"
 msgid "levers"
-msgstr "dźwignie"
+msgstr "dźwignia"
 
 msgctxt "txthei004"
 msgid "gauges"
@@ -42984,7 +42984,7 @@ msgstr "wskaźniki"
 
 msgctxt "txthei005"
 msgid "portal"
-msgstr ""
+msgstr "portal"
 
 msgctxt "txthei006"
 msgid "valve system"
@@ -43008,35 +43008,35 @@ msgstr "krzesło bananowe"
 
 msgctxt "txthei011"
 msgid "armrest control panel"
-msgstr "panel sterowania"
+msgstr "panel sterowania podłokietnikiem"
 
 msgctxt "txthei012"
 msgid "ladder"
-msgstr "drabine"
+msgstr "drabina"
 
 msgctxt "txthei013"
 msgid "prominent slot"
-msgstr "widoczny slot"
+msgstr "wyróżniający się wlot"
 
 msgctxt "txthoj001"
 msgid "Pegnose"
-msgstr "Pegnosem"
+msgstr "Kołkonos"
 
 msgctxt "txthoj002"
 msgid "Otis"
-msgstr "Otisem"
+msgstr "Otis"
 
 msgctxt "txthoj003"
 msgid "Inspector Canard"
-msgstr "Inspektorem Canardem"
+msgstr "Inspektor Canard"
 
 msgctxt "txthoj004"
 msgid "iron maiden"
-msgstr "maszyne tortur"
+msgstr "żelazna dziewica"
 
 msgctxt "txthoj005"
 msgid "picture"
-msgstr "otwór"
+msgstr "obraz"
 
 msgctxt "txthoj006"
 msgid "hook"
@@ -43044,11 +43044,11 @@ msgstr "hak"
 
 msgctxt "txthoj007"
 msgid "implements of torture"
-msgstr "narzędzie tortur"
+msgstr "narzędzia tortur"
 
 msgctxt "txthoj008"
 msgid "crawdaddy trap"
-msgstr "pułapke"
+msgstr "pułapka na raki"
 
 msgctxt "txthos001"
 msgid "Sale sign"
@@ -43056,15 +43056,15 @@ msgstr "znak \"Na sprzedaż\""
 
 msgctxt "txthos002"
 msgid "Look At"
-msgstr "Wypróbuj"
+msgstr "Spójrz na:"
 
 msgctxt "txthos003"
 msgid "irregular sticks"
-msgstr "kolejne piętro"
+msgstr "nieregularne drążki"
 
 msgctxt "txthos004"
 msgid "'Choosing the Right Stick' sign"
-msgstr "znak \" Wybróbuj nowe laski\""
+msgstr "znak \"Wybierz Dobrą Laskę\""
 
 msgctxt "txthos005"
 msgid "sticks"
@@ -43072,7 +43072,7 @@ msgstr "laski"
 
 msgctxt "txthos006"
 msgid "assorted sticks"
-msgstr "inną litere"
+msgstr "różne patyczki"
 
 msgctxt "txthos007"
 msgid "bell"
@@ -43080,7 +43080,7 @@ msgstr "dzwonek"
 
 msgctxt "txthos008"
 msgid "Ring"
-msgstr "Naciśnij"
+msgstr "Naciśnij:"
 
 msgctxt "txthos009"
 msgid "abacus"
@@ -43088,15 +43088,15 @@ msgstr "liczydło"
 
 msgctxt "txthos010"
 msgid "stick maker"
-msgstr "ze starym sprzedawcą"
+msgstr "sprzedawca lasek"
 
 msgctxt "txthos011"
 msgid "Freddie"
-msgstr "Freddiem"
+msgstr "Freddie"
 
 msgctxt "txthos012"
 msgid "Mister Mandrill's Cane"
-msgstr "laske Pana Mandrilla"
+msgstr "laska Pana Mandrilla"
 
 msgctxt "txthos013"
 msgid "Door"
@@ -43104,15 +43104,15 @@ msgstr "drzwi"
 
 msgctxt "txtjam001"
 msgid "pirate shanty town"
-msgstr "pirackiej wyspepki"
+msgstr "pirackie miasto szant"
 
 msgctxt "txtjam002"
 msgid "Row to"
-msgstr "Przycumuj na"
+msgstr "Przycumuj do:"
 
 msgctxt "txtjam003"
 msgid "rocky beach"
-msgstr "plaży"
+msgstr "skalna plaża"
 
 msgctxt "txtjam004"
 msgid "ship"
@@ -43128,11 +43128,11 @@ msgstr "Wakacje ze Stanem"
 
 msgctxt "txtjam007"
 msgid "Big tall rock"
-msgstr "ogromny kamień"
+msgstr "wielka wysoka skała"
 
 msgctxt "txtjam008"
 msgid "tall rock"
-msgstr "duży głaz"
+msgstr "wysoka skała"
 
 msgctxt "txtjam009"
 msgid "Casaba's ship"
@@ -43140,11 +43140,11 @@ msgstr "statek Casaby"
 
 msgctxt "txtjam010"
 msgid "plank diving competition"
-msgstr "ośrodek zawodów skoku do wody"
+msgstr "zawody w skoku do wody"
 
 msgctxt "txtjam011"
 msgid "gaudy house"
-msgstr "ponury dom"
+msgstr "jaskrawy dom"
 
 msgctxt "txtjun001"
 msgid "Monkey Island™"
@@ -43152,7 +43152,7 @@ msgstr "Wyspa Małp"
 
 msgctxt "txtjun002"
 msgid "Go back to"
-msgstr "Powróć do"
+msgstr "Powróć do:"
 
 msgctxt "txtjun003"
 msgid "Monkey Island™"
@@ -43160,11 +43160,11 @@ msgstr "Wyspa Małp"
 
 msgctxt "txtkab001"
 msgid "metabolically-challenged pirate"
-msgstr "metabolicznym piratem"
+msgstr "pirat z zaburzeniami metabolicznymi"
 
 msgctxt "txtkab002"
 msgid "parrot"
-msgstr "papugą"
+msgstr "papuga"
 
 msgctxt "txtkab003"
 msgid "big boulder"
@@ -43176,7 +43176,7 @@ msgstr "północ"
 
 msgctxt "txtkab005"
 msgid "Walk"
-msgstr "Idź na"
+msgstr "Idź na:"
 
 msgctxt "txtkab006"
 msgid "west"
@@ -43188,15 +43188,15 @@ msgstr "wschód"
 
 msgctxt "txtkab008"
 msgid "crummy pirate village"
-msgstr "nędzną wioskę piratów"
+msgstr "nędzna wioska piratów"
 
 msgctxt "txtkab009"
 msgid "Go back to"
-msgstr "Powróć do"
+msgstr "Powróć do:"
 
 msgctxt "txtkab010"
 msgid "crummy pirate hamlet"
-msgstr "nędzną piracką osadę"
+msgstr "nędzna piracka osada"
 
 msgctxt "txtkab011"
 msgid "south"
@@ -43208,11 +43208,11 @@ msgstr "powrót"
 
 msgctxt "txtkab013"
 msgid "parrot on the left"
-msgstr "papugą po lewej"
+msgstr "papuga po lewej"
 
 msgctxt "txtkab014"
 msgid "parrot on the right"
-msgstr "papugą po prawej"
+msgstr "papuga po prawej"
 
 msgctxt "txtkab015"
 msgid "campfire"
@@ -43220,11 +43220,11 @@ msgstr "ognisko"
 
 msgctxt "txtkab016"
 msgid "cannon ball"
-msgstr "kulę armatnią"
+msgstr "kula armatnia"
 
 msgctxt "txtkit001"
 msgid "Rat"
-msgstr "szczura"
+msgstr "szczur"
 
 msgctxt "txtkit002"
 msgid "Pineapple"
@@ -43236,7 +43236,7 @@ msgstr "sushi kanał"
 
 msgctxt "txtkit004"
 msgid "Fish"
-msgstr "rybe"
+msgstr "ryba"
 
 msgctxt "txtkit005"
 msgid "picture of the Eiffel Tower"
@@ -43244,19 +43244,19 @@ msgstr "obraz z Wieżą Eiffela"
 
 msgctxt "txtkit006"
 msgid "Knife Set"
-msgstr "nóż"
+msgstr "zestaw noży"
 
 msgctxt "txtkit007"
 msgid "Admire"
-msgstr "Podziwiaj"
+msgstr "Podziwiaj:"
 
 msgctxt "txtkit008"
 msgid "Pot o Fishy Soup"
-msgstr "zupe rybną"
+msgstr "garnek zupy rybnej"
 
 msgctxt "txtkit009"
 msgid "Sniff"
-msgstr "Powąchaj"
+msgstr "Powąchaj:"
 
 msgctxt "txtkit010"
 msgid "sushi recipe"
@@ -43264,15 +43264,15 @@ msgstr "przepis na sushi"
 
 msgctxt "txtkit011"
 msgid "sushi boat steam generator"
-msgstr "generator kanału transportowego"
+msgstr "generator pary do łódek z sushi"
 
 msgctxt "txtkit012"
 msgid "Stove"
-msgstr "piec"
+msgstr "Piecz:"
 
 msgctxt "txtkit013"
 msgid "brass mechanical monkey"
-msgstr "małpe"
+msgstr "mosiężna mechaniczna małpa"
 
 msgctxt "txtkit014"
 msgid "flour sack"
@@ -43284,19 +43284,19 @@ msgstr "Skocz do:"
 
 msgctxt "txtlag002"
 msgid "shallow water"
-msgstr "płytką wodę"
+msgstr "płytka woda"
 
 msgctxt "txtlag003"
 msgid "not so shallow water"
-msgstr "trochę głębszą wode"
+msgstr "nie tak płytka woda"
 
 msgctxt "txtlag004"
 msgid "deep water"
-msgstr "głęboką wode"
+msgstr "głęboka woda"
 
 msgctxt "txtlag005"
 msgid "trees"
-msgstr "drzewo"
+msgstr "drzewa"
 
 msgctxt "txtlag006"
 msgid "Lucre Island™"
@@ -43304,23 +43304,23 @@ msgstr "Wyspa Mamony"
 
 msgctxt "txtlag007"
 msgid "Go back to"
-msgstr "Powróć do"
+msgstr "Powróć do:"
 
 msgctxt "txtlag008"
 msgid "hidden passage"
-msgstr "ukrytym korytarzem"
+msgstr "ukryte przejście"
 
 msgctxt "txtlag009"
 msgid "Climb down"
-msgstr "Zejdź"
+msgstr "Zejdź z:"
 
 msgctxt "txtlav001"
 msgid "path to jungle"
-msgstr "ścieżkę do dżungli"
+msgstr "ścieżka do dżungli"
 
 msgctxt "txtlav002"
 msgid "lone palm tree"
-msgstr "samotną palmę"
+msgstr "samotna palma"
 
 msgctxt "txtlav003"
 msgid "bridge"
@@ -43340,7 +43340,7 @@ msgstr "wielki głaz"
 
 msgctxt "txtlav007"
 msgid "cathedral"
-msgstr "katedrę"
+msgstr "katedra"
 
 msgctxt "txtlav008"
 msgid "Monkey Island™"
@@ -43352,127 +43352,127 @@ msgstr "lawa"
 
 msgctxt "txtlaw001"
 msgid "small barrel"
-msgstr "małą beczkę"
+msgstr "mała beczka"
 
 msgctxt "txtlaw002"
 msgid "name tag"
-msgstr "imię"
+msgstr "etykieta imienia"
 
 msgctxt "txtlaw003"
 msgid "Read"
-msgstr "Przeczytaj"
+msgstr "Przeczytaj:"
 
 msgctxt "txtlaw004"
 msgid "book"
-msgstr "książkę"
+msgstr "książka"
 
 msgctxt "txtlaw005"
 msgid "lawyers"
-msgstr "prawnikiem"
+msgstr "prawnicy"
 
 msgctxt "txtlaw005D"
 msgid "prawnikami"
-msgstr ""
+msgstr "prawnikami"
 
 msgctxt "txtlua001"
 msgid "waitress"
-msgstr "kelnerką"
+msgstr "kelnerka"
 
 msgctxt "txtlua002"
 msgid "patron"
-msgstr "klientem"
+msgstr "klient"
 
 msgctxt "txtlua003"
 msgid "customer"
-msgstr "klientem"
+msgstr "klient"
 
 msgctxt "txtlua004"
 msgid "decorative art"
-msgstr "sztukę nowoczesną"
+msgstr "sztuka nowoczesna"
 
 msgctxt "txtlua005"
 msgid "strange tropical beverage"
-msgstr "dziwny drink tropikalny"
+msgstr "dziwny tropikalny drink"
 
 msgctxt "txtlua006"
 msgid "strange tropical beverages"
-msgstr "dziwne drniki tropikalne"
+msgstr "dziwne tropikalne drinki"
 
 msgctxt "txtlua007"
 msgid "square tray"
-msgstr "tace"
+msgstr "kwadratowa taca"
 
 msgctxt "txtlua008"
 msgid "Jam"
-msgstr "Wbij"
+msgstr "Wbij:"
 
 msgctxt "txtlua009"
 msgid "bar stool"
-msgstr "stołek"
+msgstr "stołek barowy"
 
 msgctxt "txtlua010"
 msgid "Get off"
-msgstr "Wstań ze"
+msgstr "Wstań ze:"
 
 msgctxt "txtlua011"
 msgid "Sit on"
-msgstr "Usiądź na"
+msgstr "Usiądź na:"
 
 msgctxt "txtlua012"
 msgid "stuffed pig"
-msgstr "nadziewaną wieprzowine"
+msgstr "wypchana świnia"
 
 msgctxt "txtlua013"
 msgid "sushi boat canal"
-msgstr "kanał łudkowy z sushi"
+msgstr "kanał łódek z sushi"
 
 msgctxt "txtlua014"
 msgid "sushi boat propulsion mechanism"
-msgstr "machinę rozpędzającą kanał"
+msgstr "mechanizm napędowy łódek z sushi"
 
 msgctxt "txtluc001"
 msgid "fountain"
-msgstr "fontanne"
+msgstr "fontanna"
 
 msgctxt "txtluc001"
 msgid "fountain"
-msgstr "fontanne"
+msgstr "fontanna"
 
 msgctxt "txtluc002"
 msgid "manhole"
-msgstr "właz kanalizacyjny"
+msgstr "studzienka"
 
 msgctxt "txtluc003"
 msgid "manhole with prosthetic skin stretched over it"
-msgstr "właz z założoną skórą zwierzęcą"
+msgstr "właz studzienki z naciągniętą protezą skóry"
 
 msgctxt "txtluc004"
 msgid "uncovered manhole"
-msgstr "otwarty właz"
+msgstr "odkryta studzienka"
 
 msgctxt "txtluc005"
 msgid "Dainty Lady"
-msgstr "Filigranową Damę"
+msgstr "Drobna Dama"
 
 msgctxt "txtluc006"
 msgid "pink essence"
-msgstr "różową esencję"
+msgstr "różowa esencja"
 
 msgctxt "txtluc007"
 msgid "blue essence"
-msgstr "niebieską esencję"
+msgstr "niebieska esencja"
 
 msgctxt "txtluc008"
 msgid "rainbow colored essence"
-msgstr "esencję w kolorze tęczy"
+msgstr "esencja w kolorze tęczy"
 
 msgctxt "txtluc009"
 msgid "swirly striped essence"
-msgstr "esencję w wirowane paski"
+msgstr "esencja w wirujące paski"
 
 msgctxt "txtluc010"
 msgid "Patio"
-msgstr "taras"
+msgstr "patio"
 
 msgctxt "txtluc011"
 msgid "tent"
@@ -43480,7 +43480,7 @@ msgstr "namiot"
 
 msgctxt "txtluc012"
 msgid "penny"
-msgstr "monete"
+msgstr "moneta"
 
 msgctxt "txtluc013"
 msgid "Pier"
@@ -43500,35 +43500,35 @@ msgstr "okno banku"
 
 msgctxt "txtluc017"
 msgid "laundry"
-msgstr "pralnie"
+msgstr "pralnia"
 
 msgctxt "txtluc018"
 msgid "park"
-msgstr ""
+msgstr "park"
 
 msgctxt "txtluc019"
 msgid "buckets of rotting fish"
-msgstr "zgniłe rybki"
+msgstr "wiadro zgniłych ryb"
 
 msgctxt "txtluc020"
 msgid "bench"
-msgstr "ławce"
+msgstr "ławka"
 
 msgctxt "txtluc021"
 msgid "Sit on"
-msgstr "Usiądź na"
+msgstr "Usiądź na:"
 
 msgctxt "txtluc022"
 msgid "life preservers"
-msgstr "kolo ratunkowe"
+msgstr "koło ratunkowe"
 
 msgctxt "txtluc023"
 msgid "blue boat"
-msgstr "niebieską łódź"
+msgstr "niebieska łódź"
 
 msgctxt "txtluc024"
 msgid "port authority building"
-msgstr "administracje portu"
+msgstr "budynek władz portu"
 
 msgctxt "txtluc025"
 msgid "norse ship"
@@ -43536,7 +43536,7 @@ msgstr "łódź wikingów"
 
 msgctxt "txtluc026"
 msgid "ship parts store"
-msgstr "skup części zamiennych"
+msgstr "sklep z częściami do statków"
 
 msgctxt "txtluc027"
 msgid "weird house"
@@ -43552,11 +43552,11 @@ msgstr "okno w celi"
 
 msgctxt "txtluc030"
 msgid "pile of spritzers"
-msgstr "spryskiwacze"
+msgstr "stos spryskiwaczy"
 
 msgctxt "txtluc031"
 msgid "portly pirate chess player"
-msgstr "dobrze zbudowanym graczem w szachy"
+msgstr "tęgi gracz w szachy"
 
 msgctxt "txtluc032"
 msgid "Talk to"
@@ -43564,123 +43564,123 @@ msgstr "Rozmawiaj z:"
 
 msgctxt "txtluc033"
 msgid "skinny pirate chess player"
-msgstr "chudym graczem w szachy"
+msgstr "chudy gracz w szachy"
 
 msgctxt "txtluc034"
 msgid "annoying perfume pusher"
-msgstr "nieznanym facetem od perfum"
+msgstr "irytujący podsuwacz perfum"
 
 msgctxt "txtluc035"
 msgid "I. Cheese"
-msgstr "I. Serem"
+msgstr "I. Ser"
 
 msgctxt "txtluc036"
 msgid "Carla"
-msgstr "Carlą"
+msgstr "Carla"
 
 msgctxt "txtluc037"
 msgid "Inspector Canard"
-msgstr "Inspektorem Canardem"
+msgstr "Inspektor Canard"
 
 msgctxt "txtluc038"
 msgid "bank manager"
-msgstr "dyrektorem banku"
+msgstr "menadżer banku"
 
 msgctxt "txtluc039"
 msgid "Lucre Town"
-msgstr "Mamonę"
+msgstr "Mamona"
 
 msgctxt "txtluc040"
 msgid "Leave"
-msgstr "Opuść"
+msgstr "Opuść:"
 
 msgctxt "txtluc041"
 msgid "House o' Sticks"
-msgstr "domu z laskami"
+msgstr "Dom Lasek"
 
 msgctxt "txtluc042"
 msgid "bait shoppe"
-msgstr "sklepu z przynętami"
+msgstr "sklep z przynętami"
 
 msgctxt "txtluc043"
 msgid "Lucre Bank"
-msgstr "Lucre Banku"
+msgstr "Bank Mamony"
 
 msgctxt "txtluc044"
 msgid "law offices"
-msgstr "kancelarii prawniczej"
+msgstr "kancelaria prawnicza"
 
 msgctxt "txtluc045"
 msgid "Palace o' Prostheses"
-msgstr "pałacu protez"
+msgstr "Pałac Protez"
 
 msgctxt "txtluc046"
 msgid "hall o' justice"
-msgstr "sali sądowej"
+msgstr "sala sprawiedliwości"
 
 msgctxt "txtluc047"
 msgid "stinky pirate"
-msgstr "śmierdzącym piratem"
+msgstr "śmierdzący pirat"
 
 msgctxt "txtluc048"
 msgid "portly pirate chess player"
-msgstr "dobrze zbudowanym graczem w szachy"
+msgstr "tęgi gracz w szachy"
 
 msgctxt "txtluc049"
 msgid "skinny pirate chess player"
-msgstr "chudym graczem w szachy"
+msgstr "chudy gracz w szachy"
 
 msgctxt "txtluc050"
 msgid "Brittany"
-msgstr ""
+msgstr "Brittany"
 
 msgctxt "txtluc051"
 msgid "flag"
-msgstr "napis"
+msgstr "flaga"
 
 msgctxt "txtluc052"
 msgid "high tech cooper's tool"
-msgstr "wysokiej jakości narzędzia do stolarstwa"
+msgstr "zaawansowane narzędzie bednarskie"
 
 msgctxt "txtlum001"
 msgid "Ozzie's house"
-msgstr "domu Ozziego"
+msgstr "dom Ozziego"
 
 msgctxt "txtlum002"
 msgid "town"
-msgstr "miasta"
+msgstr "miasto"
 
 msgctxt "txtlum003"
 msgid "secret lagoon"
-msgstr "Zaginioną Lagunę"
+msgstr "tajemnicza laguna"
 
 msgctxt "txtlum004"
 msgid "foreboding mansion"
-msgstr "tajemniczej rezydencji"
+msgstr "złowieszcza rezydencja"
 
 msgctxt "txtlum005"
 msgid "misty swamp"
-msgstr "zamglonych bagien"
+msgstr "zamglone bagna"
 
 msgctxt "txtmdo001"
 msgid "rowboat"
-msgstr "łódkę"
+msgstr "łódka"
 
 msgctxt "txtmdo002"
 msgid "town"
-msgstr "miasta"
+msgstr "miasto"
 
 msgctxt "txtmdo003"
 msgid "Walk into"
-msgstr "Idź na"
+msgstr "Idź na:"
 
 msgctxt "txtmel001"
 msgid "Familiar Looking Pirates"
-msgstr "przyjaznymi piratemi"
+msgstr "Znajomi Piraci"
 
 msgctxt "txtmel002"
 msgid "Carla and Otis"
-msgstr "Carla i Otisem"
+msgstr "Carla i Otis"
 
 msgctxt "txtmel003"
 msgid "Talk to"
@@ -43688,7 +43688,7 @@ msgstr "Rozmawiaj z:"
 
 msgctxt "txtmel004"
 msgid "barrel"
-msgstr "beczkę"
+msgstr "beczka"
 
 msgctxt "txtmel005"
 msgid "SCUMM Bar"
@@ -43696,15 +43696,15 @@ msgstr "SCUMMBar"
 
 msgctxt "txtmel006"
 msgid "LUA bar"
-msgstr ""
+msgstr "LUA bar"
 
 msgctxt "txtmel007"
 msgid "gate"
-msgstr "bramę"
+msgstr "brama"
 
 msgctxt "txtmel008"
 msgid "Męlée town hall"
-msgstr "ratusz"
+msgstr "ratusz Szpady"
 
 msgctxt "txtmel009"
 msgid "clock"
@@ -43712,19 +43712,19 @@ msgstr "zegar"
 
 msgctxt "txtmel010"
 msgid "fountain"
-msgstr "fontanne"
+msgstr "fontanna"
 
 msgctxt "txtmel011"
 msgid "path to Governor's Mansion"
-msgstr "dróżki do rezydencji gubernator"
+msgstr "ścieżka do rezydencji gubernatora"
 
 msgctxt "txtmel012"
 msgid "Męlée Island™"
-msgstr "wyspa Szpady™"
+msgstr "Wyspa Szpady™"
 
 msgctxt "txtmel013"
 msgid "Leave to"
-msgstr "Odejdź na"
+msgstr "Odejdź do:"
 
 msgctxt "txtmel014"
 msgid "door to SCUMM Bar"
@@ -43740,7 +43740,7 @@ msgstr "Międzynarodowe Towarzystwo Mojo"
 
 msgctxt "txtmel017"
 msgid "Enter"
-msgstr "Wejście do:"
+msgstr "Wejdź:"
 
 msgctxt "txtmel018"
 msgid "door"
@@ -43752,23 +43752,23 @@ msgstr "doki"
 
 msgctxt "txtmel020"
 msgid "Go down to"
-msgstr "Zejdź do"
+msgstr "Zejdź do:"
 
 msgctxt "txtmel021"
 msgid "Elaine"
-msgstr ""
+msgstr "Elaine"
 
 msgctxt "txtmel022"
 msgid "book store sign"
-msgstr "podpis księgarni"
+msgstr "szyld księgarni"
 
 msgctxt "txtmel023"
 msgid "real estate sign"
-msgstr "prawdziwy znak nieruchomosci"
+msgstr "szyld nieruchomości"
 
 msgctxt "txtmem001"
 msgid "Meathook's"
-msgstr "u Meathooka"
+msgstr "Mięshaka"
 
 msgctxt "txtmem002"
 msgid "Męlée Town"
@@ -43780,7 +43780,7 @@ msgstr "port"
 
 msgctxt "txtmem004"
 msgid "Governor's Mansion"
-msgstr "willa gubernator"
+msgstr "rezydencja gubernatora"
 
 msgctxt "txtmhe001"
 msgid "flag"
@@ -43796,7 +43796,7 @@ msgstr "most"
 
 msgctxt "txtmhe004"
 msgid "Meathook's front door"
-msgstr "drzwi do domu Meathooka"
+msgstr "drzwi do domu Mięshaka"
 
 msgctxt "txtmhe005"
 msgid "Knock on"
@@ -43804,11 +43804,11 @@ msgstr "Zapukaj do:"
 
 msgctxt "txtmhi001"
 msgid "Meathook"
-msgstr ""
+msgstr "Mięshak"
 
 msgctxt "txtmhi002"
 msgid "Disturb"
-msgstr "Dyskutuj z:"
+msgstr "Przeszkodź:"
 
 msgctxt "txtmhi003"
 msgid "fireplace"
@@ -43820,7 +43820,7 @@ msgstr "sztaluga"
 
 msgctxt "txtmhi005"
 msgid "paper barrel"
-msgstr "rolki papieru"
+msgstr "beczka na papier"
 
 msgctxt "txtmhi006"
 msgid "can of colored wax"
@@ -43836,11 +43836,11 @@ msgstr "obraz na ziemi"
 
 msgctxt "txtmhi009"
 msgid "picture against the wall"
-msgstr "obraz oparty o ściane"
+msgstr "obraz pod ścianą"
 
 msgctxt "txtmhi010"
 msgid "candlestick"
-msgstr "świeczka"
+msgstr "świecznik"
 
 msgctxt "txtmhi011"
 msgid "box of wax cans"
@@ -43848,7 +43848,7 @@ msgstr "pudło z puszkami na wosk"
 
 msgctxt "txtmhi012"
 msgid "more barrels o' stuff"
-msgstr "inne beczki ze śmieciami"
+msgstr "więcej beczek z różnościami"
 
 msgctxt "txtmhi013"
 msgid "bucket"
@@ -43860,7 +43860,7 @@ msgstr "pęk bananów"
 
 msgctxt "txtmib002"
 msgid "ocean"
-msgstr ""
+msgstr "ocean"
 
 msgctxt "txtmib003"
 msgid "starfish"
@@ -43876,15 +43876,15 @@ msgstr "ścieżka"
 
 msgctxt "txtmig001"
 msgid "Menacing Mechanical Manatee"
-msgstr "Groźną Syrenkę Mechaniczną"
+msgstr "Groźny Mechaniczny Manat"
 
 msgctxt "txtmig002"
 msgid "Smear"
-msgstr "maź"
+msgstr "smar"
 
 msgctxt "txtmig003"
 msgid "bar"
-msgstr ""
+msgstr "bar"
 
 msgctxt "txtmig004"
 msgid "incredibly clean and un-sticky bar"
@@ -43904,15 +43904,15 @@ msgstr "Dwie godziny później..."
 
 msgctxt "txtmig008"
 msgid "bartender"
-msgstr "Barmanem"
+msgstr "barman"
 
 msgctxt "txtmoh001"
 msgid "monkey head"
-msgstr "głową małpy"
+msgstr "głowa małpy"
 
 msgctxt "txtmoh002"
 msgid "monkey eyes"
-msgstr "małpie oko"
+msgstr "małpie oczy"
 
 msgctxt "txtmoh003"
 msgid "monkey ear"
@@ -43928,7 +43928,7 @@ msgstr "małpi nos"
 
 msgctxt "txtmoh006"
 msgid "broken Q-tip"
-msgstr "złamany"
+msgstr "złamany patyczek"
 
 msgctxt "txtmoh007"
 msgid "grave"
@@ -43936,11 +43936,11 @@ msgstr "grób"
 
 msgctxt "txtmoh008"
 msgid "path"
-msgstr "sciezki"
+msgstr "ścieżka"
 
 msgctxt "txtmoh009"
 msgid "totem pole"
-msgstr "symbol"
+msgstr "słup totemu"
 
 msgctxt "txtmoh010"
 msgid "passage way"
@@ -43948,7 +43948,7 @@ msgstr "przejście"
 
 msgctxt "txtmom001"
 msgid "monkey town"
-msgstr "miasta małp"
+msgstr "miasto małp"
 
 msgctxt "txtmom002"
 msgid "campsite"
@@ -43960,27 +43960,27 @@ msgstr "Kościół LeChucka"
 
 msgctxt "txtmom004"
 msgid "village"
-msgstr "wioskę"
+msgstr "wioska"
 
 msgctxt "txtmom005"
 msgid "Enter"
-msgstr "Wejście do:"
+msgstr "Wejdź:"
 
 msgctxt "txtmom006"
 msgid "world-famous giant monkey head"
-msgstr "światowej sławy wielką głowę małpy"
+msgstr "światowej sławy wielką głowa małpy"
 
 msgctxt "txtmom007"
 msgid "Visit"
-msgstr "Powróc do"
+msgstr "Odwiedź:"
 
 msgctxt "txtmom008"
 msgid "cluttered clearing"
-msgstr "bałagan"
+msgstr "zagracona poręba"
 
 msgctxt "txtmom009"
 msgid "beach"
-msgstr "plaży"
+msgstr "plaża"
 
 msgctxt "txtmom010"
 msgid "canyon"
@@ -43988,19 +43988,19 @@ msgstr "kanion"
 
 msgctxt "txtmom011"
 msgid "Hike to"
-msgstr "Wycieczka na"
+msgstr "Wejdź na:"
 
 msgctxt "txtmom012"
 msgid "far side of canyon"
-msgstr "drugą stronę kanionu"
+msgstr "odległy kanion"
 
 msgctxt "txtmom013"
 msgid "vista point"
-msgstr "punkt"
+msgstr "punkt widokowy"
 
 msgctxt "txtmom014"
 msgid "Hike up"
-msgstr "Spacerek na"
+msgstr "Wejdź na:"
 
 msgctxt "txtmom015"
 msgid "volcano castle"
@@ -44008,11 +44008,11 @@ msgstr "zamek na wulkanie"
 
 msgctxt "txtmon001"
 msgid "Jojo Jr."
-msgstr "Jojo Juniorem"
+msgstr "Jojo Junior"
 
 msgctxt "txtmon002"
 msgid "monkey"
-msgstr "małpę"
+msgstr "małpa"
 
 msgctxt "txtmon003"
 msgid "monkey hut"
@@ -44020,39 +44020,39 @@ msgstr "małpi kapelusz"
 
 msgctxt "txtmon004"
 msgid "totem pole"
-msgstr "symbol"
+msgstr "słup totemu"
 
 msgctxt "txtmon005"
 msgid "path leading out of town"
-msgstr "drogę wyprowadzającą z miasta"
+msgstr "ścieżka za miasto"
 
 msgctxt "txtmon006"
 msgid "Drunken Monkey"
-msgstr "Pijany Człekokształtny"
+msgstr "Pijana Małpa"
 
 msgctxt "txtmon007"
 msgid "Gimpy Gibbon"
-msgstr "Utykający Gibon"
+msgstr "Kulawy Gibon"
 
 msgctxt "txtmon008"
 msgid "Charging Chimp"
-msgstr "Ładujący Szympans"
+msgstr "Nacierający Szympans"
 
 msgctxt "txtmon009"
 msgid "Bobbing Baboon"
-msgstr "Szarpiący Pawian"
+msgstr "Podskakujący Pawian"
 
 msgctxt "txtmon010"
 msgid "Anxious Ape"
-msgstr "Niespokojna Małpa"
+msgstr "Niespokojny Człekokształtny"
 
 msgctxt "txtmon011"
 msgid "musically inclined monkey"
-msgstr "uzdolnioną muzycznie małpę"
+msgstr "uzdolniona muzycznie małpa"
 
 msgctxt "txtmon012"
 msgid "monkey ladder"
-msgstr "małpią drabinę"
+msgstr "małpia drabina"
 
 msgctxt "txtmon013"
 msgid "Walk to"
@@ -44060,47 +44060,47 @@ msgstr "Idź do:"
 
 msgctxt "txtmot001"
 msgid "Guybrush"
-msgstr "Guybrushem"
+msgstr "Guybrush"
 
 msgctxt "txtmot002"
 msgid "raft"
-msgstr "tratwę"
+msgstr "tratwa"
 
 msgctxt "txtmot003"
 msgid "gate"
-msgstr "bramę"
+msgstr "brama"
 
 msgctxt "txtmot004"
 msgid "skeleton key"
-msgstr "kluczy z kościotrupa"
+msgstr "klucze z kościotrupa"
 
 msgctxt "txtmot005"
 msgid "gun"
-msgstr "broni"
+msgstr "broń"
 
 msgctxt "txtmot006"
 msgid "Shoot"
-msgstr "gówno"
+msgstr "Strzel:"
 
 msgctxt "txtmot007"
 msgid "at"
-msgstr "na"
+msgstr "w:"
 
 msgctxt "txtmot008"
 msgid "rope"
-msgstr "line"
+msgstr "lina"
 
 msgctxt "txtmot009"
 msgid "rubber chicken with a pulley in the middle"
-msgstr "gumowego kurczaka"
+msgstr "gumowa kaczka z kółkiem w środku"
 
 msgctxt "txtmot010"
 msgid "puddle"
-msgstr "kałuże"
+msgstr "kałuża"
 
 msgctxt "txtmot011"
 msgid "path out of the swamp"
-msgstr "ścieżkę z bagien"
+msgstr "ścieżka z bagien"
 
 msgctxt "txtmot012"
 msgid "swamp"
@@ -44108,19 +44108,19 @@ msgstr "bagna"
 
 msgctxt "txtmot013"
 msgid "Leave"
-msgstr "Opuść"
+msgstr "Opuść:"
 
 msgctxt "txtmrb001"
 msgid "big tube"
-msgstr "wielką rurę"
+msgstr "wielka rura"
 
 msgctxt "txtmrb002"
 msgid "Crawl into"
-msgstr "Płyń na"
+msgstr "Płyń na:"
 
 msgctxt "txtmrb003"
 msgid "ladder"
-msgstr "drabine"
+msgstr "drabina"
 
 msgctxt "txtmrb004"
 msgid "strange controls"
@@ -44136,27 +44136,27 @@ msgstr "wskaźnik"
 
 msgctxt "txtmrb007"
 msgid "strange machinery"
-msgstr "dziwne maszyny"
+msgstr "dziwna maszyneria"
 
 msgctxt "txtoze001"
 msgid "Pick"
-msgstr "Wez"
+msgstr "Podnieś:"
 
 msgctxt "txtoze002"
 msgid "scary looking fountain"
-msgstr "przerażającą fontanne"
+msgstr "straszna fontanna"
 
 msgctxt "txtoze003"
 msgid "scary looking bird"
-msgstr "przerażającego ptaka"
+msgstr "straszny ptak"
 
 msgctxt "txtoze004"
 msgid "guest house"
-msgstr "pensjonatu"
+msgstr "dom gościnny"
 
 msgctxt "txtoze005"
 msgid "Ozzie's house"
-msgstr "domu Ozziego"
+msgstr "dom Ozziego"
 
 msgctxt "txtoze006"
 msgid "forest"
@@ -44164,59 +44164,59 @@ msgstr "las"
 
 msgctxt "txtoze007"
 msgid "creepy mansion"
-msgstr "strasznej rezydencji"
+msgstr "upiorna rezydencja"
 
 msgctxt "txtozi001"
 msgid "Ozzie Mandrill"
-msgstr "Ozziem Mandrillem"
+msgstr "Ozzie Mandrill"
 
 msgctxt "txtozi002"
 msgid "crocodile"
-msgstr "krokodyla"
+msgstr "krokodyl"
 
 msgctxt "txtozi003"
 msgid "platypus"
-msgstr "dziobaka"
+msgstr "dziobak"
 
 msgctxt "txtozi004"
 msgid "wombat"
-msgstr "borsuka"
+msgstr "wombat"
 
 msgctxt "txtozi005"
 msgid "baby koala"
-msgstr "małego koale"
+msgstr "mały koala"
 
 msgctxt "txtozi006"
 msgid "koala"
-msgstr "koale"
+msgstr "koala"
 
 msgctxt "txtozi007"
 msgid "dingo"
-msgstr "pieska"
+msgstr "pies dingo"
 
 msgctxt "txtozi008"
 msgid "kangaroo"
-msgstr "kangura"
+msgstr "kangur"
 
 msgctxt "txtozi009"
 msgid "ostrich"
-msgstr "ostryge"
+msgstr "struś"
 
 msgctxt "txtozi010"
 msgid "giant egg"
-msgstr "wielkie jajko"
+msgstr "wielkie jajo"
 
 msgctxt "txtozi011"
 msgid "gun cabinet"
-msgstr "półkę z bronią"
+msgstr "szafka na broń"
 
 msgctxt "txtozi012"
 msgid "Walk through"
-msgstr "Idź do:"
+msgstr "Przejdź przez:"
 
 msgctxt "txtozi013"
 msgid "swords"
-msgstr "miecz"
+msgstr "miecze"
 
 msgctxt "txtpac001"
 msgid "big pile of rocks"
@@ -44228,7 +44228,7 @@ msgstr "kamień"
 
 msgctxt "txtpac003"
 msgid "Throw"
-msgstr "Rzuć"
+msgstr "Rzuć:"
 
 msgctxt "txtpac004"
 msgid "at"
@@ -44252,15 +44252,15 @@ msgstr "Wyspa Małp"
 
 msgctxt "txtpac009"
 msgid "Go back to"
-msgstr "Powróć do"
+msgstr "Powróć do:"
 
 msgctxt "txtpla001"
 msgid "changing tent"
-msgstr "namiot"
+msgstr "namiot przebieralnia"
 
 msgctxt "txtpla002"
 msgid "diving judges"
-msgstr "sędziów pływackich"
+msgstr "sędziowie pływaccy"
 
 msgctxt "txtpla003"
 msgid "crowd"
@@ -44268,23 +44268,23 @@ msgstr "tłum"
 
 msgctxt "txtpla004"
 msgid "Judge Edd"
-msgstr "sędziom Eddem"
+msgstr "sędzia Edd"
 
 msgctxt "txtpla005"
 msgid "Judge Kahuna"
-msgstr "sędziom Kahuna"
+msgstr "sędzia Kahuna"
 
 msgctxt "txtpla006"
 msgid "Judge Tripps"
-msgstr "sędziom Tripps"
+msgstr "sędzia Tripps"
 
 msgctxt "txtpla007"
 msgid "Marco de Pollo"
-msgstr ""
+msgstr "Marco de Pollo"
 
 msgctxt "txtpla008"
 msgid "path"
-msgstr "sciezki"
+msgstr "ścieżka"
 
 msgctxt "txtpla009"
 msgid "Follow"
@@ -44292,7 +44292,7 @@ msgstr "Podążaj:"
 
 msgctxt "txtpla010"
 msgid "baby seal oil"
-msgstr "oliwkę dla dzieci"
+msgstr "dziecięca focza oliwka"
 
 msgctxt "txtpla011"
 msgid "Several minutes later..."
@@ -44300,71 +44300,71 @@ msgstr "Kilka minut później..."
 
 msgctxt "txtpla012"
 msgid "seagull"
-msgstr "mewę"
+msgstr "mewa"
 
 msgctxt "txtpla013"
 msgid "grouchy judge"
-msgstr "zrzędliwym sędziom"
+msgstr "zrzędliwy sędzia"
 
 msgctxt "txtpla014"
 msgid "wise old judge"
-msgstr "mądrym sędziom"
+msgstr "mądry sędzia"
 
 msgctxt "txtpla015"
 msgid "hippie judge"
-msgstr "sędziom-hipisem"
+msgstr "sędzia hipis"
 
 msgctxt "txtplt001"
 msgid "Planet Threepwood waitress"
-msgstr "praca w Planecie Threepwood"
+msgstr "kelnerka z Planety Threepwood"
 
 msgctxt "txtplt002"
 msgid "Jolly pirate"
-msgstr "przyjaznym piratem"
+msgstr "radosny pirat"
 
 msgctxt "txtplt003"
 msgid "tourist"
-msgstr "turystą"
+msgstr "turysta"
 
 msgctxt "txtplt004"
 msgid "statue of Elaine"
-msgstr "statue Elaine"
+msgstr "statua Elaine"
 
 msgctxt "txtplt005"
 msgid "sign flag"
-msgstr "flage"
+msgstr "flaga znakowa"
 
 msgctxt "txtplt006"
 msgid "checkout counter"
-msgstr "lade"
+msgstr "kasa"
 
 msgctxt "txtplt007"
 msgid "portraits of famous chefs"
-msgstr "obraz słynnych kucharzy"
+msgstr "portrety słynnych kucharzy"
 
 msgctxt "txtplt008"
 msgid "Golden Fish Award"
-msgstr "Nagrodę Złotej Ryby"
+msgstr "Nagroda Złotej Ryby"
 
 msgctxt "txtplt009"
 msgid "Crabby Red Award"
-msgstr "Nagrodę Zgniłej Langusty"
+msgstr "Nagrodę Czerwonego Kraba"
 
 msgctxt "txtplt010"
 msgid "Elaine Marley paraphernalia"
-msgstr "własności Elaine Marley"
+msgstr "akcesoria Elaine Marley"
 
 msgctxt "txtplt011"
 msgid "bar"
-msgstr ""
+msgstr "bar"
 
 msgctxt "txtplt012"
 msgid "random paraphernalia"
-msgstr "czyjeś własności"
+msgstr "przypadkowe akcesoria"
 
 msgctxt "txtplt013"
 msgid "Murray's arm"
-msgstr "ręke Murraya"
+msgstr "ręka Murraya"
 
 msgctxt "txtplt014"
 msgid "Guybrush's old clothes"
@@ -44372,7 +44372,7 @@ msgstr "stare ciuchy Guybrusha"
 
 msgctxt "txtplt015"
 msgid "LucasArts™ mug"
-msgstr "kufel LucasArtsa"
+msgstr "kubek LucasArts"
 
 msgctxt "txtplt016"
 msgid "Planet Threepwood logo T-shirts"
@@ -44380,7 +44380,7 @@ msgstr "T-Shirty z logiem Planety Threepwood"
 
 msgctxt "txtplt017"
 msgid "today's menu"
-msgstr "menu"
+msgstr "dzisiejsze menu"
 
 msgctxt "txtplt018"
 msgid "top secret sign"
@@ -44388,31 +44388,31 @@ msgstr "sekretny szyld"
 
 msgctxt "txtplt019"
 msgid "stool"
-msgstr "krzesełko"
+msgstr "stołek"
 
 msgctxt "txtplt020"
 msgid "Get up from"
-msgstr "Wstań z"
+msgstr "Wstań z:"
 
 msgctxt "txtplt021"
 msgid "waitress"
-msgstr "kelnerką"
+msgstr "kelnerka"
 
 msgctxt "txtpop001"
 msgid "Deadeye Dave"
-msgstr "Martwookim Dave'm"
+msgstr "Martwooki Dave"
 
 msgctxt "txtpop002"
 msgid "for"
-msgstr "z"
+msgstr "z:"
 
 msgctxt "txtpop003"
 msgid "file retrieval system grabber"
-msgstr "podwieszacz danych"
+msgstr "system pobierania plików"
 
 msgctxt "txtpop004"
 msgid "file retrieval system controls"
-msgstr "panelem systemu danych"
+msgstr "panel systemu pobierania plików"
 
 msgctxt "txtpop005"
 msgid "basket of prostheses"
@@ -44420,23 +44420,23 @@ msgstr "kosz pełen protez"
 
 msgctxt "txtpop006"
 msgid "strange contraption"
-msgstr "dziwne urządzenie"
+msgstr "dziwny przyrząd"
 
 msgctxt "txtpop007"
 msgid "jar of glass eyes"
-msgstr "miske ze szklanymi oczyma"
+msgstr "słój ze szklanymi oczami"
 
 msgctxt "txtpop008"
 msgid "basket of miscellaneous metal hooks"
-msgstr "kosz pełen haków"
+msgstr "kosz różnych metalowych haków"
 
 msgctxt "txtpop009"
 msgid "basket of low-quality plastic hooks and hands"
-msgstr "kosz z tanimi hakami i kończynami"
+msgstr "kosz plastikowych haków i rąk"
 
 msgctxt "txtpop010"
 msgid "basket of rubber-bottomed ivory peglegs"
-msgstr "protezy nogi z kości słoniowej z gumowym uchwytem"
+msgstr "kosz z gumowymi nóżkami"
 
 msgctxt "txtpop011"
 msgid "hook"
@@ -44444,11 +44444,11 @@ msgstr "hak"
 
 msgctxt "txtpop012"
 msgid "porcelain prosthetic leg"
-msgstr "proteze nogi z porcelany"
+msgstr "proteza nogi z porcelany"
 
 msgctxt "txtpop013"
 msgid "shelf of random prostheses"
-msgstr "półke na protezy"
+msgstr "półka z losowymi proteza"
 
 msgctxt "txtpop014"
 msgid "door"
@@ -44460,35 +44460,35 @@ msgstr "dokument"
 
 msgctxt "txtpop016"
 msgid "guy with two eyepatches"
-msgstr "facetem z białymi plamkami na oczach"
+msgstr "facet z dwoma opaskami na oczy"
 
 msgctxt "txtpop017"
 msgid "Twiddle with"
-msgstr "Pobaw się"
+msgstr "Pogmeraj w:"
 
 msgctxt "txtpop018"
 msgid "sword hand"
-msgstr "ręke z mieczem"
+msgstr "ręka z mieczem"
 
 msgctxt "txtpph001"
 msgid "raft"
-msgstr "tratwę"
+msgstr "tratwa"
 
 msgctxt "txtpph002"
 msgid "Jump on"
-msgstr "Wskocz na"
+msgstr "Wskocz na:"
 
 msgctxt "txtpph003"
 msgid "guest raft"
-msgstr "obcą tratwę"
+msgstr "obca tratwa"
 
 msgctxt "txtpph004"
 msgid "welcome mat"
-msgstr "wycieraczkę"
+msgstr "wycieraczka"
 
 msgctxt "txtpph005"
 msgid "greasy mat"
-msgstr "tłustą wycieraczkę."
+msgstr "tłusta wycieraczka"
 
 msgctxt "txtpph006"
 msgid "jug o' rum"
@@ -44508,15 +44508,15 @@ msgstr "Kilka minut później..."
 
 msgctxt "txtpta003"
 msgid "treasure chest of confiscated pirate goodies"
-msgstr "skonfiskowany łup piratów"
+msgstr "skonfiskowany skarb z pirackimi gadżetami"
 
 msgctxt "txtpta004"
 msgid "Dig through"
-msgstr "Ukradnij trochę"
+msgstr "Przekop się przez:"
 
 msgctxt "txtpta005"
 msgid "used wad of Pirate Spittin' Tobacco"
-msgstr "zużytą gumę"
+msgstr "zużyty zwitek pirackiego tytoniu do plucia"
 
 msgctxt "txtpta006"
 msgid "trash can"
@@ -44524,15 +44524,15 @@ msgstr "śmietnik"
 
 msgctxt "txtpta007"
 msgid "book shelf"
-msgstr "półkę na książki"
+msgstr "półka na książki"
 
 msgctxt "txtpta008"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtpta009"
 msgid "stool"
-msgstr "krzesełko"
+msgstr "stołek"
 
 msgctxt "txtpta010"
 msgid "globe"
@@ -44540,7 +44540,7 @@ msgstr "globus"
 
 msgctxt "txtpta011"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtpta012"
 msgid "blocks"
@@ -44548,39 +44548,39 @@ msgstr "klocki"
 
 msgctxt "txtpta013"
 msgid "flower pots"
-msgstr "doniczkę"
+msgstr "doniczka"
 
 msgctxt "txtpta014"
 msgid "toy boat-car"
-msgstr "mały statek"
+msgstr "stek zabawka"
 
 msgctxt "txtpta015"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtpta016"
 msgid "magnetic letter board"
-msgstr "magnesy"
+msgstr "tablica magnetyczna"
 
 msgctxt "txtpta017"
 msgid "crayon drawing"
-msgstr "rysunek ołówkiem"
+msgstr "rysunek kredką"
 
 msgctxt "txtpta018"
 msgid "dolly"
-msgstr "lalkę"
+msgstr "lalka"
 
 msgctxt "txtpta019"
 msgid "slingshot"
-msgstr "procę"
+msgstr "proca"
 
 msgctxt "txtpta020"
 msgid "cannon"
-msgstr "armatę"
+msgstr "armata"
 
 msgctxt "txtpta021"
 msgid "desks"
-msgstr "ławkę"
+msgstr "biurka"
 
 msgctxt "txtpta022"
 msgid "desk"
@@ -44588,7 +44588,7 @@ msgstr "biurko"
 
 msgctxt "txtpta023"
 msgid "Miss Rivers"
-msgstr "Panią Rivers"
+msgstr "Pani Rivers"
 
 msgctxt "txtpta024"
 msgid "Talk to"
@@ -44600,7 +44600,7 @@ msgstr "drzwi"
 
 msgctxt "txtpta026"
 msgid "Go to"
-msgstr "Przejdź przez"
+msgstr "Przejdź przez:"
 
 msgctxt "txtsco001"
 msgid "pile o' rocks"
@@ -44608,47 +44608,47 @@ msgstr "stos kamieni"
 
 msgctxt "txtscu001"
 msgid "Pick up"
-msgstr "Wez"
+msgstr "Weź:"
 
 msgctxt "txtscu002"
 msgid "balloon"
-msgstr "balonowi"
+msgstr "balon"
 
 msgctxt "txtscu003"
 msgid "Look at"
-msgstr "Przyjrzyj sie"
+msgstr "Przyjrzyj się:"
 
 msgctxt "txtscu004"
 msgid "drunken sailor"
-msgstr "pijanym marynarzem"
+msgstr "pijany marynarz"
 
 msgctxt "txtscu005"
 msgid "gregarious (yet horribly scarred) bartender"
-msgstr "towarzyskim Barmanem"
+msgstr "towarzyski (choć pokiereszowany) barman"
 
 msgctxt "txtscu006"
 msgid "crusty sailor"
-msgstr "zawadiackim marynarzem"
+msgstr "zrzędny marynarz"
 
 msgctxt "txtscu007"
 msgid "tall dart player"
-msgstr "wiekszym graczem w rzutki"
+msgstr "wysoki gracz w rzutki"
 
 msgctxt "txtscu008"
 msgid "short dart player"
-msgstr "mniejszym graczem w rzukti"
+msgstr "niski gracz w rzutki"
 
 msgctxt "txtscu009"
 msgid "dartboard"
-msgstr "tarcze"
+msgstr "tarcza"
 
 msgctxt "txtscu010"
 msgid "kitchen door"
-msgstr "drzwi od kuchni"
+msgstr "drzwi do kuchni"
 
 msgctxt "txtscu011"
 msgid "Open"
-msgstr "Otworz"
+msgstr "Otwórz:"
 
 msgctxt "txtscu012"
 msgid "painting"
@@ -44664,15 +44664,15 @@ msgstr "okno z widokiem"
 
 msgctxt "txtscu015"
 msgid "creepy-looking door"
-msgstr "strasznych drzwi"
+msgstr "upiorne drzwi"
 
 msgctxt "txtscu016"
 msgid "Use"
-msgstr "Użyj"
+msgstr "Użyj:"
 
 msgctxt "txtscu017"
 msgid "stuffed fish"
-msgstr "faszerowana rybe"
+msgstr "wypchana ryba"
 
 msgctxt "txtscu018"
 msgid "sword"
@@ -44680,15 +44680,15 @@ msgstr "miecz"
 
 msgctxt "txtscu019"
 msgid "bottle"
-msgstr "butelke"
+msgstr "butelka"
 
 msgctxt "txtscu020"
 msgid "life preserver"
-msgstr "kolo ratunkowe"
+msgstr "koło ratunkowe"
 
 msgctxt "txtscu021"
 msgid "firewood"
-msgstr "drewno opalowe"
+msgstr "drewno opałowe"
 
 msgctxt "txtscu022"
 msgid "kettle"
@@ -44700,11 +44700,11 @@ msgstr "dobrze wyglądający statek"
 
 msgctxt "txtshi002"
 msgid "fine looking dinghy"
-msgstr "dobrze wyglądająca łódź"
+msgstr "dobrze wyglądający ponton"
 
 msgctxt "txtshi003"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtshi004"
 msgid "grog machine"
@@ -44712,7 +44712,7 @@ msgstr "grogomat"
 
 msgctxt "txtshi005"
 msgid "Harbor Mistress"
-msgstr "Pani Stoczni"
+msgstr "Pani Stocznia"
 
 msgctxt "txtshi006"
 msgid "figurehead"
@@ -44724,7 +44724,7 @@ msgstr "ścieżka"
 
 msgctxt "txtshi008"
 msgid "The Dainty Lady"
-msgstr "Filigranowa Dama"
+msgstr "Drobna Dama"
 
 msgctxt "txtshi009"
 msgid "lady of leisure"
@@ -44736,19 +44736,19 @@ msgstr "otwór na resztę"
 
 msgctxt "txtshi011"
 msgid "shipyard shack"
-msgstr "barak"
+msgstr "szałas stoczniowy"
 
 msgctxt "txtshi012"
 msgid "Punch"
-msgstr "Uderz"
+msgstr "Uderz:"
 
 msgctxt "txtshi013"
 msgid "Shake"
-msgstr "Potrząśnij"
+msgstr "Potrząśnij:"
 
 msgctxt "txtshi014"
 msgid "Yell at"
-msgstr "Zwymyślaj"
+msgstr "Zwymyślaj:"
 
 msgctxt "txtshi015"
 msgid "Kick"
@@ -44756,23 +44756,23 @@ msgstr "Kopnij:"
 
 msgctxt "txtshi016"
 msgid "cans of grog"
-msgstr "puszki z grogiem"
+msgstr "puszka z grogiem"
 
 msgctxt "txtshi017"
 msgid "frilly pink ship"
-msgstr "plisowany różowy statek"
+msgstr "falbaniasty różowy statek"
 
 msgctxt "txtshi018"
 msgid "Follow"
-msgstr "Powrót do:"
+msgstr "Powróć do:"
 
 msgctxt "txtshi019"
 msgid "convertible"
-msgstr "cabriołódz"
+msgstr "kabriolet"
 
 msgctxt "txtshi020"
 msgid "sporty looking ship"
-msgstr "łódz sportowa"
+msgstr "łódź sportowa"
 
 msgctxt "txtshi021"
 msgid "life preservers"
@@ -44780,19 +44780,19 @@ msgstr "koło ratunkowe"
 
 msgctxt "txtsta001"
 msgid "Stan"
-msgstr ""
+msgstr "Stan"
 
 msgctxt "txtsta002"
 msgid "Stan's Time Share Emporium"
-msgstr "nieruchomość \"Wakacje ze Stanem\""
+msgstr "Dom Towarowy \"Wakacje ze Stanem\""
 
 msgctxt "txtsta003"
 msgid "beautiful beach"
-msgstr "plaże-marzenie"
+msgstr "piękna plaża"
 
 msgctxt "txtsta004"
 msgid "sign"
-msgstr "napis"
+msgstr "szyld"
 
 msgctxt "txtsta005"
 msgid "desk"
@@ -44804,7 +44804,7 @@ msgstr "szufladki"
 
 msgctxt "txtsta007"
 msgid "stack of pamphlets"
-msgstr "irytujące ulotki"
+msgstr "stos ulotek"
 
 msgctxt "txtsta008"
 msgid "island"
@@ -44812,35 +44812,35 @@ msgstr "wyspa"
 
 msgctxt "txtsta009"
 msgid "Walk back to"
-msgstr "Wróć na"
+msgstr "Wróć na:"
 
 msgctxt "txtsta010"
 msgid "door to Stan's Time Share Emporium"
-msgstr "drzwi do nieruchomości"
+msgstr "drzwi do Domu Towarowego Stana"
 
 msgctxt "txtsta011"
 msgid "beach"
-msgstr "plaży"
+msgstr "plaża"
 
 msgctxt "txtsta012"
 msgid "Walk down to"
-msgstr "Pochodź po"
+msgstr "Zejdź do:"
 
 msgctxt "txtstb001"
 msgid "cash register"
-msgstr "kasa"
+msgstr "kasa fiskalna"
 
 msgctxt "txtstb002"
 msgid "ship decoration"
-msgstr "statek dekoracyjny"
+msgstr "dekoracje statku"
 
 msgctxt "txtstb003"
 msgid "merchandise"
-msgstr "artykuły reklamowe"
+msgstr "towary"
 
 msgctxt "txtstb004"
 msgid "umbrella bucket"
-msgstr "ekran"
+msgstr "wiadro na parasole"
 
 msgctxt "txtstb005"
 msgid "StarBuccaneer's™ sign"
@@ -44848,15 +44848,15 @@ msgstr "szyld Starbuccaneera"
 
 msgctxt "txtstb006"
 msgid "cup o' coffee"
-msgstr "filiżanka"
+msgstr "filiżanka kawy"
 
 msgctxt "txtstb007"
 msgid "creamified cup o' coffee"
-msgstr "śmietanka do kawy"
+msgstr "kremowa filiżanka kawy"
 
 msgctxt "txtstb008"
 msgid "sugary cup o' coffee"
-msgstr "filiżanka z kawą i cukrem"
+msgstr "słodzona filiżanka kawy"
 
 msgctxt "txtstb009"
 msgid "Cap'n-ccino™ machine"
@@ -44864,7 +44864,7 @@ msgstr "automat Cap'n-ccino"
 
 msgctxt "txtstb010"
 msgid "stack o' coffee cups"
-msgstr "filiżanki"
+msgstr "stos filiżanek do kawy"
 
 msgctxt "txtstb011"
 msgid "shopping bag"
@@ -44872,11 +44872,11 @@ msgstr "torba podróżna"
 
 msgctxt "txtstb012"
 msgid "StarBuccaneer's™ counter clerk"
-msgstr "pracownik Starbuccaneera"
+msgstr "kasjer Starbuccaneera"
 
 msgctxt "txtstb013"
 msgid "groggoccino"
-msgstr ""
+msgstr "groggoccino"
 
 msgctxt "txtstb014"
 msgid "strange lady"
@@ -44900,7 +44900,7 @@ msgstr "Nie, nie chcę!"
 
 msgctxt "txtsys002"
 msgid "No, tag team adventure gaming is just too easy."
-msgstr "Gry tego typu są za łatwe."
+msgstr "Nie, przygodowe gry zespołowe są po prostu zbyt łatwe."
 
 msgctxt "txtsys003"
 msgid "TCP socket bind failed."
@@ -44908,179 +44908,179 @@ msgstr "Gniazdo TCP nie działa."
 
 msgctxt "txtsys004"
 msgid "Look, there's no network play, ok?!"
-msgstr "To nie jest jakaś sieciówka, ok?"
+msgstr "To nie jest gra sieciowa, ok?!"
 
 msgctxt "txtsys005"
 msgid "... and no hotseat multiplayer support either!"
-msgstr "...i żadna zręcznościówka dla wielu graczy!"
+msgstr "... nie ma też wsparcia dla trybu multiplayer z hotseatem!"
 
 msgctxt "txtsys006"
 msgid "STOP ASKING ALREADY!  NO MULTIPLAYER!"
-msgstr "NIE PYTAJ SIĘ GŁUPIO! NIE MA MULTIPLAYERA!"
+msgstr "PRZESTAŃ PYTAĆ! NIE MA MULTIPLAYERA!"
 
 msgctxt "txtsys007"
 msgid "/sytx375/"
-msgstr ""
+msgstr "/sytx375/"
 
 msgctxt "txtsys008"
 msgid "/sytx376/"
-msgstr ""
+msgstr "/sytx376/"
 
 msgctxt "txtsys009"
 msgid "/sytx377/"
-msgstr ""
+msgstr "/sytx377/"
 
 msgctxt "txtsys010"
 msgid "/sytx378/"
-msgstr ""
+msgstr "/sytx378/"
 
 msgctxt "txtsys011"
 msgid "/sytx379/"
-msgstr ""
+msgstr "/sytx379/"
 
 msgctxt "txtsys012"
 msgid "/sytx380/"
-msgstr ""
+msgstr "/sytx380/"
 
 msgctxt "txtsys013"
 msgid "/sytx381/"
-msgstr ""
+msgstr "/sytx381/"
 
 msgctxt "txtsys014"
 msgid "/sytx382/"
-msgstr ""
+msgstr "/sytx382/"
 
 msgctxt "txtsys015"
 msgid "/sytx383/"
-msgstr ""
+msgstr "/sytx383/"
 
 msgctxt "txtsys016"
 msgid "/sytx384/"
-msgstr ""
+msgstr "/sytx384/"
 
 msgctxt "txtsys017"
 msgid "/sytx385/"
-msgstr ""
+msgstr "/sytx385/"
 
 msgctxt "txtsys018"
 msgid "/sytx386/"
-msgstr ""
+msgstr "/sytx386/"
 
 msgctxt "txtsys019"
 msgid "/sytx387/"
-msgstr ""
+msgstr "/sytx387/"
 
 msgctxt "txtsys020"
 msgid "/sytx388/"
-msgstr ""
+msgstr "/sytx388/"
 
 msgctxt "txtsys021"
 msgid "/sytx389/"
-msgstr ""
+msgstr "/sytx389/"
 
 msgctxt "txtsys022"
 msgid "/sytx390/"
-msgstr ""
+msgstr "/sytx390/"
 
 msgctxt "txtsys023"
 msgid "/sytx391/"
-msgstr ""
+msgstr "/sytx391/"
 
 msgctxt "txtsys024"
 msgid "/sytx392/"
-msgstr ""
+msgstr "/sytx392/"
 
 msgctxt "txtsys025"
 msgid "/sytx393/"
-msgstr ""
+msgstr "/sytx393/"
 
 msgctxt "txtsys026"
 msgid "/sytx394/"
-msgstr ""
+msgstr "/sytx394/"
 
 msgctxt "txtsys027"
 msgid "/sytx395/"
-msgstr ""
+msgstr "/sytx395/"
 
 msgctxt "txtsys028"
 msgid "/sytx396/"
-msgstr ""
+msgstr "/sytx396/"
 
 msgctxt "txtsys029"
 msgid "/sytx397/"
-msgstr ""
+msgstr "/sytx397/"
 
 msgctxt "txtsys030"
 msgid "/sytx398/"
-msgstr ""
+msgstr "/sytx398/"
 
 msgctxt "txtsys031"
 msgid "/sytx399/"
-msgstr ""
+msgstr "/sytx399/"
 
 msgctxt "txtsys032"
 msgid "/sytx400/"
-msgstr ""
+msgstr "/sytx400/"
 
 msgctxt "txtsys033"
 msgid "/sytx401/"
-msgstr ""
+msgstr "/sytx401/"
 
 msgctxt "txtsys034"
 msgid "/sytx402/"
-msgstr ""
+msgstr "/sytx402/"
 
 msgctxt "txtsys035"
 msgid "/sytx403/"
-msgstr ""
+msgstr "/sytx403/"
 
 msgctxt "txtsys036"
 msgid "/sytx404/"
-msgstr ""
+msgstr "/sytx404/"
 
 msgctxt "txtsys037"
 msgid "/sytx405/"
-msgstr ""
+msgstr "/sytx405/"
 
 msgctxt "txtsys038"
 msgid "/sytx406/"
-msgstr ""
+msgstr "/sytx406/"
 
 msgctxt "txtsys039"
 msgid "/sytx407/"
-msgstr ""
+msgstr "/sytx407/"
 
 msgctxt "txtsys040"
 msgid "/sytx408/"
-msgstr ""
+msgstr "/sytx408/"
 
 msgctxt "txtsys041"
 msgid "/sytx409/"
-msgstr ""
+msgstr "/sytx409/"
 
 msgctxt "txtsys042"
 msgid "/sytx410/"
-msgstr ""
+msgstr "/sytx410/"
 
 msgctxt "txtsys043"
 msgid "/sytx411/"
-msgstr ""
+msgstr "/sytx411/"
 
 msgctxt "txtsys044"
 msgid "/sytx412/"
-msgstr ""
+msgstr "/sytx412/"
 
 msgctxt "txtsys045"
 msgid "/sytx413/"
-msgstr ""
+msgstr "/sytx413/"
 
 msgctxt "txtsys046"
 msgid "/sytx414/"
-msgstr ""
+msgstr "/sytx414/"
 
 msgctxt "txtsys047"
 msgid "/sytx424/"
-msgstr ""
+msgstr "/sytx424/"
 
 msgctxt "txtsys048"
 msgid "Bank of Lucre Island™"
@@ -45092,7 +45092,7 @@ msgstr "SCUMMBar"
 
 msgctxt "txtsys050"
 msgid "Bait Shoppe"
-msgstr "sklepu z przynętami"
+msgstr "sklep z przynętami"
 
 msgctxt "txtsys051"
 msgid "Canyon on Monkey Island™"
@@ -45104,27 +45104,27 @@ msgstr "Kościół LeChucka"
 
 msgctxt "txtsys053"
 msgid "Governor's Mansion Exterior"
-msgstr "rezydencja gubernator od zewnątrz"
+msgstr "zewnętrzna część rezydencji"
 
 msgctxt "txtsys054"
 msgid "Governor's Mansion Interior"
-msgstr "rezydencja gubernator od wewnątrz"
+msgstr "wewnętrzna część rezydencji"
 
 msgctxt "txtsys055"
 msgid "Gold Mine"
-msgstr "kopalnię złota"
+msgstr "kopalnia złota"
 
 msgctxt "txtsys056"
 msgid "Gentrified Pirate Town on Jambalaya"
-msgstr "Odnowione Pirackie Miasteczko Jambalaya"
+msgstr "Gentryfikowane miasto piratów na Jambalaya"
 
 msgctxt "txtsys057"
 msgid "Monkey Head Interior"
-msgstr "Małpia Głowa od zewnątrz"
+msgstr "Małpia Głowa od wewnątrz"
 
 msgctxt "txtsys058"
 msgid "House of Sticks"
-msgstr "domy z laskami"
+msgstr "Dom Lasek"
 
 msgctxt "txtsys059"
 msgid "Hall of Justice"
@@ -45132,7 +45132,7 @@ msgstr "Sala Sprawiedliwości"
 
 msgctxt "txtsys060"
 msgid "Knuttin Atoll Beach"
-msgstr "plażę Atolu Knutyńskiego"
+msgstr "plaża Atolu Nicanic"
 
 msgctxt "txtsys061"
 msgid "Kitchen, LUA Bar"
@@ -45140,7 +45140,7 @@ msgstr "Kuchnia, LUA Bar"
 
 msgctxt "txtsys062"
 msgid "Knuttin Rocks"
-msgstr "Kamienie Knutyńskie"
+msgstr "skały nicanicańskie"
 
 msgctxt "txtsys063"
 msgid "Lagoon"
@@ -45152,11 +45152,11 @@ msgstr "Kancelaria"
 
 msgctxt "txtsys065"
 msgid "LUA Bar"
-msgstr ""
+msgstr "LUA Bar"
 
 msgctxt "txtsys066"
 msgid "Męlée Dock"
-msgstr "Port Szpady"
+msgstr "Doki Szpady"
 
 msgctxt "txtsys067"
 msgid "Męlée Town"
@@ -45164,11 +45164,11 @@ msgstr "Szpada"
 
 msgctxt "txtsys068"
 msgid "Meathook's Studio Exterior"
-msgstr "pracownia Meathooka od zewnątrz"
+msgstr "pracownia Mięshaka od zewnątrz"
 
 msgctxt "txtsys069"
 msgid "Meathook's Studio Interior"
-msgstr "pracownia Meathooka od wewnątrz"
+msgstr "pracownia Mięshaka od wewnątrz"
 
 msgctxt "txtsys070"
 msgid "Micro-Groggery"
@@ -45180,7 +45180,7 @@ msgstr "Plaża Wyspy Małp"
 
 msgctxt "txtsys072"
 msgid "Monkey Head"
-msgstr "Małpią Głowę"
+msgstr "Małpia Głowa"
 
 msgctxt "txtsys073"
 msgid "Monkey Island™ Map"
@@ -45188,7 +45188,7 @@ msgstr "mapa Wyspy Małp"
 
 msgctxt "txtsys074"
 msgid "Monkey Town"
-msgstr "Małpie Centrum"
+msgstr "Małpie Miasto"
 
 msgctxt "txtsys075"
 msgid "Mystes O' Tyme"
@@ -45200,11 +45200,11 @@ msgstr "małpi robot Belly"
 
 msgctxt "txtsys077"
 msgid "Ozzie's Mansion Exterior"
-msgstr "Posiadłość Ozziego od zewnątrz"
+msgstr "Rezydencja Ozziego od zewnątrz"
 
 msgctxt "txtsys078"
 msgid "Ozzie's Mansion Interior"
-msgstr "Posiadłość Ozziego od wewnątrz"
+msgstr "Rezydencja Ozziego od wewnątrz"
 
 msgctxt "txtsys079"
 msgid "Planet Threepwood"
@@ -45212,11 +45212,11 @@ msgstr "Planeta Threepwood"
 
 msgctxt "txtsys080"
 msgid "Palace o' Prostheses"
-msgstr "pałacu protez"
+msgstr "Pałac Protez"
 
 msgctxt "txtsys081"
 msgid "Pegnose Pete's Hideout"
-msgstr "Kryjówka Pegnose'a Pete'a"
+msgstr "Kryjówka Pete'a Kołkonosego"
 
 msgctxt "txtsys082"
 msgid "Lucre Promenade"
@@ -45228,11 +45228,11 @@ msgstr "Piracka Akademia Treningu"
 
 msgctxt "txtsys084"
 msgid "Scenic Overlook"
-msgstr "nieziemski widok"
+msgstr "malowniczy widok"
 
 msgctxt "txtsys085"
 msgid "SCUMM Bar???"
-msgstr ""
+msgstr "SCUMM Bar???"
 
 msgctxt "txtsys086"
 msgid "Męlée Shipyard"
@@ -45240,7 +45240,7 @@ msgstr "Stocznia Szpady"
 
 msgctxt "txtsys087"
 msgid "Pegnose's Showroom"
-msgstr "Pokój gościnny Pegnose'a"
+msgstr "Salon Kołkonosa"
 
 msgctxt "txtsys088"
 msgid "Stan's Time Share"
@@ -45252,7 +45252,7 @@ msgstr "StarBuccaneer's"
 
 msgctxt "txtsys090"
 msgid "Toothrot Camp"
-msgstr "Obóz Hermana"
+msgstr "Obóz Zgniłozęba"
 
 msgctxt "txtsys091"
 msgid "Underwater Cavern"
@@ -45276,19 +45276,19 @@ msgstr "Herman Zgniłyząb"
 
 msgctxt "txttoc002"
 msgid "Swing"
-msgstr "huśtawkę"
+msgstr "huśtawka"
 
 msgctxt "txttoc003"
 msgid "at"
-msgstr "na"
+msgstr "na:"
 
 msgctxt "txttoc004"
 msgid "Use"
-msgstr "Użyj"
+msgstr "Użyj:"
 
 msgctxt "txttoc005"
 msgid "to wonk"
-msgstr "pracusiem"
+msgstr "do pracusia"
 
 msgctxt "txttoc006"
 msgid "campfire"
@@ -45296,11 +45296,11 @@ msgstr "ognisko"
 
 msgctxt "txttoc007"
 msgid "log"
-msgstr "kłodę"
+msgstr "kłoda"
 
 msgctxt "txttoc008"
 msgid "shack"
-msgstr "budę"
+msgstr "buda"
 
 msgctxt "txttoc009"
 msgid "fishes"
@@ -45316,23 +45316,23 @@ msgstr "zniszczony kadłub statku"
 
 msgctxt "txttoc012"
 msgid "path into Monkey Island™"
-msgstr "ścieżkę na Wyspę Małp"
+msgstr "ścieżka na Wyspę Małp"
 
 msgctxt "txttow001"
 msgid "short tower"
-msgstr "niską wieżę"
+msgstr "niska wieża"
 
 msgctxt "txttow002"
 msgid "medium-sized tower"
-msgstr "średnia wieżę"
+msgstr "średnia wieża"
 
 msgctxt "txttow003"
 msgid "really really tall tower"
-msgstr "kolosalnie dużą wieżę"
+msgstr "kolosalnie duża wieża"
 
 msgctxt "txttow004"
 msgid "biggest conch shell ever"
-msgstr "największą muszle na świecie"
+msgstr "największa muszle na świecie"
 
 msgctxt "txttow005"
 msgid "excessively large switch"
@@ -45340,19 +45340,19 @@ msgstr "zbyt duży przełącznik"
 
 msgctxt "txttow006"
 msgid "really big plank"
-msgstr "bardzo duże deski"
+msgstr "bardzo duże deska"
 
 msgctxt "txttow007"
 msgid "Put down"
-msgstr "Odłóż"
+msgstr "Odłóż:"
 
 msgctxt "txtuch001"
 msgid "skull"
-msgstr "czaszke"
+msgstr "czaszka"
 
 msgctxt "txtuch002"
 msgid "fully-stocked bar"
-msgstr "barek"
+msgstr "pełny barek"
 
 msgctxt "txtuch003"
 msgid "table"
@@ -45368,15 +45368,15 @@ msgstr "stos czaszek"
 
 msgctxt "txtuch006"
 msgid "drapes"
-msgstr "zosłone"
+msgstr "zasłona"
 
 msgctxt "txtuch007"
 msgid "hanging ring"
-msgstr "przycisk"
+msgstr "wiszący pierścień"
 
 msgctxt "txtuch008"
 msgid "Climb"
-msgstr "Wspiac sie na"
+msgstr "Wespnij się:"
 
 msgctxt "txtuch009"
 msgid "button"
@@ -45388,7 +45388,7 @@ msgstr "kamień"
 
 msgctxt "txtulg003"
 msgid "starfish"
-msgstr "rozgwiazde"
+msgstr "rozgwiazda"
 
 msgctxt "txtulg004"
 msgid "coral"
@@ -45396,11 +45396,11 @@ msgstr "koralowce"
 
 msgctxt "txtulg005"
 msgid "secret door"
-msgstr "podwodną jaskinią"
+msgstr "tajemne drzwi"
 
 msgctxt "txtulg006"
 msgid "rope"
-msgstr "line"
+msgstr "lina"
 
 msgctxt "txtulg007"
 msgid "seaweed"
@@ -45408,19 +45408,19 @@ msgstr "wodorosty"
 
 msgctxt "txtulg008"
 msgid "surface"
-msgstr "powierzchnię"
+msgstr "powierzchnia"
 
 msgctxt "txtulg009"
 msgid "Head up to"
-msgstr "Pędź do"
+msgstr "Skieruj się na:"
 
 msgctxt "txtulg010"
 msgid "cavern"
-msgstr "jaskinii"
+msgstr "jaskinia"
 
 msgctxt "txtulg011"
 msgid "bioluminescent fishies"
-msgstr "świecące ryby"
+msgstr "bioluminescencyjne ryby"
 
 msgctxt "txtunc001"
 msgid "stalactite"
@@ -45432,27 +45432,27 @@ msgstr "jasne światło"
 
 msgctxt "txtunc003"
 msgid "cave"
-msgstr "się w głębine"
+msgstr "jaskinia"
 
 msgctxt "txtunc004"
 msgid "Leave"
-msgstr "Opuść"
+msgstr "Opuść:"
 
 msgctxt "txtvau001"
 msgid "safe deposit box"
-msgstr "skrytke"
+msgstr "skrytka"
 
 msgctxt "txtvau002"
 msgid "small pile of sea sponge"
-msgstr "gąbke"
+msgstr "mały stos gąbek"
 
 msgctxt "txtvau003"
 msgid "small pile of sea sponges"
-msgstr "gąbke"
+msgstr "mały stos gąbek"
 
 msgctxt "txtvau004"
 msgid "vault door"
-msgstr "drzwi do skarbaca"
+msgstr "drzwi skarbca"
 
 msgctxt "txtvau005"
 msgid "top hinge"
@@ -45460,7 +45460,7 @@ msgstr "wyższy zawias"
 
 msgctxt "txtvau006"
 msgid "Break off"
-msgstr "Spróbuj otworzyć"
+msgstr "Zerwij:"
 
 msgctxt "txtvau007"
 msgid "bottom hinge"
@@ -45468,11 +45468,11 @@ msgstr "niższy zawias"
 
 msgctxt "txtvau008"
 msgid "crack"
-msgstr "szparkę"
+msgstr "szpara"
 
 msgctxt "txtvau009"
 msgid "steps"
-msgstr "półke"
+msgstr "schodki"
 
 msgctxt "txtvau010"
 msgid "chair"
@@ -45480,27 +45480,27 @@ msgstr "krzesło"
 
 msgctxt "txtvau011"
 msgid "crack with a broken, old sword jammed in it"
-msgstr "dziurę ze złamanym mieczem"
+msgstr "dziura ze starym, złamanym mieczem"
 
 msgctxt "txtvau012"
 msgid "sponge-filled crack with a broken, old sword jammed in it"
-msgstr "gąbki połączone ze złamanym mieczem"
+msgstr "dziura z wetkniętymi gąbkami i starym, złamanym mieczem"
 
 msgctxt "txtvau013"
 msgid "wet, grog-smelling, sponge-filled crack with a broken, old sword jammed in it"
-msgstr "połącz gąbką nasączoną grogiem oraz ze złamanym mieczem"
+msgstr "mokra, grogiem pachnąca, dziura z wetkniętymi gąbkami i starym, złamanym mieczem"
 
 msgctxt "txtvau014"
 msgid "Look in"
-msgstr "Spójrz w"
+msgstr "Spójrz na:"
 
 msgctxt "txtvau015"
 msgid "Pick up"
-msgstr "Wez"
+msgstr "Podnieś:"
 
 msgctxt "txtvoo001"
 msgid "Voodoo Lady"
-msgstr ""
+msgstr "Voodoo Lady"
 
 msgctxt "txtvoo002"
 msgid "strange mirror"
@@ -45508,7 +45508,7 @@ msgstr "dziwne lustro"
 
 msgctxt "txtvoo003"
 msgid "hand-shaped table"
-msgstr "stol w ksztalcie dloni"
+msgstr "stół w kształcie dłoni"
 
 msgctxt "txtvoo004"
 msgid "finger"
@@ -45516,11 +45516,11 @@ msgstr "palec"
 
 msgctxt "txtvoo005"
 msgid "Pull"
-msgstr "rysunek"
+msgstr "Pociągnij:"
 
 msgctxt "txtvoo006"
 msgid "smoke holder"
-msgstr "popelniczke"
+msgstr "lufka"
 
 msgctxt "txtvoo007"
 msgid "sword"
@@ -45532,43 +45532,43 @@ msgstr "koszyk z kurczakami"
 
 msgctxt "txtvoo009"
 msgid "ladder"
-msgstr "drabine"
+msgstr "drabina"
 
 msgctxt "txtvoo010"
 msgid "Climb"
-msgstr "Wspiac sie na"
+msgstr "Wespnij się:"
 
 msgctxt "txtvoo011"
 msgid "pile of bones"
-msgstr "stos kosci"
+msgstr "stos kości"
 
 msgctxt "txtvoo012"
 msgid "voodoo mask"
-msgstr "maske Voodoo"
+msgstr "maska voodoo"
 
 msgctxt "txtvoo013"
 msgid "voodoo doll"
-msgstr "lalke Voodoo"
+msgstr "lalka voodoo"
 
 msgctxt "txtvoo014"
 msgid "bottle of creamy fluid"
-msgstr "butelke z kremowa ciecza"
+msgstr "butelka kremowego płynu"
 
 msgctxt "txtvoo015"
 msgid "Examine"
-msgstr "Zbadaj"
+msgstr "Zbadaj:"
 
 msgctxt "txtvoo016"
 msgid "bottle of streaky fluid"
-msgstr "butelke z tajemniczym plynem"
+msgstr "butelka smugowego płynu"
 
 msgctxt "txtvoo017"
 msgid "bottle of viscous fluid"
-msgstr "butelke z lepka ciecza"
+msgstr "butelka lepkiego płynu"
 
 msgctxt "txtvoo018"
 msgid "bottle of slimy fluid"
-msgstr "butelki ze sluzowata ciecza"
+msgstr "butelka oślizgłego płynu"
 
 msgctxt "txtvoo019"
 msgid "thumb"
@@ -45576,7 +45576,7 @@ msgstr "kciuk"
 
 msgctxt "txtvoo020"
 msgid "pinky"
-msgstr "maly palec"
+msgstr "mały palec"
 
 msgctxt "txtvoo021"
 msgid "ring finger"
@@ -45588,7 +45588,7 @@ msgstr "środkowy palec"
 
 msgctxt "txtvoo023"
 msgid "voodoo beads"
-msgstr "koraliki Voodoo"
+msgstr "korale voodoo"
 
 msgctxt "txtwed001"
 msgid "loaded cannon"
@@ -45596,11 +45596,11 @@ msgstr "naładowana armata"
 
 msgctxt "txtwed002"
 msgid "brazier full of hot coals"
-msgstr "kosz z gorącym węglem"
+msgstr "kosz rozżarzonych węgli"
 
 msgctxt "txtwed003"
 msgid "pile of hot coals"
-msgstr "kupka gorącego węgla"
+msgstr "stos rozżarzonych węgli"
 
 msgctxt "txtwed004"
 msgid "cannon"
@@ -45620,47 +45620,47 @@ msgstr "wrogi pirat"
 
 msgctxt "txtall021D"
 msgid "stary miecz"
-msgstr ""
+msgstr "stary miecz"
 
 msgctxt "txtall022D"
 msgid "złamany miecz"
-msgstr ""
+msgstr "złamany miecz"
 
 msgctxt "txtall056D"
 msgid "świecący Pojemniczek"
-msgstr ""
+msgstr "świecący Pojemniczek"
 
 msgctxt "txtall060D"
 msgid "małą śrubkę"
-msgstr ""
+msgstr "mała śrubka"
 
 msgctxt "txtall066D"
 msgid "lepką karykaturę Małpiego Kubka"
-msgstr ""
+msgstr "lepka karykatura Małpiego Kubka"
 
 msgctxt "txtall160D"
 msgid "niebieski obraz"
-msgstr ""
+msgstr "niebieski obraz"
 
 msgctxt "txtall173D"
 msgid "pustą filiżankę po groggocino"
-msgstr ""
+msgstr "pusta filiżanka po groggocino"
 
 msgctxt "txtall177D"
 msgid "wyżute ciasteczko ze śliną Schmear Whiz"
-msgstr ""
+msgstr "przeżute ciasteczko Schmear Whiz"
 
 msgctxt "txtall193D"
 msgid "częściowo gotowy Talizman Upokorzenia"
-msgstr ""
+msgstr "częściowo gotowy Talizman Upokorzenia"
 
 msgctxt "txtall411D"
 msgid "gorący węgielek"
-msgstr ""
+msgstr "gorący węgielek"
 
 msgctxt "txtall414D"
 msgid "tchórzliwą małpę"
-msgstr ""
+msgstr "tchórzliwa małpa"
 
 msgctxt "txtall010D"
 msgid "rozpompowana detke"
@@ -46232,7 +46232,7 @@ msgstr "dwa banany"
 
 msgctxt "txtall445"
 msgid "bank manager"
-msgstr "dyrektorem banku"
+msgstr "menadżer banku"
 
 msgctxt "txtall446"
 msgid "bank teller"
@@ -46320,19 +46320,19 @@ msgstr "Bagien Czasoprzestrzeni"
 
 msgctxt "txtall466"
 msgid "N"
-msgstr "Pn."
+msgstr "N"
 
 msgctxt "txtall467"
 msgid "E"
-msgstr "Ws."
+msgstr "E"
 
 msgctxt "txtall468"
 msgid "S"
-msgstr "Pd."
+msgstr "S"
 
 msgctxt "txtall469"
 msgid "W"
-msgstr "Zach."
+msgstr "W"
 
 msgctxt "txtall470"
 msgid "tin of chicken grease"
@@ -46424,7 +46424,7 @@ msgstr "Dwie godziny i pięćdziesiąt siedem minut później..."
 
 msgctxt "txtsys066"
 msgid "Męlée Dock"
-msgstr "Port Szpady"
+msgstr "Doki Szpady"
 
 msgctxt "txtsys067"
 msgid "Męlée Town"
@@ -46496,7 +46496,7 @@ msgstr "AKT III+"
 
 msgctxt "txtact016"
 msgid "Guybrush"
-msgstr "Guybrushem"
+msgstr "Guybrush"
 
 msgctxt "txtact017"
 msgid "Kicks"
@@ -47400,7 +47400,7 @@ msgstr ""
 
 msgctxt "txtcdt137"
 msgid "Ozzie Mandrill"
-msgstr "Ozziem Mandrillem"
+msgstr "Ozzie Mandrill"
 
 msgctxt "txtcdt138"
 msgid "NICK TATE"

@@ -1196,7 +1196,7 @@ msgstr ""
 
 msgctxt "googme020"
 msgid "45..."
-msgstr ""
+msgstr "45..."
 
 msgctxt "googme021"
 msgid "47..."
@@ -2236,7 +2236,7 @@ msgstr ""
 
 msgctxt "guygme080"
 msgid "45..."
-msgstr ""
+msgstr "45..."
 
 msgctxt "guygme081"
 msgid "48..."
@@ -29708,11 +29708,11 @@ msgstr "Uup"
 
 msgctxt "guymon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "guymon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "mk1mon001"
 msgid "Ack"
@@ -29724,11 +29724,11 @@ msgstr "Uup"
 
 msgctxt "mk1mon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "mk1mon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "mk2mon001"
 msgid "Ack"
@@ -29740,11 +29740,11 @@ msgstr "Uup"
 
 msgctxt "mk2mon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "mk2mon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "mk3mon001"
 msgid "Ack"
@@ -29756,11 +29756,11 @@ msgstr "Uup"
 
 msgctxt "mk3mon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "mk3mon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "mk4mon001"
 msgid "Ack"
@@ -29772,11 +29772,11 @@ msgstr "Uup"
 
 msgctxt "mk4mon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "mk4mon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "jojmon004"
 msgid "Ack"
@@ -29788,11 +29788,11 @@ msgstr "Uup"
 
 msgctxt "jojmon006"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "jojmon007"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "lcsmon001"
 msgid "Ack"
@@ -29804,11 +29804,11 @@ msgstr "Uup"
 
 msgctxt "lcsmon003"
 msgid "Eek"
-msgstr ""
+msgstr "Eek"
 
 msgctxt "lcsmon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "guymon005"
 msgid "En garde, monkey!"
@@ -30608,7 +30608,7 @@ msgstr "Wypróbuj ją!"
 
 msgctxt "hertoc093"
 msgid "?"
-msgstr ""
+msgstr "?"
 
 msgctxt "hertoc094"
 msgid "Don't ya always?"
@@ -38520,7 +38520,7 @@ msgstr ""
 
 msgctxt "gmrmon004"
 msgid "Chee"
-msgstr ""
+msgstr "Chee"
 
 msgctxt "ingb001a"
 msgid "From the personal log of Guybrush Threepwood:"
@@ -45618,6 +45618,514 @@ msgctxt "txtwed007"
 msgid "enemy pirate"
 msgstr "wrogi pirat"
 
+msgctxt "txtall021D"
+msgid "stary miecz"
+msgstr "stary miecz"
+
+msgctxt "txtall022D"
+msgid "złamany miecz"
+msgstr "złamany miecz"
+
+msgctxt "txtall056D"
+msgid "świecący Pojemniczek"
+msgstr "świecący Pojemniczek"
+
+msgctxt "txtall060D"
+msgid "małą śrubkę"
+msgstr "maluteńka śrubka"
+
+msgctxt "txtall066D"
+msgid "lepką karykaturę Małpiego Kubka"
+msgstr "lepka karykatura Małpiego Kubka"
+
+msgctxt "txtall160D"
+msgid "niebieski obraz"
+msgstr "niebieski obraz"
+
+msgctxt "txtall173D"
+msgid "pustą filiżankę po groggocino"
+msgstr "pusta filiżanka po groggocino"
+
+msgctxt "txtall177D"
+msgid "wyżute ciasteczko ze śliną Schmear Whiz"
+msgstr "soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz"
+
+msgctxt "txtall193D"
+msgid "częściowo gotowy Talizman Upokorzenia"
+msgstr "częściowo wykonany Talizman Upokorzenia"
+
+msgctxt "txtall411D"
+msgid "gorący węgielek"
+msgstr "rozżarzony węgielek"
+
+msgctxt "txtall414D"
+msgid "tchórzliwą małpę"
+msgstr "Nieśmiała Małpa"
+
+msgctxt "txtall010D"
+msgid "rozpompowana detke"
+msgstr "dziurawa dętka"
+
+msgctxt "txtall068D"
+msgid "podmieniony Kubek"
+msgstr "fałszywy Małpi Kubek"
+
+msgctxt "txtall415D"
+msgid "śmierdzącą małpę"
+msgstr "Śmierdząca Małpa"
+
+msgctxt "txtall417D"
+msgid "silną małpę"
+msgstr "Krzepka Małpa"
+
+msgctxt "txtall424D"
+msgid "trójgłową małpę"
+msgstr "Trójgłowa Małpa"
+
+msgctxt "txtall426D"
+msgid "pustość"
+msgstr "pusty spryskiwacz"
+
+msgctxt "txtall427D"
+msgid "domowe perfumy"
+msgstr "własnoręcznie robione perfumy"
+
+msgctxt "txtban010D"
+msgid "dużą beczkę"
+msgstr "beczki z odzysku"
+
+msgctxt "txtban011D"
+msgid "skonfiskowany kredens"
+msgstr "kredens z odzysku"
+
+msgctxt "txtban012D"
+msgid "mały skarb"
+msgstr "malusieńki skarb"
+
+msgctxt "txtban017D"
+msgid "śmieszny cień"
+msgstr "śmieszny cień"
+
+msgctxt "txtbas002D"
+msgid "starym sprzedawcą"
+msgstr "Stary Łachudra"
+
+msgctxt "txtbas003D"
+msgid "darmowe przynęty"
+msgstr "darmowa przynęta"
+
+msgctxt "txtbas012D"
+msgid "ogromny dziobak gigant ryby"
+msgstr "wielkie haki"
+
+msgctxt "txtcan001D"
+msgid "szyk formacji skalnych"
+msgstr "ładna formacja skalne"
+
+msgctxt "txtcan002D"
+msgid "przewrócony samochód"
+msgstr "wywrócony wózek"
+
+msgctxt "txtcpt003D"
+msgid "starą, zniszczoną łódź"
+msgstr "na wpół zakopana stara łódź"
+
+msgctxt "txtcpt016D"
+msgid "miłą nauczycielką"
+msgstr "miłą nauczycielką"
+
+msgctxt "txtgme003D"
+msgid "dziwny kaktus z detka rowerowa"
+msgstr "dziwny kaktus z detka rowerowa"
+
+msgctxt "txtgme004D"
+msgid "przerażającą katapultę"
+msgstr "przerażającą katapultę"
+
+msgctxt "txtgme009D"
+msgid "żywopłot w kształcie świni"
+msgstr "żywopłot w kształcie świni"
+
+msgctxt "txtgme011D"
+msgid "żywopłot w kształcie papugi"
+msgstr "żywopłot w kształcie papugi"
+
+msgctxt "txtgme012D"
+msgid "żywopłot w kształcie małpy"
+msgstr "żywopłot w kształcie małpy"
+
+msgctxt "txtgme015D"
+msgid "zywoplot w ksztalcie krowy"
+msgstr "zywoplot w ksztalcie krowy"
+
+msgctxt "txtgme017D"
+msgid "dziwnym kaktusem"
+msgstr "dziwnym kaktusem"
+
+msgctxt "txtgmi005D"
+msgid "imponujące malowidła"
+msgstr "imponujące malowidła"
+
+msgctxt "txtgmi016D"
+msgid "szlachetna porcelana"
+msgstr "szlachetna porcelana"
+
+msgctxt "txtgmi018D"
+msgid "bardzo drogą procelane"
+msgstr "bardzo drogą procelane"
+
+msgctxt "txtgom001D"
+msgid "ciężkie metalowe drzwi"
+msgstr "ciężkie metalowe drzwi"
+
+msgctxt "txtgpt018D"
+msgid "puste budynki"
+msgstr "puste budynki"
+
+msgctxt "txthei013D"
+msgid "kolumny"
+msgstr "kolumny"
+
+msgctxt "txthoj004D"
+msgid "Iron Maiden"
+msgstr "Iron Maiden"
+
+msgctxt "txthos003D"
+msgid "gorsza wersja"
+msgstr "gorsza wersja"
+
+msgctxt "txthos006D"
+msgid "lepsza wersja"
+msgstr "lepsza wersja"
+
+msgctxt "txtjam007D"
+msgid "wielki kamień"
+msgstr "wielki kamień"
+
+msgctxt "txtjam008D"
+msgid "ogromny głaz"
+msgstr "ogromny głaz"
+
+msgctxt "txtjam011D"
+msgid "ponury dom"
+msgstr "ponury dom"
+
+msgctxt "txtkab008D"
+msgid "brudną piracką wioskę"
+msgstr "brudną piracką wioskę"
+
+msgctxt "txtkab010D"
+msgid "brudną piracką osadę"
+msgstr "brudną piracką osadę"
+
+msgctxt "txtlag002D"
+msgid "płytką wodę"
+msgstr "płytką wodę"
+
+msgctxt "txtlag003D"
+msgid "trochę mniej płytką wodę"
+msgstr "trochę mniej płytką wodę"
+
+msgctxt "txtlag004D"
+msgid "głęboką wodę"
+msgstr "głęboką wodę"
+
+msgctxt "txtlav002D"
+msgid "samotną plamę"
+msgstr "samotną plamę"
+
+msgctxt "txtlav005D"
+msgid "wyschnięty staw"
+msgstr "wyschnięty staw"
+
+msgctxt "txtlaw001D"
+msgid "małą beczkę"
+msgstr "małą beczkę"
+
+msgctxt "txtlua004D"
+msgid "sztukę nowoczesną"
+msgstr "sztukę nowoczesną"
+
+msgctxt "txtlua005D"
+msgid "dziwny drink tropikalny"
+msgstr "dziwny drink tropikalny"
+
+msgctxt "txtlua006D"
+msgid "dziwne drinki tropikalne"
+msgstr "dziwne drinki tropikalne"
+
+msgctxt "txtlua012D"
+msgid "nadziewaną wieprzowinę"
+msgstr "nadziewaną wieprzowinę"
+
+msgctxt "txtluc007D"
+msgid "niebieską esencje"
+msgstr "niebieską esencje"
+
+msgctxt "txtluc008D"
+msgid "kolorową esencje"
+msgstr "kolorową esencje"
+
+msgctxt "txtluc009D"
+msgid "paskowaną esencje"
+msgstr "paskowaną esencje"
+
+msgctxt "txtluc019D"
+msgid "zgniłe rybki"
+msgstr "zgniłe rybki"
+
+msgctxt "txtluc023D"
+msgid "niebieską łódź"
+msgstr "niebieską łódź"
+
+msgctxt "txtluc027D"
+msgid "dziwny dom"
+msgstr "dziwny dom"
+
+msgctxt "txtluc031D"
+msgid "dobrze zbudowanym graczem w szachy"
+msgstr "dobrze zbudowanym graczem w szachy"
+
+msgctxt "txtluc033D"
+msgid "chudym graczem w szachy"
+msgstr "chudym graczem w szachy"
+
+msgctxt "txtluc034D"
+msgid "irytującym sprzedawcą"
+msgstr "irytującym sprzedawcą"
+
+msgctxt "txtluc047D"
+msgid "śmierdzącym piratem"
+msgstr "śmierdzącym piratem"
+
+msgctxt "txtlum003D"
+msgid "zaginioną lagunę"
+msgstr "zaginioną lagunę"
+
+msgctxt "txtlum004D"
+msgid "złowieszczą posiadłość"
+msgstr "złowieszczą posiadłość"
+
+msgctxt "txtmel001D"
+msgid "przyjaznie wyglądajacymi piratami"
+msgstr "przyjaznie wyglądajacymi piratami"
+
+msgctxt "txtmig001D"
+msgid "Groźną Syrenkę Mechaniczną"
+msgstr "Groźną Syrenkę Mechaniczną"
+
+msgctxt "txtmig004D"
+msgid "niezwykle czysty i schludny bar"
+msgstr "niezwykle czysty i schludny bar"
+
+msgctxt "txtmoh006D"
+msgid "złamane Q-Tip"
+msgstr "złamane Q-Tip"
+
+msgctxt "txtmom006D"
+msgid "bardzo sławną wielką czaszkę małpy"
+msgstr "bardzo sławną wielką czaszkę małpy"
+
+msgctxt "txtmom012D"
+msgid "na drugą stronę wąwozu"
+msgstr "na drugą stronę wąwozu"
+
+msgctxt "txtmon006D"
+msgid "\"pijany byk\""
+msgstr "\"pijany byk\""
+
+msgctxt "txtmon007D"
+msgid "\"wesoły gibon\""
+msgstr "\"wesoły gibon\""
+
+msgctxt "txtmon008D"
+msgid "\"szybszy szympans\""
+msgstr "\"szybszy szympans\""
+
+msgctxt "txtmon009D"
+msgid "\"strachliwy pawian\""
+msgstr "\"strachliwy pawian\""
+
+msgctxt "txtmon010D"
+msgid "\"wystraszona małpa\""
+msgstr "\"wystraszona małpa\""
+
+msgctxt "txtmon011D"
+msgid "muzykalna małpa"
+msgstr "muzykalna małpa"
+
+msgctxt "txtmrb001D"
+msgid "duże rury"
+msgstr "duże rury"
+
+msgctxt "txtmrb004D"
+msgid "dziwne przełączniki"
+msgstr "dziwne przełączniki"
+
+msgctxt "txtmrb007D"
+msgid "dziwna maszyna"
+msgstr "dziwna maszyna"
+
+msgctxt "txtpla013D"
+msgid "zrzędliwym sędziom"
+msgstr "zrzędliwym sędziom"
+
+msgctxt "txtpla014D"
+msgid "starym i mądrym sędziom"
+msgstr "starym i mądrym sędziom"
+
+msgctxt "txtplt002D"
+msgid "przyjaznym piratem"
+msgstr "przyjaznym piratem"
+
+msgctxt "txtplt014D"
+msgid "stare ciuchy Guybrusha"
+msgstr "stare ciuchy Guybrusha"
+
+msgctxt "txtplt018D"
+msgid "sekretny szyld"
+msgstr "sekretny szyld"
+
+msgctxt "txtpop006D"
+msgid "dziwny aparat"
+msgstr "dziwny aparat"
+
+msgctxt "txtpph005D"
+msgid "tłustą tkaninę"
+msgstr "tłustą tkaninę"
+
+msgctxt "txtpta005D"
+msgid "tabacco do żucia"
+msgstr "tabacco do żucia"
+
+msgctxt "txtscu004D"
+msgid "pijanym marynarzem"
+msgstr "pijanym marynarzem"
+
+msgctxt "txtscu005D"
+msgid "towarzyskim barmanem"
+msgstr "towarzyskim barmanem"
+
+msgctxt "txtscu006D"
+msgid "nieustraszonym zeglazem"
+msgstr "nieustraszonym żeglarzem"
+
+msgctxt "txtscu007D"
+msgid "wiekszym graczem grajacym w rzutki"
+msgstr "większym graczem grającym w rzutki"
+
+msgctxt "txtscu008D"
+msgid "mniejszym graczem grajacym w rzutki"
+msgstr "mniejszym graczem grającym w rzutki"
+
+msgctxt "txtoze002D"
+msgid "straszną fontannę"
+msgstr "straszną fontannę"
+
+msgctxt "txtoze003D"
+msgid "straszne ptaki"
+msgstr "straszne ptaki"
+
+msgctxt "txtscu015D"
+msgid "straszne drzwi"
+msgstr "straszne drzwi"
+
+msgctxt "txtscu017D"
+msgid "nafaszerowaną rybę"
+msgstr "nafaszerowaną rybę"
+
+msgctxt "txtshi001D"
+msgid "dobrze wyglądający statek"
+msgstr "dobrze wyglądający statek"
+
+msgctxt "txtshi002D"
+msgid "dobrze wyglądająca łódź"
+msgstr "dobrze wyglądająca łódź"
+
+msgctxt "txtshi020D"
+msgid "łódź sportową"
+msgstr "łódź sportową"
+
+msgctxt "txtstb014D"
+msgid "dziwną panią"
+msgstr "dziwną panią"
+
+msgctxt "txtsys056D"
+msgid "czystych piratów na Jambalaya"
+msgstr "czystych piratów na Jambalaya"
+
+msgctxt "txttoc010D"
+msgid "wielkie koło"
+msgstr "wielkie koło"
+
+msgctxt "txttow001D"
+msgid "małą wieżę"
+msgstr "małą wieżę"
+
+msgctxt "txttow002D"
+msgid "średnią wieżę"
+msgstr "średnią wieżę"
+
+msgctxt "txttow003D"
+msgid "naprawdę wielką wieżę"
+msgstr "naprawdę wielką wieżę"
+
+msgctxt "txttow005D"
+msgid "ogromny spust"
+msgstr "ogromny spust"
+
+msgctxt "txttow004D"
+msgid "największy milczek wszech czasów"
+msgstr "największy milczek wszech czasów"
+
+msgctxt "txttow006D"
+msgid "ogromnie wysoką trampolinę"
+msgstr "ogromnie wysoką trampolinę"
+
+msgctxt "txtuch002D"
+msgid "zatłoczony bar"
+msgstr "zatłoczony bar"
+
+msgctxt "txtuch007D"
+msgid "dziwny pierścień"
+msgstr "dziwny pierścień"
+
+msgctxt "txtunc002D"
+msgid "jasnym światłem"
+msgstr "jasnym światłem"
+
+msgctxt "txtvau005D"
+msgid "wysoką zjawę"
+msgstr "wysoką zjawę"
+
+msgctxt "txtvau007D"
+msgid "niższą zjawę"
+msgstr "niższą zjawę"
+
+msgctxt "txtvoo002D"
+msgid "dziwne lustro"
+msgstr "dziwne lustro"
+
+msgctxt "txtvoo003D"
+msgid "stół w kształcie dłoni"
+msgstr "stół w kształcie dłoni"
+
+msgctxt "txtvoo020D"
+msgid "mały palec"
+msgstr "mały palec"
+
+msgctxt "txtwed001D"
+msgid "naładowna armata"
+msgstr "naładowna armata"
+
+msgctxt "txtwed003D"
+msgid "rozrzucone wegielki"
+msgstr "rozrzucone wegielki"
+
+msgctxt "txtwed006D"
+msgid "obcy statek"
+msgstr "obcy statek"
+
 msgctxt "txtact001"
 msgid "Things to Do on Męlée Island™ When You're Dead"
 msgstr "Rzeczy, które robisz na Wyspie Szpady, będąc martwym."
@@ -46612,7 +47120,7 @@ msgstr ""
 
 msgctxt "txtcdt069"
 msgid "Concept Art"
-msgstr ""
+msgstr "Concept Art"
 
 msgctxt "txtcdt070"
 msgid "YANG-JA (YOKO) BALLARD"
@@ -48526,4 +49034,879 @@ msgctxt "txtcdt800"
 msgid "Patent-Nr. 5.315.057"
 msgstr "Patent-Nr. 5.315.057"
 
+msgctxt "babm003b"
+msgid "If you'll just follow me into the vault,"
+msgstr "If you'll just follow me into the vault,"
+
+msgctxt "canhoj048"
+msgid "Crystal.  Ulp."
+msgstr "Najjaśniej."
+
+msgctxt "doti015"
+msgid "Oop! Eek eek! Chee!"
+msgstr "Uup! Iik iik! Chee!"
+
+msgctxt "doti017"
+msgid "Oop oop oop!"
+msgstr "Oop oop oop!"
+
+msgctxt "dugb001"
+msgid "Yaarr! Why, helloooo there, Lil' LeChuck!  What do you think we should do today!"
+msgstr "Yaarr! Why, helloooo there, Lil' LeChuck!  What do you think we should do today!"
+
+msgctxt "googme075"
+msgid "45..."
+msgstr "45..."
+
+msgctxt "guymel156"
+msgid "But--"
+msgstr "Ale...."
+
+msgctxt "guyvau004"
+msgid "It's a small pile of packing sponge."
+msgstr "It's a small pile of packing sponge."
+
+msgctxt "guyvau025"
+msgid "MINUTES LATER..."
+msgstr "MINUTES LATER..."
+
+msgctxt "h1el033c"
+msgid "of false hopes and empty promises!"
+msgstr "of false hopes and empty promises!"
+
+msgctxt "habshi029"
+msgid "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'"
+msgstr "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'"
+
+msgctxt "habshi084"
+msgid "First, bring it back in the same (or better) condition as it is now."
+msgstr "Po pierwsze, statek ma wrócić w tym lub w lepszym stanie niż teraz."
+
+msgctxt "habshi085"
+msgid "Second, life preservers are to be worn by all crew and passengers at all times."
+msgstr "Po drugie, cała załoga oraz pasażerowie mają nosić kamizelki ratunkowe przez cały czas."
+
+msgctxt "habshi086"
+msgid "Finally, this vehicle is to be used for official business only, so...."
+msgstr "Wreszcie, pojazd ten ma być używany wyłącznie do celów służbowych, więc...."
+
+msgctxt "hehn005"
+msgid "Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!"
+msgstr "Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!"
+
+msgctxt "hehn007"
+msgid "Who?  Oh yeah, that's me.  'Herman.'  Heh. Heh. Heh. Listen, junior, you'd better take a seat, because I've got some whale-staggering news to lay on you."
+msgstr "Who?  Oh yeah, that's me.  'Herman.'  Heh. Heh. Heh. Listen, junior, you'd better take a seat, because I've got some whale-staggering news to lay on you."
+
+msgctxt "hehn052"
+msgid "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
+msgstr "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
+
+msgctxt "inel010a"
+msgid "Eh...ha...cha!"
+msgstr "Eh...ha...cha!"
+
+msgctxt "inel010b"
+msgid "Yah!"
+msgstr " "
+
+msgctxt "inel010c"
+msgid "Ugh...ha."
+msgstr "Ugh...ha."
+
+msgctxt "inel010d"
+msgid "Yah....ugh...ah."
+msgstr "Yah....ugh...ah."
+
+msgctxt "inel010e"
+msgid "Ugh...ugh....yah."
+msgstr "Ugh...ugh....yah."
+
+msgctxt "madl004"
+msgid "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
+msgstr "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
+
+msgctxt "murgpt025"
+msgid "(Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises.)"
+msgstr "(Planeta Threepwood jest prawnym znakiem towarowym zastrzeżonym dla Pana Ozziego Mandrilla)"
+
+msgctxt "navgpt029"
+msgid "This old ship is in need of some major fixin' before it goes shovin' off again."
+msgstr "This old ship is in need of some major fixin' before it goes shovin' off again."
+
+msgctxt "navscu120"
+msgid "I said..."
+msgstr "I said..."
+
+msgctxt "ozoz047a"
+msgid "Uuugh....ahhhh....ungh...uuungh...omph."
+msgstr "Uuugh....ahhhh....ungh...uuungh...omph."
+
+msgctxt "ozoz047b"
+msgid "Ugh!"
+msgstr "Uff!"
+
+msgctxt "ozoz047c"
+msgid "Aaagh!"
+msgstr "Aaagh!"
+
+msgctxt "ozzmon001"
+msgid "Ack"
+msgstr "Ak"
+
+msgctxt "ozzmon002"
+msgid "Oop"
+msgstr "Uup"
+
+msgctxt "ozzmon003"
+msgid "Eek"
+msgstr "Eek"
+
+msgctxt "ozzmon004"
+msgid "Chee"
+msgstr "Chee"
+
+msgctxt "ozzozi185"
+msgid "I said..."
+msgstr "I said..."
+
+msgctxt "ozzozi186"
+msgid "Would you mind not harassing my animals?"
+msgstr "Would you mind not harassing my animals?"
+
+msgctxt "uigb006"
+msgid "Yikes, this looks complicated."
+msgstr "Yikes, this looks complicated."
+
+msgctxt "txtcdt158"
+msgid "Heckler: TOM KANE"
+msgstr "Heckler: TOM KANE"
+
+msgctxt "txtcol009"
+msgid "Father Allegro Rasputin"
+msgstr "Father Allegro Rasputin"
+
+msgctxt "gmrmon003a"
+msgid "Eek"
+msgstr "Eek"
+
+msgctxt "gmrmon004a"
+msgid "Chee"
+msgstr "Chee"
+
+msgctxt "txtall520"
+msgid "hrs"
+msgstr "hrs"
+
+msgctxt "txtall521"
+msgid "min"
+msgstr "min"
+
+msgctxt "txtsavcdt"
+msgid "Intro Credits"
+msgstr "Intro Credits"
+
+msgctxt "txtsavtri"
+msgid "Tri-Island Map"
+msgstr "Tri-Island Map"
+
+msgctxt "txtsavwed"
+msgid "Wedding Ship"
+msgstr "statek małżeński"
+
+msgctxt "txtsavgmi"
+msgid "Mansion Interior"
+msgstr "Mansion Interior"
+
+msgctxt "txtsavvoo"
+msgid "House of Mojo"
+msgstr "House of Mojo"
+
+msgctxt "txtsavscu"
+msgid "SCUMM Bar"
+msgstr "SCUMMBar"
+
+msgctxt "txtsavmdo"
+msgid "Melee Town Docks"
+msgstr "Melee Town Docks"
+
+msgctxt "txtsavshi"
+msgid "Melee Shipyards"
+msgstr "Melee Shipyards"
+
+msgctxt "txtsavmhe"
+msgid "Outside Meathook's"
+msgstr "Outside Meathook's"
+
+msgctxt "txtsavmhi"
+msgid "Inside Meathook's"
+msgstr "Inside Meathook's"
+
+msgctxt "txtsavmem"
+msgid "Melee Island Map"
+msgstr "Melee Island Map"
+
+msgctxt "txtsavmel"
+msgid "Melee Town"
+msgstr "Melee Town"
+
+msgctxt "txtsavgme"
+msgid "Mansion Exterior"
+msgstr "Mansion Exterior"
+
+msgctxt "txtsavlua"
+msgid "Lua Bar"
+msgstr "Lua Bar"
+
+msgctxt "txtsavkit"
+msgid "Lua Bar Kitchen"
+msgstr "Lua Bar Kitchen"
+
+msgctxt "txtsavlaw"
+msgid "Law Offices"
+msgstr "Kancelaria"
+
+msgctxt "txtsavvau"
+msgid "Bank Vault"
+msgstr "skrytka banku"
+
+msgctxt "txtsavban"
+msgid "Lucre Bank"
+msgstr "Bank Mamony"
+
+msgctxt "txtsavbas"
+msgid "Bait Shoppe"
+msgstr "sklep z przynętami"
+
+msgctxt "txtsavhos"
+msgid "House of Sticks"
+msgstr "Dom Lasek"
+
+msgctxt "txtsavhoj"
+msgid "Hall of Justice"
+msgstr "Sala Sprawiedliwości"
+
+msgctxt "txtsavlag"
+msgid "Hidden Lagoon"
+msgstr "Hidden Lagoon"
+
+msgctxt "txtsavulg"
+msgid "Lagoon Underwater"
+msgstr "Lagoon Underwater"
+
+msgctxt "txtsavmot"
+msgid "Mysts o' Tyme"
+msgstr "Mysts o' Tyme"
+
+msgctxt "txtsavuch"
+msgid "Booty Showcase"
+msgstr "Booty Showcase"
+
+msgctxt "txtsavunc"
+msgid "Underwater Cavern"
+msgstr "podwodna pieczara"
+
+msgctxt "txtsavpph"
+msgid "Pegnose Pete's Hideout"
+msgstr "Kryjówka Pete'a Kołkonosego"
+
+msgctxt "txtsavfor"
+msgid "Lucre Forest"
+msgstr "Lucre Forest"
+
+msgctxt "txtsavlum"
+msgid "Lucre Island Map"
+msgstr "Lucre Island Map"
+
+msgctxt "txtsavoze"
+msgid "Outside Creepy Mansion"
+msgstr "Outside Creepy Mansion"
+
+msgctxt "txtsavozi"
+msgid "Inside Ozzie's Place"
+msgstr "Inside Ozzie's Place"
+
+msgctxt "txtsavpop"
+msgid "Palace of Prostheses"
+msgstr "Palace of Prostheses"
+
+msgctxt "txtsavluc"
+msgid "Lucre Town"
+msgstr "Mamona"
+
+msgctxt "txtsavmig"
+msgid "Microgroggery"
+msgstr "Microgroggery"
+
+msgctxt "txtsavcgs"
+msgid "Casaba's Ship"
+msgstr "Casaba's Ship"
+
+msgctxt "txtsavcpt"
+msgid "Knuttin Atoll"
+msgstr "Atol Nicanic"
+
+msgctxt "txtsavpta"
+msgid "Pirate Academy"
+msgstr "Pirate Academy"
+
+msgctxt "txtsavkab"
+msgid "Rocky Beach"
+msgstr "Rocky Beach"
+
+msgctxt "txtsavgpt"
+msgid "Jambalaya Town"
+msgstr "Jambalaya Town"
+
+msgctxt "txtsavplt"
+msgid "Planet Threepwood"
+msgstr "Planeta Threepwood"
+
+msgctxt "txtsavsta"
+msgid "Stan's "
+msgstr "Stan's "
+
+msgctxt "txtsavstb"
+msgid "Starbuccaneer's"
+msgstr "Starbuccaneer's"
+
+msgctxt "txtsavjam"
+msgid "Jambalaya Island Map"
+msgstr "Jambalaya Island Map"
+
+msgctxt "txtsavpla"
+msgid "Plank Dive"
+msgstr "Plank Dive"
+
+msgctxt "txtsavhei"
+msgid "Inside the Monkey Head"
+msgstr "Inside the Monkey Head"
+
+msgctxt "txtsavcol"
+msgid "Church of LeChuck"
+msgstr "Kościół LeChucka"
+
+msgctxt "txtsavcan"
+msgid "Monkey Island Canyon"
+msgstr "Monkey Island Canyon"
+
+msgctxt "txtsavlav"
+msgid "Lava Field"
+msgstr "Lava Field"
+
+msgctxt "txtsavgom"
+msgid "Gold Mine"
+msgstr "kopalnia złota"
+
+msgctxt "txtsavjun"
+msgid "Monkey Jungle"
+msgstr "Monkey Jungle"
+
+msgctxt "txtsavmib"
+msgid "Monkey Island Beach"
+msgstr "Monkey Island Beach"
+
+msgctxt "txtsavmoh"
+msgid "Monkey Head"
+msgstr "Małpia Głowa"
+
+msgctxt "txtsavmom"
+msgid "Monkey Island Map"
+msgstr "Monkey Island Map"
+
+msgctxt "txtsavmon"
+msgid "Monkey Town"
+msgstr "Małpie Miasto"
+
+msgctxt "txtsavmrb"
+msgid "Strange Machinery Room"
+msgstr "Strange Machinery Room"
+
+msgctxt "txtsavpac"
+msgid "Scenic Overlook"
+msgstr "malowniczy widok"
+
+msgctxt "txtsavtoc"
+msgid "Herman Toothrot's Camp"
+msgstr "Herman Toothrot's Camp"
+
+msgctxt "txtsavtow"
+msgid "Amplification Tower"
+msgstr "Amplification Tower"
+
+msgctxt "txtsavfin"
+msgid "Finale"
+msgstr "Finale"
+
+msgctxt "txtall522"
+msgid "Square"
+msgstr "Square"
+
+msgctxt "txtall523"
+msgid "Triangle"
+msgstr "Triangle"
+
+msgctxt "txtall524"
+msgid "Circle"
+msgstr "Circle"
+
+msgctxt "txtall525"
+msgid "X"
+msgstr "X"
+
+msgctxt "txtall526"
+msgid "R1"
+msgstr "R1"
+
+msgctxt "txtall527"
+msgid "L1"
+msgstr "L1"
+
+msgctxt "txtall528"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "txtall529"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "txtall530"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "txtall531"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "txtall532"
+msgid "D-up"
+msgstr "D-up"
+
+msgctxt "txtall533"
+msgid "D-down"
+msgstr "D-down"
+
+msgctxt "txtall534"
+msgid "D-left"
+msgstr "D-left"
+
+msgctxt "txtall535"
+msgid "D-right"
+msgstr "D-right"
+
+msgctxt "txtall536"
+msgid "left mushroom"
+msgstr "left mushroom"
+
+msgctxt "txtall537"
+msgid "right mushroom"
+msgstr "right mushroom"
+
+msgctxt "txtall538"
+msgid "DM"
+msgstr "DM"
+
+msgctxt "txtall539"
+msgid "GG"
+msgstr "GG"
+
+msgctxt "txtall540"
+msgid "CC"
+msgstr "CC"
+
+msgctxt "txtall541"
+msgid "BB"
+msgstr "BB"
+
+msgctxt "txtall542"
+msgid "AA"
+msgstr "AA"
+
+msgctxt "txtall543"
+msgid "Resume"
+msgstr "Resume"
+
+msgctxt "txtall544"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "txtall545"
+msgid "Select an option"
+msgstr "Select an option"
+
+msgctxt "txtall546"
+msgid "Audio Options"
+msgstr "Audio Options"
+
+msgctxt "txtall547"
+msgid "Video Options"
+msgstr "Video Options"
+
+msgctxt "txtall548"
+msgid "Use the directional button or the left analog stick to move screen"
+msgstr "Use the directional button or the left analog stick to move screen"
+
+msgctxt "txtall549"
+msgid "Audio Options..."
+msgstr "Audio Options..."
+
+msgctxt "txtall550"
+msgid "Video Options..."
+msgstr "Video Options..."
+
+msgctxt "txtall551"
+msgid "Controller Options..."
+msgstr "Controller Options..."
+
+msgctxt "txtall552"
+msgid "Bonus Features"
+msgstr "Bonus Features"
+
+msgctxt "txtall553"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall554"
+msgid "Screen Adjust"
+msgstr "Screen Adjust"
+
+msgctxt "txtall555"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall556"
+msgid "Controller Type"
+msgstr "Controller Type"
+
+msgctxt "txtall557"
+msgid "Type A"
+msgstr "Type A"
+
+msgctxt "txtall558"
+msgid "Type B"
+msgstr "Type B"
+
+msgctxt "txtall559"
+msgid "Vibration"
+msgstr "Vibration"
+
+msgctxt "txtall560"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall561"
+msgid "Not Used"
+msgstr "Not Used"
+
+msgctxt "txtall562"
+msgid "Move Guybrush"
+msgstr "Move Guybrush"
+
+msgctxt "txtall563"
+msgid "Cycle Objects Up/Dn"
+msgstr "Cycle Objects Up/Dn"
+
+msgctxt "txtall564"
+msgid "(Press)"
+msgstr "(Press)"
+
+msgctxt "txtall565"
+msgid "Are you sure you want to delete this saved game?"
+msgstr "Are you sure you want to delete this saved game?"
+
+msgctxt "txtall566"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "txtall567"
+msgid "Are you sure you wish to overwrite your previous game save?"
+msgstr "Are you sure you wish to overwrite your previous game save?"
+
+msgctxt "txtall568"
+msgid "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?  (Uses 605 KB of space)"
+msgstr "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?  (Uses 605 KB of space)"
+
+msgctxt "txtall569"
+msgid "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?"
+msgstr "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?"
+
+msgctxt "txtall570"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "txtall571"
+msgid "There is a different Escape From Monkey Island saved game in this file.  Are you sure you want to replace it? (WARNING: The existing saved game will be destroyed)"
+msgstr "There is a different Escape From Monkey Island saved game in this file.  Are you sure you want to replace it? (WARNING: The existing saved game will be destroyed)"
+
+msgctxt "txtall572"
+msgid "New Game"
+msgstr "New Game"
+
+msgctxt "txtall573"
+msgid "Press"
+msgstr "Press"
+
+msgctxt "txtall574"
+msgid "to choose a saved game to play."
+msgstr "to choose a saved game to play."
+
+msgctxt "txtall575"
+msgid "to choose the game to copy to."
+msgstr "to choose the game to copy to."
+
+msgctxt "txtall576"
+msgid "to Delete a game."
+msgstr "to Delete a game."
+
+msgctxt "txtall577"
+msgid "to Copy a game."
+msgstr "to Copy a game."
+
+msgctxt "txtall578"
+msgid "to go back."
+msgstr "to go back."
+
+msgctxt "txtall579"
+msgid "to Stop copying."
+msgstr "to Stop copying."
+
+msgctxt "txtall580"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall581"
+msgid "Load failed."
+msgstr "Load failed."
+
+msgctxt "txtall582"
+msgid "Press a button to continue"
+msgstr "Press a button to continue"
+
+msgctxt "txtall583"
+msgid "Copying Game..."
+msgstr "Copying Game..."
+
+msgctxt "txtall584"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall585"
+msgid "Deleting Game..."
+msgstr "Deleting Game..."
+
+msgctxt "txtall586"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall587"
+msgid "Bonus Stuff"
+msgstr "Bonus Stuff"
+
+msgctxt "txtall588"
+msgid "Concept Art"
+msgstr "Concept Art"
+
+msgctxt "txtall589"
+msgid "MurrayBall!"
+msgstr "MurrayBall!"
+
+msgctxt "txtall590"
+msgid "Monkey Invaders"
+msgstr "Monkey Invaders"
+
+msgctxt "txtall591"
+msgid "Murray Break Out"
+msgstr "Murray Break Out"
+
+msgctxt "txtall592"
+msgid "Out-Takes"
+msgstr "Out-Takes"
+
+msgctxt "txtall593"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall594"
+msgid "Return to Bonus menu"
+msgstr "Return to Bonus menu"
+
+msgctxt "txtall595"
+msgid "The memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was changed.  Aborting operation.  Press a button to continue."
+msgstr "The memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was changed.  Aborting operation.  Press a button to continue."
+
+msgctxt "txtall596"
+msgid "Accessing memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "Accessing memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall597"
+msgid "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1.  At least 605 KB are needed to save this game data.  Do you want to start?"
+msgstr "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1.  At least 605 KB are needed to save this game data.  Do you want to start?"
+
+msgctxt "txtall598"
+msgid "Yes"
+msgstr "Yes"
+
+msgctxt "txtall599"
+msgid "No"
+msgstr "Nie."
+
+msgctxt "txtall600"
+msgid "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1."
+msgstr "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1."
+
+msgctxt "txtall601"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "txtall602"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Do you want to format?"
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Do you want to format?"
+
+msgctxt "txtall603"
+msgid "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Do you want to start?"
+msgstr "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Do you want to start?"
+
+msgctxt "txtall604"
+msgid "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall605"
+msgid "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data.  Do you want to start?"
+msgstr "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data.  Do you want to start?"
+
+msgctxt "txtall606"
+msgid "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data."
+msgstr "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data."
+
+msgctxt "txtall607"
+msgid "Are you sure you want to format Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1?"
+msgstr "Are you sure you want to format Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1?"
+
+msgctxt "txtall608"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 has not been formatted.  Do you want to start?"
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 has not been formatted.  Do you want to start?"
+
+msgctxt "txtall609"
+msgid "Formatting memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "Formatting memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall610"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall611"
+msgid "Format failed."
+msgstr "Format failed."
+
+msgctxt "txtall612"
+msgid "Saving Game..."
+msgstr "Saving Game..."
+
+msgctxt "txtall613"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was removed.  Save failed.  Press a button to continue."
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was removed.  Save failed.  Press a button to continue."
+
+msgctxt "txtall614"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Save failed.  Press a button to continue."
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Save failed.  Press a button to continue."
+
+msgctxt "txtall615"
+msgid "An error occurred while saving to Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Save failed.  Press a button to continue."
+msgstr "An error occurred while saving to Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Save failed.  Press a button to continue."
+
+msgctxt "txtall616"
+msgid "Loading..."
+msgstr "Loading..."
+
+msgctxt "txtall617"
+msgid "GAME OVER"
+msgstr "GAME OVER"
+
+msgctxt "txtall618"
+msgid "You have learned a new move!"
+msgstr "You have learned a new move!"
+
+msgctxt "txtall619"
+msgid "?"
+msgstr "?"
+
+msgctxt "txtall620"
+msgid "to return to game."
+msgstr "to return to game."
+
+msgctxt "txtall621"
+msgid "Press Start"
+msgstr "Press Start"
+
+msgctxt "txtall622"
+msgid "to select."
+msgstr "to select."
+
+msgctxt "txtall623"
+msgid "Type C"
+msgstr "Type C"
+
+msgctxt "txtall624"
+msgid "Type D"
+msgstr "Type D"
+
+msgctxt "txtall625"
+msgid "Type E"
+msgstr "Type E"
+
+msgctxt "txtall626"
+msgid "Copy Successful."
+msgstr "Copy Successful."
+
+msgctxt "txtall627"
+msgid "Delete Successful."
+msgstr "Delete Successful."
+
+msgctxt "txtall628"
+msgid "Mono"
+msgstr "Mono"
+
+msgctxt "txtall629"
+msgid "Stereo"
+msgstr "Stereo"
+
+msgctxt "txtall630"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "txtall631"
+msgid "Saved Data Copy failed."
+msgstr "Saved Data Copy failed."
+
+msgctxt "txtall632"
+msgid "Delete Saved Data failed."
+msgstr "Delete Saved Data failed."
+
+msgctxt "txtcdt523"
+msgid "JIM DIAZ"
+msgstr "JIM DIAZ"
+
+msgctxt "txtcdt524"
+msgid "ERIK ELLICOCK"
+msgstr "ERIK ELLICOCK"
+
+msgctxt "txtcdt525"
+msgid "TONY DEWEESE"
+msgstr "TONY DEWEESE"
+
+msgctxt "txtcdt526"
+msgid "Manual Designer"
+msgstr "Manual Designer"
+
+msgctxt "txtcdt527"
+msgid "Manual Editor"
+msgstr "Manual Editor"
+
+msgctxt "txtall633"
+msgid "Format Successful."
+msgstr "Format Successful."
+
+msgctxt "txtall634"
+msgid "Load Successful."
+msgstr "Load Successful."
 

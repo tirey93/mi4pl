@@ -45618,6 +45618,514 @@ msgctxt "txtwed007"
 msgid "enemy pirate"
 msgstr "wrogi pirat"
 
+msgctxt "txtall021D"
+msgid "stary miecz"
+msgstr ""
+
+msgctxt "txtall022D"
+msgid "złamany miecz"
+msgstr ""
+
+msgctxt "txtall056D"
+msgid "świecący Pojemniczek"
+msgstr ""
+
+msgctxt "txtall060D"
+msgid "małą śrubkę"
+msgstr ""
+
+msgctxt "txtall066D"
+msgid "lepką karykaturę Małpiego Kubka"
+msgstr ""
+
+msgctxt "txtall160D"
+msgid "niebieski obraz"
+msgstr ""
+
+msgctxt "txtall173D"
+msgid "pustą filiżankę po groggocino"
+msgstr ""
+
+msgctxt "txtall177D"
+msgid "wyżute ciasteczko ze śliną Schmear Whiz"
+msgstr ""
+
+msgctxt "txtall193D"
+msgid "częściowo gotowy Talizman Upokorzenia"
+msgstr ""
+
+msgctxt "txtall411D"
+msgid "gorący węgielek"
+msgstr ""
+
+msgctxt "txtall414D"
+msgid "tchórzliwą małpę"
+msgstr ""
+
+msgctxt "txtall010D"
+msgid "rozpompowana detke"
+msgstr ""
+
+msgctxt "txtall068D"
+msgid "podmieniony Kubek"
+msgstr ""
+
+msgctxt "txtall415D"
+msgid "śmierdzącą małpę"
+msgstr ""
+
+msgctxt "txtall417D"
+msgid "silną małpę"
+msgstr ""
+
+msgctxt "txtall424D"
+msgid "trójgłową małpę"
+msgstr ""
+
+msgctxt "txtall426D"
+msgid "pustość"
+msgstr ""
+
+msgctxt "txtall427D"
+msgid "domowe perfumy"
+msgstr ""
+
+msgctxt "txtban010D"
+msgid "dużą beczkę"
+msgstr ""
+
+msgctxt "txtban011D"
+msgid "skonfiskowany kredens"
+msgstr ""
+
+msgctxt "txtban012D"
+msgid "mały skarb"
+msgstr ""
+
+msgctxt "txtban017D"
+msgid "śmieszny cień"
+msgstr ""
+
+msgctxt "txtbas002D"
+msgid "starym sprzedawcą"
+msgstr ""
+
+msgctxt "txtbas003D"
+msgid "darmowe przynęty"
+msgstr ""
+
+msgctxt "txtbas012D"
+msgid "ogromny dziobak gigant ryby"
+msgstr ""
+
+msgctxt "txtcan001D"
+msgid "szyk formacji skalnych"
+msgstr ""
+
+msgctxt "txtcan002D"
+msgid "przewrócony samochód"
+msgstr ""
+
+msgctxt "txtcpt003D"
+msgid "starą, zniszczoną łódź"
+msgstr ""
+
+msgctxt "txtcpt016D"
+msgid "miłą nauczycielką"
+msgstr ""
+
+msgctxt "txtgme003D"
+msgid "dziwny kaktus z detka rowerowa"
+msgstr ""
+
+msgctxt "txtgme004D"
+msgid "przerażającą katapultę"
+msgstr ""
+
+msgctxt "txtgme009D"
+msgid "żywopłot w kształcie świni"
+msgstr ""
+
+msgctxt "txtgme011D"
+msgid "żywopłot w kształcie papugi"
+msgstr ""
+
+msgctxt "txtgme012D"
+msgid "żywopłot w kształcie małpy"
+msgstr ""
+
+msgctxt "txtgme015D"
+msgid "zywoplot w ksztalcie krowy"
+msgstr ""
+
+msgctxt "txtgme017D"
+msgid "dziwnym kaktusem"
+msgstr ""
+
+msgctxt "txtgmi005D"
+msgid "imponujące malowidła"
+msgstr ""
+
+msgctxt "txtgmi016D"
+msgid "szlachetna porcelana"
+msgstr ""
+
+msgctxt "txtgmi018D"
+msgid "bardzo drogą procelane"
+msgstr ""
+
+msgctxt "txtgom001D"
+msgid "ciężkie metalowe drzwi"
+msgstr ""
+
+msgctxt "txtgpt018D"
+msgid "puste budynki"
+msgstr ""
+
+msgctxt "txthei013D"
+msgid "kolumny"
+msgstr ""
+
+msgctxt "txthoj004D"
+msgid "Iron Maiden"
+msgstr ""
+
+msgctxt "txthos003D"
+msgid "gorsza wersja"
+msgstr ""
+
+msgctxt "txthos006D"
+msgid "lepsza wersja"
+msgstr ""
+
+msgctxt "txtjam007D"
+msgid "wielki kamień"
+msgstr ""
+
+msgctxt "txtjam008D"
+msgid "ogromny głaz"
+msgstr ""
+
+msgctxt "txtjam011D"
+msgid "ponury dom"
+msgstr ""
+
+msgctxt "txtkab008D"
+msgid "brudną piracką wioskę"
+msgstr ""
+
+msgctxt "txtkab010D"
+msgid "brudną piracką osadę"
+msgstr ""
+
+msgctxt "txtlag002D"
+msgid "płytką wodę"
+msgstr ""
+
+msgctxt "txtlag003D"
+msgid "trochę mniej płytką wodę"
+msgstr ""
+
+msgctxt "txtlag004D"
+msgid "głęboką wodę"
+msgstr ""
+
+msgctxt "txtlav002D"
+msgid "samotną plamę"
+msgstr ""
+
+msgctxt "txtlav005D"
+msgid "wyschnięty staw"
+msgstr ""
+
+msgctxt "txtlaw001D"
+msgid "małą beczkę"
+msgstr ""
+
+msgctxt "txtlua004D"
+msgid "sztukę nowoczesną"
+msgstr ""
+
+msgctxt "txtlua005D"
+msgid "dziwny drink tropikalny"
+msgstr ""
+
+msgctxt "txtlua006D"
+msgid "dziwne drinki tropikalne"
+msgstr ""
+
+msgctxt "txtlua012D"
+msgid "nadziewaną wieprzowinę"
+msgstr ""
+
+msgctxt "txtluc007D"
+msgid "niebieską esencje"
+msgstr ""
+
+msgctxt "txtluc008D"
+msgid "kolorową esencje"
+msgstr ""
+
+msgctxt "txtluc009D"
+msgid "paskowaną esencje"
+msgstr ""
+
+msgctxt "txtluc019D"
+msgid "zgniłe rybki"
+msgstr ""
+
+msgctxt "txtluc023D"
+msgid "niebieską łódź"
+msgstr ""
+
+msgctxt "txtluc027D"
+msgid "dziwny dom"
+msgstr ""
+
+msgctxt "txtluc031D"
+msgid "dobrze zbudowanym graczem w szachy"
+msgstr ""
+
+msgctxt "txtluc033D"
+msgid "chudym graczem w szachy"
+msgstr ""
+
+msgctxt "txtluc034D"
+msgid "irytującym sprzedawcą"
+msgstr ""
+
+msgctxt "txtluc047D"
+msgid "śmierdzącym piratem"
+msgstr ""
+
+msgctxt "txtlum003D"
+msgid "zaginioną lagunę"
+msgstr ""
+
+msgctxt "txtlum004D"
+msgid "złowieszczą posiadłość"
+msgstr ""
+
+msgctxt "txtmel001D"
+msgid "przyjaznie wyglądajacymi piratami"
+msgstr ""
+
+msgctxt "txtmig001D"
+msgid "Groźną Syrenkę Mechaniczną"
+msgstr ""
+
+msgctxt "txtmig004D"
+msgid "niezwykle czysty i schludny bar"
+msgstr ""
+
+msgctxt "txtmoh006D"
+msgid "złamane Q-Tip"
+msgstr ""
+
+msgctxt "txtmom006D"
+msgid "bardzo sławną wielką czaszkę małpy"
+msgstr ""
+
+msgctxt "txtmom012D"
+msgid "na drugą stronę wąwozu"
+msgstr ""
+
+msgctxt "txtmon006D"
+msgid "\"pijany byk\""
+msgstr ""
+
+msgctxt "txtmon007D"
+msgid "\"wesoły gibon\""
+msgstr ""
+
+msgctxt "txtmon008D"
+msgid "\"szybszy szympans\""
+msgstr ""
+
+msgctxt "txtmon009D"
+msgid "\"strachliwy pawian\""
+msgstr ""
+
+msgctxt "txtmon010D"
+msgid "\"wystraszona małpa\""
+msgstr ""
+
+msgctxt "txtmon011D"
+msgid "muzykalna małpa"
+msgstr ""
+
+msgctxt "txtmrb001D"
+msgid "duże rury"
+msgstr ""
+
+msgctxt "txtmrb004D"
+msgid "dziwne przełączniki"
+msgstr ""
+
+msgctxt "txtmrb007D"
+msgid "dziwna maszyna"
+msgstr ""
+
+msgctxt "txtpla013D"
+msgid "zrzędliwym sędziom"
+msgstr ""
+
+msgctxt "txtpla014D"
+msgid "starym i mądrym sędziom"
+msgstr ""
+
+msgctxt "txtplt002D"
+msgid "przyjaznym piratem"
+msgstr ""
+
+msgctxt "txtplt014D"
+msgid "stare ciuchy Guybrusha"
+msgstr ""
+
+msgctxt "txtplt018D"
+msgid "sekretny szyld"
+msgstr ""
+
+msgctxt "txtpop006D"
+msgid "dziwny aparat"
+msgstr ""
+
+msgctxt "txtpph005D"
+msgid "tłustą tkaninę"
+msgstr ""
+
+msgctxt "txtpta005D"
+msgid "tabacco do żucia"
+msgstr ""
+
+msgctxt "txtscu004D"
+msgid "pijanym marynarzem"
+msgstr ""
+
+msgctxt "txtscu005D"
+msgid "towarzyskim barmanem"
+msgstr ""
+
+msgctxt "txtscu006D"
+msgid "nieustraszonym zeglazem"
+msgstr ""
+
+msgctxt "txtscu007D"
+msgid "wiekszym graczem grajacym w rzutki"
+msgstr ""
+
+msgctxt "txtscu008D"
+msgid "mniejszym graczem grajacym w rzutki"
+msgstr ""
+
+msgctxt "txtoze002D"
+msgid "straszną fontannę"
+msgstr ""
+
+msgctxt "txtoze003D"
+msgid "straszne ptaki"
+msgstr ""
+
+msgctxt "txtscu015D"
+msgid "straszne drzwi"
+msgstr ""
+
+msgctxt "txtscu017D"
+msgid "nafaszerowaną rybę"
+msgstr ""
+
+msgctxt "txtshi001D"
+msgid "dobrze wyglądający statek"
+msgstr ""
+
+msgctxt "txtshi002D"
+msgid "dobrze wyglądająca łódź"
+msgstr ""
+
+msgctxt "txtshi020D"
+msgid "łódź sportową"
+msgstr ""
+
+msgctxt "txtstb014D"
+msgid "dziwną panią"
+msgstr ""
+
+msgctxt "txtsys056D"
+msgid "czystych piratów na Jambalaya"
+msgstr ""
+
+msgctxt "txttoc010D"
+msgid "wielkie koło"
+msgstr ""
+
+msgctxt "txttow001D"
+msgid "małą wieżę"
+msgstr ""
+
+msgctxt "txttow002D"
+msgid "średnią wieżę"
+msgstr ""
+
+msgctxt "txttow003D"
+msgid "naprawdę wielką wieżę"
+msgstr ""
+
+msgctxt "txttow005D"
+msgid "ogromny spust"
+msgstr ""
+
+msgctxt "txttow004D"
+msgid "największy milczek wszech czasów"
+msgstr ""
+
+msgctxt "txttow006D"
+msgid "ogromnie wysoką trampolinę"
+msgstr ""
+
+msgctxt "txtuch002D"
+msgid "zatłoczony bar"
+msgstr ""
+
+msgctxt "txtuch007D"
+msgid "dziwny pierścień"
+msgstr ""
+
+msgctxt "txtunc002D"
+msgid "jasnym światłem"
+msgstr ""
+
+msgctxt "txtvau005D"
+msgid "wysoką zjawę"
+msgstr ""
+
+msgctxt "txtvau007D"
+msgid "niższą zjawę"
+msgstr ""
+
+msgctxt "txtvoo002D"
+msgid "dziwne lustro"
+msgstr ""
+
+msgctxt "txtvoo003D"
+msgid "stół w kształcie dłoni"
+msgstr ""
+
+msgctxt "txtvoo020D"
+msgid "mały palec"
+msgstr ""
+
+msgctxt "txtwed001D"
+msgid "naładowna armata"
+msgstr ""
+
+msgctxt "txtwed003D"
+msgid "rozrzucone wegielki"
+msgstr ""
+
+msgctxt "txtwed006D"
+msgid "obcy statek"
+msgstr ""
+
 msgctxt "txtact001"
 msgid "Things to Do on Męlée Island™ When You're Dead"
 msgstr "Rzeczy, które robisz na Wyspie Szpady, będąc martwym."
@@ -48525,5 +49033,1261 @@ msgstr ""
 msgctxt "txtcdt800"
 msgid "Patent-Nr. 5.315.057"
 msgstr ""
+
+msgctxt "babm003b"
+msgid "If you'll just follow me into the vault,"
+msgstr "If you'll just follow me into the vault,"
+
+msgctxt "babm004"
+msgid "Ummph. Ahhh. Well, here it is, sir: the safe deposit chest of H.T. Marley, just as he left it over 20 years ago."
+msgstr "Ummph. Ahhh. Well, here it is, sir: the safe deposit chest of H.T. Marley, just as he left it over 20 years ago."
+
+msgctxt "babm006"
+msgid "That Governor Marley was an eccentric old salt, wasn't he? Huh. Ha. We were all crushed when he disappeared off the face of the Earth like he did.  Anyway, well I've got some loans to turn down.  You just let me know when you're done here, and I'll come running."
+msgstr "That Governor Marley was an eccentric old salt, wasn't he? Huh. Ha. We were all crushed when he disappeared off the face of the Earth like he did.  Anyway, well I've got some loans to turn down.  You just let me know when you're done here, and I'll come running."
+
+msgctxt "babm010"
+msgid "Well, you really should've called me first.  We have rules about leaving the vault unattended."
+msgstr "Well, you really should've called me first.  We have rules about leaving the vault unattended."
+
+msgctxt "bagb005"
+msgid "Wow!  What an amazing collection of...junk.  Why would Grandpa Marley store garbage like this in a bank?"
+msgstr "Wow!  What an amazing collection of...junk.  Why would Grandpa Marley store garbage like this in a bank?"
+
+msgctxt "bagb007"
+msgid "Gee...thanks. Well, I guess I better start looking for that deed to the Governor's Mansion, so I can get home to Elaine. Hm. Let's see now...hot water bottle...monkey pacifier...grogamints...Jimmy Hoffa...um do it yourself tattoo kit...uh bloody stiletto knife...bottomless mug..."
+msgstr "Gee...thanks. Well, I guess I better start looking for that deed to the Governor's Mansion, so I can get home to Elaine. Hm. Let's see now...hot water bottle...monkey pacifier...grogamints...Jimmy Hoffa...um do it yourself tattoo kit...uh bloody stiletto knife...bottomless mug..."
+
+msgctxt "bagb020"
+msgid "Well, for one thing, Guybrush is much better looking than you are. Sniff sniff. And for another the REAL Guybrush doesn't smell like anchovy halitosis.  Whew!"
+msgstr "Well, for one thing, Guybrush is much better looking than you are. Sniff sniff. And for another the REAL Guybrush doesn't smell like anchovy halitosis.  Whew!"
+
+msgctxt "bapp009"
+msgid "I was, um, I was looking for a Grog machine.  Rummaging through family heirlooms is thirsty work."
+msgstr "I was, um, I was looking for a Grog machine.  Rummaging through family heirlooms is thirsty work."
+
+msgctxt "bapp021"
+msgid "All right, me bucko, that's enough of that!  Back away form the Marley heirlooms, and be quick about it!  Now, Mister Threepwood, take a good long look at the last face you'll ever see! He he he."
+msgstr "All right, me bucko, that's enough of that!  Back away form the Marley heirlooms, and be quick about it!  Now, Mister Threepwood, take a good long look at the last face you'll ever see! He he he."
+
+msgctxt "canhoj048"
+msgid "Crystal.  Ulp."
+msgstr "Crystal.  Ulp."
+
+msgctxt "doel003"
+msgid "Hmm. I hope the loyal citizens of M�l�e don't hurt themselves.  I mean, you know, all the pushing and shoving on the dock to see my, ... uh, well, our, return could be dangerous.  Make sure this one stays on top."
+msgstr "Hmm. I hope the loyal citizens of M�l�e don't hurt themselves.  I mean, you know, all the pushing and shoving on the dock to see my, ... uh, well, our, return could be dangerous.  Make sure this one stays on top."
+
+msgctxt "doel005"
+msgid "The burden of being the Governor of such an adoring, yet unsophisticated public can be so draining.  I'll be lucky if I get a second to myself for months!"
+msgstr "The burden of being the Governor of such an adoring, yet unsophisticated public can be so draining.  I'll be lucky if I get a second to myself for months!"
+
+msgctxt "doel010"
+msgid "Where's the welcoming committee, the banners, the crushing throng of well-wishers? Oh dear.  Do you know what this means?"
+msgstr "Where's the welcoming committee, the banners, the crushing throng of well-wishers? Oh dear.  Do you know what this means?"
+
+msgctxt "dogb004"
+msgid "Then there was the swab who came at me with the rusty fid!  I sure taught him a thing or two about the proper use of deck chairs!"
+msgstr "Then there was the swab who came at me with the rusty fid!  I sure taught him a thing or two about the proper use of deck chairs!"
+
+msgctxt "dogb006"
+msgid "You know, we make a great team; the way we communicate, the way we work together, the way we anticipate each other's every move; there's nothing we can't accomplish..."
+msgstr "You know, we make a great team; the way we communicate, the way we work together, the way we anticipate each other's every move; there's nothing we can't accomplish..."
+
+msgctxt "doti015"
+msgid "Oop! Eek eek! Chee!"
+msgstr "Oop! Eek eek! Chee!"
+
+msgctxt "doti017"
+msgid "Oop oop oop!"
+msgstr "Oop oop oop!"
+
+msgctxt "duca002"
+msgid "Why, those ignorant, anarchist, savages!  How dare they plot against my benevolent tyranny!  Simkins!  Wheel out the Really Big Cannon!"
+msgstr "Why, those ignorant, anarchist, savages!  How dare they plot against my benevolent tyranny!  Simkins!  Wheel out the Really Big Cannon!"
+
+msgctxt "duca004"
+msgid "I've had just about enough of your pusillanimous insubordination, Simkins!  Now, roll out the Really Big Cannon, and blow up those terrorists this instant!"
+msgstr "I've had just about enough of your pusillanimous insubordination, Simkins!  Now, roll out the Really Big Cannon, and blow up those terrorists this instant!"
+
+msgctxt "dugb001"
+msgid "Yaarr! Why, helloooo there, Lil' LeChuck!  What do you think we should do today!"
+msgstr "Yaarr! Why, helloooo there, Lil' LeChuck!  What do you think we should do today!"
+
+msgctxt "e1el010"
+msgid "S...Stop...St...Stop it! Y...Y...You can't be stupid enough to believe that Charles is just gonna give you free grog and good times, can you!?"
+msgstr "S...Stop...St...Stop it! Y...Y...You can't be stupid enough to believe that Charles is just gonna give you free grog and good times, can you!?"
+
+msgctxt "e2ch002"
+msgid "My opponent is right: I am a newcomer to these islands.  And it's true that my experience in affairs of state is minimal at best.  But it doesn't take a seventh-generation pirate princess to see that M�l�e Island� needs more than a part-time status quo Governor...a Governor who can't even promise her citizens...Good Times and Free Grog!"
+msgstr "My opponent is right: I am a newcomer to these islands.  And it's true that my experience in affairs of state is minimal at best.  But it doesn't take a seventh-generation pirate princess to see that M�l�e Island� needs more than a part-time status quo Governor...a Governor who can't even promise her citizens...Good Times and Free Grog!"
+
+msgctxt "e2el001"
+msgid "...And so, my swashbuckling citizens, as we approach the next century, can we really afford to entrust M�l�e Island's future to a man with no past, a man with no experience, a man who doesn't even seem to LIKE pirates?  Common sense says "no.""
+msgstr "...And so, my swashbuckling citizens, as we approach the next century, can we really afford to entrust M�l�e Island's future to a man with no past, a man with no experience, a man who doesn't even seem to LIKE pirates?  Common sense says "no.""
+
+msgctxt "e3ch002"
+msgid "Thanks for your support citizen!  Good Times and Free Grog are just around the corner!"
+msgstr "Thanks for your support citizen!  Good Times and Free Grog are just around the corner!"
+
+msgctxt "e3ch007"
+msgid "Well, that should just about wrap things up.  I think I'll go pack my bags, and get ready to move into the Governor's Mansion. Ha ha ha ha. Yaaar!"
+msgstr "Well, that should just about wrap things up.  I think I'll go pack my bags, and get ready to move into the Governor's Mansion. Ha ha ha ha. Yaaar!"
+
+msgctxt "e3el001"
+msgid "Hi! Hey! Thanks for coming out to vote!  Remember, a vote for me is a vote against demon-spawned hell-pirates!"
+msgstr "Hi! Hey! Thanks for coming out to vote!  Remember, a vote for me is a vote against demon-spawned hell-pirates!"
+
+msgctxt "e3el003"
+msgid "Don't vote for Charles, he's really LeChuck, the demon zombie ghost pirate from Hell!"
+msgstr "Don't vote for Charles, he's really LeChuck, the demon zombie ghost pirate from Hell!"
+
+msgctxt "e3el006"
+msgid "Aha! Ah! There, there, you see!?  Charles is LeChuck, look!"
+msgstr "Aha! Ah! There, there, you see!?  Charles is LeChuck, look!"
+
+msgctxt "e3p4004"
+msgid "Oh, give it up, Mrs. Threepwood.  Everybody knows that LeChuck is dead, and that your husband killed him.  You'll have to excuse her, Mister Charles."
+msgstr "Oh, give it up, Mrs. Threepwood.  Everybody knows that LeChuck is dead, and that your husband killed him.  You'll have to excuse her, Mister Charles."
+
+msgctxt "eyel007"
+msgid "This is horrible.  LeChuck has enslaved my people!  It's a good thing my grandfather isn't alive to see this.  But why is he making them build that statue?  What does that have to do with the Ultimate Insult?  What's happened to Guybrush?  What's that smell?"
+msgstr "This is horrible.  LeChuck has enslaved my people!  It's a good thing my grandfather isn't alive to see this.  But why is he making them build that statue?  What does that have to do with the Ultimate Insult?  What's happened to Guybrush?  What's that smell?"
+
+msgctxt "eyel011"
+msgid "Gee, You know I'd like to, but I have to wash my hair for the next seven years."
+msgstr "Gee, You know I'd like to, but I have to wash my hair for the next seven years."
+
+msgctxt "eyp1001"
+msgid "Uuuugh....huuuugh. Ha! Good Times, Free Grog,' my pockmarked fanny! You should all be ashamed of yourselves!"
+msgstr "Uuuugh....huuuugh. Ha! Good Times, Free Grog,' my pockmarked fanny! You should all be ashamed of yourselves!"
+
+msgctxt "eyp1004"
+msgid "Well, if NONE of us voted for him, then why is he the Governor?  And why are we being forced to build this colossal commemorative statue of him in the center of town?"
+msgstr "Well, if NONE of us voted for him, then why is he the Governor?  And why are we being forced to build this colossal commemorative statue of him in the center of town?"
+
+msgctxt "eypp010"
+msgid "Aye.  The Governor and Mister Mandrill have a few questions they'd like to ask you."
+msgstr "Aye.  The Governor and Mister Mandrill have a few questions they'd like to ask you."
+
+msgctxt "fioz003"
+msgid "Hey! Wait a minute...ya can't do this to me...I'm Ozzie Mandrill...I'm the future of the Caribbean...I command...stop...don't...Aaiiiiiiieeeeeee!"
+msgstr "Hey! Wait a minute...ya can't do this to me...I'm Ozzie Mandrill...I'm the future of the Caribbean...I command...stop...don't...Aaiiiiiiieeeeeee!"
+
+msgctxt "gmgb008"
+msgid "Giant Monkey Robot?  Hmm. Are you sure you have all of your memory back?  Maybe I should hit you again..."
+msgstr "Giant Monkey Robot?  Hmm. Are you sure you have all of your memory back?  Maybe I should hit you again..."
+
+msgctxt "gmhn007"
+msgid "We're taking this Giant Monkey Robot to M�l�e Island� to rescue my granddaughter!"
+msgstr "We're taking this Giant Monkey Robot to M�l�e Island� to rescue my granddaughter!"
+
+msgctxt "googme075"
+msgid "45..."
+msgstr "45..."
+
+msgctxt "guymel156"
+msgid "But--"
+msgstr "But--"
+
+msgctxt "guyvau004"
+msgid "It's a small pile of packing sponge."
+msgstr "It's a small pile of packing sponge."
+
+msgctxt "guyvau025"
+msgid "MINUTES LATER..."
+msgstr "MINUTES LATER..."
+
+msgctxt "h1ch034"
+msgid "Mwah-hah-haaaa!  The pirates of M�l�e couldn't see through a window!  They can't even see what's right in front of them!"
+msgstr "Mwah-hah-haaaa!  The pirates of M�l�e couldn't see through a window!  They can't even see what's right in front of them!"
+
+msgctxt "h1el008"
+msgid "Oh, Guybrush, this is wonderful!  Estaban, take these papers down to the M�l�e Town Hall, and save my mansion!"
+msgstr "Oh, Guybrush, this is wonderful!  Estaban, take these papers down to the M�l�e Town Hall, and save my mansion!"
+
+msgctxt "h1el024"
+msgid "Well, seems like the sensible thing to do would be to destroy my grandfather's heirlooms, so that no one could get their hands on the Ultimate Insult, whatever that is."
+msgstr "Well, seems like the sensible thing to do would be to destroy my grandfather's heirlooms, so that no one could get their hands on the Ultimate Insult, whatever that is."
+
+msgctxt "h1el029"
+msgid "Charles, you manipulating weasel, get out of my house before I sic my piranha poodles on you!"
+msgstr "Charles, you manipulating weasel, get out of my house before I sic my piranha poodles on you!"
+
+msgctxt "h1el033"
+msgid "I don't care what the polls say, the pirates of M�l�e will see through your tissues of false hopes and empty promises!"
+msgstr "I don't care what the polls say, the pirates of M�l�e will see through your tissues of false hopes and empty promises!"
+
+msgctxt "h1el033c"
+msgid "of false hopes and empty promises!"
+msgstr "of false hopes and empty promises!"
+
+msgctxt "h1el044"
+msgid "Ha! How do you expect to be elected once I tell everyone that you're really LeChuck?"
+msgstr "Ha! How do you expect to be elected once I tell everyone that you're really LeChuck?"
+
+msgctxt "h1es002"
+msgid "I'm afraid it is, Governor.  Charles L. Charles's 'Good Times/Free Grog' campaign has given him a 23% lead in all the polls."
+msgstr "I'm afraid it is, Governor.  Charles L. Charles's 'Good Times/Free Grog' campaign has given him a 23% lead in all the polls."
+
+msgctxt "h1gb010"
+msgid "Well, that's a funny story.  It all started when I went looking for the no-nosed pirate..."
+msgstr "Well, that's a funny story.  It all started when I went looking for the no-nosed pirate..."
+
+msgctxt "h1gb013"
+msgid "...and so, the lawyers used the Marley Mansion deed to draw up the legal papers to save the mansion, and I came back here."
+msgstr "...and so, the lawyers used the Marley Mansion deed to draw up the legal papers to save the mansion, and I came back here."
+
+msgctxt "h1lc045"
+msgid "Go ahead, tell them.  Shout it from the rooftops.  It will only ensure my victory.  And once I'm elected, I'll use my gubernatorial powers to divine the secrets of the Ultimate Insult--"
+msgstr "Go ahead, tell them.  Shout it from the rooftops.  It will only ensure my victory.  And once I'm elected, I'll use my gubernatorial powers to divine the secrets of the Ultimate Insult--"
+
+msgctxt "h1lc047"
+msgid "You heard me, the Ultimate Insult!  With its unholy power, I'll make the seas run red with the blood of my enemies!  I'll bring the forces of Hell to the shores of the Caribbean!  And I'll finally make Elaine my willing bride!  Mwah-hah-hahhhhh!"
+msgstr "You heard me, the Ultimate Insult!  With its unholy power, I'll make the seas run red with the blood of my enemies!  I'll bring the forces of Hell to the shores of the Caribbean!  And I'll finally make Elaine my willing bride!  Mwah-hah-hahhhhh!"
+
+msgctxt "h2gb012"
+msgid "Don't do it, LeChuck!  He wants to use the Ultimate Insult to humiliate every pirate on the face of the Earth!"
+msgstr "Don't do it, LeChuck!  He wants to use the Ultimate Insult to humiliate every pirate on the face of the Earth!"
+
+msgctxt "h2gb016"
+msgid "But why, LeChuck?  Why would a swashbuckling, albeit demonically evil, pirate like yourself willingly aid in the mass emasculation of your fellow buccaneers?"
+msgstr "But why, LeChuck?  Why would a swashbuckling, albeit demonically evil, pirate like yourself willingly aid in the mass emasculation of your fellow buccaneers?"
+
+msgctxt "h2gb020"
+msgid "Fine, you owe the guy.  But why go along with this plan to irreversibly insult all the pirates?"
+msgstr "Fine, you owe the guy.  But why go along with this plan to irreversibly insult all the pirates?"
+
+msgctxt "h2gb027"
+msgid "Uh. Yeah, ha ha, a hostage!  Besides, even if you kill me, Elaine'll still never marry you!  She hates your stinking undead guts!"
+msgstr "Uh. Yeah, ha ha, a hostage!  Besides, even if you kill me, Elaine'll still never marry you!  She hates your stinking undead guts!"
+
+msgctxt "h2gb035"
+msgid "Good for her. I hope she comes back with an army of pirates and kicks your sorry butts."
+msgstr "Good for her. I hope she comes back with an army of pirates and kicks your sorry butts."
+
+msgctxt "h2lc019"
+msgid "-But it basically boils down to two reasons.  First of all..   ..this Mandrill scalawag pulled me out from under that mountain of ice that YOU left me under, and LeChuck ALWAYS repays his debts."
+msgstr "-But it basically boils down to two reasons.  First of all..   ..this Mandrill scalawag pulled me out from under that mountain of ice that YOU left me under, and LeChuck ALWAYS repays his debts."
+
+msgctxt "h2lc029"
+msgid "In other words, the perfect wife! Ha ha! Of course, there's still the small matter of her current husband-"
+msgstr "In other words, the perfect wife! Ha ha! Of course, there's still the small matter of her current husband-"
+
+msgctxt "h2lc031"
+msgid "Are you sure I can't kill him yet?  I've left him alive before, and it's always turned out to be a big mistake."
+msgstr "Are you sure I can't kill him yet?  I've left him alive before, and it's always turned out to be a big mistake."
+
+msgctxt "h2lc039"
+msgid "Ha ha! That's a hellishly good idea. And I know just the place...Mwah-hah-hahhhh!"
+msgstr "Ha ha! That's a hellishly good idea. And I know just the place...Mwah-hah-hahhhh!"
+
+msgctxt "h2oz010"
+msgid "Governor LeChuck, would you be kind enough to relieve Mister Threepwood of the pieces to the Ultimate Insult."
+msgstr "Governor LeChuck, would you be kind enough to relieve Mister Threepwood of the pieces to the Ultimate Insult."
+
+msgctxt "h2oz021"
+msgid "Because, you seafaring scum weasel, when we succeed in breaking the fighting spirit of all the pirates, LeChuck will finally have the one thing he's always wanted in life. Or death, as the case may be."
+msgstr "Because, you seafaring scum weasel, when we succeed in breaking the fighting spirit of all the pirates, LeChuck will finally have the one thing he's always wanted in life. Or death, as the case may be."
+
+msgctxt "h2oz028"
+msgid "Ah, but that's the beauty of the Ultimate Insult, Threepwood. Once your wife has been exposed to its hideous, demoralizing power, her fiery pirate spirit will be shattered like so many emu eggs, leaving her compliant, submissive, and obedient. Heh heh."
+msgstr "Ah, but that's the beauty of the Ultimate Insult, Threepwood. Once your wife has been exposed to its hideous, demoralizing power, her fiery pirate spirit will be shattered like so many emu eggs, leaving her compliant, submissive, and obedient. Heh heh."
+
+msgctxt "h2oz034"
+msgid "We were hoping that you could answer that question, Mister Threepwood. Your mischievous Sheila went walkabout right after Captain LeChuck was elected governor of this pirate-infested backwater of an island."
+msgstr "We were hoping that you could answer that question, Mister Threepwood. Your mischievous Sheila went walkabout right after Captain LeChuck was elected governor of this pirate-infested backwater of an island."
+
+msgctxt "h2oz038"
+msgid "I see your point. How about we stow the twerp in an inescapable far away place where he can't do any harm? Then he'll still be a useful hostage, but he won't be able to affect our plans?"
+msgstr "I see your point. How about we stow the twerp in an inescapable far away place where he can't do any harm? Then he'll still be a useful hostage, but he won't be able to affect our plans?"
+
+msgctxt "habshi029"
+msgid "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'"
+msgstr "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'"
+
+msgctxt "habshi084"
+msgid "First, bring it back in the same (or better) condition as it is now."
+msgstr "First, bring it back in the same (or better) condition as it is now."
+
+msgctxt "habshi085"
+msgid "Second, life preservers are to be worn by all crew and passengers at all times."
+msgstr "Second, life preservers are to be worn by all crew and passengers at all times."
+
+msgctxt "habshi086"
+msgid "Finally, this vehicle is to be used for official business only, so...."
+msgstr "Finally, this vehicle is to be used for official business only, so...."
+
+msgctxt "hegb021"
+msgid "So YOU were the one who told Ozzie about the lucrative development opportunities of the Caribbean."
+msgstr "So YOU were the one who told Ozzie about the lucrative development opportunities of the Caribbean."
+
+msgctxt "hegb032"
+msgid "B-b-b-but you can't be Governor Marley! I mean. Everyone knows that H.T. Marley died over 20 years ago...off the coast of Australia...in a boat race..."
+msgstr "B-b-b-but you can't be Governor Marley! I mean. Everyone knows that H.T. Marley died over 20 years ago...off the coast of Australia...in a boat race..."
+
+msgctxt "hehn005"
+msgid "Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!"
+msgstr "Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!"
+
+msgctxt "hehn007"
+msgid "Who?  Oh yeah, that's me.  'Herman.'  Heh. Heh. Heh. Listen, junior, you'd better take a seat, because I've got some whale-staggering news to lay on you."
+msgstr "Who?  Oh yeah, that's me.  'Herman.'  Heh. Heh. Heh. Listen, junior, you'd better take a seat, because I've got some whale-staggering news to lay on you."
+
+msgctxt "hehn011"
+msgid "I'll get to that. First, let me tell you how I ended up here on Monkey Island�, with nothing but a busted accordion, most of the clothes on my back, and a head full of broken memories."
+msgstr "I'll get to that. First, let me tell you how I ended up here on Monkey Island�, with nothing but a busted accordion, most of the clothes on my back, and a head full of broken memories."
+
+msgctxt "hehn014"
+msgid "Like so many stories, it began some twenty years ago in a bar on the other side of the world.  I had been lured out of my peaceful retirement in the Caribbean by the thrill of a dangerous sailing regatta off the coast of Australia."
+msgstr "Like so many stories, it began some twenty years ago in a bar on the other side of the world.  I had been lured out of my peaceful retirement in the Caribbean by the thrill of a dangerous sailing regatta off the coast of Australia."
+
+msgctxt "hehn018"
+msgid "Anyhow, the night before the competition, I was steeling myself for the race with several pitchers of grog, when I was joined at the bar by one of the other competitors; an unhappy Australian tycoon with the unlikely name of Ozzie Mandrill."
+msgstr "Anyhow, the night before the competition, I was steeling myself for the race with several pitchers of grog, when I was joined at the bar by one of the other competitors; an unhappy Australian tycoon with the unlikely name of Ozzie Mandrill."
+
+msgctxt "hehn020"
+msgid "Yes!  The poor guy seemed so sad, just because no one would do business with him anymore.  To cheer him up, I regaled him with stories of my adventures on the untamed Caribbean seas."
+msgstr "Yes!  The poor guy seemed so sad, just because no one would do business with him anymore.  To cheer him up, I regaled him with stories of my adventures on the untamed Caribbean seas."
+
+msgctxt "hehn023"
+msgid "The next day, as I reached the race's halfway point, I'd already forgotten the grog-induced revelries of the night before.  Suddenly, I found myself being rammed by another boat, pushed into a freakish whirlpool.  It was none other than Ozzie."
+msgstr "The next day, as I reached the race's halfway point, I'd already forgotten the grog-induced revelries of the night before.  Suddenly, I found myself being rammed by another boat, pushed into a freakish whirlpool.  It was none other than Ozzie."
+
+msgctxt "hehn027"
+msgid "I hadn't just told Ozzie about the wonders of the Caribbean; I'd also told him about all of its terrible voodoo secrets; secrets that men would kill to possess.  I'd told him about the Gate to Heck known as 'Big Whoop.'  I'd told him about the Unbelievable Lineage of the Three-Headed Monkey.  Worst of all, I'd told him about the Ultimate Insult, the voodoo talisman that could make mice out of men!"
+msgstr "I hadn't just told Ozzie about the wonders of the Caribbean; I'd also told him about all of its terrible voodoo secrets; secrets that men would kill to possess.  I'd told him about the Gate to Heck known as 'Big Whoop.'  I'd told him about the Unbelievable Lineage of the Three-Headed Monkey.  Worst of all, I'd told him about the Ultimate Insult, the voodoo talisman that could make mice out of men!"
+
+msgctxt "hehn029"
+msgid "Strangely, the whirlpool didn't kill me; instead it dropped me and my shattered ship on the other side of the world, bobbing in the middle of the Caribbean!  I washed up on the shore of this despicable isle, right over there.  Just as I started to crawl up the beach, a monstrous, debris filled wave crashed down upon me, smacking me square on the noggin with my cherished, monogrammed accordion. By the time I had righted myself, I had no idea who I was, or where I came from.  I took the name 'Herman Toothrot,' after the remaining letters on my accordion...'H.T.'"
+msgstr "Strangely, the whirlpool didn't kill me; instead it dropped me and my shattered ship on the other side of the world, bobbing in the middle of the Caribbean!  I washed up on the shore of this despicable isle, right over there.  Just as I started to crawl up the beach, a monstrous, debris filled wave crashed down upon me, smacking me square on the noggin with my cherished, monogrammed accordion. By the time I had righted myself, I had no idea who I was, or where I came from.  I took the name 'Herman Toothrot,' after the remaining letters on my accordion...'H.T.'"
+
+msgctxt "hehn036"
+msgid "Oh, that's just wonderful.  I finally rid myself of twenty years of amnesia, and the first thing I learn is that my granddaughter has married the sorriest excuse for a pirate in the seven seas.  Somebody get me a coconut so I can go back to being blissfully ignorant..."
+msgstr "Oh, that's just wonderful.  I finally rid myself of twenty years of amnesia, and the first thing I learn is that my granddaughter has married the sorriest excuse for a pirate in the seven seas.  Somebody get me a coconut so I can go back to being blissfully ignorant..."
+
+msgctxt "hehn052"
+msgid "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
+msgstr "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
+
+msgctxt "inel010a"
+msgid "Eh...ha...cha!"
+msgstr "Eh...ha...cha!"
+
+msgctxt "inel010b"
+msgid "Yah!"
+msgstr "Yah!"
+
+msgctxt "inel010c"
+msgid "Ugh...ha."
+msgstr "Ugh...ha."
+
+msgctxt "inel010d"
+msgid "Yah....ugh...ah."
+msgstr "Yah....ugh...ah."
+
+msgctxt "inel010e"
+msgid "Ugh...ugh....yah."
+msgstr "Ugh...ugh....yah."
+
+msgctxt "ingb001"
+msgid "From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate."
+msgstr "From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate."
+
+msgctxt "ingb002"
+msgid "Who could have suspected that such a humble pursuit would lead me to cross swords with the evil Ghost Pirate LeChuck, the slimiest slug to ever plunder the seven seas?"
+msgstr "Who could have suspected that such a humble pursuit would lead me to cross swords with the evil Ghost Pirate LeChuck, the slimiest slug to ever plunder the seven seas?"
+
+msgctxt "ingb006"
+msgid "And who could have guessed that my battles with LeChuck would introduce me to the love of my life, M�l�e Island's� Governor Elaine Marley?"
+msgstr "And who could have guessed that my battles with LeChuck would introduce me to the love of my life, M�l�e Island's� Governor Elaine Marley?"
+
+msgctxt "ingb007"
+msgid "Or that my efforts to win Elaine's hand would repeatedly drag me to the mystery-drenched shores of Monkey Island�?"
+msgstr "Or that my efforts to win Elaine's hand would repeatedly drag me to the mystery-drenched shores of Monkey Island�?"
+
+msgctxt "ingb008"
+msgid "Or that I would finally end the scourge of LeChuck, burying him beneath a mountain of ice?"
+msgstr "Or that I would finally end the scourge of LeChuck, burying him beneath a mountain of ice?"
+
+msgctxt "ingb009"
+msgid "Not me, that's for sure.  Back then the only thing duller than my sword was my wit.  Now look at me.  I'm married to the most beautiful governmental official in the Caribbean, the entire Tri-Island Area shudders at the sound of my name, and now my Plunder Bunny and I are returning to M�l�e Island� after the most incredible honeymoon in the history of-"
+msgstr "Not me, that's for sure.  Back then the only thing duller than my sword was my wit.  Now look at me.  I'm married to the most beautiful governmental official in the Caribbean, the entire Tri-Island Area shudders at the sound of my name, and now my Plunder Bunny and I are returning to M�l�e Island� after the most incredible honeymoon in the history of-"
+
+msgctxt "madl004"
+msgid "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
+msgstr "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
+
+msgctxt "melu005"
+msgid "Ah ha! ...I am Breeeliant! No? She is feexed!...Oh, no... but my beautiful painteeen.  She is ruined!"
+msgstr "Ah ha! ...I am Breeeliant! No? She is feexed!...Oh, no... but my beautiful painteeen.  She is ruined!"
+
+msgctxt "murgpt025"
+msgid "(Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises.)"
+msgstr "(Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises.)"
+
+msgctxt "navgpt029"
+msgid "This old ship is in need of some major fixin' before it goes shovin' off again."
+msgstr "This old ship is in need of some major fixin' before it goes shovin' off again."
+
+msgctxt "navscu120"
+msgid "I said..."
+msgstr "I said..."
+
+msgctxt "nocd010"
+msgid "Hold on.  Maybe I should do a background check on you.  Just because you didn't rob the bank doesn't mean that you aren't wanted for other, more heinous crimes."
+msgstr "Hold on.  Maybe I should do a background check on you.  Just because you didn't rob the bank doesn't mean that you aren't wanted for other, more heinous crimes."
+
+msgctxt "nocd014"
+msgid "On the other hand, without the stigma of felonious robbery hanging over your head, you seem pretty harmless, so, off you go!"
+msgstr "On the other hand, without the stigma of felonious robbery hanging over your head, you seem pretty harmless, so, off you go!"
+
+msgctxt "ozel061"
+msgid "Am I the only one seeing a giant walking statue of LeChuck on our front lawn?"
+msgstr "Am I the only one seeing a giant walking statue of LeChuck on our front lawn?"
+
+msgctxt "ozhn044"
+msgid "Nice kid, but about as sharp as a soggy pancake, y'know what I mean?"
+msgstr "Nice kid, but about as sharp as a soggy pancake, y'know what I mean?"
+
+msgctxt "ozjj089"
+msgid "Now is the time foretold in the ancient prophecies of Monkey Island�.  Now is the time for the ultimate in..."
+msgstr "Now is the time foretold in the ancient prophecies of Monkey Island�.  Now is the time for the ultimate in..."
+
+msgctxt "ozlc012"
+msgid "I'll tell ya what's wrong!  This so-called 'Ultimate Insult' doesn't work!  I've tried whacking it against every piece of junk in this accursed hovel, but nothing happens!"
+msgstr "I'll tell ya what's wrong!  This so-called 'Ultimate Insult' doesn't work!  I've tried whacking it against every piece of junk in this accursed hovel, but nothing happens!"
+
+msgctxt "ozlc032"
+msgid "Oh, let me use it on Elaine!  With her spirit broken she'll finally consent to be my bride!"
+msgstr "Oh, let me use it on Elaine!  With her spirit broken she'll finally consent to be my bride!"
+
+msgctxt "ozlc034"
+msgid "Ah ha ha ha. Aye, you're a sadist after my own blackened lump of a heart, Mandrill."
+msgstr "Ah ha ha ha. Aye, you're a sadist after my own blackened lump of a heart, Mandrill."
+
+msgctxt "ozlc038"
+msgid "Arrrr, I KNEW this ridiculous plan would never succeed. I guess this just goes to show that you should never send an Australian girly-man to do the work of a real pirate."
+msgstr "Arrrr, I KNEW this ridiculous plan would never succeed. I guess this just goes to show that you should never send an Australian girly-man to do the work of a real pirate."
+
+msgctxt "ozlc073"
+msgid "You insignificant mortal flea!  How dare you wield your pathetic voodoo magiks against the immortal might of the Demon Pirate LeChuck!  I'll grind yer bones to make me grog, ya triple...timin'... bastich!"
+msgstr "You insignificant mortal flea!  How dare you wield your pathetic voodoo magiks against the immortal might of the Demon Pirate LeChuck!  I'll grind yer bones to make me grog, ya triple...timin'... bastich!"
+
+msgctxt "ozoz021"
+msgid "Well, that's seems to have shaved the proverbial dingo. Let's test this bugger out. Ah, Pegnose?"
+msgstr "Well, that's seems to have shaved the proverbial dingo. Let's test this bugger out. Ah, Pegnose?"
+
+msgctxt "ozoz031"
+msgid "Well, Mrs. Threepwood, it seems as though the power of the Ultimate Insult is finally mine! Heh heh."
+msgstr "Well, Mrs. Threepwood, it seems as though the power of the Ultimate Insult is finally mine! Heh heh."
+
+msgctxt "ozoz033"
+msgid "All in due time, Captain. But first, let's give her a taste of things to come by destroying the egos of all her pirate friends!"
+msgstr "All in due time, Captain. But first, let's give her a taste of things to come by destroying the egos of all her pirate friends!"
+
+msgctxt "ozoz035"
+msgid "For years, the Caribbean has been buffeted by the unpredictable winds of runaway piracy. Now, by the power of the Ultimate Insult, I hereby banish those chaotic tempests, and usher in a new age of orderly consumerism! Ha! I am Ozzie Mandrill: Look upon my works, ye mighty pirates, and despair!!! Ha!"
+msgstr "For years, the Caribbean has been buffeted by the unpredictable winds of runaway piracy. Now, by the power of the Ultimate Insult, I hereby banish those chaotic tempests, and usher in a new age of orderly consumerism! Ha! I am Ozzie Mandrill: Look upon my works, ye mighty pirates, and despair!!! Ha!"
+
+msgctxt "ozoz037"
+msgid "Where's the kaboom? There's supposed to be a Caribbean-shattering kaboom! Work, damn your eyes, work!"
+msgstr "Where's the kaboom? There's supposed to be a Caribbean-shattering kaboom! Work, damn your eyes, work!"
+
+msgctxt "ozoz047a"
+msgid "Uuugh....ahhhh....ungh...uuungh...omph."
+msgstr "Uuugh....ahhhh....ungh...uuungh...omph."
+
+msgctxt "ozoz047b"
+msgid "Ugh!"
+msgstr "Ugh!"
+
+msgctxt "ozoz047c"
+msgid "Aaagh!"
+msgstr "Aaagh!"
+
+msgctxt "ozoz050"
+msgid "I don't how you dimwits managed to sabotage my magnificent Insult Amplification Apparatus, but I'll at least have the satisfaction of annihilating your arrogant pirate souls!"
+msgstr "I don't how you dimwits managed to sabotage my magnificent Insult Amplification Apparatus, but I'll at least have the satisfaction of annihilating your arrogant pirate souls!"
+
+msgctxt "ozoz076"
+msgid "Well, eventually, I'll be wanting you to squish every pirate on the face of the planet into a sticky red goo, but for now, let's just...KILL GUYBRUSH THREEPWOOD!"
+msgstr "Well, eventually, I'll be wanting you to squish every pirate on the face of the planet into a sticky red goo, but for now, let's just...KILL GUYBRUSH THREEPWOOD!"
+
+msgctxt "ozoz086"
+msgid "Well, what an unexpected family reunion! Too bad I have to ruin it by savaging your puny minds with the power of the Ultimate Insult!"
+msgstr "Well, what an unexpected family reunion! Too bad I have to ruin it by savaging your puny minds with the power of the Ultimate Insult!"
+
+msgctxt "ozpp024"
+msgid "Look, Mister 'High-And-Mighty' Mandrill, I'm getting awfully tired of following orders. I think it's about time we renegotiated the terms o' my employment."
+msgstr "Look, Mister 'High-And-Mighty' Mandrill, I'm getting awfully tired of following orders. I think it's about time we renegotiated the terms o' my employment."
+
+msgctxt "ozpp026"
+msgid "Or I'll fill yer belly full of lead, ya sissified fossil!  No one messes with Pegnose the Pirate and lives to tell the tale!  I'll rip off your arms and I'll beat ya---"
+msgstr "Or I'll fill yer belly full of lead, ya sissified fossil!  No one messes with Pegnose the Pirate and lives to tell the tale!  I'll rip off your arms and I'll beat ya---"
+
+msgctxt "ozpp028"
+msgid "Please, please don't hurt me, Mister Mandrill!  I'll do whatever you say from now on, I promise!"
+msgstr "Please, please don't hurt me, Mister Mandrill!  I'll do whatever you say from now on, I promise!"
+
+msgctxt "ozzmon001"
+msgid "Ack"
+msgstr "Ack"
+
+msgctxt "ozzmon002"
+msgid "Oop"
+msgstr "Oop"
+
+msgctxt "ozzmon003"
+msgid "Eek"
+msgstr "Eek"
+
+msgctxt "ozzmon004"
+msgid "Chee"
+msgstr "Chee"
+
+msgctxt "ozzozi185"
+msgid "I said..."
+msgstr "I said..."
+
+msgctxt "ozzozi186"
+msgid "Would you mind not harassing my animals?"
+msgstr "Would you mind not harassing my animals?"
+
+msgctxt "uigb006"
+msgid "Yikes, this looks complicated."
+msgstr "Yikes, this looks complicated."
+
+msgctxt "txtcdt158"
+msgid "Heckler: TOM KANE"
+msgstr "Heckler: TOM KANE"
+
+msgctxt "txtcol009"
+msgid "Father Allegro Rasputin"
+msgstr "Father Allegro Rasputin"
+
+msgctxt "gmrmon003a"
+msgid "Eek"
+msgstr "Eek"
+
+msgctxt "gmrmon004a"
+msgid "Chee"
+msgstr "Chee"
+
+msgctxt "txtall520"
+msgid "hrs"
+msgstr "hrs"
+
+msgctxt "txtall521"
+msgid "min"
+msgstr "min"
+
+msgctxt "txtsavcdt"
+msgid "Intro Credits"
+msgstr "Intro Credits"
+
+msgctxt "txtsavtri"
+msgid "Tri-Island Map"
+msgstr "Tri-Island Map"
+
+msgctxt "txtsavwed"
+msgid "Wedding Ship"
+msgstr "Wedding Ship"
+
+msgctxt "txtsavgmi"
+msgid "Mansion Interior"
+msgstr "Mansion Interior"
+
+msgctxt "txtsavvoo"
+msgid "House of Mojo"
+msgstr "House of Mojo"
+
+msgctxt "txtsavscu"
+msgid "SCUMM Bar"
+msgstr "SCUMM Bar"
+
+msgctxt "txtsavmdo"
+msgid "Melee Town Docks"
+msgstr "Melee Town Docks"
+
+msgctxt "txtsavshi"
+msgid "Melee Shipyards"
+msgstr "Melee Shipyards"
+
+msgctxt "txtsavmhe"
+msgid "Outside Meathook's"
+msgstr "Outside Meathook's"
+
+msgctxt "txtsavmhi"
+msgid "Inside Meathook's"
+msgstr "Inside Meathook's"
+
+msgctxt "txtsavmem"
+msgid "Melee Island Map"
+msgstr "Melee Island Map"
+
+msgctxt "txtsavmel"
+msgid "Melee Town"
+msgstr "Melee Town"
+
+msgctxt "txtsavgme"
+msgid "Mansion Exterior"
+msgstr "Mansion Exterior"
+
+msgctxt "txtsavlua"
+msgid "Lua Bar"
+msgstr "Lua Bar"
+
+msgctxt "txtsavkit"
+msgid "Lua Bar Kitchen"
+msgstr "Lua Bar Kitchen"
+
+msgctxt "txtsavlaw"
+msgid "Law Offices"
+msgstr "Law Offices"
+
+msgctxt "txtsavvau"
+msgid "Bank Vault"
+msgstr "Bank Vault"
+
+msgctxt "txtsavban"
+msgid "Lucre Bank"
+msgstr "Lucre Bank"
+
+msgctxt "txtsavbas"
+msgid "Bait Shoppe"
+msgstr "Bait Shoppe"
+
+msgctxt "txtsavhos"
+msgid "House of Sticks"
+msgstr "House of Sticks"
+
+msgctxt "txtsavhoj"
+msgid "Hall of Justice"
+msgstr "Hall of Justice"
+
+msgctxt "txtsavlag"
+msgid "Hidden Lagoon"
+msgstr "Hidden Lagoon"
+
+msgctxt "txtsavulg"
+msgid "Lagoon Underwater"
+msgstr "Lagoon Underwater"
+
+msgctxt "txtsavmot"
+msgid "Mysts o' Tyme"
+msgstr "Mysts o' Tyme"
+
+msgctxt "txtsavuch"
+msgid "Booty Showcase"
+msgstr "Booty Showcase"
+
+msgctxt "txtsavunc"
+msgid "Underwater Cavern"
+msgstr "Underwater Cavern"
+
+msgctxt "txtsavpph"
+msgid "Pegnose Pete's Hideout"
+msgstr "Pegnose Pete's Hideout"
+
+msgctxt "txtsavfor"
+msgid "Lucre Forest"
+msgstr "Lucre Forest"
+
+msgctxt "txtsavlum"
+msgid "Lucre Island Map"
+msgstr "Lucre Island Map"
+
+msgctxt "txtsavoze"
+msgid "Outside Creepy Mansion"
+msgstr "Outside Creepy Mansion"
+
+msgctxt "txtsavozi"
+msgid "Inside Ozzie's Place"
+msgstr "Inside Ozzie's Place"
+
+msgctxt "txtsavpop"
+msgid "Palace of Prostheses"
+msgstr "Palace of Prostheses"
+
+msgctxt "txtsavluc"
+msgid "Lucre Town"
+msgstr "Lucre Town"
+
+msgctxt "txtsavmig"
+msgid "Microgroggery"
+msgstr "Microgroggery"
+
+msgctxt "txtsavcgs"
+msgid "Casaba's Ship"
+msgstr "Casaba's Ship"
+
+msgctxt "txtsavcpt"
+msgid "Knuttin Atoll"
+msgstr "Knuttin Atoll"
+
+msgctxt "txtsavpta"
+msgid "Pirate Academy"
+msgstr "Pirate Academy"
+
+msgctxt "txtsavkab"
+msgid "Rocky Beach"
+msgstr "Rocky Beach"
+
+msgctxt "txtsavgpt"
+msgid "Jambalaya Town"
+msgstr "Jambalaya Town"
+
+msgctxt "txtsavplt"
+msgid "Planet Threepwood"
+msgstr "Planet Threepwood"
+
+msgctxt "txtsavsta"
+msgid "Stan's "
+msgstr "Stan's "
+
+msgctxt "txtsavstb"
+msgid "Starbuccaneer's"
+msgstr "Starbuccaneer's"
+
+msgctxt "txtsavjam"
+msgid "Jambalaya Island Map"
+msgstr "Jambalaya Island Map"
+
+msgctxt "txtsavpla"
+msgid "Plank Dive"
+msgstr "Plank Dive"
+
+msgctxt "txtsavhei"
+msgid "Inside the Monkey Head"
+msgstr "Inside the Monkey Head"
+
+msgctxt "txtsavcol"
+msgid "Church of LeChuck"
+msgstr "Church of LeChuck"
+
+msgctxt "txtsavcan"
+msgid "Monkey Island Canyon"
+msgstr "Monkey Island Canyon"
+
+msgctxt "txtsavlav"
+msgid "Lava Field"
+msgstr "Lava Field"
+
+msgctxt "txtsavgom"
+msgid "Gold Mine"
+msgstr "Gold Mine"
+
+msgctxt "txtsavjun"
+msgid "Monkey Jungle"
+msgstr "Monkey Jungle"
+
+msgctxt "txtsavmib"
+msgid "Monkey Island Beach"
+msgstr "Monkey Island Beach"
+
+msgctxt "txtsavmoh"
+msgid "Monkey Head"
+msgstr "Monkey Head"
+
+msgctxt "txtsavmom"
+msgid "Monkey Island Map"
+msgstr "Monkey Island Map"
+
+msgctxt "txtsavmon"
+msgid "Monkey Town"
+msgstr "Monkey Town"
+
+msgctxt "txtsavmrb"
+msgid "Strange Machinery Room"
+msgstr "Strange Machinery Room"
+
+msgctxt "txtsavpac"
+msgid "Scenic Overlook"
+msgstr "Scenic Overlook"
+
+msgctxt "txtsavtoc"
+msgid "Herman Toothrot's Camp"
+msgstr "Herman Toothrot's Camp"
+
+msgctxt "txtsavtow"
+msgid "Amplification Tower"
+msgstr "Amplification Tower"
+
+msgctxt "txtsavfin"
+msgid "Finale"
+msgstr "Finale"
+
+msgctxt "txtall522"
+msgid "Square"
+msgstr "Square"
+
+msgctxt "txtall523"
+msgid "Triangle"
+msgstr "Triangle"
+
+msgctxt "txtall524"
+msgid "Circle"
+msgstr "Circle"
+
+msgctxt "txtall525"
+msgid "X"
+msgstr "X"
+
+msgctxt "txtall526"
+msgid "R1"
+msgstr "R1"
+
+msgctxt "txtall527"
+msgid "L1"
+msgstr "L1"
+
+msgctxt "txtall528"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "txtall529"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "txtall530"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "txtall531"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "txtall532"
+msgid "D-up"
+msgstr "D-up"
+
+msgctxt "txtall533"
+msgid "D-down"
+msgstr "D-down"
+
+msgctxt "txtall534"
+msgid "D-left"
+msgstr "D-left"
+
+msgctxt "txtall535"
+msgid "D-right"
+msgstr "D-right"
+
+msgctxt "txtall536"
+msgid "left mushroom"
+msgstr "left mushroom"
+
+msgctxt "txtall537"
+msgid "right mushroom"
+msgstr "right mushroom"
+
+msgctxt "txtall538"
+msgid "DM"
+msgstr "DM"
+
+msgctxt "txtall539"
+msgid "GG"
+msgstr "GG"
+
+msgctxt "txtall540"
+msgid "CC"
+msgstr "CC"
+
+msgctxt "txtall541"
+msgid "BB"
+msgstr "BB"
+
+msgctxt "txtall542"
+msgid "AA"
+msgstr "AA"
+
+msgctxt "txtall543"
+msgid "Resume"
+msgstr "Resume"
+
+msgctxt "txtall544"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "txtall545"
+msgid "Select an option"
+msgstr "Select an option"
+
+msgctxt "txtall546"
+msgid "Audio Options"
+msgstr "Audio Options"
+
+msgctxt "txtall547"
+msgid "Video Options"
+msgstr "Video Options"
+
+msgctxt "txtall548"
+msgid "Use the directional button or the left analog stick to move screen"
+msgstr "Use the directional button or the left analog stick to move screen"
+
+msgctxt "txtall549"
+msgid "Audio Options..."
+msgstr "Audio Options..."
+
+msgctxt "txtall550"
+msgid "Video Options..."
+msgstr "Video Options..."
+
+msgctxt "txtall551"
+msgid "Controller Options..."
+msgstr "Controller Options..."
+
+msgctxt "txtall552"
+msgid "Bonus Features"
+msgstr "Bonus Features"
+
+msgctxt "txtall553"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall554"
+msgid "Screen Adjust"
+msgstr "Screen Adjust"
+
+msgctxt "txtall555"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall556"
+msgid "Controller Type"
+msgstr "Controller Type"
+
+msgctxt "txtall557"
+msgid "Type A"
+msgstr "Type A"
+
+msgctxt "txtall558"
+msgid "Type B"
+msgstr "Type B"
+
+msgctxt "txtall559"
+msgid "Vibration"
+msgstr "Vibration"
+
+msgctxt "txtall560"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall561"
+msgid "Not Used"
+msgstr "Not Used"
+
+msgctxt "txtall562"
+msgid "Move Guybrush"
+msgstr "Move Guybrush"
+
+msgctxt "txtall563"
+msgid "Cycle Objects Up/Dn"
+msgstr "Cycle Objects Up/Dn"
+
+msgctxt "txtall564"
+msgid "(Press)"
+msgstr "(Press)"
+
+msgctxt "txtall565"
+msgid "Are you sure you want to delete this saved game?"
+msgstr "Are you sure you want to delete this saved game?"
+
+msgctxt "txtall566"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "txtall567"
+msgid "Are you sure you wish to overwrite your previous game save?"
+msgstr "Are you sure you wish to overwrite your previous game save?"
+
+msgctxt "txtall568"
+msgid "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?  (Uses 605 KB of space)"
+msgstr "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?  (Uses 605 KB of space)"
+
+msgctxt "txtall569"
+msgid "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?"
+msgstr "This file is empty on the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Are you sure you want to save?"
+
+msgctxt "txtall570"
+msgid "Save"
+msgstr "Save"
+
+msgctxt "txtall571"
+msgid "There is a different Escape From Monkey Island saved game in this file.  Are you sure you want to replace it? (WARNING: The existing saved game will be destroyed)"
+msgstr "There is a different Escape From Monkey Island saved game in this file.  Are you sure you want to replace it? (WARNING: The existing saved game will be destroyed)"
+
+msgctxt "txtall572"
+msgid "New Game"
+msgstr "New Game"
+
+msgctxt "txtall573"
+msgid "Press"
+msgstr "Press"
+
+msgctxt "txtall574"
+msgid "to choose a saved game to play."
+msgstr "to choose a saved game to play."
+
+msgctxt "txtall575"
+msgid "to choose the game to copy to."
+msgstr "to choose the game to copy to."
+
+msgctxt "txtall576"
+msgid "to Delete a game."
+msgstr "to Delete a game."
+
+msgctxt "txtall577"
+msgid "to Copy a game."
+msgstr "to Copy a game."
+
+msgctxt "txtall578"
+msgid "to go back."
+msgstr "to go back."
+
+msgctxt "txtall579"
+msgid "to Stop copying."
+msgstr "to Stop copying."
+
+msgctxt "txtall580"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall581"
+msgid "Load failed."
+msgstr "Load failed."
+
+msgctxt "txtall582"
+msgid "Press a button to continue"
+msgstr "Press a button to continue"
+
+msgctxt "txtall583"
+msgid "Copying Game..."
+msgstr "Copying Game..."
+
+msgctxt "txtall584"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall585"
+msgid "Deleting Game..."
+msgstr "Deleting Game..."
+
+msgctxt "txtall586"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall587"
+msgid "Bonus Stuff"
+msgstr "Bonus Stuff"
+
+msgctxt "txtall588"
+msgid "Concept Art"
+msgstr "Concept Art"
+
+msgctxt "txtall589"
+msgid "MurrayBall!"
+msgstr "MurrayBall!"
+
+msgctxt "txtall590"
+msgid "Monkey Invaders"
+msgstr "Monkey Invaders"
+
+msgctxt "txtall591"
+msgid "Murray Break Out"
+msgstr "Murray Break Out"
+
+msgctxt "txtall592"
+msgid "Out-Takes"
+msgstr "Out-Takes"
+
+msgctxt "txtall593"
+msgid "Return to options menu"
+msgstr "Return to options menu"
+
+msgctxt "txtall594"
+msgid "Return to Bonus menu"
+msgstr "Return to Bonus menu"
+
+msgctxt "txtall595"
+msgid "The memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was changed.  Aborting operation.  Press a button to continue."
+msgstr "The memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was changed.  Aborting operation.  Press a button to continue."
+
+msgctxt "txtall596"
+msgid "Accessing memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "Accessing memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall597"
+msgid "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1.  At least 605 KB are needed to save this game data.  Do you want to start?"
+msgstr "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1.  At least 605 KB are needed to save this game data.  Do you want to start?"
+
+msgctxt "txtall598"
+msgid "Yes"
+msgstr "Yes"
+
+msgctxt "txtall599"
+msgid "No"
+msgstr "No"
+
+msgctxt "txtall600"
+msgid "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1."
+msgstr "No Memory card (8MB) (for PlayStation� 2) inserted in MEMORY CARD slot 1."
+
+msgctxt "txtall601"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "txtall602"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Do you want to format?"
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Do you want to format?"
+
+msgctxt "txtall603"
+msgid "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Do you want to start?"
+msgstr "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Do you want to start?"
+
+msgctxt "txtall604"
+msgid "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "An error has occurred while accessing a memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall605"
+msgid "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data.  Do you want to start?"
+msgstr "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data.  Do you want to start?"
+
+msgctxt "txtall606"
+msgid "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data."
+msgstr "Insufficient space on memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  At least 605 KB are needed to save this application data."
+
+msgctxt "txtall607"
+msgid "Are you sure you want to format Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1?"
+msgstr "Are you sure you want to format Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1?"
+
+msgctxt "txtall608"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 has not been formatted.  Do you want to start?"
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 has not been formatted.  Do you want to start?"
+
+msgctxt "txtall609"
+msgid "Formatting memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+msgstr "Formatting memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1."
+
+msgctxt "txtall610"
+msgid "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+msgstr "Do not reset or turn off the power to the PlayStation� 2, or remove the memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  This may destroy data."
+
+msgctxt "txtall611"
+msgid "Format failed."
+msgstr "Format failed."
+
+msgctxt "txtall612"
+msgid "Saving Game..."
+msgstr "Saving Game..."
+
+msgctxt "txtall613"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was removed.  Save failed.  Press a button to continue."
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 was removed.  Save failed.  Press a button to continue."
+
+msgctxt "txtall614"
+msgid "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Save failed.  Press a button to continue."
+msgstr "Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1 is unformatted.  Save failed.  Press a button to continue."
+
+msgctxt "txtall615"
+msgid "An error occurred while saving to Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Save failed.  Press a button to continue."
+msgstr "An error occurred while saving to Memory card (8MB) (for PlayStation� 2) in MEMORY CARD slot 1.  Save failed.  Press a button to continue."
+
+msgctxt "txtall616"
+msgid "Loading..."
+msgstr "Loading..."
+
+msgctxt "txtall617"
+msgid "GAME OVER"
+msgstr "GAME OVER"
+
+msgctxt "txtall618"
+msgid "You have learned a new move!"
+msgstr "You have learned a new move!"
+
+msgctxt "txtall619"
+msgid "?"
+msgstr "?"
+
+msgctxt "txtall620"
+msgid "to return to game."
+msgstr "to return to game."
+
+msgctxt "txtall621"
+msgid "Press Start"
+msgstr "Press Start"
+
+msgctxt "txtall622"
+msgid "to select."
+msgstr "to select."
+
+msgctxt "txtall623"
+msgid "Type C"
+msgstr "Type C"
+
+msgctxt "txtall624"
+msgid "Type D"
+msgstr "Type D"
+
+msgctxt "txtall625"
+msgid "Type E"
+msgstr "Type E"
+
+msgctxt "txtall626"
+msgid "Copy Successful."
+msgstr "Copy Successful."
+
+msgctxt "txtall627"
+msgid "Delete Successful."
+msgstr "Delete Successful."
+
+msgctxt "txtall628"
+msgid "Mono"
+msgstr "Mono"
+
+msgctxt "txtall629"
+msgid "Stereo"
+msgstr "Stereo"
+
+msgctxt "txtall630"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "txtall631"
+msgid "Saved Data Copy failed."
+msgstr "Saved Data Copy failed."
+
+msgctxt "txtall632"
+msgid "Delete Saved Data failed."
+msgstr "Delete Saved Data failed."
+
+msgctxt "txtcdt523"
+msgid "JIM DIAZ"
+msgstr "JIM DIAZ"
+
+msgctxt "txtcdt524"
+msgid "ERIK ELLICOCK"
+msgstr "ERIK ELLICOCK"
+
+msgctxt "txtcdt525"
+msgid "TONY DEWEESE"
+msgstr "TONY DEWEESE"
+
+msgctxt "txtcdt526"
+msgid "Manual Designer"
+msgstr "Manual Designer"
+
+msgctxt "txtcdt527"
+msgid "Manual Editor"
+msgstr "Manual Editor"
+
+msgctxt "txtall633"
+msgid "Format Successful."
+msgstr "Format Successful."
+
+msgctxt "txtall634"
+msgid "Load Successful."
+msgstr "Load Successful."
 
 

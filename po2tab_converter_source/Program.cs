@@ -2,12 +2,47 @@
 using System.Text.RegularExpressions;
 using System.Text;
 using System.IO;
+using System.Linq;
 
 namespace po2tab_converter
 {
     internal class Program
     {
         static void Main(string[] args)
+        {
+            Convert(args);
+            //ImportLackingLines();
+        }
+
+        private static void ImportLackingLines()
+        {
+            string fileNameEn = "script_en.tab";
+            string fileNamePl = "script_pl.tab";
+
+            string fileEn = File.ReadAllText(fileNameEn);
+            string filePl = File.ReadAllText(fileNamePl);
+
+            string[] linesEn = fileEn.Split("\r\n");
+            string[] linesPl = filePl.Split("\r\n");
+            var listEn = linesEn.Select(x => new Line(x)).Where(x => x.Markup != null);
+            LineMerge._dictPl = linesPl.Select(x => new Line(x))
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
+
+            var linesMerged = listEn.Select(x => new LineMerge(x)).Where(x => string.IsNullOrEmpty(x.ContentsPl)).ToList();
+
+            //msgctxt "txtwed007"
+            //msgid "enemy pirate"
+            //msgstr "wrogi pirat"
+
+            File.WriteAllLines("missing.po", linesMerged.Select(x =>
+                 $"msgctxt \"{x.Markup}\"\r\n" +
+                 $"msgid \"{x.ContentsEn}\"\r\n" +
+                 $"msgstr \"{x.ContentsEn}\"\r\n"));
+
+        }
+        private static void Convert(string[] args)
         {
             string fileName = "..\\..\\..\\omega_t\\team project\\target\\efmi.po";
 

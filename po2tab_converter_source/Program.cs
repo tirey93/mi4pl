@@ -3,6 +3,7 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System.IO;
 using System.Linq;
+using System.Collections.Generic;
 
 namespace po2tab_converter
 {
@@ -19,8 +20,14 @@ namespace po2tab_converter
             string fileNameEn = "script_en.tab";
             string fileNamePl = "script_pl.tab";
 
-            string fileEn = File.ReadAllText(fileNameEn);
-            string filePl = File.ReadAllText(fileNamePl);
+
+
+            System.Text.EncodingProvider ppp = System.Text.CodePagesEncodingProvider.Instance;
+            Encoding.RegisterProvider(ppp);
+
+
+            string fileEn = File.ReadAllText(fileNameEn, Encoding.GetEncoding("windows-1250"));
+            string filePl = File.ReadAllText(fileNamePl, Encoding.GetEncoding("windows-1250"));
 
             string[] linesEn = fileEn.Split("\r\n");
             string[] linesPl = filePl.Split("\r\n");
@@ -30,16 +37,61 @@ namespace po2tab_converter
                 .GroupBy(x => x.Markup)
                 .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
 
-            var linesMerged = listEn.Select(x => new LineMerge(x)).Where(x => string.IsNullOrEmpty(x.ContentsPl)).ToList();
+            var dictEn = listEn
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
 
             //msgctxt "txtwed007"
             //msgid "enemy pirate"
             //msgstr "wrogi pirat"
 
-            File.WriteAllLines("missing.po", linesMerged.Select(x =>
-                 $"msgctxt \"{x.Markup}\"\r\n" +
-                 $"msgid \"{x.ContentsEn}\"\r\n" +
-                 $"msgstr \"{x.ContentsEn}\"\r\n"));
+            /*   File.WriteAllLines("missing.po", linesMerged.Select(x =>
+                    $"msgctxt \"{x.Markup}\"\r\n" +
+                    $"msgid \"{x.ContentsEn}\"\r\n" +
+                    $"msgstr \"{x.ContentsEn}\"\r\n"));*/
+
+            var enMarkup = listEn.Select(x => x.Markup);
+            var enMarkupDict = listEn.Select(x => x.Markup)
+                .Where(x => x != null)
+                .GroupBy(x => x)
+                .ToDictionary(x => x.Key, y => y.Key);
+            var results = new Dictionary<string, List<string>>();
+            foreach (var markup in enMarkup)
+            {
+                var orginal = markup.Substring(0, markup.Length - 1);
+                if (enMarkupDict.ContainsKey(orginal))
+                {
+                    if(results.TryGetValue(orginal, out var duplKeys))
+                    {
+                        duplKeys.Add(markup);
+                    }
+                    else
+                    {
+                        results.Add(orginal, new List<string>() { markup });
+                    }
+                }
+            }
+
+
+            //File.WriteAllLines("dupl.txt", results.Select(x => $"{x.Key} -> {String.Join(",", x.Value)}" ));
+
+            var toFile = "";
+            foreach (var result in results)
+            {
+                foreach(var subStr in result.Value)
+                {
+                    var msgid = dictEn[subStr];
+                    var msgstr = LineMerge._dictPl[result.Key];
+
+                    toFile += 
+                     $"msgctxt \"{subStr}\"\r\n" +
+                     $"msgid \"{msgid}\"\r\n" +
+                     $"msgstr \"{msgstr}\"\r\n\r\n";
+                }
+            }
+
+            File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
 
         }
         private static void Convert(string[] args)

@@ -75,7 +75,6 @@ EYP3006	Cisza!
 OZGB001	To wielki krok dla cz³owieka, ale ma³e pstrykniêcie prze³¹cznikiem dla gigantycznej ma³py-robota.
 OZOZ002	Widzisz....
 OZOZ003	....to ja wyci¹gn¹³em tajemnicê Talizman Zniewagi od twego zapijaczonego dziadka!
-OZGB004	Nie!
 OZOZ005	To ja uszkodzi³em jego statek!
 OZEL006	Nie!
 OZOZ007	I to ja wys³a³em go do wodnego grobu u wybrze¿y Australii!
@@ -582,21 +581,13 @@ guygme089	4...
 googme089	4...
 guygme090	5...
 googme090	5...
-guygme091	-31
 googme091	-31
-guygme092	-20
 googme092	-20
-guygme093	0
 googme093	0
-guygme094	9
 googme094	9
-guygme095	-43
 googme095	-43
-guygme096	-12
 googme096	-12
-guygme097	1
 googme097	1
-guygme098	25
 googme098	25
 guymel031	Witaj!
 clamel012	Co znowu?
@@ -2909,7 +2900,6 @@ baibas025	Z ostatniej dostawy...
 baibas026	Oh, tak...
 baibas027	Tamte gratisy mog¹ byæ odpowiednie.
 guybas053	Spoko.
-baibas028	Ja...
 guybas054	A jak tam idzie interes?
 baibas029	Œmierdz¹co.
 guybas055	Mnie to mówisz?
@@ -4451,7 +4441,6 @@ murgpt021	OGL¥DAJCIE pami¹tki z ostatniej eskapady Guybrusha!
 murgpt022	SPRÓBUJCIE kulinarnych specja³ów sporz¹dzonych dla prawdziwych piratów.
 murgpt023	S£UCHAJCIE prawdziwej pirackiej muzyki!
 murgpt024	POCZUJCIE jak wasze wnêtrzonoœci poruszaj¹ waszym cia³em prosto do restauracji czystego Z£A!!! MWAH-HAH-HAH-HAAA!!!
-waigpt001	Nie drzyj siê tak, Murray!
 clagpt001	Wow, to by³ szalony rejs.
 otigpt001	¯adna intratna posadka nie jest warta takiego zachodu.
 guygpt030	Witam na Wyspie Jambalaya, domu prawdziwych piratów oraz tajemniczych voodoo kl¹tw!
@@ -5459,7 +5448,6 @@ guyplt069	Jeden z tych czêœci przypomina cz³owieka ze z³ota.
 clvplt023	-wzdycha-
 clvplt024	To prawie jak moja figurka "Mœciciela ¯ó³ci".
 guyplt070	To chyba nie to.
-clvplt025	Pewnie masz racje.
 guyplt071	Jedna czêœæ wygl¹da jak czapka piracka z br¹zu.
 clvplt026	Hmmm.
 clvplt027	Nie. Niestety nie mam doœæ du¿o Punktów Doœwiadczenia, ¿eby ci coœ poradziæ.
@@ -5638,21 +5626,14 @@ guykab048	Dziêki.
 jumkab068	Proszê bardzo.  A teraz odejdŸ, ¿ebym móg³ dokoñczyæ moj¹ dyskusjê z piêkn¹ pann¹
 guykab049	A teraz...
 guykab050	Ty chamie!
-llekab001	Bezp³odna chusteczko!
 guykab051	Bezrobotny leñ!
 guykab052	Ch³opaki?
-llekab002	Ty pozerze!
 guykab053	Niewychowany trupie!
-llekab003	Baboch³op!
 guykab054	Ah, wed³ug mnie to oni krzycz¹ wystarczaj¹co, ¿eby wezwaæ Casabe...
-llekab004	IDIOTA!
-llekab005	¯YD!!!
 guykab057	Mam kilka propozycji jak tutaj zarz¹dziæ...
-llekab006	KRETYN!!!
 guykab059	Witaj, Ma³y Guybrushu!
 guykab060	Czeœæ, Wielki Guybrushu!
 guykab061	Witaj, Ma³y LeChuck!
-llekab007	Arr. Ahoj, Wielki Guyrushu!
 guykab062	Co masz na myœli Ma³y Guybrushu?
 guykab063	Co masz na myœli, Ma³yLechucku?
 guykab064	Wed³ug mnie Casaba to jakiœ palant, nie?
@@ -5668,13 +5649,11 @@ guykab073	Jeju, nawet nie wiedzia³em, ¿e ktoœ taki istnieje. Co o tym myœlisz Ma
 guykab074	Myœlê, ¿e Ma³y Guybrush to ogromny palant!
 guykab075	Jeja, naprawdê tak myœlisz, Ma³y LeChuck? Co tym s¹dzisz, Ma³y Guybrush?
 guykab076	Myœlê, ¿e Ma³y LeChuck powinien siê tak nie martwiæ o swoich wrogów, lecz bardziej o swoj¹ higienê!
-llekab008	Ach, tak?
 guykab077	Taaak!
 guykab078	S¹dzê, ¿e Ma³y LeChuck mo¿e mnie poca³owaæ w ty³ek!
 guykab079	Myœlê, ¿e Ma³y LeChuck jest klinicznie psychiczny!
 guykab080	Chyba Ma³y Guybrush nie bêdzie wiedzia³ co prawdziwy pirat kiedy ten wydrze mu w¹trobê!
 guykab081	Tak?
-llekab009	Tak!
 guykab082	Chyba Ma³y Guybrush musi siê nauczyæ spaæ z otwartymi oczami, bo siê tak mnie boi!
 guykab083	Ma³y LeChuck to marny naœladowca pirata!
 guycpt046	Przepraszam bardzo.
@@ -6927,7 +6906,6 @@ navgpt017	Wielkie ahoj, kapitanie. W czym mogê pomóc?
 guygpt040	Zbieramy za³ogê, za chwilê wyp³ywamy!
 navgpt018	Raczej nie, kapitanie.
 guygpt041	Czemu nie?
-navgpt019	Ten stary jacht potrzebuje wiêkszego przegl¹du zanim gdziekolwiek odp³ynie.
 daigpt001	Musisz mnie naprawiæ NA MIEJSCY, Serowaty!
 navgpt020	Poza tym, nie chcia³ pan przypadkiem szukaæ tego Talizmanu uprzedzenia czy coœ?
 guygpt042	W sumie tak. Ale teraz muszê odbyæ jakiœ rejs.
@@ -8594,16 +8572,6 @@ pi4scr003e	Argh. Ugh. Agh. Umph. Urgh.
 pi4scr008b	Huh? <zrzêdzenie>
 pi4scr007b	Huh? Arr. Eee. Arrr...
 pi4scr006b	Aaaaaaahhhh...
-sgoluc040	Tañcerze!
-murplt047	Ale ja siê stêskni³em!
-murplt048	Jeœli by³bym w stanie, to odgryz³bym ci g³owê.
-guyozi021a	Jak na stopy, wygl¹da to dobrze.
-guyozi027a	Miêso przysz³oœci.
-guyozi029a	Gdyby dodaæ do twojej g³owy trochê przekrêcenia w prawo i jakiegoœ zeza, wygl¹da³ by prawie tak, jak Wyspa Czaszki.
-guyozi037a	Dziwak.
-guyozi045a	Co za strata pieniêdzy.
-guyozi053a	Teraz to nie wydaje dŸwiêku.
-guyozi061a	Boingee boingee boingee.
 pi6scr008a	<pant, pant> Oh, oh, oh....
 pi6scr008b	<pant, pant>  Urgh. Ow. Oh oh oh...
 pi6scr008c	Da. Urgh. Ow. Oh oh oh...
@@ -8613,12 +8581,8 @@ pi6scr003b	Hah. Eogh. Oh. Argh. Urgha.
 pi6scr003c	Argh. Ugh. Ooo. Eogh.
 pi6scr003d	Argh. Ooo. Eogh. Argh. Hah.
 pi6scr003e	Urgh. Argh. Ugh. Eogh. Arrgh.
-mk2mon008	Eek eek ack.
-mk2mon009	Eek eek ooh ooh ack.
-mk2mon010	Oop eek ack.
 guyall224	Nie, w koñcu po coœ powiedzia³em Elaine "tak".
 guyall225	Ostatnio takim gra³em.
-OZOZ075a	Ugh. Umph. Argh. Ug. Uh. Oomph.
 ptwgpt001	Zamknij siê, Murray!
 hb2kab001	Chusteczka nie pirat!
 hb2kab002	Piracki pozer
@@ -9287,16 +9251,6 @@ guyall439	Talizman Upokorzenia jest ju¿ kompletny!
 guyall440	Ju¿ nied³ugo bêdê najpotê¿niejszym piratem na Karaibach!
 guyall441	Muahahahahahahha!
 guyall442	O ile siê skapnê jak u¿ywaæ tego ustrojstwa.
-jojmon172	Ooo ooo ooo ooo.
-jojmon173	Ooo ooo ooo aaa aaa aaa aaa.
-jojmon174	Ooo ooo aaa aaa aaa aaa.
-jojmon175	Ooo aaa aaa aaa aaa aaa.
-jojmon176	Ooo ooo aaa aaa aaa.
-cwdpla001a	Poooolooooo!
-cwdpla002a	Pooooloooo!
-cwdpla003a	Marcoooooo!
-cwdpla003b	Marcoooooo!
-cwdpla004a	Poloooooo!
 eddpla048	Marco de Pollo próbuje wykonaæ...
 eddpla049	KilPrzeci¹g
 eddpla050	Rum Beczka
@@ -9606,17 +9560,8 @@ jojmon178	Tylko tak mo¿esz zachowaæ pozycjê nie ³ami¹c zasad powtarzania g³ównyc
 jojmon179	Wystarczy kopiowaæ obelgi przeciwnika. Przegrasz wiele walk, ale wygrasz znajomoœæ ruchów.
 opemig059	Wooohoo! Koniec!
 guyall531	Watpie zeby to sie komus spodobalo.
-habshi125A	Otis, kto to jest?
-habshi125B	Otis, kto to jest?
-habshi125C	Otis-s³oneczko, kto to jest?
-habshi125D	Otis-s³oneczko, kto to jest?
-habshi125E	Otis-s³oneczko, kto to jest?
-habshi126A	Co?
-habshi126B	Co?
 gmrmon001	Ak
 gmrmon002	Uup
-gmrmon003	Iik
-gmrmon004	Chee
 ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
 ingb015	Chcê byæ piratem.
 ingb002	Któ¿ podejrzewa³by, i¿ taki skromny cel doprowadzi do sporu ze z³ym piratem widmo LeChuckiem, oœlizg³ym œlimakiem siedmiu mórz.
@@ -10192,7 +10137,6 @@ ozjj089a	Nadszed³ czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p.
 ozjj089b	Czas na Talizman Up...
 ozjj090	KRAV MAAAAA£PÊ!
 h2gb024	S³ucham? Widzisz ten pierœcionek na palcu? Troszeczkê siê spóŸni³eœ!
-h2gb024b	SpóŸni³em siê, nie spóŸni³em.
 txtall222	SHIFT
 txtall001	Symbol Gubernatora Wyspy Szpady
 txtall002	Obejrzyj:
@@ -11472,7 +11416,6 @@ txtall443	moneta
 txtall444	dwa banany
 txtall445	menad¿er banku
 txtall446	kasjerka
-txtall446D	pracownik banku
 txtall447	Timmy
 txtall448	Zamknij
 txtall449	ACK
@@ -11521,7 +11464,6 @@ txttow008	Skacz na:
 txtvau016	mokra, grogiem pachn¹ca, dziura ze starym, z³amanym mieczem
 txtvau017	mokra, grogiem pachn¹ca, dziura
 txtwed008	przewrócony kosz
-txtdem017	Z oficjalne dziennika Guybrusha Threepwooda...
 txtall477	w po³owie pusta puszka grogu
 txtall478	w po³owie pe³na puszka grogu
 txtall479	Konfiguracje Gamepad/Joystick...
@@ -11584,7 +11526,6 @@ txth1003	du¿o, du¿o póŸniej
 txtact021	AKT II
 txtact022	AKT III
 txtall519	Czy na pewno chcesz wczytaæ?
-txtpro001	Wybierz
 txtopc001	LucasArts Entertainment Company
 txtopc002	przedstawia
 txtopc003	Dominic Armani
@@ -12055,36 +11996,6 @@ txtcdt429	ScreenMusic Studios,
 txtcdt430	Studio City, California
 txtcdt431	LucasArts Entertainment Company LLC,
 txtcdt432	San Rafael, California
-txtcdt813	MPEG Layer-3 Playback mit dem
-txtcdt814	Miles Sound System von RAD Game
-txtcdt815	Tools, Inc. MPEG Layer-3-
-txtcdt816	Audiokompressionstechnologie
-txtcdt817	lizenziert durch Fraunhofer IIS
-txtcdt818	und THOMPSON Multimedia.
-txtcdt611	INTERNATIONALE MITWIRKENDE: Deutschland
-txtcdt543	Leitung Produktmarketing
-txtcdt544	BENEDIKT SCHuLER
-txtcdt545	Produktmarketingmanager
-txtcdt546	MARC TRENNHEUSER
-txtcdt547	PR
-txtcdt548	RAOUL BIRKHOLD
-txtcdt549	Lokalisierungsmanagerin
-txtcdt550	MICHAELA BARTELT
-txtcdt551	ubersetzung
-txtcdt552	ROBERT BoCK
-txtcdt553	MICHAELA BARTELT
-txtcdt554	Sprachtests
-txtcdt555	DIRK VOJTILO
-txtcdt556	Dokumentationslayout
-txtcdt557	FRANK WERNER
-txtcdt558	KEN RUEB
-txtcdt559	Sprachaufnahmen
-txtcdt560	TONEWORX, HAMBURG
-txtcdt561	Aufnahmeleitung
-txtcdt562	MATHIAS GEIßLER
-txtcdt563	HEIKO RIEK
-txtcdt564	Regie
-txtcdt565	ANTJE ROOSCH
 txtcdt433	Specjalne podziêkowania
 txtcdt434	THE GRIM FANDANGO TEAM
 txtcdt435	THE OBI-WAN TEAM
@@ -12166,7 +12077,6 @@ txtcdt510	zarejstrowanymi znakami towarowymi
 txtcdt511	LucasArts Entertainment Company LLC.
 txtcdt512	Wszelkie prawa zastrze¿one.
 txtcdt513	iMuse U.S. Patent No. 5,315,057
-txtcdt800	Patent-Nr. 5.315.057
 canhoj048	Najjaœniej.
 doti015	Uup! Iik iik! Chee!
 doti017	Oop oop oop!

@@ -306,10 +306,6 @@ msgctxt "OZOZ003"
 msgid "...It was I who enticed the mysteries of the Ultimate Insult out of your drunken sot of a grandfather!"
 msgstr "....to ja wybawiłem tajemnicę Talizman Zniewagi od twego zapijaczonego dziadka!"
 
-msgctxt "OZGB004"
-msgid "Nie!"
-msgstr ""
-
 msgctxt "OZOZ005"
 msgid "It was I who sabotaged the ship!"
 msgstr "To ja uszkodziłem statek!"
@@ -2334,64 +2330,32 @@ msgctxt "googme090"
 msgid "5..."
 msgstr ""
 
-msgctxt "guygme091"
-msgid "-31"
-msgstr ""
-
 msgctxt "googme091"
 msgid "-31"
-msgstr ""
-
-msgctxt "guygme092"
-msgid "-20"
 msgstr ""
 
 msgctxt "googme092"
 msgid "-20"
 msgstr ""
 
-msgctxt "guygme093"
-msgid "0"
-msgstr ""
-
 msgctxt "googme093"
 msgid "0"
-msgstr ""
-
-msgctxt "guygme094"
-msgid "9"
 msgstr ""
 
 msgctxt "googme094"
 msgid "9"
 msgstr ""
 
-msgctxt "guygme095"
-msgid "-43"
-msgstr ""
-
 msgctxt "googme095"
 msgid "-43"
-msgstr ""
-
-msgctxt "guygme096"
-msgid "-12"
 msgstr ""
 
 msgctxt "googme096"
 msgid "-12"
 msgstr ""
 
-msgctxt "guygme097"
-msgid "1"
-msgstr ""
-
 msgctxt "googme097"
 msgid "1"
-msgstr ""
-
-msgctxt "guygme098"
-msgid "25"
 msgstr ""
 
 msgctxt "googme098"
@@ -11642,10 +11606,6 @@ msgctxt "guybas053"
 msgid "Gotcha."
 msgstr "Spoko."
 
-msgctxt "baibas028"
-msgid "Ja..."
-msgstr ""
-
 msgctxt "guybas054"
 msgid "How's the bait business?"
 msgstr "A jak tam idzie interes?"
@@ -17810,10 +17770,6 @@ msgctxt "murgpt024"
 msgid "FEEL your souls being gently ripped from your bodies by this restaurant of uncompromising EEEEEVIL!!! MWAH-HAH-HAH-HAAA!!!"
 msgstr "POCZUJCIE jak wasze wnętrzoności poruszają waszym ciałem prosto do restauracji czystego ZŁA!!! MWAH-HAH-HAH-HAAA!!!"
 
-msgctxt "waigpt001"
-msgid "Nie drzyj się tak, Murray!"
-msgstr ""
-
 msgctxt "clagpt001"
 msgid "Well, THAT was a miserable journey."
 msgstr "Wow, to był szalony rejs."
@@ -21842,10 +21798,6 @@ msgctxt "guyplt070"
 msgid "I don't think that's it."
 msgstr "To chyba nie to."
 
-msgctxt "clvplt025"
-msgid "Pewnie masz racje."
-msgstr ""
-
 msgctxt "guyplt071"
 msgid "One of the pieces looks like a bronze pirate hat."
 msgstr "Jedna część wygląda jak czapka piracka z brązu."
@@ -22558,10 +22510,6 @@ msgctxt "guykab050"
 msgid "Amoral lout!"
 msgstr "Ty chamie!"
 
-msgctxt "llekab001"
-msgid "Bezpłodna chusteczko!"
-msgstr ""
-
 msgctxt "guykab051"
 msgid "Unemployed layabout!"
 msgstr "Bezrobotny leń!"
@@ -22570,37 +22518,17 @@ msgctxt "guykab052"
 msgid "Guys?"
 msgstr "Chłopaki?"
 
-msgctxt "llekab002"
-msgid "Ty pozerze!"
-msgstr ""
-
 msgctxt "guykab053"
 msgid "Uncultured corpse!!"
 msgstr "Niewychowany trupie!"
-
-msgctxt "llekab003"
-msgid "Babochłop!"
-msgstr ""
 
 msgctxt "guykab054"
 msgid "Uh, I really think that's loud enough to catch Casaba's attention..."
 msgstr "Ah, według mnie to oni krzyczą wystarczająco, żeby wezwać Casabe..."
 
-msgctxt "llekab004"
-msgid "IDIOTA!"
-msgstr ""
-
-msgctxt "llekab005"
-msgid "ŻYD!!!"
-msgstr ""
-
 msgctxt "guykab057"
 msgid "Sigh, I've obviously got some deep-seated issues to work out here..."
 msgstr "Mam kilka propozycji jak tutaj zarządzić..."
-
-msgctxt "llekab006"
-msgid "KRETYN!!!"
-msgstr ""
 
 msgctxt "guykab059"
 msgid "Hi there, Lil' Guybrush!"
@@ -22613,10 +22541,6 @@ msgstr "Cześć, Wielki Guybrushu!"
 msgctxt "guykab061"
 msgid "Hi there, Lil' LeChuck!"
 msgstr "Witaj, Mały LeChuck!"
-
-msgctxt "llekab007"
-msgid "Arr. Ahoj, Wielki Guyrushu!"
-msgstr ""
 
 msgctxt "guykab062"
 msgid "What's on your mind, Lil' Guybrush?"
@@ -22678,10 +22602,6 @@ msgctxt "guykab076"
 msgid "I think Lil' LeChuck should worry less about his enemies, and more about his personal hygiene!"
 msgstr "Myślę, że Mały LeChuck powinien się tak nie martwić o swoich wrogów, lecz bardziej o swoją higienę!"
 
-msgctxt "llekab008"
-msgid "Ach, tak?"
-msgstr ""
-
 msgctxt "guykab077"
 msgid "Yeah!"
 msgstr "Taaak!"
@@ -22701,10 +22621,6 @@ msgstr "Chyba Mały Guybrush nie będzie wiedział co prawdziwy pirat kiedy ten 
 msgctxt "guykab081"
 msgid "Oh yeah?"
 msgstr "Tak?"
-
-msgctxt "llekab009"
-msgid "Tak!"
-msgstr ""
 
 msgctxt "guykab082"
 msgid "I think Lil' Guybrush should learn to sleep with one ping-pong ball eye open!"
@@ -27713,10 +27629,6 @@ msgstr "Raczej nie, kapitanie."
 msgctxt "guygpt041"
 msgid "Why not?"
 msgstr "Dlaczego nie?"
-
-msgctxt "navgpt019"
-msgid "Ten stary jacht potrzebuje większego przeglądu zanim gdziekolwiek odpłynie."
-msgstr ""
 
 msgctxt "daigpt001"
 msgid "I got your fixin' right HERE, Cheese-boy!"
@@ -34382,46 +34294,6 @@ msgctxt "pi4scr006b"
 msgid "Aaaaaaahhhh..."
 msgstr ""
 
-msgctxt "sgoluc040"
-msgid "Tańcerze!"
-msgstr ""
-
-msgctxt "murplt047"
-msgid "Ale ja się stęskniłem!"
-msgstr ""
-
-msgctxt "murplt048"
-msgid "Jeśli byłbym w stanie, to odgryzłbym ci głowę."
-msgstr ""
-
-msgctxt "guyozi021a"
-msgid "Jak na stopy, wygląda to dobrze."
-msgstr ""
-
-msgctxt "guyozi027a"
-msgid "Mięso przyszłości."
-msgstr ""
-
-msgctxt "guyozi029a"
-msgid "Gdyby dodać do twojej głowy trochę przekręcenia w prawo i jakiegoś zeza, wyglądał by prawie tak, jak Wyspa Czaszki."
-msgstr ""
-
-msgctxt "guyozi037a"
-msgid "Dziwak."
-msgstr ""
-
-msgctxt "guyozi045a"
-msgid "Co za strata pieniędzy."
-msgstr ""
-
-msgctxt "guyozi053a"
-msgid "Teraz to nie wydaje dźwięku."
-msgstr ""
-
-msgctxt "guyozi061a"
-msgid "Boingee boingee boingee."
-msgstr ""
-
 msgctxt "pi6scr008a"
 msgid "<pant, pant> Oh, oh, oh...."
 msgstr ""
@@ -34458,18 +34330,6 @@ msgctxt "pi6scr003e"
 msgid "Urgh. Argh. Ugh. Eogh. Arrgh."
 msgstr ""
 
-msgctxt "mk2mon008"
-msgid "Eek eek ack."
-msgstr ""
-
-msgctxt "mk2mon009"
-msgid "Eek eek ooh ooh ack."
-msgstr ""
-
-msgctxt "mk2mon010"
-msgid "Oop eek ack."
-msgstr ""
-
 msgctxt "guyall224"
 msgid "Nah, I think there was something in our marriage vows about that."
 msgstr "Nie, w końcu po coś powiedziałem Elaine \"tak\"."
@@ -34477,10 +34337,6 @@ msgstr "Nie, w końcu po coś powiedziałem Elaine \"tak\"."
 msgctxt "guyall225"
 msgid "I got the girl in the last game."
 msgstr "Ostatnio takim grałem."
-
-msgctxt "OZOZ075a"
-msgid "Ugh. Umph. Argh. Ug. Uh. Oomph."
-msgstr ""
 
 msgctxt "ptwgpt001"
 msgid "Knock it off, Murray!"
@@ -37154,46 +37010,6 @@ msgctxt "guyall442"
 msgid "If only I knew how to use this thing."
 msgstr "O ile się skapnę jak używać tego ustrojstwa."
 
-msgctxt "jojmon172"
-msgid "Ooo ooo ooo ooo."
-msgstr ""
-
-msgctxt "jojmon173"
-msgid "Ooo ooo ooo aaa aaa aaa aaa."
-msgstr ""
-
-msgctxt "jojmon174"
-msgid "Ooo ooo aaa aaa aaa aaa."
-msgstr ""
-
-msgctxt "jojmon175"
-msgid "Ooo aaa aaa aaa aaa aaa."
-msgstr ""
-
-msgctxt "jojmon176"
-msgid "Ooo ooo aaa aaa aaa."
-msgstr ""
-
-msgctxt "cwdpla001a"
-msgid "Poooolooooo!"
-msgstr ""
-
-msgctxt "cwdpla002a"
-msgid "Pooooloooo!"
-msgstr ""
-
-msgctxt "cwdpla003a"
-msgid "Marcoooooo!"
-msgstr ""
-
-msgctxt "cwdpla003b"
-msgid "Marcoooooo!"
-msgstr ""
-
-msgctxt "cwdpla004a"
-msgid "Poloooooo!"
-msgstr ""
-
 msgctxt "eddpla048"
 msgid "Marco de Pollo is about to attempt a..."
 msgstr "Marco de Pollo próbuje wykonać..."
@@ -38430,34 +38246,6 @@ msgctxt "guyall531"
 msgid "I don't think they'd like that."
 msgstr "Watpie zeby to sie komus spodobalo."
 
-msgctxt "habshi125A"
-msgid "Otis, kto to jest?"
-msgstr ""
-
-msgctxt "habshi125B"
-msgid "Otis, kto to jest?"
-msgstr ""
-
-msgctxt "habshi125C"
-msgid "Otis-słoneczko, kto to jest?"
-msgstr ""
-
-msgctxt "habshi125D"
-msgid "Otis-słoneczko, kto to jest?"
-msgstr ""
-
-msgctxt "habshi125E"
-msgid "Otis-słoneczko, kto to jest?"
-msgstr ""
-
-msgctxt "habshi126A"
-msgid "Co?"
-msgstr ""
-
-msgctxt "habshi126B"
-msgid "Co?"
-msgstr ""
-
 msgctxt "gmrmon001"
 msgid "Ack"
 msgstr "Ak"
@@ -38465,14 +38253,6 @@ msgstr "Ak"
 msgctxt "gmrmon002"
 msgid "Oop"
 msgstr "Uup"
-
-msgctxt "gmrmon003"
-msgid "Iik"
-msgstr ""
-
-msgctxt "gmrmon004"
-msgid "Chee"
-msgstr ""
 
 msgctxt "ingb001"
 msgid "From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate."
@@ -40773,10 +40553,6 @@ msgstr "KRAV MAAAAAŁPĘ!"
 msgctxt "h2gb024"
 msgid "Um, excuse me?  See the ring on this finger? You're a little late, bucko!"
 msgstr "Słucham? Widzisz ten pierścionek na palcu? Troszeczkę się spóźniłeś!"
-
-msgctxt "h2gb024b"
-msgid "Spóźniłem się, nie spóźniłem."
-msgstr ""
 
 msgctxt "txtall222"
 msgid "SHIFT"
@@ -45894,10 +45670,6 @@ msgctxt "txtall446"
 msgid "bank teller"
 msgstr "kasjerką"
 
-msgctxt "txtall446D"
-msgid "pracownikiem banku"
-msgstr ""
-
 msgctxt "txtall447"
 msgid "Timmy"
 msgstr ""
@@ -46089,10 +45861,6 @@ msgstr "mokre, grogowe coś"
 msgctxt "txtwed008"
 msgid "knocked over brazier"
 msgstr "przewrócony kosz"
-
-msgctxt "txtdem017"
-msgid "Z oficjalne dziennika Guybrusha Threepwooda..."
-msgstr ""
 
 msgctxt "txtall477"
 msgid "half empty can of grog"
@@ -46341,10 +46109,6 @@ msgstr "AKT III"
 msgctxt "txtall519"
 msgid "Are you sure you want to load this game?"
 msgstr "Czy napewno chcesz wczytac?"
-
-msgctxt "txtpro001"
-msgid "Wybierz"
-msgstr ""
 
 msgctxt "txtopc001"
 msgid "LucasArts Entertainment Company"
@@ -48226,126 +47990,6 @@ msgctxt "txtcdt432"
 msgid "San Rafael, California"
 msgstr ""
 
-msgctxt "txtcdt813"
-msgid "MPEG Layer-3 Playback mit dem"
-msgstr ""
-
-msgctxt "txtcdt814"
-msgid "Miles Sound System von RAD Game"
-msgstr ""
-
-msgctxt "txtcdt815"
-msgid "Tools, Inc. MPEG Layer-3-"
-msgstr ""
-
-msgctxt "txtcdt816"
-msgid "Audiokompressionstechnologie"
-msgstr ""
-
-msgctxt "txtcdt817"
-msgid "lizenziert durch Fraunhofer IIS"
-msgstr ""
-
-msgctxt "txtcdt818"
-msgid "und THOMPSON Multimedia."
-msgstr ""
-
-msgctxt "txtcdt611"
-msgid "INTERNATIONALE MITWIRKENDE: Deutschland"
-msgstr ""
-
-msgctxt "txtcdt543"
-msgid "Leitung Produktmarketing"
-msgstr ""
-
-msgctxt "txtcdt544"
-msgid "BENEDIKT SCHuLER"
-msgstr ""
-
-msgctxt "txtcdt545"
-msgid "Produktmarketingmanager"
-msgstr ""
-
-msgctxt "txtcdt546"
-msgid "MARC TRENNHEUSER"
-msgstr ""
-
-msgctxt "txtcdt547"
-msgid "PR"
-msgstr ""
-
-msgctxt "txtcdt548"
-msgid "RAOUL BIRKHOLD"
-msgstr ""
-
-msgctxt "txtcdt549"
-msgid "Lokalisierungsmanagerin"
-msgstr ""
-
-msgctxt "txtcdt550"
-msgid "MICHAELA BARTELT"
-msgstr ""
-
-msgctxt "txtcdt551"
-msgid "ubersetzung"
-msgstr ""
-
-msgctxt "txtcdt552"
-msgid "ROBERT BoCK"
-msgstr ""
-
-msgctxt "txtcdt553"
-msgid "MICHAELA BARTELT"
-msgstr ""
-
-msgctxt "txtcdt554"
-msgid "Sprachtests"
-msgstr ""
-
-msgctxt "txtcdt555"
-msgid "DIRK VOJTILO"
-msgstr ""
-
-msgctxt "txtcdt556"
-msgid "Dokumentationslayout"
-msgstr ""
-
-msgctxt "txtcdt557"
-msgid "FRANK WERNER"
-msgstr ""
-
-msgctxt "txtcdt558"
-msgid "KEN RUEB"
-msgstr ""
-
-msgctxt "txtcdt559"
-msgid "Sprachaufnahmen"
-msgstr ""
-
-msgctxt "txtcdt560"
-msgid "TONEWORX, HAMBURG"
-msgstr ""
-
-msgctxt "txtcdt561"
-msgid "Aufnahmeleitung"
-msgstr ""
-
-msgctxt "txtcdt562"
-msgid "MATHIAS GEIßLER"
-msgstr ""
-
-msgctxt "txtcdt563"
-msgid "HEIKO RIEK"
-msgstr ""
-
-msgctxt "txtcdt564"
-msgid "Regie"
-msgstr ""
-
-msgctxt "txtcdt565"
-msgid "ANTJE ROOSCH"
-msgstr ""
-
 msgctxt "txtcdt433"
 msgid "Special Thanks To"
 msgstr "Specjalne podziękowania"
@@ -48668,10 +48312,6 @@ msgstr "Wszelkie prawa zastrzeżone."
 
 msgctxt "txtcdt513"
 msgid "iMuse U.S. Patent No. 5,315,057"
-msgstr ""
-
-msgctxt "txtcdt800"
-msgid "Patent-Nr. 5.315.057"
 msgstr ""
 
 msgctxt "canhoj048"

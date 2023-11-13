@@ -12,7 +12,8 @@ namespace po2tab_converter
         static void Main(string[] args)
         {
             Convert(args);
-            //ImportLackingLines();
+            //FindingDifferences();
+            //AnyDuplicatesInPl();
         }
 
         private static void ImportLackingLines()
@@ -92,6 +93,87 @@ namespace po2tab_converter
             }
 
             File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
+
+        }
+
+        private static void FindingDifferences()
+        {
+            string fileNameEn = "script_en.tab";
+            string fileNamePl = "script_pl.tab";
+
+
+
+            System.Text.EncodingProvider ppp = System.Text.CodePagesEncodingProvider.Instance;
+            Encoding.RegisterProvider(ppp);
+
+
+            string fileEn = File.ReadAllText(fileNameEn, Encoding.GetEncoding("windows-1250"));
+            string filePl = File.ReadAllText(fileNamePl, Encoding.GetEncoding("windows-1250"));
+
+            string[] linesEn = fileEn.Split("\r\n");
+            string[] linesPl = filePl.Split("\r\n");
+            var dictPl = linesPl.Select(x => new Line(x))
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
+
+            var linesEnList = linesEn.Select(x => new Line(x)).ToList();
+
+            var result = new List<string>();
+            foreach (var line in linesEnList.Where(x => x.Markup != null))
+            {
+                if(!dictPl.TryGetValue(line.Markup, out var linePl))
+                {
+                    result.Add(line.Markup);
+                }
+            }
+
+            //File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
+
+        }
+        
+        private static void AnyDuplicatesInPl()
+        {
+            string fileNameEn = "script_en.tab";
+            string fileNamePl = "script_pl.tab";
+
+
+
+            System.Text.EncodingProvider ppp = System.Text.CodePagesEncodingProvider.Instance;
+            Encoding.RegisterProvider(ppp);
+
+
+            string fileEn = File.ReadAllText(fileNameEn, Encoding.GetEncoding("windows-1250"));
+            string filePl = File.ReadAllText(fileNamePl, Encoding.GetEncoding("windows-1250"));
+
+            string[] linesEn = fileEn.Split("\r\n");
+            string[] linesPl = filePl.Split("\r\n");
+            var dictPl = linesPl.Select(x => new Line(x))
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.ToList(), StringComparer.OrdinalIgnoreCase)
+                .Where(x => x.Value.Count > 1);
+            var listEn = linesEn.Select(x => new Line(x)).Where(x => x.Markup != null);
+            var dictEn = listEn
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
+
+            var toFile = "";
+            foreach (var result in dictPl)
+            {
+                foreach (var subLine in result.Value)
+                {
+                    toFile +=
+                     $"msgctxt \"{subLine.Markup}\"\r\n" +
+                     $"msgid \"{dictEn[subLine.Markup]}\"\r\n" +
+                     $"msgstr \"{subLine.Contents}\"\r\n\r\n";
+                }
+            }
+
+            File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
+
+            //File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
 
         }
         private static void Convert(string[] args)

@@ -330,10 +330,6 @@ msgctxt "OZOZ065"
 msgid "Aiiiiiiiiiiiiiie!"
 msgstr "Ajjjjjjjjjjjjj!"
 
-msgctxt "OZEL068"
-msgid "Guybrush, help!"
-msgstr "Guybrush, pomocy!"
-
 msgctxt "OZOZ077"
 msgid "After him!"
 msgstr "Za nim!"
@@ -510,10 +506,6 @@ msgctxt "OZLC009F"
 msgid "Aigh...agh."
 msgstr "Aigh... agh."
 
-msgctxt "OZOZ065A"
-msgid "Yaaah!"
-msgstr "Jaaa!"
-
 msgctxt "OZOZ071A"
 msgid "Yah!"
 msgstr "Ja!"
@@ -533,10 +525,6 @@ msgstr "Yah... ugh... ah... ugh... Jara.. ugh."
 msgctxt "NOPP002A"
 msgid "Argh! Daa!"
 msgstr ""
-
-msgctxt "E1CR011A"
-msgid "Boo!  Hiss!  Stupid, are we?"
-msgstr "Buu! Jesteśmy głupi?"
 
 msgctxt "guymdo001"
 msgid "No, I'd better not."
@@ -34490,17 +34478,9 @@ msgctxt "OZOZ075a"
 msgid "Ugh. Umph. Argh. Ug. Uh. Oomph."
 msgstr ""
 
-msgctxt "guyban095"
-msgid "It's outta commission."
-msgstr "To już nie działa."
-
 msgctxt "ptwgpt001"
 msgid "Knock it off, Murray!"
 msgstr "Zamknij się, Murray!"
-
-msgctxt "macpla050"
-msgid "-- Or perhaps not."
-msgstr "...a może i nie."
 
 msgctxt "hb2kab001"
 msgid "Effette doily-sniffer!"
@@ -34525,34 +34505,6 @@ msgstr "Tak?"
 msgctxt "hb2kab009"
 msgid "Yeah!"
 msgstr "Taaak!"
-
-msgctxt "parkab025"
-msgid "<bwak> I can parrot any lick in the joint! <hiccup>"
-msgstr "<kwak> Mogę być dowolną papugą! <bek>"
-
-msgctxt "parkab032"
-msgid "<bwak> Iamthequiesathadderach! <bwak> Iamthequiesathadderach! <bwak>"
-msgstr "<kwak> Iamthequiesathadderach! <kwak> Iamthequiesathadderach! <kwak>"
-
-msgctxt "guymon006"
-msgid "Let's rumble!"
-msgstr "Zaraz pożałujesz!"
-
-msgctxt "jojmon010"
-msgid "Bring it on, flesh-boy."
-msgstr "Dawaj, ciamajdo."
-
-msgctxt "hertoc040"
-msgid "It's your dime, Spanky."
-msgstr "Jak chcesz."
-
-msgctxt "hertoc094"
-msgid "Don't ya always?"
-msgstr "Nie zawsze?"
-
-msgctxt "guyplt119"
-msgid "But I want one with me and the Monkey Muuuug!"
-msgstr "Ja chcę i obraz i Małpi Kubek!"
 
 msgctxt "guywed001"
 msgid "Yikes!  Too hot!"
@@ -35358,7 +35310,7 @@ msgctxt "guymel155"
 msgid "Umm, okay.  How?"
 msgstr "Umm, dobra, Jak?"
 
-msgctxt "guymel156      "
+msgctxt "guymel156"
 msgid "But--"
 msgstr ""
 
@@ -38502,10 +38454,6 @@ msgctxt "habshi126B"
 msgid "Co?"
 msgstr ""
 
-msgctxt "habshi010"
-msgid "Finally, this vehicle is to be used for official business only, so...."
-msgstr "A po trzecie, pojazd ten ma byc uzywany tylko do oficjalnych spraw biznesowych, wiec..."
-
 msgctxt "gmrmon001"
 msgid "Ack"
 msgstr "Ak"
@@ -38561,10 +38509,6 @@ msgstr "To drugi największy łeb małpy, jaki widziałem!"
 msgctxt "ingb008"
 msgid "Or that I would finally end the scourge of LeChuck, burying him beneath a mountain of ice?"
 msgstr "Albo że skończę z LeChuckiem grzebiąc go pod lodową górą."
-
-msgctxt "inlc003"
-msgid "Yaaar!"
-msgstr ""
 
 msgctxt "ingb009"
 msgid "Not me, that's for sure.  Back then the only thing duller than my sword was my wit.  Now look at me.  I'm married to the most beautiful governmental official in the Caribbean, the entire Tri-Island Area shudders at the sound of my name, and now my Plunder Bunny and I are returning to M�l�e Island� after the most incredible honeymoon in the history of-"
@@ -38709,10 +38653,6 @@ msgstr "Ah ha! ...Jestem genialny! Nie? Naprawione!...Oh, nie... mój piękny ob
 msgctxt "nocd001"
 msgid "Hold still, you."
 msgstr "Nie wierć się tak!"
-
-msgctxt "nocd004"
-msgid "Quiet, you!"
-msgstr "Cicho bądź!"
 
 msgctxt "nocd005"
 msgid "Well, I'll be...eh let's see that screw."
@@ -39586,10 +39526,6 @@ msgctxt "ozjj045"
 msgid "Tell me about it."
 msgstr "Powiedz mi o tym,"
 
-msgctxt "ozlc046"
-msgid "I'll show that chum bucket pantywaist some REAL voodoo!"
-msgstr "Pokarzę ci zaraz na czym polega PRAWDZIWA moc voodoo!"
-
 msgctxt "ozgb047"
 msgid "Honey, I'm home!"
 msgstr "Skarbie, już jestem!"
@@ -39664,10 +39600,6 @@ msgstr ""
 
 msgctxt "ozel064"
 msgid "Aiiiiiiiiiiiiiie!"
-msgstr ""
-
-msgctxt "inlc003"
-msgid "Yaaar!"
 msgstr ""
 
 msgctxt "ozel065a"
@@ -42668,11 +42600,7 @@ msgstr "machinę rozpędzającą kanał"
 
 msgctxt "txtluc001"
 msgid "fountain"
-msgstr "fontanne"
-
-msgctxt "txtluc001"
-msgid "fountain"
-msgstr "fontanne"
+msgstr "fontanna"
 
 msgctxt "txtluc002"
 msgid "manhole"
@@ -45602,10 +45530,6 @@ msgctxt "txtfor003"
 msgid "Walk deeper into"
 msgstr "Idź głębiej w"
 
-msgctxt "txtgme021"
-msgid "Męlée"
-msgstr "Szpada"
-
 msgctxt "txthos014"
 msgid "stick catalog"
 msgstr "katolog z laskami"
@@ -45657,18 +45581,6 @@ msgstr "Obróć element"
 msgctxt "txtsta013"
 msgid "Two hours and fifty seven minutes later..."
 msgstr "Dwie godziny i pięćdziesiąt siedem minut później..."
-
-msgctxt "txtsys066"
-msgid "Męlée Dock"
-msgstr "Port Szpady"
-
-msgctxt "txtsys067"
-msgid "Męlée Town"
-msgstr "Szpada"
-
-msgctxt "txtsys086"
-msgid "Męlée Shipyard"
-msgstr "Stocznia Szpady"
 
 msgctxt "txttow008"
 msgid "Bounce on"
@@ -48326,26 +48238,6 @@ msgctxt "hehn052"
 msgid "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
 msgstr "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
 
-msgctxt "inel010a"
-msgid "Eh...ha...cha!"
-msgstr "Eh...ha...cha!"
-
-msgctxt "inel010b"
-msgid "Yah!"
-msgstr "Yah!"
-
-msgctxt "inel010c"
-msgid "Ugh...ha."
-msgstr "Ugh...ha."
-
-msgctxt "inel010d"
-msgid "Yah....ugh...ah."
-msgstr "Yah....ugh...ah."
-
-msgctxt "inel010e"
-msgid "Ugh...ugh....yah."
-msgstr "Ugh...ugh....yah."
-
 msgctxt "madl004"
 msgid "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
 msgstr "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
@@ -49133,3 +49025,1084 @@ msgstr "Format Successful."
 msgctxt "txtall634"
 msgid "Load Successful."
 msgstr "Load Successful."
+
+msgctxt "babm004a"
+msgid "Ummph. Ahhh. Well, here it is, sir:"
+msgstr "Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat."
+
+msgctxt "babm004b"
+msgid "the safe deposit chest of H.T. Marley,"
+msgstr "Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat."
+
+msgctxt "babm004c"
+msgid "just as he left it over 20 years ago."
+msgstr "Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat."
+
+msgctxt "babm006a"
+msgid "That Governor Marley was an eccentric old salt, wasn't he? Huh. Ha."
+msgstr "Pan Marley był ekscentrycznym starym dziwakiem, prawda? Huh. Ha. Wszyscy byliśmy zdruzgotani, gdy zniknął z powierzchni ziemi. W każdym razie, mam parę pożyczek do odrzucenia. Po prostu daj mi znać, kiedy skończysz, a ja przybiegnę."
+
+msgctxt "babm006b"
+msgid "We were all crushed when he disappeared off the face of the Earth like he did."
+msgstr "Pan Marley był ekscentrycznym starym dziwakiem, prawda? Huh. Ha. Wszyscy byliśmy zdruzgotani, gdy zniknął z powierzchni ziemi. W każdym razie, mam parę pożyczek do odrzucenia. Po prostu daj mi znać, kiedy skończysz, a ja przybiegnę."
+
+msgctxt "babm006c"
+msgid "Anyway, well I've got some loans to turn down."
+msgstr "Pan Marley był ekscentrycznym starym dziwakiem, prawda? Huh. Ha. Wszyscy byliśmy zdruzgotani, gdy zniknął z powierzchni ziemi. W każdym razie, mam parę pożyczek do odrzucenia. Po prostu daj mi znać, kiedy skończysz, a ja przybiegnę."
+
+msgctxt "babm006d"
+msgid "You just let me know when you're done here, and I'll come running."
+msgstr "Pan Marley był ekscentrycznym starym dziwakiem, prawda? Huh. Ha. Wszyscy byliśmy zdruzgotani, gdy zniknął z powierzchni ziemi. W każdym razie, mam parę pożyczek do odrzucenia. Po prostu daj mi znać, kiedy skończysz, a ja przybiegnę."
+
+msgctxt "babm010a"
+msgid "Well, you really should've called me first."
+msgstr "Cóż, naprawdę powinieneś był mnie wezwać. Mamy zasady dotyczące pozostawiania skarbca bez nadzoru."
+
+msgctxt "babm010b"
+msgid "We have rules about leaving the vault unattended."
+msgstr "Cóż, naprawdę powinieneś był mnie wezwać. Mamy zasady dotyczące pozostawiania skarbca bez nadzoru."
+
+msgctxt "bagb005a"
+msgid "Wow!  What an amazing collection of...junk."
+msgstr "Wow!  Niesamowita kolekcja... śmieci. Dlaczego dziadek Marley miałby przechowywać coś takiego w banku?"
+
+msgctxt "bagb005b"
+msgid "Why would Grandpa Marley store garbage like this in a bank?"
+msgstr "Wow!  Niesamowita kolekcja... śmieci. Dlaczego dziadek Marley miałby przechowywać coś takiego w banku?"
+
+msgctxt "bagb007a"
+msgid "Gee...thanks."
+msgstr "Dzięki. Cóż, chyba lepiej zacznę szukać aktu własności, żebym mógł wrócić do domu, do Elaine. Hm. Co my tu mamy... butelka z gorącą wodą... małpi smoczek... grogaminty... Jimmy Hoffa... zestaw do samodzielnego wykonania tatuażu... zakrwawiony nóż sztyletowy... kubek bez dna...."
+
+msgctxt "bagb007b"
+msgid "Well, I guess I better start looking for that deed to the Governor's Mansion,"
+msgstr "Dzięki. Cóż, chyba lepiej zacznę szukać aktu własności, żebym mógł wrócić do domu, do Elaine. Hm. Co my tu mamy... butelka z gorącą wodą... małpi smoczek... grogaminty... Jimmy Hoffa... zestaw do samodzielnego wykonania tatuażu... zakrwawiony nóż sztyletowy... kubek bez dna...."
+
+msgctxt "bagb007c"
+msgid "so I can get home to Elaine."
+msgstr "Dzięki. Cóż, chyba lepiej zacznę szukać aktu własności, żebym mógł wrócić do domu, do Elaine. Hm. Co my tu mamy... butelka z gorącą wodą... małpi smoczek... grogaminty... Jimmy Hoffa... zestaw do samodzielnego wykonania tatuażu... zakrwawiony nóż sztyletowy... kubek bez dna...."
+
+msgctxt "bagb007d"
+msgid "Hm. Let's see now..."
+msgstr "Dzięki. Cóż, chyba lepiej zacznę szukać aktu własności, żebym mógł wrócić do domu, do Elaine. Hm. Co my tu mamy... butelka z gorącą wodą... małpi smoczek... grogaminty... Jimmy Hoffa... zestaw do samodzielnego wykonania tatuażu... zakrwawiony nóż sztyletowy... kubek bez dna...."
+
+msgctxt "bagb020a"
+msgid "Well, for one thing, Guybrush is much better looking than you are."
+msgstr "Po pierwsze, Guybrush wygląda o wiele lepiej niż ty. A po drugie, PRAWDZIWY Guybrush nie śmierdzi jak sardela. Fiuu!"
+
+msgctxt "bagb020b"
+msgid "Sniff sniff."
+msgstr "Po pierwsze, Guybrush wygląda o wiele lepiej niż ty. A po drugie, PRAWDZIWY Guybrush nie śmierdzi jak sardela. Fiuu!"
+
+msgctxt "bagb020c"
+msgid "And for another the REAL Guybrush doesn't smell like anchovy halitosis.  Whew!"
+msgstr "Po pierwsze, Guybrush wygląda o wiele lepiej niż ty. A po drugie, PRAWDZIWY Guybrush nie śmierdzi jak sardela. Fiuu!"
+
+msgctxt "bapp009a"
+msgid "I was, um, I was looking for a Grog machine."
+msgstr "Szukałem grogomatu. Grzebanie w rodzinnych pamiątkach wzmaga pragnienie."
+
+msgctxt "bapp009b"
+msgid "Rummaging through family heirlooms is thirsty work."
+msgstr "Szukałem grogomatu. Grzebanie w rodzinnych pamiątkach wzmaga pragnienie."
+
+msgctxt "bapp021a"
+msgid "All right, me bucko, that's enough of that!"
+msgstr "Dobra, chłopcze, wystarczy tego!  Odsuń się od schedy Marleya i to szybko!  A teraz, panie Threepwood, przyjrzyj się dobrze ostatniej twarzy, jaką kiedykolwiek zobaczysz! He he he."
+
+msgctxt "bapp021b"
+msgid "Back away from the Marley heirlooms, and be quick about it!"
+msgstr "Dobra, chłopcze, wystarczy tego!  Odsuń się od schedy Marleya i to szybko!  A teraz, panie Threepwood, przyjrzyj się dobrze ostatniej twarzy, jaką kiedykolwiek zobaczysz! He he he."
+
+msgctxt "bapp021c"
+msgid "Now, Mister Threepwood,"
+msgstr "Dobra, chłopcze, wystarczy tego!  Odsuń się od schedy Marleya i to szybko!  A teraz, panie Threepwood, przyjrzyj się dobrze ostatniej twarzy, jaką kiedykolwiek zobaczysz! He he he."
+
+msgctxt "bapp021d"
+msgid "take a good long look at the last face you'll ever see!  He he he."
+msgstr "Dobra, chłopcze, wystarczy tego!  Odsuń się od schedy Marleya i to szybko!  A teraz, panie Threepwood, przyjrzyj się dobrze ostatniej twarzy, jaką kiedykolwiek zobaczysz! He he he."
+
+msgctxt "doel003a"
+msgid "Hmm. I hope the loyal citizens of Męlée don't hurt themselves."
+msgstr "Oby lojalni mieszkańcy Szpady nie pozabijali się. Wiesz, te przepychanki w doku, by ujrzeć mój, ee, tego, nasz powrót, mogą być groźne. To powinno leżeć na wierzchu."
+
+msgctxt "doel003b"
+msgid "I mean, you know, all the pushing and shoving on the dock to see my,"
+msgstr "Oby lojalni mieszkańcy Szpady nie pozabijali się. Wiesz, te przepychanki w doku, by ujrzeć mój, ee, tego, nasz powrót, mogą być groźne. To powinno leżeć na wierzchu."
+
+msgctxt "doel003c"
+msgid "... uh, well, our, return could be dangerous."
+msgstr "Oby lojalni mieszkańcy Szpady nie pozabijali się. Wiesz, te przepychanki w doku, by ujrzeć mój, ee, tego, nasz powrót, mogą być groźne. To powinno leżeć na wierzchu."
+
+msgctxt "doel003d"
+msgid "Make sure this one stays on top."
+msgstr "Oby lojalni mieszkańcy Szpady nie pozabijali się. Wiesz, te przepychanki w doku, by ujrzeć mój, ee, tego, nasz powrót, mogą być groźne. To powinno leżeć na wierzchu."
+
+msgctxt "doel005a"
+msgid "The burden of being the Governor of such an adoring,"
+msgstr "Ciężar roli wielbionej gubernator, cokolwiek prostego tłumu, potrafi zamęczyć. Z odrobiną szczęścia będę miała wolne za kilka miesięcy!"
+
+msgctxt "doel005b"
+msgid "yet unsophisticated public can be so draining."
+msgstr "Ciężar roli wielbionej gubernator, cokolwiek prostego tłumu, potrafi zamęczyć. Z odrobiną szczęścia będę miała wolne za kilka miesięcy!"
+
+msgctxt "doel005c"
+msgid "I'll be lucky if I can get a second to myself for months!"
+msgstr "Ciężar roli wielbionej gubernator, cokolwiek prostego tłumu, potrafi zamęczyć. Z odrobiną szczęścia będę miała wolne za kilka miesięcy!"
+
+msgctxt "doel010a"
+msgid "Where's the welcoming committee, the banners,"
+msgstr "Gdzie komitet powitalny? Transparenty? Miażdżący tłum życzliwych osób? Och, skarbie, wiesz, co to oznacza?"
+
+msgctxt "doel010b"
+msgid "the crushing throng of well-wishers? Oh dear."
+msgstr "Gdzie komitet powitalny? Transparenty? Miażdżący tłum życzliwych osób? Och, skarbie, wiesz, co to oznacza?"
+
+msgctxt "doel010c"
+msgid "Do you know what this means?"
+msgstr "Gdzie komitet powitalny? Transparenty? Miażdżący tłum życzliwych osób? Och, skarbie, wiesz, co to oznacza?"
+
+msgctxt "dogb004a"
+msgid "Then there was the swab who came at me with the rusty fid!"
+msgstr "Potem jakiś gamoń rzucił się z kluczem masztowym! Nauczyłem go tego i owego o leżakach!"
+
+msgctxt "dogb004b"
+msgid "I sure taught him a thing or two about the proper use of deck chairs!"
+msgstr "Potem jakiś gamoń rzucił się z kluczem masztowym! Nauczyłem go tego i owego o leżakach!"
+
+msgctxt "dogb006a"
+msgid "You know, we make a great team; the way we communicate,"
+msgstr "Wiesz, świetny z nas zespół: wspólny język, wzajemna współpraca, dar przewidywania każdych naszych ruchów. Razem możemy wszystko."
+
+msgctxt "dogb006b"
+msgid "the way we work together,"
+msgstr "Wiesz, świetny z nas zespół: wspólny język, wzajemna współpraca, dar przewidywania każdych naszych ruchów. Razem możemy wszystko."
+
+msgctxt "dogb006c"
+msgid "the way we anticipate each other's every move;"
+msgstr "Wiesz, świetny z nas zespół: wspólny język, wzajemna współpraca, dar przewidywania każdych naszych ruchów. Razem możemy wszystko."
+
+msgctxt "dogb006d"
+msgid "there's nothing we can't accomplish... "
+msgstr "Wiesz, świetny z nas zespół: wspólny język, wzajemna współpraca, dar przewidywania każdych naszych ruchów. Razem możemy wszystko."
+
+msgctxt "duca002a"
+msgid "Why, those ignorant, anarchist, savages!"
+msgstr "Te ignoranckie, anarchistyczne dzikusy!  Jak śmią spiskować przeciwko mojej dobroczynnej tyranii!  Simkins!  Wyciągnąć naprawdę wielkie działo!"
+
+msgctxt "duca002b"
+msgid "How dare they plot against my benevolent tyranny!"
+msgstr "Te ignoranckie, anarchistyczne dzikusy!  Jak śmią spiskować przeciwko mojej dobroczynnej tyranii!  Simkins!  Wyciągnąć naprawdę wielkie działo!"
+
+msgctxt "duca002c"
+msgid "Simkins!  Wheel out the Really Big Cannon!"
+msgstr "Te ignoranckie, anarchistyczne dzikusy!  Jak śmią spiskować przeciwko mojej dobroczynnej tyranii!  Simkins!  Wyciągnąć naprawdę wielkie działo!"
+
+msgctxt "duca004a"
+msgid "I've had just about enough of your pusillanimous insubordination, Simkins!"
+msgstr "Mam już dość twojej małodusznej niesubordynacji, Simkins!  A teraz wytocz naprawdę wielkie działo i wysadź tych terrorystów w tej chwili!"
+
+msgctxt "duca004b"
+msgid "Now, roll out the Really Big Cannon, and blow up those terrorists this instant!"
+msgstr "Mam już dość twojej małodusznej niesubordynacji, Simkins!  A teraz wytocz naprawdę wielkie działo i wysadź tych terrorystów w tej chwili!"
+
+msgctxt "e1cr011a"
+msgid "Boo!  Hiss!  Stupid, are we?"
+msgstr "Buu! Jesteśmy głupi?"
+
+msgctxt "e1el010a"
+msgid "S...Stop...St...Stop it!  Y...Y...You can't be stupid enough"
+msgstr "S...Stop...St...Stop! Nie możecie być tak głupi, żeby wierzyć, że Charles po prostu da wam darmowy grog i dobrą zabawę, prawda!?"
+
+msgctxt "e1el010b"
+msgid "to believe that Charles is just gonna give you free grog and good times,"
+msgstr "S...Stop...St...Stop! Nie możecie być tak głupi, żeby wierzyć, że Charles po prostu da wam darmowy grog i dobrą zabawę, prawda!?"
+
+msgctxt "e1el010c"
+msgid "can you!?"
+msgstr "S...Stop...St...Stop! Nie możecie być tak głupi, żeby wierzyć, że Charles po prostu da wam darmowy grog i dobrą zabawę, prawda!?"
+
+msgctxt "e2ch002a"
+msgid "My opponent is right: I am a newcomer to these islands."
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2ch002b"
+msgid "And it's true that my experience in affairs of state is minimal at best."
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2ch002c"
+msgid "But it doesn't take a seventh-generation pirate princess"
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2ch002d"
+msgid "to see that Męlée Island™ needs more than a part-time status quo Governor..."
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2ch002e"
+msgid "a Governor who can't even promise her citizens..."
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2ch002f"
+msgid "Good Times and Free Grog!"
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+
+msgctxt "e2el001a"
+msgid "...And so, my swashbuckling citizens, as we approach the next century,"
+msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie"."
+
+msgctxt "e2el001b"
+msgid "can we really afford to entrust Męlée Island's future to a man with no past,"
+msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie"."
+
+msgctxt "e2el001c"
+msgid "a man with no experience, a man who doesn't even seem to LIKE pirates?"
+msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie"."
+
+msgctxt "e2el001d"
+msgid "Common sense says "no.""
+msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie"."
+
+msgctxt "e3ch002a"
+msgid "Thanks for your support citizen!"
+msgstr "Dziękujemy za wsparcie!  Dobre czasy i darmowy grog są tuż za rogiem!"
+
+msgctxt "e3ch002b"
+msgid "Good Times and Free Grog are just around the corner!"
+msgstr "Dziękujemy za wsparcie!  Dobre czasy i darmowy grog są tuż za rogiem!"
+
+msgctxt "e3ch007a"
+msgid "Well, that should just about wrap things up.  I think I'll go pack my bags,"
+msgstr "Na tym powinniśmy zakończyć.  Chyba pójdę się spakować i przygotuję się do przeprowadzki do rezydencji gubernatora. Ha ha ha ha. Yaaar!"
+
+msgctxt "e3ch007b"
+msgid "and get ready to move into the Governor's Mansion. Ha ha ha ha. Yaaar!"
+msgstr "Na tym powinniśmy zakończyć.  Chyba pójdę się spakować i przygotuję się do przeprowadzki do rezydencji gubernatora. Ha ha ha ha. Yaaar!"
+
+msgctxt "e3el001a"
+msgid "Hi! Hey! Thanks for coming out to vote!"
+msgstr "Dzięki za udział w głosowaniu!  Pamiętaj, że głos oddany na mnie to głos przeciwko piekielnym piratom!"
+
+msgctxt "e3el001b"
+msgid "Remember, a vote for me is a vote against demon-spawned hell-pirates!"
+msgstr "Dzięki za udział w głosowaniu!  Pamiętaj, że głos oddany na mnie to głos przeciwko piekielnym piratom!"
+
+msgctxt "e3el003a"
+msgid "Don't vote for Charles,"
+msgstr "Nie głosuj na Charlesa, to prawdziwy LeChuck - demoniczny pirat zombie z piekła rodem!"
+
+msgctxt "e3el003b"
+msgid "he's really LeChuck, the demon zombie ghost pirate from Hell!"
+msgstr "Nie głosuj na Charlesa, to prawdziwy LeChuck - demoniczny pirat zombie z piekła rodem!"
+
+msgctxt "e3p4004a"
+msgid "Oh, give it up, Mrs. Threepwood."
+msgstr "Proszę dać spokój, pani Threepwood.  Wszyscy wiedzą, że LeChuck nie żyje i że zabił go pani mąż.  Proszę jej wybaczyć, panie Charles."
+
+msgctxt "e3p4004b"
+msgid "Everybody knows that LeChuck is dead, and that your husband killed him."
+msgstr "Proszę dać spokój, pani Threepwood.  Wszyscy wiedzą, że LeChuck nie żyje i że zabił go pani mąż.  Proszę jej wybaczyć, panie Charles."
+
+msgctxt "e3p4004c"
+msgid "You'll have to excuse her, Mister Charles."
+msgstr "Proszę dać spokój, pani Threepwood.  Wszyscy wiedzą, że LeChuck nie żyje i że zabił go pani mąż.  Proszę jej wybaczyć, panie Charles."
+
+msgctxt "eyel007a"
+msgid "This is horrible.  LeChuck has enslaved my people!"
+msgstr "To straszne.  LeChuck zniewolił mój lud!  Dobrze, że mój dziadek nie żyje i tego nie widzi.  Ale dlaczego każe im zbudować ten posąg?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co się stało z Guybrushem?  Co to za zapach?"
+
+msgctxt "eyel007b"
+msgid "It's a good thing my grandfather isn't alive to see this."
+msgstr "To straszne.  LeChuck zniewolił mój lud!  Dobrze, że mój dziadek nie żyje i tego nie widzi.  Ale dlaczego każe im zbudować ten posąg?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co się stało z Guybrushem?  Co to za zapach?"
+
+msgctxt "eyel007c"
+msgid "Why is he making them build that statue?"
+msgstr "To straszne.  LeChuck zniewolił mój lud!  Dobrze, że mój dziadek nie żyje i tego nie widzi.  Ale dlaczego każe im zbudować ten posąg?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co się stało z Guybrushem?  Co to za zapach?"
+
+msgctxt "eyel007d"
+msgid "What does this have to do with the Ultimate Insult?"
+msgstr "To straszne.  LeChuck zniewolił mój lud!  Dobrze, że mój dziadek nie żyje i tego nie widzi.  Ale dlaczego każe im zbudować ten posąg?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co się stało z Guybrushem?  Co to za zapach?"
+
+msgctxt "eyel007e"
+msgid "What's happened to Guybrush?  What's that smell?"
+msgstr "To straszne.  LeChuck zniewolił mój lud!  Dobrze, że mój dziadek nie żyje i tego nie widzi.  Ale dlaczego każe im zbudować ten posąg?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co się stało z Guybrushem?  Co to za zapach?"
+
+msgctxt "eyp1001a"
+msgid "Uuuugh....huuuugh. Ha! Good Times, Free Grog,' my pockmarked fanny!"
+msgstr "Uuuugh....huuuugh. Ha! "Dobre czasy, darmowy grog", moja dziobata pupko! Wszyscy powinniście się wstydzić!"
+
+msgctxt "eyp1001b"
+msgid "You should all be ashamed of yourselves!"
+msgstr "Uuuugh....huuuugh. Ha! "Dobre czasy, darmowy grog", moja dziobata pupko! Wszyscy powinniście się wstydzić!"
+
+msgctxt "eyp1004a"
+msgid "Well, if NONE of us voted for him, then why is he the Governor?"
+msgstr "Skoro NIKT na niego nie głosował, to dlaczego jest gubernatorem?  I dlaczego jesteśmy zmuszani do budowania jego kolosalnego pomnika w centrum miasta?"
+
+msgctxt "eyp1004b"
+msgid "And why are we being forced to build this"
+msgstr "Skoro NIKT na niego nie głosował, to dlaczego jest gubernatorem?  I dlaczego jesteśmy zmuszani do budowania jego kolosalnego pomnika w centrum miasta?"
+
+msgctxt "eyp1004c"
+msgid "colossal commemorative statue of him in the center of town?"
+msgstr "Skoro NIKT na niego nie głosował, to dlaczego jest gubernatorem?  I dlaczego jesteśmy zmuszani do budowania jego kolosalnego pomnika w centrum miasta?"
+
+msgctxt "eypp010a"
+msgid "Aye."
+msgstr "Aj.  Gubernator i pan Mandrill mają kilka pytań, które chcieliby ci zadać."
+
+msgctxt "eypp010b"
+msgid "The Governor and Mister Mandrill have a few questions they'd like to ask you."
+msgstr "Aj.  Gubernator i pan Mandrill mają kilka pytań, które chcieliby ci zadać."
+
+msgctxt "fioz003a"
+msgid "Hey! Wait a minute...ya can't do this to me...I'm Ozzie Mandrill..."
+msgstr "Hej! Poczekaj chwilę... nie możesz tego zrobić... jestem Ozzie Mandrill... jestem przyszłością Karaibów... rozkazuję... przestań... nie... Aaiiiiiiiiiiieeeeeee!"
+
+msgctxt "fioz003b"
+msgid "I'm the future of the Caribbean...I command...stop...don't...Aaiiiiiiieeeeeee!"
+msgstr "Hej! Poczekaj chwilę... nie możesz tego zrobić... jestem Ozzie Mandrill... jestem przyszłością Karaibów... rozkazuję... przestań... nie... Aaiiiiiiiiiiieeeeeee!"
+
+msgctxt "gmgb008a"
+msgid "Giant Monkey Robot?  Hmm. Are you sure you have all of your memory back?"
+msgstr "Gigantyczny małpi robot?  Hmm. Jesteś pewien, że odzyskałeś całą pamięć?  Może uderzyć cię jeszcze raz..."
+
+msgctxt "gmgb008b"
+msgid "Maybe I should hit you again..."
+msgstr "Gigantyczny małpi robot?  Hmm. Jesteś pewien, że odzyskałeś całą pamięć?  Może uderzyć cię jeszcze raz..."
+
+msgctxt "gmhn007a"
+msgid "We're taking this Giant Monkey Robot to Męlée Island™"
+msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady, aby uratować moją wnuczkę!"
+
+msgctxt "gmhn007b"
+msgid "to rescue my granddaughter!"
+msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady, aby uratować moją wnuczkę!"
+
+msgctxt "h1ch034a"
+msgid "Mwah-hah-haaaa!  The pirates of Męlée couldn't see through a window!"
+msgstr "Mwah-hah-haaaa!  Piraci Szpady nie widzą przez okno!  Nie widzą nawet tego, co jest tuż przed nimi!"
+
+msgctxt "h1ch034b"
+msgid "They can't even see what's right in front of them!"
+msgstr "Mwah-hah-haaaa!  Piraci Szpady nie widzą przez okno!  Nie widzą nawet tego, co jest tuż przed nimi!"
+
+msgctxt "h1el008a"
+msgid "Oh, Guybrush, this is wonderful!"
+msgstr "Guybrushu, to wspaniałe!  Estabanie, zanieś te papiery do ratusza i uratuj moją posiadłość!"
+
+msgctxt "h1el008b"
+msgid "Estaban, take these papers down to the Męlée Town Hall, and save my mansion!"
+msgstr "Guybrushu, to wspaniałe!  Estabanie, zanieś te papiery do ratusza i uratuj moją posiadłość!"
+
+msgctxt "h1el024a"
+msgid "Well, seems like the sensible thing to do would be to"
+msgstr "Cóż, wydaje się, że najrozsądniej byłoby zniszczyć schedę po moim dziadku, aby nikt nie mógł dostać w swoje ręce Talizmanu Upokorzenia, czymkolwiek on jest."
+
+msgctxt "h1el024b"
+msgid "destroy my grandfather's heirlooms,"
+msgstr "Cóż, wydaje się, że najrozsądniej byłoby zniszczyć schedę po moim dziadku, aby nikt nie mógł dostać w swoje ręce Talizmanu Upokorzenia, czymkolwiek on jest."
+
+msgctxt "h1el024c"
+msgid "so that no one could get their hands on the Ultimate Insult, whatever that is."
+msgstr "Cóż, wydaje się, że najrozsądniej byłoby zniszczyć schedę po moim dziadku, aby nikt nie mógł dostać w swoje ręce Talizmanu Upokorzenia, czymkolwiek on jest."
+
+msgctxt "h1el029a"
+msgid "Charles, you manipulating weasel,"
+msgstr "Charles, ty manipulująca łasico, wynoś się z tego domu, zanim naszczuję na ciebie moje pirania pudle!"
+
+msgctxt "h1el029b"
+msgid "get out of my house before I sic my piranha poodles on you!"
+msgstr "Charles, ty manipulująca łasico, wynoś się z tego domu, zanim naszczuję na ciebie moje pirania pudle!"
+
+msgctxt "h1el033a"
+msgid "I don't care what the polls say,"
+msgstr "Nie dbam o sondaże, piraci ze Szpady przejrzą wasze tkanki fałszywych nadziei i pustych obietnic!"
+
+msgctxt "h1el033b"
+msgid "the pirates of Męlée will see through your tissues"
+msgstr "Nie dbam o sondaże, piraci ze Szpady przejrzą wasze tkanki fałszywych nadziei i pustych obietnic!"
+
+msgctxt "h1el033c"
+msgid "of false hopes and empty promises!"
+msgstr "Nie dbam o sondaże, piraci ze Szpady przejrzą wasze tkanki fałszywych nadziei i pustych obietnic!"
+
+msgctxt "h1el044a"
+msgid "Ha! How do you expect to be elected"
+msgstr "Ha! Myślisz że ktoś cię wybierze, gdy rozpowiem, że naprawdę jesteś LeChuckiem?"
+
+msgctxt "h1el044b"
+msgid "once I tell everyone that you're really LeChuck?"
+msgstr "Ha! Myślisz że ktoś cię wybierze, gdy rozpowiem, że naprawdę jesteś LeChuckiem?"
+
+msgctxt "h1es002a"
+msgid "I'm afraid it is, Governor."
+msgstr "Raczej tak, gubernatorze.  Kampania Charlesa "Dobre czasy/Darmowy grog" dała mu 23% przewagę we wszystkich sondażach."
+
+msgctxt "h1es002b"
+msgid "Charles L. Charles's 'Good Times/Free Grog' campaign"
+msgstr "Raczej tak, gubernatorze.  Kampania Charlesa "Dobre czasy/Darmowy grog" dała mu 23% przewagę we wszystkich sondażach."
+
+msgctxt "h1es002c"
+msgid "has given him a 23% lead in all the polls."
+msgstr "Raczej tak, gubernatorze.  Kampania Charlesa "Dobre czasy/Darmowy grog" dała mu 23% przewagę we wszystkich sondażach."
+
+msgctxt "h1gb010a"
+msgid "Well, that's a funny story."
+msgstr "Cóż, to zabawne.  Wszystko zaczęło się, gdy poszedłem szukać beznosego pirata..."
+
+msgctxt "h1gb010b"
+msgid "It all started when I went looking for the no-nosed pirate..."
+msgstr "Cóż, to zabawne.  Wszystko zaczęło się, gdy poszedłem szukać beznosego pirata..."
+
+msgctxt "h1gb013a"
+msgid "...and so, the lawyers used the Marley Mansion deed to draw up the"
+msgstr "...i tak, prawnicy użyli aktu Marleya do sporządzenia dokumentów prawnych, aby uratować rezydencję, a ja wróciłem tutaj."
+
+msgctxt "h1gb013b"
+msgid "legal papers to save the mansion, and I came back here."
+msgstr "...i tak, prawnicy użyli aktu Marleya do sporządzenia dokumentów prawnych, aby uratować rezydencję, a ja wróciłem tutaj."
+
+msgctxt "h1lc045a"
+msgid "Go ahead, tell them.  Shout it from the rooftops."
+msgstr "Śmiało, powiedz im.  Wykrzycz to z dachów.  Tylko mi pomożesz.  A kiedy mnie wybiorą, użyję moich gubernatorskich mocy, by zgłębić sekrety Talizmany Upokorzenia..."
+
+msgctxt "h1lc045b"
+msgid "It will only ensure my victory.  And once I'm elected,"
+msgstr "Śmiało, powiedz im.  Wykrzycz to z dachów.  Tylko mi pomożesz.  A kiedy mnie wybiorą, użyję moich gubernatorskich mocy, by zgłębić sekrety Talizmany Upokorzenia..."
+
+msgctxt "h1lc045c"
+msgid "I'll use my gubernatorial powers to divine the secrets of the Ultimate Insult--"
+msgstr "Śmiało, powiedz im.  Wykrzycz to z dachów.  Tylko mi pomożesz.  A kiedy mnie wybiorą, użyję moich gubernatorskich mocy, by zgłębić sekrety Talizmany Upokorzenia..."
+
+msgctxt "h1lc047a"
+msgid "You heard me, the Ultimate Insult!"
+msgstr "Zgadza się, Talizman Upokorzenia!  Dzięki jego niecnej mocy sprawię, że morza spłyną krwią moich wrogów!  Sprowadzę siły piekielne na wybrzeża Karaibów!  I w końcu uczynię Elaine moją chętną oblubienicą!  Mwah-hah-hahhhhh!"
+
+msgctxt "h1lc047b"
+msgid "With its unholy power, I'll make the seas run red with the blood of my enemies!"
+msgstr "Zgadza się, Talizman Upokorzenia!  Dzięki jego niecnej mocy sprawię, że morza spłyną krwią moich wrogów!  Sprowadzę siły piekielne na wybrzeża Karaibów!  I w końcu uczynię Elaine moją chętną oblubienicą!  Mwah-hah-hahhhhh!"
+
+msgctxt "h1lc047c"
+msgid "I'll bring the forces of Hell to the shores of the Caribbean!"
+msgstr "Zgadza się, Talizman Upokorzenia!  Dzięki jego niecnej mocy sprawię, że morza spłyną krwią moich wrogów!  Sprowadzę siły piekielne na wybrzeża Karaibów!  I w końcu uczynię Elaine moją chętną oblubienicą!  Mwah-hah-hahhhhh!"
+
+msgctxt "h1lc047d"
+msgid "And I'll finally make Elaine my willing bride!  Mwah-hah-hahhhhh!"
+msgstr "Zgadza się, Talizman Upokorzenia!  Dzięki jego niecnej mocy sprawię, że morza spłyną krwią moich wrogów!  Sprowadzę siły piekielne na wybrzeża Karaibów!  I w końcu uczynię Elaine moją chętną oblubienicą!  Mwah-hah-hahhhhh!"
+
+msgctxt "h2gb012a"
+msgid "Don't do it, LeChuck!  He wants to use the Ultimate Insult to humiliate "
+msgstr "Nie rób tego, LeChuck!  On chce użyć Talizmanu, by upokorzyć każdego pirata na Ziemi!"
+
+msgctxt "h2gb012b"
+msgid "every pirate on the face of the Earth!"
+msgstr "Nie rób tego, LeChuck!  On chce użyć Talizmanu, by upokorzyć każdego pirata na Ziemi!"
+
+msgctxt "h2gb016a"
+msgid "But why, LeChuck?  Why would a swashbuckling, albeit demonically evil, "
+msgstr "Ale czemu, LeChuck?  Dlaczego awanturniczy, choć demonicznie zły pirat, taki jak ty, miałby dobrowolnie pomagać w masowej kastracji swych własnych pobratymców?"
+
+msgctxt "h2gb016b"
+msgid "pirate like yourself willingly aid in the mass emasculation of your fellow buccaneers?"
+msgstr "Ale czemu, LeChuck?  Dlaczego awanturniczy, choć demonicznie zły pirat, taki jak ty, miałby dobrowolnie pomagać w masowej kastracji swych własnych pobratymców?"
+
+msgctxt "h2gb020a"
+msgid "Fine, you owe the guy."
+msgstr "Jasne, wisisz mu coś.  Ale po co iść z tym planem nieodwracalnego obrażania wszystkich piratów?"
+
+msgctxt "h2gb020b"
+msgid "But why go along with this plan to irreversibly insult all the pirates?"
+msgstr "Jasne, wisisz mu coś.  Ale po co iść z tym planem nieodwracalnego obrażania wszystkich piratów?"
+
+msgctxt "h2gb027a"
+msgid "Uh. Yeah, ha ha, a hostage!"
+msgstr "Tak, zakładnik!  Ale nawet jeśli mnie zabijesz, Elaine i tak nigdy za ciebie nie wyjdzie!  Nienawidzi twych zgniłych wnętrzności!"
+
+msgctxt "h2gb027b"
+msgid "Besides, even if you kill me, Elaine'll still never marry you!"
+msgstr "Tak, zakładnik!  Ale nawet jeśli mnie zabijesz, Elaine i tak nigdy za ciebie nie wyjdzie!  Nienawidzi twych zgniłych wnętrzności!"
+
+msgctxt "h2gb027c"
+msgid "She hates your stinking undead guts!"
+msgstr "Tak, zakładnik!  Ale nawet jeśli mnie zabijesz, Elaine i tak nigdy za ciebie nie wyjdzie!  Nienawidzi twych zgniłych wnętrzności!"
+
+msgctxt "h2gb035a"
+msgid "Good for her."
+msgstr "I dobrze. Mam nadzieję, że wróci z armią piratów i skopie wam te żałosne tyłki."
+
+msgctxt "h2gb035b"
+msgid "I hope she comes back with an army of pirates and kicks your sorry butts."
+msgstr "I dobrze. Mam nadzieję, że wróci z armią piratów i skopie wam te żałosne tyłki."
+
+msgctxt "h2lc019a"
+msgid "-But it basically boils down to two reasons.  First of all this Mandrill scalawag"
+msgstr "-Ale zasadniczo są dwa powody.  Po pierwsze... ten nicpoń Mandrill wyciągnął mnie spod góry lodu, pod którą mnie zostawiłeś, a LeChuck ZAWSZE spłaca swoje długi."
+
+msgctxt "h2lc019b"
+msgid "pulled me out from under that mountain of ice that YOU left me under,"
+msgstr "-Ale zasadniczo są dwa powody.  Po pierwsze... ten nicpoń Mandrill wyciągnął mnie spod góry lodu, pod którą mnie zostawiłeś, a LeChuck ZAWSZE spłaca swoje długi."
+
+msgctxt "h2lc019c"
+msgid "and LeChuck ALWAYS repays his debts."
+msgstr "-Ale zasadniczo są dwa powody.  Po pierwsze... ten nicpoń Mandrill wyciągnął mnie spod góry lodu, pod którą mnie zostawiłeś, a LeChuck ZAWSZE spłaca swoje długi."
+
+msgctxt "h2lc029a"
+msgid "In other words, the perfect wife! Ha ha!"
+msgstr "Innymi słowy, idealna żona! Ha ha! Oczywiście, jest jeszcze mała kwestia jej obecnego męża-..."
+
+msgctxt "h2lc031a"
+msgid "Are you sure I can't kill him yet?"
+msgstr "Na pewno nie mogę go teraz zabić?  Wcześniej zostawiałem go przy życiu i okazywało się to wielkim błędem."
+
+msgctxt "h2lc031b"
+msgid "I've left him alive before, and it's always turned out to be a big mistake."
+msgstr "Na pewno nie mogę go teraz zabić?  Wcześniej zostawiałem go przy życiu i okazywało się to wielkim błędem."
+
+msgctxt "h2oz010a"
+msgid "Governor LeChuck, would you be kind enough to relieve Mister Threepwood"
+msgstr "Gubernatorze LeChuck, czy byłbyś na tyle uprzejmy, aby uwolnić pana Threepwooda od części Talizmanu Upokorzenia."
+
+msgctxt "h2oz010b"
+msgid "of the pieces to the Ultimate Insult."
+msgstr "Gubernatorze LeChuck, czy byłbyś na tyle uprzejmy, aby uwolnić pana Threepwooda od części Talizmanu Upokorzenia."
+
+msgctxt "h2oz021a"
+msgid "Because, you seafaring scum weasel,"
+msgstr "Ponieważ, ty morska szumowino, kiedy uda nam się złamać ducha walki wszystkich piratów, LeChuck w końcu będzie miał jedyną rzecz, której zawsze pragnął w życiu. Lub, w tym przypadku, śmierci."
+
+msgctxt "h2oz021b"
+msgid "when we succeed in breaking the fighting spirit of all the pirates,"
+msgstr "Ponieważ, ty morska szumowino, kiedy uda nam się złamać ducha walki wszystkich piratów, LeChuck w końcu będzie miał jedyną rzecz, której zawsze pragnął w życiu. Lub, w tym przypadku, śmierci."
+
+msgctxt "h2oz021c"
+msgid "LeChuck will finally have the one thing he's always wanted in life."
+msgstr "Ponieważ, ty morska szumowino, kiedy uda nam się złamać ducha walki wszystkich piratów, LeChuck w końcu będzie miał jedyną rzecz, której zawsze pragnął w życiu. Lub, w tym przypadku, śmierci."
+
+msgctxt "h2oz021d"
+msgid "Or death, as the case may be."
+msgstr "Ponieważ, ty morska szumowino, kiedy uda nam się złamać ducha walki wszystkich piratów, LeChuck w końcu będzie miał jedyną rzecz, której zawsze pragnął w życiu. Lub, w tym przypadku, śmierci."
+
+msgctxt "h2oz028a"
+msgid "Ah, but that's the beauty of the Ultimate Insult, Threepwood."
+msgstr "Ale na tym polega piękno Talizmanu Upokorzenia, Threepwood. Gdy twoja żona zostanie wystawiona na jego ohydną, demoralizującą moc, jej ognisty piracki duch zostanie rozbity jak wiele jaj emu, pozostawiając ją posłuszną, uległą i pokorną. Heh heh."
+
+msgctxt "h2oz028b"
+msgid "Once your wife has been exposed to its hideous, demoralizing power,"
+msgstr "Ale na tym polega piękno Talizmanu Upokorzenia, Threepwood. Gdy twoja żona zostanie wystawiona na jego ohydną, demoralizującą moc, jej ognisty piracki duch zostanie rozbity jak wiele jaj emu, pozostawiając ją posłuszną, uległą i pokorną. Heh heh."
+
+msgctxt "h2oz028c"
+msgid "her fiery pirate spirit will be shattered like so many emu eggs,"
+msgstr "Ale na tym polega piękno Talizmanu Upokorzenia, Threepwood. Gdy twoja żona zostanie wystawiona na jego ohydną, demoralizującą moc, jej ognisty piracki duch zostanie rozbity jak wiele jaj emu, pozostawiając ją posłuszną, uległą i pokorną. Heh heh."
+
+msgctxt "h2oz028d"
+msgid "leaving her compliant, submissive, and obedient. Heh heh."
+msgstr "Ale na tym polega piękno Talizmanu Upokorzenia, Threepwood. Gdy twoja żona zostanie wystawiona na jego ohydną, demoralizującą moc, jej ognisty piracki duch zostanie rozbity jak wiele jaj emu, pozostawiając ją posłuszną, uległą i pokorną. Heh heh."
+
+msgctxt "h2oz034a"
+msgid "We were hoping that you could answer that question, Mister Threepwood."
+msgstr "Mieliśmy nadzieję, że odpowie pan na to pytanie, panie Threepwood. Twoja psotna Sheila wyruszyła w podróż zaraz po tym, jak kapitan LeChuck został wybrany na gubernatora tej najeżonej piratami wyspy."
+
+msgctxt "h2oz034b"
+msgid "Your mischievous Sheila went walkabout right after Captain LeChuck"
+msgstr "Mieliśmy nadzieję, że odpowie pan na to pytanie, panie Threepwood. Twoja psotna Sheila wyruszyła w podróż zaraz po tym, jak kapitan LeChuck został wybrany na gubernatora tej najeżonej piratami wyspy."
+
+msgctxt "h2oz034c"
+msgid "was elected governor of this pirate-infested backwater of an island."
+msgstr "Mieliśmy nadzieję, że odpowie pan na to pytanie, panie Threepwood. Twoja psotna Sheila wyruszyła w podróż zaraz po tym, jak kapitan LeChuck został wybrany na gubernatora tej najeżonej piratami wyspy."
+
+msgctxt "h2oz038a"
+msgid "I see your point."
+msgstr "Rozumiem. A może go schowamy w jakimś niedostępnym, odległym miejscu, gdzie nic nie odwali? Dalej będzie użytecznym zakładnikiem, ale nie będzie mógł wpłynąć na nasze plany?"
+
+msgctxt "h2oz038b"
+msgid "How about we stow the twerp in an inescapable"
+msgstr "Rozumiem. A może go schowamy w jakimś niedostępnym, odległym miejscu, gdzie nic nie odwali? Dalej będzie użytecznym zakładnikiem, ale nie będzie mógł wpłynąć na nasze plany?"
+
+msgctxt "h2oz038c"
+msgid "far away place where he can't do any harm?"
+msgstr "Rozumiem. A może go schowamy w jakimś niedostępnym, odległym miejscu, gdzie nic nie odwali? Dalej będzie użytecznym zakładnikiem, ale nie będzie mógł wpłynąć na nasze plany?"
+
+msgctxt "h2oz038d"
+msgid "Then he'll still be a useful hostage, but he won't be able to affect our plans?"
+msgstr "Rozumiem. A może go schowamy w jakimś niedostępnym, odległym miejscu, gdzie nic nie odwali? Dalej będzie użytecznym zakładnikiem, ale nie będzie mógł wpłynąć na nasze plany?"
+
+msgctxt "hegb021a"
+msgid "So YOU were the one who told Ozzie about the"
+msgstr "Więc to TY powiedziałeś Ozziemu o lukratywnych możliwościach rozwoju na Karaibach."
+
+msgctxt "hegb021b"
+msgid "lucrative development opportunities of the Caribbean."
+msgstr "Więc to TY powiedziałeś Ozziemu o lukratywnych możliwościach rozwoju na Karaibach."
+
+msgctxt "hegb032a"
+msgid "B-b-b-but you can't be Governor Marley!"
+msgstr "Ale ty nie jesteś gubernatorem Marleyem! Wszyscy wiedzą, że H.T. Marley zginął ponad 20 lat temu... u wybrzeży Australii... w wyścigu łodzi...."
+
+msgctxt "hegb032b"
+msgid "I mean. Everyone knows that H.T. Marley died over 20 years ago..."
+msgstr "Ale ty nie jesteś gubernatorem Marleyem! Wszyscy wiedzą, że H.T. Marley zginął ponad 20 lat temu... u wybrzeży Australii... w wyścigu łodzi...."
+
+msgctxt "hegb032c"
+msgid "off the coast of Australia...in a boat race..."
+msgstr "Ale ty nie jesteś gubernatorem Marleyem! Wszyscy wiedzą, że H.T. Marley zginął ponad 20 lat temu... u wybrzeży Australii... w wyścigu łodzi...."
+
+msgctxt "hehn011a"
+msgid "I'll get to that. First, let me tell you how I ended up here on Monkey Island™,"
+msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień."
+
+msgctxt "hehn011b"
+msgid "with nothing but a broken accordion, most of the clothes on my back,"
+msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień."
+
+msgctxt "hehn011c"
+msgid "and a head full of broken memories."
+msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień."
+
+msgctxt "hehn014a"
+msgid "Like so many stories,"
+msgstr "Jak wiele innych historii, ta również zaczęła się 20 lat temu w barze na drugim końcu świata.  Ze spokojnej emerytury na Karaibach zwabił mnie dreszczyk niebezpieczeństwa w regatach żeglarskich u wybrzeży Australii."
+
+msgctxt "hehn014b"
+msgid "it began some twenty years ago in a bar on the other side of the world."
+msgstr "Jak wiele innych historii, ta również zaczęła się 20 lat temu w barze na drugim końcu świata.  Ze spokojnej emerytury na Karaibach zwabił mnie dreszczyk niebezpieczeństwa w regatach żeglarskich u wybrzeży Australii."
+
+msgctxt "hehn014c"
+msgid "I had been lured out of my peaceful retirement in the Caribbean"
+msgstr "Jak wiele innych historii, ta również zaczęła się 20 lat temu w barze na drugim końcu świata.  Ze spokojnej emerytury na Karaibach zwabił mnie dreszczyk niebezpieczeństwa w regatach żeglarskich u wybrzeży Australii."
+
+msgctxt "hehn014d"
+msgid "by the thrill of a dangerous sailing regatta off the coast of Australia."
+msgstr "Jak wiele innych historii, ta również zaczęła się 20 lat temu w barze na drugim końcu świata.  Ze spokojnej emerytury na Karaibach zwabił mnie dreszczyk niebezpieczeństwa w regatach żeglarskich u wybrzeży Australii."
+
+msgctxt "hehn018a"
+msgid "Anyhow, the night before the competition,"
+msgstr "W każdym razie, w noc przed zawodami, przygotowywałem się do wyścigu z kilkoma dzbanami grogu. Wtedy przy barze dołączył do mnie jeden z pozostałych zawodników; nieszczęśliwy australijski potentat o mało prawdopodobnym nazwisku Ozzie Mandrill."
+
+msgctxt "hehn018b"
+msgid "I was steeling myself for the race with several pitchers of grog,"
+msgstr "W każdym razie, w noc przed zawodami, przygotowywałem się do wyścigu z kilkoma dzbanami grogu. Wtedy przy barze dołączył do mnie jeden z pozostałych zawodników; nieszczęśliwy australijski potentat o mało prawdopodobnym nazwisku Ozzie Mandrill."
+
+msgctxt "hehn018c"
+msgid "when I was joined at the bar by one of the other competitors;"
+msgstr "W każdym razie, w noc przed zawodami, przygotowywałem się do wyścigu z kilkoma dzbanami grogu. Wtedy przy barze dołączył do mnie jeden z pozostałych zawodników; nieszczęśliwy australijski potentat o mało prawdopodobnym nazwisku Ozzie Mandrill."
+
+msgctxt "hehn018d"
+msgid "an unhappy Australian tycoon with the unlikely name of Ozzie Mandrill."
+msgstr "W każdym razie, w noc przed zawodami, przygotowywałem się do wyścigu z kilkoma dzbanami grogu. Wtedy przy barze dołączył do mnie jeden z pozostałych zawodników; nieszczęśliwy australijski potentat o mało prawdopodobnym nazwisku Ozzie Mandrill."
+
+msgctxt "hehn020a"
+msgid "Yes!"
+msgstr "Tak!  Biedak wydawał się taki smutny, bo nikt nie chciał już robić z nim interesów.  Aby go pocieszyć, uraczyłem go historiami o moich przygodach na nieokiełznanych morzach Karaibów."
+
+msgctxt "hehn020b"
+msgid "The poor guy seemed so sad,"
+msgstr "Tak!  Biedak wydawał się taki smutny, bo nikt nie chciał już robić z nim interesów.  Aby go pocieszyć, uraczyłem go historiami o moich przygodach na nieokiełznanych morzach Karaibów."
+
+msgctxt "hehn020c"
+msgid "just because no one would do business with him any more.  To cheer him up,"
+msgstr "Tak!  Biedak wydawał się taki smutny, bo nikt nie chciał już robić z nim interesów.  Aby go pocieszyć, uraczyłem go historiami o moich przygodach na nieokiełznanych morzach Karaibów."
+
+msgctxt "hehn020d"
+msgid "I regaled him with stories of my adventures on the untamed Caribbean seas."
+msgstr "Tak!  Biedak wydawał się taki smutny, bo nikt nie chciał już robić z nim interesów.  Aby go pocieszyć, uraczyłem go historiami o moich przygodach na nieokiełznanych morzach Karaibów."
+
+msgctxt "hehn023a"
+msgid "The next day, as I reached the race's halfway point,"
+msgstr "Następnego dnia, gdy dotarłem do półmetka wyścigu, zapomniałem już o nasączonych grogiem szaleństwach poprzedniej nocy.  Nagle zostałem staranowany przez inną łódź i wepchnięty w dziwaczny wir.  To był nikt inny jak Ozzie."
+
+msgctxt "hehn023b"
+msgid "I'd already forgotten the grog-induced revelries of the night before."
+msgstr "Następnego dnia, gdy dotarłem do półmetka wyścigu, zapomniałem już o nasączonych grogiem szaleństwach poprzedniej nocy.  Nagle zostałem staranowany przez inną łódź i wepchnięty w dziwaczny wir.  To był nikt inny jak Ozzie."
+
+msgctxt "hehn023c"
+msgid "Suddenly, I found myself being rammed by another boat,"
+msgstr "Następnego dnia, gdy dotarłem do półmetka wyścigu, zapomniałem już o nasączonych grogiem szaleństwach poprzedniej nocy.  Nagle zostałem staranowany przez inną łódź i wepchnięty w dziwaczny wir.  To był nikt inny jak Ozzie."
+
+msgctxt "hehn023d"
+msgid "pushed into a freakish whirlpool."
+msgstr "Następnego dnia, gdy dotarłem do półmetka wyścigu, zapomniałem już o nasączonych grogiem szaleństwach poprzedniej nocy.  Nagle zostałem staranowany przez inną łódź i wepchnięty w dziwaczny wir.  To był nikt inny jak Ozzie."
+
+msgctxt "hehn023e"
+msgid "It was none other than Ozzie."
+msgstr "Następnego dnia, gdy dotarłem do półmetka wyścigu, zapomniałem już o nasączonych grogiem szaleństwach poprzedniej nocy.  Nagle zostałem staranowany przez inną łódź i wepchnięty w dziwaczny wir.  To był nikt inny jak Ozzie."
+
+msgctxt "hehn027a"
+msgid "I hadn't just told Ozzie about the wonders of the Caribbean;"
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027b"
+msgid "I'd also told him about all of its terrible voodoo secrets;"
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027c"
+msgid "secrets that men would kill to possess."
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027d"
+msgid "I'd told him about the Gate to Heck known as 'Big Whoop.'"
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027e"
+msgid "I'd told him about the Unbelievable Lineage of the Three-Headed Monkey."
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027f"
+msgid "Worst of all, I'd told him about the Ultimate Insult,"
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn027g"
+msgid "the voodoo talisman that could make mice out of men!"
+msgstr "Opowiedziałem Ozziemu nie tylko o cudach Karaibów, ale także o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posiąść.  Opowiedziałem mu o bramie do piekła znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójgłowej Małpy.  Co najgorsze, powiedziałam mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafił zrobić myszy z ludzi!"
+
+msgctxt "hehn029a"
+msgid "Strangely, the whirlpool didn't kill me;"
+msgstr "Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T."."
+
+msgctxt "hehn029b"
+msgid "instead it dropped me and my shattered ship on the other side of the world,"
+msgstr "Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T."."
+
+msgctxt "hehn029c"
+msgid "By the time I had righted myself, I had no idea who I was, or where I came from."
+msgstr "Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T."."
+
+msgctxt "hehn029d"
+msgid "I took the name 'Herman Toothrot,'"
+msgstr "Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T."."
+
+msgctxt "hehn029e"
+msgid "after the remaining letters on my accordion...'H.T.'"
+msgstr "Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T."."
+
+msgctxt "hehn036a"
+msgid "Oh, that's just wonderful."
+msgstr "To cudowne. W końcu pozbyłam się dwudziestoletniej amnezji i pierwszą rzeczą, jakiej się dowiaduję, jest to, że moja wnuczka wyszła za mąż za najbardziej żałosną wymówkę pirata na siedmiu morzach. Dajcie kokosa, żebym mógł wrócić do tamtej błogiej nieświadomości..."
+
+msgctxt "hehn036b"
+msgid "I finally rid myself of twenty years of amnesia,"
+msgstr "To cudowne. W końcu pozbyłam się dwudziestoletniej amnezji i pierwszą rzeczą, jakiej się dowiaduję, jest to, że moja wnuczka wyszła za mąż za najbardziej żałosną wymówkę pirata na siedmiu morzach. Dajcie kokosa, żebym mógł wrócić do tamtej błogiej nieświadomości..."
+
+msgctxt "hehn036c"
+msgid "and the first thing I learn is that my granddaughter"
+msgstr "To cudowne. W końcu pozbyłam się dwudziestoletniej amnezji i pierwszą rzeczą, jakiej się dowiaduję, jest to, że moja wnuczka wyszła za mąż za najbardziej żałosną wymówkę pirata na siedmiu morzach. Dajcie kokosa, żebym mógł wrócić do tamtej błogiej nieświadomości..."
+
+msgctxt "hehn036d"
+msgid "has married the sorriest excuse for a pirate in the seven seas."
+msgstr "To cudowne. W końcu pozbyłam się dwudziestoletniej amnezji i pierwszą rzeczą, jakiej się dowiaduję, jest to, że moja wnuczka wyszła za mąż za najbardziej żałosną wymówkę pirata na siedmiu morzach. Dajcie kokosa, żebym mógł wrócić do tamtej błogiej nieświadomości..."
+
+msgctxt "hehn036e"
+msgid "Somebody get me a coconut so I can go back to being blissfully ignorant..."
+msgstr "To cudowne. W końcu pozbyłam się dwudziestoletniej amnezji i pierwszą rzeczą, jakiej się dowiaduję, jest to, że moja wnuczka wyszła za mąż za najbardziej żałosną wymówkę pirata na siedmiu morzach. Dajcie kokosa, żebym mógł wrócić do tamtej błogiej nieświadomości..."
+
+msgctxt "inel010a"
+msgid "Eh...ha...cha!"
+msgstr "Eh...ha...cha!"
+
+msgctxt "inel010b"
+msgid "Yah!"
+msgstr "Yah!"
+
+msgctxt "inel010c"
+msgid "Ugh...ha."
+msgstr "Ugh...ha."
+
+msgctxt "inel010d"
+msgid "Yah....ugh...ah."
+msgstr "Yah....ugh...ah."
+
+msgctxt "inel010e"
+msgid "Ugh...ugh....yah."
+msgstr "Ugh...ugh....yah."
+
+msgctxt "ingb001a"
+msgid "From the personal log of Guybrush Threepwood:"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001b"
+msgid "Sometimes, when it's quiet, I can still hear the monkeys."
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001c"
+msgid "It's hard to believe that it's only been a few years"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001d"
+msgid "since I first washed up on the beaches of Męlée Island™,"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001e"
+msgid "armed with nothing more than a goofy name"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001f"
+msgid "and an overpowering urge to become a swashbuckling pirate."
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb002a"
+msgid "Who could have suspected that such a humble pursuit"
+msgstr "Któż podejrzewałby, iż taki skromny cel doprowadzi do sporu ze złym piratem widmo LeChuckiem, oślizgłym ślimakiem siedmiu mórz."
+
+msgctxt "ingb002b"
+msgid "would lead me to cross swords with the evil Ghost Pirate LeChuck,"
+msgstr "Któż podejrzewałby, iż taki skromny cel doprowadzi do sporu ze złym piratem widmo LeChuckiem, oślizgłym ślimakiem siedmiu mórz."
+
+msgctxt "ingb002c"
+msgid "the slimiest slug ever to plunder the seven seas?"
+msgstr "Któż podejrzewałby, iż taki skromny cel doprowadzi do sporu ze złym piratem widmo LeChuckiem, oślizgłym ślimakiem siedmiu mórz."
+
+msgctxt "ingb006a"
+msgid "And who could have guessed that my battles with LeChuck"
+msgstr "I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady, Elaine Marley."
+
+msgctxt "ingb006b"
+msgid "would introduce me to the love of my life,"
+msgstr "I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady, Elaine Marley."
+
+msgctxt "ingb006c"
+msgid "Męlée Island's™ Governor Elaine Marley?"
+msgstr "I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady, Elaine Marley."
+
+msgctxt "ingb007a"
+msgid "Or that my efforts to win Elaine's hand would repeatedly drag me"
+msgstr "Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp?"
+
+msgctxt "ingb007b"
+msgid "to the mystery-drenched shores of Monkey Island™?"
+msgstr "Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp?"
+
+msgctxt "ingb008a"
+msgid "Or that I would finally end the scourge of LeChuck,"
+msgstr "Albo że skończę z LeChuckiem grzebiąc go pod lodową górą."
+
+msgctxt "ingb008b"
+msgid "burying him beneath a mountain of ice?"
+msgstr "Albo że skończę z LeChuckiem grzebiąc go pod lodową górą."
+
+msgctxt "ingb009a"
+msgid "Not me, that's for sure."
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009b"
+msgid "Back then the only thing duller than my sword was my wit."
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009c"
+msgid "Now look at me."
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009d"
+msgid "I'm married to the most beautiful governmental official in the Caribbean,"
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009e"
+msgid "the entire Tri-Island area shudders at the sound of my name,"
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009f"
+msgid "and now my Plunder Bunny and I are returning to Męlée Island™"
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "ingb009g"
+msgid "after the most incredible honeymoon in the history of..."
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+
+msgctxt "melu005a"
+msgid "Ah ha! ...I am Breeeliant!  No? She is feexed!..."
+msgstr "Ah ha! ...Jestem genialny! Nie? Naprawione!...Oh, nie... mój piękny obraz.  Zniszczony!"
+
+msgctxt "melu005b"
+msgid "Oh, no... my beautiful painteeen.  She is ruined!"
+msgstr "Ah ha! ...Jestem genialny! Nie? Naprawione!...Oh, nie... mój piękny obraz.  Zniszczony!"
+
+msgctxt "nocd010a"
+msgid "Hold on.  Maybe I should do a background check on you."
+msgstr "Chwileczkę.  Może powinienem cię dokładniej sprawdzić.  To, że nie obrabowałeś banku, nie oznacza, że nie jesteś poszukiwany za inne, bardziej ohydne przestępstwa."
+
+msgctxt "nocd010b"
+msgid "Just because you didn't rob the bank"
+msgstr "Chwileczkę.  Może powinienem cię dokładniej sprawdzić.  To, że nie obrabowałeś banku, nie oznacza, że nie jesteś poszukiwany za inne, bardziej ohydne przestępstwa."
+
+msgctxt "nocd010c"
+msgid "doesn't mean that you aren't wanted for other, more heinous crimes."
+msgstr "Chwileczkę.  Może powinienem cię dokładniej sprawdzić.  To, że nie obrabowałeś banku, nie oznacza, że nie jesteś poszukiwany za inne, bardziej ohydne przestępstwa."
+
+msgctxt "nocd014a"
+msgid "On the other hand, without the stigma of felonious robbery hanging over your head,"
+msgstr "Z drugiej strony, bez piętna zbrodniczej kradzieży wiszącego nad twoją głową, wydajesz się całkiem nieszkodliwy, więc zmykaj!"
+
+msgctxt "nocd014b"
+msgid "you seem pretty harmless, so, off you go!"
+msgstr "Z drugiej strony, bez piętna zbrodniczej kradzieży wiszącego nad twoją głową, wydajesz się całkiem nieszkodliwy, więc zmykaj!"
+
+msgctxt "ozjj089a"
+msgid "Now is the time foretold in the ancient prophecies of Monkey Island™."
+msgstr "Nadszedł czas przepowiedziany w starożytnych proroctwach Wyspy Małp.  Czas na Talizman Up..."
+
+msgctxt "ozjj089b"
+msgid "Now is the time for the ultimate in..."
+msgstr "Nadszedł czas przepowiedziany w starożytnych proroctwach Wyspy Małp.  Czas na Talizman Up..."
+
+msgctxt "ozlc012a"
+msgid "I'll tell ya what's wrong!  This so-called 'Ultimate Insult' doesn't work!"
+msgstr "Już ci mówię!  Ten twój "Talizman Upokorzenia" nie działa!  Próbowałem walić nim w każdy rupieć w tej przeklętej ruderze, ale nic się nie dzieje!"
+
+msgctxt "ozlc012b"
+msgid "I've tried whacking it against every piece of junk in this accursed hovel,"
+msgstr "Już ci mówię!  Ten twój "Talizman Upokorzenia" nie działa!  Próbowałem walić nim w każdy rupieć w tej przeklętej ruderze, ale nic się nie dzieje!"
+
+msgctxt "ozlc012c"
+msgid "but nothing happens!"
+msgstr "Już ci mówię!  Ten twój "Talizman Upokorzenia" nie działa!  Próbowałem walić nim w każdy rupieć w tej przeklętej ruderze, ale nic się nie dzieje!"
+
+msgctxt "ozlc032a"
+msgid "Oh, let me use it on Elaine!"
+msgstr "Daj mi go użyć na Elaine!  Ze złamanym duchem w końcu zgodzi się zostać moją narzeczoną!"
+
+msgctxt "ozlc038a"
+msgid "Arrrr, I KNEW this ridiculous plan would never succeed."
+msgstr "Wiedziałem, że ten absurdalny plan nigdy się nie uda. To tylko pokazuje, żeby nigdy nie wysyłać australijskiego siusiumajtka do wykonania pracy dla prawdziwego pirata."
+
+msgctxt "ozlc038b"
+msgid "I guess this just goes to show that you should never send an Australian girly-man"
+msgstr "Wiedziałem, że ten absurdalny plan nigdy się nie uda. To tylko pokazuje, żeby nigdy nie wysyłać australijskiego siusiumajtka do wykonania pracy dla prawdziwego pirata."
+
+msgctxt "ozlc038c"
+msgid "to do the work of a real pirate."
+msgstr "Wiedziałem, że ten absurdalny plan nigdy się nie uda. To tylko pokazuje, żeby nigdy nie wysyłać australijskiego siusiumajtka do wykonania pracy dla prawdziwego pirata."
+
+msgctxt "ozlc073a"
+msgid "You insignificant mortal flea!  How dare you wield your"
+msgstr "Ty nudna, śmiertelna pchło!  Jak śmiesz władać swoimi żałosnymi sztuczkami przeciwko mej nieokiełznanej potędze!  Zmielę twe kości na grog, ty potrójny... czasowy... draniu!"
+
+msgctxt "ozlc073b"
+msgid "pathetic voodoo magiks against the immortal might of the Demon Pirate LeChuck!"
+msgstr "Ty nudna, śmiertelna pchło!  Jak śmiesz władać swoimi żałosnymi sztuczkami przeciwko mej nieokiełznanej potędze!  Zmielę twe kości na grog, ty potrójny... czasowy... draniu!"
+
+msgctxt "ozlc073c"
+msgid "I'll grind yer bones to make me grog, ya triple...timin'... bastich!"
+msgstr "Ty nudna, śmiertelna pchło!  Jak śmiesz władać swoimi żałosnymi sztuczkami przeciwko mej nieokiełznanej potędze!  Zmielę twe kości na grog, ty potrójny... czasowy... draniu!"
+
+msgctxt "ozoz021a"
+msgid "Well, that's seems to have shaved the proverbial dingo."
+msgstr "Wygląda na to, że ogoliliśmy przysłowiowego dingo. Przetestujmy tego gnojka. Kołkonos?"
+
+msgctxt "ozoz021b"
+msgid "Let's test this bugger out. Ah, Pegnose?"
+msgstr "Wygląda na to, że ogoliliśmy przysłowiowego dingo. Przetestujmy tego gnojka. Kołkonos?"
+
+msgctxt "ozoz031a"
+msgid "Well, Mrs. Threepwood,"
+msgstr "Cóż, pani Threepwood, wygląda na to, że moc Talizmanu jest wreszcie moja! Heh heh."
+
+msgctxt "ozoz031b"
+msgid "it seems as though the power of the Ultimate Insult is finally mine!  Heh heh."
+msgstr "Cóż, pani Threepwood, wygląda na to, że moc Talizmanu jest wreszcie moja! Heh heh."
+
+msgctxt "ozoz033a"
+msgid "All in due time, Captain.  But first,"
+msgstr "Wszystko w swoim czasie. Najpierw dajmy jej przedsmak tego, co nadejdzie, niszcząc ego jej wszystkich pirackich przyjaciół!"
+
+msgctxt "ozoz033b"
+msgid "let's give her a taste of things to come."
+msgstr "Wszystko w swoim czasie. Najpierw dajmy jej przedsmak tego, co nadejdzie, niszcząc ego jej wszystkich pirackich przyjaciół!"
+
+msgctxt "ozoz035a"
+msgid "For years, the Caribbean has been buffeted by the"
+msgstr "Przez lata Karaibami targały nieprzewidywalne wiatry szalejącego piractwa. Teraz, mocą Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapoczątkowuję nową erę uporządkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzieło, potężni piraci, i rozpaczajcie!!! Ha!"
+
+msgctxt "ozoz035b"
+msgid "unpredictable winds of runaway piracy."
+msgstr "Przez lata Karaibami targały nieprzewidywalne wiatry szalejącego piractwa. Teraz, mocą Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapoczątkowuję nową erę uporządkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzieło, potężni piraci, i rozpaczajcie!!! Ha!"
+
+msgctxt "ozoz035c"
+msgid "Now, by the power of the Ultimate Insult, I hereby banish those chaotic tempests,"
+msgstr "Przez lata Karaibami targały nieprzewidywalne wiatry szalejącego piractwa. Teraz, mocą Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapoczątkowuję nową erę uporządkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzieło, potężni piraci, i rozpaczajcie!!! Ha!"
+
+msgctxt "ozoz035d"
+msgid "and usher in a new age of orderly consumerism! Ha!  I am Ozzie Mandrill:"
+msgstr "Przez lata Karaibami targały nieprzewidywalne wiatry szalejącego piractwa. Teraz, mocą Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapoczątkowuję nową erę uporządkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzieło, potężni piraci, i rozpaczajcie!!! Ha!"
+
+msgctxt "ozoz035e"
+msgid "Look upon my works, ye mighty pirates, and despair!!!  Ha!"
+msgstr "Przez lata Karaibami targały nieprzewidywalne wiatry szalejącego piractwa. Teraz, mocą Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapoczątkowuję nową erę uporządkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzieło, potężni piraci, i rozpaczajcie!!! Ha!"
+
+msgctxt "ozoz037a"
+msgid "Where's the kaboom?  There's supposed to be a Caribbean-shattering kaboom!"
+msgstr "Gdzie jest to bum? Miało być wstrząsające Karaiby bum! Zacznij działać, do cholery!"
+
+msgctxt "ozoz037b"
+msgid "Work, damn your eyes, work!"
+msgstr "Gdzie jest to bum? Miało być wstrząsające Karaiby bum! Zacznij działać, do cholery!"
+
+msgctxt "ozoz050a"
+msgid "I don't how you dimwits managed to sabotage"
+msgstr "Nie wiem, jak wy, głąby, zdołaliście sabotować mój wspaniały Aparat Wzmacniający Zniewagi, ale będę miał przynajmniej satysfakcję z unicestwienia waszych aroganckich pirackich dusz!"
+
+msgctxt "ozoz050b"
+msgid "my magnificent Insult Amplification Apparatus,"
+msgstr "Nie wiem, jak wy, głąby, zdołaliście sabotować mój wspaniały Aparat Wzmacniający Zniewagi, ale będę miał przynajmniej satysfakcję z unicestwienia waszych aroganckich pirackich dusz!"
+
+msgctxt "ozoz050c"
+msgid "but I'll at least have the satisfaction of annihilating your arrogant pirate souls!"
+msgstr "Nie wiem, jak wy, głąby, zdołaliście sabotować mój wspaniały Aparat Wzmacniający Zniewagi, ale będę miał przynajmniej satysfakcję z unicestwienia waszych aroganckich pirackich dusz!"
+
+msgctxt "ozoz065a"
+msgid "Yaaah!"
+msgstr " "
+
+msgctxt "ozoz076a"
+msgid "Well, eventually, I'll be wanting you to squish every pirate on the face"
+msgstr "Cóż, ostatecznie będę chciał, abyś zgniótł każdego pirata na powierzchni planety w lepką czerwoną maź, ale teraz... ZABIJ GUYBRUSH THREEPWOOD!"
+
+msgctxt "ozoz076b"
+msgid "of the planet into a sticky red goo, but for now, let's just..."
+msgstr "Cóż, ostatecznie będę chciał, abyś zgniótł każdego pirata na powierzchni planety w lepką czerwoną maź, ale teraz... ZABIJ GUYBRUSH THREEPWOOD!"
+
+msgctxt "ozoz076c"
+msgid "KILL GUYBRUSH THREEPWOOD!"
+msgstr "Cóż, ostatecznie będę chciał, abyś zgniótł każdego pirata na powierzchni planety w lepką czerwoną maź, ale teraz... ZABIJ GUYBRUSH THREEPWOOD!"
+
+msgctxt "ozoz086a"
+msgid "Well, what an unexpected family reunion!"
+msgstr "Cóż za rodzinne spotkanie! Szkoda, że muszę to zepsuć, niszcząc wasze słabe umysły mocą Talizmanu Upokorzenia!"
+
+msgctxt "ozoz086b"
+msgid "Too bad I have to ruin it by savaging your puny minds"
+msgstr "Cóż za rodzinne spotkanie! Szkoda, że muszę to zepsuć, niszcząc wasze słabe umysły mocą Talizmanu Upokorzenia!"
+
+msgctxt "ozoz086c"
+msgid "with the power of the Ultimate Insult!"
+msgstr "Cóż za rodzinne spotkanie! Szkoda, że muszę to zepsuć, niszcząc wasze słabe umysły mocą Talizmanu Upokorzenia!"
+
+msgctxt "ozpp024a"
+msgid "Look, Mister 'High-And-Mighty' Mandrill,"
+msgstr "Panie "Wielki i Potężny" Mandrill, strasznie mnie męczy to wykonywanie twoich rozkazów. Najwyższy czas renegocjować warunki mojego zatrudnienia."
+
+msgctxt "ozpp024b"
+msgid "I'm getting awfully tired of following orders."
+msgstr "Panie "Wielki i Potężny" Mandrill, strasznie mnie męczy to wykonywanie twoich rozkazów. Najwyższy czas renegocjować warunki mojego zatrudnienia."
+
+msgctxt "ozpp024c"
+msgid "I think it's about time we renegotiated the terms o' my employment."
+msgstr "Panie "Wielki i Potężny" Mandrill, strasznie mnie męczy to wykonywanie twoich rozkazów. Najwyższy czas renegocjować warunki mojego zatrudnienia."
+
+msgctxt "ozpp026a"
+msgid "Or I'll fill yer belly full of lead, ya sissified fossil!"
+msgstr "Albo napełnię twój brzuch ołowiem, ty zasmarkana skamielino!  Nikt nie zadziera z Kołkonosem Piratem i żyje, by o tym opowiadać!  Oderwę ci ręce i zniszczę cię..."
+
+msgctxt "ozpp026b"
+msgid "No one messes with Pegnose the Pirate and lives to tell the tale!"
+msgstr "Albo napełnię twój brzuch ołowiem, ty zasmarkana skamielino!  Nikt nie zadziera z Kołkonosem Piratem i żyje, by o tym opowiadać!  Oderwę ci ręce i zniszczę cię..."
+
+msgctxt "ozpp026c"
+msgid "I'll rip off your arms and I'll beat ya---"
+msgstr "Albo napełnię twój brzuch ołowiem, ty zasmarkana skamielino!  Nikt nie zadziera z Kołkonosem Piratem i żyje, by o tym opowiadać!  Oderwę ci ręce i zniszczę cię..."
+
+msgctxt "ozpp028a"
+msgid "Please, please don't hurt me, Mister Mandrill!"
+msgstr "Proszę mnie nie krzywdzić, panie Mandrill!  Obiecuję, że od teraz zrobię wszystko, co mi Pan każe!"
+
+msgctxt "ozpp028b"
+msgid "I'll do whatever you say from now on, I promise!"
+msgstr "Proszę mnie nie krzywdzić, panie Mandrill!  Obiecuję, że od teraz zrobię wszystko, co mi Pan każe!"
+

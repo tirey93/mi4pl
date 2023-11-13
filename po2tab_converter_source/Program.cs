@@ -112,23 +112,23 @@ namespace po2tab_converter
 
             string[] linesEn = fileEn.Split("\r\n");
             string[] linesPl = filePl.Split("\r\n");
-            var dictPl = linesPl.Select(x => new Line(x))
+            var dictEn = linesEn.Select(x => new Line(x))
                 .Where(x => x.Markup != null)
                 .GroupBy(x => x.Markup)
                 .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
 
-            var linesEnList = linesEn.Select(x => new Line(x)).ToList();
+            var linesPlList = linesPl.Select(x => new Line(x)).ToList();
 
             var result = new List<string>();
-            foreach (var line in linesEnList.Where(x => x.Markup != null))
+            foreach (var line in linesPlList.Where(x => x.Markup != null))
             {
-                if(!dictPl.TryGetValue(line.Markup, out var linePl))
+                if(!dictEn.TryGetValue(line.Markup, out var linePl))
                 {
                     result.Add(line.Markup);
                 }
             }
 
-            //File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
+            File.WriteAllLines("inPlOnly.po", result, Encoding.GetEncoding("windows-1250"));
 
         }
         

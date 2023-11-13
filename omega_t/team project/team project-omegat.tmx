@@ -6,46 +6,6 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>"pijany byk"</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>"pijany byk"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"strachliwy pawian"</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>"strachliwy pawian"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"szybszy szympans"</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>"szybszy szympans"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"wesoły gibon"</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>"wesoły gibon"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>"wystraszona małpa"</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>"wystraszona małpa"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>&amp;Alter Gee Whiz Factor...</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231101T140742Z">
@@ -18477,14 +18437,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Groźną Syrenkę Mechaniczną</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>Groźną Syrenkę Mechaniczną</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Grrrrrr!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231030T181401Z" creationid="damia" creationdate="20231030T181401Z">
@@ -35218,14 +35170,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Dobra inwestycja.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Iron Maiden</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>Iron Maiden</seg>
       </tuv>
     </tu>
     <tu>
@@ -67874,7 +67818,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, I certainly didn't vote for that bilge rat LeChuck!</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="damia" changedate="20231113T140847Z">
         <seg>Ja też na pewno nie głosowałem na LeChucka!</seg>
       </tuv>
     </tu>
@@ -77955,22 +77899,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>bardzo drogą procelane</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140445Z" creationid="damia" creationdate="20231101T140445Z">
-        <seg>bardzo drogą procelane</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>bardzo sławną wielką czaszkę małpy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>bardzo sławną wielką czaszkę małpy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>barrel</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T123746Z">
@@ -78327,22 +78255,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>czapka z brązu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>brudną piracką osadę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>brudną piracką osadę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>brudną piracką wioskę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>brudną piracką wioskę</seg>
       </tuv>
     </tu>
     <tu>
@@ -78739,22 +78651,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>chudym graczem w szachy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>chudym graczem w szachy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ciężkie metalowe drzwi</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140445Z" creationid="damia" creationdate="20231101T140445Z">
-        <seg>ciężkie metalowe drzwi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>cliff</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T123248Z">
@@ -79027,30 +78923,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>czystych piratów na Jambalaya</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>czystych piratów na Jambalaya</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>częściowo gotowy Talizman Upokorzenia</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111224Z" creationid="damia" creationdate="20231101T110700Z">
-        <seg>częściowo wykonany Talizman Upokorzenia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>darmowe przynęty</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111556Z" creationid="damia" creationdate="20231101T111556Z">
-        <seg>darmowa przynęta</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>dartboard</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T192107Z">
@@ -79163,30 +79035,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>dobrze wyglądająca łódź</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>dobrze wyglądająca łódź</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dobrze wyglądający statek</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>dobrze wyglądający statek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dobrze zbudowanym graczem w szachy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>dobrze zbudowanym graczem w szachy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>docks</seg>
       </tuv>
       <tuv lang="pl">
@@ -79215,14 +79063,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T191912Z">
         <seg>lalka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>domowe perfumy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111449Z" creationid="damia" creationdate="20231101T111449Z">
-        <seg>własnoręcznie robione perfumy</seg>
       </tuv>
     </tu>
     <tu>
@@ -79311,110 +79151,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>czapka głąba</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>duże rury</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>duże rury</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dużą beczkę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111509Z" creationid="damia" creationdate="20231101T111509Z">
-        <seg>beczki z odzysku</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwna maszyna</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>dziwna maszyna</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwne drinki tropikalne</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>dziwne drinki tropikalne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwne lustro</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140501Z" creationid="damia" creationdate="20231101T140501Z">
-        <seg>dziwne lustro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwne przełączniki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>dziwne przełączniki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwny aparat</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>dziwny aparat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwny dom</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>dziwny dom</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwny drink tropikalny</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>dziwny drink tropikalny</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwny kaktus z detka rowerowa</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140443Z" creationid="damia" creationdate="20231101T140443Z">
-        <seg>dziwny kaktus z detka rowerowa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwny pierścień</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140500Z" creationid="damia" creationdate="20231101T140500Z">
-        <seg>dziwny pierścień</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwnym kaktusem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140444Z" creationid="damia" creationdate="20231101T140444Z">
-        <seg>dziwnym kaktusem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>dziwną panią</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>dziwną panią</seg>
       </tuv>
     </tu>
     <tu>
@@ -79923,22 +79659,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>gorsza wersja</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>gorsza wersja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>gorący węgielek</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111309Z" creationid="damia" creationdate="20231101T110702Z">
-        <seg>rozżarzony węgielek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>government job contract form</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231026T135836Z">
@@ -80063,14 +79783,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T191232Z">
         <seg>facet z dwoma opaskami na oczy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>głęboką wodę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>głęboką wodę</seg>
       </tuv>
     </tu>
     <tu>
@@ -80251,14 +79963,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>imponujące malowidła</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140444Z" creationid="damia" creationdate="20231101T140444Z">
-        <seg>imponujące malowidła</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>in front of</seg>
       </tuv>
       <tuv lang="pl">
@@ -80303,14 +80007,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T124545Z">
         <seg>nieregularne drążki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>irytującym sprzedawcą</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>irytującym sprzedawcą</seg>
       </tuv>
     </tu>
     <tu>
@@ -80403,14 +80099,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>jasnym światłem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140500Z" creationid="damia" creationdate="20231101T140500Z">
-        <seg>jasnym światłem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>jug o' rum</seg>
       </tuv>
       <tuv lang="pl">
@@ -80487,22 +80175,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T185318Z">
         <seg>koala</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>kolorową esencje</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>kolorową esencje</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>kolumny</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140445Z" creationid="damia" creationdate="20231101T140445Z">
-        <seg>kolumny</seg>
       </tuv>
     </tu>
     <tu>
@@ -80623,22 +80295,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T093327Z">
         <seg>dokumentów prawnych, aby uratować rezydencję, a ja wróciłem.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>lepką karykaturę Małpiego Kubka</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111009Z" creationid="damia" creationdate="20231101T110625Z">
-        <seg>lepka karykatura Małpiego Kubka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>lepsza wersja</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>lepsza wersja</seg>
       </tuv>
     </tu>
     <tu>
@@ -80803,46 +80459,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>mały palec</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140501Z" creationid="damia" creationdate="20231101T140501Z">
-        <seg>mały palec</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>mały skarb</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111528Z" creationid="damia" creationdate="20231101T111528Z">
-        <seg>malusieńki skarb</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>małą beczkę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>małą beczkę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>małą wieżę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>małą wieżę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>małą śrubkę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T110914Z" creationid="damia" creationdate="20231101T110617Z">
-        <seg>maluteńka śrubka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>medical records</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231101T141238Z">
@@ -80939,26 +80555,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>miłą nauczycielką</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111810Z" creationid="damia" creationdate="20231101T111810Z">
-        <seg>miłą nauczycielką</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>mmm hhmm... yes... ah, yes... good... uh huh.</seg>
       </tuv>
       <tuv lang="pl">
         <seg>mmm, hmm... tak... a, tak... dobrze... aha.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>mniejszym graczem grajacym w rzutki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231028T162402Z" creationid="damia" creationdate="20231028T162402Z">
-        <seg>mniejszym graczem grającym w rzutki</seg>
       </tuv>
     </tu>
     <tu>
@@ -81123,14 +80723,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>muzykalna małpa</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>muzykalna małpa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>my magnificent Insult Amplification Apparatus,</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T104837Z">
@@ -81139,58 +80731,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>na drugą stronę wąwozu</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>na drugą stronę wąwozu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>nadziewaną wieprzowinę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>nadziewaną wieprzowinę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>nafaszerowaną rybę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>nafaszerowaną rybę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>największy milczek wszech czasów</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>największy milczek wszech czasów</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>name tag</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T130134Z">
         <seg>etykieta imienia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>naprawdę wielką wieżę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>naprawdę wielką wieżę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>naładowna armata</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140502Z" creationid="damia" creationdate="20231101T140502Z">
-        <seg>naładowna armata</seg>
       </tuv>
     </tu>
     <tu>
@@ -81211,58 +80755,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>niebieski obraz</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T110628Z" creationid="damia" creationdate="20231101T110628Z">
-        <seg>niebieski obraz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>niebieską esencje</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>niebieską esencje</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>niebieską łódź</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>niebieską łódź</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>nieustraszonym zeglazem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231028T162336Z" creationid="damia" creationdate="20231028T162336Z">
-        <seg>nieustraszonym żeglarzem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>niezwykle czysty i schludny bar</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>niezwykle czysty i schludny bar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>nifty rock formation</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T122323Z">
         <seg>ładna formacja skalne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>niższą zjawę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140500Z" creationid="damia" creationdate="20231101T140500Z">
-        <seg>niższą zjawę</seg>
       </tuv>
     </tu>
     <tu>
@@ -81303,14 +80799,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T111327Z">
         <seg>notka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>obcy statek</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140502Z" creationid="damia" creationdate="20231101T140502Z">
-        <seg>obcy statek</seg>
       </tuv>
     </tu>
     <tu>
@@ -81359,38 +80847,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T094345Z">
         <seg>u wybrzeży Australii... w wyścigu łodzi....</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ogromnie wysoką trampolinę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>ogromnie wysoką trampolinę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ogromny dziobak gigant ryby</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111626Z" creationid="damia" creationdate="20231101T111626Z">
-        <seg>wielkie haki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ogromny głaz</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>ogromny głaz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ogromny spust</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>ogromny spust</seg>
       </tuv>
     </tu>
     <tu>
@@ -81543,14 +80999,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T111112Z">
         <seg>częściowo wykonany Talizman Upokorzenia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>paskowaną esencje</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>paskowaną esencje</seg>
       </tuv>
     </tu>
     <tu>
@@ -81731,14 +81179,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>pijanym marynarzem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>pijanym marynarzem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>pile o' boulders</seg>
       </tuv>
       <tuv lang="pl">
@@ -81875,14 +81315,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>podmieniony Kubek</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111405Z" creationid="damia" creationdate="20231101T111405Z">
-        <seg>fałszywy Małpi Kubek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>pole</seg>
       </tuv>
       <tuv lang="pl">
@@ -81903,14 +81335,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T103832Z">
         <seg>słup z wetkniętym hakiem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>ponury dom</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>ponury dom</seg>
       </tuv>
     </tu>
     <tu>
@@ -81991,14 +81415,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231101T140917Z" creationid="damia" creationdate="20231101T140858Z">
         <seg>pracownik banku</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>prawnikami</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T130146Z" creationid="damia" creationdate="20231031T130146Z">
-        <seg>prawnikami</seg>
       </tuv>
     </tu>
     <tu>
@@ -82091,38 +81507,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>przerażającą katapultę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140443Z" creationid="damia" creationdate="20231101T140443Z">
-        <seg>przerażającą katapultę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>przewrócony samochód</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111647Z" creationid="damia" creationdate="20231101T111647Z">
-        <seg>wywrócony wózek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>przyjaznie wyglądajacymi piratami</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>przyjaznie wyglądajacymi piratami</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>przyjaznym piratem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>przyjaznym piratem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>puddle</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T185028Z">
@@ -82155,42 +81539,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>puste budynki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140445Z" creationid="damia" creationdate="20231101T140445Z">
-        <seg>puste budynki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>pustość</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111440Z" creationid="damia" creationdate="20231101T111440Z">
-        <seg>pusty spryskiwacz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>pustą filiżankę po groggocino</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111144Z" creationid="damia" creationdate="20231101T110634Z">
-        <seg>pusta filiżanka po groggocino</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>put</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T123350Z">
         <seg>Nałóż:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>płytką wodę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>płytką wodę</seg>
       </tuv>
     </tu>
     <tu>
@@ -82347,22 +81699,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>rozpompowana detke</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111353Z" creationid="damia" creationdate="20231101T111353Z">
-        <seg>dziurawa dętka</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>rozrzucone wegielki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140502Z" creationid="damia" creationdate="20231101T140502Z">
-        <seg>rozrzucone wegielki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>rubber chicken with a pulley in the middle</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T185018Z">
@@ -82391,14 +81727,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>żagiel</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>samotną plamę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>samotną plamę</seg>
       </tuv>
     </tu>
     <tu>
@@ -82471,14 +81799,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T094740Z">
         <seg>tajemnicach, za które ludzie zabiliby, aby je posiąść.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>sekretny szyld</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>sekretny szyld</seg>
       </tuv>
     </tu>
     <tu>
@@ -82659,14 +81979,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>silną małpę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111425Z" creationid="damia" creationdate="20231101T111425Z">
-        <seg>Krzepka Małpa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>since I first washed up on the beaches of Męlée Island™,</seg>
       </tuv>
       <tuv lang="pl">
@@ -82695,14 +82007,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T182808Z">
         <seg>chudy gracz w szachy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>skonfiskowany kredens</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111520Z" creationid="damia" creationdate="20231101T111520Z">
-        <seg>kredens z odzysku</seg>
       </tuv>
     </tu>
     <tu>
@@ -82899,50 +82203,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>stare ciuchy Guybrusha</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>stare ciuchy Guybrusha</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>starfish</seg>
       </tuv>
       <tuv lang="pl">
         <seg>rozgwiazda</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>stary miecz</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T110608Z" creationid="damia" creationdate="20231101T110608Z">
-        <seg>stary miecz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>starym i mądrym sędziom</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>starym i mądrym sędziom</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>starym sprzedawcą</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111549Z" creationid="damia" creationdate="20231101T111549Z">
-        <seg>Stary Łachudra</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>starą, zniszczoną łódź</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111707Z" creationid="damia" creationdate="20231101T111707Z">
-        <seg>na wpół zakopana stara łódź</seg>
       </tuv>
     </tu>
     <tu>
@@ -83091,30 +82355,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>straszne drzwi</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140458Z" creationid="damia" creationdate="20231101T140458Z">
-        <seg>straszne drzwi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>straszne ptaki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>straszne ptaki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>straszną fontannę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>straszną fontannę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>stuffed fish</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T192148Z">
@@ -83127,14 +82367,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T130519Z">
         <seg>wypchana świnia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>stół w kształcie dłoni</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140501Z" creationid="damia" creationdate="20231101T140501Z">
-        <seg>stół w kształcie dłoni</seg>
       </tuv>
     </tu>
     <tu>
@@ -83227,38 +82459,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>szlachetna porcelana</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140444Z" creationid="damia" creationdate="20231101T140444Z">
-        <seg>szlachetna porcelana</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>sztukę nowoczesną</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140447Z" creationid="damia" creationdate="20231101T140447Z">
-        <seg>sztukę nowoczesną</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>szyk formacji skalnych</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111639Z" creationid="damia" creationdate="20231101T111639Z">
-        <seg>ładna formacja skalne</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>tabacco do żucia</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>tabacco do żucia</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>table</seg>
       </tuv>
       <tuv lang="pl">
@@ -83288,14 +82488,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T124834Z">
         <seg>wysoka skała</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>tchórzliwą małpę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111319Z" creationid="damia" creationdate="20231101T110740Z">
-        <seg>Nieśmiała Małpa</seg>
       </tuv>
     </tu>
     <tu>
@@ -83628,14 +82820,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>towarzyskim barmanem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>towarzyskim barmanem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>town</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T183146Z">
@@ -83716,22 +82900,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>trochę mniej płytką wodę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>trochę mniej płytką wodę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>trójgłową małpę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111433Z" creationid="damia" creationdate="20231101T111433Z">
-        <seg>Trójgłowa Małpa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>tube</seg>
       </tuv>
       <tuv lang="pl">
@@ -83744,14 +82912,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>dwa banany</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>tłustą tkaninę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>tłustą tkaninę</seg>
       </tuv>
     </tu>
     <tu>
@@ -84036,30 +83196,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>wiekszym graczem grajacym w rzutki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231028T162347Z" creationid="damia" creationdate="20231028T162347Z">
-        <seg>większym graczem grającym w rzutki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>wielki kamień</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>wielki kamień</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>wielkie koło</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>wielkie koło</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>wimpy grog</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T104016Z">
@@ -84172,30 +83308,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>wyschnięty staw</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140446Z" creationid="damia" creationdate="20231101T140446Z">
-        <seg>wyschnięty staw</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>wysoką zjawę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140500Z" creationid="damia" creationdate="20231101T140500Z">
-        <seg>wysoką zjawę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>wyżute ciasteczko ze śliną Schmear Whiz</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111207Z" creationid="damia" creationdate="20231101T110657Z">
-        <seg>soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>yet unsophisticated public can be so draining.</seg>
       </tuv>
       <tuv lang="pl">
@@ -84220,146 +83332,10 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>zaginioną lagunę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>zaginioną lagunę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>zatłoczony bar</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>zatłoczony bar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>zgniłe rybki</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>zgniłe rybki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>zrzędliwym sędziom</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140457Z" creationid="damia" creationdate="20231101T140457Z">
-        <seg>zrzędliwym sędziom</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>zywoplot w ksztalcie krowy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140444Z" creationid="damia" creationdate="20231101T140444Z">
-        <seg>zywoplot w ksztalcie krowy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>złamane Q-Tip</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140456Z" creationid="damia" creationdate="20231101T140456Z">
-        <seg>złamane Q-Tip</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>złamany miecz</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T110609Z" creationid="damia" creationdate="20231101T110609Z">
-        <seg>złamany miecz</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>złowieszczą posiadłość</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>złowieszczą posiadłość</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>© 2001 LucasArts Entertainment Company</seg>
       </tuv>
       <tuv lang="pl">
         <seg>2001 LucasArts Entertainment Company</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>łódź sportową</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>łódź sportową</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>śmierdzącym piratem</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140455Z" creationid="damia" creationdate="20231101T140455Z">
-        <seg>śmierdzącym piratem</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>śmierdzącą małpę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111418Z" creationid="damia" creationdate="20231101T111418Z">
-        <seg>Śmierdząca Małpa</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>śmieszny cień</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T111539Z" creationid="damia" creationdate="20231101T111539Z">
-        <seg>śmieszny cień</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>średnią wieżę</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140459Z" creationid="damia" creationdate="20231101T140459Z">
-        <seg>średnią wieżę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>świecący Pojemniczek</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T110613Z" creationid="damia" creationdate="20231101T110613Z">
-        <seg>świecący Pojemniczek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>żywopłot w kształcie małpy</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140443Z" creationid="damia" creationdate="20231101T140443Z">
-        <seg>żywopłot w kształcie małpy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>żywopłot w kształcie papugi</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140443Z" creationid="damia" creationdate="20231101T140443Z">
-        <seg>żywopłot w kształcie papugi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>żywopłot w kształcie świni</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T140443Z" creationid="damia" creationdate="20231101T140443Z">
-        <seg>żywopłot w kształcie świni</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

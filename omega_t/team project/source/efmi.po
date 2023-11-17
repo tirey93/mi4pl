@@ -330,6 +330,10 @@ msgctxt "OZOZ065"
 msgid "Aiiiiiiiiiiiiiie!"
 msgstr "Ajjjjjjjjjjjjj!"
 
+msgctxt "ozoz065a"
+msgid "Yaaah!"
+msgstr " "
+
 msgctxt "OZOZ077"
 msgid "After him!"
 msgstr "Za nim!"
@@ -38258,6 +38262,30 @@ msgctxt "ingb001"
 msgid "From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate."
 msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
 
+msgctxt "ingb001a"
+msgid "From the personal log of Guybrush Threepwood:"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001b"
+msgid "Sometimes, when it's quiet, I can still hear the monkeys."
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001c"
+msgid "It's hard to believe that it's only been a few years"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001d"
+msgid "since I first washed up on the beaches of Męlée Island™,"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001e"
+msgid "armed with nothing more than a goofy name"
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
+msgctxt "ingb001f"
+msgid "and an overpowering urge to become a swashbuckling pirate."
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+
 msgctxt "ingb015"
 msgid "I wanna be a pirate."
 msgstr "Chcę być piratem."
@@ -49158,32 +49186,4 @@ msgstr "Format Successful."
 msgctxt "txtall634"
 msgid "Load Successful."
 msgstr "Load Successful."
-
-msgctxt "ingb001a"
-msgid "From the personal log of Guybrush Threepwood:"
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ingb001b"
-msgid "Sometimes, when it's quiet, I can still hear the monkeys."
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ingb001c"
-msgid "It's hard to believe that it's only been a few years"
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ingb001d"
-msgid "since I first washed up on the beaches of Męlée Island™,"
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ingb001e"
-msgid "armed with nothing more than a goofy name"
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ingb001f"
-msgid "and an overpowering urge to become a swashbuckling pirate."
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
-
-msgctxt "ozoz065a"
-msgid "Yaaah!"
-msgstr " "
 

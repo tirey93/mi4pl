@@ -12,12 +12,14 @@ w katalogu skrypty umieściłem najnowsze skrypty (pliki .tab) w wersji polskiej
 
 
 Poniżej spis stanu wybranych grup linijek:
-od DOEL012(1) do guymel097(764) - tłumaczenie i korekta Raela lub zagadki sprzed kilkunastu lat
-od guyscu034(765) do guyshi107(1710) - retranslacja tirey93, 2023
-od guymhi001(1711) do parkab063(5814) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
-od daishi015(5815) do navscu064(6116) - retranslacja tirey93, 2023
-od navluc001(6117) do jojtow006(8051) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
-od guyall179(8052) do navshi033(8424) - retranslacja tirey93, 2023
-od eddpla039(8425) do gmrmon004(9631) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
-od ingb001a(9632) do ozlc034b(10150) - tłumaczenie i korekta Raela lub zagadki sprzed kilkunastu lat
-od txtall222(10151) do końca - korekta tirey93, 2023
+od DOEL012(1) do guymel097(755) - tłumaczenie i korekta Raela lub zagadki sprzed kilkunastu lat
+od guyscu034(756) do guyshi107(1701) - retranslacja tirey93, 2023
+od guymhi001(1702) do meamhi082(1849) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od guytri001(1850) do guyluc069(2822) - planowana korekta tirey93 2023, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od guygpt001(2823) do navscu064(6095) - retranslacja tirey93, 2023
+od navluc001(6096) do jojtow006(8029) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od guyall179(8030) do navshi033(8402) - retranslacja tirey93, 2023
+od eddpla039(8403) do gmrmon002(9565) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od ingb001(9566) do ozjj090(10146) - korekta tirey93, 2023
+od txtall222(10147) do txtcdt513(12086) - korekta podpisów tirey93, 2023
+od canhoj048(12087) do końca - tłumaczenie dodanych brakujących linii tirey93, 2023

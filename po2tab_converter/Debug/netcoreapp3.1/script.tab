@@ -81,6 +81,7 @@ OZOZ007	I to ja wys³a³em go do wodnego grobu u wybrze¿y Australii!
 OZEL008	Ty... palancie!
 OZLC046	Poka¿ê temu pantoflarzowi PRAWDZIWE voodoo!
 OZOZ065	 
+ozoz065a	 
 OZOZ077	Za nim!
 FIJJ005	Ewwwwww...... Yeaaaaaah..... Ewwwwwww......
 EPGB001	Elaine!
@@ -9563,6 +9564,12 @@ guyall531	Watpie zeby to sie komus spodobalo.
 gmrmon001	Ak
 gmrmon002	Uup
 ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
+ingb001a	Osobisty dziennik Guybrusha Threepwooda:
+ingb001b	Czasem, w ciszy, nadal s³yszê ma³py.
+ingb001c	Trudno uwierzyæ, ¿e to ledwie parê lat,
+ingb001d	odk¹d ockn¹³em siê na pla¿y wyspy Szpady™,
+ingb001e	uzbrojony w durne imiê
+ingb001f	i chêæ zostania zawadiackim piratem.
 ingb015	Chcê byæ piratem.
 ingb002	Któ¿ podejrzewa³by, i¿ taki skromny cel doprowadzi do sporu ze z³ym piratem widmo LeChuckiem, oœlizg³ym œlimakiem siedmiu mórz.
 ingb002a	Któ¿ podejrzewa³by, i¿ taki skromny cel
@@ -12288,10 +12295,3 @@ txtcdt526	Manual Designer
 txtcdt527	Manual Editor
 txtall633	Formatowanie zakoñczone.
 txtall634	Wczytywanie zakoñczone
-ingb001a	Osobisty dziennik Guybrusha Threepwooda:
-ingb001b	Czasem, w ciszy, nadal s³yszê ma³py.
-ingb001c	Trudno uwierzyæ, ¿e to ledwie parê lat,
-ingb001d	odk¹d ockn¹³em siê na pla¿y wyspy Szpady™,
-ingb001e	uzbrojony w durne imiê
-ingb001f	i chêæ zostania zawadiackim piratem.
-ozoz065a	 

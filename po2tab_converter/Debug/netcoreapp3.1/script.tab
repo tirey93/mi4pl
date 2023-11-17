@@ -71,7 +71,7 @@ HEHN048	To jest to!
 HEGB049	Wygl¹da jak pieczêæ gubernatora wyspy Szpady™.
 HEHN050	Bo to jest pieczêæ gubernatorska. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubi³ orygina³. Pieczêæ to klucz odblokowuj¹cy moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wygl¹dzie. Gdzie jest druga pieczêæ?
 HEGB051	Chyba ma j¹ Elaine. Rzadko kiedy spuszcza j¹ z oka.
-EYP3006	Cisza!
+EYP3006	Cicho b¹dŸ!
 OZGB001	To wielki krok dla cz³owieka, ale ma³e pstrykniêcie prze³¹cznikiem dla gigantycznej ma³py-robota.
 OZOZ002	Widzisz....
 OZOZ003	....to ja wyci¹gn¹³em tajemnicê Talizman Zniewagi od twego zapijaczonego dziadka!
@@ -79,10 +79,10 @@ OZOZ005	To ja uszkodzi³em jego statek!
 OZEL006	Nie!
 OZOZ007	I to ja wys³a³em go do wodnego grobu u wybrze¿y Australii!
 OZEL008	Ty... palancie!
-OZLC046	Poka¿ê tej tchórzliwej przynêcie dla ryb PRAWDZIWE voodoo!
+OZLC046	Poka¿ê temu pantoflarzowi PRAWDZIWE voodoo!
 OZOZ065	 
 OZOZ077	Za nim!
-FIJJ005	Taaaak...
+FIJJ005	Ewwwwww...... Yeaaaaaah..... Ewwwwwww......
 EPGB001	Elaine!
 EPEL002	Dziadku!
 EPHN003	Skarbie!
@@ -370,7 +370,7 @@ guyvoo006	S¹ d³onie, które chcia³bym mieæ w spodniach i to na pewno nie te.
 guyvoo007	Ten palec wygl¹da inaczej od innych.
 guyvoo008	Jakkolwiek przydatny by³by paluch na morzu, nie potrzebujê go.
 voovoo001	Poci¹gn¹³eœ?
-guyvoo009	 
+guyvoo009	Jejku!
 guyvoo010	Nic siê nie dzieje.
 guyvoo011	W¹tpiê, by ta popio³ka mia³a w sobie popió³.
 guyvoo012	Paleniu mówiê g³oœne ”nie”.
@@ -662,7 +662,7 @@ clamel037	Co to by³o? Podwalasz siê do mnie?
 otimel023	 
 guymel059	Jestem ¿onaty!
 clamel038	To nie u¿ywaj tego ”lubie¿nego” g³osu. Jest straszny.
-guymel060	Sorka.
+guymel060	Wybacz.
 guymel061	...myœl¹c o tym, nie widzê dobrego powodu, abyœcie do³¹czyli.
 clamel039	Daj nam znaæ, jak na jakiœ wpadniesz.
 guymel062	Nie wpadliœmy na siebie zesz³ego lata na wyspie Phatta?
@@ -1748,7 +1748,7 @@ meamhi026	Kocha³em malowanie. Ale kiedy straci³em rêce w... wypadku... zaj¹³em s
 meamhi027	Nie podoba³ mi siê piracki styl ¿ycia, ale co innego mog³em? By³em malarzem bez r¹k!
 guymhi022	Wiêc jak skoñczy³eœ maluj¹c woskiem?
 meamhi028	Có¿, po moich traumatycznych prze¿yciach na wyspie Ma³p™...
-guymhi023	Sorka.
+guymhi023	Wybacz.
 meamhi029	...postanowi³em, ¿e ju¿ nie chcê byæ piratem i zdecydowa³em siê wróciæ do œwiata sztuki.
 meamhi030	Có¿, krótko mówi¹c...
 guymhi024	Za póŸno...
@@ -2175,7 +2175,7 @@ canhoj012	Co to?
 canhoj013	Wygl¹da jak Pegonose Pete!
 peghoj002	GRRAH! Wypuœcie mnie st¹d!
 guyhoj011	No w³aœnie! To w³aœnie on wrobi³ mnie w napad na bank.
-guyhoj012	Chcia³bym, ¿eby Pan mnie oczyœci³ z zarzutów.
+guyhoj012	Chcia³bym, ¿eby pan mnie oczyœci³ z zarzutów.
 peghoj003	Nic na mnie nie macie!
 guyhoj013	Pods³ucha³em jak ty i Ozzie omawiacie jak obrabowaæ bank i mnie w to wrobiæ!
 peghoj004	Ha! Nie macie na to dowodów!
@@ -2265,17 +2265,17 @@ frehos016	Jasne.
 frehos017	Nazywam siê Freddie.
 frehos018	Robi³em laski w czasach kiedy ty jeszcze sika³eœ w majtki.
 ozzhos001	Freddie! Gdzie jest moja nowa laska?
-frehos019	Mam j¹ tutaj, Panie Mandrill
-frehos020	Nowiutki rdzeñ, w³asnorêcznie robiona na wzór Pana ostatniej laski.
+frehos019	Mam j¹ tutaj, panie Mandrill
+frehos020	Nowiutki rdzeñ, w³asnorêcznie robiona na wzór pana ostatniej laski.
 ozzhos002	Oby tak by³o w innym wypadku wykupiê twój malutki sklepik i zamieniê go na coœ u¿ytecznego...
 ozzhos003	Publiczna toaleta jest dobra.
-frehos021	Zapakowaæ j¹ czy chce j¹ Pan od razu wypróbowaæ?
+frehos021	Zapakowaæ j¹ czy chce j¹ pan od razu wypróbowaæ?
 ozzhos004	A jak myœlisz?
-frehos022	Z regu³y jestem mi³y ale ja bym wys³a³ tego m³odego d¿entelmena, ¿eby Pana zaniós³ do domu,
+frehos022	Z regu³y jestem mi³y ale ja bym wys³a³ tego m³odego d¿entelmena, ¿eby pana zaniós³ do domu,
 frehos023	ale wczeœniej bym go tak pobi³, ¿e jego mózg wyszed³by na zewn¹trz na moj¹ czyst¹ pod³ogê.
 guyhos025	Ale jest pan jednak mi³y, prawda?
 ozzhos005	Freddie! Lepiej ¿eby moja laska by³a gotowa!
-frehos024	Oczywiœcie, ¿e jest Panie Mandrill.
+frehos024	Oczywiœcie, ¿e jest panie Mandrill.
 frehos025	Jest tutaj na pó³ce.
 ozzhos006	Creepwod? Myœlisz o kupieniu w³asnej laski, prawda?
 ozzhos007	Lepiej obejrzyj siê z ciekawszymi rzeczami.
@@ -2283,7 +2283,7 @@ ozzhos008	Takimi jak ma³pa w kapeluszu.
 guyhos026	Tak, to by³o dobre.
 guyhos027	 
 ozzhos009	Wlicz to w rachunek, Freddie i nie myœl o naci¹ganiu mnie bo nie chcia³bym byæ wtedy w twojej skórze!
-frehos026	Tak, proszê pana. Zawsze do us³ug Panie Mandrill.
+frehos026	Tak, proszê pana. Zawsze do us³ug panie Mandrill.
 guyhos028	To s¹ drzwi.
 pegpph001	Aaack!
 pegpph002	Zostaw mnie, ty przeklêta kaczko!
@@ -2313,12 +2313,12 @@ ozzpph007	Poza nami, oczywiœcie.
 pegpph012	Oczywiœcie. Powracaj¹c do tematu wynagr...
 ozzpph008	PóŸniej, dobry cz³owieku. Teraz scheda jest naszym ma³ym sekretem.
 ozzpph009	Wiêc dziób na k³ódkê, nikomu ani s³owa. Nie lubiê jak niepotrzebni znaj¹ moje plany.
-pegpph013	Rozumiem, Panie Mandrill. Zrobimy to jak pan karze, ale jeœli nie wyp³acisz mi to nie rêczê za siebie!
+pegpph013	Rozumiem, panie Mandrill. Zrobimy to jak pan karze, ale jeœli nie wyp³acisz mi to nie rêczê za siebie!
 ozzpph010	Nie udawaj takiego twardziela. Dostaniesz swoj¹ nale¿noœæ.
 pegpph014	Lepiej ¿eby.
 ozzpph011	Idê zaj¹æ siê swoimi sprawami. Teraz, kiedy jesteœmy w posiadaniu schedy Marleya, muszê okreœliæ, jak wi¹¿e siê ona z Talizmanem Upokorzenia.
-guypph008	Ach, wiêc Ozzie i Pegnose wspó³pracuj¹. Zanim rozliczê siê tutaj z Pegnosem, muszê odwiedziæ Pana Mandrilla.
-guypph009	Ach, wiêc Pegnose i Ozzie stoj¹ za napadem na bank. Zanim stanê twarz¹ w twarz z Pegnosem, musze odwiedziæ Pana Mandrilla.
+guypph008	Ach, wiêc Ozzie i Pegnose wspó³pracuj¹. Zanim rozliczê siê tutaj z Pegnosem, muszê odwiedziæ pana Mandrilla.
+guypph009	Ach, wiêc Pegnose i Ozzie stoj¹ za napadem na bank. Zanim stanê twarz¹ w twarz z Pegnosem, musze odwiedziæ pana Mandrilla.
 guypph010	Jestem kapitanem tej tratwy!
 guypph011	Mo¿esz mnie namówiæ do wielu rzeczy, ale noszenie ze sob¹ tratwy to przesada.
 guypph012	To tratwa kogoœ innego.
@@ -2545,9 +2545,9 @@ guyunc010	Têdy wyjdê z tej ciasnej jaskini.
 guyban001	Hej! Proteza nosa!
 guyban002	Pe³ne.
 guyban003	Za³o¿ê siê, ¿e to nale¿y do œmierdz¹cego pirata. On mo¿e nie mieæ nosa.
-canban001	Lepiej to wezmê, Panie Threepwood.
+canban001	Lepiej to wezmê, panie Threepwood.
 guyban004	Ack!
-guyban005	Co Pan tutaj robi?
+guyban005	Co pan tutaj robi?
 canban002	Mia³em zapytaæ o to samo.
 canban003	Tak naprawdê, wezmê to jako dowód w sprawie.
 guyban006	Zobaczmy czy to pasuje do Pegnose'a.
@@ -2560,16 +2560,16 @@ canban009	Tym nie udowodnisz, ¿e on ma ³up.
 guyban007	Ci¹gle myœlisz ¿e to by³em ja, prawda?
 canban010	Tak, ale to siê mo¿e zmieniæ jeœli dostarczysz mi dowodów. A teraz zejdŸ mi z oczu.
 ozzban001	... ale dlaczego nie, m³oda damo?
-telban001	Takie s¹ zasady. Nie mogê zamieniæ Panu tej wycieczki poniewa¿ nigdy w ¿yciu nie s³yszeliœmy o takim miejscu. "Aus-tra-lia".
+telban001	Takie s¹ zasady. Nie mogê zamieniæ panu tej wycieczki poniewa¿ nigdy w ¿yciu nie s³yszeliœmy o takim miejscu. "Aus-tra-lia".
 ozzban002	Ale rozmawialiœmy o tym wielokrotnie.
 telban002	Mieliœmy ostatnio problemy z oszustwami w banku, wiêc nale¿a³o zawêziæ nasze zasady.
 telban003	A tak miêdzy nami, to mi nie wygl¹da na prawdê.
 telban004	Poza t¹ œmieszn¹ nazw¹, s¹ tutaj zdjêcia jakiœ dziwnych zwierz¹t, ten jeden wyskakuje z brzucha tamtemu.
 ozzban003	To s¹ kangury, ty piracki trollu!
-telban005	No i sam Pan widzi, "Kangury". Kolejna œmieszna nazwa. Œmiesznie siê to mówi. Kangury, Kangury...
+telban005	No i sam pan widzi, "Kangury". Kolejna œmieszna nazwa. Œmiesznie siê to mówi. Kangury, Kangury...
 ozzban004	Kurcze!
 ozzban005	Pomogê ci w tym interesie, ale jak wrócê, chcê moje honorarium.
-telban006	¯yczymy mi³ego dnia, Panie Mandrill.
+telban006	¯yczymy mi³ego dnia, panie Mandrill.
 telban007	Kangury. Kangury? Kangury...
 guyban008	Powinna rzuciæ kofeine.
 pegban001	Na razie, frajerzy!
@@ -2579,7 +2579,7 @@ guyban009	Hej, co to za zamieszanie?
 telban008	To on!!
 manban002	£APCIE GO!
 guyban010	Ggeeyyaaaahh!!
-canban011	Jest Pan aresztowany, Panie Threepwood.
+canban011	Jest pan aresztowany, panie Threepwood.
 canban012	No w³aœnie. Do wiêzienia z nim.
 canban013	Ju¿ dobrze. Czy mamusia ci nie mówi³a, ¿e napad na bank to z³y pomys³?
 guyban011	To nie by³em ja! To beznosy bandyta!
@@ -2612,14 +2612,14 @@ guyban024	Ale ja chcia³em tylko...
 manban004	Proszê pytaæ tamt¹ pani¹. Jestem zajêty a ona z pewnoœci¹ ci pomo¿e.
 guyban025	Hej. Przyszed³em odebraæ schedê Marleyów.
 manban005	Pan jest Marley?
-manban006	Oh... rozumiem, Pan Marley.
+manban006	Oh... rozumiem, pan Marley.
 guyban026	Ekhm. Threepwood.
-manban007	Wiêc w tej sprawie proszê rozmawiaæ z Pani¹ obok, pomo¿e Panu.
+manban007	Wiêc w tej sprawie proszê rozmawiaæ z pani¹ obok, pomo¿e panu.
 guyban027	Ona jest taka, um, nie mi³a.
 guyban028	Jestem ¿onaty.
 guyban029	To prowadzi na górê.
 guyban030	Dlaczego mam nosiæ drabinê w kieszeni?
-manban008	Nie wolno Panu tam wchodziæ!
+manban008	Nie wolno panu tam wchodziæ!
 guyban031	Tutaj zejdê w dó³ do banku.
 guyban032	To dziwne, ¿e pomys³ krêcenia siê z drabin¹ tu i tam nie podnieca mnie.
 guyban033	To prze³¹cznik œwiat³a w banku.
@@ -2993,8 +2993,8 @@ guybas089	Powinniœmy pogadaæ o czymœ innym
 guybas090	Pogadajmy o czymœ innym.
 baibas083	Czegokolwiek chcesz, mój ty ³ososiu.
 guyluc070	Witaj, góro z³ota.
-manluc001	Bardzo zabawne, Panie Threepwood.
-manluc002	Dobrze siê Pan bawi kas¹, któr¹ Pan ukrad³?
+manluc001	Bardzo zabawne, panie Threepwood.
+manluc002	Dobrze siê pan bawi kas¹, któr¹ pan ukrad³?
 guyluc071	Hej! Jestem niewinny!
 manluc003	Taa, jasne, a ja jestem bry³¹ 20-karatowego z³ota.
 guyluc072	To by³ beznosy facet!
@@ -3041,37 +3041,37 @@ guyban101	Co siê sta³o z Pierwszym Bankiem Lucre?
 telban011	Nic. Taka zamiana to pomys³ departamentu ludnoœci.
 telban012	Nazywanie banku "Pierwszym" nie daje poczucia doœwiadczenia w finansach.
 guyban102	Chcia³bym dokonaæ wp³aty.
-telban013	Mam Pan za³o¿one konto?
+telban013	Mam pan za³o¿one konto?
 guyban103	Nie.
-telban014	Wiêc co jeszcze mogê dla Pana zrobiæ?
+telban014	Wiêc co jeszcze mogê dla pana zrobiæ?
 guyban104	Musze dokonaæ tej wp³aty.
 guyban105	Chcia³bym dostaæ kredyt.
 telban015	Oczywiœcie.
 telban016	Do czego po¿yczone finanse bêd¹ u¿ywane?
 guyban106	Chcia³bym wydobyæ kilka rzeczy z mojego skarbca.
-telban017	Dobrze, proszê Pana. Pod jakim imieniem?
+telban017	Dobrze, proszê pana. Pod jakim imieniem?
 guyban107	Marley.  H. T. Marley.
 guyban108	Ten list mo¿e w tym pomóc.
-telban018	Rozumiem. Jest zapisany dla Gubernator Marley. Czy ma Pan pe³nomocnictwo w jej imieniu?
+telban018	Rozumiem. Jest zapisany dla Gubernator Marley. Czy ma pan pe³nomocnictwo w jej imieniu?
 guyban109	Jestem jej mê¿em!
 telban019	To trochê za ma³o.
-guyban110	No dobra, niech Pani spojrzy...
+guyban110	No dobra, niech pani spojrzy...
 telban020	Oh! Teraz wszystko jasne.
 telban021	Chwileczkê.
-telban022	Mr. Quidworth? Ten Pan tutaj chcê siê dostaæ do swojej krypty.
+telban022	Mr. Quidworth? Ten pan tutaj chcê siê dostaæ do swojej krypty.
 guyban111	Nie macie ¿adnych gratisów? Wychodzê.
 telban023	Mi³ego dnia.
 guyban112	Chcê naprawiæ swój statek.
 telban024	A co jest z nim w tej chwili z³ego?
 guyban113	Ró¿owy.
-telban025	Oh, rozumiem. Mam Pan sta³¹ pracê?
+telban025	Oh, rozumiem. Mam pan sta³¹ pracê?
 guyban114	Chcê wynaj¹æ now¹ za³ogê.
 telban026	Ok. Oczywiœcie, potrzebuje porozmawiaæ z istniej¹c¹ za³og¹ na pocz¹tku.
 guyban115	Umm, w takim razie, nie by³o sprawy.
 guyban116	Zawsze pragn¹³em w³asne, pokryte diamentami bokserki.
 telban027	To brzmi tak rozs¹dnie.
 guyban117	Serio? To znaczy, oczywiœcie.
-telban028	Ma Pan pracê?
+telban028	Ma pan pracê?
 guyban118	Chcia³bym w³asny czekoladowy statek.
 guyban119	W œrodku te¿.
 telban029	W³asny czekoladowy statek...
@@ -3088,11 +3088,11 @@ telban034	Oh, przepraszam.
 telban035	Nie rozdajemy kredytów ludziom bez praktycznych umiejêtnoœci.
 guyban125	Nic, ale ja móg³bym zrobiæ wiele.
 guyban126	Nic.
-telban036	Dziêkuje za rozmowê. Ktoœ siê z Panem z kontaktuje w przeci¹gu 3 do 5 lat bankowych.
+telban036	Dziêkuje za rozmowê. Ktoœ siê z panem z kontaktuje w przeci¹gu 3 do 5 lat bankowych.
 guyban127	Bêdê czeka³ na niez³¹ sumkê.
 guyban128	Nie mogê tyle czekaæ na wykupienie tej wyspy!
 guyban129	Wrócê trochê póŸniej, jak bêdê mia³ wiêcej kasy.
-telban037	Ok. Co jeszcze mogê dla Pana zrobiæ?
+telban037	Ok. Co jeszcze mogê dla pana zrobiæ?
 guyban130	Mi³o ciê widzieæ, Brittany.
 telban038	Oh, czeœæ.
 telban039	Wygl¹dasz jakbyœ by³ jakiœ przygnêbiony.
@@ -3149,11 +3149,11 @@ guyhos032	Nigdy bym nie pomyœla³, ¿e sklep z laskami do chodzenia mo¿e siê utrzy
 frehos031	W sumie, móg³bym siê zgodziæ z tym zdaniem.
 frehos032	Ale ostatnio Wyspa Mamony by³a odwiedzana przez t³umy turystów, gapiów i innych zagranicznych.
 frehos033	naprawdê uwielbiali moje " w³asnorêcznie robione laski"... do pewnego stopnia, oczywiœcie.
-frehos034	Poza tym, mog³em zawsze polegaæ na Panu Mandrillu, który tygodniowo ³amie tuzin lasek.
+frehos034	Poza tym, mog³em zawsze polegaæ na panu Mandrillu, który tygodniowo ³amie tuzin lasek.
 frehos035	On sam utrzymuje mnie przez ca³y miesi¹c pracy.
 guyhos033	Wiêc twój sklep zaczyna plajtowaæ?
 frehos036	Jeszcze nie nazwa³bym tego splajtowaniem, póki co mam siê za co wy¿ywiæ.
-frehos037	Wiêc o ile Pan Mandrill tu przychodzi, mogê ¿yæ spokojnie!
+frehos037	Wiêc o ile pan Mandrill tu przychodzi, mogê ¿yæ spokojnie!
 guyhos034	Czy móg³byœ mi pomóc? Nie mogê siê zdecydowaæ na ¿adn¹ laskê.
 frehos038	No wiêc, jeœli chcemy ci wybraæ laskê, musimy wiedzieæ jakie ma mieæ parametry.
 frehos039	Gdzie masz zamiar jej najwiêcej u¿ywaæ?
@@ -3166,7 +3166,7 @@ frehos043	Co móg³byœ mi o nim powiedzieæ?
 guyhos037	Powiesz mi coœ wiêcej o Pegnosie?
 frehos044	Co chcia³byœ wiedzieæ?
 guyhos038	Dlaczego siê zadajesz z takimi niegrzecznymi ³amaczami lasek?
-frehos045	Chodzi ci o Pana Mandrilla?
+frehos045	Chodzi ci o pana Mandrilla?
 frehos046	Mo¿e dlatego, ¿e jest bogaty.
 frehos047	Kiedy mi p³aci za moj¹ prace, jestem w stanie siê utrzymaæ.
 frehos048	Poza tym, to sta³y klient.
@@ -3279,13 +3279,13 @@ canhoj029	Nie.
 guyhoj048	Dlaczego nie chcesz mi uwierzyæ, ¿e to by³ Pegnose Pete?
 peghoj006	Bo to ja jestem niewinny!
 canhoj030	Cicho siedŸ!
-canhoj031	Poniewa¿, Panie Threepwood, to nie w stylu Pegnose'a.
+canhoj031	Poniewa¿, panie Threepwood, to nie w stylu Pegnose'a.
 canhoj032	Jeœli to Pegnose obrabowa³ bank to pewnie wkrad³ by siê niezauwa¿ony w ciemnoœciach...
 canhoj033	... i u¿y³by  swoich sztuczek z przeciw wag¹ i bloczkiem otwieraj¹c skarb...
 canhoj034	... i uciek³by z ³upem bez zostawiania œladów.
 canhoj035	Pegnose Pete nigdy w ¿yciu by po prostu wbieg³ w bia³y dzieñ do banku wymachuj¹c pistoletem wokó³ jak jakiœ wariat... to z nim sprzeczne.
-peghoj007	Dok³adnie, ma Pan racje!
-guyhoj049	A gdybym przyniós³ Panu dowody, to by to Pana usatysfakcjonowa³o?
+peghoj007	Dok³adnie, ma pan racje!
+guyhoj049	A gdybym przyniós³ panu dowody, to by to pana usatysfakcjonowa³o?
 canhoj036	W sumie,  póki nie masz alibi, masz ci¹gle krew na rêkach. Prawdziwe odciski palców.
 guyhoj050	Œwietnie! Jak mam je zdobyæ?
 canhoj037	Musia³byœ zrobiæ trzy rzeczy:
@@ -3301,7 +3301,7 @@ guyhoj054	Ozzie Mandrill wynaj¹³  Pegnose'a, ¿eby mnie wrobiæ!
 canhoj043	Masz na to jakieœ dowody?
 guyhoj055	Pods³ucha³em ich rozmowê!
 canhoj044	S³uchaj, tolerowa³em kapryœne uwagi na tego twojej "niewinnoœci"
-canhoj045	... ,ale jeœli zaczniesz rzucaæ oszczerstwa na uczciwych ludzi jak Pan Mandrill,
+canhoj045	... ,ale jeœli zaczniesz rzucaæ oszczerstwa na uczciwych ludzi jak pan Mandrill,
 canhoj046	to ja zacznê powa¿nie myœleæ o wrzuceniu cie do celi!
 canhoj047	Czy wyrazi³em siê jasno?
 guyhoj130	Najjaœniej.
@@ -3391,7 +3391,7 @@ guyhoj092	Carla pije!
 otihoj019	Na zdrowie jej.
 guyhoj093	Dlaczego nie mo¿esz byæ z Carl¹?
 otihoj020	Bo ktoœ musi zostaæ i pilnowaæ statku,
-otihoj021	podczas gdy Pan "Jest Du¿o Miejsca Miêdzy Tymi Ska³ami" powo³a³ kogoœ ¿eby naprawia³ statek.
+otihoj021	podczas gdy pan "Jest Du¿o Miejsca Miêdzy Tymi Ska³ami" powo³a³ kogoœ ¿eby naprawia³ statek.
 otihoj022	Ale jest dobrze... ta ca³a wyspa przyprawia mnie o gêsi¹ skórkê.
 guyhoj094	Chcesz ¿ebym przyniós³ ci coœ z miasta?
 otihoj023	No nie wiem... Nie mogê wyobraziæ sobie potrzeby czegokolwiek z miasta... wiêc nie.
@@ -3529,7 +3529,7 @@ guyluc139	Chcesz zapomnieæ o Wyspie Ma³p?
 claluc032	DOK£ADNIE!
 claluc033	Pijê by zamnipoeæ Wyspe Ma³p, te czaysy.
 claluc034	Dziêki ¿eœ przpomnia³... teraz muszê zacz¹æ piæ od pocz¹tku.
-guyluc140	Sorka.
+guyluc140	Wybacz.
 guyluc141	Carla, picie nie jest odpowiedzi¹.
 claluc035	To chyba od ptania zale¿y, co nie?
 guyluc142	Chcia³by pan mi pomóc w poszukiwaniu Talizmanu Upokorzenia?
@@ -3681,7 +3681,7 @@ ozzozi086	A co? Chcesz jedn¹ porzyczyæ?
 ozzozi087	Mój, na szczêscie, mnie chocia¿ rozpoznawa³.
 ozzozi088	Musia³ ciê nauczyæ wszystkiego co wiesz!
 ozzozi089	Nawet koñ lepiej od ciebie walczy.
-ozzozi090	Miêczak.
+ozzozi090	Masz kuku na muniu!
 ozzozi091	Widzia³em ³adniesze mordy na chorych œwiniach.
 ozzozi092	Hej, kangur ci wyszed³ na wybiegu.
 ozzozi093	Nie znasz œwi¹t z dzielnicy dresów.
@@ -3706,13 +3706,13 @@ guyozi133	Muszê udowodniæ moj¹ potêge. Mogê zwyciê¿yæ.
 ozzozi111	Ma³o prawdopodobne.
 guyozi134	Da³o by radê powtórzyæ. Nie us³ysza³em.
 guyozi135	No dobra. Poddaje siê.
-ozzozi112	Haha! Jesteœ jeszcze s³abaszy ni¿ wygl¹dasz, Panie Threepwood.
+ozzozi112	Haha! Jesteœ jeszcze s³abaszy ni¿ wygl¹dasz, panie Threepwood.
 guylaw044	Ekhem...
 whilaw040	Tak?
 thrlaw041	Co to jest?
 diglaw039	Jesteœmy zajêci.
 guylaw045	Czy wymyœleliœcie ju¿ sposób jak uratowaæ moj¹ rezecydencje?
-diglaw040	Prosze nie poganiaæ prawa, Panie Threepwood.
+diglaw040	Prosze nie poganiaæ prawa, panie Threepwood.
 thrlaw042	Musimy przebadaæ wszystkie nakazy...
 whilaw041	... przes³uchaæ wsyztskich œwiadków...
 diglaw041	... mnóstwo papierkowej roboty.
@@ -3820,7 +3820,7 @@ thrlaw066	Jest za bogaty.
 whilaw067	Za potê¿ny.
 diglaw069	Za straszny.
 guylaw071	Chcia³bym pozwaæ kretyna który rzuca g³azami w moj¹ posiad³oœæ.
-whilaw068	W pierwszej kolejnoœci, Panie Threepwood.
+whilaw068	W pierwszej kolejnoœci, panie Threepwood.
 thrlaw067	Musimy go zatrzymac...
 diglaw070	... zanim go oskar¿ymy.
 guylaw072	Chcia³bym oskar¿yæ Zombie LeChucka za cierpienie na poziomie emocjonalnym.
@@ -3903,13 +3903,13 @@ ozzozi151	Pirat? Nienawidzê piratów!
 guyozi163	Jestem Guybrush Threepwood, miliarder, mam w³asny dom jacht.
 ozzozi152	Jak na miliardera wygl¹dasz jak œmierdz¹cy pirat!
 guyozi164	Jestem Guybrush Threepwood, Ma³pi Kowoboj.
-ozzozi153	Ze mnie g³upka nie zrobisz, Panie Threepwood.
+ozzozi153	Ze mnie g³upka nie zrobisz, panie Threepwood.
 ozzozi154	Na przyk³ad, przydatn¹ informacj¹ jest to, ¿e nie ma ani jednej ma³py na Karaibach.
 ozzozi155	S¹dze ¿e jesteœ ¿a³osnym piratem.
 guyozi165	Jestem Guybrush Threepwood, Najwiêkszy Amant Wyspy Szpady.
 ozzozi156	Zaraz siê posikam ze œmiechu.
 ozzozi157	Jesteœ kolejnym wszowym piratem.
-ozzozi158	Nie baw siê ze mn¹ w ten sposób, Panie Threepwood.
+ozzozi158	Nie baw siê ze mn¹ w ten sposób, panie Threepwood.
 guyozi166	Kto tu siê bawi?
 ozzozi159	Pozwól mi teraz usun¹æ niepotrzebne po³¹czenia nerwowe w twoim mózgu.
 ozzozi160	Ozzie Mandrill to bizensman. Kapitalista. Posiadacz du¿ej ziemi. Jestem tak¿e...
@@ -4427,14 +4427,14 @@ murgpt007	Nasze piêkne Guybrushowskie kelnerki nie s¹ wliczone w cenê.
 murgpt008	Wspomó¿cie przyjació³ i pomocników Guybrusha, którzy opowiedz¹ wam piêkne historie!
 murgpt009	Zapraszamy, nie wahajcie siê, bo ka¿dy mo¿e staæ siê prawdziwym zawadiakiem w...
 murgpt010	PLANECIE THREEPWOOD!
-murgpt011	(Wszelkie prawa zastrze¿one dla Pana Ozziego Mandrilla)
+murgpt011	(Wszelkie prawa zastrze¿one dla pana Ozziego Mandrilla)
 murgpt012	Gdzie ka¿dy PRAWDZIWY pirat idzie, kiedy nie ma kto mu gotowaæ i ma ma³o pieniêdzy w kieszeni?
 murgpt013	Do Planety Threepwood!
 murgpt014	WejdŸcie i zasmakujcie w znanym na ca³y œwiat Guybrush Burgerze.
 murgpt015	oraz pijcie z naszego najlepszego Mega Ma³piego Kubka!
 murgpt016	Ca³¹ to œwietn¹ ofertê oraz mnóstwo ca³kowicie piracko-familijnej atmosfery znajdzie tylko w PLANECIE THREEPWOOD!
 murgpt017	Bo Murray prawdê wam powie!
-murgpt018	(Planeta Threepwood jest prawnym znakiem towarowym zastrze¿onym dla Pana Ozziego Mandrilla)
+murgpt018	(Planeta Threepwood jest prawnym znakiem towarowym zastrze¿onym dla pana Ozziego Mandrilla)
 murgpt019	Ahoj, piraci!
 murgpt020	¯eglujcie z ca³¹ rodzin¹ po potrawach w PLANECIE THREEPWOOD!
 murgpt021	OGL¥DAJCIE pami¹tki z ostatniej eskapady Guybrusha!
@@ -4598,7 +4598,7 @@ eddpla006	Co to?
 guypla021	To ulotka z "Wakacje ze Stanem" na wyspie Jambalaya.
 eddpla007	No i co z tego?
 guypla022	Przyjrzyj siê uwa¿nie trzeciej stronie.
-eddpla008	 
+eddpla008	Jejku!
 guypla023	Jestem pewien, ¿e twoja ruda ¿ona bardzo chêtnie przekona siê, co WSPÓ£DZIE£EŒ z t¹ blondynk¹, co?
 eddpla009	Wszystko pokrêci³eœ dzieciaku! To tylko przyjació³ka domu.  Naprawdê!
 guypla024	Naprawdê?  W takim razie nie bêdziesz mia³ nic przeciwko jeœli poka¿ê ulotkê twojej ¿onie.
@@ -4894,7 +4894,7 @@ guystb099	Mo¿e póŸniej.
 guystb100	Jestem PRAWDZIWYM piratem.
 sbcstb045	Ja te¿! Patrz!
 sbcstb046	Arrrrrgh!
-guystb101	 
+guystb101	Jejku!
 sbcstb047	Dobre, nie? By³em najlepszym uczniem w naszej Akademii Pirackoœci.
 sbcstb048	Piracie, co mogê dla ciebie zrobiæ?
 guystb102	Piraci nie pij¹ kawy.
@@ -5216,7 +5216,7 @@ guymig045	Te krowie rozmowy s¹ za mocne dla mnie. Gadajmy o czymœ innym.
 opemig058	Dobrze.
 guymig046	Niewa¿ne.
 guypla084	Wróci³em.
-macpla038	Widzê. Co mogê dla ciebie zrobiæ, Panie Threepwood?
+macpla038	Widzê. Co mogê dla ciebie zrobiæ, panie Threepwood?
 macpla039	Czemu nie zdziwiony?
 guypla085	£adny skok.
 macpla040	A dziêkujê. Bojê siê, ¿e moje zdolnoœci staj¹ siê zwyrodnia³e.
@@ -5227,7 +5227,7 @@ macpla042	Ah, pirat. To rzadkoœæ poznaæ pirata na Jambalaya w dzisiejszych czasa
 guypla088	To prawda.
 macpla043	Panie Potê¿ny Pirat, a ja jestem Marco De Pollo, najlepszy skoczek do wody na œwiecie!
 guypla089	Jam Guybrush Threepwood, Potê¿ny Nurek!
-macpla044	Witamy na Wyspie Jambalaya, Panie Threepwood.
+macpla044	Witamy na Wyspie Jambalaya, panie Threepwood.
 macpla045	Jam Marco De Pollo, niepokonany i niezwyciê¿ony najlepszy skoczek do wody!
 guypla090	Jestem Threepwood...Guybrush Threepwood.
 guypla091	Moje imiê jest nieistotne.
@@ -5246,7 +5246,7 @@ macpla053	Ah, to ciekawa historia.
 guypla096	A d³uga jest?
 macpla054	Jakiœ rok temu zrozpaczony zrozumia³em, ¿e nie znajdê równego sobie, i postanowi³em zdj¹æ k¹pielówki.
 guypla097	Eww.
-macpla055	W najgorszym momencie ¿ycia, Pan Ozzie Mandrill odnalaz³ mnie i coœ zaproponowa³.
+macpla055	W najgorszym momencie ¿ycia, pan Ozzie Mandrill odnalaz³ mnie i coœ zaproponowa³.
 guypla098	Czy ta opowieœæ jest dla dzieci?
 macpla056	Powiedzia³, ¿e w³aœnie wybudowa³ najwy¿sz¹ trampolinê na œwiecie,
 macpla057	by³ sk³onny zap³aciæ naprawdê du¿o, aby jego wisienk¹ na trampolinie by³ najlepszy skoczek na œwiecie.
@@ -5275,12 +5275,12 @@ macpla070	Dziêkuje ci, przyjacielu za nutê humoru wprowadzon¹ do ¿ycia.
 guypla108	Co w tym œmiesznego?
 macpla071	Ale ty nie mówisz powa¿nie?
 guypla109	Tak powa¿nie jak cholera, skoczusie!
-macpla072	Nie m¹drze jest mnie wyzywaæ, Panie Threepwood. Jestem najlepszym Skoczkiem na Œwiecie.
+macpla072	Nie m¹drze jest mnie wyzywaæ, panie Threepwood. Jestem najlepszym Skoczkiem na Œwiecie.
 guypla110	Zaraz po mnie, chyba.
 macpla073	Dobrze, rêkawice do góry. Mam nadzieje, ¿e masz ju¿ certyfikat od Komitetu Sêdziowskiego?
 guypla111	Jasne. SprawdŸ sam.
 macpla074	Bah, widzia³em ju¿ s³abiutk¹ staruszkê z lepszym wynikiem.
-macpla075	Ale zaraz wgniotê ciê w ziemie. Przygotuj siê na upokorzenie, Panie Threepwood.
+macpla075	Ale zaraz wgniotê ciê w ziemie. Przygotuj siê na upokorzenie, panie Threepwood.
 guypla112	Certyfikat?
 macpla076	A co? Myœlisz, ¿e jest jakimœ klaunem, który akceptuje ka¿d¹ zaczepkê jakiœ frajerów?
 guypla113	Yyy, tak?
@@ -5512,8 +5512,8 @@ guyplt101	George i Gracie?
 ptwplt027	Wszyscy wiedz¹, ¿e nazywali siê Harry and Carrie.
 guyplt102	Herman i Eloise?
 ptwplt028	Wszyscy wiedz¹, ¿e nazywali siê Dwayne i Berta.
-guyplt103	Pan i Pani Threepwood?
-ptwplt029	Huh?
+guyplt103	Pan i pani Threepwood?
+ptwplt029	Co?
 ptwplt030	Wszyscy wiedz¹, ¿e nazywali siê Fredo i Moonbeam.
 guyplt104	Chyba zdecyduje siê na Rozkosznego Fechmistrza.
 ptwplt031	Dobry wybór.
@@ -5684,7 +5684,7 @@ guycpt055	To frajer!
 rivcpt016	Najodwa¿niejsi mê¿czyŸni s¹ zawsze trochê pokrêceni, skarbie.
 guycpt056	Do widzenia.
 guycpt057	Pani Rivers?
-rivcpt017	Tak, Panie Threepwood?
+rivcpt017	Tak, panie Threepwood?
 guycpt058	Chcia³bym jeszcze raz spróbowaæ przemieniæ siê w dobrego.
 rivcpt018	Ale po co? Masz ju¿ zdan¹ klasê.
 guycpt059	No tak, wiem, ale czuje, ¿e muszê siê doszkoliæ.
@@ -5698,9 +5698,9 @@ rivcpt022	Absolutnie nie!
 rivcpt023	Nie chce ju¿ marnowaæ moich zdolnoœci pedagogicznych dla kogoœ takiego...
 rivcpt024	...jest tyle dobrych piratów z których powinieneœ braæ przyk³ad.
 guycpt063	Ale...
-rivcpt025	IdŸ sobie, Panie Threepwood.
+rivcpt025	IdŸ sobie, panie Threepwood.
 guycpt064	Dlaczego nie dosta³em Certyfikatu Dobrego Pirata?
-rivcpt026	¯eby go mieæ, trzeba pozytywnie zdaæ nasz kurs, Panie Threepwood.
+rivcpt026	¯eby go mieæ, trzeba pozytywnie zdaæ nasz kurs, panie Threepwood.
 guycpt065	Oh.
 guycpt066	Chcia³bym odzyskaæ zabrane rzeczy.
 rivcpt027	Ale ja ci nic nie zabra³am, mój drogi.
@@ -5960,26 +5960,26 @@ guyall151	Nie jestem pewien, w co mam to wkrêciæ.
 guyall152	To proteza nosa!
 guyall153	Ale bez glutów!
 guyall154	Nie. Mój w³asny nos dzia³a bardzo dobrze.
-guyscu209	Dzieñ dobry, Panie Serze.
+guyscu209	Dzieñ dobry, panie Serze.
 navscu065	Tak?
 guyscu210	Witam, niechlujnie wygl¹daj¹cy piracie. Jam Guybrush Threepwood, Potê¿ny Pirat.
 guyscu003	Jak siê nazywasz?
 navscu066	Ser.
 navscu067	Ignacy Ser.
-guyscu004	Co Pan powie na do³¹czenie do mej za³ogi potê¿nych piratów, Panie Serze?
+guyscu004	Co pan powie na do³¹czenie do mej za³ogi potê¿nych piratów, panie Serze?
 navscu068	I co, powiedz, móg³bym robiæ, gdybym do³¹czy³ do tej za³ogi potê¿nych piratów?
-guyscu213	Jesteœ Pan pewny, ¿e nie chce do³¹czyæ do za³ogi potê¿nych piratów?
+guyscu213	Jesteœ pan pewny, ¿e nie chce do³¹czyæ do za³ogi potê¿nych piratów?
 navscu069	Nie wiem. Jakiego rodzaju piractwa bym uprawia³?
-guyscu214	Czy da³by siê Pan jakoœ przekonaæ, aby nawigowaæ mój statek na Wyspê Mamony?
+guyscu214	Czy da³by siê pan jakoœ przekonaæ, aby nawigowaæ mój statek na Wyspê Mamony?
 navscu006	Jestem otwarty na sugestie... Co masz na myœli?
-guyscu215	Czy nic by Pana nie przekona³o, aby nawigowaæ mój statek na Wyspê Mamony?
-guyscu008	Wyzywam Pana na kolejn¹ rundê Zniewa¿ania na Rêkê, ty wielkoramienny œwirze!
+guyscu215	Czy nic by pana nie przekona³o, aby nawigowaæ mój statek na Wyspê Mamony?
+guyscu008	Wyzywam pana na kolejn¹ rundê Zniewa¿ania na Rêkê, ty wielkoramienny œwirze!
 navscu007	Znakomicie! Wygrasz, a bêdê twym nawigatorem.
 guyscu217	Stoi.
-guyscu218	Nie mo¿e siê Pan doczekaæ rejsu na Wyspê Mamony?
+guyscu218	Nie mo¿e siê pan doczekaæ rejsu na Wyspê Mamony?
 navscu008	Aj... sama przyjemnoœæ ¿eglowaæ z tak subtelnym kpiarzem jak ty.
-guyscu219	Ale mam Pan wielkie ramiona, Panie Ser.
-navscu009	Najlepsze do Zniewa¿ania na Rêkê, Panie Threepwood.
+guyscu219	Ale mam pan wielkie ramiona, panie Ser.
+navscu009	Najlepsze do Zniewa¿ania na Rêkê, panie Threepwood.
 guyscu220	Opowiedz mi jeszcze raz o tym Zniewa¿aniu na Rêkê.
 navscu010	S¹dzi³em, ¿e wyrazi³em siê jasno...
 navscu011	To jak Zniewa¿anie na Miecze... tylko na rêkê.
@@ -5988,8 +5988,8 @@ guyscu014	Chwila. Nazywasz siê "I. Ser"?
 navscu012	Aj.
 guyscu223	"Ser"?
 guyscu224	Wybacz, ale ciê¿ko poj¹æ absurd tego imienia.
-navscu013	Bez w¹tpienia, Panie THREEPWOOD.
-guyscu017	Musi Pan wiedzieæ, ¿e nazwisko Threepwood posiada d³ug¹ i zacn¹ historiê.
+navscu013	Bez w¹tpienia, panie THREEPWOOD.
+guyscu017	Musi pan wiedzieæ, ¿e nazwisko Threepwood posiada d³ug¹ i zacn¹ historiê.
 navscu014	Moje tak¿e.
 guyscu018	Chcia³bym us³yszeæ "d³ug¹ i zacn¹ historiê" rodu Serów.
 navscu015	Aj, z przyjemnoœci¹!
@@ -6020,15 +6020,15 @@ guyscu239	Nic mi nie œwita.
 navscu027	Nie winiê ciê... niewielu pamiêta Gorgon Zolê Ser.
 guyscu240	Argh. "Wyserzy³a" mnie ta rozmowa o rodzinie.
 guyscu241	Milo by³o poznaæ, ale czas zwijaæ ma³pi interes.
-guyscu242	Pomaga³by Pan bandzie krwio¿erczych bandytów spl¹drowaæ ma³¹ wioskê ryback¹!
+guyscu242	Pomaga³by pan bandzie krwio¿erczych bandytów spl¹drowaæ ma³¹ wioskê ryback¹!
 navscu028	Arr. To nie brzmi zbyt mê¿nie. Ka¿dy zniewieœcia³y pirat mo¿e spl¹drowaæ bezbronn¹ ryback¹ spo³ecznoœæ.
 guyscu243	Tak jak mówi³em, bêdziemy pl¹drowaæ nadmorski port.
 navscu029	Pshaw.
-guyscu244	Szuka³by Pan zatopionego skarbu z grup¹ bezwzglêdnych maszyn do zabijania.
+guyscu244	Szuka³by pan zatopionego skarbu z grup¹ bezwzglêdnych maszyn do zabijania.
 navscu030	£owy zatopionych skarbów s¹ dla z³odziei i nicponi, m³odzieñcze. Prawdziwi piraci TRZYMAJ¥ swoje skarby.
 guyscu245	Jak wspomina³em, bêdziemy przeczesywaæ dna w poszukiwaniu mokrych szekli.
 navscu031	Przykro mi, ale to brzmi durnie.
-guyscu246	Pop³yn¹³by Pan na Wyspê Mamony z ekip¹ kretyñskich korsarzy, by spotkaæ siê z prawnikami mojej ¿ony.
+guyscu246	Pop³yn¹³by pan na Wyspê Mamony z ekip¹ kretyñskich korsarzy, by spotkaæ siê z prawnikami mojej ¿ony.
 navscu032	I TO brzmi jak misja warta zachodu dla Potê¿nego Pirata Nawigatora, takiego jak ja.
 guyscu247	Serio?
 navscu033	Aj. Morza wokó³ Wyspy Mamony s¹ bardzo zdradliwe, a poruszaæ siê po nich mo¿e tylko doœwiadczony ¿eglarz.
@@ -6038,13 +6038,13 @@ navscu035	Nie mogê.
 guyscu249	Zastanowiê siê nad tym przez chwilê.
 navscu036	Pewnie, nie spiesz siê.
 navscu037	Bo jeœli zostawiê mój bar na zbyt d³ugo, zostanie mi on skradziony!
-guyscu250	Jest Pan w³aœcicielem SCUMM Baru!?
+guyscu250	Jest pan w³aœcicielem SCUMM Baru!?
 navscu038	Aj. Jednym i jedynym.
 guyscu251	Czemu nie?
-guyscu252	Czemu nie? Straci³ Pan odwagê?
+guyscu252	Czemu nie? Straci³ pan odwagê?
 navscu039	S³uchaj, m³ody. Mam wiêcej odwagi ni¿ trójnogi kot na wystawie psów!
-guyscu253	Wiêc dlaczego nie mo¿e Pan do nas do³¹czyæ?
-guyscu254	Dlaczego? Kuper przylgn¹³ Panu do krzes³a?
+guyscu253	Wiêc dlaczego nie mo¿e pan do nas do³¹czyæ?
+guyscu254	Dlaczego? Kuper przylgn¹³ panu do krzes³a?
 navscu040	Có¿, tak. Jak ju¿ o tym wspominasz to tak. Ale to nie dlatego nie mogê p³yn¹æ.
 guyscu255	Wiec czemu nie?
 navscu041	Odpiera³em wrog¹ ofertê przejêcia ze strony australijskiego dewelopera gruntów.
@@ -6059,7 +6059,7 @@ guyscu259	uzna³bym, ¿e to najdziwniejsza rzecz, jak¹ s³ysza³em przez tydzieñ.
 guyscu260	Sk¹d pomys³, ¿e SCUMM Bar zostanie skradziony?
 navscu046	No wiêc to tak...
 guyscu261	Trudno mi uwierzyæ, ¿e SCUMM Bar jest w³asnoœci¹ kogoœ o imieniu "I. Ser"
-navscu047	Co Pan nie powie, Panie Œlizwood.
+navscu047	Co pan nie powie, panie Œlizwood.
 guyscu262	THREEPwood.
 navscu048	Jak chcesz. W ka¿dym razie...
 guyscu263	To zabawne. Zawsze myœla³em, ¿e SCUMM Bar jest w³asnoœci¹ faceta o imieniu "Ron".
@@ -6071,12 +6071,12 @@ guyscu265	Paradygmat?
 navscu116	Có¿, w dzisiejszych czasach nie mo¿na zagraæ w rzutki czy w warcaby, nie oczekuj¹c, ¿e nikt nie trzaœnie jakiœ z³oœliwy bon mot.
 guyscu266	Ja chyba kiedyœ rzuci³em bon motem w walce na ¿arcie...
 navscu117	Moj¹ specjalnoœci¹ jest Zniewa¿anie na Rêkê, którego u¿ywam do obrony baru przed wrogim przejêciem.
-guyscu267	Ma Pan na myœli Zniewa¿anie na Miecze?
+guyscu267	Ma pan na myœli Zniewa¿anie na Miecze?
 navscu118	Nie.
-guyscu268	Myœla³ Pan o Zniewa¿aniu na Miecze, ty stary g³upcze!
-navscu119	Odklei³ siê Pan, Panie Marley.
+guyscu268	Myœla³ pan o Zniewa¿aniu na Miecze, ty stary g³upcze!
+navscu119	Odklei³ siê pan, panie Marley.
 guyscu269	Zniewa¿anie na Rêkê?
-guyscu270	Jeœli wygram na rêkê, zostanie Pan moim nawigatorem?
+guyscu270	Jeœli wygram na rêkê, zostanie pan moim nawigatorem?
 navscu056	Hmmm. Ciekawa propozycja, Threepwood.
 guyscu271	Tak? To znaczy, oczywiœcie ¿e tak!
 navscu057	Mo¿e tak: jeœli pokonasz mnie, bêdê twoim nawigatorem...
@@ -6084,7 +6084,7 @@ guyscu272	Œwietnie!
 navscu058	Ale tylko jeœli nauczysz mnie jakichœ nowych obelg.
 guyscu273	Zgoda.
 navscu059	A wiêc... poka¿ na co ciê staæ!
-guyscu274	Mia³em nadziejê, ¿e podda siê Pan przez to moje nieustanne zrzêdzenie.
+guyscu274	Mia³em nadziejê, ¿e podda siê pan przez to moje nieustanne zrzêdzenie.
 navscu060	Dziecko. By³em ¿onaty przez trzydzieœci lat.
 guyscu275	No i?
 navscu061	No i jeœli jest jedna rzecz, na któr¹ jestem odporny, to jest to nieustanne, piskliwe, zrzêdzenie.
@@ -6092,8 +6092,8 @@ navscu062	... piskliwe...
 navscu063	... zrzêdzenie.
 guyscu276	Nie mia³em pojêcia.
 navscu064	Wiêc daj mi znaæ, kiedy bêdziesz mia³.
-navluc001	No i jesteœmy, Panie Marley. Wyspa Mamony.
-guyluc001	Dziêki, Panie Serze. Yy, czy nastêpnym razem nie moglibyœmy dostaæ sie tu z mniejszym dramatyzmem?
+navluc001	No i jesteœmy, panie Marley. Wyspa Mamony.
+guyluc001	Dziêki, panie Serze. Yy, czy nastêpnym razem nie moglibyœmy dostaæ sie tu z mniejszym dramatyzmem?
 otiluc001	Oh, nie. Nie planujemy bycia tu nastêpny raz, prawda?
 claluc053	Na pewno nie. O jeden raz za du¿o.
 guyluc002	Ok. Idê do miasta. Wy stójcie tu i pilnujcie statku.
@@ -6194,7 +6194,7 @@ guyluc217	Administracja Portu na Wyspie Mamony.
 guyluc218	Lepiej, ¿ebym tam nie wchodzi³ i lepiej ¿eby nie widzieli jakich szkód narobi³ mój nawigator w ich porcie.
 guyluc219	Jacyœ faceci ze szkockim akcentem s¹ na tej ³odzi.
 guyluc220	Eh. Nie chcê niepokoiæ Szkotów na ich w³asnych ³odziach.
-guyluc221	To musi byæ "Sklep ze strasznymi ³odziami" o którym Pan Ser tyle gada³.
+guyluc221	To musi byæ "Sklep ze strasznymi ³odziami" o którym pan Ser tyle gada³.
 guyluc222	Nie. Rozka¿e swojej za³odze, ¿eby szuka³a czêœci zamiennych do statku.
 guyluc223	A o tym do mnie nie mogê powiedzieæ nic œmiesznego.
 guyluc224	Nie wejdê tam.
@@ -6212,7 +6212,7 @@ guyluc235	Ahh. Lepiej ¿ebym im nie przerywa³.
 guyluc236	NajwyraŸniej jest skoncentrowany.
 guyluc237	To najbardziej ¿a³osne zniewagi, jakie kiedykolwiek s³ysza³em.
 guyluc238	Pierwsza zasada piratów mówi, ¿eby nie wchodziæ w bójki z innymi.
-guyluc239	To Pan Ser, nasz uprzyjmy nawigator.
+guyluc239	To pan Ser, nasz uprzyjmy nawigator.
 guyluc240	To Carla. Wygl¹da na znudzon¹.
 guyluc241	To nasze lokalne organy œcigania
 canluc005	IdŸcie st¹d. Tu nie ma nic ciekawego.
@@ -6268,7 +6268,7 @@ guypop016	Nie chcia³bym byæ nie taktowny, ale czy ty jesteœ œlepy?
 deapop018	A wygl¹dam jak œlepy?
 guypop017	Nie wiem... bia³e Ÿrenice mog¹ byæ rodzajem jakiejœ nowej, pirackiej mody czy coœ.
 deapop019	Oczywiœcie, ¿e jestem œlepy, ty brzydki straceñcu majtek!
-guypop018	Sorka.
+guypop018	Wybacz.
 deapop020	Ah, z drugiej strony reszta moich zmys³ów wyraŸnie rekompensuje wrodzon¹ œlepotê.
 deapop021	Na przyk³ad, zwykle rozpoznaje moich klientów przez ich charakterystyczny odór.
 guypop019	Mówisz, ¿e rozpoznajesz ludzi po zapachu?
@@ -6348,7 +6348,7 @@ deapop067	... nie zatwierdzonych...
 deapop068	... protez doœwiadczalnych.
 guypop047	Super. A o jakiej protezie konkretnie mówimy?
 deapop069	Pozwolê ci wybraæ... po historyjce.
-guypop048	Huh?
+guypop048	Co?
 deapop070	Musisz mnie rozbawiæ.
 deapop071	Za siedmioma górami ¿y³ pirat zwany...
 guypop049	Chcia³bym dostaæ inn¹ z dostêpnych darmowych protez.
@@ -6433,7 +6433,7 @@ guypop072	Ned?
 deapop127	Ned. Dok³adnie.
 guypop073	Jed?
 deapop128	Masz racjê. Jed.
-guyluc258	Ahoj, Panie Serze.
+guyluc258	Ahoj, panie Serze.
 navluc004	Tak?
 guyluc259	Dobra robota. Kurs nam sie uda³.
 navluc005	Dziêki, nastêpnym razem, bêdziesz pomocny jeœli nie bêdziesz u¿ywa³ mapy statku jako papieru toaletowego.
@@ -6718,7 +6718,7 @@ deapop253	Xylophone Y. Zimmerman
 guypop199	To jakiœ dziwny rodzaj dokumentu.
 guypop200	Ten odra¿aj¹cy facet ma przepaskê na oczach!
 deapop254	Taa, tylko, ¿e mam dobry s³uch.
-guypop201	Sorka.
+guypop201	Wybacz.
 guypop202	Do niego nale¿y Pa³ac Protez.
 guypop203	To Deadeye Dave.
 guypop204	Hej, czy ten zapach na chusteczce nie przypomina ci czegoœ lub kogoœ?
@@ -6901,7 +6901,7 @@ guyall175	Ta karykatura sama siê nie utrzyma na kubku.
 guyall176	To dobry pomys³, ale myœlê, ¿e ³atwiej by³oby na³o¿yæ klej na to, co chcê przykleiæ.
 guyall177	Spójrzcie! W zasadzie wygl¹da jak orygina³!
 guyall178	Mo¿e lepiej to zatrzymam, dopóki nie bêdê tego potrzebowa³.
-guygpt039	Ahoj, Panie Serze!
+guygpt039	Ahoj, panie Serze!
 navgpt017	Wielkie ahoj, kapitanie. W czym mogê pomóc?
 guygpt040	Zbieramy za³ogê, za chwilê wyp³ywamy!
 navgpt018	Raczej nie, kapitanie.
@@ -6930,13 +6930,13 @@ navgpt013	Brzmi jak dobra, stara, piracka zabawa, Kapitanie...
 navgpt014	... no, ale ja muszê posk³adaæ z czêœæ ten statek.
 daigpt003	Naprawiaj MNIE, ty zapluty staruchu!
 navgpt015	Ci¹gle próbuje j¹ czymœ zakneblowaæ.
-guygpt051	Trzymaj siê, Panie Ser.
+guygpt051	Trzymaj siê, panie Ser.
 navgpt016	Aj, aj, Kapitanie.
 rivpta001	Witam ponownie, uczniowie.
 rivpta002	Moje oczy widz¹, ¿e mieliœmy ju¿ jedn¹ lekcje, wiêc od razu przyst¹pmy do egzaminu, zgoda?
 rivpta003	Trzy pytania sk³adaj¹ siê na 100 procent twojej oceny...
 rivpta004	Dzieñ dobry, klaso.
-rivpta005	Nazywam siê Pani Rivers, witam na pierwszej lekcji w Akademii Dobrego Pirata pana Ozziego Mandrilla,
+rivpta005	Nazywam siê pani Rivers, witam na pierwszej lekcji w Akademii Dobrego Pirata pana Ozziego Mandrilla,
 rivpta006	dzielnie wspó³finansowane przez Ozzie Mandrill Enterpises.
 rivpta007	Przechodz¹c przez próg tej sali, zrobiliœcie pierwszy krok ku podró¿y...Podró¿y, która przemieni was z korsarzy i piratów w zdrowych...
 rivpta008	Podró¿y, która zamieni was z "zawadiackich" piratów w zdrowych...
@@ -6945,7 +6945,7 @@ rivpta010	...i co najwa¿niejsze,  PRODUKTYWNYCH cz³onków jego wspólnoty.
 rivpta011	A dlaczego tak robimy?
 munpta001	Bo nie mamy wyjœcia?
 rivpta012	Nie skarbie... jesteœ tu BO JESTEŒ ZAWSZA£YM PIRATEM, KTÓRY NISZCZY ULICE MIAST WSZYSTKIM CO POPADNIE I T£UCZE LUDZI JAK PSY, KTÓRYM SAM JESTEŒ!!!
-munpta002	 
+munpta002	Jejku!
 rivpta013	No w³aœnie, przez najbli¿sze kilka lekcji bêdziemy prze³amywaæ wasze anty-spo³eczne pirackie mechanizmy walki,
 rivpta014	... zamieniaj¹c je na mile widziane i wysoko po¿¹dane cechy zachowañ...
 guypta001	Ale to bêdzie d³ugo trwa³o... dlaczego nie przyjdzie pani póŸniej?
@@ -6960,7 +6960,7 @@ guypta003	Nie widzia³em.
 rivpta020	No to zacznijmy. Yangja?
 yanpta002	Tak pszepani?
 rivpta021	A teraz Guybrush...
-guypta004	Tak, Pani Rivers?
+guypta004	Tak, pani Rivers?
 rivpta022	No i Mungle...
 munpta003	Tak?
 rivpta023	Co trzymasz w ustach, m³ody cz³owieku?
@@ -6978,10 +6978,10 @@ guypta005	Tak?
 rivpta030	Mungle...
 munpta008	Tak?
 rivpta031	No i Yangja ...
-yanpta003	Tak, Pani Rivers?
+yanpta003	Tak, pani Rivers?
 rivpta032	No dobrze. A teraz trzecie i ostatnie pytanie...
 rivpta033	A teraz Yangja...
-rivpta034	I na koniec, Pan Threepwood...
+rivpta034	I na koniec, pan Threepwood...
 rivpta035	Có¿, zsumowa³am wszystkie twoje punkty i musze stwierdziæ, ¿e nie jest dobrze.
 rivpta036	Mungle, obawiam siê, ¿e nie zda³eœ.
 rivpta037	Twoje serce jest na w³aœciwym miejscu, jednak twój mózg jest gdzieœ w zimnej i ciemnej sieci paj¹ka.
@@ -7064,7 +7064,7 @@ munpta020	Ale ostry!
 yanpta018	Chyba to oblejesz!
 guypta015	Oddalam siê...Nie chcemy przecie¿ rozmawiaæ z takimi ludŸmi.
 guypta016	Maj¹c tylko okazje kiedy nie patrz¹, nabijam obydwóch goœci na mój wierny miecz i okradam ich ze z³ota!
-rivpta079	 
+rivpta079	Jejku!
 munpta021	Whoah!
 guypta017	Pomagam temu co przegrywa.
 guypta018	Szybko robie kopie...znaczy to s¹ profesjonaliœci!
@@ -7116,7 +7116,7 @@ guypta049	Grzecznie odmawiam, oferuj¹c obcemu nastêpn¹ kolejkê.
 guypta050	Przy³¹czam siê do mojego nowego przyjaciela pij¹c z nim ca³¹ noc.
 guypta051	Opijam go grogiem, otruwam jak najdzie okazja i zabieram mu skarb.
 guypta052	Arrrrr!
-rivpta086	No nie, to jest niegrzeczne, Panie Threepwood.
+rivpta086	No nie, to jest niegrzeczne, panie Threepwood.
 munpta026	Jezu...A myœla³em, ¿e ja jestem dzikusem bez serca.
 guysta001	Stan?
 guysta002	Czy to ty?
@@ -7259,7 +7259,7 @@ herlav004	Przeklêta lawa stopi³a mi dom!
 guylav001	Prowadzi prosto na resztê wyspy.
 guycgs001	Zg³upia³eœ? Mog³eœ mnie zabiæ!
 cascgs001	Kto ja? Ja przynajmniej ra¿¹co nie ³amiê Zasad Regulaminu Atolu Knutyñskiego!
-guycgs002	Huh?
+guycgs002	Co?
 cascgs002	Jak ciê zw¹, ¿eglarzu?
 guycgs003	Uh, przepraszam?
 cascgs003	Szybko, Threepwood.
@@ -7267,13 +7267,13 @@ cascgs004	Nie mogê pozwoliæ na chwilê nieuwagi.
 guycgs004	Uhhh. Jak chcesz....
 guycgs005	To nie twoja sprawa.
 guycgs006	Uhm Guybrush Threepwood..
-cascgs005	Tak, Panie Threepwood, co ma pan do naszego Atolu Knutyñskiego?
+cascgs005	Tak, panie Threepwood, co ma pan do naszego Atolu Knutyñskiego?
 guycgs007	Ivanna Tinkle.
 guycgs008	A kogo to obchodzi?
 guycgs009	Guybrush Threepwood. Kim do diab³a jesteœ?
-guycgs010	To nie pana sprawa, Panie Nadête gacie!
+guycgs010	To nie pana sprawa, panie nadête gacie!
 guycgs011	Ja tu tylko sprz¹tam.
-cascgs006	No i dobrze, Panie Threepwood. Zanim siê rozejdziemy, masz do mnie jakieœ pytania?
+cascgs006	No i dobrze, panie Threepwood. Zanim siê rozejdziemy, masz do mnie jakieœ pytania?
 guycgs012	Mo¿e i mam coœ o co chcia³bym zapytaæ.
 guycgs013	Ja tylko powoduje k³opoty. Du¿o k³opotów.
 guycgs014	Muszê odnaleŸæ Talizman Upokorzenia i wypatroszê ka¿dego kto mi wejdzie w drogê!
@@ -7290,7 +7290,7 @@ cascgs013	Pozostan¹ tam, a¿ stan¹ siê produktywnymi cz³onkami spo³eczeñstwa.
 guycgs018	A jak du¿o piratów kiedykolwiek powróci³o z powrotem na Jambalaya?
 cascgs014	Tylko naparstek..
 cascgs015	Proces reedukacji jest diabelnie powolny.
-cascgs016	Na szczêœcie, s³ysza³em ¿e Pan Mandrill koñczy jakiœ plan, który wy-reedukuje ich raz na zawsze.
+cascgs016	Na szczêœcie, s³ysza³em ¿e pan Mandrill koñczy jakiœ plan, który wy-reedukuje ich raz na zawsze.
 guycgs019	A czemu strzelasz z armaty do niewinnych piratów?
 cascgs017	Panie Threepwood, spotka³em siê w ¿yciu tylko z dwoma rodzajami piratów:
 cascgs018	Tych, którzy uprawiaj¹ barbarzyñstwo bezmyœlnie, oraz tych, którzy to planuj¹ i niszcz¹ wszystko bezsensownie!
@@ -7891,7 +7891,7 @@ guymon067	Ju¿ mnie boli g³owa.
 jojmon128	Wiêc daj sobie przerwê.
 guycol063	Um, Wasza Œwiêtobliwoœæ?
 pricol012	Tak, moje dziecko?
-guycol011	 
+guycol011	Jejku!
 pricol013	Pozdrowienia, moje dziecko.
 pricol014	Witam w Pierwszym Prawos³awnym Koœciele LeChucka.
 pricol015	Jestem Ojciec Allegro Rasputin. W czym mogê pomóc?
@@ -7976,7 +7976,7 @@ pricol059	Das Vedanya.
 guycol046	Muszê siê jakoœ wydostaæ z tej wyspy.
 pricol060	Nie ma Ucieczki z Wyspy Ma³p.
 guycol047	Nie prawda. Ju¿ ucieka³em st¹d co najmniej dwa razy.
-pricol061	W takim razie czemu i tym razem nie poradzisz sobie sam, Panie M¹dralo?
+pricol061	W takim razie czemu i tym razem nie poradzisz sobie sam, panie M¹dralo?
 guycol048	Teraz nie mogê.
 pricol062	 
 guycol049	Wci¹¿ pragnê Ucieczki z Wyspy Ma³p.
@@ -8071,7 +8071,7 @@ guyall220	Dobry pomys³... Szkoda, ¿e projektanci o tym nie pomyœleli.
 guyall221	Nie, zbyt oczywiste.
 guyall222	Mogê wymyœliæ milion zastosowañ dla tego przedmiotu... szkoda, ¿e projektanci nie chc¹, ¿ebym go mia³.
 chagme016	Ale mo¿esz nazywaæ mnie nastêpnym gubernatorem!
-guyall223	Ah, urocza Pani Threepwood.
+guyall223	Ah, urocza pani Threepwood.
 wailua043	Hej! Hej! Nie dotykaæ!
 wailua044	To z drogiej kolekcji.
 wailua045	Powiedzia³em ³apy precz!
@@ -8117,7 +8117,7 @@ macpla117	Niech bêdzie.
 macpla118	WeŸ siê w garœæ i skacz!
 macpla119	Wyzywasz mnie wiêc na pojedynek?
 macpla120	Chcesz siê zmierzyæ... ze mn¹?
-macpla121	Przygotuj siê na upokorzenie, Panie Threepwood.
+macpla121	Przygotuj siê na upokorzenie, panie Threepwood.
 artplt036	Masz ju¿ karykaturê. Nie b¹dŸ chciwy.
 artplt037	No tak.
 hertoc156	Nie nazywaj mnie tak!
@@ -8230,27 +8230,27 @@ guystb112	Nie dziêki. To nie mój typ.
 guystb113	Poza tym mój poranny horoskop mówi: "Uwa¿aj na nowe zainteresowania, na horyzoncie czai siê bekon".
 guystb114	Cokolwiek to znaczy.
 guystb115	Super!
-guystb116	To taca pe³na mini bajgli z jakimœ papkowatym ohydztwem.n
+guystb116	To taca pe³na mini bajgli z jakimœ papkowatym ohydztwem.
 guystb117	Mini bajgle z Schmear Whiz.
 guystb118	Ju¿ je mam.
 guystb119	Nie!  Ostatni by³ NAPRAWDÊ obrzydliwy!
 guystb120	Nie oferujecie darmowych dolewek, prawda?
-guyshi108	Dzieñ dobry, Panie Serze.
+guyshi108	Dzieñ dobry, panie Serze.
 guyshi109	Jak siê sprawy maj¹?
 guyshi110	Gdzie jest Carla?
 guyshi111	Gdzie?
 guyshi112	Na co Carla siê skar¿y?
 guyshi113	A gdzie poszed³ Otis?
-guyshi114	Jest coœ, co muszê Panu powiedzieæ o Scumm-Barze.
+guyshi114	Jest coœ, co muszê panu powiedzieæ o Scumm-Barze.
 guyshi115	Jest coœ jeszcze na temat Scumm-Baru.
-guyshi116	Nie powinien siê Pan martwiæ siê o utratê SCUMM Baru.
-guyshi117	Wci¹¿ jest mi Pan potrzebny jako nawigator.
-guyshi118	Nie zgadnie Pan, czego dowiedzia³em siê o postaci Charlesa L. Charlesa.
+guyshi116	Nie powinien siê pan martwiæ siê o utratê SCUMM Baru.
+guyshi117	Wci¹¿ jest mi pan potrzebny jako nawigator.
+guyshi118	Nie zgadnie pan, czego dowiedzia³em siê o postaci Charlesa L. Charlesa.
 guyshi119	To LeChuck w przebraniu!
-guyshi120	To nie dziwi Pana, ¿e Charles L. Charles to LeChuck?
-guyshi121	S³ysza³ Pan mo¿e o czymœ nazywanym "Talizman Upokorzenia"?
+guyshi120	To nie dziwi pana, ¿e Charles L. Charles to LeChuck?
+guyshi121	S³ysza³ pan mo¿e o czymœ nazywanym "Talizman Upokorzenia"?
 guyshi122	Nie...
-guyshi123	Co Pan s¹dzi o naszym gadaj¹cym galionie?
+guyshi123	Co pan s¹dzi o naszym gadaj¹cym galionie?
 guyshi124	Muszê wracaæ do roboty.
 guyshi125	Wszystko gra. Nie ma co siê martwiæ.
 guyshi126	Ktoœ wybi³ wszystkie okna.
@@ -8461,9 +8461,9 @@ rivpta092	Mam ciê!
 rivpta093	Nie tak szybko skarbie!
 rivpta094	Wydaje ci siê, ¿e jesteœ szybszy?
 rivpta095	Myœlisz, ¿e jesteœ ode mnie bystrzejszy?
-rivpta096	Alarm szkolny to nie zabawka, Panie Threepwood!
+rivpta096	Alarm szkolny to nie zabawka, panie Threepwood!
 rivpta097	WYNOCHA!
-rivpta098	Uh, uh, uh, Panie Threepwood... Nie chcemy dotykaæ z³ych zabawek dla piratów, prawda?
+rivpta098	Uh, uh, uh, panie Threepwood... Nie chcemy dotykaæ z³ych zabawek dla piratów, prawda?
 rivpta099	Panie Threepwood...Ma pan tego NIE ruszaæ!
 rivpta100	Nie karz mi przychodziæ tu jeszcze raz.
 rivpta101	Zwracaj uwagê na s³owa, m³ody cz³owieku.
@@ -8906,7 +8906,7 @@ guypac010	Hmph.  Obawiam siê, ¿e ju¿ nie ma wiêcej kamieni na ziemi.
 guypta055	Ummm...
 guypta056	Teraz ju¿ wiem czemu odszed³em ze szko³y.
 guypta057	¯e ona znowu na to wpad³a?
-guypta058	To dobrze, ¿e pamiêæ krótkotrwa³a Pani Rivers nie dzia³a.
+guypta058	To dobrze, ¿e pamiêæ krótkotrwa³a pani Rivers nie dzia³a.
 guypta059	Ciekawe ile razy mogê z tym wychodziæ.
 guypta060	Oooh, darmowe prezenty.
 guypta061	Eww...To guma Mungle'a.
@@ -8963,7 +8963,7 @@ guypta111	Tak? Wiêc nigdy nie bêdê jej u¿ywa³, przenigdy!
 guypta112	Hej! Patrz to ja. Twój uczeñ!
 guypta113	Super.
 guypta114	Ale w umowie mam podpisane, ¿e mam tylko trzy akty na zdobycie certyfikatu!
-guypta115	Lepiej nie bêdê dawa³ Pani Rivers powodu, ¿eby mi zabra³a moje pirackie rzeczy.
+guypta115	Lepiej nie bêdê dawa³ pani Rivers powodu, ¿eby mi zabra³a moje pirackie rzeczy.
 guypta116	Drzwi prowadz¹ na nieprzyjazny dwór.
 guymot068	Hej Guybrush! Musisz mi pomóc!
 guymot069	Jesteœ PEWNY, ¿e chcesz mi to teraz daæ?
@@ -9272,9 +9272,9 @@ kahpla051	To dla nas zaszczyt.
 kahpla052	Mistrz Skoków mo¿e skakaæ gdzie chce.
 kahpla053	By³ ju¿ wszêdzie tam gdzie wszyscy sportowcy id¹, kiedy nie ma ju¿ kogo pokonaæ.
 ptwplt060	Hej Hej! Bezp³atny POSI£EK z ma³pim kubkiem nie oznacza otrzymania bezp³atnego Ma³piego Kubka!
-ptwplt061	Przepraszam Pana, ale nie mo¿e Pan zatrzymaæ tego Ma³piego Kubka.
+ptwplt061	Przepraszam pana, ale nie mo¿e pan zatrzymaæ tego Ma³piego Kubka.
 ptwplt062	Proszê zwróciæ Ma³pi Kubek.
-ptwplt063	Obawiam siê, ¿e bêdê musia³ poprosiæ Pana o oddanie Ma³piego Kubka. Nie mo¿e Pan go zatrzymaæ.
+ptwplt063	Obawiam siê, ¿e bêdê musia³ poprosiæ pana o oddanie Ma³piego Kubka. Nie mo¿e pan go zatrzymaæ.
 ptwplt064	Nie ruszaj siê, draniu. Nie wyjdziesz st¹d z tym Ma³pim Kubkiem.
 ptwplt065	I o to chodzi.
 ptwplt066	Zajmij jakieœ miejsce.
@@ -9285,13 +9285,13 @@ ptwplt070	Muszê ci powiedzieæ, ¿e ze wzglêdu na du¿¹ iloœæ klientów, nasi goœcie
 ptwplt071	Nadal jednak otrzymasz bezp³atny napój w ceremonialnym Ma³pim Kubku.
 guyall443	Jak ³adnie pachnie drewnem.
 guyall444	"To oficjalny znak firmowy. Nawet nie próbuj go podrabiaæ"
-guyall445	Lepiej to od³o¿ê zanim Pani Rivers mi to skonfiskuje.
+guyall445	Lepiej to od³o¿ê zanim pani Rivers mi to skonfiskuje.
 guyall446	Arrr! Nie chcê z tym gadaæ!
 guyall447	Nie mam ochoty rozmawiaæ.
 guyall448	Arrr! Ale ciota!
 guyall449	Nie, to tak jakbym siê wydurnia³.
 guyall450	ARRRRRR!
-guyall451	Oh, zamknij ryj!
+guyall451	Oh, zamknij siê.
 guyall452	Jestem Guybrush Threepwood, Potê¿ny....
 guyall453	Nie, nie prawda! To ja jestem Guybrush!
 guyall454	Obydwaj siê mylicie! JA jestem prawdziwy Threepwood!
@@ -9371,7 +9371,7 @@ guyall527	Malarstwo...zabawnie wygl¹da robione z wosku.
 guyall528	To tylko ma³a sztuczka.
 guyall529	Nie wezmê tego.
 guyall530	Tylko dzisiaj z³apa³em tyle ska³ w przestrzeni - jak nigdy.
-guyban148	Ca³a przyjemnoœæ po mojej stronie. Niech Pan powie Pegnosowi, ¿e zaraz wrócê, ¿eby UDOWODNIÆ jego winê.
+guyban148	Ca³a przyjemnoœæ po mojej stronie. Niech pan powie Pegnosowi, ¿e zaraz wrócê, ¿eby UDOWODNIÆ jego winê.
 guyban149	Lepiej nie... I tak ju¿ jestem o jedno przestêpstwo oskar¿ony.
 guyban150	Lepiej nie... I tak ju¿ jestem o jedno przestêpstwo oskar¿ony.
 guybas091	Prawdopodobnie to z³y pomys³, ¿eby zwin¹æ mu to sprzed nosa.
@@ -9601,92 +9601,92 @@ inel011	Przestañ siê rozczulaæ i przydaj siê na coœ!
 inel012a	Och, mój ty ksiêciu.
 ingb013	Eee, Elaine? Uwolnisz mnie?
 e2el001	...moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie, czy naprawdê mo¿emy sobie pozwoliæ na powierzenie przysz³oœci Wyspy Szpady cz³owiekowi bez przesz³oœci, bez doœwiadczenia, który nawet nie wydaje siê lubiæ piratów?  Zdrowy rozs¹dek mówi "nie".
-e2el001a	..moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie,
+e2el001a	... moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie,
 e2el001b	czy mo¿emy powierzyæ przysz³oœæ Wyspy Szpady cz³owiekowi bez przesz³oœci, 
-e2el001c	bez doœwiadczenia, który nawet nie wydaje siê lubiæ piratów?
+e2el001c	cz³owiekowi bez doœwiadczenia, który nie wydaje siê nawet LUBIÆ piratów?
 e2el001d	Zdrowy rozs¹dek mówi "nie".
 e2ch002	Mój przeciwnik ma racjê: jestem tu nowy.  I prawd¹ jest, ¿e moje doœwiadczenie w sprawach pañstwowych jest w najlepszym razie minimalne.  Ale nie trzeba byæ pirack¹ ksiê¿niczk¹ w siódmym pokoleniu, by dostrzec, ¿e Wyspa Szpady potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu... gubernatora, który nie mo¿e nawet obiecaæ... dobre czasy i darmowego grogu!
 e2ch002a	Mój przeciwnik ma racjê: jestem tu nowy.
 e2ch002b	Tak - moje doœwiadczenie w sprawach pañstwowych jest znikome.
 e2ch002c	Ale nie trzeba byæ pirack¹ ksiê¿niczk¹ w siódmym pokoleniu,
-e2ch002d	by dostrzec, ¿e Wyspa Szpady potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu...
+e2ch002d	by dostrzec, ¿e Szpada potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu...
 e2ch002e	gubernatora, który nie mo¿e nawet obiecaæ...
-e2ch002f	dobre czasy i darmowego grogu!
+e2ch002f	dobrych czasów i darmowego grogu!
 e2cr003	Taaaa! Grog, Grog, Grog, Grog!
 e2cr003a	Taaaa! Grog, Grog, Grog, Grog!
 e1el010	S...Stop...St...Stop! Nie mo¿ecie byæ tak g³upi, ¿eby wierzyæ, ¿e Charles po prostu da wam darmowy grog i dobr¹ zabawê, prawda!?
 e1el010a	S...Stop...St...Stop! Nie mo¿ecie byæ tak g³upi,
 e1el010b	¿eby wierzyæ, ¿e Charles po prostu da wam darmowy grog i dobr¹ zabawê,
 e1el010c	P...prawda?
-babm003a	Jeœli tylko pójdzie Pan za mn¹,
-babm003b	Jeœli tylko pójdzie Pan za mn¹,
-babm003c	to ju¿ za chwilkê otworzymy sejf, a w wnim skrzynie Pana teœcia.
+babm003a	Wedle rozkazu.
+babm003b	Proszê za mn¹, do skarbca,
+babm003c	gdzie otworzymy skrzyniê z depozytem pañskiego dziadka.
 babm004	Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat.
 babm004a	Ummph! Ahhh, no i jest.
 babm004b	Skrzynia z depozytem H.T Marleya
 babm004c	pozostawiona tu przez ponad 20 lat.
 bagb005	Wow!  Niesamowita kolekcja... œmieci. Dlaczego dziadek Marley mia³by przechowywaæ coœ takiego w banku?
 bagb005a	Wow!  Niesamowita kolekcja... œmieci.
-bagb005b	Dlaczego dziadek Marley mia³by przechowywaæ coœ takiego w banku?n
-babm006	Pan Marley by³ ekscentrycznym starym dziwakiem, prawda? Huh. Ha. Wszyscy byliœmy zdruzgotani, gdy znikn¹³ z powierzchni ziemi. W ka¿dym razie, mam parê po¿yczek do odrzucenia. Po prostu daj mi znaæ, kiedy skoñczysz, a ja przybiegnê.
-babm006a	Pan Marley by³ ekscentrycznym starym dziwakiem, prawda? Huh. Ha.
-babm006b	Wszyscy byliœmy zdruzgotani, gdy znikn¹³ z powierzchni ziemi.
+bagb005b	Dlaczego dziadek Marley przechowywa³ coœ takiego w banku?
+babm006	Pan Marley by³ ekscentrycznym starcem, prawda? Huh. Ha. Wszyscy byliœmy zdruzgotani, gdy znikn¹³ z powierzchni Ziemi. W ka¿dym razie, mam parê po¿yczek do odrzucenia. Proszê daæ mi znaæ, gdy pan skoñczy, a ja przybiegnê.
+babm006a	Pan Marley by³ ekscentrycznym starcem, prawda? Huh. Ha.
+babm006b	Wszyscy byliœmy zdruzgotani, gdy znikn¹³ z powierzchni Ziemi.
 babm006c	W ka¿dym razie, mam parê po¿yczek do odrzucenia.
-babm006d	Po prostu daj mi znaæ, kiedy skoñczysz, a ja przybiegnê.
+babm006d	Proszê daæ mi znaæ, gdy pan skoñczy, a ja przybiegnê.
 bagb007	Dziêki. Có¿, chyba lepiej zacznê szukaæ aktu w³asnoœci, ¿ebym móg³ wróciæ do domu, do Elaine. Hm. Co my tu mamy... butelka z gor¹c¹ wod¹... ma³pi smoczek... grogaminty... Jimmy Hoffa... zestaw do samodzielnego wykonania tatua¿u... zakrwawiony nó¿ sztyletowy... kubek bez dna....
 bagb007a	Dziêki.
-bagb007b	Có¿, chyba lepiej zacznê szukaæ aktu w³asnoœci,
-bagb007c	wrócê do domu, do Elaine.
+bagb007b	Có¿, chyba lepiej ju¿ zacznê szukaæ tego aktu w³asnoœci.
+bagb007c	Wrócê do domu, do Elaine.
 bagb007d	Hm. Co my tu mamy... 
-babm008	Pan Threepwood! Co Pan tutaj robi?
-bapp009	Szuka³em grogomatu. Grzebanie w rodzinnych pami¹tkach wzmaga pragnienie.
-bapp009a	Szuka³em grogomatu.
-bapp009b	Grzebanie w rodzinnych pami¹tkach wzmaga pragnienie.n
+babm008	Pan Threepwood! Co pan tutaj robi?
+bapp009	Szuka³em, yyy, grogomatu. Grzebanie w rodzinnych pami¹tkach wzmaga pragnienie.
+bapp009a	Szuka³em, yyy, grogomatu.
+bapp009b	Grzebanie w rodzinnych pami¹tkach wzmaga pragnienie.
 babm010	Có¿, naprawdê powinieneœ by³ mnie wezwaæ. Mamy zasady dotycz¹ce pozostawiania skarbca bez nadzoru.
-babm010a	Có¿, naprawdê powinien by³ mnie Pan wezwaæ. 
+babm010a	Có¿, powinien by³ mnie pan wezwaæ. 
 babm010b	Mamy zasady dotycz¹ce pozostawiania skarbca bez nadzoru.
-bapp011	A wiêc naprawdê najpierw powinien mnie Pan powiadomiæ.
-babm012	To ja bym Panu za³atwi³ trchê grogu.
-bagb013	Sztuczny nos... Sztuczny nos? A mam cie!
-bapp014	Nie ruszaj siê!
-bagb015	 
-bagb016	Kim ty jesteœ?
-bapp017	Œlepy jesteœ? Jestem Guybrush Threepwood!
+bapp011	Przepraszam. Ju¿ tam wracam.
+babm012	A ja postaram siê za³atwiæ trochê grogu.
+bagb013	Usta z wosku? Ah, no i s¹!
+bapp014	Rêce do góry!
+bagb015	Jejku!
+bagb016	A ty kim jesteœ?
+bapp017	Nie widaæ? Jestem Guybrush Threepwood!
 bagb018	Nie prawda!
-bapp019	Niby dlaczego nie?
+bapp019	Niby dlaczego?
 bagb020	Po pierwsze, Guybrush wygl¹da o wiele lepiej ni¿ ty. A po drugie, PRAWDZIWY Guybrush nie œmierdzi jak sardela. Fiuu!
 bagb020a	Po pierwsze, Guybrush wygl¹da o wiele lepiej ni¿ ty.
 bagb020b	...
-bagb020c	A po drugie, PRAWDZIWY Guybrush nie œmierdzi jak sardela. Fiuu!
+bagb020c	A po drugie, PRAWDZIWY Guybrush nie œmierdzi jak halitoza u sardeli. Fiuu!
 bapp021	Dobra, ch³opcze, wystarczy tego!  Odsuñ siê od schedy Marleya i to szybko!  A teraz, panie Threepwood, przyjrzyj siê dobrze ostatniej twarzy, jak¹ kiedykolwiek zobaczysz! He he he.
 bapp021a	Dobra, ch³opcze, wystarczy tego! 
 bapp021b	Odsuñ siê od schedy Marleya i to szybko! 
 bapp021c	A teraz, panie Threepwood,
-bapp021d	przyjrzyj siê dobrze ostatniej twarzy, jak¹ kiedykolwiek zobaczysz! He he he.n
-bagb022	Wiedzia³em ¿e spo³eczne banki mog¹ do tego doprowadzaæ.
+bapp021d	przyjrzyj siê dobrze ostatniej twarzy, jak¹ kiedykolwiek zobaczysz! He he he.
+bagb022	Wiedzia³em, ¿e deregulacja bankowoœci tak siê skoñczy.
 melu003	Oooh! Mon Dieu!
-melu005	Ah ha! ...Jestem genialny! Nie? Naprawione!...Oh, nie... mój piêkny obraz.  Zniszczony!
-melu005a	Ah ha! ...Jestem genialny! Nie? Naprawione!
-melu005b	Oh, nie... mój piêkny obraz.  Zniszczony!
-nocd001	Nie wieræ siê tak!
-nocd005	No dobra... zobaczmy czy œrubka ci pasuje.
+melu005	Ah ha! Jestem genialny! No i... Naprawione!... Oh, nie... mój piêkny obraz.  Zniszczony!
+melu005a	Ah ha! Jestem genialny! Naprawione!
+melu005b	Oh, nie... mój piêkny obraz. Zniszczony!
+nocd001	Nie wieræ siê!
+nocd005	No dobra... sprawdŸmy tê œrubkê.
 nopp003	Nie pasuje!
 nocd004	Cicho b¹dŸ!
-nogb002	Jeœli nos pasuje to znaczy ¿e to ty!
-nopp006	Nie widzia³em tej œrubki nigdy na oczy!
-nocd007	Cicho b¹dŸ! No, dobra, s¹dze ¿e Pana imie jest teraz czyste.
-nocd008	Zróbmy coœ z pañsk¹ obr¹czkê
-nogb009	Oh, Um, no tak, ha, ³añcuszek.
+nogb002	Œrubka pasuje, zbrodnie wykasuje!
+nopp006	W ¿yciu jej nie widzia³em na oczy!
+nocd007	Cicho b¹dŸ! No, dobra. Myœlê, ¿e to oczyszcza pañskie imiê.
+nocd008	Proszê mi pokazaæ nogê.
+nogb009	Oh, Um, no tak. Ha, ³añcuszek.
 nocd010	Chwileczkê.  Mo¿e powinienem ciê dok³adniej sprawdziæ.  To, ¿e nie obrabowa³eœ banku, nie oznacza, ¿e nie jesteœ poszukiwany za inne, bardziej ohydne przestêpstwa.
-nocd010a	Chwileczkê.  Mo¿e powinienem ciê dok³adniej sprawdziæ.  
-nocd010b	To, ¿e nie obrabowa³eœ banku,
-nocd010c	nie oznacza, ¿e nie jesteœ poszukiwany za inne, bardziej ohydne przestêpstwa.
-nopp011	Hej! On kradnie kaczki!
+nocd010a	Chwileczkê.  Mo¿e powinienem pana dok³adniej sprawdziæ.  
+nocd010b	To, ¿e nie obrabowa³ pan banku,
+nocd010c	nie oznacza, ¿e nie jest pan poszukiwany za inne, bardziej ohydne przestêpstwa.
+nopp011	Hej! Ukrad³ mi kaczkê!
 nogb012	Cicho b¹dŸ!
-nocd014	Z drugiej strony, bez piêtna zbrodniczej kradzie¿y wisz¹cego nad twoj¹ g³ow¹, wydajesz siê ca³kiem nieszkodliwy, wiêc zmykaj!
-nocd014a	Z drugiej strony, bez piêtna zbrodniczej kradzie¿y wisz¹cego nad twoj¹ g³ow¹,
-nocd014b	wydajesz siê ca³kiem nieszkodliwy, wiêc zmykaj!
-nogb015	Hej, proszê mnie nie obra¿aæ.
+nocd014	Z drugiej strony, bez piêtna zbrodniczej kradzie¿y wisz¹cego nad pañsk¹ g³ow¹, wydaje siê pan nieszkodliwy. Mo¿e pan odejœæ!
+nocd014a	Z drugiej strony, bez piêtna zbrodniczej kradzie¿y wisz¹cego nad pañsk¹ g³ow¹,
+nocd014b	wydaje siê pan nieszkodliwy. Mo¿e pan odejœæ!
+nogb015	Hej, czy to by³a ujma?
 dop5001	L¹d!
 dogb002	...i tak zepchn¹³em tê piracinê za balustradê!
 dogb002a	...Umph!
@@ -9724,76 +9724,76 @@ doel010a	Gdzie komitet powitalny? Transparenty?
 doel010b	Mia¿d¿¹cy t³um ¿yczliwych osób? Och, skarbie,
 doel010c	wiesz, co to oznacza?
 dogb011	Kolejne 3 miesi¹ce miodowe?
-h1el001	To chyba jakiœ b³¹d.
-h1es002	Raczej tak, gubernatorze.  Kampania Charlesa "Dobre czasy/Darmowy grog" da³a mu 23% przewagê we wszystkich sonda¿ach.
-h1es002a	Raczej tak, gubernatorze.
-h1es002b	Kampania Charlesa "Dobre czasy/Darmowy grog"
-h1es002c	da³a mu 23% przewagê we wszystkich sonda¿ach.
-h1el003	A mo¿e...
-h1gb004	Skarbie, ju¿ jestem!
-h1el005	Guybrush! Ach! W koñcu jesteœ.
-h1gb006	Tak, i zobacz, co ci przynios³em!
-h1gb007	Eh. Oh, czekaj to nie to...
+h1el001	To niemo¿liwe.
+h1es002	Niestety tak jest, gubernatorze.  Kampania Charlesa "Dobre czasy, darmowy grog" da³a mu 23% przewagê we wszystkich sonda¿ach.
+h1es002a	Niestety tak jest, gubernatorze.
+h1es002b	Kampania Charlesa "Dobre czasy, darmowy grog"
+h1es002c	daje mu 23% przewagê we wszystkich sonda¿ach.
+h1el003	Ale...
+h1gb004	Skarbie, wróci³em!
+h1el005	Guybrush! Ach! Ju¿ jesteœ!
+h1gb006	Tak. I zobacz, co mam!
+h1gb007	Eh. Oh, czekaj. To nie to...
 h1el008	Guybrushu, to wspania³e!  Estabanie, zanieœ te papiery do ratusza i uratuj moj¹ posiad³oœæ!
 h1el008a	Oh, Guybrushu, to cudownie!
 h1el008b	Estabanie, zanieœ te papiery do ratusza i uratuj moj¹ posiad³oœæ!
-h1el009	Oh, Guybrush! Tak siê ciesze ¿e cie widze! Co tak d³ugo?
+h1el009	Oh, Guybrushu! Tak siê cieszê, ¿e ciê widzê! Co tak d³ugo?
 h1gb010	Có¿, to zabawne.  Wszystko zaczê³o siê, gdy poszed³em szukaæ beznosego pirata...
 h1gb010a	Có¿, to zabawne. 
 h1gb010b	Wszystko zaczê³o siê, gdy poszed³em szukaæ beznosego pirata...
-h1gb011	... a wtedy Ozzie mówi ¿e przerobi mój statek na lalkê barbie
-h1gb012	... po tym zaatakowa³a mnie banda wœciek³ych misiów koala
+h1gb011	... a wtedy Ozzie mówi, ¿e mam kuku na muniu...
+h1gb012	... po tym zaatakowa³a mnie armia koali!
 h1gb013	...i tak, prawnicy u¿yli aktu Marleya do sporz¹dzenia dokumentów prawnych, aby uratowaæ rezydencjê, a ja wróci³em tutaj.
 h1gb013a	...i tak, prawnicy u¿yli aktu Marleya do sporz¹dzenia 
 h1gb013b	dokumentów prawnych, aby uratowaæ rezydencjê, a ja wróci³em.
 h1el024	Có¿, wydaje siê, ¿e najrozs¹dniej by³oby zniszczyæ schedê po moim dziadku, aby nikt nie móg³ dostaæ w swoje rêce Talizmanu Upokorzenia, czymkolwiek on jest.
-h1el024a	 Có¿, wydaje siê, ¿e najrozs¹dniej by³oby
-h1el024b	zniszczyæ schedê po moim dziadku,
-h1el024c	aby nikt nie móg³ dostaæ w swoje rêce Talizmanu Upokorzenia, czymkolwiek on jest.
-h1gb025	Rzeczywiœcie. Fajna sztuczka?
+h1el024a	Có¿, wydaje siê, ¿e najrozs¹dniej by³oby
+h1el024b	zniszczyæ schedê po moim dziadku.
+h1el024c	¯eby nikt nie móg³ dorwaæ siê do Talizmanu Upokorzenia, czymkolwiek on jest.
+h1gb025	Zgoda. Chcesz ognia?
 h1ch027	Mwah-hah-haaaa!
 h1el029	Charles, ty manipuluj¹ca ³asico, wynoœ siê z tego domu, zanim naszczujê na ciebie moje pirania pudle!
 h1el029a	Charles, ty manipulacyjna gnido.
 h1el029b	wynoœ siê z tego domu, zanim naszczujê na ciebie moje pirania pudle!
 h1gb028	Jejku!
-h1ch030	Tak, tak, ale teraz Pani Marley
+h1ch030	Moja droga pani Marley...
 h1gb031	Threepwood
-h1ch032	czy zna pani jakiœ inny sposób na komunikowanie siê z Gubernatorem Wyspy Szpady?
+h1ch032	...czy wypada siê tak zwracaæ do nastêpnego gubernatora Wyspy Szpady?
 h1el033	Nie dbam o sonda¿e, piraci ze Szpady przejrz¹ wasze tkanki fa³szywych nadziei i pustych obietnic!
-h1el033a	Nie dbam o sonda¿e,
-h1el033b	piraci ze Szpady przejrz¹ wasze tkanki
-h1el033c	fa³szywych nadziei i pustych obietnic!
-h1ch034	Mwah-hah-haaaa!  Piraci Szpady nie widz¹ przez okno!  Nie widz¹ nawet tego, co jest tu¿ przed nimi!
-h1ch034a	Mwah-hah-haaaa!  Piraci Szpady nie widz¹ przez okno!
+h1el033a	Nie dbam o sonda¿e.
+h1el033b	Piraci ze Szpady w koñcu przejrz¹ twoje
+h1el033c	fa³szywe u³udy i puste obietnice!
+h1ch034	Mwah-hah-haaaa!  Piraci Szpady nie wiedz¹, jak przejrzeæ siê w lustrze!  Nie widz¹ nawet tego, co jest tu¿ przed nimi!
+h1ch034a	Mwah-hah-haaaa!  Piraci Szpady nie wiedz¹, jak przejrzeæ siê w lustrze! 
 h1ch034b	Nie widz¹ nawet tego, co jest tu¿ przed nimi!
-h1gb035	O czym ty pieprzysz?
-h1ch036	Nic nie widz¹, tylko wielkie k³amstwo...
-h1ch037	czyli...
-h1ch038	samych...
-h1ch039	 ...SIEBIE!
+h1gb035	O czym ty mówisz?
+h1ch036	O najwiêkszym ³garstwie...
+h1ch037	 
+h1ch038	ze...
+h1ch039	 ...WSZYSTKICH!
 h1el040	LeChuck!
 h1gb041	LeChuck!
 h1lc042	Do waszych us³ug.
-h1lc043	Ale wystarczy ju¿ straszenia. Mam wybory do wygrania!
+h1lc043	Doœæ ju¿ przekomarzania! Mam wybory do wygrania!
 h1el044	Ha! Myœlisz ¿e ktoœ ciê wybierze, gdy rozpowiem, ¿e naprawdê jesteœ LeChuckiem?
-h1el044a	Ha! Myœlisz ¿e ktoœ ciê wybierze,
+h1el044a	Ha! Myœlisz, ¿e ktoœ ciê wybierze,
 h1el044b	gdy rozpowiem, ¿e naprawdê jesteœ LeChuckiem?
 h1lc045	Œmia³o, powiedz im.  Wykrzycz to z dachów.  Tylko mi pomo¿esz.  A kiedy mnie wybior¹, u¿yjê moich gubernatorskich mocy, by zg³êbiæ sekrety Talizmany Upokorzenia...
-h1lc045a	Œmia³o, powiedz im.  Wykrzycz to z dachów. 
-h1lc045b	Tylko mi pomo¿esz.  A kiedy mnie wybior¹,
-h1lc045c	¿yjê moich gubernatorskich mocy, by zg³êbiæ sekrety Talizmanu Upokorzenia...
-h1gb046	Huh?
+h1lc045a	Œmia³o, powiedz im. Wykrzycz to z dachów. 
+h1lc045b	Tylko mi pomo¿esz. A kiedy mnie wybior¹,
+h1lc045c	u¿yjê moich gubernatorskich mocy, by zg³êbiæ sekrety Talizmanu Upokorzenia...
+h1gb046	Co?
 h1lc047	Zgadza siê, Talizman Upokorzenia!  Dziêki jego niecnej mocy sprawiê, ¿e morza sp³yn¹ krwi¹ moich wrogów!  Sprowadzê si³y piekielne na wybrze¿a Karaibów!  I w koñcu uczyniê Elaine moj¹ chêtn¹ oblubienic¹!  Mwah-hah-hahhhhh!
-h1lc047a	Zgadza siê, Talizman Upokorzenia!
+h1lc047a	Zgadza siê, Talizmanu Upokorzenia!
 h1lc047b	Dziêki jego niecnej mocy sprawiê, ¿e morza sp³yn¹ krwi¹ moich wrogów!
 h1lc047c	Sprowadzê si³y piekielne na wybrze¿a Karaibów!  
 h1lc047d	I w koñcu uczyniê Elaine moj¹ chêtn¹ oblubienic¹!  Mwah-hah-hahhhhh!
-h1gb048	Tak? A ty walczysz jak wieprz!
+h1gb048	Tak? A ty walczysz jak krowa!
 e3el001	Dziêki za udzia³ w g³osowaniu!  Pamiêtaj, ¿e g³os oddany na mnie to g³os przeciwko piekielnym piratom!
 e3el001a	Dziêki za udzia³ w g³osowaniu!
-e3el001b	 Pamiêtaj, ¿e g³os oddany na mnie to g³os przeciwko piekielnym piratom!
-e3ch002	Dziêkujemy za wsparcie!  Dobre czasy i darmowy grog s¹ tu¿ za rogiem!
-e3ch002a	Dziêkujemy za wsparcie! 
+e3el001b	Pamiêtaj, ¿e g³os oddany na mnie to g³os przeciwko piekielnym piratom!
+e3ch002	Dziêkujê za wsparcie!  Dobre czasy i darmowy grog s¹ tu¿ za rogiem!
+e3ch002a	Dziêkujê za wsparcie! 
 e3ch002b	Dobre czasy i darmowy grog s¹ tu¿ za rogiem!
 e3el003	Nie g³osuj na Charlesa, to prawdziwy LeChuck - demoniczny pirat zombie z piek³a rodem!
 e3el003a	Nie g³osuj na Charlesa.
@@ -9805,55 +9805,55 @@ e3p4004c	Proszê jej wybaczyæ, panie Charles.
 e3ch005	Nie ma za co, dobry cz³owieku.
 e3el006	Aha! Ah! Tam, tam, widzicie!?  Charles to LeChuck, patrzcie!
 e3ch007	Na tym powinniœmy zakoñczyæ.  Chyba pójdê siê spakowaæ i przygotujê siê do przeprowadzki do rezydencji gubernatora. Ha ha ha ha. Yaaar!
-e3ch007a	Na tym powinniœmy zakoñczyæ.  Chyba pójdê siê spakowaæ
-e3ch007b	i rozpocznê przeprowadzkê do rezydencji gubernatora. Ha ha ha ha. Yaaar!n
-fioz001	Hej, o co tu chodzi?
-fioz002	LeChuck, idioto jeden! Przestañ to robiæ, natychmiast!
+e3ch007a	No, to chyba tyle.  Chyba zacznê siê pakowaæ
+e3ch007b	i rozpocznê przeprowadzkê do rezydencji gubernatora. Ha ha ha ha. Yaaar!
+fioz001	Hej, co tam siê dzieje?
+fioz002	LeChuck, ty kolosalny idioto. Rozkazujê ci natychmiast przestaæ!
 fioz003	Hej! Poczekaj chwilê... nie mo¿esz tego zrobiæ... jestem Ozzie Mandrill... jestem przysz³oœci¹ Karaibów... rozkazujê... przestañ... nie... Aaiiiiiiiiiiieeeeeee!
 fioz003a	Hej! Poczekaj chwilê... nie mo¿esz tego zrobiæ... jestem Ozzie Mandrill...
-fioz003b	jestem przysz³oœci¹ Karaibów... rozkazujê... przestañ... nie... Aaiiiiiiiiiiieeeeeee!
-fihn004	Taaaak...
-figb006	Taaaak...
+fioz003b	jestem przysz³oœci¹ Karaibów... rozkazujê... przestañ... nie...
+fihn004	Ewwwwww...... Yeaaaaaah..... Ewwwwwww......
+figb006	Ewwwwww...... Yeaaaaaah..... Ewwwwwww......
 guykab058	DUREÑ!
 hb2kab006	MATO£!!
 guykab055	DRAÑ!!!
 hb2kab004	IDIOTA!
-guykab056	IDIOTA!!!
+guykab056	FAJT£APA!!!
 hb2kab005	PACAN!!
 duca002	Te ignoranckie, anarchistyczne dzikusy!  Jak œmi¹ spiskowaæ przeciwko mojej dobroczynnej tyranii!  Simkins!  Wyci¹gn¹æ naprawdê wielkie dzia³o!
 duca002a	Te ignoranckie, anarchistyczne dzikusy! 
 duca002b	Jak œmi¹ spiskowaæ przeciwko mojej dobroczynnej tyranii!
 duca002c	Simkins!  Wyci¹gn¹æ naprawdê wielkie dzia³o!
-dusi003	Na pewno? W naszych uszach wci¹¿ dzwoni od ostatniego razu.
+dusi003	Musimy? W uszach wci¹¿ mi dzwoni po ostatnim razie.
 duca004	Mam ju¿ doœæ twojej ma³odusznej niesubordynacji, Simkins!  A teraz wytocz naprawdê wielkie dzia³o i wysadŸ tych terrorystów w tej chwili!
 duca004a	Mam ju¿ doœæ twojej ma³odusznej niesubordynacji, Simkins!
 duca004b	A teraz wytocz naprawdê wielkie dzia³o i wysadŸ tych terrorystów w tej chwili!
-dusi005	Aj - Aj, kapitanie....
+dusi005	Aj-aj, kapitanie....
 duca006	OGNIA!
-dugb007	Wow, no i jest...Br¹zowa Czapka Tiniego LeFeet!
-hehn009	Ok, po pierwsze, nazywam siê Herman Zgni³yz¹b.
-hegb010	Tak? A co to jest?
+dugb007	£a³, no i jest... Br¹zowa czapka Tiniego LeFeet!
+hehn009	Ok, po pierwsze, nie nazywam siê Herman Zgni³yz¹b.
+hegb010	Tak? To jak?
 hehn011	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p, nie maj¹c nic poza rozwalonym akordeonem, wiêkszoœci¹ ubrañ na grzbiecie i g³ow¹ pe³n¹ zepsutych wspomnieñ.
 hehn011a	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p,
 hehn011b	nie maj¹c nic poza rozwalonym akordeonem, wiêkszoœci¹ ubrañ na grzbiecie,
 hehn011c	i g³ow¹ pe³n¹ zepsutych wspomnieñ.
-hegb012	A nie mo¿e to trochê poczekaæ? Trochê mi œpieszno.
+hegb012	Czy to chwilê nie potrwa? Trochê mi siê spieszy.
 hehn013	Czekaj, blondi, to jest wa¿ne.
 hehn014	Jak wiele innych historii, ta równie¿ zaczê³a siê 20 lat temu w barze na drugim koñcu œwiata.  Ze spokojnej emerytury na Karaibach zwabi³ mnie dreszczyk niebezpieczeñstwa w regatach ¿eglarskich u wybrze¿y Australii.
 hehn014a	Jak wiele innych historii,
 hehn014b	ta równie¿ zaczê³a siê 20 lat temu w barze na drugim koñcu œwiata.
 hehn014c	Ze spokojnej emerytury na Karaibach zwabi³ mnie 
 hehn014d	dreszczyk niebezpieczeñstwa w regatach ¿eglarskich u wybrze¿y Australii.
-hegb015	Australia?  Czekaj chwilê....
-hehn016	Nie przerywaj, synku. Opowiadam historiê.
-hegb017	Sorka.
+hegb015	Australia? Czekaj chwilê....
+hehn016	Cicho, synku. Opowiadam historiê.
+hegb017	Wybacz.
 hehn018	W ka¿dym razie, w noc przed zawodami, przygotowywa³em siê do wyœcigu z kilkoma dzbanami grogu. Wtedy przy barze do³¹czy³ do mnie jeden z pozosta³ych zawodników; nieszczêœliwy australijski potentat o ma³o prawdopodobnym nazwisku Ozzie Mandrill.
 hehn018a	W ka¿dym razie, w noc przed zawodami,
 hehn018b	przygotowywa³em siê do wyœcigu z kilkoma dzbanami grogu. 
 hehn018c	Wtedy przy barze do³¹czy³ do mnie jeden z pozosta³ych zawodników; 
-hehn018d	nieszczêœliwy australijski potentat o ma³o prawdopodobnym nazwisku Ozzie Mandrill.
+hehn018d	nieszczêœliwy australijski potentat o w¹tpliwym nazwisku Ozzie Mandrill.
 hegb019	Nie!
-hehn020	Tak!  Biedak wydawa³ siê taki smutny, bo nikt nie chcia³ ju¿ robiæ z nim interesów.  Aby go pocieszyæ, uraczy³em go historiami o moich przygodach na nieokie³znanych morzach Karaibów.
+hehn020	Tak! Biedak wydawa³ siê taki smutny, bo nikt nie chcia³ ju¿ robiæ z nim interesów.  Aby go pocieszyæ, uraczy³em go historiami o moich przygodach na nieokie³znanych morzach Karaibów.
 hehn020a	Tak!
 hehn020b	Biedak wydawa³ siê taki smutny,
 hehn020c	bo nikt nie chcia³ ju¿ robiæ z nim interesów.  Aby go pocieszyæ,
@@ -9868,9 +9868,9 @@ hehn023b	zapomnia³em ju¿ o nas¹czonych grogiem szaleñstwach poprzedniej nocy.
 hehn023c	Nagle zosta³em staranowany przez inn¹ ³ódŸ
 hehn023d	wepchniêty w dziwaczny wir.
 hehn023e	To by³ nikt inny jak Ozzie.
-hegb024	Nienawidze jak tak siê dzieje.
+hegb024	Nienawidzê, jak tak siê dzieje.
 hehn025	Bêdzie gorzej.
-hegb026	Yipes.
+hegb026	Jejku.
 hehn027	Opowiedzia³em Ozziemu nie tylko o cudach Karaibów, ale tak¿e o wszystkich strasznych tajemnicach voodoo; tajemnicach, za które ludzie zabiliby, aby je posi¹œæ.  Opowiedzia³em mu o bramie do piek³a znanej jako "Big Whoop".  I o niewiarygodnym rodowodzie Trójg³owej Ma³py.  Co najgorsze, powiedzia³am mu o Talizmanie Upokorzenia - talizmanie voodoo, który potrafi³ zrobiæ myszy z ludzi!
 hehn027a	Opowiedzia³em Ozziemu nie tylko o cudach Karaibów,
 hehn027b	ale tak¿e o wszystkich strasznych tajemnicach voodoo;
@@ -9879,92 +9879,92 @@ hehn027d	Opowiedzia³em mu o bramie do piek³a znanej jako "Big Whoop".
 hehn027e	I o niewiarygodnym rodowodzie Trójg³owej Ma³py. 
 hehn027f	A co najgorsze: Powiedzia³em mu o Talizmanie Upokorzenia,
 hehn027g	talizmanie voodoo, który potrafi³ zrobiæ myszy z ludzi!
-hegb028	Przypomnij mi, ¿ebym nigdy nie zdradza³ sekretów.
+hegb028	Nigdy nie powierzaj mi sekretów.
 hehn029	Co dziwne, wir mnie nie zabi³; zamiast tego zrzuci³ mnie i mój rozbity statek na drug¹ stronê œwiata, ko³ysz¹c siê na œrodku Karaibów! Wyl¹dowa³em niedaleko st¹d - na brzegu tej pod³ej wysepki. Gdy czo³ga³em siê w górê pla¿y, fala gruzu spad³a na mnie. Dosta³em w czo³o moim ukochanym akordeonem z monogramem. Kiedy doszed³em do siebie, nie mia³em pojêcia kim jestem i sk¹d pochodzê.  Przyj¹³em imiê Herman "Zgni³yz¹b" Toothrot, od pozosta³ych liter na moim akordeonie... "H.T.".
 hehn029a	Co dziwne, wir mnie nie zabi³;
 hehn029b	zamiast tego zrzuci³ mnie i mój rozbity statek na drug¹ stronê œwiata,
 hehn029c	Kiedy doszed³em do siebie, nie mia³em pojêcia kim jestem i sk¹d pochodzê.
 hehn029d	Przyj¹³em imiê Herman "Zgni³yz¹b" Toothrot,
 hehn029e	od pozosta³ych liter na moim akordeonie... "H.T.".
-hegb030	H.T.?Czekaj, chyba nie chcesz mi wmówiæ ¿e tak na prawdê jesteœ...
-hehn031	Tak jest. Na prawdê nazywam siê Horatio...Torquemeda...Marley!
+hegb030	H.T.? Czekaj, chyba nie chcesz mi wmówiæ ¿e tak na prawdê jesteœ...
+hehn031	Tak jest. Na prawdê nazywam siê Horatio... Torquemeda... Marley!
 hegb032	Ale ty nie jesteœ gubernatorem Marleyem! Wszyscy wiedz¹, ¿e H.T. Marley zgin¹³ ponad 20 lat temu... u wybrze¿y Australii... w wyœcigu ³odzi....
 hegb032a	Ale ty nie jesteœ gubernatorem Marleyem! 
 hegb032b	Wszyscy wiedz¹, ¿e H.T. Marley zgin¹³ ponad 20 lat temu...
 hegb032c	u wybrze¿y Australii... w wyœcigu ³odzi....
 hegb033	Dziadku!
-hehn034	Zabieraj ode mnie swoje oœlizg³e rêce, ma³a oœmiornico!
-hegb035	Ale my jesteœmy rodzin¹, widzisz? Poœlubi³em twoj¹ wnuczkê, Elaine!
+hehn034	Zabieraj ode mnie swoje oœlizg³e rêce, przeklêta oœmiornico!
+hegb035	Ale my jesteœmy rodzin¹. Zobacz. Poœlubi³em twoj¹ wnuczkê, Elaine!
 hehn036	To cudowne. W koñcu pozby³am siê dwudziestoletniej amnezji i pierwsz¹ rzecz¹, jakiej siê dowiadujê, jest to, ¿e moja wnuczka wysz³a za m¹¿ za najbardziej ¿a³osn¹ wymówkê pirata na siedmiu morzach. Dajcie kokosa, ¿ebym móg³ wróciæ do tamtej b³ogiej nieœwiadomoœci...
 hehn036a	To cudowne. 
 hehn036b	W koñcu pozby³am siê dwudziestoletniej amnezji,
 hehn036c	i pierwsz¹ rzecz¹, jakiej siê dowiadujê, jest to, ¿e moja wnuczka
 hehn036d	wysz³a za m¹¿ za najbardziej ¿a³osn¹ wymówkê pirata na siedmiu morzach.
-hehn036e	Dajcie kokosa, ¿ebym móg³ wróciæ do tamtej b³ogiej nieœwiadomoœci...
-gmgb001	Phew. Ups. Lepiej siê st¹d ulotniê, zanim ktoœ zorientujê siê co zrobi³em.
+hehn036e	Ktoœ da mi kokosa, ¿ebym móg³ wróciæ do tamtej b³ogiej nieœwiadomoœci...
+gmgb001	Fiuu. Ups. Lepiej siê st¹d ulotniê, zanim ktoœ zorientuje siê, co narobi³em.
 gmhn002	Spokojnie, synu.
-gmhn003	PrzejedŸmy siê kawa³ek.
-gmgb005	Zgoda.
-gmjj004	Poci¹gnij no za t¹ dŸwigniê, widzisz?
-gmgb006	PrzejedŸmy? Co przez to rozumiesz?
+gmhn003	Jedziemy na ma³¹ przeja¿d¿kê.
+gmgb005	Jasne.
+gmjj004	Poci¹gnij za tamt¹ dŸwigniê, dobra?
+gmgb006	Przeja¿d¿kê? Co przez to rozumiesz?
 gmhn007	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady, aby uratowaæ moj¹ wnuczkê!
 gmhn007a	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady,
 gmhn007b	aby uratowaæ moj¹ wnuczkê!
-gmgb008	Gigantyczny ma³pi robot?  Hmm. Jesteœ pewien, ¿e odzyska³eœ ca³¹ pamiêæ?  Mo¿e uderzyæ ciê jeszcze raz...
-gmgb008a	 Gigantyczny ma³pi robot?  Hmm. Jesteœ pewien, ¿e odzyska³eœ ca³¹ pamiêæ?
-gmgb008b	Mo¿e uderzyæ ciê jeszcze raz...
+gmgb008	Gigantyczny Ma³pi Robot?  Hmm. Jesteœ pewien, ¿e odzyska³eœ ca³¹ pamiêæ?  Mo¿e uderzyæ ciê jeszcze raz...
+gmgb008a	Gigantyczny Ma³pi Robot? Hmm. Czy na pewno odzyska³eœ ca³¹ pamiêæ?
+gmgb008b	Mo¿e znowu ciê walnê...
 eyp3000a	Aaaagh....uuuugh.
 eyp3000b	Uuuugh....huuuugh.
 eyp1001	Uuuugh....huuuugh. Ha! "Dobre czasy, darmowy grog", moja dziobata pupko! Wszyscy powinniœcie siê wstydziæ!
-eyp1001a	Uuuugh....huuuugh. Ha! "Dobre czasy, darmowy grog", moja dziobata pupko!
+eyp1001a	Uuuugh....huuuugh. Ha! "Dobre czasy, darmowy grog", wy ospowate odw³oki!
 eyp1001b	Wszyscy powinniœcie siê wstydziæ!
-eyp2002	Nie patrz siê na mnie, parszywy kundlu. G³osowa³em na Elaine!
-eyp3003	Ja te¿ na pewno nie g³osowa³em na LeChucka!
+eyp2002	Nie patrz tak na mnie, parszywy kundlu. G³osowa³em na Elaine!
+eyp3003	Na pewno nie g³osowa³em na tego szczura w zêzie, LeChucka!
 eyp1004	Skoro NIKT na niego nie g³osowa³, to dlaczego jest gubernatorem?  I dlaczego jesteœmy zmuszani do budowania jego kolosalnego pomnika w centrum miasta?
-eyp1004a	Skoro NIKT na niego nie g³osowa³, to dlaczego jest gubernatorem?
-eyp1004b	I dlaczego jesteœmy zmuszani do budowania tego
-eyp1004c	kolosalnego pomnika w centrum miasta?
-eyp2005	Cisza!
+eyp1004a	Skoro NIKT z nas na niego nie g³osowa³, to dlaczego jest gubernatorem?
+eyp1004b	I dlaczego jesteœmy zmuszani do budowania mu
+eyp1004c	tego kolosalnego pomnika w centrum miasta?
+eyp2005	Cicho b¹dŸ!
 eyel007	To straszne.  LeChuck zniewoli³ mój lud!  Dobrze, ¿e mój dziadek nie ¿yje i tego nie widzi.  Ale dlaczego ka¿e im zbudowaæ ten pos¹g?  Co to ma wspólnego z Talizmanem Upokorzenia?  Co siê sta³o z Guybrushem?  Co to za zapach?
-eyel007a	To straszne.  LeChuck zniewoli³ mój lud! 
+eyel007a	To straszne. LeChuck zniewoli³ mój lud! 
 eyel007b	Dobrze, ¿e mój dziadek nie ¿yje i tego nie widzi. 
-eyel007c	Ale dlaczego ka¿e im zbudowaæ ten pos¹g?
+eyel007c	Ale dlaczego ka¿e im budowaæ ten pos¹g?
 eyel007d	Co to ma wspólnego z Talizmanem Upokorzenia? 
-eyel007e	Co siê sta³o z Guybrushem?  Co to za zapach?
-eypp008	Arrr, By³a-Gubernator Marley. Ciê¿ko jest kobiecie na to odpowiedzieæ, wiesz?
-eyel009	Na pewno sobie poradzê. Musisz byæ Pegnose Pete.
+eyel007e	Co siê sta³o z Guybrushem? Co to za zapach?
+eypp008	Arrr, eks-gubernator Marley. Ciê¿ko pani¹ znaleŸæ, wie pani?
+eyel009	NajwyraŸniej nie doœæ ciê¿ko. Ty musisz byæ Ko³konosy Pete.
 eypp010	Aj.  Gubernator i pan Mandrill maj¹ kilka pytañ, które chcieliby ci zadaæ.
 eypp010a	Aj.
-eypp010b	Aj.  Gubernator i pan Mandrill maj¹ kilka pytañ, które chcieliby ci zadaæ.
-eyel011	Rany, chcia³abym, ale planujê myæ w³osy przez nastêpne siedem lat.
+eypp010b	Gubernator i pan Mandrill maj¹ kilka pytañ do pani.
+eyel011	Rany, chcia³abym, ale planujê myæ w³osy przez kolejne siedem lat.
 eypp012	Muszê nalegaæ.
-eyel013	Cholera.
-h2gb001	Kochanie, w...róci³em?
+eyel013	Szlag.
+h2gb001	Kochanie, w... róci³em?
 h2lc002	Mwah-hah-hahhh!
 h2gb003	LeChuck!
-h2lc004	Teraz Gubernator LeChuck, Seepgood!
+h2lc004	Dla ciebie gubernator LeChuck, Seepgood!
 h2gb005	Nigdy!
 h2oz006	Jak widaæ.
-h2gb007	Ozzie!Czu³em ¿e pracujesz dla LeChucka!
-h2oz008	Ah, obawiam siê ¿e Ÿle czu³eœ, m³odzieñcze. LeChuck pracuje dla MNIE!
-h2gb009	To mi ul¿y³o.
+h2gb007	Ozzie! Czu³em, ¿e pracujesz dla LeChucka!
+h2oz008	Obawiam siê, ¿e zrozumia³ to pan opacznie. LeChuck pracuje dla MNIE!
+h2gb009	Có¿, to mi ul¿y³o.
 h2oz010	Gubernatorze LeChuck, czy by³byœ na tyle uprzejmy, aby uwolniæ pana Threepwooda od czêœci Talizmanu Upokorzenia.
-h2oz010a	Gubernatorze LeChuck, czy by³byœ na tyle uprzejmy, aby uwolniæ pana Threepwooda
-h2oz010b	od czêœci Talizmanu Upokorzenia.
-h2lc011	To dla mnie przyjemnoœæ, Panie Mandrill.
+h2oz010a	Gubernatorze LeChuck, czy by³by pan uprzejmy uwolniæ pana Threepwooda
+h2oz010b	z czêœci do Talizmanu Upokorzenia.
+h2lc011	Ahr, z przyjemnoœci¹, panie Mandrill.
 h2gb012	Nie rób tego, LeChuck!  On chce u¿yæ Talizmanu, by upokorzyæ ka¿dego pirata na Ziemi!
 h2gb012a	Nie rób tego, LeChuck! On chce u¿yæ Talizmanu, by upokorzyæ 
 h2gb012b	ka¿dego pirata na Ziemi!
 h2lc013	No i?
-h2gb014	Wiesz to?
-h2oz015	Oczywiœcie ¿e wiem, ty kupo odchodów kookaburra!
+h2gb014	Wiedzia³eœ?
+h2oz015	Oczywiœcie, ¿e wiedzia³, ty leniwa kupo odchodów kukabury!
 h2gb016	Ale czemu, LeChuck?  Dlaczego awanturniczy, choæ demonicznie z³y pirat, taki jak ty, mia³by dobrowolnie pomagaæ w masowej kastracji swych w³asnych pobratymców?
 h2gb016a	Ale czemu, LeChuck?  Dlaczego awanturniczy, choæ demonicznie z³y, 
-h2gb016b	pirat, taki jak ty, mia³by dobrowolnie pomagaæ w masowej kastracji swych w³asnych pobratymców?
+h2gb016b	pirat, jak ty, mia³by pomagaæ w masowej kastracji swych w³asnych pobratymców?
 h2lc017	To d³uga historia, Sheepgood...
-h2gb018	....Oh nie....
-h2lc019	-Ale zasadniczo s¹ dwa powody.  Po pierwsze... ten nicpoñ Mandrill wyci¹gn¹³ mnie spod góry lodu, pod któr¹ mnie zostawi³eœ, a LeChuck ZAWSZE sp³aca swoje d³ugi.
-h2lc019a	-Ale zasadniczo s¹ dwa powody.  Po pierwsze... ten nicpoñ Mandrill
+h2gb018	Oh, nie....
+h2lc019	Ale zasadniczo s¹ dwa powody.  Po pierwsze... ten nicpoñ Mandrill wyci¹gn¹³ mnie spod góry lodu, pod któr¹ mnie zostawi³eœ, a LeChuck ZAWSZE sp³aca swoje d³ugi.
+h2lc019a	Ale zasadniczo s¹ dwa powody. Po pierwsze... ten nicpoñ Mandrill
 h2lc019b	wyci¹gn¹³ mnie spod góry lodu, pod któr¹ mnie zostawi³eœ, 
 h2lc019c	a LeChuck ZAWSZE sp³aca swoje d³ugi.
 h2gb020	Jasne, wisisz mu coœ.  Ale po co iœæ z tym planem nieodwracalnego obra¿ania wszystkich piratów?
@@ -9977,7 +9977,8 @@ h2oz021c	LeChuck w koñcu bêdzie mia³ jedyn¹ rzecz, której zawsze pragn¹³ w ¿yciu
 h2oz021d	Lub, w tym przypadku, œmierci.
 h2gb022	Chyba nie mówisz o....
 h2lc023	Tak, rêka Elaine Marley!
-h2lc025	Myœlê ¿e mogê go puœciæ!
+h2gb024	S³ucham? Widzisz tê obr¹czkê na palcu? Troszeczkê siê spóŸni³eœ!
+h2lc025	Có¿, to siê da naprawiæ!
 h2oz026	LeChuck, nie! Mo¿e byæ potrzebny jako zak³adnik!
 h2gb027	Tak, zak³adnik!  Ale nawet jeœli mnie zabijesz, Elaine i tak nigdy za ciebie nie wyjdzie!  Nienawidzi twych zgni³ych wnêtrznoœci!
 h2gb027a	Tak, zak³adnik!
@@ -9988,7 +9989,7 @@ h2oz028a	Ah, na tym polega piêkno Talizmanu Upokorzenia, Threepwood.
 h2oz028b	Gdy twoja ¿ona zostanie wystawiona na jego ohydn¹, demoralizuj¹c¹ moc, 
 h2oz028c	jej ognisty piracki duch zostanie rozbity jak wiele jaj emu,
 h2oz028d	pozostawiaj¹c j¹ pos³uszn¹, uleg³¹ i pokorn¹. Heh heh.
-h2lc029	Innymi s³owy, idealna ¿ona! Ha ha! Oczywiœcie, jest jeszcze ma³a kwestia jej obecnego mê¿a-...
+h2lc029	Innymi s³owy, ¿ona idealna! Ha ha! Oczywiœcie, jest jeszcze ma³a kwestia jej obecnego mê¿a-...
 h2lc029a	Innymi s³owy, ¿ona idealna! Ha ha!
 h2gb042	Mówi¹c o ¿onie idealne, gdzie jest Elaine?
 h2oz034	Mieliœmy nadziejê, ¿e odpowie pan na to pytanie, panie Threepwood. Twoja psotna Sheila wyruszy³a w podró¿ zaraz po tym, jak kapitan LeChuck zosta³ wybrany na gubernatora tej naje¿onej piratami wyspy.
@@ -9997,98 +9998,98 @@ h2oz034b	Twoja psotna Sheila wyruszy³a w podró¿ zaraz po tym, jak kapitan LeChuc
 h2oz034c	zosta³ wybrany na gubernatora tej zaka¿onej piratami wyspy.
 h2gb035	I dobrze. Mam nadziejê, ¿e wróci z armi¹ piratów i skopie wam te ¿a³osne ty³ki.
 h2gb035a	I dobrze.
-h2gb035b	Mam nadziejê, ¿e wróci z armi¹ piratów i skopie wam te ¿a³osne ty³ki.
+h2gb035b	Mam nadziejê, ¿e wróci z armi¹ piratów i skopie wam wasze ¿a³osne ty³ki.
 h2lc031	Na pewno nie mogê go teraz zabiæ?  Wczeœniej zostawia³em go przy ¿yciu i okazywa³o siê to wielkim b³êdem.
 h2lc031a	Na pewno nie mogê go teraz zabiæ? 
-h2lc031b	Wczeœniej zostawia³em go przy ¿yciu i okazywa³o siê to wielkim b³êdem.
+h2lc031b	Wczeœniej zostawia³em go przy ¿yciu i zawsze okazywa³o siê to wielkim b³êdem.
 h2oz038	Rozumiem. A mo¿e go schowamy w jakimœ niedostêpnym, odleg³ym miejscu, gdzie nic nie odwali? Dalej bêdzie u¿ytecznym zak³adnikiem, ale nie bêdzie móg³ wp³yn¹æ na nasze plany?
 h2oz038a	Rozumiem.
-h2oz038b	Rozumiem. A mo¿e go schowamy w jakimœ niedostêpnym,
+h2oz038b	A mo¿e go schowamy w jakimœ niedostêpnym,
 h2oz038c	odleg³ym miejscu, gdzie nie zrobi nam szkody?
 h2oz038d	Dalej bêdzie u¿ytecznym zak³adnikiem, ale nie bêdzie móg³ wp³yn¹æ na nasze plany?
-h2lc039	Ha ha! To piekielnie dobry pomys³. I znam odpowiednie miejsce... Mwah-hah-hahhhh!
+h2lc039	Ha ha! To piekielnie dobry pomys³. I znam idealne miejsce... Mwah-hah-hahhhh!
 h2oz040	Mwah-hah-haaaah!
 h2gb041	Mwah-hah-ha-ha-ha-ha-ha?
-ozlc010	Blast!
-ozoz011	Coœ nie tak, ty o¿ywiona bry³o szcz¹tków statku?
+ozlc010	Diabli!
+ozoz011	Co znowu, ty o¿ywiony voodoo wraku?
 ozlc012	Ju¿ ci mówiê!  Ten twój "Talizman Upokorzenia" nie dzia³a!  Próbowa³em waliæ nim w ka¿dy rupieæ w tej przeklêtej ruderze, ale nic siê nie dzieje!
-ozlc012a	Ju¿ ci mówiê!  Ten twój "Talizman Upokorzenia" nie dzia³a!  
+ozlc012a	Ju¿ ci mówiê! Ten twój "Talizman Upokorzenia" nie dzia³a!  
 ozlc012b	Próbowa³em waliæ nim w ka¿dy rupieæ w tej przeklêtej ruderze,
 ozlc012c	ale nic siê nie dzieje!
-ozel013	Ha! S¹dzê ¿e Dziadek by³ za bystry dla ciebie ¿ebyœ dobie sam poradzi³!
+ozel013	Ha! Jednak dziadek przechytrzy³ wasze diabelskie dodo.
 ozpp009	Cicho b¹dŸ!
 ozoz014	Grrr.
 ozlc015	Grrr.
 ozel016	Grrr.
-ozoz017	Co w imieniu "Adam Smith" jest dla ciebie niewidzialnego?
-ozel018	To? Oh, to nic. Tylko kupa œmieci kupiona na miesi¹cu miodowym...
-ozlc019	Arrr, Gubernatorska Pieczêæ Wyspy Szpady! No tak!
+ozoz017	Co, w imieniu niewidzialnej rêki Adama Smitha, to jest?
+ozel018	To? Oh, to nic. To jakiœ bibelot kupiony podczas miesi¹ca miodowego...
+ozlc019	Arrr, gubernatorska pieczêæ Wyspy Szpady! No tak!
 ozoz020	Zobaczmy.
 ozoz021	Wygl¹da na to, ¿e ogoliliœmy przys³owiowego dingo. Przetestujmy tego gnojka. Ko³konos?
 ozoz021a	Wygl¹da na to, ¿e ogoliliœmy przys³owiowego dingo. 
 ozoz021b	Przetestujmy to cholerstwo. Ko³konos?
 ozpp022	Co?
-ozoz023	Móg³byœ byæ tak mi³y i stan¹æ tam?
+ozoz023	By³byœ tak mi³y i stan¹³ tam dalej?
 ozpp024	Panie "Wielki i Potê¿ny" Mandrill, strasznie mnie mêczy to wykonywanie twoich rozkazów. Najwy¿szy czas renegocjowaæ warunki mojego zatrudnienia.
-ozpp024a	Panie "Wielki i Potê¿ny" Mandrill,
-ozpp024b	mêczy mnie to wykonywanie Pañskich rozkazów.
+ozpp024a	S³uchaj, panie "Wielki i Potê¿ny" Mandrill,
+ozpp024b	mêczy mnie to wykonywanie pañskich rozkazów.
 ozpp024c	Najwy¿szy czas renegocjowaæ warunki mojego zatrudnienia.
 ozoz025	Albo co?
 ozpp026	Albo nape³niê twój brzuch o³owiem, ty zasmarkana skamielino!  Nikt nie zadziera z Ko³konosem Piratem i ¿yje, by o tym opowiadaæ!  Oderwê ci rêce i zniszczê ciê...
 ozpp026a	Albo nape³niê twój brzuch o³owiem, ty zasmarkana skamielino!
 ozpp026b	Nikt nie zadziera z Ko³konosem Piratem i ¿yje, by o tym opowiadaæ! 
 ozpp026c	Oderwê ci rêce i zniszczê ciê...
-ozoz027	Tak mówisz?
-ozpp028	Proszê mnie nie krzywdziæ, panie Mandrill!  Obiecujê, ¿e od teraz zrobiê wszystko, co mi Pan ka¿e!
+ozoz027	Co mówi³eœ?
+ozpp028	Proszê mnie nie krzywdziæ, panie Mandrill!  Obiecujê, ¿e od teraz zrobiê wszystko, co mi pan ka¿e!
 ozpp028a	Proszê mnie nie krzywdziæ, panie Mandrill! 
-ozpp028b	Obiecujê, ¿e od teraz zrobiê wszystko, co mi Pan ka¿e!
-ozoz029	WeŸ sobie d³ugi spacer po molo, ty nêdzny nieszczêœniku.
+ozpp028b	Obiecujê, ¿e od teraz zrobiê wszystko, co mi pan ka¿e!
+ozoz029	WeŸ d³ugi spacer po krótkim molo, ty nêdzny nieszczêœniku.
 ozpp030	Rozkaz!
 ozoz031	Có¿, pani Threepwood, wygl¹da na to, ¿e moc Talizmanu jest wreszcie moja! Heh heh.
-ozoz031a	Dobrze, Pani Threepwood.
+ozoz031a	Có¿, pani Threepwood.
 ozoz031b	wygl¹da na to, ¿e moc Talizmanu jest wreszcie moja! Heh heh.
-ozlc032	Daj mi go u¿yæ na Elaine!  Ze z³amanym duchem w koñcu zgodzi siê zostaæ moj¹ narzeczon¹!
-ozlc032a	Daj mi go u¿yæ na Elaine!
+ozlc032	U¿yjmy go na Elaine!  Ze z³amanym duchem w koñcu zgodzi siê zostaæ moj¹ narzeczon¹!
+ozlc032a	U¿yjmy go na Elaine!
 ozoz033	Wszystko w swoim czasie. Najpierw dajmy jej przedsmak tego, co nadejdzie, niszcz¹c ego jej wszystkich pirackich przyjació³!
 ozoz033a	Wszystko w swoim czasie. Najpierw
 ozoz033b	dajmy jej przedsmak tego, co nadejdzie.
 ozlc034	Ah ha ha ha. Jesteœ sadyst¹ na miarê mojego sczernia³ego serca, Mandrill.
 ozoz035	Przez lata Karaibami targa³y nieprzewidywalne wiatry szalej¹cego piractwa. Teraz, moc¹ Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze i zapocz¹tkowujê now¹ erê uporz¹dkowanego konsumpcjonizmu! Ha! Jestem Ozzie Mandrill: Spójrzcie na moje dzie³o, potê¿ni piraci, i rozpaczajcie!!! Ha!
 ozoz035a	Przez lata Karaibami targa³y nieprzewidywalne
-ozoz035b	wiatry uciekaj¹cego piractwa.
+ozoz035b	wiatry hulaj¹cego piractwa.
 ozoz035c	Teraz, moc¹ Talizmanu Upokorzenia, niniejszym wyganiam te chaotyczne burze
-ozoz035d	i zapocz¹tkowujê now¹ erê uporz¹dkowanego konsumpcjonizmu! Jam Ozzie Mandrill:
+ozoz035d	i zapocz¹tkowujê erê uporz¹dkowanego konsumpcjonizmu! Jam Ozzie Mandrill.
 ozoz035e	Spójrzcie na moje dzie³o, potê¿ni piraci, i rozpaczajcie!!! Ha!
 ozel036	Nieeee!
-ozoz037	Gdzie jest to bum? Mia³o byæ wstrz¹saj¹ce Karaiby bum! Zacznij dzia³aæ, do cholery!
-ozoz037a	Gdzie jest to bum? Mia³o byæ wstrz¹saj¹ce Karaiby bum!
+ozoz037	Gdzie jest bum? Mia³o byæ wstrz¹saj¹ce Karaiby bum! Zacznij dzia³aæ, do cholery!
+ozoz037a	Gdzie jest kabum? Mia³o byæ wstrz¹saj¹ce Karaiby kabum!
 ozoz037b	Zacznij dzia³aæ, do cholery!
 ozlc038	Wiedzia³em, ¿e ten absurdalny plan nigdy siê nie uda. To tylko pokazuje, ¿eby nigdy nie wysy³aæ australijskiego siusiumajtka do wykonania pracy dla prawdziwego pirata.
 ozlc038a	Wiedzia³em, ¿e ten absurdalny plan nigdy siê nie uda.
 ozlc038b	To tylko pokazuje, ¿eby nigdy nie wysy³aæ australijskiego siusiumajtka
 ozlc038c	do pracy dla prawdziwego pirata.
-ozoz039	LeChuck! Wracaj do mnie i pomó¿ mi naprawiæ to cudo!
-ozel040	Oh Ozzieee...
-ozgb041	Wy dwaj, zostaæ tu i pilnowaæ robota!
+ozoz039	LeChuck! Wracaj tu i pomó¿ mi to naprawiæ!
+ozel040	Ozzieee...
+ozgb041	Zostañcie tu i pilnujcie robota!
 ozjj042	Powodzenia!
-ozhn043	I nie zepsujcie mi tam nic!
-ozhn044	Mi³y dzieciak, ale tak bystry jak woda w klozecie, rozumiesz mnie?
-ozjj045	Powiedz mi o tym,
-ozgb047	Skarbie, ju¿ jestem!
+ozhn043	Tylko nic mi tam nie uszkodŸ!
+ozhn044	Mi³y ch³opak, ale tak bystry jak woda w klozecie, rozumiesz mnie?
+ozjj045	Nic mi nie mów.
+ozgb047	Skarbie, wróci³em!
 ozoz047d	Agh!
-ozel048	Guybrush!  Obserwuj uwa¿nie....
-ozel049	...Talizman Upokorzenia.
+ozel048	Guybrush! Uwa¿aj na...
+ozel049	Talizman Upokorzenia.
 ozoz050	Nie wiem, jak wy, g³¹by, zdo³aliœcie sabotowaæ mój wspania³y Aparat Wzmacniaj¹cy Zniewagi, ale bêdê mia³ przynajmniej satysfakcjê z unicestwienia waszych aroganckich pirackich dusz!
 ozoz050a	Nie wiem, jak wy, g³¹by, zdo³aliœcie sabotowaæ
 ozoz050b	mój wspania³y Aparat Wzmacniaj¹cy Zniewagi,
-ozoz050c	ale bêdê mia³ przynajmniej satysfakcjê z unicestwienia waszych aroganckich pirackich dusz!
-ozgb051	Jakoœ zawsze siê spodziewa³em ¿e tak to siê skoñczy.
+ozoz050c	ale bêdê mia³ chocia¿ satysfakcjê z unicestwienia waszych pirackich dusz!
+ozgb051	Jakoœ zawsze czu³em, ¿e tak to siê skoñczy.
 ozel052	Serio?
-ozoz053	Przygotuj siê na œmieræ, Threepwood!
-ozoz054	Co to do cholery jest?
+ozoz053	Przygotujcie siê na œmieræ, Threepwoody!
+ozoz054	Co to za aborygeñska tuba?
 ozgb055	Spadajmy st¹d!
-ozoz056	Nie uciekniesz tak ³atwo, ty piracki konusie!
-ozoz057	Wielka Rafa Koralowa!
+ozoz056	Tak ³atwo was nie puszczê, wy zawadiackie ciamajdy!
+ozoz057	Wielka Rafo Koralowa!
 ozlc058	Arrr, wygl¹dacie jak mrówki z tak wysoka!
 ozel059	Guybrush?
 ozgb060	Tak?
@@ -10104,39 +10105,38 @@ ozgb069	Trzymaj siê, zaraz wrócê!
 ozel070	Guybrush, nie wa¿ siê mnie zostawiaæ!
 ozlc071	Nie martw siê, moja droga. Guybrush nigdzie nie idzie!
 ozgb065a	 
-ozoz072	IdŸ st¹d, ty skalny mó¿d¿ku potwornoœci!
+ozoz072	Puszczaj, ty zakuty skalny ³bie!
 ozlc073	Ty nudna, œmiertelna pch³o!  Jak œmiesz w³adaæ swoimi ¿a³osnymi sztuczkami przeciwko mej nieokie³znanej potêdze!  Zmielê twe koœci na grog, ty potrójny... czasowy... draniu!
-ozlc073a	Ty nudna, œmiertelna pch³o!  Jak œmiesz w³adaæ swoimi
-ozlc073b	¿a³osnymi sztuczkami przeciwko mej nieokie³znanej potêdze! 
-ozlc073c	Zmielê twe koœci na grog, ty potrójny... czasowy... draniu!
-ozoz074	Oh, zamknij ryj!
+ozlc073a	Ty nieistotna, œmiertelna pch³o!  Jak œmiesz kierowaæ swe
+ozlc073b	¿a³osne sztuczki przeciwko wiecznej potêdze Demonicznego Pirata LeChucka! 
+ozlc073c	Zmielê twe koœci na grog, ty po trzykroæ... draniu!
+ozoz074	Oh, zamknij siê.
 ozlc075	Jak mogê ci s³u¿yæ, panie?
 ozoz076	Có¿, ostatecznie bêdê chcia³, abyœ zgniót³ ka¿dego pirata na powierzchni planety w lepk¹ czerwon¹ maŸ, ale teraz... ZABIJ GUYBRUSH THREEPWOOD!
-ozoz076a	Có¿, bêdê chcia³, abyœ zgniót³ ka¿dego pirata na powierzchni
+ozoz076a	Có¿, docelowo pragnê, abyœ zgniót³ ka¿dego pirata na powierzchni
 ozoz076b	planety w lepk¹ czerwon¹ maŸ, ale teraz... 
 ozoz076c	ZABIJ GUYBRUSHA THREEPWOODA!
 ozhn077a	Ugh...Ugh...
 ozhn077b	Ugh...Ugh...Ugh...
 ozhn077c	Ooh!
-ozgb078	No dalej, bracia, musimy rozruszaæ tego Wielkiego Ma³piego Robota. TERAZ!
+ozgb078	Dobra ch³opaki. Musimy rozruszaæ tego Wielkiego Ma³piego Robota. TERAZ!
 ozhn079	Gdzie moja wnuczka?
-ozgb080	Wiesz, to zabawna historia, ale....
+ozgb080	Wiesz, to zabawna historia....
 ozoz081	THREEPWOOD!
-ozoz082	Sk¹d¿e ¿eœ wzi¹³ tak œmiesznie wygl¹daj¹ce ustrojstwo?
-ozgb083	To by³ prezent....od H.T. Marleya!
-ozel084	Dziadka?
-ozhn085	Tutaj jestem, skarbie!
+ozoz082	Sk¹d ¿eœ wzi¹³ to ¿a³oœnie wygl¹daj¹ce ustrojstwo?
+ozgb083	To prezent... od H.T. Marleya!
+ozel084	Dziadek?
+ozhn085	Tu jestem, skarbie!
 ozoz086	Có¿ za rodzinne spotkanie! Szkoda, ¿e muszê to zepsuæ, niszcz¹c wasze s³abe umys³y moc¹ Talizmanu Upokorzenia!
-ozoz086a	Có¿ za rodzinne spotkanie!
-ozoz086b	szkoda, ¿e muszê to zepsuæ, niszcz¹c wasze s³abe umys³y 
+ozoz086a	Có¿ za nieoczekiwane rodzinne spotkanie!
+ozoz086b	Szkoda, ¿e muszê je zepsuæ, niszcz¹c wasze mizerne umys³y 
 ozoz086c	moc¹ Talizmanu Upokorzenia!
-ozoz087	I co teraz?
-ozjj088	Teraz ju¿ jest do niczego.
-ozjj089	Nadszed³ czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p.  Czas na Talizman Up...
-ozjj089a	Nadszed³ czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p.
-ozjj089b	Czas na Talizman Up...
+ozoz087	Co teraz?
+ozjj088	Teraz jesteœ zgubiony, z³oczyñco.
+ozjj089	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p. Czas na talizman...
+ozjj089a	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p.
+ozjj089b	Czas na ostateczn¹...
 ozjj090	KRAV MAAAAA£PÊ!
-h2gb024	S³ucham? Widzisz ten pierœcionek na palcu? Troszeczkê siê spóŸni³eœ!
 txtall222	SHIFT
 txtall001	Symbol Gubernatora Wyspy Szpady
 txtall002	Obejrzyj:
@@ -10759,7 +10759,7 @@ txthos008	Naciœnij:
 txthos009	liczyd³o
 txthos010	sprzedawca lasek
 txthos011	Freddie
-txthos012	laska Pana Mandrilla
+txthos012	laska pana Mandrilla
 txthos013	drzwi
 txtjam001	pirackie miasto szant
 txtjam002	Przycumuj do:
@@ -11505,18 +11505,18 @@ txtall501	Joy hat left
 txtall502	Joy hat right
 txtall503	By³em tam, zrobi³em to
 txtall504	Chcia³em to zrobiæ
-txtall505	"Tam dom twój, gdzie serce twoje"
-txtall506	Guybrush Spotyka Swój Odpowiednik
-txtall507	Dobre Czasy i Darmowy Grog
-txtall508	Nikt nie ma pojêcia o k³opotach na mojej scenie
-txtall509	Szokuj¹c¹ Prawda o Charlesie
+txtall505	Tam dom twój, gdzie twoje ma³py
+txtall506	Guybrush spotyka swoj¹ partiê
+txtall507	Dobre czasy i darmowy grog
+txtall508	Z ko³kiem mu do twarzy
+txtall509	Szokuj¹c¹ prawda o Charlesie
 txtall510	Sushi + P³omienie = Zabawa
 txtall511	Kontrola obrotów
-txtall512	Gadaj z Rêk¹
-txtall513	Guybrush i Porwania
-txtall514	Wyznania H.T. Marley
-txtall515	ŒmierdŸ po cichu
-txtall516	Prawdziwy Sekret Wyspy Ma³p
+txtall512	Mów do rêki
+txtall513	Uprowadzony
+txtall514	Wyznanie H.T. Marley
+txtall515	Cuchnij po cichu
+txtall516	Prawdziwy sekret Wyspy Ma³p
 txtall517	Talizman Upokorzenia
 txtall518	Ostateczna Kontra
 txtulg001	???
@@ -12092,7 +12092,7 @@ hehn005	Ozzie Mandrill?  Pierwsze s³yszê... Huh! Czekaj, teraz pamiêtam!  Oh...n
 hehn007	Kto?  A tak, to ja.  Herman.  Heh. Heh. Heh. S³uchaj, m³ody, lepiej usi¹dŸ, bo mam dla ciebie zdumiewaj¹ce wieœci.
 hehn052	Ah. To dobrze.  Dopóki Ozzie i LeChuck jej nie znajd¹, nigdy nie bêd¹ w stanie wykonaæ Talizmanu Upokorzenia.
 madl004	Spójrz na siebie, chodzisz jakbyœ mia³ bukszpryt na... Hej! Co to ma byæ?
-murgpt025	(Planeta Threepwood jest prawnym znakiem towarowym zastrze¿onym dla Pana Ozziego Mandrilla)
+murgpt025	(Planeta Threepwood jest prawnym znakiem towarowym zastrze¿onym dla pana Ozziego Mandrilla)
 navgpt029	Ten stary statek wymaga powa¿nych napraw, zanim znów wyruszy w podró¿.
 navscu120	Mówi³em...
 ozoz047a	Uuugh....ahhhh....ungh...uuungh...omph.

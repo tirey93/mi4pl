@@ -39914,6 +39914,11 @@ msgctxt "h2lc023"
 msgid "Yes, Elaine Marley's hand in marriage!"
 msgstr "Tak, ręka Elaine Marley!"
 
+msgctxt "h2gb024"
+msgid "Um, excuse me?  See the ring on this finger? You're a little late, bucko!"
+msgstr "Słucham? Widzisz ten pierścionek na palcu? Troszeczkę się spóźniłeś!"
+
+
 msgctxt "h2lc025"
 msgid "Well, I think I can fix that!"
 msgstr "Myślę że mogę go puścić!"
@@ -40549,10 +40554,6 @@ msgstr "Nadszedł czas przepowiedziany w starożytnych proroctwach Wyspy Małp. 
 msgctxt "ozjj090"
 msgid "MONKEY KOMBAAAAAAAT!"
 msgstr "KRAV MAAAAAŁPĘ!"
-
-msgctxt "h2gb024"
-msgid "Um, excuse me?  See the ring on this finger? You're a little late, bucko!"
-msgstr "Słucham? Widzisz ten pierścionek na palcu? Troszeczkę się spóźniłeś!"
 
 msgctxt "txtall222"
 msgid "SHIFT"

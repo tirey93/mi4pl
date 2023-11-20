@@ -7504,11 +7504,11 @@ msgstr "Wejść!"
 
 msgctxt "thrlaw002"
 msgid "What can we do for you?"
-msgstr "W czym panu pomóc?"
+msgstr "W czym możemy pomóc?"
 
 msgctxt "guylaw002"
 msgid "I was told you guys could help me."
-msgstr "Ponoć panowie mogą mi pomóc."
+msgstr "Ponoć możecie mi pomóc."
 
 msgctxt "whilaw002"
 msgid "Of course we can!"
@@ -7516,19 +7516,19 @@ msgstr "Oczywiście, że tak!"
 
 msgctxt "thrlaw003"
 msgid "What is it?  Wrongful dismemberment?"
-msgstr "Słuchamy. Bezprawne łupiestwo?"
+msgstr "Słuchamy. Bezprawne rozczłonkowanie?"
 
 msgctxt "diglaw002"
 msgid "Hit and run dinghy accident?"
-msgstr "Ucieczka z miejsca zbrodni?"
+msgstr "Wypadek z użyciem pontonu?"
 
 msgctxt "whilaw003"
 msgid "Hurt your back while pillaging another ship?"
-msgstr "Uszkodzone plecy podczas pląndrowania statku?"
+msgstr "Zraniłeś plecy podczas plądrowania innego statku?"
 
 msgctxt "guylaw003"
 msgid "Uh, no.  I need you to see if you can save my house from being destroyed."
-msgstr "Nie. Musiciw sprawdzić, czy da się ocalić mój dom przed zniszczeniem."
+msgstr "Nie. Musicie sprawdzić, czy da się ocalić mój dom przed zniszczeniem."
 
 msgctxt "thrlaw004"
 msgid "That doesn't sound very..."
@@ -7536,15 +7536,15 @@ msgstr "To nie brzmi zbyt..."
 
 msgctxt "diglaw003"
 msgid "...prestigious..."
-msgstr "... prestiżowo..."
+msgstr "prestiżowo..."
 
 msgctxt "whilaw004"
 msgid "...lucrative."
-msgstr "... lukratywnie."
+msgstr "lukratywnie."
 
 msgctxt "guylaw004"
 msgid "Did I mention that my house is the Governor's Mansion on Męlée Island™?"
-msgstr "Mówiłem już, że mój dom to Rezydencja Gubernatora wyspy Szpady™?"
+msgstr "Mówiłem już, że mój dom to rezydencja gubernatora Wyspy Szpady™?"
 
 msgctxt "diglaw004"
 msgid "Governor's Mansion, you say."
@@ -7556,15 +7556,15 @@ msgstr "To zmienia postać rzeczy."
 
 msgctxt "whilaw005"
 msgid "Nice use of the TM."
-msgstr "Niezły znak handlowy."
+msgstr "Ładnie użyte ™."
 
 msgctxt "diglaw005"
 msgid "But you can't be the Governor."
-msgstr "Ale pan jest gubernatorem."
+msgstr "Ale ty nie jesteś gubernatorem."
 
 msgctxt "guylaw005"
 msgid "I'm here representing the honorable Elaine Marley-Threepwood, Governor of the Tri-Island Area."
-msgstr "Reprezentuję tutaj czcigodną panią Elaine Marley Threepwood, Gubernatora Trójwyspu."
+msgstr "Reprezentuję tutaj czcigodną panią Elaine Marley Threepwood, gubernatora Trójwyspu."
 
 msgctxt "guylaw006"
 msgid "She's my wife."
@@ -7576,7 +7576,7 @@ msgstr "Rozumiem..."
 
 msgctxt "thrlaw006"
 msgid "...he's joking about the wife thing."
-msgstr "...to był żart o żonie."
+msgstr "żartuje o żonie."
 
 msgctxt "diglaw006"
 msgid "And people think lawyers have no sense of humor."
@@ -7584,11 +7584,11 @@ msgstr "A ludzie myślą, że prawnicy nie mają poczucia humoru."
 
 msgctxt "thrlaw007"
 msgid "You know, it's illegal to make such wrongful..."
-msgstr "Wiesz co, to nielegalne mówić takie bezprawne..."
+msgstr "Wiecie, to bezprawne stawiać tak krzywdzące..."
 
 msgctxt "diglaw007"
 msgid "...and preposterous..."
-msgstr "....i niedorzeczne..."
+msgstr "i niedorzeczne..."
 
 msgctxt "thrlaw008"
 msgid "...claims."
@@ -7604,15 +7604,15 @@ msgstr "A ile on może mieć pieniędzy?"
 
 msgctxt "guylaw007"
 msgid "I'm serious.  We just got back from our honeymoon..."
-msgstr "Powaga. Dopiero co wróciliśmy z miesiąca miodowego..."
+msgstr "Poważnie. Dopiero co wróciliśmy z miesiąca miodowego..."
 
 msgctxt "guylaw008"
 msgid "...three glorious months on the high seas..."
-msgstr "...trzy piękne miesiące na otwartym morzu..."
+msgstr "trzy wspaniałe miesiące na pełnym morzu..."
 
 msgctxt "guylaw009"
 msgid "...and returned to find the mansion under siege by a dastardly demolitionist!"
-msgstr "...by potem wrócić i zastać rezydencję oblężoną przez nikczemnych burzycieli!"
+msgstr "by potem wrócić i zastać rezydencję oblężoną przez nikczemnego burzyciela!"
 
 msgctxt "diglaw009"
 msgid "Is this alleged demolitionist wealthy?"
@@ -7624,15 +7624,15 @@ msgstr "Tak... moglibyśmy ich pozwać..."
 
 msgctxt "whilaw008"
 msgid "...put a lien on their catapult..."
-msgstr "...dać pod zastaw ich katapultę..."
+msgstr "dać pod zastaw ich katapultę..."
 
 msgctxt "thrlaw010"
 msgid "...file a Writ of Habeas Moneyous."
-msgstr "...i ustanowić własność sądową."
+msgstr "złożyć nakaz uzasadnienia zatrzymania."
 
 msgctxt "guylaw010"
 msgid "Wouldn't you rather go after the big bucks?"
-msgstr "Nie chcielibyście uzyskać z tego fortuny?"
+msgstr "Nie wolelibyście raczej zarobić fortuny?"
 
 msgctxt "guylaw011"
 msgid "If Elaine wins the election, she'll be a powerful person."
@@ -7640,7 +7640,7 @@ msgstr "Kiedy Elaine wygra wybory, będzie bardzo wpływowa."
 
 msgctxt "guylaw012"
 msgid "And if the mansion is saved, she'll have someone to thank."
-msgstr "A jeśli dom będzie bezpieczny, będzie miała komu dziękować."
+msgstr "A jeśli rezydencja przetrwa, będzie miała komu dziękować."
 
 msgctxt "guylaw013"
 msgid "And if that someone is you..."
@@ -7648,31 +7648,31 @@ msgstr "A jeśli tym kimś będziecie wy..."
 
 msgctxt "whilaw009"
 msgid "...we would be given a lot of money?"
-msgstr "...i dostalibyśmy mnóstwo pieniędzy?"
+msgstr "dostalibyśmy dużo pieniędzy?"
 
 msgctxt "thrlaw011"
 msgid "Earned, not given."
-msgstr "Zarobilibyśmy."
+msgstr "Uczciwie zarobionych."
 
 msgctxt "diglaw010"
 msgid "Think outside the juror's box, my esteemed colleagues."
-msgstr "Myśl poza ławą przysięgłych, mój szanowny kolego."
+msgstr "Myślcie nieszablonowo, moi szanowni koledzy."
 
 msgctxt "diglaw011"
 msgid "We could become the 'Official Lawyers for the Tri-Island Area™!'"
-msgstr "Moglibyśmy zostać \"Oficjalnymi Prawnikami na Trójwyspie\"!"
+msgstr "Moglibyśmy zostać \"Oficjalnymi Prawnikami Trójwyspu\"!"
 
 msgctxt "whilaw010"
 msgid "Yes, the 'Preferred Legal Team of the Governor's Office™'."
-msgstr "Tak, albo \"Jedyny Prawny Skład Biura Gubernatora\"."
+msgstr "Tak, \"Dedykowany Zespół Prawny Biura Gubernatora\"."
 
 msgctxt "thrlaw012"
 msgid "What do you need from us, young fellow?"
-msgstr "Czego od nas potrzebujesz, młody panie?"
+msgstr "Czego od nas potrzebujesz, młodzieńcze?"
 
 msgctxt "guylaw014"
 msgid "Mmm... I don't know... you handled Grandpa Marley's estate, right?"
-msgstr "No nie wiem... uratowaliście posiadłość starego Marleya, tak?"
+msgstr "No, nie wiem... rozwiązaliście problem nieruchomości dziadka Marleya, tak?"
 
 msgctxt "whilaw011"
 msgid "Right."
@@ -7688,7 +7688,7 @@ msgstr "Tak."
 
 msgctxt "guylaw015"
 msgid "Did he have a plan for such a crisis?"
-msgstr "Miał on jakiś plan na taki kryzys?"
+msgstr "Czy miał on jakiś plan na taki kryzys?"
 
 msgctxt "whilaw012"
 msgid "Nope."
@@ -7704,7 +7704,7 @@ msgstr "Nie."
 
 msgctxt "thrlaw015"
 msgid "But, we'll get right on it!"
-msgstr "Ale my go wymyślimy!"
+msgstr "Ale zaraz się tym zajmiemy!"
 
 msgctxt "whilaw013"
 msgid "Right!"
@@ -7720,19 +7720,19 @@ msgstr "To poczekam."
 
 msgctxt "whilaw014"
 msgid "Actually, this may take a while."
-msgstr "Ale to może trochę potrwać."
+msgstr "To może trochę potrwać."
 
 msgctxt "diglaw015"
 msgid "Legal issues can be quite complicated..."
-msgstr "Legalne rozwiązania mogą być powikłane..."
+msgstr "Kwestie prawne mogą być skomplikowane..."
 
 msgctxt "thrlaw016"
 msgid "...and take a lot of research."
-msgstr "...i zabrać wiele godzin badań."
+msgstr "i zabrać wiele godzin badań."
 
 msgctxt "whilaw015"
 msgid "Isn't there something else you could do for a while?"
-msgstr "Nie możesz w tym czasie poroboć czegoś innego?"
+msgstr "Nie mógłbyś się zająć czymś innym w międzyczasie?"
 
 msgctxt "diglaw016"
 msgid "See the island..."
@@ -7740,15 +7740,15 @@ msgstr "Zobacz wyspę..."
 
 msgctxt "thrlaw017"
 msgid "...take in the sights?"
-msgstr "...zwiedzałeś już?"
+msgstr "zwiedź okolicę?"
 
 msgctxt "guylaw017"
 msgid "Um, I guess so."
-msgstr "Chyba tak."
+msgstr "No mógłbym."
 
 msgctxt "thrlaw018"
 msgid "Oh, hey.  You might as well take this."
-msgstr "To możesz wziąć ze sobą."
+msgstr "Oh, hej. To ci się może przydać."
 
 msgctxt "guylaw018"
 msgid "What is it?"
@@ -7760,15 +7760,15 @@ msgstr "To list od dziadka Marleya."
 
 msgctxt "whilaw016"
 msgid "It was supposed to be delivered after his granddaughter got married."
-msgstr "Miał być doręczony, bo ślubie jego wnuczki."
+msgstr "Miał być doręczony po ślubie jego wnuczki."
 
 msgctxt "thrlaw019"
 msgid "This will save us a trip."
-msgstr "To nam oszczędzi podróży."
+msgstr "Oszczędzisz nam podróży."
 
 msgctxt "whilaw017"
 msgid "Now, begone!  We have work to do!"
-msgstr "Zatem, żegnamy! Mamy dużo pracy!"
+msgstr "A teraz żegnamy! Mamy dużo pracy!"
 
 msgctxt "whilaw018"
 msgid "We'll have to convince the court otherwise."
@@ -23280,7 +23280,7 @@ msgstr "Przepraszam, że nie mogłem wręczyć Ci ich osobiście."
 
 msgctxt "guyall026"
 msgid "But I go to my grave confident that you've chosen a man I would be proud to call 'grandson.'"
-msgstr "Ale stoję na grobem z przekonaniem, że wybrałaś człowieka, którego z dumą mógłbym nazywać \"wnukiem\"."
+msgstr "Ale stoję nad grobem z przekonaniem, że wybrałaś człowieka, którego z dumą mógłbym nazywać \"wnukiem\"."
 
 msgctxt "guyall027"
 msgid "Lastly, and most importantly, the chest contains the keys to the most terrifying secret in the Caribbean;"
@@ -40653,7 +40653,7 @@ msgstr "list"
 
 msgctxt "txtall017"
 msgid "codpiece"
-msgstr "mieszek"
+msgstr "list"
 
 msgctxt "txtall018"
 msgid "Pick up"

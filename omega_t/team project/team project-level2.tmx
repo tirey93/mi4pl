@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv xml:lang="en-US">
         <seg>(Yawning) That was, um, (yawn) thrilling, dear. Now, let me see if I've got this straight: An evil Australian tycoon named Ozzie Mandrill is buying up all the land in the Caribbean...</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Rael" changedate="20130801T080357Z">
-        <seg>To było... porywające, skarbie. A teraz popraw mnie jeśli się mylę: zły australijski magnat, Ozzie Mandrill, wykupuje całą ziemię na Karaibach...</seg>
+      <tuv xml:lang="pl" changeid="Itami" changedate="20231121T234634Z">
+        <seg>(Ziew) To było, um, (ziew) porywające, skarbie. A teraz popraw mnie jeśli się mylę: zły australijski magnat, Ozzie Mandrill, wykupuje całą ziemię na Karaibach...</seg>
       </tuv>
     </tu>
     <tu>

@@ -21,10 +21,11 @@ namespace po2tab_converter
         {
             const string pathToConfig = "config.json";
             string fileName = "";
+            Config config = null;
             if (File.Exists(pathToConfig))
             {
                 string configFile = File.ReadAllText(pathToConfig);
-                var config = JsonSerializer.Deserialize<Config>(configFile);
+                config = JsonSerializer.Deserialize<Config>(configFile);
                 fileName = config.FileName;
             }
             else
@@ -102,7 +103,11 @@ namespace po2tab_converter
             {
                 File.WriteAllText("errors.txt", errors, Encoding.GetEncoding("windows-1250"));
             }
-            File.WriteAllText("script.tab", result, Encoding.GetEncoding("windows-1250"));
+
+            if(config?.DestinationPath != null && Directory.Exists(config.DestinationPath))
+                File.WriteAllText($"{config.DestinationPath}\\script.tab", result, Encoding.GetEncoding("windows-1250"));
+            else 
+                File.WriteAllText("script.tab", result, Encoding.GetEncoding("windows-1250"));
         }
     }
 }

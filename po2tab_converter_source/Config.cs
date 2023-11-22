@@ -7,5 +7,6 @@ namespace po2tab_converter
     internal class Config
     {
         public string FileName { get; set; }
+        public string DestinationPath { get; set; }
     }
 }

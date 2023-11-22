@@ -504,8 +504,8 @@
       <tuv lang="en-US">
         <seg>'H.T. -- RE: Mining operations.'</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>"H.T - P.S: Szukaj w kopalni"</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T101913Z">
+        <seg>"H.T. - P.S: Szukaj w kopalni"</seg>
       </tuv>
     </tu>
     <tu>
@@ -54928,8 +54928,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Signed H.T.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podpisane H.T</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T101923Z">
+        <seg>Podpisane H.T.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54944,8 +54944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Signed, H.T.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podpisane H.T</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T101905Z">
+        <seg>Podpisane H.T.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58376,8 +58376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That fountain gives me the heebie-jeebies.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ta fontanna jest straszna.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T083746Z">
+        <seg>Ta fontanna przyprawia mnie o ciarki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66048,8 +66048,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ummph. Ahhh. Well, here it is, sir: the safe deposit chest of H.T. Marley, just as he left it over 20 years ago.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231109T155601Z">
-        <seg>Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T101932Z">
+        <seg>Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T. Marleya pozostawiona tu przez ponad 20 lat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77537,8 +77537,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yours truly, H.T. Marley.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z poważaniem H.T Marley.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231122T101900Z">
+        <seg>Z poważaniem H.T. Marley.</seg>
       </tuv>
     </tu>
     <tu>

@@ -23352,7 +23352,7 @@ msgstr "... Talizman Upokorzenia. Źle..."
 
 msgctxt "guyall044"
 msgid "Yours truly, H.T. Marley."
-msgstr "Z poważaniem H.T Marley."
+msgstr "Z poważaniem H.T. Marley."
 
 msgctxt "guyall045"
 msgid "It's a codpiece in like-new condition!"
@@ -29396,11 +29396,11 @@ msgstr "Proszę nie ruszać mojego pnącza bananów. NALEŻĄ DO MNIE!\""
 
 msgctxt "guymob020"
 msgid "Signed, H.T."
-msgstr "Podpisane H.T"
+msgstr "Podpisane H.T."
 
 msgctxt "guymob021"
 msgid "'H.T. -- RE: Mining operations.'"
-msgstr "\"H.T - P.S: Szukaj w kopalni\""
+msgstr "\"H.T. - P.S: Szukaj w kopalni\""
 
 msgctxt "guymob022"
 msgid "'Stop them.  At once.  Your mining is causing sink-holes in our sacred island.'"
@@ -29444,7 +29444,7 @@ msgstr "\"Co mi przypomina: Zostaw moje pnącze bananów!\""
 
 msgctxt "guymob032"
 msgid "Signed H.T."
-msgstr "Podpisane H.T"
+msgstr "Podpisane H.T."
 
 msgctxt "guymoh001"
 msgid "That's the second biggest monkey head I've ever seen."
@@ -38520,7 +38520,7 @@ msgstr "gdzie otworzymy skrzynię z depozytem pańskiego dziadka."
 
 msgctxt "babm004"
 msgid "Ummph. Ahhh. Well, here it is, sir: the safe deposit chest of H.T. Marley, just as he left it over 20 years ago."
-msgstr "Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T Marleya pozostawiona tu przez ponad 20 lat."
+msgstr "Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T. Marleya pozostawiona tu przez ponad 20 lat."
 
 msgctxt "babm004a"
 msgid "Ummph. Ahhh. Well, here it is, sir:"
@@ -38528,7 +38528,7 @@ msgstr "Ummph! Ahhh, no i jest."
 
 msgctxt "babm004b"
 msgid "the safe deposit chest of H.T. Marley,"
-msgstr "Skrzynia z depozytem H.T Marleya"
+msgstr "Skrzynia z depozytem H.T. Marleya"
 
 msgctxt "babm004c"
 msgid "just as he left it over 20 years ago."

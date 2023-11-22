@@ -1208,8 +1208,8 @@
       <tuv lang="en-US">
         <seg>(Yawning) That was, um, (yawn) thrilling, dear. Now, let me see if I've got this straight: An evil Australian tycoon named Ozzie Mandrill is buying up all the land in the Caribbean...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T080357Z">
-        <seg>To było... porywające, skarbie. A teraz popraw mnie jeśli się mylę: zły australijski magnat, Ozzie Mandrill, wykupuje całą ziemię na Karaibach...</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20231121T234634Z">
+        <seg>(Ziew) To było, um, (ziew) porywające, skarbie. A teraz popraw mnie jeśli się mylę: zły australijski magnat, Ozzie Mandrill, wykupuje całą ziemię na Karaibach...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17007,8 +17007,8 @@
       <tuv lang="en-US">
         <seg>Funny, I don't feel welcome.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie chcę żadnych krabów... chociaż, nie - mam już przynętę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185031Z">
+        <seg>Nie czuję się witany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17089,6 +17089,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>GRRAH! Wypuście mnie stąd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gaaah!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185134Z" creationid="damia" creationdate="20231121T185134Z">
+        <seg>Gaaah!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17415,8 +17423,8 @@
       <tuv lang="en-US">
         <seg>Get away from me, you crazy duck!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Głupia kaczko, zostaw mnie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185134Z">
+        <seg>Zostaw mnie, ty głupia kaczko!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19187,8 +19195,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Ha... I don't think so.  You're going to jail, bucko!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W to szczerzę wątpię. Idziesz do więzienia, przyjacielu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185220Z">
+        <seg>Nie sądzę. Idziesz siedzieć, koleś!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32584,8 +32592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm not going to get too close.  Wouldn't want Pegnose to see me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie podejdę bliżej. Nie chcę żeby Pegnose mnie zauważył.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185109Z">
+        <seg>Nie podejdę bliżej. Nie chcę, żeby Kołkonos mnie zauważył.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40472,8 +40480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>LET ME OUTTA HERE!!!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PROSZĘ, ODCZEP SIĘ!!!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185144Z">
+        <seg>WYPUŚĆ MNIE STĄD!!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45144,8 +45152,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No thanks, I'll get my crawdaddies at the restaurant.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie dzięki, dostanę to samo w restauracji.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185008Z">
+        <seg>Nie dzięki, swoje raki zjem w restauracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59104,8 +59112,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That wouldn't be very neighborly.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To nie było by za sąsiedzkie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185044Z">
+        <seg>To nie byłoby zbyt sąsiedzkie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61334,6 +61342,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The stench has been replaced by faint traces of autumn pastures.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231122T083711Z" creationid="damia" creationdate="20231122T083711Z">
+        <seg>The stench has been replaced by faint traces of autumn pastures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The stock market?</seg>
       </tuv>
       <tuv lang="pl">
@@ -62304,8 +62320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There's no glass.  There's nothing to open.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To nie ma szyby. Nic ci nie otworzę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185121Z">
+        <seg>Tu nie ma szyby. Nic nie otworzę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71935,6 +71951,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WhhoooooooOAAAA!!!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185135Z" creationid="damia" creationdate="20231121T185135Z">
+        <seg>WhhoooooooOAAAA!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which is a sensible thing to do, considerin' that it's my name 'n' all.</seg>
       </tuv>
       <tuv lang="pl">
@@ -73979,6 +74003,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231121T181956Z">
         <seg>Gdybym nie był pokojowo nastawiony, walnąłbym tego jegomościa w głowę jednym z moich kijów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YEEEAAAAAAAAAGH!!!!!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231121T185122Z" creationid="damia" creationdate="20231121T185122Z">
+        <seg>YEEEAAAAAAAAAGH!!!!!</seg>
       </tuv>
     </tu>
     <tu>

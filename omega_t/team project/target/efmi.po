@@ -8900,47 +8900,47 @@ msgstr "To wyjście."
 
 msgctxt "frehos001"
 msgid "Welcome, young man.  Feel free to look around."
-msgstr "Witaj młodzieńcze. Czuj się jak u siebie."
+msgstr "Witaj, młodzieńcze. Rozejrzyj się, jeśli chcesz."
 
 msgctxt "frehos002"
 msgid "Welcome back.  Let me know if you need any assistance."
-msgstr "Witaj znowu. Powiedz mi, jeśli będziesz mnie potrzebował."
+msgstr "Witaj znowu. Daj znać, gdybyś potrzebował pomocy."
 
 msgctxt "frehos003"
 msgid "What in tarnation are you doing, son?"
-msgstr "Co do diabła tam kombinujesz, synu?"
+msgstr "Co ty, u licha, tam wyprawiasz?"
 
 msgctxt "guyhos001"
 msgid "Um, just looking at my stuff."
-msgstr "Tak sie tylko rozglądam."
+msgstr "Tak się tylko rozglądam."
 
 msgctxt "frehos004"
 msgid "Is that what they call it these days?"
-msgstr "To teraz tak to się nazywa."
+msgstr "To teraz tak to się nazywa?"
 
 msgctxt "frehos005"
 msgid "Well, be quick about it."
-msgstr "No to sie pospiesz."
+msgstr "No to się pospiesz."
 
 msgctxt "frehos006"
 msgid "I wouldn't want any women folk to see that."
-msgstr "Nie chciałbym za nic tego zobaczyć."
+msgstr "Nie chciałbym, żeby widziały to kobiety."
 
 msgctxt "guyhos002"
 msgid "Slightly irregular and blemished sticks - 40 percent off marked price."
-msgstr "Regulowany uchwyt i gumowa rączka - 40 procent taniej."
+msgstr "Lekko nieregularne i uszkodzone laski - 40% zniżki od ceny nominalnej."
 
 msgctxt "guyhos003"
 msgid "These sticks look perfectly fine to me."
-msgstr "Ta litera nieźle wygląda."
+msgstr "Dla mnie te laski wyglądają idealnie."
 
 msgctxt "frehos007"
 msgid "To the untrained eye, they might."
-msgstr "Dla nie wprawnego oka na pewno."
+msgstr "Dla niewprawnego oka, na pewno."
 
 msgctxt "frehos008"
 msgid "Those sticks didn't pass our rigid quality assurance process."
-msgstr "Ale dla nas one nie spełniają naszych wysokich wymagań."
+msgstr "Te jednak nie przeszły naszego rygorystycznego procesu zapewniania jakości."
 
 msgctxt "guyhos004"
 msgid "Nah, I'm not exactly sure what's wrong with them."
@@ -8948,35 +8948,35 @@ msgstr "Nie do końca wiem, co z nimi nie tak."
 
 msgctxt "frehos009"
 msgid "They're probably fine for the non-discriminating type of consumer."
-msgstr "Pewnie płaci się za taki typ klienta."
+msgstr "Są w porządku dla niedyskryminującego typu konsumenta."
 
 msgctxt "frehos010"
 msgid "But those sticks wouldn't pass the muster for our high-end buyers."
-msgstr "Te laski są zbyt drogie nawet dla klientów z najwyższej półki."
+msgstr "Ale nie zdałyby egzaminu wśród naszych nabywców z wyższej półki."
 
 msgctxt "guyhos005"
 msgid "'It is very important to choose a walking stick that fits your body, lifestyle, and temperament...'"
-msgstr "\"To ważne, żeby wybrać odpowiednią laskę pasującą do twojego ciała, stylu życia i temperamentu...\""
+msgstr "\"To ważne, aby wybrać laskę odpowiednią do twojego ciała, stylu życia i temperamentu...\""
 
 msgctxt "guyhos006"
 msgid "'Your walking stick should be no more than waist high, and hefty enough to support fifty percent of your body weight...'"
-msgstr "\"Twoja laska nie powinna być większa niż twoja talia, a jednocześnie dość wytrzymała, żeby podnieść co najmniej 50% masy ciała\"."
+msgstr "\"Laska nie powinna być wyższa niż do pasa i wystarczająco mocna, aby utrzymać pięćdziesiąt procent masy ciała...\"."
 
 msgctxt "guyhos007"
 msgid "'Active people should choose a stick that corresponds with the type of activity...'"
-msgstr "\"Aktywni ludzie powinni wybrać odpowiedni sprzęt dla swojej aktywności...\"."
+msgstr "\"Osoby aktywne powinny wybrać laskę, który odpowiada rodzajowi aktywności...\"."
 
 msgctxt "guyhos008"
 msgid "... BORING."
-msgstr "....ALE NUDA."
+msgstr "....NUDA."
 
 msgctxt "guyhos009"
 msgid "I guess I don't want a walking stick THAT bad."
-msgstr "Sądzę, że nie chce nosić AŻ TAK złej laski."
+msgstr "Chyba aż tak bardzo nie chcę laski."
 
 msgctxt "guyhos010"
 msgid "Still a barrel of sticks."
-msgstr "\"Wybierz odpowiednią laskę\""
+msgstr "To beczka lasek."
 
 msgctxt "guyhos011"
 msgid "It's a barrel of sticks."
@@ -8988,31 +8988,31 @@ msgstr "Kolejna beczka lasek."
 
 msgctxt "guyhos013"
 msgid "Sticks, just like every other barrel here."
-msgstr "\"Kolejna beczka pełna lasek\""
+msgstr "Laski, takie jak w każdej innej beczce."
 
 msgctxt "guyhos014"
 msgid "There's so many to choose from, I can't decide."
-msgstr "Tu jest taki wybór, że nie wiem co bym wybrał."
+msgstr "Jest ich tak wiele, że nie mogę się zdecydować."
 
 msgctxt "guyhos015"
 msgid "I don't think there are any sticks I want in that barrel."
-msgstr "Lepiej, żebym nie wyjmował stąd lasek."
+msgstr "Nie sądzę, żeby w tej beczce były laski, które bym chciał."
 
 msgctxt "guyhos016"
 msgid "What does it take to get some service in here?"
-msgstr "Co trzeba zrobić, żeby tu obsłużono?"
+msgstr "Co trzeba zrobić, aby mnie obsłużono?"
 
 msgctxt "frehos011"
 msgid "No need to make a racket ringing that bell, I'm right here!"
-msgstr "Nie trzeba dzwonić dzwonkiem, bo jestem tu!"
+msgstr "Nie musisz dzwonić bo jestem tutaj!"
 
 msgctxt "guyhos017"
 msgid "It's Freddie's Stick Catalog."
-msgstr "To katalog Lasek Freddiego."
+msgstr "To katalog lasek Freddiego."
 
 msgctxt "guyhos018"
 msgid "Why would I wanna look through the catalog, when I've got the real thing right here?"
-msgstr "Po co miałbym sięgać po katalog skoro mam już odpowiednią liczbę kończyn."
+msgstr "Po co miałbym sięgać po katalog, skoro mam wszystko tu, na miejscu?"
 
 msgctxt "guyhos019"
 msgid "This must be Freddie's calculator."
@@ -9024,39 +9024,39 @@ msgstr "Piraci nie potrzebują kalkulatorów!"
 
 msgctxt "frehos012"
 msgid "Besides, it's not yours to take, sonny."
-msgstr "Tak poza tym, on nie jest twój, chłopcze."
+msgstr "Poza tym, on nie jest twój, chłopcze."
 
 msgctxt "frehos013"
 msgid "The glue is still drying on that cane."
-msgstr "Klej na półce jest ciągle wilgotny."
+msgstr "Klej wciąż schnie na tej lasce."
 
 msgctxt "frehos014"
 msgid "Please don't pick it up."
-msgstr "Ale nie dotykaj!"
+msgstr "Proszę nie podnosić."
 
 msgctxt "guyhos021"
 msgid "Those little buggers sure know high quality wood when they see it."
-msgstr "Te małe konusiki lubią chyba drzewa egzotyczne."
+msgstr "Te robaczki z pewnością rozpoznają wysokiej jakości drewno."
 
 msgctxt "guyhos022"
 msgid "That won't do much good."
-msgstr "To jest głupi pomysł."
+msgstr "To nic dobrego nie zdziała."
 
 msgctxt "guyhos023"
 msgid "It's Freddie the stick maker."
-msgstr "To narzędzie do robienia lasek."
+msgstr "To Freddie, twórca lasek."
 
 msgctxt "frehos015"
 msgid "Ayup."
-msgstr ""
+msgstr "Ayup."
 
 msgctxt "guyhos024"
 msgid "Must be the guy who makes these sticks."
-msgstr "To musi być facet, który je robi."
+msgstr "To musi być facet, który robi laski."
 
 msgctxt "frehos016"
 msgid "Yup."
-msgstr "Jasne."
+msgstr "Tak."
 
 msgctxt "frehos017"
 msgid "Freddie's my name."
@@ -9064,7 +9064,7 @@ msgstr "Nazywam się Freddie."
 
 msgctxt "frehos018"
 msgid "Been makin' sticks since you were no bigger than a toenail on a June bug, ha ha ha."
-msgstr "Robiłem laski w czasach kiedy ty jeszcze sikałeś w majtki."
+msgstr "Robię laski, odkąd byłeś nie większy niż paznokieć czerwcowego robaka."
 
 msgctxt "ozzhos001"
 msgid "Freddie!  Where's my new walking stick?"
@@ -9076,19 +9076,19 @@ msgstr "Mam ją tutaj, panie Mandrill"
 
 msgctxt "frehos020"
 msgid "A brand new cane, hand-carved to the exact specifications of your previous stick."
-msgstr "Nowiutki rdzeń, własnoręcznie robiona na wzór pana ostatniej laski."
+msgstr "Zupełnie nowa, ręcznie rzeźbiona i zgodna ze specyfikacją poprzedniej laski."
 
 msgctxt "ozzhos002"
 msgid "It'd better be, or I'll buy up your putrid little shop and replace it with something useful..."
-msgstr "Oby tak było w innym wypadku wykupię twój malutki sklepik i zamienię go na coś użytecznego..."
+msgstr "Lepiej, żeby tak było bo wykupię twój obskurny sklepik i zastąpię go czymś użytecznym...."
 
 msgctxt "ozzhos003"
 msgid "Like a public urinal!"
-msgstr "Publiczna toaleta jest dobra."
+msgstr "Publiczną toaletą!"
 
 msgctxt "frehos021"
 msgid "I, uh, take it that you'll be putting this on your tab, Mister Mandrill?"
-msgstr "Zapakować ją czy chce ją pan od razu wypróbować?"
+msgstr "Rozumiem, że dopisze to pan do swojego rachunku, panie Mandrill?"
 
 msgctxt "ozzhos004"
 msgid "What do you think?"
@@ -9096,15 +9096,15 @@ msgstr "A jak myślisz?"
 
 msgctxt "frehos022"
 msgid "Y'know, if I weren't a peaceable sort, I'd whack that gentleman over the head with one of my sticks."
-msgstr "Z reguły jestem miły ale ja bym wysłał tego młodego dżentelmena, żeby pana zaniósł do domu,"
+msgstr "Gdybym nie był pokojowo nastawiony, walnąłbym tego jegomościa w głowę jednym z moich kijów."
 
 msgctxt "frehos023"
 msgid "And I wouldn't stop whacking until his brains leaked all over my rustic, hand-polished, hardwood floor, ha ha ha!"
-msgstr "ale wcześniej bym go tak pobił, że jego mózg wyszedłby na zewnątrz na moją czystą podłogę."
+msgstr "I nie przestawałbym, dopóki jego mózg nie rozlałby się po mojej rustykalnej, ręcznie polerowanej podłodze z twardego drewna!"
 
 msgctxt "guyhos025"
 msgid "But you're a peaceable sort, right?"
-msgstr "Ale jest pan jednak miły, prawda?"
+msgstr "Ale jesteś pokojowo nastawiony, tak?"
 
 msgctxt "ozzhos005"
 msgid "Freddie!  My new cane 'ad better be ready!"
@@ -9112,27 +9112,27 @@ msgstr "Freddie! Lepiej żeby moja laska była gotowa!"
 
 msgctxt "frehos024"
 msgid "Oh, sure is Mister Mandrill."
-msgstr "Oczywiście, że jest panie Mandrill."
+msgstr "Oczywiście, panie Mandrill."
 
 msgctxt "frehos025"
 msgid "It's right... eh, over on that bench there."
-msgstr "Jest tutaj na półce."
+msgstr "Jest... tutaj na półce."
 
 msgctxt "ozzhos006"
 msgid "Creepwood?  Thinkin' of buying a walking stick of your own are ya?"
-msgstr "Creepwod? Myślisz o kupieniu własnej laski, prawda?"
+msgstr "Creepwod? Myślisz o kupieniu własnej laski, co?"
 
 msgctxt "ozzhos007"
 msgid "Heh, might make you look more distinguished, heh heh."
-msgstr "Lepiej obejrzyj się z ciekawszymi rzeczami."
+msgstr "Może sprawi, że będziesz wyglądał bardziej wytwornie."
 
 msgctxt "ozzhos008"
 msgid "Quite like a monkey in a hat, heh."
-msgstr "Takimi jak małpa w kapeluszu."
+msgstr "Zupełnie jak małpa w kapeluszu."
 
 msgctxt "guyhos026"
 msgid "Yeah, those are funny."
-msgstr "Tak, to było dobre."
+msgstr "Tak, są zabawne."
 
 msgctxt "guyhos027"
 msgid "Hey!"
@@ -9140,11 +9140,11 @@ msgstr "Hej!"
 
 msgctxt "ozzhos009"
 msgid "Put it on my bill, Freddie.  And don't even think about over-charging me, or I'll own ya!"
-msgstr "Wlicz to w rachunek, Freddie i nie myśl o naciąganiu mnie bo nie chciałbym być wtedy w twojej skórze!"
+msgstr "Dopisz mi to do rachunku, Freddie. I próbuj policzyć sobie za drogo bo cię dorwę!"
 
 msgctxt "frehos026"
 msgid "Yes sir.  Always a pleasure, Mister Mandrill."
-msgstr "Tak, proszę pana. Zawsze do usług panie Mandrill."
+msgstr "Oczywiście. Zawsze do usług, panie Mandrill."
 
 msgctxt "guyhos028"
 msgid "It's the door."
@@ -9152,31 +9152,31 @@ msgstr "To są drzwi."
 
 msgctxt "pegpph001"
 msgid "Aaack!"
-msgstr ""
+msgstr "Aaack!"
 
 msgctxt "pegpph002"
 msgid "Go away you stupid duck!"
-msgstr "Zostaw mnie, ty przeklęta kaczko!"
+msgstr "Zostaw mnie, ty głupia kaczko!"
 
 msgctxt "pegpph003"
 msgid "Get out of here!  Fly south like the rest of them!"
-msgstr "Wynoś się stąd!  Leć na południe jak reszta stada!"
+msgstr "Wynocha! Leć na południe, jak cała reszta!"
 
 msgctxt "pegpph004"
 msgid "Stop tormenting me, you dumb bird!"
-msgstr "Nie molestuj mnie, głupi ptaszku!"
+msgstr "Przestań mnie dręczyć, ty głupi ptaku!"
 
 msgctxt "pegpph005"
 msgid "My house is not an aviary!!!"
-msgstr "Mój dom to nie kurnik!"
+msgstr "Mój dom to nie ptaszarnia!!!"
 
 msgctxt "pegpph006"
 msgid "Shoo!  Before I brain ya!"
-msgstr "Shoo! Zastrzel ją albo ja ci to zrobię!"
+msgstr "Sio! Albo cię rozwalę!"
 
 msgctxt "pegpph007"
 msgid "No!  I don't have any duck food!"
-msgstr "Nie! Nie mam żadnej kaczej karmy."
+msgstr "Nie! Nie mam kaczego jedzenia!"
 
 msgctxt "pegpph008"
 msgid "Where are all these ducks coming from?"
@@ -9184,31 +9184,31 @@ msgstr "Skąd te kaczki się biorą?"
 
 msgctxt "guypph001"
 msgid "He really doesn't seem to like ducks."
-msgstr "On chyba naprawdę boi się kaczek."
+msgstr "Chyba naprawdę nie lubi kaczek."
 
 msgctxt "guypph002"
 msgid "Watching Pegnose's panic attacks is fun, but I'm sure I could do better."
-msgstr "Oglądanie Pegnose'a w panice to frajda, ale muszę zrobić coś innego."
+msgstr "Oglądanie Kołkonosa w panice to frajda, ale muszę wymyślić coś lepszego."
 
 msgctxt "guypph003"
 msgid "I can hear some people talking inside."
-msgstr "Kogoś tam w środku słychać."
+msgstr "Kogoś tam słychać w środku."
 
 msgctxt "guypph004"
 msgid "If I move closer to the window, maybe I'll be able to make out what they're saying..."
-msgstr "Jeśli przemieszczę się do okna sądzę, że będę w stanie usłyszeć co oni mówią..."
+msgstr "Jeśli podejdę bliżej okna, może uda mi się usłyszeć, co mówią..."
 
 msgctxt "pegpph009"
 msgid "... like I said, I got the job done, now where's my money?!"
-msgstr "... już mówiłem, ja swoje zrobiłem, a teraz gdzie kasa?"
+msgstr "... już mówiłem, ja swoje zrobiłem, a teraz gdzie kasa?!"
 
 msgctxt "guypph005"
 msgid "Hmm... this should be good."
-msgstr "Hmmm ... brzmi ciekawie."
+msgstr "Tak będzie dobrze."
 
 msgctxt "ozzpph001"
 msgid "Ahh, all in due time, my dear Mister Pegnose..."
-msgstr "Wszystko w swoim czasie, Pegnosie..."
+msgstr "Wszystko w swoim czasie, panie Kołkonos..."
 
 msgctxt "guypph006"
 msgid "Hey, that voice sounds familiar!"
@@ -9216,7 +9216,7 @@ msgstr "Hej, znam skądś ten głos!"
 
 msgctxt "ozzpph002"
 msgid "We've only completed part of the plan."
-msgstr "Mamy tylko część naszego planu."
+msgstr "Ukończyliśmy tylko część planu."
 
 msgctxt "ozzpph003"
 msgid "You've done an admirable job in getting Guybrush out of the way,"
@@ -9224,35 +9224,35 @@ msgstr "Wykonałeś godną podziwu pracę, usuwając Guybrusha z drogi"
 
 msgctxt "ozzpph004"
 msgid "as well as reappropriating the Marley family heirlooms."
-msgstr "... a także przywłaszczając sobie schedę Marleyów."
+msgstr "a także przywłaszczając sobie schedę Marleyów."
 
 msgctxt "ozzpph005"
 msgid "I trust you've put them somewhere safe for the time being?"
-msgstr "Rozumiem, że ukryłeś go gdzieś bezpiecznie do tego czasu?"
+msgstr "Rozumiem, że ukryłeś ją gdzieś bezpiecznie?"
 
 msgctxt "pegpph010"
 msgid "Of course, I have!  I'm no idiot."
-msgstr "Oczywiście! Czy ja wyglądam na idiotę?"
+msgstr "Oczywiście! Nie jestem idiotą."
 
 msgctxt "pegpph011"
 msgid "That junk you're so interested in is safe and sound in my impenetrable cave."
-msgstr "Te śmieci co cię tak interesują leżą w sekretnej niewykrywalnej jaskini."
+msgstr "Te twoje śmieci są bezpieczne w mojej nieprzeniknionej jaskini."
 
 msgctxt "guypph007"
 msgid "Impenetrable secret cave?  I thought those had all been shut down."
-msgstr "Niewykrywalnej jaskini? Myślałem, że wszystkie są zamknięte."
+msgstr "Nieprzeniknionej tajemnej jaskini? Myślałem, że wszystkie są zamknięte."
 
 msgctxt "ozzpph006"
 msgid "That 'junk', as you call it, may very well be the key to ridding these islands of pirates once and for all."
-msgstr "Te \"śmieci\", jak je nazwałeś, mogą być kluczem do drzwi ocalenia tej wyspy przed wszystkimi piratami."
+msgstr "Te \"śmieci\", jak je nazywasz, mogą być kluczem do pozbycia się piratów z tych wysp raz na zawsze."
 
 msgctxt "ozzpph007"
 msgid "No offense, of course."
-msgstr "Poza nami, oczywiście."
+msgstr "Bez urazu."
 
 msgctxt "pegpph012"
 msgid "Right.  So about my fee..."
-msgstr "Oczywiście. Powracając do tematu wynagr..."
+msgstr "Tak, odnośnie mojej pensji..."
 
 msgctxt "ozzpph008"
 msgid "Later, my good man.  In the meantime, the heirlooms are our little secret."
@@ -9260,39 +9260,39 @@ msgstr "Później, dobry człowieku. Teraz scheda jest naszym małym sekretem."
 
 msgctxt "ozzpph009"
 msgid "Keep them hidden, and not a word to anyone.  We'd hate to have my plans spoiled by an indiscretion."
-msgstr "Więc dziób na kłódkę, nikomu ani słowa. Nie lubię jak niepotrzebni znają moje plany."
+msgstr "Ukryj ją i nikomu ani słowa. Nie chcielibyśmy, aby moje plany zostały zepsute przez brak dyskrecji."
 
 msgctxt "pegpph013"
 msgid "All right, Mister Mandrill.  We'll do it your way.  But if you don't pay me soon, I'll cut yer gizzard out!"
-msgstr "Rozumiem, panie Mandrill. Zrobimy to jak pan karze, ale jeśli nie wypłacisz mi to nie ręczę za siebie!"
+msgstr "Rozumiem, panie Mandrill. Zrobimy, jak pan każe. Ale jeśli nie zapłacisz  szybko, wytnę ci żołądek!"
 
 msgctxt "ozzpph010"
 msgid "There's no need to be such a ruffian.  You'll get what's coming to ya."
-msgstr "Nie udawaj takiego twardziela. Dostaniesz swoją należność."
+msgstr "Nie musisz być takim łobuzem. Dostaniesz to, co ci się należy."
 
 msgctxt "pegpph014"
 msgid "I'd better."
-msgstr "Lepiej żeby."
+msgstr "No lepiej."
 
 msgctxt "ozzpph011"
 msgid "I'm off to tend to my affairs.  Now that we're in possession of the Marley heirlooms, I must begin determining how they relate to the Ultimate Insult."
-msgstr "Idę zająć się swoimi sprawami. Teraz, kiedy jesteśmy w posiadaniu schedy Marleya, muszę określić, jak wiąże się ona z Talizmanem Upokorzenia."
+msgstr "Idę zająć się swoimi sprawami. Teraz, gdy jesteśmy w posiadaniu schedy Marleya, czas ustalić, w jaki sposób łączą się one z Talizmanem Upokorzenia."
 
 msgctxt "guypph008"
 msgid "So, Ozzie and Pegnose are working together.  After I deal with Pegnose here, I'll have to pay Mister Mandrill a little visit."
-msgstr "Ach, więc Ozzie i Pegnose współpracują. Zanim rozliczę się tutaj z Pegnosem, muszę odwiedzić pana Mandrilla."
+msgstr "Więc Ozzie i Kołkonos pracują razem.  Po tym, jak uporam się z Kołkonosem, będę musiał złożyć panu Mandrillowi małą wizytę."
 
 msgctxt "guypph009"
 msgid "So, Pegnose is working with that Mandrill guy from the bank.  After I deal with Pegnose here, I'll have to pay Mister Mandrill a little visit."
-msgstr "Ach, więc Pegnose i Ozzie stoją za napadem na bank. Zanim stanę twarzą w twarz z Pegnosem, musze odwiedzić pana Mandrilla."
+msgstr "Więc Kołkonos pracuje z tym Mandrillem z banku. Po tym, jak uporam się z Kołkonosem, będę musiał złożyć panu Mandrillowi małą wizytę."
 
 msgctxt "guypph010"
 msgid "I'm Captain of the raft!"
-msgstr "Jestem kapitanem tej tratwy!"
+msgstr "Jestem kapitanem tratwy!"
 
 msgctxt "guypph011"
 msgid "You can make me do a lot of dumb things, but I refuse to carry that raft."
-msgstr "Możesz mnie namówić do wielu rzeczy, ale noszenie ze sobą tratwy to przesada."
+msgstr "Możesz zmusić mnie do zrobienia wielu głupich rzeczy, ale odmawiam noszenia tratwy."
 
 msgctxt "guypph012"
 msgid "This is somebody else's raft."
@@ -9304,27 +9304,27 @@ msgstr "Nie."
 
 msgctxt "guypph014"
 msgid "Nah, I like my raft better."
-msgstr "Nie, ja mam lepszą tratwę."
+msgstr "Nie, wolę swoją tratwę."
 
 msgctxt "guypph015"
 msgid "I bet a WHOLE lotta crawdaddies would fit in this trap."
-msgstr "Założę się, że KAŻDY by się nabrał na taką pułapkę."
+msgstr "Wiele raków zmieściłoby się w tę pułapkę."
 
 msgctxt "guypph016"
 msgid "And I bet it doesn't catch many either, with gaps THAT big between the bars."
-msgstr "Założę się, że ta pułapka nie złapie za wielu ludzi jak patrzę na tą PRZESTRZEŃ pomiędzy wyjściem."
+msgstr "Choć nie utrzymałaby ich ich zbyt wielu, z tak dużymi przerwami między prętami."
 
 msgctxt "guypph017"
 msgid "No thanks, I'll get my crawdaddies at the restaurant."
-msgstr "Nie dzięki, dostanę to samo w restauracji."
+msgstr "Nie dzięki, swoje raki zjem w restauracji."
 
 msgctxt "guypph018"
 msgid "Funny, I don't feel welcome."
-msgstr "Nie chcę żadnych krabów... chociaż, nie - mam już przynętę."
+msgstr "Nie czuję się witany."
 
 msgctxt "guypph019"
 msgid "That wouldn't be very neighborly."
-msgstr "To nie było by za sąsiedzkie."
+msgstr "To nie byłoby zbyt sąsiedzkie."
 
 msgctxt "guypph020"
 msgid "That's a very slippery welcome mat."
@@ -9332,39 +9332,39 @@ msgstr "To bardzo śliska wycieraczka."
 
 msgctxt "guypph021"
 msgid "I'm not going to get too close.  Wouldn't want Pegnose to see me."
-msgstr "Nie podejdę bliżej. Nie chcę żeby Pegnose mnie zauważył."
+msgstr "Nie podejdę bliżej. Nie chcę, żeby Kołkonos mnie zauważył."
 
 msgctxt "guypph022"
 msgid "There's no glass.  There's nothing to open."
-msgstr "To nie ma szyby. Nic ci nie otworzę."
+msgstr "Tu nie ma szyby. Nic nie otworzę."
 
 msgctxt "pegpph015"
 msgid "YEEEAAAAAAAAAGH!!!!!"
-msgstr ""
+msgstr "YEEEAAAAAAAAAGH!!!!!"
 
 msgctxt "pegpph016"
 msgid "Get away from me, you crazy duck!"
-msgstr "Głupia kaczko, zostaw mnie!"
+msgstr "Zostaw mnie, ty głupia kaczko!"
 
 msgctxt "pegpph017"
 msgid "Gaaah!"
-msgstr ""
+msgstr "Gaaah!"
 
 msgctxt "pegpph018"
 msgid "WhhoooooooOAAAA!!!"
-msgstr ""
+msgstr "WhhoooooooOAAAA!!!"
 
 msgctxt "pegpph019"
 msgid "LET ME OUTTA HERE!!!"
-msgstr "PROSZĘ, ODCZEP SIĘ!!!"
+msgstr "WYPUŚĆ MNIE STĄD!!!"
 
 msgctxt "guypph023"
 msgid "Ha... I don't think so.  You're going to jail, bucko!"
-msgstr "W to szczerzę wątpię. Idziesz do więzienia, przyjacielu."
+msgstr "Nie sądzę. Idziesz siedzieć, koleś!"
 
 msgctxt "guyoze001"
 msgid "That fountain gives me the heebie-jeebies."
-msgstr "Ta fontanna jest straszna."
+msgstr "Ta fontanna przyprawia mnie o ciarki."
 
 msgctxt "guyoze002"
 msgid "No, thanks."
@@ -9528,7 +9528,7 @@ msgstr "Teraz pachnie jak powrót na zimową łąkę."
 
 msgctxt "guyozi015"
 msgid "The stench has been replaced by faint traces of autumn pastures."
-msgstr ""
+msgstr "The stench has been replaced by faint traces of autumn pastures."
 
 msgctxt "guyozi016"
 msgid "Now all I can smell is the elusive scent of spring showers."
@@ -43037,7 +43037,7 @@ msgstr "Spójrz na:"
 
 msgctxt "txthos003"
 msgid "irregular sticks"
-msgstr "nieregularne drążki"
+msgstr "nieregularne laski"
 
 msgctxt "txthos004"
 msgid "'Choosing the Right Stick' sign"
@@ -43049,7 +43049,7 @@ msgstr "laski"
 
 msgctxt "txthos006"
 msgid "assorted sticks"
-msgstr "różne patyczki"
+msgstr "różnorodne laski"
 
 msgctxt "txthos007"
 msgid "bell"

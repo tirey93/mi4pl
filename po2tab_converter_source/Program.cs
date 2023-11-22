@@ -19,18 +19,42 @@ namespace po2tab_converter
         }
         private static void Convert(string[] args)
         {
-            string configFile = File.ReadAllText("config.json");
-            var config = JsonSerializer.Deserialize<Config>(configFile);
-            var fileName = config.FileName;
+            const string pathToConfig = "config.json";
+            string fileName = "";
+            if (File.Exists(pathToConfig))
+            {
+                string configFile = File.ReadAllText(pathToConfig);
+                var config = JsonSerializer.Deserialize<Config>(configFile);
+                fileName = config.FileName;
+            }
+            else
+            {
+                Console.WriteLine("config.json was not found in directory of the program");
+            }
 
             if (!File.Exists(fileName))
             {
                 fileName = "efmi.po";
+                if (!File.Exists(fileName))
+                {
+                    Console.WriteLine("efmi.po not found in directory of the program");
+                    fileName = "";
+                }
             }
 
             if (args.Length > 0 && !string.IsNullOrEmpty(args[0]))
             {
                 fileName = args[0];
+                if (!File.Exists(fileName))
+                {
+                    Console.WriteLine($"{fileName} was not found in directory of the program");
+                }
+            }
+
+            if (!File.Exists(fileName))
+            {
+                Console.WriteLine("Not file was found to process");
+                return;
             }
 
             string file = File.ReadAllText(fileName);

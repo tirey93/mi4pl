@@ -2,11 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/po2tab_converter_source/.vs
-/po2tab_converter_source/.vs/po2tab_converter/v17/.suo
+/po2tab_converter/.vs
+/po2tab_converter/.vs/po2tab_converter/v17/.suo
 /omega_t/team project/omegat/project_stats.txt
 /omega_t/team project/omegat/project_save.tmx.*.bak
 /omega_t/team project/omegat/last_entry.properties
-/po2tab_converter_source/bin
-/po2tab_converter_source/obj
-/po2tab_converter/.vs/po2tab_converter/DesignTimeBuild/.dtbcache.v2
+/po2tab_converter/bin
+/po2tab_converter/obj
+/po2tab_converter/bin/Debug/netcoreapp3.1/config.json

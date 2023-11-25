@@ -296,8 +296,8 @@
       <tuv xml:lang="en-US">
         <seg>'April 1 - Tell everybody their money is gone.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"1. Kwietnia - Powiedz wszystkim, że kasy nie ma"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T180702Z">
+        <seg>"1. kwietnia - Powiedz wszystkim, że kasa zniknęła"</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv xml:lang="en-US">
         <seg>'February 14 - Give away free Valentine's day steaks.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"14. Lutego - Rozdawaj każdemu klientowi kartki Walentynkowe"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182138Z">
+        <seg>"14sty lutego - Rozdawaj każdemu klientowi steki Walentynkowe"</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,16 +552,16 @@
       <tuv xml:lang="en-US">
         <seg>'January 1 - Y1.6K: Make sure abacus still works.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"1. Stycznia - Y1.6K: Upewnij się, że liczydło nadal działa"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T180706Z">
+        <seg>"1szy stycznia - Y1.6K: Upewnij się, że liczydło nadal działa"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>'June 6 - Break J. Flabby's legs if he hasn't repaid loan.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"6. Czerwca - Złam nogi J. Flabbiemu jeśli nie spłaci kredytu"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T180704Z">
+        <seg>"6ty czerwca - Złam nogi J. Flabbiemu jeśli nie spłaci pożyczki"</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv xml:lang="en-US">
         <seg>'Low 4.0% APR.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"Niskie 4% w skali roku""</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183119Z">
+        <seg>"Niskie 4.0% w skali roku"</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv xml:lang="en-US">
         <seg>'October 31 - Everybody put on suits and act like gentlemen.'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"31. Grudnia - Wszyscy ładnie się stroją jak dżentelmeni"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182232Z">
+        <seg>"31szy grudnia - Wszyscy się stroją i zachowują jak dżentelmeni"</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv xml:lang="en-US">
         <seg>'Pyrate!' magazine.  Popular news of the Caribbean's most scandalous and nefarious pirates.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Magazyn "Stop Piraci". Plotki, newsy i skandale z Karaibów, wywiady ze sławnymi piratami.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182935Z">
+        <seg>Magazyn "Piraci!". Popularne wiadomości o najbardziej skandalicznych i nikczemnych piratach z Karaibów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +896,8 @@
       <tuv xml:lang="en-US">
         <seg>'Thinking about that new ship?'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"Pomysł na nowy statek?"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183042Z">
+        <seg>"Myślisz o nowym statku?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,8 +1152,8 @@
       <tuv xml:lang="en-US">
         <seg>(Subject to approval, other fees may apply.  We do not extend credit to pirates.)  Figures.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>(Różne opłaty mogą być zaksięgowane. Nie zaciągamy kredytów piratom)</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183209Z">
+        <seg>(Z zastrzeżeniem zatwierdzenia, mogą obowiązywać inne opłaty. Nie udzielamy kredytów piratom). Liczby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1424,8 @@
       <tuv xml:lang="en-US">
         <seg>... and just why not, young lady?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>... ale dlaczego nie, młoda damo?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132834Z">
+        <seg>...ale czemu nie, młoda damo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3309,8 +3309,8 @@
       <tuv xml:lang="en-US">
         <seg>&lt;Sigh&gt;  At least I'm not in jail.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>&lt;wzdycha&gt; Przynajmniej nie jestem w więzieniu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142908Z">
+        <seg>Przynajmniej nie jestem w więzieniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3933,8 +3933,8 @@
       <tuv xml:lang="en-US">
         <seg>&lt;gasp&gt;  BRITTANY!?  WHERE!?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>BRITTANY? GDZIE?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114257Z">
+        <seg>BRITTANY!? GDZIE!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4597,8 +4597,8 @@
       <tuv xml:lang="en-US">
         <seg>Aaaaaaaaagh!!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ggeeyyaaaahh!!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135610Z">
+        <seg>Aaaaaaaaagh!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4853,8 +4853,8 @@
       <tuv xml:lang="en-US">
         <seg>Ack!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151901Z" creationid="damia" creationdate="20231116T151901Z">
-        <seg>Ack!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132427Z" creationid="damia" creationdate="20231123T132424Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -4877,8 +4877,8 @@
       <tuv xml:lang="en-US">
         <seg>Ack.  No way.  I think I've had enough caber tossing to last me a while.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie ma mowy. Sądzę, że mam już za dużo doświadczenia z kłodami.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T100835Z">
+        <seg>Nie ma mowy. Mam dość rzucania kłodami, by starczyło mi na jakiś czas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,8 +5237,8 @@
       <tuv xml:lang="en-US">
         <seg>Ah, I see.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ah, wszystko jasne...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112323Z">
+        <seg>Rozumiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5413,8 +5413,8 @@
       <tuv xml:lang="en-US">
         <seg>Ah, struth!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kurcze!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135208Z">
+        <seg>Psiakrew!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5533,8 +5533,8 @@
       <tuv xml:lang="en-US">
         <seg>Ah, yes, of course.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To wiele wyjaśnia.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114223Z">
+        <seg>No tak, jasne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@
       <tuv xml:lang="en-US">
         <seg>Aiiie...a giant lizard!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>O nie... to wielka jaszczurka!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190246Z">
+        <seg>Aj... to wielka jaszczurka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5997,8 +5997,8 @@
       <tuv xml:lang="en-US">
         <seg>All of Ozzie's guests must be very short.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pewnie goście Ozziego są naprawdę niscy.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T182227Z">
+        <seg>Wszyscy goście Ozziego muszą być bardzo niscy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6061,8 +6061,8 @@
       <tuv xml:lang="en-US">
         <seg>All right, you.  Didn't your mum ever explain that bank robbery isn't nice?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Już dobrze. Czy mamusia ci nie mówiła, że napad na bank to zły pomysł?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135818Z">
+        <seg>Już dobrze. Czy mamusia panu nie mówiła, że napad na bank to zły pomysł?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6317,8 +6317,8 @@
       <tuv xml:lang="en-US">
         <seg>Although we haven't found the loot yet.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jeszcze nie odnaleźliśmy łupu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135931Z">
+        <seg>Chociaż jeszcze nie znaleźliśmy łupu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6501,8 +6501,8 @@
       <tuv xml:lang="en-US">
         <seg>And I need proof that he committed the crime.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>No i potrzebuję dowodu, że to on popełnił przestępstwo.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141703Z">
+        <seg>Oraz potrzebuję dowodu, że popełnił przestępstwo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6781,16 +6781,16 @@
       <tuv xml:lang="en-US">
         <seg>And if you ask me, these don't look real.  Hee.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A tak między nami, to mi nie wygląda na prawdę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T134953Z">
+        <seg>A jak dla mnie, nie wyglądają na prawdziwe.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>And in this month's issue, how to loot and pillage and still be there for the kids!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To miesięcznik, jak grabić i kraść będąc ciągle dzieckiem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183020Z">
+        <seg>A w tym wydaniu miesięcznika - jak grabić, plądrować i mieć trochę czasu dla dzieci!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6871,8 +6871,8 @@
       <tuv xml:lang="en-US">
         <seg>And one that is not made any faster by your never-ending babbling.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Teraz już wiesz dlaczego to nie idzie szybko, on ciągle gada.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191412Z">
+        <seg>Twój nieustanny bełkot nie przyspieszy go ani trochę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6887,8 +6887,8 @@
       <tuv xml:lang="en-US">
         <seg>And remember, you've just been robbed by Guybrush Threepwood!  Har, har, ha!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>I pamiętajcie, to Guybrush Threepwood was napadł!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135529Z">
+        <seg>I pamiętajcie, właśnie was napadł Guybrush Threepwood!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7039,8 +7039,8 @@
       <tuv xml:lang="en-US">
         <seg>And what is that horrid smell?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>I co tak okropnie śmierdzi?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083746Z">
+        <seg>I co to za okropny zapach?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7063,8 +7063,8 @@
       <tuv xml:lang="en-US">
         <seg>And when I return, I'll have plumbed the mysteries of the Ultimate Insult!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A kiedy powrócę, będę już znał wielką potęgę Talizmanu Upokorzenia!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183400Z">
+        <seg>A kiedy wrócę, zgłębię tajemnice Talizmanu Upokorzenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,8 +7519,8 @@
       <tuv xml:lang="en-US">
         <seg>Are you done yet?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Już skończyłeś?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112044Z">
+        <seg>Skończyliście?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8791,8 +8791,8 @@
       <tuv xml:lang="en-US">
         <seg>Aww, how cuuute!  Little tiny treasure chests that you can't actually fit anything into.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Aww, jaki słodziutki! Malutki skarbeczek w skrzyneczce praktycznie do niczego nie przydatny.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183916Z">
+        <seg>Jakie to urocze!  Małe skrzyneczki skarbów, do których naprawdę nic się nie zmieści.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,8 +9191,8 @@
       <tuv xml:lang="en-US">
         <seg>Bank policy, sir.  I can't convert these traveler's checks because we've never heard of, what's this name?  'Aus-tra-li-a.'</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151909Z">
-        <seg>Takie są zasady. Nie mogę zamienić panu tej wycieczki ponieważ nigdy w życiu nie słyszeliśmy o takim miejscu. "Aus-tra-lia".</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T133310Z">
+        <seg>Polityka banku. Nie mogę przewalutować tych czeków podróżnych, ponieważ nigdy nie słyszeliśmy o, jak to było, "Aus-tra-lii".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9279,8 +9279,8 @@
       <tuv xml:lang="en-US">
         <seg>Be vewy vewy quiet.  I'm hunting ozzies.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Cicho...cicho. Zaraz upoluję Ozziego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092656Z">
+        <seg>Teraz bałdzo, bałdzo cicho. Zaraz upoluję Ozziego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9319,16 +9319,16 @@
       <tuv xml:lang="en-US">
         <seg>Because Lardbutt the Pirate here can't concentrate on the game for more than two minutes at a time.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Bo ten koleś nie może sie skoncentrować na grze dłużej niż dwie minuty.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190832Z">
+        <seg>Ponieważ ten tutaj Pirat Słonina nie potrafi skupić się na grze dłużej niż przez dwie minuty.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Because chess is a game that requires hours of intense concentration.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ponieważ szachy to rodzaj gry który wymaga koncentracji przez co najmniej kilka godzin.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113931Z">
+        <seg>Ponieważ szachy to gra wymagająca wielu godzin intensywnej koncentracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9551,8 +9551,8 @@
       <tuv xml:lang="en-US">
         <seg>Besides the funny name, there's a picture of a strange animal on here, that has another one popping out of its belly.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Poza tą śmieszną nazwą, są tutaj zdjęcia jakiś dziwnych zwierząt, ten jeden wyskakuje z brzucha tamtemu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135025Z">
+        <seg>Oprócz zabawnej nazwy, jest tu zdjęcie dziwnego zwierzęcia, któremu z brzucha wyskakuje drugie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10039,8 +10039,8 @@
       <tuv xml:lang="en-US">
         <seg>Bring him in, and I'll consider it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przyprowadź mi go, a ja to rozważę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T121619Z">
+        <seg>Proszę go sprowadzić, a ja się zastanowię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10093,10 +10093,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Brittany!</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113328Z" creationid="damia" creationdate="20231125T113328Z">
+        <seg>Brittany!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Brittany, look out!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Brittany, chodź do nas!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113327Z">
+        <seg>Brittany, uważaj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10375,8 +10383,8 @@
       <tuv xml:lang="en-US">
         <seg>But I think the miserable git's got me stymied with his Estrada Barricade.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale przez moją pomyłkę zmylił mnie Atakiem Pozycyjnym.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112213Z">
+        <seg>Ale widzę, ten żałosny gnojek powstrzymał mnie swoją barykadą Estrady.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10455,8 +10463,8 @@
       <tuv xml:lang="en-US">
         <seg>But I've closed that off with my cunning use of the flamboyant Cochran Defense.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale na to też mam sposób, po prostu użyje na niego sztuczki krucjatycznej.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112317Z">
+        <seg>Ale zamknąłem to dzięki sprytnemu użyciu ekstrawaganckiej Obrony Cochrana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10631,8 +10639,8 @@
       <tuv xml:lang="en-US">
         <seg>But it looks as though he's undermining my efforts via a modified Kruschev Burial Defense.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale na to też mam sposób, po prostu użyje na niego sztuczki krucjatycznej.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114206Z">
+        <seg>Ale chyba podważa to moje wysiłki poprzez zmodyfikowaną obronę pochówku Chruszczewa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10751,8 +10759,8 @@
       <tuv xml:lang="en-US">
         <seg>But remember this:</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tylko pamiętaj że:</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132943Z">
+        <seg>Proszę pamiętać:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,8 +10775,8 @@
       <tuv xml:lang="en-US">
         <seg>But stealing money from a bank by forging ledger entries... that's just so boring.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>... ale zwykła kradzież kasy z banku... to jest takie nudne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182806Z">
+        <seg>Ale kradzież pieniędzy z banku fałszując wpisy w księgach... to takie nudne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11063,8 +11071,8 @@
       <tuv xml:lang="en-US">
         <seg>But you might be waiting for a while.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jeśli nie przeszkadza ci czekanie kilku godzin.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113916Z">
+        <seg>Ale to może chwilę potrwać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11095,8 +11103,8 @@
       <tuv xml:lang="en-US">
         <seg>But you've honored them countless times before!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale rozmawialiśmy o tym wielokrotnie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T134737Z">
+        <seg>Ale wcześniej honorowaliście je setki razy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11111,8 +11119,8 @@
       <tuv xml:lang="en-US">
         <seg>But, but, but...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale ja tylko...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190626Z">
+        <seg>Ale...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11503,8 +11511,8 @@
       <tuv xml:lang="en-US">
         <seg>Can I help it if I have a wide variety of interests that cause my mind to wander?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jakbym ja mógł panować nad tym co mój mózg właśnie wymyśla.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190910Z">
+        <seg>Czy mogę poradzić, że mam wiele zainteresowań, które sprawiają, że mój umysł błądzi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11575,16 +11583,16 @@
       <tuv xml:lang="en-US">
         <seg>Can I play next?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Mogę zagrać następny?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190649Z">
+        <seg>Mogę zagrać?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Can I play now?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Już skończyliście?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113937Z">
+        <seg>Mogę już zagrać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12151,8 +12159,8 @@
       <tuv xml:lang="en-US">
         <seg>Climb</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T105630Z">
-        <seg>Wespnij się:</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T121343Z">
+        <seg>Użyj:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13087,8 +13095,8 @@
       <tuv xml:lang="en-US">
         <seg>Detective work isn't my job.  If you want to clear your name, you've got a few things to do.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ja nie jestem detektywem. Jeśli chcesz być czysty, musisz zrobić kilka rzeczy.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141532Z">
+        <seg>Nie jestem detektywem. Aby oczyścić swe imię, musi pan zrobić kilka rzeczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14375,8 +14383,8 @@
       <tuv xml:lang="en-US">
         <seg>Don't tell me you're gonna count THAT!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tylko mi nie mów, że chcesz TO zbić!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113643Z">
+        <seg>Nie mów, że chcesz to zaliczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14391,8 +14399,8 @@
       <tuv xml:lang="en-US">
         <seg>Don't touch anything while I'm gone.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie dotykaj niczego jak mnie nie będzie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183429Z">
+        <seg>Nie dotykaj niczego, jak mnie nie będzie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14903,8 +14911,8 @@
       <tuv xml:lang="en-US">
         <seg>Eeeegh, note to self: do not default on any bank loans from here.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Notatka do zapamiętania: Nie zaciągaj kredytów w bankach</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182323Z">
+        <seg>Eeeegh, uwaga dla siebie: nie spłacaj żadnych pożyczek z tego miejsca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14983,8 +14991,8 @@
       <tuv xml:lang="en-US">
         <seg>Eh, I don't think the fishies are gonna just swim into an empty ScupperWare container without some incentive.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231027T200648Z">
-        <seg>Nie sądzę, by rybki tak po prostu wpłynęły do pustego Pojemniczka bez jakiejś zachęty.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130853Z">
+        <seg>Nie sądzę, by rybki tak po prostu wpłynęły do pustego pojemnika FekaWare bez jakiejś zachęty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15487,8 +15495,8 @@
       <tuv xml:lang="en-US">
         <seg>En garde!  Touché!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>En garde!  Walcz!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185402Z">
+        <seg>En garde!  Touché!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15695,8 +15703,8 @@
       <tuv xml:lang="en-US">
         <seg>Even if it fits, it only proves he was in the bank.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nawet jeśli to do niego pasuje, to udowadniasz tylko tyle, że był w banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T121610Z">
+        <seg>Nawet jeśli pasuje, to dowodzi tylko, że był w banku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15951,8 +15959,8 @@
       <tuv xml:lang="en-US">
         <seg>Ewww!  No way!  Who knows where these skulls have been?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ewww! Ta, jasne! A kto wie gdzie te czaszki leżały?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105830Z">
+        <seg>Ewww! Nigdy! Kto wie, gdzie te czaszki były?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16047,8 +16055,8 @@
       <tuv xml:lang="en-US">
         <seg>Except...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>No chyba, że...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112635Z">
+        <seg>Z wyjątkiem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16423,8 +16431,8 @@
       <tuv xml:lang="en-US">
         <seg>Fine.  And if I win, you have to leave my house.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dobrze. Ale jeśli wygram, opuścisz mój dom.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T184009Z">
+        <seg>Dobrze. A jeśli wygram, opuścisz mój dom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16439,8 +16447,8 @@
       <tuv xml:lang="en-US">
         <seg>Fine.  You wanna see a move?  Here's a move!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dobrze, chcesz zobaczyć mój ruch? Masz swój ruch!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113821Z">
+        <seg>Dobrze, chcesz zobaczyć ruch? Masz swój ruch!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16839,8 +16847,8 @@
       <tuv xml:lang="en-US">
         <seg>Free Scupperware promotion today!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wow, darmowe pojemniczki!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T131113Z">
+        <seg>Promocja na darmowe FekaWare!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17927,16 +17935,16 @@
       <tuv xml:lang="en-US">
         <seg>Good gravy, is that a dagger I see before me!?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wielki Boże, to tym ją zabiłeś?!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113209Z">
+        <seg>Rany julek, czy toż to sztylet skierowany na mnie!?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Good gravy, is that a tub full of gravy!?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wielki Boże, to tym ją zabiłeś?!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185751Z">
+        <seg>Rany julek, czy to nie Julek!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17999,8 +18007,8 @@
       <tuv xml:lang="en-US">
         <seg>Good thing I had that trail to follow.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dobry pomysł z tymi termitami.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T091644Z">
+        <seg>Dobrze, że miałem ślad na ścieżce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18247,8 +18255,8 @@
       <tuv xml:lang="en-US">
         <seg>Grandpa Marley's letter mentioned the Ultimate Insult.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hmm. W liście Dziadka Marleya było coś o Talizmanie Upokorzenia.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183444Z">
+        <seg>List dziadka Marleya wspominał o Talizmanie Upokorzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18583,8 +18591,8 @@
       <tuv xml:lang="en-US">
         <seg>Guns don't kill wild animals, Ozzie kills wild animals.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To nie broń zabija zwierzęta, to Ozzie zabija zwierzęta.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084742Z">
+        <seg>Broń nie zabija dzikich zwierząt, to Ozzie je zabija</seg>
       </tuv>
     </tu>
     <tu>
@@ -19003,8 +19011,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Ha ha.  Nice move, brainiac!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dobry ruch, móżdżku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T120016Z">
+        <seg>Ha, ha. Niezły ruch, geniuszu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19523,8 +19531,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Haven't ya been paying attention?  I NEVER lose.  Now beat it!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Czy jesteś głuchy? NIGDY nie przegrałem. Zmiataj stąd!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082051Z">
+        <seg>Nie słuchałeś mnie? Ja NIGDY nie przegrywam. Teraz zjeżdżaj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19731,8 +19739,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>He should switch to decaf.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Powinna rzucić kofeine.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135503Z">
+        <seg>Powinien przejść na bezkofeinową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20043,8 +20051,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>He's trying to divine the outcomes of every possible move, through sheer force of will.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Próbuje swoimi magicznymi zdolnościami przewidzieć następny ruch przeciwnika.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191135Z">
+        <seg>Próbuje przewidzieć skutki każdego możliwego ruchu, dzięki czystej sile swej woli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20187,8 +20195,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Heh, heh, heh, heh...Oooh, good move!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ooh! To było dobre!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113623Z">
+        <seg>Heh, heh, heh, heh... Uuu, dobry ruch!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20707,8 +20715,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey!  A prosthetic nose!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej! Proteza nosa!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132136Z">
+        <seg>Hej! Sztuczny nos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20723,8 +20731,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey!  Don't touch that!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie dotykaj tego!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113449Z">
+        <seg>Hej! Proszę nie dotykać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20819,8 +20827,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey!  That looks like the Lucre Town Bank's missing loot!  And the Marley Heirlooms!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231031T104914Z">
-        <seg>Hej! Czy to nie zaginiony skarb z Lucre Banku! No i scheda Marleya!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110630Z">
+        <seg>Hej! To wygląda jak zaginiony łup z Banku Mamony!  I scheda Marleya!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21059,16 +21067,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, isn't that Bobby Fisher!?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, czy to nie David Copperfield?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113033Z">
+        <seg>Hej, czy to nie Bobby Fisher!?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Hey, isn't that Brittany, the Bank Teller?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, czy to nie Brittany, kasjerka w banku?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113305Z">
+        <seg>Hej, czy to nie Brittany, kasjerka z banku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21099,8 +21107,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, it's a plate of BROWNIES!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej to trójgłowa małpa!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185200Z">
+        <seg>Hej, rozdają ciasteczka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21187,8 +21195,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, something just fell out of the chest!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, coś mi chyba wypadło!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131922Z">
+        <seg>Hej, coś tu wypadło ze skrzyni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21275,8 +21283,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, there's a hidden passage back here!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, jakiś ukryty korytarz na dół!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T100922Z">
+        <seg>Hej, tu jest jakieś ukryte przejście!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,8 +21323,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, there's a secret-looking door there!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, to mi wygląda na ukryte drzwi!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131705Z">
+        <seg>Hej, tam są tajemnicze drzwi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,8 +21403,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hey, where'd he go?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, gdzie on jest?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135540Z">
+        <seg>Hej, gdzie on zwiał?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21747,8 +21755,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hm.  I guess I need to pull that ring somehow to open these drapes.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ten przycisk po prostu krzyczy do mnie "Naciśnij mnie".</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110528Z">
+        <seg>Chyba muszę jakoś pociągnąć za ten pierścień, żeby otworzyć kotary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21875,8 +21883,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hmm.  Maybe I should wait until they're closer.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hmm. Może poczekać aż podpłyną bliżej.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131856Z">
+        <seg>Hmm. Może poczekam, aż podpłyną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21899,8 +21907,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hmm.  Once I clear my name, I really should find out what this Ultimate Insult thingy is.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kiedy moje imię będzie już czyste, muszę się dowiedzieć co to jest ten Talizman Upokorzenia.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183743Z">
+        <seg>Hmm.  Kiedy już oczyszczę swe imię, koniecznie muszą się czegoś dowiedzieć o tym Talizmanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22393,6 +22401,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Hmph.</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114251Z" creationid="damia" creationdate="20231125T114251Z">
+        <seg>Hmph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Hmph.  I guess there aren't any more boulders on that ramp.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -22459,16 +22475,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Holy macaroni, it's a time-travelling H.G. Wells, and he's brought a bucket of macaroni!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Na kręcony makaron, to H.G Wells, pije jak skunks!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185443Z">
+        <seg>Na kręcony makaron, to H.G Wells, wrócił z przeszłości i rozdaje tony makaronu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Holy macaroni, it's a time-travelling H.G. Wells, and he's drunk as a skunk!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Na kręcony makaron, to H.G Wells, pije jak skunks!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113118Z">
+        <seg>Na kręcony makaron, to H.G Wells, upił się jak skunks!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23531,8 +23547,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Huh!  What do you know!  One plus one really does equal two!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Huh! Wiesz co! Jeden plus jeden na serio daje dwa!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182551Z">
+        <seg>Huh!  Co ty tam wiesz!  Jeden plus jeden naprawdę równa się dwa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23971,8 +23987,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I believe that Seńor Castaneda is trying to shnooker me with a predictable Nostromo Gambit.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale jestem prawie pewny koleś chce mnie załatwić sztuczką na Nostradamusa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112246Z">
+        <seg>Czuję, że Seńor Castaneda próbuje mnie oszukać przewidywalnym gambitem Nostromo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23987,16 +24003,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I believe this species is known as 'Echinasteridae Henricia'.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ten rodzaj jest bodajże znany jako "Echinasteridae Henricia"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110935Z">
+        <seg>Ten gatunek to bodajże "Echinasteridae Henricia".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I believe this would qualify as a 'luscious' fern.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wierzę, że ta paproć może być "pociągająca".</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183517Z">
+        <seg>Myślę, że kwalifikuje się to jako "soczysta" paproć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24035,8 +24051,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I bet he wasn't hugged much as a child.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Sądzę, że rodzice nie okazywali mu za dużo miłości.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105746Z">
+        <seg>Założę się, że jako dziecko nie przytulano go za często.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24347,16 +24363,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can probably get a better peek at it from up there.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tam bym mógł się temu lepiej przyjrzeć będąc wyżej.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113655Z">
+        <seg>Pewnie mógłbym się temu lepiej przyjrzeć z góry.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I can probably reach it better from up there.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Prawdopodobnie dosięgnął bym to, gdybym był wyżej.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113547Z">
+        <seg>Z góry pewnie byłoby mi łatwiej sięgnąć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24467,8 +24483,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't actually fit anything useful into those.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie mam niczego co by do tego pasowało.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183929Z">
+        <seg>Nie mogę w nich zmieścić nic użytecznego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24507,8 +24523,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't believe I lost again.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie mogę uwierzyć, że znowu przegrałem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185441Z">
+        <seg>Nie wierzę, że znowu przegrałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24611,8 +24627,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't go out that way... Inspector Canard is watching the entrance.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie wyjdę stąd tędy... Inspektor Canard obserwuje wnętrze.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184034Z">
+        <seg>Nie mogę wyjść tędy... Inspektor Canard obserwuje wejście.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24707,16 +24723,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't reach it with just my arm though.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Niestety, to poza moim zasięgiem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110543Z">
+        <seg>Nie mogę go jednak dosięgnąć samą ręką.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I can't reach it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie da rady.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110552Z">
+        <seg>Nie sięgnę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24731,8 +24747,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't reach the drape hook.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie sięgnę tego haka.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110414Z">
+        <seg>Nie mogę sięgnąć haczyka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24779,8 +24795,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I can't tell what that is.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie powiem ci co to jest.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110722Z">
+        <seg>Nie wiem, co to jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25379,8 +25395,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't know why I keep losing.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dlaczego ja ciągle przegrywam.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185510Z">
+        <seg>Dlaczego ciągle przegrywam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25411,8 +25427,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't know.  I haven't figured it out yet.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Teraz ci jeszcze nie powiem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114236Z">
+        <seg>Nie wiem. Jeszcze tego nie rozpracowałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25467,8 +25483,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't need a loan advertisement.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie potrzebuję takiej prasy.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183218Z">
+        <seg>Nie potrzebuję reklamy pożyczki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25691,8 +25707,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think I should do that.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To chyba nie jest dobry pomysł.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110846Z">
+        <seg>Chyba nie powinienem tego robić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25731,8 +25747,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think I want to get lost in the forest.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie ma szans żebym go dogonił w lesie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T090310Z">
+        <seg>Nie sądzę, bym chciał zgubić się w lesie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25747,8 +25763,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think I'll be able to catch them with my bare hands.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wątpię czy uda mi się je złapać gołymi rękoma.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131841Z">
+        <seg>Nie sądzę, bym był w stanie je złapać gołymi rękami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25779,8 +25795,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think I'm qualified to redecorate this room.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie jestem pewny czy już mnie usadzili jako dekoratora wnętrz.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110334Z">
+        <seg>Nie sądzę, bym miał kwalifikacje do zmiany wystroju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26123,8 +26139,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think you can turn it on and off from here.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wątpię żeby można było tym się bawić z tego miejsca.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113840Z">
+        <seg>Wątpię, czy mogę tym przełączać z tak daleka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26515,8 +26531,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I get to go back to the mansion and play with Timmy?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Więc idę do mojej rezydencji pobawić się z Timmim.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142005Z">
+        <seg>Mam wrócić do rezydencji i pobawić się z Timmym?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26723,8 +26739,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I guess some deadbeat couldn't pay back his loan.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Chyba jakiś konający nie mógłby oddać mi łupu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183711Z">
+        <seg>Pewnie ktoś spłukany nie mógł spłacić pożyczki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26979,8 +26995,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I have no idea what that is.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie wiem co to jest.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110755Z">
+        <seg>Nie mam pojęcia, co to jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27395,8 +27411,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I knew I should have taken that class on Ancient Voodoo Curses at the University of Toowoomba.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wiedziałem, żeby lepiej użyć jakieś klątwy Voodoo na wykładowcę w Toowoomba.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092931Z">
+        <seg>Trzeba było wziąć udział w tych zajęciach na temat starożytnych klątw Voodoo na Uniwersytecie Toowoomba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27667,8 +27683,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I may have a short temper, but I've got a lot of walking sticks!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Może i jestem cholerykiem, ale zobacz jaką mam laskę!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183335Z">
+        <seg>Może i jestem porywczy, ale za to mam dużo lasek!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27691,8 +27707,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I mean, I REALLY can't reach it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>W sensie, tym razem naprawdę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132105Z">
+        <seg>W sensie, NAPRAWDĘ nie sięgnę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27755,8 +27771,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I must have kangaroos in me upper paddock.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Chyba jakiś kangur strzelił mi w głowę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092547Z">
+        <seg>Chyba kangur upadł mi na głowę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27803,8 +27819,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I need proof he was at the scene of the crime.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Potrzebuje dowodu, że to on był na miejscu zbrodni.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141607Z">
+        <seg>Potrzebuje dowodu, że był na miejscu zbrodni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28067,8 +28083,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I put a ladder in my pants once...I'm not eager to repeat the experience.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kiedyś włożyłem drabinę do spodni...ale drugi raz tego nie zrobię.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110658Z">
+        <seg>Raz włożyłem drabinę do spodni... nie mam ochoty tego powtarzać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28163,8 +28179,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I really don't need that calendar.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie potrzebuje żadnego kalendarza.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T131310Z">
+        <seg>Nie potrzebuję takiego kalendarza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28187,8 +28203,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I really don't want a rock.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie potrzebujemy kamieni.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110959Z">
+        <seg>Naprawdę nie potrzebuję skały.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28619,8 +28635,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I should talk to the teller first.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Powinienem najpierw pogadać z kasjerką.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184200Z">
+        <seg>Powinienem pierw zapytać kasjerki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28715,8 +28731,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I suppose this is the only way in or out of this place for now.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>W tym momencie to jedyna metoda na wchodzenia tutaj.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130234Z">
+        <seg>Na razie to raczej jedyna droga wejście i wyjścia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28763,8 +28779,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I sure hope the previous owner got a chance to empty their underwear drawer.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wierzę, że poprzedni właściciel mógł opróżnić swoje kieszenie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183808Z">
+        <seg>Mam nadzieję, że poprzedni właściciel miał sposobność opróżnić szufladę z bielizną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29355,8 +29371,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I think that's called 'Moose Coral'.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Sądzę, że to się nazywa "łosoś koralowy"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T111145Z">
+        <seg>To chyba "łoś koralowy"</seg>
       </tuv>
     </tu>
     <tu>
@@ -29491,8 +29507,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I thought he'd never leave.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Myślałem, że już nigdy stąd nie wyjdzie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084608Z">
+        <seg>Myślałem, że nigdy nie wyjdzie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29971,8 +29987,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I was wondering about that.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tego się bałem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142553Z">
+        <seg>To mnie zastanawiało.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30251,16 +30267,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I wonder what would happen if I pull it?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ciekawe co by się stało gdybym to nacisnął...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113440Z">
+        <seg>Ciekawe, co by się stało, gdybym pociągnął?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I wonder what's behind this drape-like thing that's occluding my view...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ciekawe co ujrzą moje oczy, kiedy odsłonię tą zasłonkę...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110248Z">
+        <seg>Zastanawiam się, co kryje się za tą kotarą, zasłaniającą mi widok...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30283,8 +30299,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I wonder where that rope goes?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ciekawe gdzie mnie ta lina zaprowadzi?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131719Z">
+        <seg>Ciekawe, dokąd prowadzi ta lina?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30555,8 +30571,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I'd hate to see the creature that laid this!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie chciałbym widzieć czegoś, co się z tego wykluje!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113223Z">
+        <seg>Nie chciałbym zobaczyć bestii, która to zniosła!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31075,16 +31091,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I'll bet there's just more creepy stuffed relics behind this door.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Założę się, że za tymi drzwiami jest jeszcze więcej dziwnych rzeczy.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084819Z">
+        <seg>Założę się, że za tymi drzwiami jest jeszcze więcej wypchanych reliktów.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I'll bet this belongs to that smelly pirate guy.  The one with no nose.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Założę się, że to należy do śmierdzącego pirata. On może nie mieć nosa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132247Z">
+        <seg>Założę się, że należy do tamtego śmierdzącego pirata. Tego bez nosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31275,8 +31291,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I'll ignore that, Threepwood.  Around here, we do things by the book.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Powiedzmy, że tego nie usłyszałem. Róbmy swoją powinność.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141849Z">
+        <seg>Puszczę to mimo uszu. Tutaj działamy zgodnie z zasadami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,8 +31387,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I'll let you get back to your game.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Twój kolega wygląda jakby się zahipnotyzował.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112959Z">
+        <seg>Nie będę już was rozpraszał.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31528,8 +31544,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I'll take that, Mister Threepwood.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151858Z">
-        <seg>Lepiej to wezmę, panie Threepwood.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132258Z">
+        <seg>Wezmę go, panie Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31560,8 +31576,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I'll tell you why.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ja ci powiem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190727Z">
+        <seg>Już ci mówię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31752,8 +31768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I'm SURE if I really needed to use the bathroom, the bank manager would let me.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jestem PEWNY, że jeśli naprawdę będę potrzebował iść do łazienki, to szef banku mnie puści.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183609Z">
+        <seg>Gdybym naprawdę potrzebował skorzystać z łazienki, kierownik na pewno by pozwolił.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31928,8 +31944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I'm almost out of air.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Już prawie nie mam powietrza.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110708Z">
+        <seg>Kończy mi się powietrze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32576,8 +32592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I'm not picking up anything unless I know what it is first.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie dotknę tego, póki mi nie powiesz co to jest.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110833Z">
+        <seg>Nie podniosę niczego, dopóki nie dowiem się, co to jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33296,8 +33312,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've always wondered how they get the ship in there.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zawsze mnie zastanawiało jak oni wsadzają tam te małe stateczki.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183422Z">
+        <seg>Zawsze zastanawiałem się, jak oni tam wsadzają ten statek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33312,8 +33328,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've been chipping away at Mister Santiago's material via a subtle Yeltsin Stagger-Step Attack.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale jestem prawie pewny koleś chce mnie załatwić sztuczką na Nostradamusa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114129Z">
+        <seg>Odcinałem się od materiału Mister Santiago poprzez subtelny atak chwiejnego kroku Yeltsina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33336,8 +33352,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've been pressing Seńor Castaneda's queen with my Montgolfier Offensive.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Naciskałem swoją ogromną defensywą jego królową o tylnego frontu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114554Z">
+        <seg>Naciskałem hetmana Seńora Castanedy moją ofensywą Montgolfier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33472,8 +33488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've got business to attend to, but I'll come back, and when I do, I want these honored!!!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pomogę ci w tym interesie, ale jak wrócę, chcę moje honorarium.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135304Z">
+        <seg>Mam sprawy do załatwienia, ale jak wrócę, chcę je mieć uhonorowane!!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33504,16 +33520,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've got no use for a used dresser.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie wiem do czego mógłbym użyć tej komody.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183832Z">
+        <seg>Nie miałbym pożytku z używanej komody.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>I've got no use for used barrels.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie wiem do czego mógłbym ich użyć.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183745Z">
+        <seg>Nie miałbym pożytku z beczek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33528,8 +33544,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've got plenty of tables at home.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Mam tego mnóstwo w domu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105626Z">
+        <seg>Mam mnóstwo stołów w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33552,8 +33568,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I've got to find a way to get in there!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Muszę się tam jakoś dostać.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110636Z">
+        <seg>Muszę się tam jakoś dostać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34000,8 +34016,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>I... lost.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ja...przegrałem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185421Z">
+        <seg>Przegrałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34096,8 +34112,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ick.  Dirty dishes.  For a master thief, Pegnose is a real slob.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ick. Brudne naczynia. Jak na master-złodzieja, Pegnose to prawdziwy brudas.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105615Z">
+        <seg>Fuj. Brudne naczynia. Jak na mistrza złodziei, Kołkonos jest wielkim niechlujem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34488,8 +34504,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>If that's the case, then my Kaplan Maneuver should choke off his rooks.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale przez moją pomyłkę zmylił mnie Atakiem Pozycyjnym.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114030Z">
+        <seg>A jeśli tak, to mój Manewr Kaplana powinien zdławić jego wieże.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34664,8 +34680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>If you don't mind waiting a few hours.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jeśli nie przeszkadza ci poczekać kilka godzin.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190710Z">
+        <seg>Ale to potrwa kilka godzin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35128,8 +35144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Instead, I'll just take that as evidence.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tak naprawdę, wezmę to jako dowód w sprawie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T121640Z">
+        <seg>Po prostu wezmę to jako dowód w sprawie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35144,16 +35160,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Instead, this smells more like subtle sea zephyrs.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Natomiast to pachnie jak subtelny zefirek na morzem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082442Z">
+        <seg>Teraz pachnie bardziej jak subtelne morskie zefiry.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Instead, we hire our pirate brethren, the accountants, to add and keep track of our treasure for us.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zamiast tego my wynajmujemy piratów, księgowych, żeby pozostać na naszej ścieżce do naszego skarbu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182631Z">
+        <seg>Zamiast tego zatrudniamy naszych braci piratów, księgowych, aby dodawali i śledzili nasze skarby za nas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35296,8 +35312,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Is he bringing lunch?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A gra on w szachy?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112501Z">
+        <seg>Przyniósł lunch?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35704,8 +35720,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It appears that Mister Santiago is employing a variant of the Barbarino Offense.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Naciskałem swoją ogromną defensywą jego królową o tylnego frontu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114007Z">
+        <seg>Wygląda na to, że Pan Santiago stosuje wariant Obrony Barbarino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35736,8 +35752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It controls that light!  Technology marches forward!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To wpływa na światło! Technologia idzie do przodu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113509Z">
+        <seg>Kontroluje światło! Technologia idzie do przodu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35800,16 +35816,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It doesn't smell like Eau de LeChuck anymore.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To nie pachnie na pewno jak Eau de LeChuck.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082506Z">
+        <seg>Nie pachnie już jak Eau de LeChuck.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>It doesn't tie him to the loot.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tym nie udowodnisz, że on ma łup.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132644Z">
+        <seg>Nie łączy go to z łupem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35832,8 +35848,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It goes deeper into the forest.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To kupa buszu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084855Z">
+        <seg>Prowadzi głębiej w las.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36000,8 +36016,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It leads back to the Lucre Island™ forests.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ta droga prowadzi do lasu Wyspy Mamony</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183131Z">
+        <seg>Ta droga prowadzi do lasów Wyspy Mamony</seg>
       </tuv>
     </tu>
     <tu>
@@ -36128,8 +36144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It looks like... a nose?!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To wygląda jak... nos?!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113703Z">
+        <seg>Wygląda jak... nos?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36152,8 +36168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It looks pretty well attached to the wall.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wygląda o wiele lepiej przyczepione do ściany.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113618Z">
+        <seg>Wygląda na dobrze przymocowane do ściany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36384,8 +36400,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It smells awful!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To śmierdzi!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082451Z">
+        <seg>Śmierdzi okropnie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36600,8 +36616,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It wasn't me!  It was the no-nosed bandit!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To nie byłem ja! To beznosy bandyta!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135737Z">
+        <seg>To nie ja! To ten beznosy bandyta!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36664,8 +36680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It wouldn't go with the decor of the Governor's Mansion.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To na pewno nie mogłoby dekorować Posiadłości Gubernatora.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T182216Z">
+        <seg>Nie pasowałby do wystroju rezydencji gubernatora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36696,8 +36712,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It'd better be, or I'll buy up your putrid little shop and replace it with something useful...</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231121T181845Z">
-        <seg>Lepiej, żeby tak było bo wykupię twój obskurny sklepik i zastąpię go czymś użytecznym....</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T153051Z">
+        <seg>Lepiej, żeby tak było, bo wykupię twój obskurny sklepik i zastąpię go czymś użytecznym....</seg>
       </tuv>
     </tu>
     <tu>
@@ -37256,8 +37272,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's a good thing he's so gullible.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Na szczęście facet jest naiwny.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183755Z">
+        <seg>Dobrze, że jest taki łatwowierny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37360,8 +37376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's a light fixture.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Lampka nocna.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113731Z">
+        <seg>Oprawa oświetleniowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37400,8 +37416,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's a little too heavy for me.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Są trochę za ciężkie jak dla mnie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184105Z">
+        <seg>Są dla mnie trochę za ciężkie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37648,8 +37664,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's a school of little, glowing fish.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To banda małych, świecących rybek.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131823Z">
+        <seg>To ławica małych, świecących rybek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37832,8 +37848,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's a very time-consuming process.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To bardzo czasochłonne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191425Z">
+        <seg>To bardzo czasochłonny proces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37920,8 +37936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's all his fault.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To wszystko twoja wina.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191103Z">
+        <seg>To jego wina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37960,8 +37976,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's an empty ScupperWare container.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To pusty Pojemniczek.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130838Z">
+        <seg>To pusty pojemnik FekaWare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38072,8 +38088,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's beautiful!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jest piękne!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132022Z">
+        <seg>Ależ piękne!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38176,8 +38192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's controlled by a switch somewhere.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Skądś musi się to kontrolować.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113959Z">
+        <seg>Jakiś przełącznik musi tym sterować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38232,8 +38248,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's don't think it's my time to walk into the light.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To nie czas na to żebym zmierzał w stronę światła.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132041Z">
+        <seg>To chyba nie czas, żebym zmierzał w stronę światła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38304,8 +38320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's full of reminders...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jest pełne przypominaczy...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182443Z">
+        <seg>Pełno przypomnień...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38400,8 +38416,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's hard to say...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hm, ciężko powiedzieć...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112109Z">
+        <seg>Ciężko powiedzieć...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38472,8 +38488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's just a rock.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To tylko kamień.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110956Z">
+        <seg>To tylko skała.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38528,8 +38544,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's just some slimy sea weed.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To tylko wodorosty.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131731Z">
+        <seg>To tylko oślizły chwast morski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38640,8 +38656,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's not as much fun when Ozzie isn't here to enjoy the prank, too.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To nie jest takie śmieszne kiedy Ozziego nie ma w domu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083712Z">
+        <seg>Nie jest tak zabawnie, gdy nie ma Ozziego, aby cieszyć się żartem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38664,8 +38680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's not so shallow here.  I can just make out the bottom.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tutaj jest raczej głęboko. Nie widać butelek.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T094607Z">
+        <seg>Tutaj nie jest tak płytko. Ledwo widać dno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38768,8 +38784,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's outta commission.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To już nie działa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184044Z">
+        <seg>Jest nieczynne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38800,16 +38816,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's pretty shallow here.  I can see the dirt on the bottom easily.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale tutaj jest płytko. Widać butelki po piwie na dnie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T093011Z">
+        <seg>Jest tu dość płytko. Z łatwością mogę dostrzec piach na dnie.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>It's probably attached to that rock real tight.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ten kamień jest na pewno ciężki.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110952Z">
+        <seg>Prawdopodobnie jest mocno przymocowany do skały.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38840,16 +38856,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's rather uncomfortable, can you loosen it?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Czy to jest tak niewygodne, że się tego nie da zgubić?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142622Z">
+        <seg>Jest trochę niewygodny, poluzuje mi pan?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>It's really deep here.  I can't see the bottom at all, just a strange murky darkness.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale tu głęboko. Nie widać kompletnie nic, poza ciemną wodą.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T100707Z">
+        <seg>Bardzo tu głęboko. W ogóle nie widzę dna, tylko dziwną mętną ciemność.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38864,8 +38880,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's right over here, Mister Mandrill.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T150517Z">
-        <seg>Mam ją tutaj, panie Mandrill</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T152944Z">
+        <seg>Mam ją tutaj, panie Mandrill.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,8 +39064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's the front door of this fabulous (though creepy) mansion.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To drzwi wejściowe tego przerażającego domu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183122Z">
+        <seg>To frontowe drzwi tej wspaniałej (choć przerażającej) rezydencji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39096,8 +39112,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's the lagoon that I followed Ozzie to!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To laguna odnaleziona śledząc Ozziego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T091616Z">
+        <seg>To laguna, do której doprowadził mnie Ozzie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39240,16 +39256,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's the way out of this carnival of cadavers.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To sposób na wyjście z tego cyrku na kółkach.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084846Z">
+        <seg>To wyjście z tego karnawału zwłok.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>It's the way up to the surface.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wyjdę tędy na powierzchnię.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131740Z">
+        <seg>To droga na powierzchnię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,8 +39320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's too close to call.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Za wcześnie żeby powiedzieć.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112402Z">
+        <seg>Za wcześnie mówić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39320,16 +39336,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's too dark to see.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jest za ciemno żeby coś widzieć.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110816Z">
+        <seg>Za ciemno, by dostrzec.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>It's too far away.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biegać to on nie umie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084618Z">
+        <seg>To za daleko.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39432,8 +39448,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's... something.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To wygląda jak...coś.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110732Z">
+        <seg>To... coś.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40144,8 +40160,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Just open an account with 10,000 pieces of eight or more.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nic tylko założyć konto w banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T131256Z">
+        <seg>Wystarczy otworzyć konto mając na nim 10 000 sztuk złota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40224,8 +40240,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Kangaroo.  Kangaroe.  Kang...  Kangaroo... Kanga... Kangaroo!  Kangaroo.  Heh.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kangury. Kangury? Kangury...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135410Z">
+        <seg>Kangur.  Kangor.  Kang...  Kangur... Kangu... Kangur!  Kangur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41024,8 +41040,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Let's go try it on Pegnose!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zobaczmy czy to pasuje do Pegnose'a.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132531Z">
+        <seg>Sprawdźmy go Kołkonosie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41112,8 +41128,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Let's stick to the basics, shall we?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie bawmy się w takie głupoty.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185353Z">
+        <seg>Trzymajmy się podstawy, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -41512,7 +41528,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Look over there, it's something interesting!</seg>
       </tuv>
-      <tuv xml:lang="pl">
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T115701Z">
         <seg>Hej, patrz! Tam jest coś ciekawego!</seg>
       </tuv>
     </tu>
@@ -41552,8 +41568,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Look, a three-headed monkey!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej to trójgłowa małpa!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113019Z">
+        <seg>Patrzcie, to trójgłowa małpa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41592,8 +41608,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Look, up in the sky!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Patrz, w górę!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T115733Z">
+        <seg>Patrz w górę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41664,8 +41680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Looks like someone couldn't hold their breath long enough.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wygląda na kogoś, kto nie utrzymał powietrza wystarczająco długo.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T111030Z">
+        <seg>Chyba ktoś nie mógł wstrzymać oddechu wystarczająco długo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43366,6 +43382,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Murray?</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092225Z" creationid="damia" creationdate="20231123T092225Z">
+        <seg>Murray?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>MurrayBall!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -43976,8 +44000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>NO!  I just had that one deodorized!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie! Mam tylko jeden dezodorant!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183835Z">
+        <seg>Nie! Już go popsikałem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -44272,8 +44296,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nah, I leave the home decorating to Elaine.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To Elaine ma się zajmować dekoracjami w domu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183628Z">
+        <seg>Nie, dekorowanie domu zostawiam Elaine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44288,8 +44312,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nah, I prefer treasure chests of the larger variety.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wolę skarby odrobinę większe od tego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183951Z">
+        <seg>Nie, wolę większe skrzynie ze skarbami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44304,8 +44328,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nah, I wouldn't want to get tipsy in here and accidentally break something expensive.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, nie chciałbym się przez przypadek upić i stłuc coś drogiego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105523Z">
+        <seg>Nie, nie chciałbym się tu upić i przypadkowo zepsuć czegoś drogiego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44496,8 +44520,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Naturally.  Now get outta my house!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oczywiście. A teraz wynoś się z tego domu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185431Z">
+        <seg>Naturalnie. A teraz wynoś się z tego domu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45264,8 +45288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No way!  REAL pirates don't need to add!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie ma mowy! PRAWDZIWI piraci nigdy nie dodają!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182602Z">
+        <seg>Bez szans! PRAWDZIWI piraci nigdy nie dodają!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45280,8 +45304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No way, I'm trying to CLEAR my name of a robbery, not commit ANOTHER one!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nigdy w życiu, próbuje OCZYŚCIĆ moje dobre imię, a nie POPEŁNIAĆ następne!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182835Z">
+        <seg>Nie ma mowy, próbuję oczyścić się z zarzutu kradzieży, a nie popełnić kolejną!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45496,8 +45520,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No, I have no interest in trying to hatch the egg.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, wychowywanie piskląt mnie nie obchodzi.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084720Z">
+        <seg>Nie, nie jestem zainteresowany próbą wyklucia jajka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45608,8 +45632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No, I'd probably get busted for possession of stolen property.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, Inspektor od razu by mnie za to zamknął.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105701Z">
+        <seg>Nie, prawdopodobnie by mnie aresztowano za posiadanie skradzionego mienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45704,8 +45728,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No, coral is too important and fragile to tamper with.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, koralowce są zbyt cwane żeby coś im robić.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131652Z">
+        <seg>Nie, koralowce są zbyt ważne i delikatne, by przy nich majstrować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46000,8 +46024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No, wait, it's just a duck.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, czekaj, to tylko kaczka.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113430Z">
+        <seg>Nie, zaraz, to tylko kaczka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46088,8 +46112,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No.  I'd be too ashamed to hang it up.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie. Nie ośmieliłbym się podnieść tego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183355Z">
+        <seg>Nie. Byłbym zawstydzony, żeby to powiesić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46136,16 +46160,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>No.  This wouldn't be enough to convict him.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie. To za mało, żeby go skazać.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132545Z">
+        <seg>Nie. To za mało, by go skazać.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>No.  You are confined to Lucre Island™.  You are not permitted to leave until and unless you are cleared of the crime of bank robbery.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie, masz się trzymać granic Wyspy Mamony. Nie masz prawa opuszczać tej wyspy zanim nie będziesz czysty.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142215Z">
+        <seg>Nie. Jest pan zamknięty na Wyspie Mamony. Nie wolno panu jej opuścić, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46160,8 +46184,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nobody can do mental math anymore...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nikt nigdy nie rozumiał matmy...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182531Z">
+        <seg>Nikt już nie potrafi liczyć w pamięci...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47080,8 +47104,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Noticed that, did you?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oo, widzę, że zauważyłeś?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112549Z">
+        <seg>Też to zauważyłeś?</seg>
       </tuv>
     </tu>
     <tu>
@@ -47120,8 +47144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now I need to order a new cane!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Teraz muszę iść załatwić nową laskę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084558Z">
+        <seg>Teraz muszę zamówić nową laskę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -47216,8 +47240,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now all I can smell is the elusive scent of spring showers.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jedyne co teraz czuje to woń wiosennego prysznica.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082353Z">
+        <seg>Teraz czuję tylko nieuchwytny zapach wiosennego deszczu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47304,16 +47328,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now it smells like mountain breezes.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pachnie jak górska bryza.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082113Z">
+        <seg>Teraz pachnie jak górska bryza.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Now its smell is eerily evocative of winter meadows.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Teraz pachnie jak powrót na zimową łąkę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082141Z">
+        <seg>Teraz zapach przywodzi na myśl zimowe łąki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47600,8 +47624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now, since this is your first offense, you'll be placed under house arrest.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Skoro był to twój pierwszy wybryk, będziesz miał areszt domowy.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141937Z">
+        <seg>Ponieważ to pańskie pierwsze wykroczenie, umieszczę pana w areszcie domowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47656,8 +47680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now, where did that Australian pirate-phobe go?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kurcze, gdzie ten walnięty Australijczyk się podział?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092049Z">
+        <seg>To gdzie podział się ten australijski piratofob?</seg>
       </tuv>
     </tu>
     <tu>
@@ -47800,8 +47824,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Of course ya lost.  I'm unbeatable.  Now leave!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A jak! Jestem niepokonany. Wynocha!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185455Z">
+        <seg>Oczywiście, że tak! Jestem niepokonany. Wynocha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48008,8 +48032,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh crikey!  Look what ya made me do!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Cholera! No i zobacz co narobiłeś!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084547Z">
+        <seg>O rany! Zobacz, do czego mnie zmusiłeś!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48080,8 +48104,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh look, it's Brittany!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh, patrz, to Brittany!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113312Z">
+        <seg>O, patrz, to Brittany!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48168,8 +48192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh no.  I'm not going in there again.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh nie. Ja tam nie wejdę ponownie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184124Z">
+        <seg>O nie. Nie chcę tam wracać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48200,8 +48224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh no.  This will take hours.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh nie. To zajmuje godziny.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112056Z">
+        <seg>O nie. To zajmie godziny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48368,8 +48392,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh yes.  He carries a picture of Brittany with him wherever he goes.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>O tak. Wszędzie ma ze sobą zdjęcia Brittany, gdziekolwiek pójdzie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112930Z">
+        <seg>O tak. Wszędzie nosi ze sobą zdjęcia tej Brittany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48688,8 +48712,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, darn... must've been the Aurora Borealis.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh, kurcze... to musi być zorza polarna.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113550Z">
+        <seg>O, kurczę... to tylko zorza polarna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49024,8 +49048,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, no, it's just a box of yams.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh, nie, to słodkie ziemniaczki.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113526Z">
+        <seg>O, nie, to kosz z ziemniaczkami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49256,8 +49280,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, that is so cliché!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Fryzura nic tutaj nie wnosi!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T185416Z">
+        <seg>To takie cliché!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49392,8 +49416,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, there he is.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oh, tutaj jesteś.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092056Z">
+        <seg>Tu jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49440,8 +49464,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, wait, it was just a skinny cow.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A nie, czekaj, to tylko jakaś głupia krowa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190446Z">
+        <seg>A nie, to tylko jakaś chuda krowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49528,8 +49552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh, yeah?  Who's gonna stop me?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tak mówisz? A kto mnie powstrzyma?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113851Z">
+        <seg>Tak? A kto mnie powstrzyma?</seg>
       </tuv>
     </tu>
     <tu>
@@ -49656,8 +49680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oh... Ah, I see, Mister Marley.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151934Z">
-        <seg>Oh... rozumiem, pan Marley.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T161924Z">
+        <seg>Rozumiem, pan Marley.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49912,8 +49936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Okay, what?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ok, co?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141548Z">
+        <seg>Dobra, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -50040,16 +50064,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Omigosh, someone's set the bar on fire!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jezu Chryste, ktoś zostawił dziecko na gazie!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114645Z">
+        <seg>Do jasnej ciasnej, ktoś podpalił nasz bar!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Omigosh, someone's set the food court on fire!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>O mój Boże! Ktoś podpalił sklep!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190222Z">
+        <seg>Do jasnej ciasnej, ktoś podpalił strefę gastro!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50232,8 +50256,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Once he sets his mind to a task, it's nearly impossible to shift his attention.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kiedyś namówił swój mózg, żeby nie odbierał żadnych informacji z zewnątrz.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112627Z">
+        <seg>Kiedy skupi się na jakimś zadaniu, niemal niemożliwe jest odwrócenie jego uwagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50744,8 +50768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Oops, my mistake.  It was just another two-headed monkey.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ups, to mój błąd, to tylko kolejna dwugłowa małpa.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113347Z">
+        <seg>Ups, mój błąd. To tylko kolejna dwugłowa małpa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51000,8 +51024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Other than inside somebody's head, I mean.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>W sensie, poza tułowiem ich właścicieli.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105850Z">
+        <seg>W sensie, poza głową ich właścicieli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51112,8 +51136,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Out of respect, I think I'll leave it alone.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zostawię to w spokoju, tak z szacunku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T111046Z">
+        <seg>Z szacunku myślę, że zostawię to w spokoju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51176,8 +51200,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ow!  That's HOT!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>ACK! Ale PARZY!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113601Z">
+        <seg>Au! GORĄCE!</seg>
       </tuv>
     </tu>
     <tu>
@@ -51872,8 +51896,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Phht.  Like anything is gonna happen.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Phht. Sądziłem, że się coś stanie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182348Z">
+        <seg>Phht.  Jakby cokolwiek miało się wydarzyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52128,8 +52152,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Please ask the teller.  I'm very busy, and she can probably assist you.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Proszę pytać tamtą panią. Jestem zajęty a ona z pewnością ci pomoże.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T161844Z">
+        <seg>Proszę zapytać kasjerki. Jestem zajęty, a ona z pewnością pomoże.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52216,8 +52240,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Please speak with the teller.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Proszę rozmawiać z panią obok.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T161743Z">
+        <seg>Proszę do pani obok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52288,8 +52312,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Plundering helpless and unwitting natives of exotic islands is one thing...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Plądrowanie i podróżowanie po nieznanych egzotycznych wyspach to jedno...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182712Z">
+        <seg>Plądrowanie bezbronnych i nieświadomych tubylców egzotycznych wysp to jedno...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52328,336 +52352,336 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny krokodyl gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083224Z">
+        <seg>Biedny, przytulaśny krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny pies gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083248Z">
+        <seg>Biedny, przytulaśny dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny kangur gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083255Z">
+        <seg>Biedny, przytulaśny kangur gigant</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny koala gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083243Z">
+        <seg>Biedny, przytulaśny koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedna i śmiercionośna ostryga gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083259Z">
+        <seg>Biedny, przytulaśny struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny dziobak gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083230Z">
+        <seg>Biedny, przytulaśny dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, cuddly-wuddly, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, śmiercionośny borsuk gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083238Z">
+        <seg>Biedny, przytulaśny wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny krokodyl gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082846Z">
+        <seg>Biedny, bezbronny krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny pies gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082910Z">
+        <seg>Biedny, bezbronny dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny kangur gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082916Z">
+        <seg>Biedny, bezbronny kangur gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny koala gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082905Z">
+        <seg>Biedny, bezbronny koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedna i bezbronna ostryga gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082921Z">
+        <seg>Biedny, bezbronny struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny dziobak gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082852Z">
+        <seg>Biedny, bezbronny dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, defenseless, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i bezbronny Borsuk gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082859Z">
+        <seg>Biedny, bezbronny wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi krokodyl gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083121Z">
+        <seg>Biedny, tępawy krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi pies gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083145Z">
+        <seg>Biedny, tępawy dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi kangur gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083151Z">
+        <seg>Biedny, tępawy kangur gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi koala gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083137Z">
+        <seg>Biedny, tępawy koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedna i przygłupia ostryga gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083156Z">
+        <seg>Biedny, tępawy struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi dziobak gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083128Z">
+        <seg>Biedny, tępawy dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, dim-witted, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny i przygłupi borsuk gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083133Z">
+        <seg>Biedny, tępawy wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny krokodyl gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084313Z">
+        <seg>Biedny, wymierający, nieszczęśliwy krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny pies gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083514Z">
+        <seg>Biedny, wymierający, nieszczęśliwy dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny kangur gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083521Z">
+        <seg>Biedny, wymierający, nieszczęśliwy kangur gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny koala gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083510Z">
+        <seg>Biedny, wymierający, nieszczęśliwy koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedna, brutalna, ludożerna ostryga gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083526Z">
+        <seg>Biedny, wymierający, nieszczęśliwy struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny dziobak gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083457Z">
+        <seg>Biedny, wymierający, nieszczęśliwy dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, doomed, hapless, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Biedny, brutalny, ludożerny borsuk gigant..</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083504Z">
+        <seg>Biedny, wymierający, nieszczęśliwy wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Krokodyl gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083001Z">
+        <seg>Biedny, zagrożony krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pies gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083021Z">
+        <seg>Biedny, zagrożony dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kangur gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083027Z">
+        <seg>Biedny, zagrożony kangur gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Koala gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083016Z">
+        <seg>Biedny, zagrożony koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ostryga gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083033Z">
+        <seg>Biedny, zagrożony struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dziobak gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083006Z">
+        <seg>Biedny, zagrożony dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, endangered, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Borsuk gigant to gatunek zagrożony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083012Z">
+        <seg>Biedny, zagrożony wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant crocodile.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny krokodyl gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082626Z">
+        <seg>Biedny, przerażający, ludożerczy krokodyl gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant dingo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny pies gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082741Z">
+        <seg>Biedny, przerażający, ludożerczy dingo gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant kangaroo.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny kangur gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082748Z">
+        <seg>Biedny, przerażający, ludożerczy kangur gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant koala.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny koala gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082721Z">
+        <seg>Biedny, przerażający, ludożerczy koala gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant ostrich.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedna, brutalna, ludożerna ostyga gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082806Z">
+        <seg>Biedny, przerażający, ludożerczy struś gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant platypus.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny dziobak gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082654Z">
+        <seg>Biedny, przerażający, ludożerczy dziobak gigant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Poor, ferocious, man-eating, giant wombat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale biedny, brutalny, ludożerny borsuk gigant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082708Z">
+        <seg>Biedny, przerażający, ludożerczy wombat gigant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53256,8 +53280,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>REAL pirates don't need guns!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>PRAWDZIWI piraci nie potrzebują broni!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084751Z">
+        <seg>PRAWDZIWI piraci nie używają broni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53744,8 +53768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Right!  Down to the jailhouse with you.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>No właśnie. Do więzienia z nim.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135700Z">
+        <seg>Tak! Idzie pan siedzieć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53792,8 +53816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Right.  No-nosed bandit.  Or, perhaps it was the guy we caught red-handed.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>No tak. Beznosy bandyta, a może facet bez innych części ciała?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135904Z">
+        <seg>Tak. Beznosy bandyta. A może facet, którego złapaliśmy na gorącym uczynku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54120,8 +54144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sale sign</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>znak "Na sprzedaż"</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T152857Z">
+        <seg>znak wyprzedaży</seg>
       </tuv>
     </tu>
     <tu>
@@ -54240,8 +54264,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Scary...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To straszne...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182428Z">
+        <seg>Straszne...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54288,16 +54312,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>ScupperWare</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pojemniczek</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130751Z">
+        <seg>FekaWare</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>ScupperWare with bait in it</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231031T103903Z">
-        <seg>Pojemniczek z przynętą</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130819Z">
+        <seg>FekaWare z przynętą</seg>
       </tuv>
     </tu>
     <tu>
@@ -54440,8 +54464,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>See, there you go.  'Kangaroo.'  Another funny name.  It's funny to say, too.  Hee.  Kangaroo.  Kangaroo...  Hee hee.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151914Z">
-        <seg>No i sam pan widzi, "Kangury". Kolejna śmieszna nazwa. Śmiesznie się to mówi. Kangury, Kangury...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135157Z">
+        <seg>No i sam pan widzi. "Kangur". Kolejna śmieszna nazwa. Śmiesznie się nawet wymawia. Kangur, Kangur...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54528,8 +54552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Seńor Castaneda is exceptionally well-disciplined.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Senor Casteneda jest wyjątkowo zdyscyplinowany.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112610Z">
+        <seg>Seńor Castaneda jest wyjątkowo zdyscyplinowany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54592,8 +54616,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>She looks a little, uh, lightheaded.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ona jest taka, um, nie miła.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T162125Z">
+        <seg>Jest trochę... skołowana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54720,16 +54744,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sheesh.  What a grouch.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Sheesh. Ale zrzęda.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183939Z">
+        <seg>Ale zrzęda.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Shh.  Don't move.  The Rapture is going on right behind you.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jezu Chryste, ktoś zostawił dziecko na gazie!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T115350Z">
+        <seg>Cii, ani drgnij. Drapieżnik jest tuż za tobą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55328,8 +55352,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>So let me go, and get cracking!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Więc wypuście mnie i dajcie się mi do niego dorwać!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T140120Z">
+        <seg>Proszę mnie wypuścić i go łapać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55432,8 +55456,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>So, Castaneda really has a thing for the Bank Teller, huh?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Więc myślisz że Castenada naprawdę coś czuje do tej kasjerki, eh?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112842Z">
+        <seg>Więc Castenada naprawdę coś czuje do tej kasjerki z banku, tak?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55600,8 +55624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>So, what form of Insult Game shall we play?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Więc w jaką formę Gier na Obelgi preferujesz?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T184026Z">
+        <seg>Więc jaką formę Gier na Obelgi proponujesz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55688,8 +55712,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>So, who's winning?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A kto wygrywa?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112103Z">
+        <seg>To kto wygrywa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56184,8 +56208,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sorry, must have been a passing cloud.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A, nie sorry. Tak cień padł z chmur.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190416Z">
+        <seg>Sorka. To chyba przechodząca chmura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56232,8 +56256,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sorry, uh, must have been a trick of the light.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A, nie sorry. To musiała być ta gra światła.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190314Z">
+        <seg>Sorka, musiało mi się wydawać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56576,8 +56600,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>StarBuccaneer's™</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>StarBuccaneer's</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T181952Z">
+        <seg>StartBukanier</seg>
       </tuv>
     </tu>
     <tu>
@@ -56592,8 +56616,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>StarBuccaneer's™ counter clerk</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T103737Z">
-        <seg>kasjer Starbuccaneera</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182002Z">
+        <seg>kasjer Starbukaniera</seg>
       </tuv>
     </tu>
     <tu>
@@ -56608,24 +56632,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>StarBuccaneer's™ logo mug</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231031T104105Z">
-        <seg>kubek z logiem Starbuccaneera</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182034Z">
+        <seg>kubek z logiem Starbukaniera</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>StarBuccaneer's™ sign</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>szyld Starbuccaneera</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182017Z">
+        <seg>szyld Starbukaniera</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Starbuccaneer's</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231112T152357Z">
-        <seg>Starbuccaneer</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T181937Z">
+        <seg>Starbukanier</seg>
       </tuv>
     </tu>
     <tu>
@@ -56792,8 +56816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Still here, are ya?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Czy to nadal istnieje?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183140Z">
+        <seg>Nadal tu jesteś?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56920,8 +56944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Stop that!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zatrzymaj.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083753Z">
+        <seg>Przestań!</seg>
       </tuv>
     </tu>
     <tu>
@@ -57008,8 +57032,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Strangely, the idea of carrying a ladder around does not excite me.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To dziwne, że pomysł kręcenia się z drabiną tu i tam nie podnieca mnie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113353Z">
+        <seg>Co dziwne, pomysł noszenia ze sobą drabiny nie ekscytuje mnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57776,8 +57800,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Thank you.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A dziękuje.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113003Z">
+        <seg>Dziękuję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58064,8 +58088,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That doesn't count!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie sądzę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190555Z">
+        <seg>To się nie liczy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58320,8 +58344,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That goes back outside to town.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>One prowadzą na dwór, do miasta.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184014Z">
+        <seg>Prowadzą z powrotem do miasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58464,8 +58488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That leads back down to the bank area.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tutaj zejdę w dół do banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113326Z">
+        <seg>Prowadzi z powrotem do strefy bankowej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58480,8 +58504,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That leads back to Lucre Island™.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ścieżka prowadzi na Wyspę Mamony.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T100846Z">
+        <seg>Prowadzi na Wyspę Mamony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58528,8 +58552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That leads upstairs.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To prowadzi na górę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T162136Z">
+        <seg>Prowadzi na górę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58680,8 +58704,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That pudgy guy must be the bank manager.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ten koleś musi być menadżerem banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T161642Z">
+        <seg>Ten pulchniak musi być kierownikiem banku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58848,8 +58872,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That trip to town is getting' to be a nuisance.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nadęci turyści są tylko w mieście. Zostaw te zwierzęta w spokoju.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183214Z">
+        <seg>Ta podróż do miasta staje się uciążliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58912,7 +58936,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That watch-bird gives me the heebie-jeebies.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231122T141339Z">
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T153140Z">
         <seg>Ten ptak przyprawia mnie o ciarki.</seg>
       </tuv>
     </tu>
@@ -58936,8 +58960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That window is completely unbreakable.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To okno jest nie przebijalne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131958Z">
+        <seg>To okno jest całkowicie niezniszczalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59096,8 +59120,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That'll certainly mess up the carpet.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale pobrudzimy przez to dywan.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110112Z">
+        <seg>To z pewnością pobrudzi dywan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59168,8 +59192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's Pegnose's showroom over there.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Za nimi jest tajna kryjówka Pegnose'a.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131944Z">
+        <seg>Tam jest salon Kołkonosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59256,8 +59280,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's a kangaroo, you ignorant pirate trollop!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To są kangury, ty piracki trollu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135101Z">
+        <seg>To kangur, ty ignorancka piracka trollico!</seg>
       </tuv>
     </tu>
     <tu>
@@ -59488,8 +59512,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's it!  Get out!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To tu! Odsuń się!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183850Z">
+        <seg>Dość! Wynocha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -59888,8 +59912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's the door to the bank vault.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To drzwi do skrytki w banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T184055Z">
+        <seg>To drzwi do skarbca banku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59976,8 +60000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's the second most useless trinket I've ever seen.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To druga najbardziej nieprzydatna ozdóbka jaką widziałem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183447Z">
+        <seg>To drugi najbardziej bezużyteczny drobiazg, jaki znam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60032,16 +60056,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That's the way out of this damp, depressing, cave.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tędy wyjdę z tej ciasnej jaskini.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132126Z">
+        <seg>To jest wyjście z tej wilgotnej, przygnębiającej jaskini.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>That's the way to Pegnose's ill-gotten booty showroom.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To w tym miejscu Pegnose schował swój skarb.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T101619Z">
+        <seg>To droga to salonu Kołkonosa ze skradzionym łupem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60608,8 +60632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>The bank booty and the Marley Heirlooms are in the cavern on the other side of this unbreakable window.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231031T104857Z">
-        <seg>Rabunek z banku i scheda Marleya są po drugiej stronie nieprzebijalnej szyby.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110038Z">
+        <seg>Łupy z banku i scheda Marleya znajdują się w jaskini po drugiej stronie tego niezniszczalnego okna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60856,8 +60880,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>The heirlooms must be nearby.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231031T104833Z">
-        <seg>Scheda musi być gdzieś blisko.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092939Z">
+        <seg>Scheda musi być blisko.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61264,8 +61288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>The stench has been replaced by faint traces of autumn pastures.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231122T083711Z" creationid="damia" creationdate="20231122T083711Z">
-        <seg>The stench has been replaced by faint traces of autumn pastures.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T082336Z" creationid="damia" creationdate="20231122T083711Z">
+        <seg>Smród został zastąpiony przez słabe ślady jesiennych pastwisk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61840,8 +61864,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>There he is!!!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To on!!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135556Z">
+        <seg>Tu jest!!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62472,8 +62496,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>There's something creepy about that guy.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>W tym gościu jest coś odrażającego.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183345Z">
+        <seg>Jest w nim coś przerażającego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62920,8 +62944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>They're already giving away free Scupperware.  There's no reason to take their calendar as well.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Już mam jeden pojemniczek. Nie ma powodów, żeby zabierać im kalendarz.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182518Z">
+        <seg>Już dostałem darmowy FekaWare. Nie ma powodów, żeby zabierać im też kalendarz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63040,8 +63064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>They're very tropical.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale to tropikalne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T100716Z">
+        <seg>Są bardzo tropikalne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63168,8 +63192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>This Ultimate Insult nonsense has me uncharacteristically baffled.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ten Talizman Upokorzenia powoduje u mnie jakieś choroby psychiczne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T092854Z">
+        <seg>Ten nonsens o Talizmanie Zniewagi wprawił mnie w nietypowe osłupienie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63736,8 +63760,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>This must be the new thing in low maintenance decorating.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To musi być jakaś nowość w słabym utrzymywaniu dekoracji.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183313Z">
+        <seg>To musi być nowość w dekoracji wymagającej niewielkiej konserwacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64136,8 +64160,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Those termites probably ran out of cane to eat.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A termity pewnie zżarły już całą laskę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T091744Z">
+        <seg>Termitom pewnie skończyła się laska.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64432,8 +64456,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>To make sure you don't leave, you are required to wear the Voodoo Anklet of Extreme Discomfort™.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Pytkowscy" changedate="20130801T144302Z">
-        <seg>Żeby być pewny, że nie zwiejesz, musisz nosić Łańcuszek Voodoo wersja DYSKOMFORT.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142338Z">
+        <seg>Aby upewnić się, że pan nie odejdzie, zakładam panu Voodoo Łańcuszek Ekstremalnego Dyskomfortu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65016,8 +65040,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ugh, there's that smell again!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Znowu czuje ten okropny zapach!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083807Z">
+        <seg>Znowu ten okropny zapach!</seg>
       </tuv>
     </tu>
     <tu>
@@ -65032,8 +65056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ugh.  It's full of names, and numbers, and lots and lots of MATH.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ugh. Jest pełne imion, numerów i od groma MATMY.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182648Z">
+        <seg>Ugh. Pełno tu imion, numerów i od groma MATMY.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65064,8 +65088,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ugh... Gross.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Pełne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132158Z">
+        <seg>Obrzydliwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65144,8 +65168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Uh sorry, I was just having a grog flashback.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>naprawdę przepraszam, miałem zaćmienie po tym starym grogu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113421Z">
+        <seg>Sorka, grog zaćmił mi rozum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65192,8 +65216,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Uh, I don't know.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Raczej nie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T114247Z">
+        <seg>Yy, nie wiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65832,8 +65856,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Um...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ekhm...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190635Z">
+        <seg>Yy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -66152,8 +66176,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Up until now, that is.  It's disappeared.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tyle, że na razie jest problem. Facet zniknął.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T091707Z">
+        <seg>Aż do teraz. Zniknął.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67472,8 +67496,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>We've had a bad run of counterfeit money come through here lately, so we've had to tighten our policy.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Mieliśmy ostatnio problemy z oszustwami w banku, więc należało zawęzić nasze zasady.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T134915Z">
+        <seg>Ostatnio napłynęło do nas mnóstwo fałszywych pieniędzy, dlatego musieliśmy zaostrzyć nasze przepisy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68104,8 +68128,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Well, I never!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie ma mowy!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191037Z">
+        <seg>Nigdy w życiu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68512,8 +68536,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Well, he DOES carry something of a torch for Brittany, the Bank Teller.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Chyba, że zobaczy swoją Brittany, kasjerkę w naszym banku.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112816Z">
+        <seg>Cóż, trochę się zabujał w Brittany, kasjerce z banku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68624,8 +68648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Well, in that case, talk to the teller, and she'll help you.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151941Z">
-        <seg>Więc w tej sprawie proszę rozmawiać z panią obok, pomoże panu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T162046Z">
+        <seg>W takim razie proszę do pani obok, chętnie panu pomoże.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68760,8 +68784,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Well, pardon me for being able to hold two thoughts in my head at the same time!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>O, wypraszam sobie, jestem po prostu skoncentrowany na dwóch rzeczach jednocześnie.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191539Z">
+        <seg>Wybacz, że jestem w stanie skupić dwie myśli w głowie w tym samym czasie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68905,8 +68929,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Well, that wouldn't be the point, then would it?  It gets a lot more uncomfortable if you try to leave the island.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Coś w tym może być, wiesz? To jest tym bardziej niewygodne im bardziej próbujesz opuścić wyspę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T142855Z">
+        <seg>W tym jest cały jego sens, prawda? Będzie tylko gorzej, kiedy spróbuje pan opuścić wyspę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69481,8 +69505,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What a great idea, except no one knows where he is.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Świetny pomysł! Szkoda, że nikt nie wie gdzie on jest.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132601Z">
+        <seg>Świetny pomysł, ale nikt nie wie, gdzie on jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69537,8 +69561,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What a strangely shaped stalactite.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale ten stalaktyt ma ostry kształt.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T132014Z">
+        <seg>Cóż za dziwnie ukształtowany stalaktyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69617,8 +69641,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What an odd collection of junk.  There doesn't actually seem to be all that much valuable stuff in here.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ale sterta rupieci. Nie wygląda mi to na rzeczy o dużej wartości.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105641Z">
+        <seg>Cóż za dziwna kolekcja rupieci. Wydaje się, że nie ma tu zbyt wielu wartościowych rzeczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69657,8 +69681,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What are ya doing!?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Co ty robisz?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T083728Z">
+        <seg>Co ty robisz!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -70401,8 +70425,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What kind of twisted freak keeps the skulls of his victims lying in piles around his showroom?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Co za kretyn pozostawia kupe czaszek swoich ofiar o krok od miejsca ukrycia skarbu?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105716Z">
+        <seg>Co za pokręcony dziwak trzyma czaszki swoich ofiar na stosach wokół swojego salonu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -70649,8 +70673,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What would I want with a ledger?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Czego mógłbym chcieć od kasy?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182849Z">
+        <seg>Po co mi księga rachunkowa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72153,8 +72177,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Who was it told me that 'Rules are rules, tubbo?'</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tak? A kto powiedział do mnie "Zasady to zasady"?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113809Z">
+        <seg>A kto mi powiedział, że "Zasady to zasady"?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72265,8 +72289,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Who's winning now?</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="Pytkowscy" changedate="20130712T214913Z">
-        <seg>A teraz kto?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112343Z">
+        <seg>Kto teraz wygrywa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72321,8 +72345,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Whoa!  I gotta remember to come here THAT day!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Whoa! Muszę pamiętać żeby wrócić tutaj TEGO dnia!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182421Z">
+        <seg>Ło! Muszę pamiętać, żeby tu wtedy wrócić!</seg>
       </tuv>
     </tu>
     <tu>
@@ -72361,8 +72385,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Whoa, isn't that Bobby Fisher?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, czy to nie David Copperfield?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185205Z">
+        <seg>Ło, czy to nie Bobby Fisher?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72657,8 +72681,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Why do people keep trying to put ladders in my pants?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dlaczego mam nosić drabinę w kieszeni?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T093735Z">
+        <seg>Dlaczego ludzie próbują mi wsadzić drabinę do portek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73153,8 +73177,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Wish those fish would come over here so I could see something.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Szkoda że te ryby nie podpłyną bliżej, może wtedy bym coś widział.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T131812Z">
+        <seg>Chciałbym, żeby te ryby tu przypłynęły, żebym mógł coś zobaczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73329,8 +73353,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Wonder if it's important.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ciekawe czy to jest ważne.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183452Z">
+        <seg>Może to ważne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73641,8 +73665,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Wow, look at all those candy bars!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hej, patrz! Tam jest coś ciekawego!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T115557Z">
+        <seg>Łał, patrz na te batoniki!</seg>
       </tuv>
     </tu>
     <tu>
@@ -73785,16 +73809,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Wow.  I wonder if Elaine will let me have one of these.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wow. Ciekawe kiedy Elaine mi na taki pozwoli.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T105510Z">
+        <seg>Łał. Ciekawe, czy Elaine mi na pozwoli coś takiego.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Wow.  That's just MEAN.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wow. Ale to było złośliwe.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T182249Z">
+        <seg>Łał. To złośliwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74113,8 +74137,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Ye gods, a phalanx of cross-dressing trilobites!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>O nie! To jakiś trylobit!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185325Z">
+        <seg>Bogowie, falanga przebranych trylobitów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -74297,8 +74321,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Yeah, sure, I'll just break that reinforced glass by banging my head on it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Genialne, po prostu przebije to nietłukące się okno swoją głową!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110056Z">
+        <seg>Tak, jasne. Po prostu rozbiję to wzmocnione szkło, uderzając w nie głową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74633,8 +74657,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Yes, a wide variety of culinary interests, you mean.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wymyśla chyba na obiad, chciałeś powiedzieć.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191030Z">
+        <seg>Tak, chyba zainteresowań kulinarnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74849,8 +74873,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Yes.  But I can be swayed by the right evidence.  Now get outta here.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tak, ale to się może zmienić jeśli dostarczysz mi dowodów. A teraz zejdź mi z oczu.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T133117Z">
+        <seg>Tak, ale można mnie przekonać odpowiednimi dowodami. Teraz żegnam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75009,8 +75033,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Yipes, there's a spider on your shoulder!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231027T170517Z">
-        <seg>Jejku, masz wielkiego skorpiona na ramieniu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T185133Z">
+        <seg>Jejku, wielki pająk na twoim ramieniu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75153,8 +75177,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You bet your bony butt I am.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Jesteś śmierdzącym butem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113707Z">
+        <seg>Na twój kościsty tyłek, tak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75193,8 +75217,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You call THAT a move?  THIS is a move!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nazwałeś COŚ takiego ruchem? TO JEST ruch!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113835Z">
+        <seg>To TWÓJ ruch? To jest ruch!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75257,8 +75281,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You can't do that!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie możesz tego zrobić.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113841Z">
+        <seg>Tak nie wolno!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75361,8 +75385,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You don't even have to water it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nawet nie mam czym tego podlać.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T183332Z">
+        <seg>Nie trzeba jej nawet podlewać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75657,8 +75681,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You know the rules: you let go of a piece, it's a move!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Znasz zasady: poruszysz pionkiem, to jest ruch.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T190616Z">
+        <seg>Znasz zasady: puszczasz pionka, mamy ruch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75737,8 +75761,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You know, it would be a lot easier if I could just bribe you.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wiesz, było by o wiele prościej gdybym mógł po prostu dać ci łapówkę.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T141735Z">
+        <seg>Byłoby o wiele prościej, gdybym mógł pana przekupić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76081,8 +76105,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You never MOVE, you mean!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nigdy to ty nie RUSZASZ pionkami!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T191058Z">
+        <seg>W życiu to się nie ruszysz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76265,8 +76289,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You still think I did it, don't you?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ciągle myślisz że to byłem ja, prawda?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T133009Z">
+        <seg>Ciągle pan myśli, że ja to zrobiłem, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76361,8 +76385,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You unbelievable jerk.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Co za głupi palant.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T113727Z">
+        <seg>Niewiarygodny z ciebie palant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76481,8 +76505,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>TO TY!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135910Z">
+        <seg>Pan!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76561,8 +76585,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You'll find it with the real robber!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Znajdziecie go przy prawdziwym bandycie!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T135945Z">
+        <seg>Znajdziecie go przy prawdziwym rabusiu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76625,8 +76649,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You'll pay, Threepwood.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zapłacisz mi za to, Threepwood!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231122T183148Z">
+        <seg>Zapłacisz za to, Threepwood!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76825,7 +76849,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You're not allowed up there!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231116T151946Z">
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T113251Z">
         <seg>Nie wolno panu tam wchodzić!</seg>
       </tuv>
     </tu>
@@ -77081,56 +77105,56 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>You've befouled my crocodile!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego krokodyla!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084151Z">
+        <seg>Splugawiłeś mojego krokodyla!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my dingo!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego psa!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084209Z">
+        <seg>Splugawiłeś mojego dingo!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my kangaroo!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego kangura!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084212Z">
+        <seg>Splugawiłeś mojego kangura!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my koala!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego misia!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084205Z">
+        <seg>Splugawiłeś mojego koala!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my ostrich!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś moją ostrygę!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084219Z">
+        <seg>Splugawiłeś mojego strusia!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my platypus!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego dziobaka!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084154Z">
+        <seg>Splugawiłeś mojego dziobaka!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>You've befouled my wombat!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Opsikałeś mojego borsuka!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T084158Z">
+        <seg>Splugawiłeś mojego wombata!</seg>
       </tuv>
     </tu>
     <tu>
@@ -77313,8 +77337,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Your friend seems awfully focused on the game.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Twój kolega wygląda jakby go zamroczyło.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T112540Z">
+        <seg>Twój kolega strasznie wczuł się w grę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79321,8 +79345,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>drapes</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231101T105549Z">
-        <seg>zasłona</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T110256Z">
+        <seg>kotary</seg>
       </tuv>
     </tu>
     <tu>
@@ -79865,8 +79889,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>glowing ScupperWare</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>świecący Pojemniczek</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231124T130802Z">
+        <seg>świecący FekaWare</seg>
       </tuv>
     </tu>
     <tu>
@@ -83968,8 +83992,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Look, up in the sky!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Patrz, w góre!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231125T115706Z">
+        <seg>Patrz w górę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -84249,8 +84273,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Um... excuse me...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ah ... przepraszam bardzo...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20231123T161652Z">
+        <seg>Przepraszam...</seg>
       </tuv>
     </tu>
     <tu>

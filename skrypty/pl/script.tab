@@ -1218,7 +1218,7 @@ grgscu011	"Wszystkie konkursy rzutek musz¹ byæ wygrane umiejêtnoœciami...
 grgscu012	...a nie przez ¿adnego rodzaju przekupstwa, zniewagi, groŸby i tak dalej."
 guyscu143	Kto wygrywa?
 nedscu023	Na razie jest remis.
-guyscu144	A teraz kto?
+guyscu144	Kto teraz wygrywa?
 grgscu013	Ja.
 nedscu024	Ale niewiele.
 nedscu025	Ja.
@@ -2266,9 +2266,9 @@ frehos016	Tak.
 frehos017	Nazywam siê Freddie.
 frehos018	Robiê laski, odk¹d by³eœ nie wiêkszy ni¿ paznokieæ czerwcowego robaka.
 ozzhos001	Freddie! Gdzie jest moja nowa laska?
-frehos019	Mam j¹ tutaj, panie Mandrill
+frehos019	Mam j¹ tutaj, panie Mandrill.
 frehos020	Zupe³nie nowa, rêcznie rzeŸbiona i zgodna ze specyfikacj¹ poprzedniej laski.
-ozzhos002	Lepiej, ¿eby tak by³o bo wykupiê twój obskurny sklepik i zast¹piê go czymœ u¿ytecznym....
+ozzhos002	Lepiej, ¿eby tak by³o, bo wykupiê twój obskurny sklepik i zast¹piê go czymœ u¿ytecznym....
 ozzhos003	Publiczn¹ toalet¹!
 frehos021	Rozumiem, ¿e dopisze to pan do swojego rachunku, panie Mandrill?
 ozzhos004	A jak myœlisz?
@@ -2342,484 +2342,484 @@ guypph023	Nie s¹dzê. Idziesz siedzieæ, koleœ!
 guyoze001	Ta fontanna przyprawia mnie o ciarki.
 guyoze002	Nie, dziêki.
 guyoze003	Ten ptak przyprawia mnie o ciarki.
-guyoze004	To na pewno nie mog³oby dekorowaæ Posiad³oœci Gubernatora.
-guyoze005	Pewnie goœcie Ozziego s¹ naprawdê niscy.
+guyoze004	Nie pasowa³by do wystroju rezydencji gubernatora.
+guyoze005	Wszyscy goœcie Ozziego musz¹ byæ bardzo niscy.
 guyoze006	To jest dom!
 guyoze007	Zamkniête.
 guyoze008	To drzwi do domu Ozziego
-guyoze009	To drzwi wejœciowe tego przera¿aj¹cego domu.
-guyoze010	Ta droga prowadzi do lasu Wyspy Mamony
-ozzoze001	Czy to nadal istnieje?
-ozzoze002	Zap³acisz mi za to, Threepwood!
-ozzoze003	Nadêci turyœci s¹ tylko w mieœcie. Zostaw te zwierzêta w spokoju.  
-ozzoze004	Mo¿e i jestem cholerykiem, ale zobacz jak¹ mam laskê!
-guyozi001	W tym goœciu jest coœ odra¿aj¹cego.
-ozzozi001	A kiedy powrócê, bêdê ju¿ zna³ wielk¹ potêgê Talizmanu Upokorzenia!
+guyoze009	To frontowe drzwi tej wspania³ej (choæ przera¿aj¹cej) rezydencji.
+guyoze010	Ta droga prowadzi do lasów Wyspy Mamony
+ozzoze001	Nadal tu jesteœ?
+ozzoze002	Zap³acisz za to, Threepwood!
+ozzoze003	Ta podró¿ do miasta staje siê uci¹¿liwa.  
+ozzoze004	Mo¿e i jestem porywczy, ale za to mam du¿o lasek!
+guyozi001	Jest w nim coœ przera¿aj¹cego.
+ozzozi001	A kiedy wrócê, zg³êbiê tajemnice Talizmanu Upokorzenia!
 ozzozi002	Maj¹c moc Talizmanu Upokorzenia, Karaiby bêd¹ moje!
-ozzozi003	Nie dotykaj niczego jak mnie nie bêdzie.
-guyozi002	Hmm. W liœcie Dziadka Marleya by³o coœ o Talizmanie Upokorzenia.
-guyozi003	Ciekawe czy to jest wa¿ne.
-guyozi004	Kiedy moje imiê bêdzie ju¿ czyste, muszê siê dowiedzieæ co to jest ten Talizman Upokorzenia.
-guyozi005	Na szczêœcie facet jest naiwny.
-ozzozi004	Nie! Mam tylko jeden dezodorant!
-ozzozi005	To tu! Odsuñ siê!
-guyozi006	Sheesh. Ale zrzêda.
+ozzozi003	Nie dotykaj niczego, jak mnie nie bêdzie.
+guyozi002	List dziadka Marleya wspomina³ o Talizmanie Upokorzenia.
+guyozi003	Mo¿e to wa¿ne.
+guyozi004	Hmm.  Kiedy ju¿ oczyszczê swe imiê, koniecznie musz¹ siê czegoœ dowiedzieæ o tym Talizmanie.
+guyozi005	Dobrze, ¿e jest taki ³atwowierny.
+ozzozi004	Nie! Ju¿ go popsika³em!
+ozzozi005	Doœæ! Wynocha!
+guyozi006	Ale zrzêda.
 ozzozi006	Hej!
 ozzozi007	Kim jesteœ i co robisz w moim domu?
-ozzozi008	Dobrze. Ale jeœli wygram, opuœcisz mój dom.
+ozzozi008	Dobrze. A jeœli wygram, opuœcisz mój dom.
 guyozi007	Zgoda.
-guyozi008	Wiêc w jak¹ formê Gier na Obelgi preferujesz?
-ozzozi009	Nie bawmy siê w takie g³upoty.
-ozzozi010	En garde!  Walcz!
-guyozi009	Fryzura nic tutaj nie wnosi!
-guyozi010	Ja...przegra³em.
-ozzozi011	Oczywiœcie. A teraz wynoœ siê z tego domu!
-guyozi011	Nie mogê uwierzyæ, ¿e znowu przegra³em.
-ozzozi012	A jak! Jestem niepokonany. Wynocha!
-guyozi012	Dlaczego ja ci¹gle przegrywam.
-ozzozi013	Czy jesteœ g³uchy? NIGDY nie przegra³em. Zmiataj st¹d!
-guyozi013	Pachnie jak górska bryza.
-guyozi014	Teraz pachnie jak powrót na zimow¹ ³¹kê.
-guyozi015	The stench has been replaced by faint traces of autumn pastures.
-guyozi016	Jedyne co teraz czuje to woñ wiosennego prysznica.
-guyozi017	Natomiast to pachnie jak subtelny zefirek na morzem.
-guyozi018	To œmierdzi!
-guyozi019	To nie pachnie na pewno jak Eau de LeChuck.
+guyozi008	Wiêc jak¹ formê Gier na Obelgi proponujesz?
+ozzozi009	Trzymajmy siê podstawy, dobrze?
+ozzozi010	En garde!  Touché!
+guyozi009	To takie cliché!
+guyozi010	Przegra³em.
+ozzozi011	Naturalnie. A teraz wynoœ siê z tego domu!
+guyozi011	Nie wierzê, ¿e znowu przegra³em.
+ozzozi012	Oczywiœcie, ¿e tak! Jestem niepokonany. Wynocha!
+guyozi012	Dlaczego ci¹gle przegrywam.
+ozzozi013	Nie s³ucha³eœ mnie? Ja NIGDY nie przegrywam. Teraz zje¿d¿aj!
+guyozi013	Teraz pachnie jak górska bryza.
+guyozi014	Teraz zapach przywodzi na myœl zimowe ³¹ki.
+guyozi015	Smród zosta³ zast¹piony przez s³abe œlady jesiennych pastwisk.
+guyozi016	Teraz czujê tylko nieuchwytny zapach wiosennego deszczu.
+guyozi017	Teraz pachnie bardziej jak subtelne morskie zefiry.
+guyozi018	Œmierdzi okropnie!
+guyozi019	Nie pachnie ju¿ jak Eau de LeChuck.
 guyozi020	Biedaczek.
-guyozi021	Ale biedny, brutalny, ludo¿erny krokodyl gigant.
-guyozi022	Ale biedny, brutalny, ludo¿erny dziobak gigant.
-guyozi023	Ale biedny, brutalny, ludo¿erny borsuk gigant.
-guyozi024	Ale biedny, brutalny, ludo¿erny koala gigant.
-guyozi025	Ale biedny, brutalny, ludo¿erny pies gigant.
-guyozi026	Ale biedny, brutalny, ludo¿erny kangur gigant.
-guyozi027	Ale biedna, brutalna, ludo¿erna ostyga gigant.
-guyozi028	Biedny i bezbronny krokodyl gigant.
-guyozi029	Biedny i bezbronny dziobak gigant.
-guyozi030	Biedny i bezbronny Borsuk gigant.
-guyozi031	Biedny i bezbronny koala gigant.
-guyozi032	Biedny i bezbronny pies gigant.
-guyozi033	Biedny i bezbronny kangur gigant.
-guyozi034	Biedna i bezbronna ostryga gigant.
-guyozi035	Krokodyl gigant to gatunek zagro¿ony.
-guyozi036	Dziobak gigant to gatunek zagro¿ony.
-guyozi037	Borsuk gigant to gatunek zagro¿ony.
-guyozi038	Koala gigant to gatunek zagro¿ony.
-guyozi039	Pies gigant to gatunek zagro¿ony.
-guyozi040	Kangur gigant to gatunek zagro¿ony.
-guyozi041	Ostryga gigant to gatunek zagro¿ony.
-guyozi042	Biedny i przyg³upi krokodyl gigant.
-guyozi043	Biedny i przyg³upi dziobak gigant.
-guyozi044	Biedny i przyg³upi borsuk gigant.
-guyozi045	Biedny i przyg³upi koala gigant.
-guyozi046	Biedny i przyg³upi pies gigant.
-guyozi047	Biedny i przyg³upi kangur gigant.
-guyozi048	Biedna i przyg³upia ostryga gigant.
-guyozi049	Biedny, œmiercionoœny krokodyl gigant.
-guyozi050	Biedny, œmiercionoœny dziobak gigant.
-guyozi051	Biedny, œmiercionoœny borsuk gigant.
-guyozi052	Biedny, œmiercionoœny koala gigant.
-guyozi053	Biedny, œmiercionoœny pies gigant.
-guyozi054	Biedny, œmiercionoœny kangur gigant.
-guyozi055	Biedna i œmiercionoœna ostryga gigant.
-guyozi056	Biedny, brutalny, ludo¿erny krokodyl gigant.
-guyozi057	Biedny, brutalny, ludo¿erny dziobak gigant.
-guyozi058	Biedny, brutalny, ludo¿erny borsuk gigant..
-guyozi059	Biedny, brutalny, ludo¿erny koala gigant.
-guyozi060	Biedny, brutalny, ludo¿erny pies gigant.
-guyozi061	Biedny, brutalny, ludo¿erny kangur gigant.
-guyozi062	Biedna, brutalna, ludo¿erna ostryga gigant.
-guyozi063	To nie jest takie œmieszne kiedy Ozziego nie ma w domu.
-ozzozi014	Nie! Mam tylko jeden dezodorant!
-ozzozi015	Co ty robisz?
-ozzozi016	I co tak okropnie œmierdzi?
-ozzozi017	Zatrzymaj.
+guyozi021	Biedny, przera¿aj¹cy, ludo¿erczy krokodyl gigant.
+guyozi022	Biedny, przera¿aj¹cy, ludo¿erczy dziobak gigant.
+guyozi023	Biedny, przera¿aj¹cy, ludo¿erczy wombat gigant.
+guyozi024	Biedny, przera¿aj¹cy, ludo¿erczy koala gigant.
+guyozi025	Biedny, przera¿aj¹cy, ludo¿erczy dingo gigant.
+guyozi026	Biedny, przera¿aj¹cy, ludo¿erczy kangur gigant.
+guyozi027	Biedny, przera¿aj¹cy, ludo¿erczy struœ gigant.
+guyozi028	Biedny, bezbronny krokodyl gigant.
+guyozi029	Biedny, bezbronny dziobak gigant.
+guyozi030	Biedny, bezbronny wombat gigant.
+guyozi031	Biedny, bezbronny koala gigant.
+guyozi032	Biedny, bezbronny dingo gigant.
+guyozi033	Biedny, bezbronny kangur gigant.
+guyozi034	Biedny, bezbronny struœ gigant.
+guyozi035	Biedny, zagro¿ony krokodyl gigant.
+guyozi036	Biedny, zagro¿ony dziobak gigant.
+guyozi037	Biedny, zagro¿ony wombat gigant.
+guyozi038	Biedny, zagro¿ony koala gigant.
+guyozi039	Biedny, zagro¿ony dingo gigant.
+guyozi040	Biedny, zagro¿ony kangur gigant.
+guyozi041	Biedny, zagro¿ony struœ gigant.
+guyozi042	Biedny, têpawy krokodyl gigant.
+guyozi043	Biedny, têpawy dziobak gigant.
+guyozi044	Biedny, têpawy wombat gigant.
+guyozi045	Biedny, têpawy koala gigant.
+guyozi046	Biedny, têpawy dingo gigant.
+guyozi047	Biedny, têpawy kangur gigant.
+guyozi048	Biedny, têpawy struœ gigant.
+guyozi049	Biedny, przytulaœny krokodyl gigant.
+guyozi050	Biedny, przytulaœny dziobak gigant.
+guyozi051	Biedny, przytulaœny wombat gigant.
+guyozi052	Biedny, przytulaœny koala gigant.
+guyozi053	Biedny, przytulaœny dingo gigant.
+guyozi054	Biedny, przytulaœny kangur gigant
+guyozi055	Biedny, przytulaœny struœ gigant.
+guyozi056	Biedny, wymieraj¹cy, nieszczêœliwy krokodyl gigant.
+guyozi057	Biedny, wymieraj¹cy, nieszczêœliwy dziobak gigant.
+guyozi058	Biedny, wymieraj¹cy, nieszczêœliwy wombat gigant.
+guyozi059	Biedny, wymieraj¹cy, nieszczêœliwy koala gigant.
+guyozi060	Biedny, wymieraj¹cy, nieszczêœliwy dingo gigant.
+guyozi061	Biedny, wymieraj¹cy, nieszczêœliwy kangur gigant.
+guyozi062	Biedny, wymieraj¹cy, nieszczêœliwy struœ gigant.
+guyozi063	Nie jest tak zabawnie, gdy nie ma Ozziego, aby cieszyæ siê ¿artem.
+ozzozi014	Nie! Ju¿ go popsika³em!
+ozzozi015	Co ty robisz!?
+ozzozi016	I co to za okropny zapach?
+ozzozi017	Przestañ!
 ozzozi018	Co to za okropny smród?
-ozzozi019	Znowu czuje ten okropny zapach!
-ozzozi020	Opsika³eœ mojego krokodyla!
-ozzozi021	Opsika³eœ mojego dziobaka!
-ozzozi022	Opsika³eœ mojego borsuka!
-ozzozi023	Opsika³eœ mojego misia!
-ozzozi024	Opsika³eœ mojego psa!
-ozzozi025	Opsika³eœ mojego kangura!
-ozzozi026	Opsika³eœ moj¹ ostrygê!
-ozzozi027	Cholera! No i zobacz co narobi³eœ!
-ozzozi028	Teraz muszê iœæ za³atwiæ now¹ laskê.
-guyozi064	Myœla³em, ¿e ju¿ nigdy st¹d nie wyjdzie.
-guyozi065	Biegaæ to on nie umie.
-guyozi066	Nie chcia³bym widzieæ czegoœ, co siê z tego wykluje!
-guyozi067	Nie, wychowywanie piskl¹t mnie nie obchodzi.
-guyozi068	To nie broñ zabija zwierzêta, to Ozzie zabija zwierzêta.
-guyozi069	PRAWDZIWI piraci nie potrzebuj¹ broni!
-guyozi070	Za³o¿ê siê, ¿e za tymi drzwiami jest jeszcze wiêcej dziwnych rzeczy.
+ozzozi019	Znowu ten okropny zapach!
+ozzozi020	Splugawi³eœ mojego krokodyla!
+ozzozi021	Splugawi³eœ mojego dziobaka!
+ozzozi022	Splugawi³eœ mojego wombata!
+ozzozi023	Splugawi³eœ mojego koala!
+ozzozi024	Splugawi³eœ mojego dingo!
+ozzozi025	Splugawi³eœ mojego kangura!
+ozzozi026	Splugawi³eœ mojego strusia!
+ozzozi027	O rany! Zobacz, do czego mnie zmusi³eœ!
+ozzozi028	Teraz muszê zamówiæ now¹ laskê!
+guyozi064	Myœla³em, ¿e nigdy nie wyjdzie.
+guyozi065	To za daleko.
+guyozi066	Nie chcia³bym zobaczyæ bestii, która to znios³a!
+guyozi067	Nie, nie jestem zainteresowany prób¹ wyklucia jajka.
+guyozi068	Broñ nie zabija dzikich zwierz¹t, to Ozzie je zabija
+guyozi069	PRAWDZIWI piraci nie u¿ywaj¹ broni!
+guyozi070	Za³o¿ê siê, ¿e za tymi drzwiami jest jeszcze wiêcej wypchanych reliktów.
 guyozi071	Zamkniête.
-guyozi072	To sposób na wyjœcie z tego cyrku na kó³kach.
-guyfor001	To kupa buszu.
+guyozi072	To wyjœcie z tego karnawa³u zw³ok.
+guyfor001	Prowadzi g³êbiej w las.
 guyfor002	Prowadzi do lasu.
-guyfor003	Nie ma szans ¿ebym go dogoni³ w lesie.
+guyfor003	Nie s¹dzê, bym chcia³ zgubiæ siê w lesie.
 guylum001	To dom Ozziego Mandrilla.
 guylum002	Mamona.
-guylum003	To laguna odnaleziona œledz¹c Ozziego.
-guylag001	Dobry pomys³ z tymi termitami.
-guylag002	Tyle, ¿e na razie jest problem. Facet znikn¹³.
-guylag003	A termity pewnie z¿ar³y ju¿ ca³¹ laskê.
-guylag004	Kurcze, gdzie ten walniêty Australijczyk siê podzia³?
-guylag005	Oh, tutaj jesteœ.
-ozzlag001	Chyba jakiœ kangur strzeli³ mi w g³owê.
-guylag006	Cicho...cicho. Zaraz upolujê Ozziego.
-ozzlag002	Ten Talizman Upokorzenia powoduje u mnie jakieœ choroby psychiczne.
-ozzlag003	Wiedzia³em, ¿eby lepiej u¿yæ jakieœ kl¹twy Voodoo na wyk³adowcê w Toowoomba.
-guylag007	Scheda musi byæ gdzieœ blisko.
-guylag008	Ale tutaj jest p³ytko. Widaæ butelki po piwie na dnie.
+guylum003	To laguna, do której doprowadzi³ mnie Ozzie!
+guylag001	Dobrze, ¿e mia³em œlad na œcie¿ce.
+guylag002	A¿ do teraz. Znikn¹³.
+guylag003	Termitom pewnie skoñczy³a siê laska.
+guylag004	To gdzie podzia³ siê ten australijski piratofob?
+guylag005	Tu jest.
+ozzlag001	Chyba kangur upad³ mi na g³owê.
+guylag006	Teraz ba³dzo, ba³dzo cicho. Zaraz upolujê Ozziego.
+ozzlag002	Ten nonsens o Talizmanie Zniewagi wprawi³ mnie w nietypowe os³upienie.
+ozzlag003	Trzeba by³o wzi¹æ udzia³ w tych zajêciach na temat staro¿ytnych kl¹tw Voodoo na Uniwersytecie Toowoomba.
+guylag007	Scheda musi byæ blisko.
+guylag008	Jest tu doœæ p³ytko. Z ³atwoœci¹ mogê dostrzec piach na dnie.
 guylag009	Nie dziêki. Nie chcê piæ.
-guylag010	Tutaj jest raczej g³êboko. Nie widaæ butelek.
-guylag011	Ale tu g³êboko. Nie widaæ kompletnie nic, poza ciemn¹ wod¹.
-guylag012	Ale to tropikalne.
-guylag013	Nie ma mowy. S¹dzê, ¿e mam ju¿ za du¿o doœwiadczenia z k³odami.
-guylag014	Œcie¿ka prowadzi na Wyspê Mamony.
-guylag015	Hej, jakiœ ukryty korytarz na dó³!
+guylag010	Tutaj nie jest tak p³ytko. Ledwo widaæ dno.
+guylag011	Bardzo tu g³êboko. W ogóle nie widzê dna, tylko dziwn¹ mêtn¹ ciemnoœæ.
+guylag012	S¹ bardzo tropikalne.
+guylag013	Nie ma mowy. Mam doœæ rzucania k³odami, by starczy³o mi na jakiœ czas.
+guylag014	Prowadzi na Wyspê Mamony.
+guylag015	Hej, tu jest jakieœ ukryte przejœcie!
 guylag016	To pewnie tutaj Ozzie znikn¹³.
-guylag017	To w tym miejscu Pegnose schowa³ swój skarb.
+guylag017	To droga to salonu Ko³konosa ze skradzionym ³upem.
 guyuch001	To czaszka.
 guyuch002	Mam ju¿ jedn¹.
 guyuch003	Murray?
 guyuch004	Raczej nie.
-guyuch005	Wow. Ciekawe kiedy Elaine mi na taki pozwoli.
-guyuch006	Nie, nie chcia³bym siê przez przypadek upiæ i st³uc coœ drogiego.
-guyuch007	Ick. Brudne naczynia. Jak na master-z³odzieja, Pegnose to prawdziwy brudas.
-guyuch008	Mam tego mnóstwo w domu.
-guyuch009	Ale sterta rupieci. Nie wygl¹da mi to na rzeczy o du¿ej wartoœci.
-guyuch010	Nie, Inspektor od razu by mnie za to zamkn¹³.
-guyuch011	Co za kretyn pozostawia kupe czaszek swoich ofiar o krok od miejsca ukrycia skarbu?
-guyuch012	S¹dzê, ¿e rodzice nie okazywali mu za du¿o mi³oœci.
-guyuch013	Ewww! Ta, jasne! A kto wie gdzie te czaszki le¿a³y?
-guyuch014	W sensie, poza tu³owiem ich w³aœcicieli.
-guyuch015	Rabunek z banku i scheda Marleya s¹ po drugiej stronie nieprzebijalnej szyby.
-guyuch016	Genialne, po prostu przebije to niet³uk¹ce siê okno swoj¹ g³ow¹!
-guyuch017	Ale pobrudzimy przez to dywan.
-guyuch018	Ciekawe co ujrz¹ moje oczy, kiedy ods³oniê t¹ zas³onkê...
-guyuch019	Nie jestem pewny czy ju¿ mnie usadzili jako dekoratora wnêtrz.
-guyuch020	Nie siêgnê tego haka.
-guyuch021	Ten przycisk po prostu krzyczy do mnie "Naciœnij mnie".
-guyuch022	Niestety, to poza moim zasiêgiem.
-guyuch023	Nie da rady.
-guyuch024	Hej! Czy to nie zaginiony skarb z Lucre Banku! No i scheda Marleya!
-guyuch025	Muszê siê tam jakoœ dostaæ.
+guyuch005	£a³. Ciekawe, czy Elaine mi na pozwoli coœ takiego.
+guyuch006	Nie, nie chcia³bym siê tu upiæ i przypadkowo zepsuæ czegoœ drogiego.
+guyuch007	Fuj. Brudne naczynia. Jak na mistrza z³odziei, Ko³konos jest wielkim niechlujem.
+guyuch008	Mam mnóstwo sto³ów w domu.
+guyuch009	Có¿ za dziwna kolekcja rupieci. Wydaje siê, ¿e nie ma tu zbyt wielu wartoœciowych rzeczy.
+guyuch010	Nie, prawdopodobnie by mnie aresztowano za posiadanie skradzionego mienia.
+guyuch011	Co za pokrêcony dziwak trzyma czaszki swoich ofiar na stosach wokó³ swojego salonu?
+guyuch012	Za³o¿ê siê, ¿e jako dziecko nie przytulano go za czêsto.
+guyuch013	Ewww! Nigdy! Kto wie, gdzie te czaszki by³y?
+guyuch014	W sensie, poza g³ow¹ ich w³aœcicieli.
+guyuch015	£upy z banku i scheda Marleya znajduj¹ siê w jaskini po drugiej stronie tego niezniszczalnego okna.
+guyuch016	Tak, jasne. Po prostu rozbijê to wzmocnione szk³o, uderzaj¹c w nie g³ow¹.
+guyuch017	To z pewnoœci¹ pobrudzi dywan.
+guyuch018	Zastanawiam siê, co kryje siê za t¹ kotar¹, zas³aniaj¹c¹ mi widok...
+guyuch019	Nie s¹dzê, bym mia³ kwalifikacje do zmiany wystroju.
+guyuch020	Nie mogê siêgn¹æ haczyka.
+guyuch021	Chyba muszê jakoœ poci¹gn¹æ za ten pierœcieñ, ¿eby otworzyæ kotary.
+guyuch022	Nie mogê go jednak dosiêgn¹æ sam¹ rêk¹.
+guyuch023	Nie siêgnê.
+guyuch024	Hej! To wygl¹da jak zaginiony ³up z Banku Mamony!  I scheda Marleya!
+guyuch025	Muszê siê tam jakoœ dostaæ!
 guyuch026	To drabina. Prowadzi w górê.
-guyuch027	Kiedyœ w³o¿y³em drabinê do spodni...ale drugi raz tego nie zrobiê.
-guyulg001	Ju¿ prawie nie mam powietrza.
+guyuch027	Raz w³o¿y³em drabinê do spodni... nie mam ochoty tego powtarzaæ.
+guyulg001	Koñczy mi siê powietrze.
 guyulg002	Lepiej wyp³ynê.
-guyulg003	Nie powiem ci co to jest.
-guyulg004	To wygl¹da jak...coœ.
-guyulg005	Nie wiem co to jest.
-guyulg006	Jest za ciemno ¿eby coœ widzieæ.
+guyulg003	Nie wiem, co to jest.
+guyulg004	To... coœ.
+guyulg005	Nie mam pojêcia, co to jest.
+guyulg006	Za ciemno, by dostrzec.
 guyulg007	Hmmm...
-guyulg008	Nie dotknê tego, póki mi nie powiesz co to jest.
-guyulg009	To chyba nie jest dobry pomys³.
+guyulg008	Nie podniosê niczego, dopóki nie dowiem siê, co to jest.
+guyulg009	Chyba nie powinienem tego robiæ.
 guyulg010	Nie
-guyulg011	To tylko kamieñ.
-guyulg012	Nie potrzebujemy kamieni.
-guyulg013	Ten rodzaj jest bodaj¿e znany jako "Echinasteridae Henricia"
-guyulg014	Ten kamieñ jest na pewno ciê¿ki.
-guyulg015	Wygl¹da na kogoœ, kto nie utrzyma³ powietrza wystarczaj¹co d³ugo.
-guyulg016	Zostawiê to w spokoju, tak z szacunku.
-guyulg017	S¹dzê, ¿e to siê nazywa "³osoœ koralowy"
-guyulg018	Nie, koralowce s¹ zbyt cwane ¿eby coœ im robiæ.
-guyulg019	Hej, to mi wygl¹da na ukryte drzwi!
+guyulg011	To tylko ska³a.
+guyulg012	Naprawdê nie potrzebujê ska³y.
+guyulg013	Ten gatunek to bodaj¿e "Echinasteridae Henricia".
+guyulg014	Prawdopodobnie jest mocno przymocowany do ska³y.
+guyulg015	Chyba ktoœ nie móg³ wstrzymaæ oddechu wystarczaj¹co d³ugo.
+guyulg016	Z szacunku myœlê, ¿e zostawiê to w spokoju.
+guyulg017	To chyba "³oœ koralowy"
+guyulg018	Nie, koralowce s¹ zbyt wa¿ne i delikatne, by przy nich majstrowaæ.
+guyulg019	Hej, tam s¹ tajemnicze drzwi!
 guyulg020	To drzwi.
-guyulg021	Ciekawe gdzie mnie ta lina zaprowadzi?
-guyulg022	To tylko wodorosty.
-guyulg023	Wyjdê têdy na powierzchniê.
-guyulg024	Szkoda ¿e te ryby nie podp³yn¹ bli¿ej, mo¿e wtedy bym coœ widzia³.
-guyulg025	To banda ma³ych, œwiec¹cych rybek.
-guyulg026	W¹tpiê czy uda mi siê je z³apaæ go³ymi rêkoma.
-guyulg027	Hmm. Mo¿e poczekaæ a¿ podp³yn¹ bli¿ej.
-guyunc001	Hej, coœ mi chyba wypad³o!
-guyunc002	Za nimi jest tajna kryjówka Pegnose'a.
-guyunc003	To okno jest nie przebijalne.
-guyunc004	Ale ten stalaktyt ma ostry kszta³t.
+guyulg021	Ciekawe, dok¹d prowadzi ta lina?
+guyulg022	To tylko oœliz³y chwast morski.
+guyulg023	To droga na powierzchniê.
+guyulg024	Chcia³bym, ¿eby te ryby tu przyp³ynê³y, ¿ebym móg³ coœ zobaczyæ.
+guyulg025	To ³awica ma³ych, œwiec¹cych rybek.
+guyulg026	Nie s¹dzê, bym by³ w stanie je z³apaæ go³ymi rêkami.
+guyulg027	Hmm. Mo¿e poczekam, a¿ podp³yn¹.
+guyunc001	Hej, coœ tu wypad³o ze skrzyni!
+guyunc002	Tam jest salon Ko³konosa.
+guyunc003	To okno jest ca³kowicie niezniszczalne.
+guyunc004	Có¿ za dziwnie ukszta³towany stalaktyt.
 guyunc005	Lepiej nie.
-guyunc006	Jest piêkne!
-guyunc007	To nie czas na to ¿ebym zmierza³ w stronê œwiat³a.
-guyunc008	Nie da rady.
-guyunc009	W sensie, tym razem naprawdê.
-guyunc010	Têdy wyjdê z tej ciasnej jaskini.
-guyban001	Hej! Proteza nosa!
-guyban002	Pe³ne.
-guyban003	Za³o¿ê siê, ¿e to nale¿y do œmierdz¹cego pirata. On mo¿e nie mieæ nosa.
-canban001	Lepiej to wezmê, panie Threepwood.
-guyban004	Ack!
+guyunc006	Ale¿ piêkne!
+guyunc007	To chyba nie czas, ¿ebym zmierza³ w stronê œwiat³a.
+guyunc008	Nie siêgnê.
+guyunc009	W sensie, NAPRAWDÊ nie siêgnê.
+guyunc010	To jest wyjœcie z tej wilgotnej, przygnêbiaj¹cej jaskini.
+guyban001	Hej! Sztuczny nos!
+guyban002	Obrzydliwe.
+guyban003	Za³o¿ê siê, ¿e nale¿y do tamtego œmierdz¹cego pirata. Tego bez nosa.
+canban001	Wezmê go, panie Threepwood.
+guyban004	 
 guyban005	Co pan tutaj robi?
 canban002	Mia³em zapytaæ o to samo.
-canban003	Tak naprawdê, wezmê to jako dowód w sprawie.
-guyban006	Zobaczmy czy to pasuje do Pegnose'a.
-canban004	Nie. To za ma³o, ¿eby go skazaæ.
-canban005	Œwietny pomys³! Szkoda, ¿e nikt nie wie gdzie on jest.
-canban006	PrzyprowadŸ mi go, a ja to rozwa¿ê.
-canban007	Tylko pamiêtaj ¿e:
-canban008	Nawet jeœli to do niego pasuje, to udowadniasz tylko tyle, ¿e by³ w banku.
-canban009	Tym nie udowodnisz, ¿e on ma ³up.
-guyban007	Ci¹gle myœlisz ¿e to by³em ja, prawda?
-canban010	Tak, ale to siê mo¿e zmieniæ jeœli dostarczysz mi dowodów. A teraz zejdŸ mi z oczu.
-ozzban001	... ale dlaczego nie, m³oda damo?
-telban001	Takie s¹ zasady. Nie mogê zamieniæ panu tej wycieczki poniewa¿ nigdy w ¿yciu nie s³yszeliœmy o takim miejscu. "Aus-tra-lia".
-ozzban002	Ale rozmawialiœmy o tym wielokrotnie.
-telban002	Mieliœmy ostatnio problemy z oszustwami w banku, wiêc nale¿a³o zawêziæ nasze zasady.
-telban003	A tak miêdzy nami, to mi nie wygl¹da na prawdê.
-telban004	Poza t¹ œmieszn¹ nazw¹, s¹ tutaj zdjêcia jakiœ dziwnych zwierz¹t, ten jeden wyskakuje z brzucha tamtemu.
-ozzban003	To s¹ kangury, ty piracki trollu!
-telban005	No i sam pan widzi, "Kangury". Kolejna œmieszna nazwa. Œmiesznie siê to mówi. Kangury, Kangury...
-ozzban004	Kurcze!
-ozzban005	Pomogê ci w tym interesie, ale jak wrócê, chcê moje honorarium.
+canban003	Po prostu wezmê to jako dowód w sprawie.
+guyban006	SprawdŸmy go Ko³konosie!
+canban004	Nie. To za ma³o, by go skazaæ.
+canban005	Œwietny pomys³, ale nikt nie wie, gdzie on jest.
+canban006	Proszê go sprowadziæ, a ja siê zastanowiê.
+canban007	Proszê pamiêtaæ:
+canban008	Nawet jeœli pasuje, to dowodzi tylko, ¿e by³ w banku.
+canban009	Nie ³¹czy go to z ³upem.
+guyban007	Ci¹gle pan myœli, ¿e ja to zrobi³em, prawda?
+canban010	Tak, ale mo¿na mnie przekonaæ odpowiednimi dowodami. Teraz ¿egnam.
+ozzban001	...ale czemu nie, m³oda damo?
+telban001	Polityka banku. Nie mogê przewalutowaæ tych czeków podró¿nych, poniewa¿ nigdy nie s³yszeliœmy o, jak to by³o, "Aus-tra-lii".
+ozzban002	Ale wczeœniej honorowaliœcie je setki razy!
+telban002	Ostatnio nap³ynê³o do nas mnóstwo fa³szywych pieniêdzy, dlatego musieliœmy zaostrzyæ nasze przepisy.
+telban003	A jak dla mnie, nie wygl¹daj¹ na prawdziwe.
+telban004	Oprócz zabawnej nazwy, jest tu zdjêcie dziwnego zwierzêcia, któremu z brzucha wyskakuje drugie.
+ozzban003	To kangur, ty ignorancka piracka trollico!
+telban005	No i sam pan widzi. "Kangur". Kolejna œmieszna nazwa. Œmiesznie siê nawet wymawia. Kangur, Kangur...
+ozzban004	Psiakrew!
+ozzban005	Mam sprawy do za³atwienia, ale jak wrócê, chcê je mieæ uhonorowane!!!
 telban006	¯yczymy mi³ego dnia, panie Mandrill.
-telban007	Kangury. Kangury? Kangury...
-guyban008	Powinna rzuciæ kofeine.
+telban007	Kangur.  Kangor.  Kang...  Kangur... Kangu... Kangur!  Kangur.
+guyban008	Powinien przejœæ na bezkofeinow¹.
 pegban001	Na razie, frajerzy!
-pegban002	I pamiêtajcie, to Guybrush Threepwood was napad³!
-manban001	Hej, gdzie on jest?
+pegban002	I pamiêtajcie, w³aœnie was napad³ Guybrush Threepwood!
+manban001	Hej, gdzie on zwia³?
 guyban009	Hej, co to za zamieszanie?
-telban008	To on!!
+telban008	Tu jest!!!
 manban002	£APCIE GO!
-guyban010	Ggeeyyaaaahh!!
+guyban010	Aaaaaaaaagh!!
 canban011	Jest pan aresztowany, panie Threepwood.
-canban012	No w³aœnie. Do wiêzienia z nim.
-canban013	Ju¿ dobrze. Czy mamusia ci nie mówi³a, ¿e napad na bank to z³y pomys³?
-guyban011	To nie by³em ja! To beznosy bandyta!
-canban014	No tak. Beznosy bandyta, a mo¿e facet bez innych czêœci cia³a?
-canban015	TO TY!
-canban016	Jeszcze nie odnaleŸliœmy ³upu.
-guyban012	Znajdziecie go przy prawdziwym bandycie!
-guyban013	Wiêc wypuœcie mnie i dajcie siê mi do niego dorwaæ!
-canban017	Ja nie jestem detektywem. Jeœli chcesz byæ czysty, musisz zrobiæ kilka rzeczy.
-guyban014	Ok, co?
+canban012	Tak! Idzie pan siedzieæ.
+canban013	Ju¿ dobrze. Czy mamusia panu nie mówi³a, ¿e napad na bank to z³y pomys³?
+guyban011	To nie ja! To ten beznosy bandyta!
+canban014	Tak. Beznosy bandyta. A mo¿e facet, którego z³apaliœmy na gor¹cym uczynku.
+canban015	Pan!
+canban016	Chocia¿ jeszcze nie znaleŸliœmy ³upu.
+guyban012	Znajdziecie go przy prawdziwym rabusiu!
+guyban013	Proszê mnie wypuœciæ i go ³apaæ!
+canban017	Nie jestem detektywem. Aby oczyœciæ swe imiê, musi pan zrobiæ kilka rzeczy.
+guyban014	Dobra, co?
 canban018	Potrzebujê sprawcy.
-canban019	Potrzebuje dowodu, ¿e to on by³ na miejscu zbrodni.
-canban020	No i potrzebujê dowodu, ¿e to on pope³ni³ przestêpstwo.
-guyban015	Wiesz, by³o by o wiele proœciej gdybym móg³ po prostu daæ ci ³apówkê.
-canban021	Powiedzmy, ¿e tego nie us³ysza³em. Róbmy swoj¹ powinnoœæ.
-canban022	Skoro by³ to twój pierwszy wybryk, bêdziesz mia³ areszt domowy.
-guyban016	Wiêc idê do mojej rezydencji pobawiæ siê z Timmim.
-canban023	Nie, masz siê trzymaæ granic Wyspy Mamony. Nie masz prawa opuszczaæ tej wyspy zanim nie bêdziesz czysty.
-canban024	¯eby byæ pewny, ¿e nie zwiejesz, musisz nosiæ £añcuszek Voodoo wersja DYSKOMFORT.
-guyban017	Tego siê ba³em.
-guyban018	Czy to jest tak niewygodne, ¿e siê tego nie da zgubiæ?
-canban025	Coœ w tym mo¿e byæ, wiesz? To jest tym bardziej niewygodne im bardziej próbujesz opuœciæ wyspê.
-guyban019	<wzdycha> Przynajmniej nie jestem w wiêzieniu.
+canban019	Potrzebuje dowodu, ¿e by³ na miejscu zbrodni.
+canban020	Oraz potrzebujê dowodu, ¿e pope³ni³ przestêpstwo.
+guyban015	By³oby o wiele proœciej, gdybym móg³ pana przekupiæ.
+canban021	Puszczê to mimo uszu. Tutaj dzia³amy zgodnie z zasadami.
+canban022	Poniewa¿ to pañskie pierwsze wykroczenie, umieszczê pana w areszcie domowym.
+guyban016	Mam wróciæ do rezydencji i pobawiæ siê z Timmym?
+canban023	Nie. Jest pan zamkniêty na Wyspie Mamony. Nie wolno panu jej opuœciæ, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.
+canban024	Aby upewniæ siê, ¿e pan nie odejdzie, zak³adam panu Voodoo £añcuszek Ekstremalnego Dyskomfortu.
+guyban017	To mnie zastanawia³o.
+guyban018	Jest trochê niewygodny, poluzuje mi pan?
+canban025	W tym jest ca³y jego sens, prawda? Bêdzie tylko gorzej, kiedy spróbuje pan opuœciæ wyspê.
+guyban019	Przynajmniej nie jestem w wiêzieniu.
 guyban020	WhoOOOaaa!
 guyban021	oOfF!
-guyban022	Ten koleœ musi byæ menad¿erem banku.
-guyban023	Ah ... przepraszam bardzo...
-manban003	Proszê rozmawiaæ z pani¹ obok.
+guyban022	Ten pulchniak musi byæ kierownikiem banku.
+guyban023	Przepraszam...
+manban003	Proszê do pani obok.
 guyban024	Ale ja chcia³em tylko...
-manban004	Proszê pytaæ tamt¹ pani¹. Jestem zajêty a ona z pewnoœci¹ ci pomo¿e.
+manban004	Proszê zapytaæ kasjerki. Jestem zajêty, a ona z pewnoœci¹ pomo¿e.
 guyban025	Hej. Przyszed³em odebraæ schedê Marleyów.
 manban005	Pan jest Marley?
-manban006	Oh... rozumiem, pan Marley.
+manban006	Rozumiem, pan Marley.
 guyban026	Ekhm. Threepwood.
-manban007	Wiêc w tej sprawie proszê rozmawiaæ z pani¹ obok, pomo¿e panu.
-guyban027	Ona jest taka, um, nie mi³a.
+manban007	W takim razie proszê do pani obok, chêtnie panu pomo¿e.
+guyban027	Jest trochê... sko³owana.
 guyban028	Jestem ¿onaty.
-guyban029	To prowadzi na górê.
-guyban030	Dlaczego mam nosiæ drabinê w kieszeni?
+guyban029	Prowadzi na górê.
+guyban030	Dlaczego ludzie próbuj¹ mi wsadziæ drabinê do portek?
 manban008	Nie wolno panu tam wchodziæ!
-guyban031	Tutaj zejdê w dó³ do banku.
-guyban032	To dziwne, ¿e pomys³ krêcenia siê z drabin¹ tu i tam nie podnieca mnie.
+guyban031	Prowadzi z powrotem do strefy bankowej.
+guyban032	Co dziwne, pomys³ noszenia ze sob¹ drabiny nie ekscytuje mnie.
 guyban033	To prze³¹cznik œwiat³a w banku.
-guyban034	Ciekawe co by siê sta³o gdybym to nacisn¹³...
-manban009	Nie dotykaj tego!
-guyban035	To wp³ywa na œwiat³o! Technologia idzie do przodu!
-guyban036	Prawdopodobnie dosiêgn¹³ bym to, gdybym by³ wy¿ej.
-guyban037	ACK! Ale PARZY!
-guyban038	Wygl¹da o wiele lepiej przyczepione do œciany.
-guyban039	Tam bym móg³ siê temu lepiej przyjrzeæ bêd¹c wy¿ej.
+guyban034	Ciekawe, co by siê sta³o, gdybym poci¹gn¹³?
+manban009	Hej! Proszê nie dotykaæ!
+guyban035	Kontroluje œwiat³o! Technologia idzie do przodu!
+guyban036	Z góry pewnie by³oby mi ³atwiej siêgn¹æ.
+guyban037	Au! GOR¥CE!
+guyban038	Wygl¹da na dobrze przymocowane do œciany.
+guyban039	Pewnie móg³bym siê temu lepiej przyjrzeæ z góry.
 guyban040	Co to za cieñ?
-guyban041	To wygl¹da jak... nos?!
-guyban042	Lampka nocna.
-guyban043	W¹tpiê ¿eby mo¿na by³o tym siê bawiæ z tego miejsca.
-guyban044	Sk¹dœ musi siê to kontrolowaæ.
-guyban045	W tym momencie to jedyna metoda na wchodzenia tutaj.
+guyban041	Wygl¹da jak... nos?!
+guyban042	Oprawa oœwietleniowa.
+guyban043	W¹tpiê, czy mogê tym prze³¹czaæ z tak daleka.
+guyban044	Jakiœ prze³¹cznik musi tym sterowaæ.
+guyban045	Na razie to raczej jedyna droga wejœcie i wyjœcia.
 guyban046	S¹ ju¿ otwarte.
-guyban047	Wow, darmowe pojemniczki!
-guyban048	Nic tylko za³o¿yæ konto w banku.
-guyban049	Nie potrzebuje ¿adnego kalendarza.
-guyban050	"1. Kwietnia - Powiedz wszystkim, ¿e kasy nie ma"
-guyban051	"6. Czerwca - Z³am nogi J. Flabbiemu jeœli nie sp³aci kredytu"
-guyban052	"1. Stycznia - Y1.6K: Upewnij siê, ¿e liczyd³o nadal dzia³a"
-guyban053	"14. Lutego - Rozdawaj ka¿demu klientowi kartki Walentynkowe"
-guyban054	"31. Grudnia - Wszyscy ³adnie siê stroj¹ jak d¿entelmeni"
-guyban055	Wow. Ale to by³o z³oœliwe.
-guyban056	Notatka do zapamiêtania: Nie zaci¹gaj kredytów w bankach
-guyban057	Phht. S¹dzi³em, ¿e siê coœ stanie.
-guyban058	Whoa! Muszê pamiêtaæ ¿eby wróciæ tutaj TEGO dnia!
-guyban059	To straszne...
-guyban060	Jest pe³ne przypominaczy...
-guyban061	Ju¿ mam jeden pojemniczek. Nie ma powodów, ¿eby zabieraæ im kalendarz.
-guyban062	Nikt nigdy nie rozumia³ matmy...
-guyban063	Huh! Wiesz co! Jeden plus jeden na serio daje dwa!
-guyban064	Nie ma mowy! PRAWDZIWI piraci nigdy nie dodaj¹!
-guyban065	Zamiast tego my wynajmujemy piratów, ksiêgowych, ¿eby pozostaæ na naszej œcie¿ce do naszego skarbu.
-guyban066	Ugh. Jest pe³ne imion, numerów i od groma MATMY.
-guyban067	Pl¹drowanie i podró¿owanie po nieznanych egzotycznych wyspach to jedno...
-guyban068	... ale zwyk³a kradzie¿ kasy z banku... to jest takie nudne.
-guyban069	Nigdy w ¿yciu, próbuje OCZYŒCIÆ moje dobre imiê, a nie POPE£NIAÆ nastêpne!
-guyban070	Czego móg³bym chcieæ od kasy?
-guyban071	Magazyn "Stop Piraci". Plotki, newsy i skandale z Karaibów, wywiady ze s³awnymi piratami.
-guyban072	To miesiêcznik, jak grabiæ i kraœæ bêd¹c ci¹gle dzieckiem.
+guyban047	Promocja na darmowe FekaWare!
+guyban048	Wystarczy otworzyæ konto maj¹c na nim 10 000 sztuk z³ota.
+guyban049	Nie potrzebujê takiego kalendarza.
+guyban050	"1. kwietnia - Powiedz wszystkim, ¿e kasa zniknê³a"
+guyban051	"6ty czerwca - Z³am nogi J. Flabbiemu jeœli nie sp³aci po¿yczki"
+guyban052	"1szy stycznia - Y1.6K: Upewnij siê, ¿e liczyd³o nadal dzia³a"
+guyban053	"14sty lutego - Rozdawaj ka¿demu klientowi steki Walentynkowe"
+guyban054	"31szy grudnia - Wszyscy siê stroj¹ i zachowuj¹ jak d¿entelmeni"
+guyban055	£a³. To z³oœliwe.
+guyban056	Eeeegh, uwaga dla siebie: nie sp³acaj ¿adnych po¿yczek z tego miejsca.
+guyban057	Phht.  Jakby cokolwiek mia³o siê wydarzyæ.
+guyban058	£o! Muszê pamiêtaæ, ¿eby tu wtedy wróciæ!
+guyban059	Straszne...
+guyban060	Pe³no przypomnieñ...
+guyban061	Ju¿ dosta³em darmowy FekaWare. Nie ma powodów, ¿eby zabieraæ im te¿ kalendarz.
+guyban062	Nikt ju¿ nie potrafi liczyæ w pamiêci...
+guyban063	Huh!  Co ty tam wiesz!  Jeden plus jeden naprawdê równa siê dwa!
+guyban064	Bez szans! PRAWDZIWI piraci nigdy nie dodaj¹!
+guyban065	Zamiast tego zatrudniamy naszych braci piratów, ksiêgowych, aby dodawali i œledzili nasze skarby za nas.
+guyban066	Ugh. Pe³no tu imion, numerów i od groma MATMY.
+guyban067	Pl¹drowanie bezbronnych i nieœwiadomych tubylców egzotycznych wysp to jedno...
+guyban068	Ale kradzie¿ pieniêdzy z banku fa³szuj¹c wpisy w ksiêgach... to takie nudne.
+guyban069	Nie ma mowy, próbujê oczyœciæ siê z zarzutu kradzie¿y, a nie pope³niæ kolejn¹!
+guyban070	Po co mi ksiêga rachunkowa?
+guyban071	Magazyn "Piraci!". Popularne wiadomoœci o najbardziej skandalicznych i nikczemnych piratach z Karaibów.
+guyban072	A w tym wydaniu miesiêcznika - jak grabiæ, pl¹drowaæ i mieæ trochê czasu dla dzieci!
 guyban073	Nie mam czasu czytaæ.
-guyban074	"Pomys³ na nowy statek?"
-guyban075	"Niskie 4% w skali roku""
-guyban076	(Ró¿ne op³aty mog¹ byæ zaksiêgowane. Nie zaci¹gamy kredytów piratom)
-guyban077	Nie potrzebujê takiej prasy.
-guyban078	To musi byæ jakaœ nowoœæ w s³abym utrzymywaniu dekoracji.
-guyban079	Nawet nie mam czym tego podlaæ.
-guyban080	Nie. Nie oœmieli³bym siê podnieœæ tego.
-guyban081	Zawsze mnie zastanawia³o jak oni wsadzaj¹ tam te ma³e stateczki.
-guyban082	To druga najbardziej nieprzydatna ozdóbka jak¹ widzia³em.
-guyban083	Wierzê, ¿e ta paproæ mo¿e byæ "poci¹gaj¹ca".
-guyban084	Jestem PEWNY, ¿e jeœli naprawdê bêdê potrzebowa³ iœæ do ³azienki, to szef banku mnie puœci.
-guyban085	To Elaine ma siê zajmowaæ dekoracjami w domu.
-guyban086	Chyba jakiœ konaj¹cy nie móg³by oddaæ mi ³upu.
-guyban087	Nie wiem do czego móg³bym ich u¿yæ.
-guyban088	Wierzê, ¿e poprzedni w³aœciciel móg³ opró¿niæ swoje kieszenie.
-guyban089	Nie wiem do czego móg³bym u¿yæ tej komody.
-guyban090	Aww, jaki s³odziutki! Malutki skarbeczek w skrzyneczce praktycznie do niczego nie przydatny.
-guyban091	Nie mam niczego co by do tego pasowa³o.
-guyban092	Wolê skarby odrobinê wiêksze od tego.
-guyban093	One prowadz¹ na dwór, do miasta.
-guyban094	Nie wyjdê st¹d têdy... Inspektor Canard obserwuje wnêtrze.
-guyban095	To ju¿ nie dzia³a.
-guyban096	To drzwi do skrytki w banku.
-guyban097	S¹ trochê za ciê¿kie jak dla mnie.
-guyban098	Oh nie. Ja tam nie wejdê ponownie.
-guyban099	Powinienem najpierw pogadaæ z kasjerk¹.
-guyluc153	Hej to trójg³owa ma³pa!
-guyluc154	Hej, czy to nie David Copperfield?
-guyluc155	Jejku, masz wielkiego skorpiona na ramieniu!
-guyluc156	Hej, patrz! Tam jest coœ ciekawego!
-guyluc157	O nie! To jakiœ trylobit!
-guyluc158	Na krêcony makaron, to H.G Wells, pije jak skunks!
-guyluc159	Wielki Bo¿e, to tym j¹ zabi³eœ?!
-guyluc160	Jezu Chryste, ktoœ zostawi³ dziecko na gazie!
-guyluc161	O mój Bo¿e! Ktoœ podpali³ sklep!
-guyluc162	Patrz, w górê!
-guyluc163	O nie... to wielka jaszczurka!
-guyluc012	A, nie sorry. To musia³a byæ ta gra œwiat³a.
-guyluc013	A, nie sorry. Tak cieñ pad³ z chmur.
+guyban074	"Myœlisz o nowym statku?"
+guyban075	"Niskie 4.0% w skali roku"
+guyban076	(Z zastrze¿eniem zatwierdzenia, mog¹ obowi¹zywaæ inne op³aty. Nie udzielamy kredytów piratom). Liczby.
+guyban077	Nie potrzebujê reklamy po¿yczki.
+guyban078	To musi byæ nowoœæ w dekoracji wymagaj¹cej niewielkiej konserwacji.
+guyban079	Nie trzeba jej nawet podlewaæ.
+guyban080	Nie. By³bym zawstydzony, ¿eby to powiesiæ.
+guyban081	Zawsze zastanawia³em siê, jak oni tam wsadzaj¹ ten statek.
+guyban082	To drugi najbardziej bezu¿yteczny drobiazg, jaki znam.
+guyban083	Myœlê, ¿e kwalifikuje siê to jako "soczysta" paproæ.
+guyban084	Gdybym naprawdê potrzebowa³ skorzystaæ z ³azienki, kierownik na pewno by pozwoli³.
+guyban085	Nie, dekorowanie domu zostawiam Elaine.
+guyban086	Pewnie ktoœ sp³ukany nie móg³ sp³aciæ po¿yczki.
+guyban087	Nie mia³bym po¿ytku z beczek.
+guyban088	Mam nadziejê, ¿e poprzedni w³aœciciel mia³ sposobnoœæ opró¿niæ szufladê z bielizn¹.
+guyban089	Nie mia³bym po¿ytku z u¿ywanej komody.
+guyban090	Jakie to urocze!  Ma³e skrzyneczki skarbów, do których naprawdê nic siê nie zmieœci.
+guyban091	Nie mogê w nich zmieœciæ nic u¿ytecznego.
+guyban092	Nie, wolê wiêksze skrzynie ze skarbami.
+guyban093	Prowadz¹ z powrotem do miasta.
+guyban094	Nie mogê wyjœæ têdy... Inspektor Canard obserwuje wejœcie.
+guyban095	Jest nieczynne.
+guyban096	To drzwi do skarbca banku.
+guyban097	S¹ dla mnie trochê za ciê¿kie.
+guyban098	O nie. Nie chcê tam wracaæ.
+guyban099	Powinienem pierw zapytaæ kasjerki.
+guyluc153	Hej, rozdaj¹ ciasteczka!
+guyluc154	£o, czy to nie Bobby Fisher?
+guyluc155	Jejku, wielki paj¹k na twoim ramieniu!
+guyluc156	£a³, patrz na te batoniki!
+guyluc157	Bogowie, falanga przebranych trylobitów!
+guyluc158	Na krêcony makaron, to H.G Wells, wróci³ z przesz³oœci i rozdaje tony makaronu!
+guyluc159	Rany julek, czy to nie Julek!?
+guyluc160	Cii, ani drgnij. Drapie¿nik jest tu¿ za tob¹.
+guyluc161	Do jasnej ciasnej, ktoœ podpali³ strefê gastro!
+guyluc162	Patrz w górê!
+guyluc163	Aj... to wielka jaszczurka!
+guyluc012	Sorka, musia³o mi siê wydawaæ.
+guyluc013	Sorka. To chyba przechodz¹ca chmura.
 guyluc014	Uuups. To tylko balon pogodowy.
-guyluc167	A nie, czekaj, to tylko jakaœ g³upia krowa.
+guyluc167	A nie, to tylko jakaœ chuda krowa.
 guyluc168	Uuuups, mój b³¹d... to tylko plama ropy.
-cdaluc001	Dobry ruch, mó¿d¿ku.
-sgoluc001	Nie s¹dzê.
-cdaluc002	Znasz zasady: poruszysz pionkiem, to jest ruch.
-sgoluc002	Ale ja tylko...
+cdaluc001	Ha, ha. Niez³y ruch, geniuszu!
+sgoluc001	To siê nie liczy!
+cdaluc002	Znasz zasady: puszczasz pionka, mamy ruch.
+sgoluc002	Ale...
 cdaluc003	Zasady to zasady.
 sgoluc003	Dobrze.
-guyluc017	Ekhm...
+guyluc017	Yy...
 sgoluc004	Tak?
 guyluc170	Czy...
 guyluc171	Przepraszam ...
-guyluc020	Mogê zagraæ nastêpny?
+guyluc020	Mogê zagraæ?
 sgoluc005	Zgoda.
-sgoluc006	Jeœli nie przeszkadza ci poczekaæ kilka godzin.
+sgoluc006	Ale to potrwa kilka godzin.
 guyluc021	Oh.
 guyluc022	Czemu tak d³ugo?
-cdaluc004	Ja ci powiem.
-cdaluc005	Bo ten koleœ nie mo¿e sie skoncentrowaæ na grze d³u¿ej ni¿ dwie minuty.
-sgoluc007	Jakbym ja móg³ panowaæ nad tym co mój mózg w³aœnie wymyœla.
-cdaluc006	Wymyœla chyba na obiad, chcia³eœ powiedzieæ.
-sgoluc008	Nie ma mowy!
-cdaluc007	Nigdy to ty nie RUSZASZ pionkami!
-sgoluc009	To wszystko twoja wina.
+cdaluc004	Ju¿ ci mówiê.
+cdaluc005	Poniewa¿ ten tutaj Pirat S³onina nie potrafi skupiæ siê na grze d³u¿ej ni¿ przez dwie minuty.
+sgoluc007	Czy mogê poradziæ, ¿e mam wiele zainteresowañ, które sprawiaj¹, ¿e mój umys³ b³¹dzi?
+cdaluc006	Tak, chyba zainteresowañ kulinarnych.
+sgoluc008	Nigdy w ¿yciu!
+cdaluc007	W ¿yciu to siê nie ruszysz!
+sgoluc009	To jego wina.
 sgoluc010	Widzisz jaki jest skoncentrowany?
-sgoluc011	Próbuje swoimi magicznymi zdolnoœciami przewidzieæ nastêpny ruch przeciwnika.
-sgoluc012	To bardzo czasoch³onne.
-cdaluc008	Teraz ju¿ wiesz dlaczego to nie idzie szybko, on ci¹gle gada.
-sgoluc013	O, wypraszam sobie, jestem po prostu skoncentrowany na dwóch rzeczach jednoczeœnie.
+sgoluc011	Próbuje przewidzieæ skutki ka¿dego mo¿liwego ruchu, dziêki czystej sile swej woli.
+sgoluc012	To bardzo czasoch³onny proces.
+cdaluc008	Twój nieustanny be³kot nie przyspieszy go ani trochê.
+sgoluc013	Wybacz, ¿e jestem w stanie skupiæ dwie myœli w g³owie w tym samym czasie!
 cdaluc009	Grrr.
-guyluc023	Ju¿ skoñczy³eœ?
-sgoluc014	Oh nie. To zajmuje godziny.
-guyluc024	A kto wygrywa?
-sgoluc015	Hm, ciê¿ko powiedzieæ...
-sgoluc016	Naciska³em swoj¹ ogromn¹ defensyw¹ jego królow¹ o tylnego frontu.
-sgoluc017	Ale przez moj¹ pomy³kê zmyli³ mnie Atakiem Pozycyjnym.
-sgoluc018	Ale jestem prawie pewny koleœ chce mnie za³atwiæ sztuczk¹ na Nostradamusa.
-sgoluc019	Ale na to te¿ mam sposób, po prostu u¿yje na niego sztuczki krucjatycznej.
-guyluc025	Ah, wszystko jasne...
-guyluc026	A teraz kto?
-sgoluc020	Za wczeœnie ¿eby powiedzieæ.
+guyluc023	Skoñczyliœcie?
+sgoluc014	O nie. To zajmie godziny.
+guyluc024	To kto wygrywa?
+sgoluc015	Ciê¿ko powiedzieæ...
+sgoluc016	Naciska³em hetmana Señora Castanedy moj¹ ofensyw¹ Montgolfier.
+sgoluc017	Ale widzê, ten ¿a³osny gnojek powstrzyma³ mnie swoj¹ barykad¹ Estrady.
+sgoluc018	Czujê, ¿e Señor Castaneda próbuje mnie oszukaæ przewidywalnym gambitem Nostromo.
+sgoluc019	Ale zamkn¹³em to dziêki sprytnemu u¿yciu ekstrawaganckiej Obrony Cochrana.
+guyluc025	Rozumiem.
+guyluc026	Kto teraz wygrywa?
+sgoluc020	Za wczeœnie mówiæ.
 guyluc027	Szukam beznosego pirata...
-cdaluc010	A gra on w szachy?
+cdaluc010	Przyniós³ lunch?
 guyluc028	W¹tpiê.
 cdaluc011	Wiêc mnie to nie obchodzi.
 sgoluc021	GDZIE?
-guyluc029	Twój kolega wygl¹da jakby go zamroczy³o.
-sgoluc022	Oo, widzê, ¿e zauwa¿y³eœ?
-sgoluc023	Senor Casteneda jest wyj¹tkowo zdyscyplinowany.
-sgoluc024	Kiedyœ namówi³ swój mózg, ¿eby nie odbiera³ ¿adnych informacji z zewn¹trz.
-sgoluc025	No chyba, ¿e...
+guyluc029	Twój kolega strasznie wczu³ siê w grê.
+sgoluc022	Te¿ to zauwa¿y³eœ?
+sgoluc023	Señor Castaneda jest wyj¹tkowo zdyscyplinowany.
+sgoluc024	Kiedy skupi siê na jakimœ zadaniu, niemal niemo¿liwe jest odwrócenie jego uwagi.
+sgoluc025	Z wyj¹tkiem...
 guyluc030	Tak?
-sgoluc026	Chyba, ¿e zobaczy swoj¹ Brittany, kasjerkê w naszym banku.
+sgoluc026	Có¿, trochê siê zabuja³ w Brittany, kasjerce z banku.
 guyluc031	Ciekawe.
-guyluc032	Wiêc myœlisz ¿e Castenada naprawdê coœ czuje do tej kasjerki, eh?
-sgoluc027	O tak. Wszêdzie ma ze sob¹ zdjêcia Brittany, gdziekolwiek pójdzie.
-guyluc033	Twój kolega wygl¹da jakby siê zahipnotyzowa³.
-sgoluc028	A dziêkuje.
-guyluc034	Hej to trójg³owa ma³pa!
-guyluc187	Hej, czy to nie David Copperfield?
+guyluc032	Wiêc Castenada naprawdê coœ czuje do tej kasjerki z banku, tak?
+sgoluc027	O tak. Wszêdzie nosi ze sob¹ zdjêcia tej Brittany.
+guyluc033	Nie bêdê ju¿ was rozprasza³.
+sgoluc028	Dziêkujê.
+guyluc034	Patrzcie, to trójg³owa ma³pa!
+guyluc187	Hej, czy to nie Bobby Fisher!?
 guyluc036	Jejku, masz wielkiego skorpiona na ramieniu!
 guyluc037	Hej, patrz! Tam jest coœ ciekawego!
-guyluc039	Na krêcony makaron, to H.G Wells, pije jak skunks!
-guyluc040	Wielki Bo¿e, to tym j¹ zabi³eœ?!
-guyluc192	Jezu Chryste, ktoœ zostawi³ dziecko na gazie!
-guyluc193	Patrz, w góre!
-guyluc194	Hej, czy to nie Brittany, kasjerka w banku?
+guyluc039	Na krêcony makaron, to H.G Wells, upi³ siê jak skunks!
+guyluc040	Rany julek, czy to¿ to sztylet skierowany na mnie!?
+guyluc192	Do jasnej ciasnej, ktoœ podpali³ nasz bar!
+guyluc193	Patrz w górê!
+guyluc194	Hej, czy to nie Brittany, kasjerka z banku?
 guyluc046	Hej, Brittany!
-guyluc047	Oh, patrz, to Brittany!
-guyluc048	Brittany, chodŸ do nas!
+guyluc047	O, patrz, to Brittany!
+guyluc048	Brittany, uwa¿aj!
 guyluc049	Brittany!
-guyluc050	Ups, to mój b³¹d, to tylko kolejna dwug³owa ma³pa.
-guyluc051	naprawdê przepraszam, mia³em zaæmienie po tym starym grogu.
-guyluc052	Nie, czekaj, to tylko kaczka.
-guyluc053	Oh, nie, to s³odkie ziemniaczki.
-guyluc054	Oh, kurcze... to musi byæ zorza polarna.
+guyluc050	Ups, mój b³¹d. To tylko kolejna dwug³owa ma³pa.
+guyluc051	Sorka, grog zaæmi³ mi rozum.
+guyluc052	Nie, zaraz, to tylko kaczka.
+guyluc053	O, nie, to kosz z ziemniaczkami.
+guyluc054	O, kurczê... to tylko zorza polarna.
 guyluc055	Nie, sorka, to tylko patyk.
-sgoluc029	Ooh! To by³o dobre!
-cdaluc012	Tylko mi nie mów, ¿e chcesz TO zbiæ!
-sgoluc030	Jesteœ œmierdz¹cym butem.
-cdaluc013	Co za g³upi palant.
-sgoluc031	Tak? A kto powiedzia³ do mnie "Zasady to zasady"?
-cdaluc014	Dobrze, chcesz zobaczyæ mój ruch? Masz swój ruch!
-sgoluc032	Nazwa³eœ COŒ takiego ruchem? TO JEST ruch!
-cdaluc015	Nie mo¿esz tego zrobiæ.
-sgoluc033	Tak mówisz? A kto mnie powstrzyma?
-guyluc056	Ekhm...
+sgoluc029	Heh, heh, heh, heh... Uuu, dobry ruch!
+cdaluc012	Nie mów, ¿e chcesz to zaliczyæ.
+sgoluc030	Na twój koœcisty ty³ek, tak.
+cdaluc013	Niewiarygodny z ciebie palant.
+sgoluc031	A kto mi powiedzia³, ¿e "Zasady to zasady"?
+cdaluc014	Dobrze, chcesz zobaczyæ ruch? Masz swój ruch!
+sgoluc032	To TWÓJ ruch? To jest ruch!
+cdaluc015	Tak nie wolno!
+sgoluc033	Tak? A kto mnie powstrzyma?
+guyluc056	Yy...
 cdaluc016	Tak?
 guyluc057	Czy...
 guyluc207	Przepraszam ...
 guyluc208	HEJ!
-guyluc060	Mogê zagraæ nastêpny?
+guyluc060	Mogê zagraæ?
 cdaluc017	Zgoda.
-cdaluc018	Jeœli nie przeszkadza ci czekanie kilku godzin.
+cdaluc018	Ale to mo¿e chwilê potrwaæ.
 guyluc061	Oh.
 guyluc062	Czemu?
-cdaluc019	Poniewa¿ szachy to rodzaj gry który wymaga koncentracji przez co najmniej kilka godzin.
-guyluc063	Ju¿ skoñczyliœcie?
+cdaluc019	Poniewa¿ szachy to gra wymagaj¹ca wielu godzin intensywnej koncentracji.
+guyluc063	Mogê ju¿ zagraæ?
 cdaluc020	Nie.
-guyluc064	A kto wygrywa?
+guyluc064	To kto wygrywa?
 cdaluc021	Ciê¿ko powiedzieæ...
-cdaluc022	Naciska³em swoj¹ ogromn¹ defensyw¹ jego królow¹ o tylnego frontu.
-cdaluc023	Ale przez moj¹ pomy³kê zmyli³ mnie Atakiem Pozycyjnym.
-cdaluc024	Ale jestem prawie pewny koleœ chce mnie za³atwiæ sztuczk¹ na Nostradamusa.
-cdaluc025	Ale na to te¿ mam sposób, po prostu u¿yje na niego sztuczki krucjatycznej.
-guyluc065	To wiele wyjaœnia.
-guyluc066	A teraz kto?
-cdaluc026	Teraz ci jeszcze nie powiem.
+cdaluc022	Wygl¹da na to, ¿e Pan Santiago stosuje wariant Obrony Barbarino.
+cdaluc023	A jeœli tak, to mój Manewr Kaplana powinien zd³awiæ jego wie¿e.
+cdaluc024	Odcina³em siê od materia³u Mister Santiago poprzez subtelny atak chwiejnego kroku Yeltsina.
+cdaluc025	Ale chyba podwa¿a to moje wysi³ki poprzez zmodyfikowan¹ obronê pochówku Chruszczewa.
+guyluc065	No tak, jasne.
+guyluc066	Kto teraz wygrywa?
+cdaluc026	Nie wiem. Jeszcze tego nie rozpracowa³em.
 guyluc067	Szukam beznosego pirata...
 cdaluc027	A gra on w szachy?
-guyluc068	Raczej nie.
+guyluc068	Yy, nie wiem.
 cdaluc028	Wiêc mam to gdzieœ.
 cdaluc029	Hmph.
-cdaluc030	BRITTANY? GDZIE?
-guyluc069	Twój kolega wygl¹da jakby siê zahipnotyzowa³.
+cdaluc030	BRITTANY!? GDZIE!?
+guyluc069	Nie bêdê ju¿ was rozprasza³.
 guygpt001	Przepraszam?
 mtygpt001	Tak?
 guygpt002	Co z ciebie za pirat?
@@ -3654,7 +3654,7 @@ guyozi125	Tak, tak wiem. To trójg³owa ma³pa.
 guyozi126	Mam nadziejê ¿e s³yszeli t¹ propozycjê twoi znajomi.
 guyozi127	To DLATEGO ci¹gle siê drapiesz jak opêtany!
 guyozi128	Napewno NIC mnie nie uratuje, tylko WSZYSTKO!
-guyozi129	Fryzura nic tutaj nie wnosi!
+guyozi129	To takie cliché!
 guyozi130	A co? Chcesz jedn¹ porzyczyæ?
 guyozi131	Mój, na szczêscie, mnie chocia¿ rozpoznawa³.
 guyozi132	Musia³ ciê nauczyæ wszystkiego co wiesz!
@@ -3677,7 +3677,7 @@ ozzozi081	Tak, tak wiem. To trójg³owa ma³pa.
 ozzozi082	Mam nadziejê ¿e s³yszeli t¹ propozycjê twoi znajomi.
 ozzozi083	To DLATEGO ci¹gle siê drapiesz jak opêtany!
 ozzozi084	Napewno NIC mnie nie uratuje, tylko WSZYSTKO!
-ozzozi085	Fryzura nic tutaj nie wnosi!
+ozzozi085	To takie cliché!
 ozzozi086	A co? Chcesz jedn¹ porzyczyæ?
 ozzozi087	Mój, na szczêscie, mnie chocia¿ rozpoznawa³.
 ozzozi088	Musia³ ciê nauczyæ wszystkiego co wiesz!
@@ -5939,13 +5939,13 @@ guyall129	Jest ju¿ wystarczaj¹co t³uste.
 guyall130	Chyba czegoœ mu brakuje na górze.
 guyall131	Hej, ten hak pasuje jak ula³.
 guyall132	Na koñcu s³upa wetkniêto haczyk.
-guyall133	To pusty Pojemniczek.
+guyall133	To pusty pojemnik FekaWare.
 guyall134	Pe³ny œmierdz¹cej przynêty.
 guyall135	W œrodku jest œwiec¹ca rybka.
 guyall136	Rybci, rybci, rybci...
 guyall137	Fiuu! Lepiej to zamknê, zanim przyci¹gnê rekiny.
 guyall138	Nie, rybka mi ucieknie, jeœli go otworzê.
-guyall139	Nie s¹dzê, by rybki tak po prostu wp³ynê³y do pustego Pojemniczka bez jakiejœ zachêty.
+guyall139	Nie s¹dzê, by rybki tak po prostu wp³ynê³y do pustego pojemnika FekaWare bez jakiejœ zachêty.
 guyall140	Teraz moja przynêta utrzyma œwie¿oœæ.
 guyall141	Ju¿ wiêcej tam nie wejdzie.
 guyall142	Lepiej nie otwieraæ bo rybka mi ucieknie.
@@ -7095,7 +7095,7 @@ guypta034	Grzecznie odnoszê hamburgera do kucharza.
 guypta035	Cicho zjadam kanapkê, dziêkuj¹c jej za wartoœci od¿ywcze.
 guypta036	Przep³ywam obok statku...to nie mój problem, ¿e zaraz utonie.
 guypta037	Wyrzucam zabawki, podnoszê banderê, pl¹drujê statek, ukatrupiam kapitana i podpalam cholern¹ ³ajbê!
-rivpta083	Nie ma mowy!
+rivpta083	Nigdy w ¿yciu!
 munpta024	Ale z ciebie hardcore!
 guypta038	Pytam kapitana statku czy chce pomocy.
 guypta039	Liczê na szczêœcie, ¿e nikt nie bêdzie kaza³ mi wbiegaæ NA statek.
@@ -10198,10 +10198,10 @@ txtall050	wiadro t³uszczu
 txtall051	s³up
 txtall052	s³up z dziur¹
 txtall053	s³up z wetkniêtym hakiem
-txtall054	Pojemniczek
+txtall054	FekaWare
 txtall055	Otwórz:
-txtall056	œwiec¹cy Pojemniczek
-txtall057	Pojemniczek z przynêt¹
+txtall056	œwiec¹cy FekaWare
+txtall057	FekaWare z przynêt¹
 txtall058	skarby banku
 txtall059	Ukradnij:
 txtall060	maluteñka œrubka
@@ -10211,7 +10211,7 @@ txtall063	kupon do Planety Threepwood
 txtall064	s³oik z klejem
 txtall065	karykatura Ma³piego Kubka
 txtall066	lepka karykatura Ma³piego Kubka
-txtall067	kubek z logiem Starbuccaneera
+txtall067	kubek z logiem Starbukaniera
 txtall068	fa³szywy Ma³pi Kubek
 txtall069	Po³¹cz:
 txtall070	U¿yj:
@@ -10728,7 +10728,7 @@ txtgpt011	napis powitalny
 txtgpt012	kajaki na wynajem
 txtgpt013	statki
 txtgpt014	siatka
-txtgpt015	szyld Starbuccaneera
+txtgpt015	szyld Starbukaniera
 txtgpt016	szyld Mikrogroggerii
 txtgpt017	kwiaty na parapecie
 txtgpt018	pusty budynek
@@ -10755,7 +10755,7 @@ txthoj005	obraz
 txthoj006	hak
 txthoj007	narzêdzia tortur
 txthoj008	pu³apka na raki
-txthos001	znak "Na sprzeda¿"
+txthos001	znak wyprzeda¿y
 txthos002	Spójrz na:
 txthos003	nieregularne laski
 txthos004	znak "Wybierz Dobr¹ Laskê"
@@ -11201,14 +11201,14 @@ txtstb001	kasa fiskalna
 txtstb002	dekoracje statku
 txtstb003	towary
 txtstb004	wiadro na parasole
-txtstb005	szyld Starbuccaneera
+txtstb005	szyld Starbukaniera
 txtstb006	fili¿anka kawy
 txtstb007	kremowa fili¿anka kawy
 txtstb008	s³odzona fili¿anka kawy
 txtstb009	automat Cap'n-ccino
 txtstb010	stos fili¿anek do kawy
 txtstb011	torba podró¿na
-txtstb012	kasjer Starbuccaneera
+txtstb012	kasjer Starbukaniera
 txtstb013	groggoccino
 txtstb014	dziwna pani
 txtstb015	taca z mini bajglami
@@ -11302,7 +11302,7 @@ txtsys085	SCUMM Bar???
 txtsys086	Stocznia Szpady
 txtsys087	Salon Ko³konosa
 txtsys088	Wakacje ze Stanem
-txtsys089	StarBuccaneer's
+txtsys089	StartBukanier
 txtsys090	Obóz Zgni³ozêba
 txtsys091	podwodna pieczara
 txtsys092	skrytka banku
@@ -11332,9 +11332,9 @@ txtuch002	pe³ny barek
 txtuch003	stó³
 txtuch004	³up
 txtuch005	stos czaszek
-txtuch006	zas³ona
+txtuch006	kotary
 txtuch007	wisz¹cy pierœcieñ
-txtuch008	Wespnij siê:
+txtuch008	U¿yj:
 txtuch009	przycisk
 txtulg002	kamieñ
 txtulg003	rozgwiazda
@@ -11374,7 +11374,7 @@ txtvoo006	lufka
 txtvoo007	miecz
 txtvoo008	koszyk z kurczakami
 txtvoo009	drabina
-txtvoo010	Wespnij siê:
+txtvoo010	U¿yj:
 txtvoo011	stos koœci
 txtvoo012	maska voodoo
 txtvoo013	lalka voodoo
@@ -12159,7 +12159,7 @@ txtsavkab	Skalista Pla¿a
 txtsavgpt	miasto Jambalaya
 txtsavplt	Planeta Threepwood
 txtsavsta	Stan 
-txtsavstb	Starbuccaneer
+txtsavstb	Starbukanier
 txtsavjam	Mapa Wyspy Jambalaya
 txtsavpla	Deska do skoku
 txtsavhei	Wnêtrze Ma³piej G³owy

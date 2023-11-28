@@ -150,7 +150,6 @@ namespace po2tab_converter
                 .Where(x => x.Markup != null)
                 .GroupBy(x => x.Markup)
                 .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
-            int a = 5;
             var toFile = "";
             foreach (var result in dictPl)
             {

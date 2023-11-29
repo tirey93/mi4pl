@@ -15,7 +15,7 @@ peghoj033
 Poniżej spis stanu wybranych grup linijek:
 od DOEL012(1) do guymel097(755) - tłumaczenie i korekta Raela lub zagadki sprzed kilkunastu lat
 od guyscu034(756) do guyshi107(1701) - retranslacja tirey93, 2023
-od guymhi001(1702) do meamhi082(1849) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od guymhi001(1702) do meamhi082(1849) - planowana korekta Itami 2023, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od guytri001(1850) do guyluc069(2822) - korekta tirey93 2023, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od guygpt001(2823) do peghoj033(4014) - planowana korekta tirey93 2023, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od guymhi067(4015) do parkab063(5793) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93

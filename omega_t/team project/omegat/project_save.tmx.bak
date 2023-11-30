@@ -648,8 +648,8 @@
       <tuv lang="en-US">
         <seg>'Meathook's House of Wax.'</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130716T131340Z">
-        <seg>"Woskowy Dom Mięshaka".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182324Z">
+        <seg>"Woskowy Dom Meathooka".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1677,8 +1677,8 @@
       <tuv lang="en-US">
         <seg>...It was I who enticed the mysteries of the Ultimate Insult out of your drunken sot of a grandfather!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T121409Z">
-        <seg>....to ja wyciągnąłem tajemnicę Talizman Zniewagi od twego zapijaczonego dziadka!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182757Z">
+        <seg>....to ja wyciągnąłem tajemnicę Talizman Upokorzenia od twego zapijaczonego dziadka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5717,8 +5717,8 @@
       <tuv lang="en-US">
         <seg>Ahh, all in due time, my dear Mister Pegnose...</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T183530Z">
-        <seg>Wszystko w swoim czasie, panie Kołkonos...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183725Z">
+        <seg>Wszystko w swoim czasie, panie Kołkonosy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6333,8 +6333,8 @@
       <tuv lang="en-US">
         <seg>Although driving Pegnose out of his house with cheesy music seems like a good idea, I think I'll have to try something harsher.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No, niby pomysł wypędzenia z domu Pegnose'a za pomocą pozytywki ma jakąś podstawę, ale mimo to muszę wymyślić coś bardziej surowego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184638Z">
+        <seg>No, niby pomysł wypędzenia z domu Kołkonosego za pomocą pozytywki ma jakąś podstawę, ale mimo to muszę wymyślić coś bardziej surowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6445,8 +6445,8 @@
       <tuv lang="en-US">
         <seg>Amplified by the voodoo magiks of the Ultimate Insult, this original language has the power to speak to the very heart of a person's soul...and mock it into oblivion.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231016T140335Z">
-        <seg>Wzmocniony siłą Talizmanu Zniewagi, ten oryginalny język ma moc przemawiania do samego serca duszy człowieka... by zadrwić z niej do zatracenia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182806Z">
+        <seg>Wzmocniony siłą Talizmanu Upokorzenia, ten oryginalny język ma moc przemawiania do samego serca duszy człowieka... by zadrwić z niej do zatracenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7655,8 +7655,8 @@
       <tuv lang="en-US">
         <seg>Are you kiddin'?  Everyone on Lucre Island™ has heard of Pegnose Pete.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Żartujesz sobie? Wszyscy na Wyspie Mamony™ słyszeli o Pegnosie Pete.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184022Z">
+        <seg>Żartujesz sobie? Wszyscy na Wyspie Mamony™ słyszeli o Kołkonosym Pete'cie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7831,8 +7831,8 @@
       <tuv lang="en-US">
         <seg>Are you sure you don't know Pegnose Pete's alias?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jesteś pewny, że nie znasz prawdziwego nazwiska Pegnose'a?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184559Z">
+        <seg>Jesteś pewny, że nie znasz prawdziwego nazwiska Kołkonosego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9431,8 +9431,8 @@
       <tuv lang="en-US">
         <seg>Because of the ONE secret I didn't tell Ozzie; the secret of the fourth piece of the Ultimate Insult.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120757Z">
-        <seg>Bo nie powiedziałem Ozzie'mu o JEDNYM: tajemnicy czwartej części Talizmanu Zniewagi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182747Z">
+        <seg>Bo nie powiedziałem Ozzie'mu o JEDNYM: tajemnicy czwartej części Talizmanu Upokorzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9479,8 +9479,8 @@
       <tuv lang="en-US">
         <seg>Because, Mister Threepwood, it's just not Pegnose's style.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231116T152114Z">
-        <seg>Ponieważ, panie Threepwood, to nie w stylu Pegnose'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184210Z">
+        <seg>Ponieważ, panie Threepwood, to nie w stylu Kołkonosego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10295,8 +10295,8 @@
       <tuv lang="en-US">
         <seg>But I caught Pegnose Pete!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale ja złapałem Pegnose'a Pete'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184339Z">
+        <seg>Ale ja złapałem Kołkonosego Pete'a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,8 +11983,8 @@
       <tuv lang="en-US">
         <seg>Certificate of Transmogrification</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Certyfikat Dobrego Pirat</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123414Z">
+        <seg>Certyfikat Przeobrażenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12591,8 +12591,8 @@
       <tuv lang="en-US">
         <seg>Could you tell me anything else about Pegnose Pete?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powiesz mi coś więcej o Pegnosie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184109Z">
+        <seg>Powiesz mi coś więcej o Kołkonosym?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15767,8 +15767,8 @@
       <tuv lang="en-US">
         <seg>Even if that were true, Mister Threepwood, there is no Pegnose on which to test your theory.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130801T144830Z">
-        <seg>Nawet jeśli to prawda, to nie mamy Kołkonosa, na którym dowiedlibyśmy pańskiej teorii.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183613Z">
+        <seg>Nawet jeśli to prawda, to nie mamy Kołkonosego, na którym dowiedlibyśmy pańskiej teorii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18741,6 +18741,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guybrush!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182344Z" creationid="damia" creationdate="20231130T182344Z">
+        <seg>Guybrush!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guybrush!  Ah! You're back!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T113324Z">
@@ -19011,8 +19019,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>HOT KEELS toy ship</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>stateczek ŻARKIL</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T180707Z">
+        <seg>stateczek HOT KILS</seg>
       </tuv>
     </tu>
     <tu>
@@ -19395,8 +19403,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Has Pegnose said anything interesting?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy Pegnose mówił coś interesującego?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184354Z">
+        <seg>Czy Kołkonosy mówił coś interesującego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20315,8 +20323,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Heh, some would have you believe that Pegnose's proud proboscis was pecked off by a duck...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ktoś mi kiedyś powiedział, że duma Pegnose'a została odgryziona przez kaczkę...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184054Z">
+        <seg>Ktoś mi kiedyś powiedział, że duma Kołkonosego została odgryziona przez kaczkę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20635,8 +20643,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Herman Toothrot's Camp</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231112T152641Z">
-        <seg>Obóz Hermana Zgniłyzęba</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182625Z">
+        <seg>Obóz Hermana Toothrota</seg>
       </tuv>
     </tu>
     <tu>
@@ -21035,8 +21043,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, I should bring Meathook here.  He'd like this place.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T174333Z">
-        <seg>Hej, powinienem zaprosić Mięshaka. Spodobałoby mu się tu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182402Z">
+        <seg>Hej, powinienem zaprosić Meathooka. Spodobałoby mu się tu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21107,8 +21115,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, hey, great, a gun!  Watch out, Pegnose.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hej, patrzcie, broń! Strzeż się, Pegnose</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184626Z">
+        <seg>Hej, patrzcie, broń! Strzeż się, Kołkonosy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21539,8 +21547,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, you're the jerk who hired Pegnose to frame me for the bank robbery!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hej, to ty wciągnołeś Pegnose'a w to, żeby mnie wrobił w rabunek banku!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184400Z">
+        <seg>Hej, to ty wciągnołeś Kołkonosego w to, żeby mnie wrobił w rabunek banku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21611,8 +21619,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hi there, Meathook ol' pal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130720T185645Z">
-        <seg>Witaj, Mięshaku, stary druchu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182348Z">
+        <seg>Witaj, Meathook, stary druchu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21899,8 +21907,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hmm, that sounds like Pegnose Pete.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hmmm, kojarzy mi się tylko z Pegnosem Pete'em.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184004Z">
+        <seg>Hmmm, kojarzy mi się tylko z Kołkonosym Pete'em.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22261,6 +22269,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T153420Z">
         <seg>Wiesz co, na wyspie pewnie kręci się jakiś pirat lub dwóch chętny do członkostwa w twojej załodze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hmmm.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184552Z" creationid="damia" creationdate="20231130T184552Z">
+        <seg>Hmmm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23883,8 +23899,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I already have Pegnose's file.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja już mam akta Pegnose'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184617Z">
+        <seg>Ja już mam akta Kołkonosego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28035,8 +28051,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I overheard you talking to Pegnose in the swamp.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podsłuchałem jak gadałeś o tym z Pegnosem na bagnach.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184409Z">
+        <seg>Podsłuchałem jak gadałeś o tym z Kołkonosym na bagnach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29779,8 +29795,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I took the name 'Herman Toothrot,'</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231113T095008Z">
-        <seg>Przyjąłem imię Herman "Zgniłyząb" Toothrot,</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182611Z">
+        <seg>Przyjąłem imię Herman Toothrot,</seg>
       </tuv>
     </tu>
     <tu>
@@ -31163,8 +31179,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll bet it goes to Pegnose's prosthetic nose!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231027T201104Z">
-        <seg>Na pewno pasuje do protezy nosa Pegnose'a!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184532Z">
+        <seg>Na pewno pasuje do protezy nosa Kołkonosego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,8 +31856,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm Herman Toothrot!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem Herman Zgniłyząb!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182545Z">
+        <seg>Jestem Herman Toothrot!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32624,8 +32640,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm not going to get too close.  Wouldn't want Pegnose to see me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T185109Z">
-        <seg>Nie podejdę bliżej. Nie chcę, żeby Kołkonos mnie zauważył.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183833Z">
+        <seg>Nie podejdę bliżej. Nie chcę, żeby Kołkonosy mnie zauważył.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34192,8 +34208,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ick.  Dirty dishes.  For a master thief, Pegnose is a real slob.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T105615Z">
-        <seg>Fuj. Brudne naczynia. Jak na mistrza złodziei, Kołkonos jest wielkim niechlujem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183905Z">
+        <seg>Fuj. Brudne naczynia. Jak na mistrza złodziei, Kołkonosy jest wielkim niechlujem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34392,8 +34408,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If Pegnose had robbed the bank, he would have snuck in under cover of darkness...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jeśli to Pegnose obrabował bank to pewnie wkradł by się niezauważony w ciemnościach...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184247Z">
+        <seg>Jeśli to Kołkonosy obrabował bank to pewnie wkradł by się niezauważony w ciemnościach...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35168,8 +35184,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Inside Meathook's</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231112T151651Z">
-        <seg>Dom Mięshaka</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182457Z">
+        <seg>Dom Meathooka</seg>
       </tuv>
     </tu>
     <tu>
@@ -35736,8 +35752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It IS the Męlée Island™ Gubernatorial Seal.  Uh. One of them, anyway.  Ya see. A good governor always keeps a spare around, in case the original gets lost. He he he.  The Seal is the key to unlocking the dread power of the Ultimate Insult; uh without it, it's just a weird-looking maraca.  Tell me, Guybrush, where is the other Gubernatorial Seal?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T120023Z">
-        <seg>Bo to jest Pieczęć Gubernatora Wyspy Szpady™. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182751Z">
+        <seg>Bo to jest Pieczęć Gubernatora Wyspy Szpady™. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Upokorzenia: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36464,8 +36480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It seems very...  Meathooky.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231030T172836Z">
-        <seg>wygląda jakoś...Mięshakowo.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182411Z">
+        <seg>wygląda jakoś... Meathookowo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36872,8 +36888,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's Chez Toothrot.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To nasz Zgniłyząb.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182553Z">
+        <seg>To nasz Toothrot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36960,8 +36976,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's Meathook's place.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130717T131729Z">
-        <seg>Lokum Mięshaka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182336Z">
+        <seg>Lokum Meathooka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37000,8 +37016,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's Pegnose.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T174042Z">
-        <seg>To Kołkonos</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183655Z">
+        <seg>To Kołkonosy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40976,8 +40992,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Let me guess.  You found Pegnose's Booty Showcase.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231112T152030Z">
-        <seg>Niech zgadnę, odnalazłeś Gablotę Łupów Kołkonosa?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184429Z">
+        <seg>Niech zgadnę, odnalazłeś Gablotę Łupów Kołkonosego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -41128,8 +41144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Let's go try it on Pegnose!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T132531Z">
-        <seg>Sprawdźmy go Kołkonosie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183948Z">
+        <seg>Sprawdźmy go Kołkonosym!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41736,8 +41752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Looks like Meathook finally got himself a bridge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130717T131501Z">
-        <seg>Zatem Mięshak w końcu sprawił sobie most.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182332Z">
+        <seg>Zatem Meathook w końcu sprawił sobie most.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42616,8 +42632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Meathook</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183610Z" creationid="damia" creationdate="20231031T183610Z">
-        <seg>Mięshak</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182437Z" creationid="damia" creationdate="20231031T183610Z">
+        <seg>Meathook</seg>
       </tuv>
     </tu>
     <tu>
@@ -42632,40 +42648,40 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Meathook!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130720T185555Z">
-        <seg>Mięshak!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182342Z">
+        <seg>Meathook!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Meathook's</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183519Z">
-        <seg>Mięshaka</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182426Z">
+        <seg>Meathooka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Meathook's Studio Exterior</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T104820Z">
-        <seg>pracownia Mięshaka od zewnątrz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182443Z">
+        <seg>pracownia Meathooka od zewnątrz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Meathook's Studio Interior</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T104828Z">
-        <seg>pracownia Mięshaka od wewnątrz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182446Z">
+        <seg>pracownia Meathooka od wewnątrz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Meathook's front door</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183552Z">
-        <seg>drzwi do domu Mięshaka</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182435Z">
+        <seg>drzwi do domu Meathooka</seg>
       </tuv>
     </tu>
     <tu>
@@ -43880,8 +43896,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>My pleasure, Inspector.  Be sure to tell Pegnose that I'll be by in a few minutes to PROVE his guilt!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231116T152526Z">
-        <seg>Cała przyjemność po mojej stronie. Niech pan powie Pegnosowi, że zaraz wrócę, żeby UDOWODNIĆ jego winę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184701Z">
+        <seg>Cała przyjemność po mojej stronie. Niech pan powie Kołkonosemu, że zaraz wrócę, żeby UDOWODNIĆ jego winę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45136,8 +45152,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No one knows where Pegnose's hideout is.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nikt nie wie gdzie Pegnose ma kryjówkę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184134Z">
+        <seg>Nikt nie wie gdzie Kołkonosy ma kryjówkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45384,8 +45400,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No way!  That's probably Pegnose Pete disguised as me again!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie ma mowy! Prawdopodobnie to Pegnose Pete się za mnie znowu przebrał!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184631Z">
+        <seg>Nie ma mowy! Prawdopodobnie to Kołkonosy Pete się za mnie znowu przebrał!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45632,8 +45648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, I need these directions to find Pegnose's hideout.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, potrzebuje tych wskazówek do kryjówki Pegnose'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184611Z">
+        <seg>Nie, potrzebuje tych wskazówek do kryjówki Kołkonosego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45680,8 +45696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, I think I'll leave Pegnose here where the authorities can deal with him properly.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T175031Z">
-        <seg>Nie, myślę, że zostawię tu Kołkonosa. Władze będą mogły się nim odpowiednio zająć.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183707Z">
+        <seg>Nie, myślę, że zostawię tu Kołkonosego. Władze będą mogły się nim odpowiednio zająć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49928,8 +49944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, first of all, my real name isn't Herman Toothrot.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231117T095329Z">
-        <seg>Ok, po pierwsze, nie nazywam się Herman Zgniłyząb.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182559Z">
+        <seg>Ok, po pierwsze, nie nazywam się Herman Toothrot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50264,8 +50280,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On second thought, I think I'll find out about Pegnose on my own.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z drugiej strony, sądzę że będę szukał Pegnose'a sam.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184149Z">
+        <seg>Z drugiej strony, sądzę że będę szukał Kołkonosego sam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51280,8 +51296,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Outside Meathook's</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231112T151620Z">
-        <seg>Ogród Mięshaka</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182455Z">
+        <seg>Ogród Meathooka</seg>
       </tuv>
     </tu>
     <tu>
@@ -51368,8 +51384,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ozzie Mandrill hired Pegnose Pete to set me up!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ozzie Mandrill wynajął  Pegnose'a, żeby mnie wrobić!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184313Z">
+        <seg>Ozzie Mandrill wynajął Kołkonosego, żeby mnie wrobić!</seg>
       </tuv>
     </tu>
     <tu>
@@ -51656,8 +51672,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pegnose Pete would never simply enter a bank in the middle of the day, waving a pistol around like a common thug...it's beneath him.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pegnose Pete nigdy w życiu by po prostu wbiegł w biały dzień do banku wymachując pistoletem wokół jak jakiś wariat... to z nim sprzeczne.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184254Z">
+        <seg>Kołkonosy Pete nigdy w życiu by po prostu wbiegł w biały dzień do banku wymachując pistoletem wokół jak jakiś wariat... to z nim sprzeczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51672,8 +51688,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pegnose Pete.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>O Pegnose'a Pete'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184546Z">
+        <seg>O Kołkonosego Pete'a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51698,6 +51714,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231101T105038Z">
         <seg>Salon Kołkonosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pegnose?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184121Z" creationid="damia" creationdate="20231130T184121Z">
+        <seg>Kołkonosy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53656,8 +53680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Really?  You found Pegnose's Booty Showcase?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231112T152008Z">
-        <seg>Naprawdę? Odnalazłeś Gablotę Łupów Kołkonosa?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184420Z">
+        <seg>Naprawdę? Odnalazłeś Gablotę Łupów Kołkonosego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55040,8 +55064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Since then, I have been known to art-lovers everywhere as 'Meathook -- Master of Wax!'</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130721T141806Z">
-        <seg>Od tamtej pory, nazywają mnie wszędzie "Mięshakiem - Mistrzem Wosku".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182356Z">
+        <seg>Od tamtej pory, nazywają mnie wszędzie "Meathookiem - Mistrzem Wosku".</seg>
       </tuv>
     </tu>
     <tu>
@@ -55576,16 +55600,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, Ozzie and Pegnose are working together.  After I deal with Pegnose here, I'll have to pay Mister Mandrill a little visit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T184452Z">
-        <seg>Więc Ozzie i Kołkonos pracują razem.  Po tym, jak uporam się z Kołkonosem, będę musiał złożyć panu Mandrillowi małą wizytę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183800Z">
+        <seg>Więc Ozzie i Kołkonosy pracują razem.  Po tym, jak uporam się z Kołkonosym, będę musiał złożyć panu Mandrillowi małą wizytę.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>So, Pegnose is working with that Mandrill guy from the bank.  After I deal with Pegnose here, I'll have to pay Mister Mandrill a little visit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T184527Z">
-        <seg>Więc Kołkonos pracuje z tym Mandrillem z banku. Po tym, jak uporam się z Kołkonosem, będę musiał złożyć panu Mandrillowi małą wizytę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183809Z">
+        <seg>Więc Kołkonosy pracuje z tym Mandrillem z banku. Po tym, jak uporam się z Kołkonosym, będę musiał złożyć panu Mandrillowi małą wizytę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55696,8 +55720,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, the infamous Pegnose Pete finally meets his match.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ach, więc sławny Pegnose Pete w końcu został złapany?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184515Z">
+        <seg>Ach, więc sławny Kołkonosy Pete w końcu został złapany?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55808,8 +55832,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, who is Pegnose, again?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Więc, jeszcze raz, kim jest Pegnose?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184128Z">
+        <seg>Więc, jeszcze raz, kim jest Kołkonosy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -57152,8 +57176,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Strangely, the whirlpool didn't kill me; instead it dropped me and my shattered ship on the other side of the world, bobbing in the middle of the Caribbean!  I washed up on the shore of this despicable isle, right over there.  Just as I started to crawl up the beach, a monstrous, debris filled wave crashed down upon me, smacking me square on the noggin with my cherished, monogrammed accordion. By the time I had righted myself, I had no idea who I was, or where I came from.  I took the name 'Herman Toothrot,' after the remaining letters on my accordion...'H.T.'</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231110T141210Z">
-        <seg>Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman "Zgniłyząb" Toothrot, od pozostałych liter na moim akordeonie... "H.T.".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182605Z">
+        <seg>Co dziwne, wir mnie nie zabił; zamiast tego zrzucił mnie i mój rozbity statek na drugą stronę świata, kołysząc się na środku Karaibów! Wylądowałem niedaleko stąd - na brzegu tej podłej wysepki. Gdy czołgałem się w górę plaży, fala gruzu spadła na mnie. Dostałem w czoło moim ukochanym akordeonem z monogramem. Kiedy doszedłem do siebie, nie miałem pojęcia kim jestem i skąd pochodzę.  Przyjąłem imię Herman Toothrot, od pozostałych liter na moim akordeonie... "H.T.".</seg>
       </tuv>
     </tu>
     <tu>
@@ -57464,8 +57488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>THAT sounds a lot like Pegnose Pete.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>MASZ na myśli Pegnose'a Pete'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184106Z">
+        <seg>MASZ na myśli Kołkonosego Pete'a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58680,7 +58704,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That looks like Pegnose Pete!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T163953Z">
+      <tuv lang="pl" changeid="damia" changedate="20231130T183644Z">
         <seg>Wygląda jak Kołkonosy Pete!</seg>
       </tuv>
     </tu>
@@ -59152,8 +59176,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That would only prove that Pegnose here was at the scene of the crime.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T164351Z">
-        <seg>To udowadnia tylko tyle, że Kołkonos był na miejscu zbrodni.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183649Z">
+        <seg>To udowadnia tylko tyle, że Kołkonosy był na miejscu zbrodni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59296,8 +59320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's Pegnose's showroom over there.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T131944Z">
-        <seg>Tam jest salon Kołkonosa.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183912Z">
+        <seg>Tam jest salon Kołkonosego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59880,8 +59904,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's right, and it's the screw that attaches Pegnose's prosthetic nose to his face!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130801T144708Z">
-        <seg>Dokładnie. Ta sama, która przypinała protezę nosa Kołkonosa do jego twarzy!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183606Z">
+        <seg>Dokładnie. Ta sama, która przypinała protezę nosa Kołkonosego do jego twarzy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60168,8 +60192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's the way to Pegnose's ill-gotten booty showroom.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T101619Z">
-        <seg>To droga to salonu Kołkonosa ze skradzionym łupem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183851Z">
+        <seg>To droga to salonu Kołkonosego ze skradzionym łupem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62560,7 +62584,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There's only one criminal more nefarious than me, and that's Pegnose Pete!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T152401Z">
+      <tuv lang="pl" changeid="damia" changedate="20231130T183552Z">
         <seg>Jest tylko jeden przestępca bardziej nikczemny ode mnie, a jest nim Kołkonosy Pete!</seg>
       </tuv>
     </tu>
@@ -63072,8 +63096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>They're directions to Pegnose Pete's house.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231027T174829Z">
-        <seg>To wskazówki do domu Pegnose'a Pete'a.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184525Z">
+        <seg>To wskazówki do domu Kołkonosego Pete'a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63296,8 +63320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This Ultimate Insult nonsense has me uncharacteristically baffled.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T092854Z">
-        <seg>Ten nonsens o Talizmanie Zniewagi wprawił mnie w nietypowe osłupienie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182812Z">
+        <seg>Ten nonsens o Talizmanie Upokorzenia wprawił mnie w nietypowe osłupienie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64496,8 +64520,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>To do that, you'd need to prove Pegnose had the loot in his possession.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T164453Z">
-        <seg>Aby to zrobić, musisz udowodnić, że Kołkonos był w posiadaniu łupu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T181056Z">
+        <seg>Aby to zrobić, musisz udowodnić, że Kołkonosy był w posiadaniu łupu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65258,6 +65282,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Nie, to kruchy biznes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uh oh..</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184624Z" creationid="damia" creationdate="20231130T184624Z">
+        <seg>Uh oh..</seg>
       </tuv>
     </tu>
     <tu>
@@ -67064,8 +67096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Watching Pegnose's panic attacks is fun, but I'm sure I could do better.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231121T183406Z">
-        <seg>Oglądanie Kołkonosa w panice to frajda, ale muszę wymyślić coś lepszego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183716Z">
+        <seg>Oglądanie Kołkonosego w panice to frajda, ale muszę wymyślić coś lepszego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68720,8 +68752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, if it isn't Pegnose Pete, the Pilfering Pirate.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ach, więc to ty, Pegnosie Pete, Walnięty Piracie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184508Z">
+        <seg>Ach, czy to nie, Kołkonosy Pete, Walnięty Pirat?</seg>
       </tuv>
     </tu>
     <tu>
@@ -69297,8 +69329,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, we're all tickled pink that you've managed to capture Pegnose, seeing as how he's wanted for questioning in hundreds of Lucre Island™ thefts...</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T120934Z">
-        <seg>Wszystkich nas cieszy, że udało ci się schwytać Kołkonosa, ponieważ jest on poszukiwany w związku z setkami kradzieży na Wyspie Mamony™...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184330Z">
+        <seg>Wszystkich nas cieszy, że udało ci się schwytać Kołkonosego, ponieważ jest on poszukiwany w związku z setkami kradzieży na Wyspie Mamony™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -69577,8 +69609,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What a coincidence!  I already have Pegnose's file.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co za zbieg okoliczności! Mam akta Pegnose'a na wierzchu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184605Z">
+        <seg>Co za zbieg okoliczności! Mam akta Kołkonosego na wierzchu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71729,8 +71761,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Where can I find Pegnose Pete?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gdzie mogę znaleźć Pegnose'a?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184346Z">
+        <seg>Gdzie mogę znaleźć Kołkonosego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -71793,8 +71825,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Where did you say I could find Pegnose?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No to gdzie mogę znaleźć Pegnose'a?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184141Z">
+        <seg>No to gdzie mogę znaleźć Kołkonosego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72417,8 +72449,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Who, Pegnose Pete?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kto, Pegnose Pete?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184154Z">
+        <seg>Kto, Kołkonosy Pete?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72881,8 +72913,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why don't you believe that Pegnose Pete robbed the bank?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dlaczego nie chcesz mi uwierzyć, że to był Pegnose Pete?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T184202Z">
+        <seg>Dlaczego nie chcesz mi uwierzyć, że to był Kołkonosy Pete?</seg>
       </tuv>
     </tu>
     <tu>
@@ -84734,8 +84766,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>...so he hired Pegnose Pete to steal my grandfather's booty, and frame you for the crime.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T080952Z">
-        <seg>...i wynajął Pete'a Pegnose'a, by ukradł łupy dziadka i wrobił cię w tę kradzież.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T183545Z">
+        <seg>...i wynajął Pete'a Kołkonosego, by ukradł łupy dziadka i wrobił cię w tę kradzież.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84744,8 +84776,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>...so he's looking for the secret to something called the Ultimate Insult...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T080900Z">
-        <seg>...dlatego szuka przedmiotu zwanego Talizmanem Zniewagi...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182737Z">
+        <seg>...dlatego szuka przedmiotu zwanego Talizmanem Upokorzenia...</seg>
       </tuv>
     </tu>
     <tu>
@@ -85295,8 +85327,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Say, you don't happen to know anything about the Ultimate Insult, do you?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T085841Z">
-        <seg>Może przypadkiem wiesz coś o Talizmanie Zniewagi?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182742Z">
+        <seg>Może przypadkiem wiesz coś o Talizmanie Upokorzenia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -85755,8 +85787,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Wow.  Wax really is Meathook's preferred medium.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183558Z">
-        <seg>Wosk - prawdziwy środek wyrazu Mięshaka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T182308Z">
+        <seg>Wosk - prawdziwy środek wyrazu Meathooka.</seg>
       </tuv>
     </tu>
     <tu>

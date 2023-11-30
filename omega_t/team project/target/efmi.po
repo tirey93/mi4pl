@@ -232,7 +232,7 @@ msgstr "Nie wiedziałem, że wieloryby mogą schlać się w sztok, ale kontynuuj
 
 msgctxt "HEGB037"
 msgid "That's no way to talk, Governor.  We've got to work together to save Męlée Island™ from Ozzie and LeChuck!"
-msgstr "Takie gadanie nic nam nie da, gubernatorze. Musimy połączyć siły, by ocalić Szpadę™ przed Ozzie'm i LeChuckiem!"
+msgstr "Takie gadanie nic nam nie da, gubernatorze. Musimy połączyć siły, by ocalić Wyspę Szpady™ przed Ozzie'm i LeChuckiem!"
 
 msgctxt "HEHN038"
 msgid "LeChuck's involved, too?"
@@ -240,7 +240,7 @@ msgstr "LeChuck też maczał w tym palce?"
 
 msgctxt "HEGB039"
 msgid "Um, well, actually, he's the new Governor of Męlée Island™."
-msgstr "Jest teraz nowym gubernatorem wyspy Szpady™."
+msgstr "Jest teraz nowym gubernatorem Wyspy Szpady™."
 
 msgctxt "HEHN040"
 msgid "Gadzooks!  Then what's happened to my granddaughter?"
@@ -264,7 +264,7 @@ msgstr "Bo nie powiedziałem Ozzie'mu o JEDNYM: tajemnicy czwartej części Tali
 
 msgctxt "HEGB045"
 msgid "The one having to do with the Governorship of Męlée Island™?  Elaine and I were wondering about that.  What is it?"
-msgstr "Tej, która ma coś wspólnego z urzędem gubernatora Szpady™? Elaine i ja głowiliśmy się nad tym. Co to takiego?"
+msgstr "Tej, która ma coś wspólnego z urzędem gubernatora Wyspy Szpady™? Elaine i ja głowiliśmy się nad tym. Co to takiego?"
 
 msgctxt "HEHN046"
 msgid "It's..."
@@ -280,11 +280,11 @@ msgstr "To jest to!"
 
 msgctxt "HEGB049"
 msgid "That looks like the Męlée Island™ Gubernatorial Seal."
-msgstr "Wygląda jak pieczęć gubernatora wyspy Szpady™."
+msgstr "Wygląda jak Pieczęć Gubernatora Wyspy Szpady™."
 
 msgctxt "HEHN050"
 msgid "It IS the Męlée Island™ Gubernatorial Seal.  Uh. One of them, anyway.  Ya see. A good governor always keeps a spare around, in case the original gets lost. He he he.  The Seal is the key to unlocking the dread power of the Ultimate Insult; uh without it, it's just a weird-looking maraca.  Tell me, Guybrush, where is the other Gubernatorial Seal?"
-msgstr "Bo to jest pieczęć gubernatorska. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?"
+msgstr "Bo to jest Pieczęć Gubernatora Wyspy Szpady™. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?"
 
 msgctxt "HEGB051"
 msgid "I guess it's with Elaine.  She rarely lets it out of her sight."
@@ -384,7 +384,7 @@ msgstr "Tak?"
 
 msgctxt "EPGB011"
 msgid "Would you please be the Governor of Męlée Island™ again?"
-msgstr "Czy mógłbyś po raz kolejny zostać gubernatorem wyspy Szpady™?"
+msgstr "Czy mógłbyś po raz kolejny zostać gubernatorem Wyspy Szpady™?"
 
 msgctxt "EPHN012"
 msgid "Uh-uh.  No way, no how.  I hated being Governor.  Why do you think I went all the way to Australia in the first place?  For the cuisine?"
@@ -420,7 +420,7 @@ msgstr "Hej, jesteś gadającą małpą!"
 
 msgctxt "EPGB020"
 msgid "Oh. Elaine, I'd like you to meet Jojo Jr., the Monkey Prince of Monkey Island™."
-msgstr "Elaine, poznaj Jojo Juniora, Księcia Małp wyspy Małp™."
+msgstr "Elaine, poznaj Jojo Juniora, Księcia Małp Wyspy Małp™."
 
 msgctxt "EPEL021"
 msgid "Well. Thank you, noble Jojo, for helping to make the seas once again safe for pirates everywhere."
@@ -700,7 +700,7 @@ msgstr "Droga do domu."
 
 msgctxt "guymel021"
 msgid "That's the path to Męlée Island™."
-msgstr "Ścieżka do wyspy Szpady."
+msgstr "Ścieżka do Wyspy Szpady™."
 
 msgctxt "guymel022"
 msgid "It's the original International House of Mojo, supplier of all things voodoo-oriented."
@@ -732,7 +732,7 @@ msgstr "Jeszcze raz, co muszę zrobić?"
 
 msgctxt "el1mel003"
 msgid "Uh, stop that catapult from destroying our home, then sail to Lucre Island™, remember?!"
-msgstr "Zatrzymać katapultę i płynąć na wyspę Mamony, pamiętasz?!"
+msgstr "Zatrzymać katapultę i płynąć na Wyspę Mamony™, pamiętasz?!"
 
 msgctxt "guymel027"
 msgid "Oh yeah, thanks."
@@ -824,7 +824,7 @@ msgstr "Mam prawne zobowiązanie do zniszczenia pani willi tą katapultą."
 
 msgctxt "el1gme006"
 msgid "Something's rotten on Męlée Island™."
-msgstr "Coś mi śmierdzi na wyspie Szpady."
+msgstr "Coś mi śmierdzi na Wyspie Szpady™."
 
 msgctxt "guygme005"
 msgid "I know, but the stench usually drifts away with high tide."
@@ -872,7 +872,7 @@ msgstr "Zatrzymać obłęd. Łapię."
 
 msgctxt "el1gme012"
 msgid "Second, I want you to go to Lucre Island™.  Talk to my grandpa's lawyers."
-msgstr "Po drugie, popłyń na wyspę Mamony. Pomów z prawnikami dziadka."
+msgstr "Po drugie, popłyń na Wyspę Mamony™. Pomów z prawnikami dziadka."
 
 msgctxt "el1gme013"
 msgid "They might know how to help us fight city hall."
@@ -900,7 +900,7 @@ msgstr "Bądź grzeczny!"
 
 msgctxt "el1gme017"
 msgid "And don't forget:  Stop the Catapult.  Go to Lucre Island™."
-msgstr "I nie zapomnij: Zatrzymaj katapultę. Płyń na wyspę Mamony."
+msgstr "I nie zapomnij: Zatrzymaj katapultę. Płyń na Wyspę Mamony™."
 
 msgctxt "googme008"
 msgid "Sounds like the honeymoon's over."
@@ -992,7 +992,7 @@ msgstr "Jam, panie Threepwood, jest Charles L. Charles."
 
 msgctxt "el1gme025"
 msgid "But you can call me the next Governor of Męlée Island™!"
-msgstr "Ale możesz mnie zwać nowym gubernatorem wyspy Szpady!"
+msgstr "Ale możesz mnie zwać nowym gubernatorem Wyspy Szpady™!"
 
 msgctxt "el1gme026"
 msgid "You can't be the governor!  I'm the governor, and it's a lifetime term."
@@ -1032,7 +1032,7 @@ msgstr "Kiedy \"umarłaś\", willa stała się własnością urzędu."
 
 msgctxt "chagme008"
 msgid "As a favor to me, the future Governor of Męlée Island™, the town elders contracted a demolition firm--"
-msgstr "A w przysłudze dla przyszłego gubernatora Szpady radni zawarli umowę z firmą rozbiórkową..."
+msgstr "A w przysłudze dla przyszłego gubernatora Wyspy Szpady™ radni zawarli umowę z firmą rozbiórkową..."
 
 msgctxt "googme014"
 msgid "That's me."
@@ -1056,7 +1056,7 @@ msgstr "Czyżby?"
 
 msgctxt "chagme011"
 msgid "Indeed they are, lad.  If the Męlée Island™ of tomorrow is to prosper, it must be governed by a man of the people..."
-msgstr "Istotnie. Jeśli wyspa Szpady jutra ma prosperować, to musi być rządzona przez przedstawiciela ludu..."
+msgstr "Istotnie. Jeśli Wyspa Szpady™ jutra ma prosperować, to musi być rządzona przez przedstawiciela ludu..."
 
 msgctxt "chagme012"
 msgid "...a man unafraid to mingle with the common folk..."
@@ -1112,7 +1112,7 @@ msgstr "A jak ja mam pomóc?"
 
 msgctxt "el1gme033"
 msgid "Go to Lucre Island™ to talk to the family lawyers."
-msgstr "Płyń na wyspę Mamony i pogadaj z prawnikami."
+msgstr "Płyń na Wyspę Mamony™ i pogadaj z prawnikami."
 
 msgctxt "guygme028"
 msgid "But why?  I destroyed the catapult."
@@ -1160,7 +1160,7 @@ msgstr "No dobra, tak już lepiej."
 
 msgctxt "el1gme040"
 msgid "Okay, I'm off to start my campaign.  Don't spend too much time on Lucre Island™, dearest!"
-msgstr "Muszę zacząć kampanię. Nie przesiaduj za długo na wyspie Mamony."
+msgstr "Muszę zacząć kampanię. Nie przesiaduj za długo na Wyspie Mamony™."
 
 msgctxt "googme015"
 msgid "Mmm... that was good."
@@ -1720,7 +1720,7 @@ msgstr "Widzę stąd swój dom!"
 
 msgctxt "guyscu025"
 msgid "...I hope it's still there when I get back from Lucre Island™."
-msgstr "Oby nadal tam stał, jak wrócę z wyspy Mamony."
+msgstr "Oby nadal tam stał, jak wrócę z Wyspy Mamony™."
 
 msgctxt "guyscu026"
 msgid "Yup, the mansion's still there."
@@ -1748,7 +1748,7 @@ msgstr " "
 
 msgctxt "guyscu031"
 msgid "That's the skull of Hermie, the Giant Sea Pig of Męlée Island™."
-msgstr "Oto czaszka Hermiego, ogromnej świni morskiej wyspy Szpady."
+msgstr "Oto czaszka Hermiego, ogromnej świni morskiej Wyspy Szpady™."
 
 msgctxt "guyscu032"
 msgid "His ribs tasted like pork, his shanks like salmon, and his giblets like yams."
@@ -1824,11 +1824,11 @@ msgstr "Wolę nazwę ”bodziec sponsorowany przez państwo”."
 
 msgctxt "el1gmi009"
 msgid "When you get back from Lucre Island™, we're going to have a long talk about civic ethics."
-msgstr "Gdy wrócisz z Mamony, musimy odbyć długą pogadankę o etyce obywatelskiej."
+msgstr "Gdy wrócisz z Wyspy Mamony™, musimy odbyć długą pogadankę o etyce obywatelskiej."
 
 msgctxt "guygmi009"
 msgid "I'm trying to get a crew to go to Lucre Island™."
-msgstr "Próbuję zebrać załogę na wyspę Mamony."
+msgstr "Próbuję zebrać załogę na Wyspę Mamony™."
 
 msgctxt "el1gmi010"
 msgid "And?"
@@ -2000,7 +2000,7 @@ msgstr "Nakręcę ten zegar, jak tylko unicestwię jakiś zły czyn."
 
 msgctxt "guygmi044"
 msgid "I can see most of Męlée Island™ from here."
-msgstr "Stąd widać prawie całą wyspę."
+msgstr "Stąd widać prawie całą Wyspę Szpady™."
 
 msgctxt "guygmi045"
 msgid "I could open this window, but why?"
@@ -2176,7 +2176,7 @@ msgstr "Może i tak, ale nie mogę."
 
 msgctxt "googme066"
 msgid "My contract explicitly states that I'm not to leave Męlée Island™ until this house has been demolished."
-msgstr "W umowie o pracę jest wzmianka, że nie mogę opuścić wyspy Szpady, nim nie skończę z chałupą."
+msgstr "W umowie o pracę jest wzmianka, że nie mogę opuścić Wyspy Szpady™, nim nie skończę z chałupą."
 
 msgctxt "guygme075"
 msgid "Are you sure you can't join my crew?"
@@ -2452,7 +2452,7 @@ msgstr "Od czego by zacząć?"
 
 msgctxt "guymel039"
 msgid "I'd love to hear some more about the old Męlée Island™ gang."
-msgstr "Chciałbym usłyszeć coś więcej o starej bandzie Szpady."
+msgstr "Chciałbym usłyszeć coś więcej o starej bandzie Wyspy Szpady™."
 
 msgctxt "clamel018"
 msgid "Like who?"
@@ -2460,7 +2460,7 @@ msgstr "Znaczy o kim?"
 
 msgctxt "guymel040"
 msgid "I'm putting together a crew for a mission to Lucre Island™.  Wanna join?"
-msgstr "Zbieram załogę na misję na wyspę Mamony. Dołączacie?"
+msgstr "Zbieram załogę na misję na Wyspę Mamony™. Dołączacie?"
 
 msgctxt "otimel014"
 msgid "HOLY JUMPING MOTHER OF GOD, NO!"
@@ -2584,7 +2584,7 @@ msgstr "No tak..."
 
 msgctxt "guymel052"
 msgid "...some lovely property off the coast of Booty Island™."
-msgstr "...uroczy domek u wybrzeży wyspy Łupu."
+msgstr "...uroczy domek u wybrzeży Wyspy Łupu™."
 
 msgctxt "clamel032"
 msgid "Oh, that's rich."
@@ -2596,7 +2596,7 @@ msgstr " "
 
 msgctxt "clamel033"
 msgid "Everyone knows that a mysterious foreign investor has bought up all the real estate around Booty Island™!"
-msgstr "Wszyscy wiedzą, że tajemniczy zagraniczny inwestor wykupił wszystkie nieruchomości wokół wyspy Łupu!"
+msgstr "Wszyscy wiedzą, że tajemniczy zagraniczny inwestor wykupił wszystkie nieruchomości wokół Wyspy Łupu™!"
 
 msgctxt "guymel053"
 msgid "...cushy government jobs!"
@@ -2628,7 +2628,7 @@ msgstr "...i bez zagrożenia zwolnienia!"
 
 msgctxt "otimel022"
 msgid "Don't listen to him, Carla...he just wants to take us back to Monkey Island™!"
-msgstr "Nie słuchaj go, Carla... on chce nas znowu zabrać na wyspę Małp!"
+msgstr "Nie słuchaj go, Carla... on chce nas znowu zabrać na Wyspę Małp™!"
 
 msgctxt "clamel036"
 msgid "We'd want contracts, of course."
@@ -2672,11 +2672,11 @@ msgstr "Daj nam znać, jak na jakiś wpadniesz."
 
 msgctxt "guymel062"
 msgid "Didn't we run into each other last summer on Phatt Island™?"
-msgstr "Nie wpadliśmy na siebie zeszłego lata na wyspie Phatta?"
+msgstr "Nie wpadliśmy na siebie zeszłego lata na Wyspie Phatta™?"
 
 msgctxt "clamel040"
 msgid "We've never been to Phatt Island™."
-msgstr "Nigdy nie byliśmy na wyspie Phatta."
+msgstr "Nigdy nie byliśmy na Wyspie Phatta™."
 
 msgctxt "otimel024"
 msgid "And never in the summers!"
@@ -2732,7 +2732,7 @@ msgstr "To tak jak Ciągnij-kil."
 
 msgctxt "guymel072"
 msgid "Didn't we share a cruise to Monkey Island™ once?"
-msgstr "A my nie byliśmy w jednej załodze na wyspę Małp?"
+msgstr "A my nie byliśmy w jednej załodze na Wyspę Małp™?"
 
 msgctxt "clamel043"
 msgid "I don't think so--"
@@ -2744,7 +2744,7 @@ msgstr "CARLA, ZABIERZ TEGO ZŁEGO CZŁOWIEKA! ON CHCE NAS ZABRAĆ NA WYSPĘ MA�
 
 msgctxt "guymel073"
 msgid "Carla?"
-msgstr ""
+msgstr "Carla?"
 
 msgctxt "clamel044"
 msgid "Uh... who?"
@@ -2752,7 +2752,7 @@ msgstr "Kto?"
 
 msgctxt "guymel074"
 msgid "You can't fool me.  You're Carla, the Swordmaster of Męlée Island™!"
-msgstr "Nie nabierzesz mnie. Jesteś Carla, Fechtmistrzyni wyspy Szpady!"
+msgstr "Nie nabierzesz mnie. Jesteś Carla, Fechtmistrzyni Wyspy Szpady™!"
 
 msgctxt "guymel075"
 msgid "And you're..."
@@ -2760,7 +2760,7 @@ msgstr "A ty..."
 
 msgctxt "guymel076"
 msgid "Otis!"
-msgstr ""
+msgstr "Otis!"
 
 msgctxt "otimel027"
 msgid "I don't know what you're talking about."
@@ -2776,15 +2776,15 @@ msgstr "WIEDZIAŁEM, że was znam!"
 
 msgctxt "guymel078"
 msgid "You were two-thirds of my original Monkey Island™ crew!"
-msgstr "Byliście w 2/3 moją starą załogą na wyspę Małp!"
+msgstr "Byliście w 2/3 moją starą załogą na Wyspę Małp™!"
 
 msgctxt "otimel028"
 msgid "The crew you abandoned on Monkey Island™, you mean!"
-msgstr "Chyba załogą, którą porzuciłeś na wyspie Małp."
+msgstr "Chyba załogą, którą porzuciłeś na Wyspie Małp™."
 
 msgctxt "clamel046"
 msgid "Do you have any idea how difficult it is to escape from Monkey Island™?"
-msgstr "Masz pojęcie, jak trudna jest ucieczka z wyspy Małp?"
+msgstr "Masz pojęcie, jak trudna jest ucieczka z Wyspy Małp™?"
 
 msgctxt "guymel079"
 msgid "No, how difficult is it to..."
@@ -2792,7 +2792,7 @@ msgstr "Nie, jak trudna jest..."
 
 msgctxt "guymel080"
 msgid "...ESCAPE FROM MONKEY ISLAND™?"
-msgstr "...UCIECZKA Z WYSPY MAŁP?"
+msgstr "...UCIECZKA Z WYSPY MAŁP™?"
 
 msgctxt "clamel047"
 msgid "Um, well, it's really difficult."
@@ -2832,11 +2832,11 @@ msgstr "A co z tobą, Otis? Co robiłeś przez ostatnie kilka lat?"
 
 msgctxt "otimel031"
 msgid "Well, after I FINALLY escaped from Monkey Island™..."
-msgstr "Cóż, kiedy W KOŃCU uciekłem z wyspy Małp,"
+msgstr "Cóż, kiedy W KOŃCU uciekłem z Wyspy Małp™,"
 
 msgctxt "otimel032"
 msgid "I made my way back to Męlée Island™, where I tried to resume my former profession."
-msgstr "wróciłem na wyspę Szpady, gdzie próbowałem odtworzyć dawną profesję."
+msgstr "wróciłem na Wyspę Szpady™, gdzie próbowałem odtworzyć dawną profesję."
 
 msgctxt "guymel084"
 msgid "Petty thievery?"
@@ -2848,7 +2848,7 @@ msgstr "Wolę to nazywać \"proczynną redystrybucją bogactwa\"."
 
 msgctxt "otimel034"
 msgid "Unfortunately, the indignities I suffer on Monkey Island™ have left me so jittery..."
-msgstr "Niestety, poniżenie jakiego doznałem na wyspie Małp, tak mną wstrząsnęło,"
+msgstr "Niestety, poniżenie jakiego doznałem na Wyspie Małp™, tak mną wstrząsnęło,"
 
 msgctxt "otimel035"
 msgid "...that I cannot pick a lock or a pocket without making more noise than a flatulent hippo."
@@ -2888,7 +2888,7 @@ msgstr "Smirk tak się zawstydził, że przepisał wszystko, co miał na miejscu
 
 msgctxt "clamel053"
 msgid "The same story's been repeated dozens of times all over Męlée Island™..."
-msgstr "Ta sama historia zdarzała się tu wielokrotnie..."
+msgstr "Ta sama historia zdarzała się wielokrotnie na Wyspie Szpady™..."
 
 msgctxt "clamel054"
 msgid "This slimy investor strolls into a pirate's house or place of business..."
@@ -2920,7 +2920,7 @@ msgstr "To dobre pytanie."
 
 msgctxt "clamel058"
 msgid "After we FINALLY got off Monkey Island™, Meathook renounced his pirate-y lifestyle, and returned to his true passion."
-msgstr "Kiedy W KOŃCU uciekliśmy z wyspy Małp, Meathook zrzekł się pirackiego trybu życia i powrócił do swej prawdziwej pasji."
+msgstr "Kiedy W KOŃCU uciekliśmy z Wyspy Małp™, Meathook zrzekł się pirackiego trybu życia i powrócił do swej prawdziwej pasji."
 
 msgctxt "guymel088"
 msgid "Drinking?"
@@ -2944,7 +2944,7 @@ msgstr "A co ty porabiałaś, Carla?"
 
 msgctxt "clamel060"
 msgid "You mean AFTER I finally managed to escape from Monkey Island™?"
-msgstr "Znaczy, PO TYM, jak w końcu uciekłam z wyspy Małp?"
+msgstr "Znaczy, PO TYM, jak w końcu uciekłam z Wyspy Małp™?"
 
 msgctxt "guymel091"
 msgid "You're never gonna forgive me for that, are you?"
@@ -2956,7 +2956,7 @@ msgstr "Nie w tym życiu."
 
 msgctxt "clamel062"
 msgid "Anyhow, I've spent the last few years here on Męlée Island™, re-establishing my Swordmaster credentials."
-msgstr "Spędziłam ostatnie kilka lat na wyspie Szpady, na nowo wyrabiając sobie mandat fechtunku."
+msgstr "Spędziłam ostatnie kilka lat na Wyspie Szpady™, na nowo wyrabiając sobie mandat fechtunku."
 
 msgctxt "guymel092"
 msgid "That sounds productive."
@@ -3056,7 +3056,7 @@ msgstr "Australijczyk?"
 
 msgctxt "barscu007"
 msgid "Aye.  A scurrilous Australian land developer who's been using strong-arm tactics to buy up all the land on Męlée Island™."
-msgstr "Obelżywy Australijski przedsiębiorca, który używał swych mocnych taktyk na wykupienie terenów na wyspie Szpady."
+msgstr "Obelżywy Australijski przedsiębiorca, który używał swych mocnych taktyk na wykupienie terenów na Wyspie Szpady™."
 
 msgctxt "barscu008"
 msgid "Half of our regular clientele have been driven off-island by the no-good scoundrel."
@@ -3284,7 +3284,7 @@ msgstr "Że jak?"
 
 msgctxt "barscu036"
 msgid "You heard me...Charles L. Charles is the FUTURE of Męlée Island™!"
-msgstr "Słyszałeś... Charles L. Charles to PRZYSZŁOŚĆ wyspy Szpady!"
+msgstr "Słyszałeś... Charles L. Charles to PRZYSZŁOŚĆ Wyspy Szpady™!"
 
 msgctxt "guyscu064"
 msgid "The thought of Charles still gets my knickers in a bunch."
@@ -3308,7 +3308,7 @@ msgstr "Jeśli ktokolwiek ma zburzyć mi dom, to mogę to być tylko ja!"
 
 msgctxt "guyscu067"
 msgid "I haven't got a crew to take me to Lucre Island™."
-msgstr "Nie mam załogi, aby płynąć na wyspę Mamony."
+msgstr "Nie mam załogi, aby płynąć na Wyspę Mamony™."
 
 msgctxt "barscu039"
 msgid "Hmmm, you know, there's probably a pirate or two hanging around that could be coaxed into joining your crew."
@@ -3364,11 +3364,11 @@ msgstr "Tym lepiej."
 
 msgctxt "guyscu073"
 msgid "I need a ship to take me to Lucre Island™."
-msgstr "Potrzebuje statku na wyspę Mamony."
+msgstr "Potrzebuje statku na Wyspę Mamony™."
 
 msgctxt "barscu047"
 msgid "You might want to try the Męlée Island™ Municipal Shipyards."
-msgstr "Możesz spróbować na stoczni wyspy Szpady."
+msgstr "Możesz spróbować na stoczni Wyspy Szpady™."
 
 msgctxt "guyscu074"
 msgid "Does Stan still work there?"
@@ -3396,7 +3396,7 @@ msgstr "To gdzie mogę znaleźć statek?"
 
 msgctxt "barscu050"
 msgid "The Męlée Island™ Municipal Shipyards."
-msgstr "W stoczni wyspy Szpady."
+msgstr "W stoczni Wyspy Szpady™."
 
 msgctxt "guyscu078"
 msgid "Got it, thanks."
@@ -3512,7 +3512,7 @@ msgstr "Kolejkę? Brzmi znajomo..."
 
 msgctxt "barscu066"
 msgid "Now I ask you, what does Męlée Island™ need more:"
-msgstr "Co wyspie Szpady bardziej potrzeba:"
+msgstr "Co Wyspie Szpady™ bardziej potrzeba:"
 
 msgctxt "barscu067"
 msgid "A luxurious, tax-draining symbol of the bourgeois pirate plutocracy..."
@@ -3548,7 +3548,7 @@ msgstr "Ale Charles to nie pirat!"
 
 msgctxt "guyscu096"
 msgid "How can an effete snob like Charles hope to relate to the hopes and desires of a swashbuckling community like Męlée Island™?"
-msgstr "Jak taki słaby snob jak Charles może dać nadzieję i pragnienia zawadiackiej społeczności piratów na wyspie Szpady?"
+msgstr "Jak taki słaby snob jak Charles może dać nadzieję i pragnienia zawadiackiej społeczności piratów na Wyspie Szpady™?"
 
 msgctxt "barscu070"
 msgid "Nope, normally, I'd agree with you..."
@@ -3636,7 +3636,7 @@ msgstr "...albo przez los, który splótł nasze przeznaczenia..."
 
 msgctxt "voovoo009"
 msgid "Or maybe I've got an unbreakable five-game deal with LucasArts™."
-msgstr "...a może podpisałam z LucasArts'em pięcioletnią umowę."
+msgstr "...a może podpisałam z LucasArts™ pięcioletnią umowę."
 
 msgctxt "voovoo010"
 msgid "In any event, I'm here to help."
@@ -3752,7 +3752,7 @@ msgstr "Ale moje tajemne zdolności nic nie widzą."
 
 msgctxt "guyvoo050"
 msgid "Maybe it's still on Lucre Island™."
-msgstr "Może pozostał na wyspie Mamony?"
+msgstr "Może pozostał na Wyspie Mamony™?"
 
 msgctxt "voovoo026"
 msgid "I don't think so."
@@ -3760,7 +3760,7 @@ msgstr "Wątpię."
 
 msgctxt "voovoo027"
 msgid "My voodoo instincts tell me it's somewhere on Męlée Island™.  How curious."
-msgstr "Moje voodoo instynkty mówią mi, że pozostał gdzieś na wyspie Szpady. To ciekawe."
+msgstr "Moje voodoo instynkty mówią mi, że pozostał gdzieś na Wyspie Szpady™. To ciekawe."
 
 msgctxt "guyvoo051"
 msgid "Do you have any idea where I can find the BLUE wedding present?"
@@ -3768,7 +3768,7 @@ msgstr "Masz jakiś pomysł, gdzie znajdę NIEBIESKI dar?"
 
 msgctxt "voovoo028"
 msgid "Only that it's somewhere on Męlée Island™."
-msgstr "Wiem tylko, że jest gdzieś na wyspie Szpady."
+msgstr "Wiem tylko, że jest gdzieś na Wyspie Szpady™."
 
 msgctxt "guyvoo052"
 msgid "What am I supposed to do with the wedding presents?"
@@ -3860,7 +3860,7 @@ msgstr "Poza tym to nieustające gdakanie na Puerto Pollo doprowadzało mnie do 
 
 msgctxt "guyvoo061"
 msgid "Did you really move your thriving voodoo emporium back to Męlée Island™ just to be near me?"
-msgstr "Naprawdę przeniosłaś całe swoje voodoo emporium na wyspę Szpady specjalnie dla mnie?"
+msgstr "Naprawdę przeniosłaś całe swoje voodoo emporium na Wyspę Szpady™ specjalnie dla mnie?"
 
 msgctxt "voovoo042"
 msgid "Yes..."
@@ -3912,7 +3912,7 @@ msgstr "I zepsuć niespodziankę?"
 
 msgctxt "guyvoo066"
 msgid "Why is Męlée Island™ so empty?"
-msgstr "Czemu na wyspie Szpady jest tak pusto?"
+msgstr "Czemu na Wyspie Szpady™ jest tak pusto?"
 
 msgctxt "voovoo050"
 msgid "THAT is an excellent question, Guybrush."
@@ -3932,7 +3932,7 @@ msgstr "Co?"
 
 msgctxt "guyvoo069"
 msgid "Why is Męlée Island™ so empty!?"
-msgstr "Czemu wyspa Szpady jest taka pusta?!"
+msgstr "Czemu Wyspa Szpady™ jest taka pusta?!"
 
 msgctxt "voovoo052"
 msgid "Oh, that."
@@ -3940,7 +3940,7 @@ msgstr "No tak."
 
 msgctxt "voovoo053"
 msgid "About a month ago, a mysterious overseas investor began buying up all of Męlée Island™ from the local pirates."
-msgstr "Około miesiąc temu tajemniczy zagraniczny inwestor zaczął wykupywać od piratów wszystkie ziemie wyspy Szpady."
+msgstr "Około miesiąc temu tajemniczy zagraniczny inwestor zaczął wykupywać od piratów wszystkie ziemie Wyspy Szpady™."
 
 msgctxt "voovoo054"
 msgid "Those that wouldn't sell have been challenged to various forms of Insult Games:"
@@ -3976,7 +3976,7 @@ msgstr "Racja."
 
 msgctxt "voovoo060"
 msgid "In any event, the few pirates remaining on Męlée Island™ live in constant fear of being challenged by this foreign investor."
-msgstr "Nieliczni piraci zostali na wyspie Szpady. Żyją w ciągłym strachu przed wyzwaniem ze strony zagranicznego inwestora."
+msgstr "Nieliczni piraci zostali na Wyspie Szpady™. Żyją w ciągłym strachu przed wyzwaniem ze strony zagranicznego inwestora."
 
 msgctxt "guyvoo072"
 msgid "Do you know anything more about the mysterious foreign investor?"
@@ -4056,7 +4056,7 @@ msgstr "Użyj jego własnej broni przeciwko niemu."
 
 msgctxt "guyvoo080"
 msgid "How do I get to Lucre Island™?"
-msgstr "Jak dotrzeć do wyspy Mamony?"
+msgstr "Jak dotrzeć do Wyspy Mamony™?"
 
 msgctxt "voovoo072"
 msgid "It's a fairly simple procedure..."
@@ -4088,11 +4088,11 @@ msgstr "To PIRACKIE miasto. Nawet w czasach kryzysu ekonomicznego powinieneś by
 
 msgctxt "voovoo077"
 msgid "...then sail to Lucre Island™."
-msgstr "... i popłyń na wyspę Mamony."
+msgstr "... i popłyń na Wyspę Mamony™."
 
 msgctxt "guyvoo083"
 msgid "But I don't know where to find Lucre Island™."
-msgstr "Ale nie wiem, gdzie szukać wyspy Mamony."
+msgstr "Ale nie wiem, gdzie szukać Wyspy Mamony™."
 
 msgctxt "voovoo078"
 msgid "That's what navigators are for, Guybrush.  I believe there's one in the SCUMM Bar."
@@ -4100,7 +4100,7 @@ msgstr "I właśnie po to są nawigatorzy, Guybrushu. Wierzę, że jeden jest w 
 
 msgctxt "guyvoo084"
 msgid "Tell me again how to get to Lucre Island™."
-msgstr "Jeszcze raz: jak się dostać na Wyspę Mamony?"
+msgstr "Jeszcze raz: jak się dostać na Wyspę Mamony™?"
 
 msgctxt "guyvoo085"
 msgid "How can I help Elaine win her re-election?"
@@ -4324,7 +4324,7 @@ msgstr "Jednakże pamiętam, że pojedyncze części talizmanu można odnaleźć
 
 msgctxt "guyvoo109"
 msgid "Monkey Island™?"
-msgstr "Wyspie Małp?"
+msgstr "Wyspie Małp™?"
 
 msgctxt "voovoo110"
 msgid "Hmmmm...no, too obvious."
@@ -4392,7 +4392,7 @@ msgstr "Masz jeszcze jakąś parę voodoo lalek niszczących zło?"
 
 msgctxt "voovoo115"
 msgid "Sorry, we're fresh out.  We're expecting a shipment from Dinky Island™ early next week, though."
-msgstr "Niestety, skończyły się. Ale oczekujemy dostawy z wyspy Słodu na początku tygodnia."
+msgstr "Niestety, skończyły się. Ale oczekujemy dostawy z Wyspy Dinky™ na początku tygodnia."
 
 msgctxt "guyvoo121"
 msgid "How about one of those invisibility necklaces to help me sneak into womens' locker rooms?"
@@ -4440,7 +4440,7 @@ msgstr "Mi to mówisz?"
 
 msgctxt "voovoo121"
 msgid "Tragically, our shipment from Booty Island™ is also running late."
-msgstr "Nieszczęśliwie nasza dostawa z wyspy Łupu także się spóźnia."
+msgstr "Nieszczęśliwie nasza dostawa z Wyspy Łupu™ także się spóźnia."
 
 msgctxt "guyvoo127"
 msgid "I'm in the market for an enchanted sword that hypnotizes my enemies into a deep stupor before I skewer them with it."
@@ -4648,7 +4648,7 @@ msgstr "Taa. To mogło brzmieć niemoralnie."
 
 msgctxt "guyscu121"
 msgid "We'll be heading to Lucre Island™ to meet with my wife's lawyers."
-msgstr "Wyruszamy na wyspę Mamony, by spotkać się prawników mej żony."
+msgstr "Wyruszamy na Wyspę Mamony™, by spotkać się prawników mej żony."
 
 msgctxt "guyscu122"
 msgid "You're right, that does sound sort of silly when I say it out loud."
@@ -4740,7 +4740,7 @@ msgstr "Jesteście w barze. Gracie w rzutki. Jesteście \"zajęci\"?"
 
 msgctxt "grgscu002"
 msgid "Listen, we're playing for the title of 'Grand Master Dart Champion of Męlée Island™'"
-msgstr "Słuchaj, gramy o tytuł \"Mistrza Rzutek na wyspie Szpady\"."
+msgstr "Słuchaj, gramy o tytuł \"Mistrza Rzutek na Wyspie Szpady™\"."
 
 msgctxt "nedscu014"
 msgid "Yeah, and unless you're good enough to compete--"
@@ -4828,11 +4828,11 @@ msgstr "Czy tacy młodzi, napakowani osobnicy nie dołączyliby do mej pirackiej
 
 msgctxt "nedscu020"
 msgid "I would, but once I win the Męlée Championship, I'm going to have to go on tour to win the 'Tri-Island Dart Thrower's Championship'."
-msgstr "Chciałbym, ale po wygraniu Mistrzostw wyspy Szpady, będę musiał wyruszyć w trasę po Puchar Rzutek na Trójwyspie."
+msgstr "Chciałbym, ale po wygraniu Mistrzostw Wyspy Szpady™, będę musiał wyruszyć w trasę po Puchar Rzutek na Trójwyspie."
 
 msgctxt "grgscu007"
 msgid "Actually, you WILL be able to join his crew, since I will be winning the Męlée Island™ championship."
-msgstr "W sumie to możesz do niego dołączyć bo to ja będę mistrzem wyspy Szpady."
+msgstr "W sumie to możesz do niego dołączyć bo to ja będę mistrzem Wyspy Szpady™."
 
 msgctxt "nedscu021"
 msgid "Says you, swabbie."
@@ -5076,7 +5076,7 @@ msgstr "Właśnie, a co się stało z twoim kieszonkowym?"
 
 msgctxt "guygmi071"
 msgid "I... I blew it all gambling on spitting contests on Booty Island™."
-msgstr "Wszystko straciłem obstawiając na konkursie plucia na wyspie Łupu."
+msgstr "Wszystko straciłem obstawiając na konkursie plucia na Wyspie Łupu™."
 
 msgctxt "el1gmi034"
 msgid "Well then, I'm sorry my dear, it's time you learned an important lesson about budgeting."
@@ -5140,7 +5140,7 @@ msgstr "Na wszystko jest odpowiednia pora, Guybrushu."
 
 msgctxt "el1gmi042"
 msgid "Now, while I concentrate on running for reelection, you're going to get yourself to Lucre Island™."
-msgstr "Podczas gdy ja skupiam się na przygotowaniu do wyborów, ty masz się dostać na wyspę Mamony."
+msgstr "Podczas gdy ja skupiam się na przygotowaniu do wyborów, ty masz się dostać na Wyspę Mamony™."
 
 msgctxt "el1gmi043"
 msgid "And once there, you will visit with the Marley family lawyers."
@@ -5276,7 +5276,7 @@ msgstr "A co to jest?"
 
 msgctxt "el1gmi060"
 msgid "It's the official Gubernatorial Symbol of Męlée Island™."
-msgstr "To oficjalny Symbol Gubernatora wyspy Szpady."
+msgstr "To oficjalny Symbol Gubernatora Wyspy Szpady™."
 
 msgctxt "el1gmi061"
 msgid "It conveys the authority of the office of governor."
@@ -5300,7 +5300,7 @@ msgstr "No dobrze. Czy to oznacza, że już teraz mam opuszczać wyspę? Mam kil
 
 msgctxt "el1gmi064"
 msgid "Just give it back the minute you return from Lucre Island™."
-msgstr "Niech to poczeka do momentu, gdy wrócić z wyspy Mamony."
+msgstr "Niech to poczeka do momentu, gdy wrócić z Wyspy Mamony™."
 
 msgctxt "guygmi097"
 msgid "No problem."
@@ -5752,7 +5752,7 @@ msgstr "Dobra, miejmy to za sobą."
 
 msgctxt "guyshi002"
 msgid "Then we're off to Lucre Island™, in search of high adventure and a legally-binding restraining order!"
-msgstr "Płyńmy więc na wyspę Mamony, w poszukiwaniu zacnych przygód i prawnie wiążących zakazów!"
+msgstr "Płyńmy więc na Wyspę Mamony™, w poszukiwaniu zacnych przygód i prawnie wiążących zakazów!"
 
 msgctxt "otishi004"
 msgid "It'll all end in tears, mark my words."
@@ -5776,7 +5776,7 @@ msgstr "Co to?"
 
 msgctxt "guyshi005"
 msgid "The Gubernatorial Seal of Męlée Island™."
-msgstr "Pieczęć Gubernatorska wyspy Szpady."
+msgstr "Pieczęć Gubernatorska Wyspy Szpady™."
 
 msgctxt "habshi003"
 msgid "Oh, I see.  Mmm, hmm."
@@ -5972,11 +5972,11 @@ msgstr "Świetnie. Teraz dokąd płyniemy?"
 
 msgctxt "guyshi021"
 msgid "Jambalaya Island™.  Home of the Ultimate Insult."
-msgstr "Wyspa Jambalaya! Dom Talizmanu Upokorzenia."
+msgstr "Wyspa Jambalaya™! Dom Talizmanu Upokorzenia."
 
 msgctxt "clashi006"
 msgid "Jambalaya Island™?  'Kinda name is that?"
-msgstr "Wyspa Jambalaya? Co to za nazwa?"
+msgstr "Wyspa Jambalaya™? Co to za nazwa?"
 
 msgctxt "guyshi022"
 msgid "Can you get us there, Mister Cheese?"
@@ -6100,7 +6100,7 @@ msgstr "Osobiście, brakuje mi metody na bazie krążka i drobiu."
 
 msgctxt "guymhe009"
 msgid "I can see the forests of Męlée Island™ from here."
-msgstr "Widać stąd lasy wyspy Szpady."
+msgstr "Widać stąd lasy Wyspy Szpady™."
 
 msgctxt "guymhe010"
 msgid "It's Meathook's place."
@@ -6160,7 +6160,7 @@ msgstr "Jestem PANIĄ Stoczni."
 
 msgctxt "habshi025"
 msgid "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, Męlée Island™.'"
-msgstr "A dokładniej \"Główny zastępca regulatora stoczni, obsługa portu, wyspa Szpady\"."
+msgstr "A dokładniej \"Główny zastępca regulatora stoczni, obsługa portu, Wyspa Szpady™\"."
 
 msgctxt "habshi026"
 msgid "A division of Inter-Island Transportation Services."
@@ -6172,7 +6172,7 @@ msgstr "To znaczy?"
 
 msgctxt "habshi027"
 msgid "Which means I'm in charge of ship allocations on Męlée Island™."
-msgstr "To znaczy, że odpowiadam za przydział statków na wyspie Szpady™."
+msgstr "To znaczy, że odpowiadam za przydział statków na Wyspie Szpady™."
 
 msgctxt "guyshi044"
 msgid "Who's in charge around here?"
@@ -6192,7 +6192,7 @@ msgstr "Nie tak szybko, cywilu."
 
 msgctxt "habshi031"
 msgid "I am the Chief Assistant Shipyard Regulator, Harbor Operations, Męlée Island™."
-msgstr "Jestem głównym zastępcą regulatora stoczni, obsługa portu, wyspa Szpady\""
+msgstr "Jestem głównym zastępcą regulatora stoczni, obsługa portu, Wyspa Szpady™\""
 
 msgctxt "guyshi046"
 msgid "Baby, you can be in charge of my ships any day of the week."
@@ -6380,7 +6380,7 @@ msgstr "Co musiałoby się stać, żebyś odwróciła wzrok?"
 
 msgctxt "habshi061"
 msgid "I really hope that you aren't trying to bribe an employee of the Męlée Island™ government."
-msgstr "Mam nadzieję, że nie próbowałeś skorumpować pracownika urzędu wyspy Szpady™."
+msgstr "Mam nadzieję, że nie próbowałeś skorumpować pracownika urzędu Wyspy Szpady™."
 
 msgctxt "habshi062"
 msgid "Not that I care what happens to you, but I really don't want to fill out the paperwork."
@@ -7000,7 +7000,7 @@ msgstr "Więc jak skończyłeś malując woskiem?"
 
 msgctxt "meamhi028"
 msgid "Well, after me traumatic experience on Monkey Island™..."
-msgstr "Cóż, po moich traumatycznych przeżyciach na wyspie Małp™..."
+msgstr "Cóż, po moich traumatycznych przeżyciach na Wyspie Małp™..."
 
 msgctxt "guymhi023"
 msgid "Sorry."
@@ -7080,7 +7080,7 @@ msgstr "Dzięki."
 
 msgctxt "guymhi032"
 msgid "How did you and Carla and Otis ESCAPE FROM MONKEY ISLAND™?"
-msgstr "W jaki sposób ty, Carla i Otis UCIEKLIŚCIE Z WYSPY MAŁP?"
+msgstr "W jaki sposób ty, Carla i Otis UCIEKLIŚCIE Z WYSPY MAŁP™?"
 
 msgctxt "meamhi039"
 msgid "Same way you did, of course."
@@ -7100,7 +7100,7 @@ msgstr "Sądzę, że nie uciekliśmy w ten sposób, co ty."
 
 msgctxt "guymhi034"
 msgid "If you didn't use Herman's ship, how DID you ESCAPE FROM MONKEY ISLAND™?"
-msgstr "Jeśli nie płynęliście statkiem Hermana, to jak UCIEKLIŚCIE Z WYSPY MAŁP?"
+msgstr "Jeśli nie płynęliście statkiem Hermana, to jak UCIEKLIŚCIE Z WYSPY MAŁP™?"
 
 msgctxt "meamhi042"
 msgid "I don't want to talk about it."
@@ -7660,11 +7660,11 @@ msgstr "Myślcie nieszablonowo, moi szanowni koledzy."
 
 msgctxt "diglaw011"
 msgid "We could become the 'Official Lawyers for the Tri-Island Area™!'"
-msgstr "Moglibyśmy zostać \"Oficjalnymi Prawnikami Trójwyspu\"!"
+msgstr "Moglibyśmy zostać \"Oficjalnymi Prawnikami Obszaru Trójwysp™\"!"
 
 msgctxt "whilaw010"
 msgid "Yes, the 'Preferred Legal Team of the Governor's Office™'."
-msgstr "Tak, \"Dedykowany Zespół Prawny Biura Gubernatora\"."
+msgstr "Tak, \"Dedykowany Zespół Prawny Biura Gubernatora™\"."
 
 msgctxt "thrlaw012"
 msgid "What do you need from us, young fellow?"
@@ -8668,7 +8668,7 @@ msgstr "Nawet jeśli to prawda, to nie mamy Kołkonosa, na którym dowiedlibyśm
 
 msgctxt "canhoj008"
 msgid "This is rather circumstantial, even for Lucre Island™.  Keep the screw and come back when you have something more tangible."
-msgstr "To raczej poszlaka, nawet jak na Wyspę Mamony. Trzymaj śrubę i wróć, gdy będziesz miał coś bardziej namacalnego."
+msgstr "To raczej poszlaka, nawet jak na Wyspę Mamony™. Trzymaj śrubę i wróć, gdy będziesz miał coś bardziej namacalnego."
 
 msgctxt "canhoj009"
 msgid "Without the actual prosthetic nose, we can't prove he was at the scene of the crime."
@@ -8832,7 +8832,7 @@ msgstr "Hej, powinienem zaprosić Mięshaka. Spodobałoby mu się tu."
 
 msgctxt "guyhoj029"
 msgid "It's good to see that Lucre Island™ doesn't mollycoddle its criminal element."
-msgstr "Miło widzieć, że Wyspa Mamony nie pieści się z kryminalistami."
+msgstr "Miło widzieć, że Wyspa Mamony™ nie pieści się z kryminalistami."
 
 msgctxt "guyhoj030"
 msgid "My mom told me not to play with sharp, pointy objects."
@@ -9400,7 +9400,7 @@ msgstr "To frontowe drzwi tej wspaniałej (choć przerażającej) rezydencji."
 
 msgctxt "guyoze010"
 msgid "It leads back to the Lucre Island™ forests."
-msgstr "Ta droga prowadzi do lasów Wyspy Mamony"
+msgstr "Ta droga prowadzi do lasów Wyspy Mamony™"
 
 msgctxt "ozzoze001"
 msgid "Still here, are ya?"
@@ -9908,7 +9908,7 @@ msgstr "Nie ma mowy. Mam dość rzucania kłodami, by starczyło mi na jakiś cz
 
 msgctxt "guylag014"
 msgid "That leads back to Lucre Island™."
-msgstr "Prowadzi na Wyspę Mamony."
+msgstr "Prowadzi na Wyspę Mamony™."
 
 msgctxt "guylag015"
 msgid "Hey, there's a hidden passage back here!"
@@ -10400,11 +10400,11 @@ msgstr "Mam wrócić do rezydencji i pobawić się z Timmym?"
 
 msgctxt "canban023"
 msgid "No.  You are confined to Lucre Island™.  You are not permitted to leave until and unless you are cleared of the crime of bank robbery."
-msgstr "Nie. Jest pan zamknięty na Wyspie Mamony. Nie wolno panu jej opuścić, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank."
+msgstr "Nie. Jest pan zamknięty na Wyspie Mamony™. Nie wolno panu jej opuścić, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank."
 
 msgctxt "canban024"
 msgid "To make sure you don't leave, you are required to wear the Voodoo Anklet of Extreme Discomfort™."
-msgstr "Aby upewnić się, że pan nie odejdzie, zakładam panu Voodoo Łańcuszek Ekstremalnego Dyskomfortu."
+msgstr "Aby upewnić się, że pan nie odejdzie, zakładam panu Voodoo Łańcuszek Ekstremalnego Dyskomfortu™."
 
 msgctxt "guyban017"
 msgid "I was wondering about that."
@@ -11380,7 +11380,7 @@ msgstr "Nie, mówię o niebezpiecznym talizmanie voodoo o dużej mocy niszczący
 
 msgctxt "guygpt012"
 msgid "Its pieces are supposed to be somewhere on Jambalaya Island™."
-msgstr "Mówią, że jego części są na Wyspie Jambalaya, czy to prawda?"
+msgstr "Mówią, że jego części są na Wyspie Jambalaya™, czy to prawda?"
 
 msgctxt "mtygpt013"
 msgid "Ooh, a scavenger hunt!  How thrilling!"
@@ -11404,7 +11404,7 @@ msgstr "Co ty wyprawiasz?"
 
 msgctxt "mtygpt016"
 msgid "I'm admiring the craftsmanship of this statue of Jambalaya's most famous pirate:  Tiny LaFeet."
-msgstr "Podziwiam statuę największego pirata Wyspy Jambalaya: Tiny LaFeete."
+msgstr "Podziwiam statuę największego pirata Wyspy Jambalaya™: Tiny LaFeete."
 
 msgctxt "guygpt015"
 msgid "Can't take your eyes off the statue, can you?"
@@ -11480,7 +11480,7 @@ msgstr "Z czego Timy jest taki sławny?"
 
 msgctxt "mtygpt026"
 msgid "He was 'The Friendly Pirate of Jambalaya Island™'."
-msgstr "Był znany jako \"Przyjazny Pirat Wyspy Jambalaya\""
+msgstr "Był znany jako \"Przyjazny Pirat Wyspy Jambalaya™\""
 
 msgctxt "mtygpt027"
 msgid "'He robbed from the bad, and gave to the nice.'"
@@ -11488,7 +11488,7 @@ msgstr "\"Rabował bogatych a oddawał biednym\" - Był takim naszym Pirackim Ja
 
 msgctxt "mtygpt028"
 msgid "He's the perfect symbol of the new, non-threatening, Jambalaya Island™."
-msgstr "Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya."
+msgstr "Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya™."
 
 msgctxt "guygpt024"
 msgid "Was there really a Tiny LaFeet, or was he dreamed up by someone's marketing department?"
@@ -11648,7 +11648,7 @@ msgstr "Znasz go?"
 
 msgctxt "baibas033"
 msgid "Are you kiddin'?  Everyone on Lucre Island™ has heard of Pegnose Pete."
-msgstr "Żartujesz sobie? Wszyscy na Wyspie Mamony słyszeli o Pegnosie Pete."
+msgstr "Żartujesz sobie? Wszyscy na Wyspie Mamony™ słyszeli o Pegnosie Pete."
 
 msgctxt "guybas059"
 msgid "I'd like to hear some more about Pegnose Pete."
@@ -11760,7 +11760,7 @@ msgstr "To może jest takie czcze gadanie,"
 
 msgctxt "baibas052"
 msgid "...but I could swear that Lucre Island™ is getting less and less...pirate-friendly, see."
-msgstr "... ale mógłbym przysiąc, że Wyspa Mamony schodzi na złą stronę pirackiej uczciwości."
+msgstr "... ale mógłbym przysiąc, że Wyspa Mamony™ schodzi na złą stronę pirackiej uczciwości."
 
 msgctxt "guybas068"
 msgid "Really?  How?"
@@ -11864,7 +11864,7 @@ msgstr "Kto to jest?"
 
 msgctxt "baibas066"
 msgid "Oh, he's the most notorious thief on Lucre Island™!"
-msgstr "To najbardziej wpływowy złodziej na Wyspie Mamony."
+msgstr "To najbardziej wpływowy złodziej na Wyspie Mamony™."
 
 msgctxt "baibas067"
 msgid "He's NEVER been caught..."
@@ -11940,7 +11940,7 @@ msgstr "Jak to sie stało, że on nie ma nosa?"
 
 msgctxt "baibas078"
 msgid "Ooh, that's one of the darkest mysteries of Lucre Island™."
-msgstr "To jedna z najmroczniejszych tajemnic na Wyspie Mamony."
+msgstr "To jedna z najmroczniejszych tajemnic na Wyspie Mamony™."
 
 msgctxt "baibas079"
 msgid "Heh, some would have you believe that Pegnose's proud proboscis was pecked off by a duck..."
@@ -11952,7 +11952,7 @@ msgstr "Ale jak sądzę, że to mu się po prostu stało jakoś tak w łonie mat
 
 msgctxt "guybas087"
 msgid "THAT'S one of the 'darkest mysteries' of Lucre Island™?"
-msgstr "A więc TO jest \"najmroczniejsza tajemnica\" na Wyspie Mamony?"
+msgstr "A więc TO jest \"najmroczniejsza tajemnica\" na Wyspie Mamony™?"
 
 msgctxt "baibas081"
 msgid "Well, no, but it sounds more ominous that way."
@@ -12600,7 +12600,7 @@ msgstr "W sumie, mógłbym się zgodzić z tym zdaniem."
 
 msgctxt "frehos032"
 msgid "But lately, Lucre Island™'s been experiencing an influx of tourists, gawkers, and other assorted outsiders."
-msgstr "Ale ostatnio Wyspa Mamony była odwiedzana przez tłumy turystów, gapiów i innych zagranicznych."
+msgstr "Ale ostatnio Wyspa Mamony™ była odwiedzana przez tłumy turystów, gapiów i innych zagranicznych."
 
 msgctxt "frehos033"
 msgid "They're always more than eager to purchase my 'authentic pirate walking sticks'...at a reasonable markup, of course."
@@ -12732,7 +12732,7 @@ msgstr ""
 
 msgctxt "frehos056"
 msgid "He's the greatest pirate thief on Lucre Island™!"
-msgstr "To najlepszy złodziej na Wyspie Mamony!"
+msgstr "To najlepszy złodziej na Wyspie Mamony™!"
 
 msgctxt "frehos057"
 msgid "No one's come within a ship's broadside of putting him in leg irons, ayup."
@@ -12812,7 +12812,7 @@ msgstr "A masz jakąś laskę w uchu czy co?"
 
 msgctxt "frehos071"
 msgid "He's Lucre Island™'s uncatchable pirate thief."
-msgstr "To nie złapliwy złodziej Wyspy Mamony."
+msgstr "To nie złapliwy złodziej Wyspy Mamony™."
 
 msgctxt "guyhos047"
 msgid "Oh yeah, right."
@@ -13260,7 +13260,7 @@ msgstr "Powinien wrócić w przeciągu kilku tygodni, jak skończy mu się urlop
 
 msgctxt "guyhoj059"
 msgid "A few weeks!? I need to get back to Męlée Island™ TODAY!"
-msgstr "Kilku tygodni!? Muszę wrócić na Wyspę Szpady jeszcze DZISIAJ!"
+msgstr "Kilku tygodni!? Muszę wrócić na Wyspę Szpady™ jeszcze DZISIAJ!"
 
 msgctxt "canhoj053"
 msgid "Well, I guess you should have thought of that before you went and robbed that bank, now, shouldn't you?"
@@ -13280,7 +13280,7 @@ msgstr "No nie, ten vodoo łańcuszek jest naprawdę niewygodna."
 
 msgctxt "canhoj055"
 msgid "That's why it's called the Voodoo Anklet of Extreme DISCOMFORT™."
-msgstr "To wyjaśnia dlaczego nazywa się Łańcuszek Vodoo wersja DYSKOMFORT."
+msgstr "To wyjaśnia dlaczego nazywa się Łańcuszek Vodoo wersja DYSKOMFORT™."
 
 msgctxt "canhoj056"
 msgid "Good.  That means it's working."
@@ -13296,7 +13296,7 @@ msgstr "Zapomnij o tym. Zostaje tam gdzie jest."
 
 msgctxt "canhoj059"
 msgid "If that one doesn't suit you, I could always get out the Voodoo Anklet of Excruciating Pain™."
-msgstr "Jeśli ta ci nie pasuje, zawsze mogę przynieść ci Łańcuszek Vodoo wersje MĘCZARNIA BÓLU."
+msgstr "Jeśli ta ci nie pasuje, zawsze mogę przynieść ci Łańcuszek Vodoo wersje MĘCZARNIA BÓLU™."
 
 msgctxt "guyhoj062"
 msgid "I guess it's not so bad after all, heh."
@@ -13352,7 +13352,7 @@ msgstr "Cicho bądź!"
 
 msgctxt "canhoj065"
 msgid "Well, we're all tickled pink that you've managed to capture Pegnose, seeing as how he's wanted for questioning in hundreds of Lucre Island™ thefts..."
-msgstr "No więc, wszyscy wiemy, że próbowałeś złapać Pegnose'a tylko dlatego, że ci sie wydawało, że on jest winny..."
+msgstr "Wszystkich nas cieszy, że udało ci się schwytać Kołkonosa, ponieważ jest on poszukiwany w związku z setkami kradzieży na Wyspie Mamony™..."
 
 msgctxt "canhoj066"
 msgid "But, you haven't got any proof that he's the one who framed you, nor have you recovered the stolen loot."
@@ -13404,7 +13404,7 @@ msgstr "To dlatego, że on mnie wrobił w napad?"
 
 msgctxt "canhoj075"
 msgid "No.  Because he's wanted for approximately three hundred other crimes on Lucre Island™."
-msgstr "Nie. Z powodu trzystu innych przestępstw, które zdążył popełnić."
+msgstr "Nie. Z powodu trzystu innych przestępstw, które zdążył popełnić na Wyspie Mamony™."
 
 msgctxt "guyhoj074"
 msgid "Well, I better get out there and prove my innocence."
@@ -13624,7 +13624,7 @@ msgstr "Ciągle to próbuje robić."
 
 msgctxt "guyhoj099"
 msgid "How about a half-decaf, half-caf triple cappuccino mocha latte from StarBuccaneers™?"
-msgstr "A może chcesz te wszystkie włoskie kawy z Starbuccaneers?"
+msgstr "A może chcesz te wszystkie włoskie kawy z Starbukaniera™?"
 
 msgctxt "otihoj028"
 msgid "No thanks...I try not to drink anything with a longer name than mine."
@@ -13720,7 +13720,7 @@ msgstr "Czy perfumy nie niszczą tutaj twojej pirackości?"
 
 msgctxt "preluc007"
 msgid "Hugo's not a pirate, Hugo's a model citizen, making a positive economic contribution to the economic well-being of Lucre Island™."
-msgstr "Hugo nie jest piratem, Hugo jest wzorem społeczeństwa, który tworzy ogromny wkład w dobro Wyspy Mamony."
+msgstr "Hugo nie jest piratem, Hugo jest wzorem społeczeństwa, który tworzy ogromny wkład w dobro Wyspy Mamony™."
 
 msgctxt "guyluc093"
 msgid "Uh huh."
@@ -13824,7 +13824,7 @@ msgstr "Aha, a kiedy tak biegłem, to pamiętasz którą drogą?"
 
 msgctxt "preluc022"
 msgid "Towards the deepest forests of Lucre Island™."
-msgstr "W stronę mrocznego lasku Wyspy Mamony."
+msgstr "W stronę mrocznego lasku Wyspy Mamony™."
 
 msgctxt "guyluc104"
 msgid "Thanks."
@@ -13940,7 +13940,7 @@ msgstr "później nowe zaklęcie voodoo do przetestowania"
 
 msgctxt "claluc010"
 msgid "And before you know it, LeChuck'll show up with his legions of undead goons, and POW! We'll all be stuck on Monkey Island™ again!"
-msgstr "I co? TRACH! Znowu jesteśmy na Wyspie Małp, co?"
+msgstr "I co? TRACH! Znowu jesteśmy na Wyspie Małp™, co?"
 
 msgctxt "claluc011"
 msgid "--Sigh--"
@@ -13968,7 +13968,7 @@ msgstr "A czy to ważne?"
 
 msgctxt "claluc015"
 msgid "We're all doomed to return to Monkey Island™."
-msgstr "Znowu zmieżamy prosto w stronę Wyspy Małp."
+msgstr "Znowu zmieżamy prosto w stronę Wyspy Małp™."
 
 msgctxt "guyluc120"
 msgid "I'll take that as a no, then."
@@ -14112,7 +14112,7 @@ msgstr "Zapomniałam."
 
 msgctxt "guyluc139"
 msgid "Are you trying to forget Monkey Island™?"
-msgstr "Chcesz zapomnieć o Wyspie Małp?"
+msgstr "Chcesz zapomnieć o Wyspie Małp™?"
 
 msgctxt "claluc032"
 msgid "THAT'S IT!"
@@ -14120,7 +14120,7 @@ msgstr "DOKŁADNIE!"
 
 msgctxt "claluc033"
 msgid "I'm drinking to forget all that time I spent stranded on Monkey Island™!"
-msgstr "Piję by zamnipoeć Wyspe Małp, te czaysy."
+msgstr "Piję by zamnipoeć Wyspę Małp™, te czaysy."
 
 msgctxt "claluc034"
 msgid "Th... thanks for meminding me...now I'll have to start drinking all over again."
@@ -14892,7 +14892,7 @@ msgstr "Do Rezydencji Marleya."
 
 msgctxt "guylaw046"
 msgid "Hey, according to Grandpa Marley's letter, the deed's here on Lucre Island™, at the local bank!"
-msgstr "Hej, a propos listy dziadka, takie akty są tu, na Wyspie Mamony? W lokalnym banku!"
+msgstr "Hej, a propos listy dziadka, takie akty są tu, na Wyspie Mamony™? W lokalnym banku!"
 
 msgctxt "whilaw044"
 msgid "Well, don't just stand there--"
@@ -15000,7 +15000,7 @@ msgstr "Czemu?"
 
 msgctxt "guylaw051"
 msgid "Well, Grandpa Marley's letter mentioned something about the deed being in the Lucre Island™ Bank,"
-msgstr "No bo, list dziadka Marleya wspominał coś o akcie prawnym w banku na Wyspie Mamony."
+msgstr "No bo, list dziadka Marleya wspominał coś o akcie prawnym w banku na Wyspie Mamony™."
 
 msgctxt "guylaw052"
 msgid "So I went over to get it."
@@ -15636,7 +15636,7 @@ msgstr "Sądze że jesteś żałosnym piratem."
 
 msgctxt "guyozi165"
 msgid "I'm Guybrush Threepwood, the Love Machine of Męlée Island™!"
-msgstr "Jestem Guybrush Threepwood, Największy Amant Wyspy Szpady."
+msgstr "Jestem Guybrush Threepwood, Największy Amant Wyspy Szpady™."
 
 msgctxt "ozzozi156"
 msgid "Don't make me laugh."
@@ -16648,7 +16648,7 @@ msgstr "Dasz mi trochę pieniędzy, TERAZ?"
 
 msgctxt "guymel133"
 msgid "I could've really used some cash on Lucre Island™."
-msgstr "Mógłbym mieć wielką potrzebę posiadania gotówki na Wyspę Mamony."
+msgstr "Mógłbym mieć wielką potrzebę posiadania gotówki na Wyspę Mamony™."
 
 msgctxt "el1mel040"
 msgid "Why?"
@@ -17180,7 +17180,7 @@ msgstr "Niebezpieczne? HA! Zabawny jesteś! HA!"
 
 msgctxt "mblstb005"
 msgid "Besides, I read about how Ozzie Mandrill's been rehabilitating Jambalaya's pirates,"
-msgstr "Przed wyjazdem, poczytałam trochę jak Ozzie Mandrill uzdrowił piratów z Wyspy Jambalaya,"
+msgstr "Przed wyjazdem, poczytałam trochę jak Ozzie Mandrill uzdrowił piratów z Wyspy Jambalaya™,"
 
 msgctxt "mblstb006"
 msgid "making the island safe for sightseers and cute little shops like this."
@@ -17284,7 +17284,7 @@ msgstr "Co ty wyprawiasz?"
 
 msgctxt "mblstb019"
 msgid "I'm picking up some bags of this absolutely fabulous StarBuccaneer's™ Coffee."
-msgstr "Podnoszę torbę pełną bajecznie wspaniałych Kaw Starbuccaneera."
+msgstr "Podnoszę torbę pełną bajecznie wspaniałych Kaw Starbukaniera™."
 
 msgctxt "mblstb020"
 msgid "You just can't get coffee like this at home."
@@ -17292,11 +17292,11 @@ msgstr "W domu takiej kawy sobie nie zrobisz."
 
 msgctxt "guystb017"
 msgid "Of course you can.  There are thousands of StarBuccaneers™!"
-msgstr "Możesz. Wystarczy, że znajdziesz inną siedzibę Starbuccaneera od tej!"
+msgstr "Możesz. Wystarczy, że znajdziesz inną siedzibę Starbukaniera™ od tej!"
 
 msgctxt "mblstb021"
 msgid "Yeah, but these have 'Jambalaya Island™' stamped on them."
-msgstr "Tak, ale te, mają taki stempelek na kubku z logiem Wyspy Jambalaya!"
+msgstr "Tak, ale te, mają taki stempelek na kubku z logiem Wyspy Jambalaya™!"
 
 msgctxt "mblstb022"
 msgid "My friends at home will be so envious."
@@ -17316,7 +17316,7 @@ msgstr "Mieszkańcy nigdy nie byli wdzięczni za to co już mają."
 
 msgctxt "guystb019"
 msgid "I see you bought one of those great StarBuccaneer's™ coffee mugs."
-msgstr "Widzę, że kupiłaś jeden z tych świetnych Kubków do Kawy od Starbuccaneera."
+msgstr "Widzę, że kupiłaś jeden z tych świetnych Kubków do Kawy od Starbukaniera™."
 
 msgctxt "mblstb025"
 msgid "You bet I did!  My friends'll just die!"
@@ -17784,7 +17784,7 @@ msgstr "Żadna intratna posadka nie jest warta takiego zachodu."
 
 msgctxt "guygpt030"
 msgid "Welcome to Jambalaya Island™, home of swashbuckling pirates and spooooky voodoo curses!"
-msgstr "Witam na Wyspie Jambalaya, domu prawdziwych piratów oraz tajemniczych voodoo klątw!"
+msgstr "Witam na Wyspie Jambalaya™, domu prawdziwych piratów oraz tajemniczych voodoo klątw!"
 
 msgctxt "otigpt002"
 msgid "And tacky theme restaurants."
@@ -17840,7 +17840,7 @@ msgstr "Tak jest."
 
 msgctxt "guygpt036"
 msgid "Otis!"
-msgstr ""
+msgstr "Otis!"
 
 msgctxt "otigpt004"
 msgid "What?"
@@ -17856,7 +17856,7 @@ msgstr "Taaa. To będzie proste..."
 
 msgctxt "guygpt038"
 msgid "Now that the pieces of the Ultimate Insult are mine, it's back to Męlée Island™!"
-msgstr "Teraz te części Talizmanu Upokorzenia należą do mnie. Powrót na Wyspę Szpady!"
+msgstr "Teraz te części Talizmanu Upokorzenia należą do mnie. Powrót na Wyspę Szpady™!"
 
 msgctxt "murgpt026"
 msgid "Hey, what're you doing?"
@@ -18236,7 +18236,7 @@ msgstr ""
 
 msgctxt "guypla017"
 msgid "What Marco doesn't know is that we've replaced his regular Baby Seal Oil with StarBuccaneers™ Shmear Whiz.  Let's watch."
-msgstr "Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając Shmear Whiz. Zobaczmy."
+msgstr "Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając Shmear Whiz ze StarBukaniera™. Zobaczmy."
 
 msgctxt "macpla012"
 msgid "Now, my friend...prepare to watch a master in action!"
@@ -18392,7 +18392,7 @@ msgstr "Co to?"
 
 msgctxt "guypla021"
 msgid "It's a brochure for Stan's Jambalaya Timeshare Emporium."
-msgstr "To ulotka z \"Wakacje ze Stanem\" na wyspie Jambalaya."
+msgstr "To ulotka z \"Wakacje ze Stanem\" na Wyspie Jambalaya™."
 
 msgctxt "eddpla007"
 msgid "Yeah, so?"
@@ -18560,7 +18560,7 @@ msgstr "Chyba jest już dość widowiskowe i nie potrzebuje mojej pomocy."
 
 msgctxt "guystb038"
 msgid "StarBuccaneer's™ logo merchandise."
-msgstr "Logo towarowe Starbuccaneera"
+msgstr "Logo towarowe Starbukaniera™"
 
 msgctxt "guystb039"
 msgid "Logo mugs, t-shirts, thermoses, coffee pitchers..."
@@ -18572,7 +18572,7 @@ msgstr "...oraz kilka rzeczy których nie rozpoznaje."
 
 msgctxt "guystb041"
 msgid "Hey, this StarBuccaneer's™ logo mug looks like it's about the same shape and size as the Silver Monkey Mug."
-msgstr "Hej, ten kubek z logo StarBuccaneer™ wygląda na mniej więcej taki sam kształt i rozmiar jak Kubek Srebrnej Małpy."
+msgstr "Hej, ten kubek z logo StarBukaniera™ wygląda na mniej więcej taki sam kształt i rozmiar jak Kubek Srebrnej Małpy."
 
 msgctxt "guystb042"
 msgid "I bet they're made by the same company."
@@ -18580,11 +18580,11 @@ msgstr "Na pewno wyprodukowano je w tym samym państwie."
 
 msgctxt "guystb043"
 msgid "What a rip-off.  I could get any of these things for a tenth of the price back on Męlée Island™!"
-msgstr "Ale oszuści. Na Wyspie Szpady dostanę dokładnie to samo tylko dziesięć razy taniej!"
+msgstr "Ale oszuści. Na Wyspie Szpady™ dostanę dokładnie to samo tylko dziesięć razy taniej!"
 
 msgctxt "sbcstb013"
 msgid "Yes, but you'd still be on Męlée Island™."
-msgstr "Tak, ale teraz jesteś poza Wyspą Szpady."
+msgstr "Tak, ale teraz jesteś poza Wyspą Szpady™."
 
 msgctxt "guystb044"
 msgid "Nah, I don't really want any of this junk."
@@ -18592,11 +18592,11 @@ msgstr "Nie potrzeba mi niczego z tych rzeczy."
 
 msgctxt "guystb045"
 msgid "A small bucket of StarBuccaneer's™ logo umbrellas."
-msgstr "Wiadro pełne parasoli z logiem Starbuccaneera."
+msgstr "Wiadro pełne parasoli z logiem Starbukaniera™."
 
 msgctxt "guystb046"
 msgid "I sure don't want a trendy, overpriced StarBuccaneer's™ umbrella."
-msgstr "Nie potrzebuje być modny za taką cenę!"
+msgstr "Na pewno nie chcę modnego, parasola StarBukaniera™ z zawyżoną ceną."
 
 msgctxt "guystb047"
 msgid "I've never even seen it RAIN in the Tri-Island Area!"
@@ -18672,7 +18672,7 @@ msgstr "Aż taki okrutny nie jestem żeby to pić."
 
 msgctxt "guystb065"
 msgid "It's the machine that dispenses all the StarBuccaneer's™ fancy coffee drinks."
-msgstr "Ten automat robi takie pyszne kawowe drinki od Starbuccaneera."
+msgstr "Ten automat robi takie pyszne kawowe drinki od Starbukaniera™."
 
 msgctxt "guystb066"
 msgid "As much as I'd like to have one of my own, it looks a bit heavy to carry with me."
@@ -18704,7 +18704,7 @@ msgstr "Turystyczne badziewia."
 
 msgctxt "guystb073"
 msgid "Lots of coffee and a StarBuccaneer's™ logo coffee cup."
-msgstr "Dużo kawy i Kubków od Starbuccaneera."
+msgstr "Dużo kawy i Kubków od Starbukaniera™."
 
 msgctxt "guystb074"
 msgid "There's a sale on coffee beans!"
@@ -19360,7 +19360,7 @@ msgstr "Dziękuję."
 
 msgctxt "sbcstb014"
 msgid "Welcome to StarBuccaneer's™ Coffee House."
-msgstr "Witamy Kawiarni Starbuccaneera."
+msgstr "Witamy Kawiarni Starbukanier™."
 
 msgctxt "sbcstb015"
 msgid "Can I help you, sir?"
@@ -19536,7 +19536,7 @@ msgstr "Naprawdę tak myślisz?"
 
 msgctxt "sbcstb039"
 msgid "It's the company credo.  We have to learn it before we earn the right to wear the StarBuccaneer's™ apron."
-msgstr "Taki jest rynek. Uczymy się tego zanim zaczniemy zarabiać kasę i nosić te oryginalne uniformy."
+msgstr "Taki jest rynek. Uczymy się tego zanim zaczniemy zarabiać kasę i nosić uniformy z logo StarBukanier™."
 
 msgctxt "guystb096"
 msgid "You must be very proud."
@@ -19556,7 +19556,7 @@ msgstr "Tylko, że dla konsumenta, takiego jak ja, to zdurniałe."
 
 msgctxt "sbcstb042"
 msgid "Here at StarBuccaneer's™, we care less about the needs of the consumer, and more about the relationship we have with our competitors."
-msgstr "Tutaj, w Starbuccaneerze nie obchodzi nas potrzeba klienta, wolimy mieć dobre układy z naszymi konkurentami."
+msgstr "Tutaj, w Starbukanier™ nie obchodzi nas potrzeba klienta, wolimy mieć dobre układy z naszymi konkurentami."
 
 msgctxt "guystb098"
 msgid "Gee, that sounds great... hey!  Wait a minute!  I don't like that.  I'm taking my business elsewhere."
@@ -19660,7 +19660,7 @@ msgstr "A co tutaj chodzi?"
 
 msgctxt "kahpla008"
 msgid "We are the judges for Jambalaya's All-World Diving Contest."
-msgstr "Jesteśmy sędziami Konkursu Skoków do wody Wyspy Jambalaya."
+msgstr "Jesteśmy sędziami Konkursu Skoków do wody Wyspy Jambalaya™."
 
 msgctxt "eddpla018"
 msgid "Actually, it's more like a free-for-all than a contest."
@@ -20252,7 +20252,7 @@ msgstr "Bo jest paranoikiem z urojeniami."
 
 msgctxt "jumkab009"
 msgid "Every time he sees three or more pirates talking, he thinks we're plotting an invasion of Jambalaya Island™."
-msgstr "Za każdym razem, kiedy widzi trzech lub więcej rozmawiających piratów, myśli, że planujemy inwazję na Wyspę Jambalaya."
+msgstr "Za każdym razem, kiedy widzi trzech lub więcej rozmawiających piratów, myśli, że planujemy inwazję na Wyspę Jambalaya™."
 
 msgctxt "jumkab010"
 msgid "So he starts firing his cannon."
@@ -20428,7 +20428,7 @@ msgstr "Używają imienia i postaci mojego ojca..."
 
 msgctxt "jumkab036"
 msgid "...'happy' icons for their new 'family-friendly' Jambalaya Island™."
-msgstr "...jako 'radosną' ikonę ich nowej 'przyjaznej rodzinie' wyspy Jambalaya."
+msgstr "...jako 'radosną' ikonę ich nowej 'przyjaznej rodzinie' Wyspy Jambalaya™."
 
 msgctxt "guykab023"
 msgid "Those jerks!"
@@ -20452,7 +20452,7 @@ msgstr "Pewnie była dużą kobietą?"
 
 msgctxt "jumkab038"
 msgid "She had a picture of Monkey Island™ tattooed on her butt."
-msgstr "Miała na pośladku tatuaż z Wyspą Małp."
+msgstr "Miała na pośladku tatuaż z Wyspą Małp™."
 
 msgctxt "guykab027"
 msgid "So?"
@@ -20488,7 +20488,7 @@ msgstr "Te lizusy Mandrilla oblali kapelusz mojego ojca brązem, a potem przyspa
 
 msgctxt "jumkab043"
 msgid "Enraged by this sacrilege, I gathered some pirates and raided Jambalaya Island™."
-msgstr "Rozwścieczony przez to świętokradztwo, zebrałem kilku piratów i najechałem Wyspę Jambalaya."
+msgstr "Rozwścieczony przez to świętokradztwo, zebrałem kilku piratów i najechałem Wyspę Jambalaya™."
 
 msgctxt "jumkab044"
 msgid "Before anyone knew what happened, I rescued my father's chapeau, returned to Knuttin Atoll, and buried my treasure!"
@@ -20672,7 +20672,7 @@ msgstr "Ale mogę ci zaproponować niskoprocentowe grogowe napoje."
 
 msgctxt "opemig031"
 msgid "It's called 'Grog Jr.'™."
-msgstr "Zwą się Grog Junior."
+msgstr "Zwą się Grog Jr™."
 
 msgctxt "opemig032"
 msgid "We developed it here in our micro-groggery, for people just like yourself."
@@ -20692,7 +20692,7 @@ msgstr "No to weź i spróbuj."
 
 msgctxt "guymig026"
 msgid "Grog Jr.™ is the most foul tasting beverage I've EVER tasted..."
-msgstr "Grog Junior to najbardziej obrzydliwy napój jaki w życiu piłem..."
+msgstr "Grog Jr™ to najbardziej obrzydliwy napój jaki w życiu piłem..."
 
 msgctxt "guymig027"
 msgid "... may I please have another?"
@@ -20904,7 +20904,7 @@ msgstr "Jam Guybrush Threepwood! Potężny Pirat!"
 
 msgctxt "macpla042"
 msgid "Ah, a pirate.  It's rare to encounter a genuine pirate on Jambalaya Island™ these days."
-msgstr "Ah, pirat. To rzadkość poznać pirata na Jambalaya w dzisiejszych czasach."
+msgstr "Ah, pirat. To rzadkość poznać pirata na Wyspie Jambalaya™ w dzisiejszych czasach."
 
 msgctxt "guypla088"
 msgid "So I noticed."
@@ -20920,7 +20920,7 @@ msgstr "Jam Guybrush Threepwood, Potężny Nurek!"
 
 msgctxt "macpla044"
 msgid "Welcome to Jambalaya Island™, Mister Threepwood."
-msgstr "Witamy na Wyspie Jambalaya, panie Threepwood."
+msgstr "Witamy na Wyspie Jambalaya™, panie Threepwood."
 
 msgctxt "macpla045"
 msgid "I am Marco de Pollo, undefeated and undisputed Plank Diving Champion of the World!"
@@ -20976,7 +20976,7 @@ msgstr "To straszne."
 
 msgctxt "guypla095"
 msgid "What're you doing on Jambalaya Island™?"
-msgstr "Co robisz na Wyspie Jambalaya?"
+msgstr "Co robisz na Wyspie Jambalaya™?"
 
 msgctxt "macpla053"
 msgid "Ah, that is an interesting story."
@@ -21380,7 +21380,7 @@ msgstr "Zamknij się, Murray!"
 
 msgctxt "guyplt033"
 msgid "How did you Escape from Monkey Island™?"
-msgstr "Jak udało ci się Uciec z Wyspy Małp?"
+msgstr "Jak udało ci się Uciec z Wyspy Małp™?"
 
 msgctxt "guyplt034"
 msgid "The last time I saw you, you were sitting on a shelf in LeChuck's Demonic Amusement Park."
@@ -21924,7 +21924,7 @@ msgstr "No dobra, a TY, kim niby jesteś?"
 
 msgctxt "ptwplt013"
 msgid "I'm Elaine Marley, the Pirate Princess of Męlée Island™!"
-msgstr "Jestem Elaine Marley, Piracka Księżniczka Wyspy Szpady!"
+msgstr "Jestem Elaine Marley, Piracka Księżniczka Wyspy Szpady™!"
 
 msgctxt "guyplt085"
 msgid "Hey, baby, you can be my Elaine any time."
@@ -22728,7 +22728,7 @@ msgstr "Odważnym?"
 
 msgctxt "rivcpt015"
 msgid "He's single-handedly keeping the great unwashed pirate masses of Knuttin Atoll from corrupting the paradise of Jambalaya Island™."
-msgstr "Sam, w pojedynkę świetnie radzi sobie z masą niegrzecznych piratów stąd do samej Wyspy Jambalaya"
+msgstr "Sam, w pojedynkę świetnie radzi sobie z masą niegrzecznych piratów stąd do samej Wyspy Jambalaya™"
 
 msgctxt "guycpt055"
 msgid "He's a loon!"
@@ -23260,7 +23260,7 @@ msgstr "nadszedł czas, abyś upomniała się o ostatnie elementy naszego dziedz
 
 msgctxt "guyall021"
 msgid "At the Lucre Island™ Municipal Bank, you'll find a safe deposit chest under my name."
-msgstr "W Banku Wyspy Mamony znajdziesz depozyt pod moim nazwiskiem."
+msgstr "W Banku Wyspy Mamony™ znajdziesz depozyt pod moim nazwiskiem."
 
 msgctxt "guyall022"
 msgid "Among other things, the chest contains the deed to the Marley Mansion."
@@ -23892,7 +23892,7 @@ msgstr "Nie wiem. Jakiego rodzaju piractwa bym uprawiał?"
 
 msgctxt "guyscu214"
 msgid "Is there something I could do to convince you to navigate my ship to Lucre Island™?"
-msgstr "Czy dałby się pan jakoś przekonać, aby nawigować mój statek na Wyspę Mamony?"
+msgstr "Czy dałby się pan jakoś przekonać, aby nawigować mój statek na Wyspę Mamony™?"
 
 msgctxt "navscu006"
 msgid "I'm open to persuasion...what do you have in mind?"
@@ -23900,7 +23900,7 @@ msgstr "Jestem otwarty na sugestie... Co masz na myśli?"
 
 msgctxt "guyscu215"
 msgid "Are you sure there's nothing I can do to convince you to navigate my ship to Lucre Island™?"
-msgstr "Czy nic by pana nie przekonało, aby nawigować mój statek na Wyspę Mamony?"
+msgstr "Czy nic by pana nie przekonało, aby nawigować mój statek na Wyspę Mamony™?"
 
 msgctxt "guyscu008"
 msgid "I challenge you to another round of Insult Arm Wrestling, you big-armed freak!"
@@ -23916,7 +23916,7 @@ msgstr "Stoi."
 
 msgctxt "guyscu218"
 msgid "Are you looking forward to sailing to Lucre Island™?"
-msgstr "Nie może się pan doczekać rejsu na Wyspę Mamony?"
+msgstr "Nie może się pan doczekać rejsu na Wyspę Mamony™?"
 
 msgctxt "navscu008"
 msgid "Aye...it'll be a pleasure to sail with a refined wit such as yourself."
@@ -24124,7 +24124,7 @@ msgstr "Przykro mi, ale to brzmi durnie."
 
 msgctxt "guyscu246"
 msgid "You'd be travelling to Lucre Island™ with a crew of cretinous buccaneers to meet with my wife's lawyers."
-msgstr "Popłynąłby pan na Wyspę Mamony z ekipą kretyńskich korsarzy, by spotkać się z prawnikami mojej żony."
+msgstr "Popłynąłby pan na Wyspę Mamony™ z ekipą kretyńskich korsarzy, by spotkać się z prawnikami mojej żony."
 
 msgctxt "navscu032"
 msgid "Now THAT sounds like a worthy mission for a Mighty Pirate Navigator like meself."
@@ -24136,7 +24136,7 @@ msgstr "Serio?"
 
 msgctxt "navscu033"
 msgid "Aye.  The seas around Lucre Island™ are very treacherous, and can only be navigated by a skilled sailor."
-msgstr "Aj. Morza wokół Wyspy Mamony są bardzo zdradliwe, a poruszać się po nich może tylko doświadczony żeglarz."
+msgstr "Aj. Morza wokół Wyspy Mamony™ są bardzo zdradliwe, a poruszać się po nich może tylko doświadczony żeglarz."
 
 msgctxt "navscu034"
 msgid "I'd love to face that challenge, but--"
@@ -24380,7 +24380,7 @@ msgstr "Więc daj mi znać, kiedy będziesz miał."
 
 msgctxt "navluc001"
 msgid "There you go, Mister Marley.  Lucre Island™."
-msgstr "No i jesteśmy, panie Marley. Wyspa Mamony."
+msgstr "No i jesteśmy, panie Marley. Wyspa Mamony™."
 
 msgctxt "guyluc001"
 msgid "Thanks, Mister Cheese.  Uh, next time, do you think we can get here with a little less drama?"
@@ -24524,7 +24524,7 @@ msgstr "Szkoda, że nie mogę stąd wejść do banku."
 
 msgctxt "guyluc165"
 msgid "I'll bet you could get into any bathroom on Lucre Island™ through here!"
-msgstr "Założę się, że mógłbyś dostać się do każdej łazienki na Wyspie Mamony tym wejściem."
+msgstr "Założę się, że mógłbyś dostać się do każdej łazienki na Wyspie Mamony™ tym wejściem."
 
 msgctxt "guyluc166"
 msgid "Hey!  It's like a trampoline!"
@@ -24772,7 +24772,7 @@ msgstr "Hmmm. Może właściciel tej łodzi nie zauważy, że podmieniłem ten s
 
 msgctxt "guyluc217"
 msgid "Lucre Island™ Port Authority"
-msgstr "Administracja Portu na Wyspie Mamony."
+msgstr "Administracja Portu na Wyspie Mamony™."
 
 msgctxt "guyluc218"
 msgid "I better not go in there or they might get on my case about the damage my navigator did to the docks."
@@ -24904,7 +24904,7 @@ msgstr "Powinienem iść do biura prawników zanim cokolwiek kupię."
 
 msgctxt "guyluc249"
 msgid "The Lucre Bank.  Best place to put your loot."
-msgstr "Bank Wyspy Mamony. To tu chowa się łup."
+msgstr "Bank Wyspy Mamony™. To tu chowa się łup."
 
 msgctxt "guyluc250"
 msgid "I should go to the law offices before I get information on investment strategies."
@@ -27708,7 +27708,7 @@ msgstr "Traumę?"
 
 msgctxt "navgpt012"
 msgid "Yeah.  Kept muttering about Monkey Island™."
-msgstr "No. Ciągle coś mruczy o Wyspie Małp."
+msgstr "No. Ciągle coś mruczy o Wyspie Małp™."
 
 msgctxt "guygpt050"
 msgid "Want to help me find the pieces of the Ultimate Insult?"
@@ -29148,7 +29148,7 @@ msgstr "Co ty tutaj robisz?"
 
 msgctxt "cascgs011"
 msgid "I have been assigned the singular honor of guarding Ozzie Mandrill's commercial interests on Jambalaya Island™."
-msgstr "Mam przydzielone sprawować ochronę interesów handlowych Ozziego Mandrilla na całym terenie Wyspy Jambalaya"
+msgstr "Mam przydzielone sprawować ochronę interesów handlowych Ozziego Mandrilla na całym terenie Wyspy Jambalaya™"
 
 msgctxt "cascgs012"
 msgid "To that end, I have rounded up all of Jambalaya's scrofulous pirate trash and transported them to Knuttin Atoll,"
@@ -29340,7 +29340,7 @@ msgstr "Te dwa chciwe potwory zostawiły mnie na brzegu..."
 
 msgctxt "guymob006"
 msgid "...Monkey Island™."
-msgstr "...Wyspy Małp."
+msgstr "...Wyspy Małp™."
 
 msgctxt "guymob007"
 msgid "Well, that's it.  I give up."
@@ -29412,7 +29412,7 @@ msgstr "Podpisane JJJ."
 
 msgctxt "guymob024"
 msgid "'To all LeChuck-fearing citizens of Monkey Island™.'"
-msgstr "\"Do wszystkich tych, co boją się LeChucka na Wyspie Małp\""
+msgstr "\"Do wszystkich tych, co boją się LeChucka na Wyspie Małp™\""
 
 msgctxt "guymob025"
 msgid "'You are cordially invited to play bingo at the church every Tuesday at midnight.'"
@@ -29868,7 +29868,7 @@ msgstr "Gdzie?"
 
 msgctxt "guytoc002"
 msgid "Here!  You're Herman Toothrot, the hermit of Monkey Island™!"
-msgstr "Tu! Herman Zgniłyząb, pustelnik Wsypy Małp!"
+msgstr "Tu! Herman Toothrot, pustelnik Wyspy Małp™!"
 
 msgctxt "hertoc002"
 msgid "I am?  Who are you?"
@@ -29900,7 +29900,7 @@ msgstr "Nie pamiętam w sumie."
 
 msgctxt "guytoc006"
 msgid "How're things on Monkey Island™?"
-msgstr "Co tam słychać na Wyspie Małp?"
+msgstr "Co tam słychać na Wyspie Małp™?"
 
 msgctxt "hertoc006"
 msgid "This is an island?"
@@ -30028,7 +30028,7 @@ msgstr "Pamiętasz gdzie zaparkowałeś statek?"
 
 msgctxt "guytoc022"
 msgid "I really, REALLY need to get back to Męlée Island™."
-msgstr "Al ja NAPRAWDĘ muszę wrócić na Wyspę Szpady."
+msgstr "Al ja NAPRAWDĘ muszę wrócić na Wyspę Szpady™."
 
 msgctxt "hertoc022"
 msgid "I have a ship?  I thought I was a hermit."
@@ -30164,7 +30164,7 @@ msgstr "Rzeczy?  Jakie rzeczy?"
 
 msgctxt "guytoc038"
 msgid "I'd like to hear some more about what's going on on Monkey Island™."
-msgstr "Chciałbym posłuchać więcej o tym, co się dzieje na Wyspie Małp."
+msgstr "Chciałbym posłuchać więcej o tym, co się dzieje na Wyspie Małp™."
 
 msgctxt "hertoc040"
 msgid "It's your dime, Spanky."
@@ -30360,7 +30360,7 @@ msgstr "Natrafiłem na wielką, metalową ścianę."
 
 msgctxt "guytoc059"
 msgid "There's a big, metal wall under Monkey Island™?"
-msgstr "Pod Wyspą Małp jest metalowa ściana?"
+msgstr "Pod Wyspą Małp™ jest metalowa ściana?"
 
 msgctxt "hertoc068"
 msgid "Yup.  Who knew?"
@@ -30368,7 +30368,7 @@ msgstr "No. Dziwne."
 
 msgctxt "guytoc060"
 msgid "About this impenetrable barrier under Monkey Island™..."
-msgstr "Jeśli chodzi o nieprzepuszczalną barierę pod Wyspą Małp..."
+msgstr "Jeśli chodzi o nieprzepuszczalną barierę pod Wyspą Małp™..."
 
 msgctxt "hertoc069"
 msgid "Don't remind me, Squinky."
@@ -30432,7 +30432,7 @@ msgstr "Tylko jedna rzecz jest w nim przerażająca - te \"Anty LeChuckowe\" sym
 
 msgctxt "guytoc065"
 msgid "Let's not talk about Monkey Island™ right now."
-msgstr "Już nie chce gadać o Wyspie Małp."
+msgstr "Już nie chce gadać o Wyspie Małp™."
 
 msgctxt "hertoc080"
 msgid "Okey-Dokey."
@@ -30472,7 +30472,7 @@ msgstr "Nugatowe centrum?"
 
 msgctxt "guytoc069"
 msgid "The REAL Secret to Monkey Island™?"
-msgstr "PRAWDZIWY Sekret Wyspy Małp"
+msgstr "PRAWDZIWY Sekret Wyspy Małp™"
 
 msgctxt "guytoc070"
 msgid "The Script to Episode II?"
@@ -30568,7 +30568,7 @@ msgstr "Ale to w końcu LeChuck....jego paskudne dzieło, nie za dobre."
 
 msgctxt "guytoc077"
 msgid "Do you remember Dinky Island™?"
-msgstr "Pamiętasz Wyspę Słodu?"
+msgstr "Pamiętasz Wyspę Dinky™?"
 
 msgctxt "hertoc102"
 msgid "I wish I could forget."
@@ -30580,7 +30580,7 @@ msgstr "Nadal nie wiem jak tam wylądowałem."
 
 msgctxt "guytoc078"
 msgid "LeChuck told me there was a tunnel between Dinky and Monkey Island™."
-msgstr "LeChuck powiedział mi, że istnieje tunel pomiędzy wyspami Słodu i Małp."
+msgstr "LeChuck powiedział mi, że istnieje tunel pomiędzy wyspami Dinky i Małp™."
 
 msgctxt "hertoc104"
 msgid "Really?  Well, don't that beat all..."
@@ -30620,7 +30620,7 @@ msgstr "Spróbuj."
 
 msgctxt "hertoc111"
 msgid "Hmmm...I remember...it's twenty years ago...I'm washing ashore on Monkey Island™."
-msgstr "Hmmm...Pamiętam... jakieś dwadzieścia lat. temu.... Jestem wyrzucany na brzeg Wyspy Małp."
+msgstr "Hmmm...Pamiętam... jakieś dwadzieścia lat. temu.... Jestem wyrzucany na brzeg Wyspy Małp™."
 
 msgctxt "hertoc112"
 msgid "...my head hurts..."
@@ -30640,7 +30640,7 @@ msgstr "No. Nawet starałem się na nim zagrać, ale nie umiałem, więc wyrzuci
 
 msgctxt "guytoc082"
 msgid "So, you really don't remember anything about your life before you washed up on Monkey Island™?"
-msgstr "Czyli nie pamiętasz nic co się działo przed tym jak wylądowałeś na brzegu Wyspy Małp?"
+msgstr "Czyli nie pamiętasz nic co się działo przed tym jak wylądowałeś na brzegu Wyspy Małp™?"
 
 msgctxt "guytoc083"
 msgid "Let's pore over your mental state later."
@@ -30684,7 +30684,7 @@ msgstr "Teraz muszę znaleźć jaki INNY sposób wydostania się z tej bujnie tr
 
 msgctxt "guytoc088"
 msgid "You wouldn't happen to know any OTHER ways off of Monkey Island™, would you?"
-msgstr "Nie znasz jakiegoś innego sposobu na wydostanie się z Wyspy Małp, prawda?"
+msgstr "Nie znasz jakiegoś innego sposobu na wydostanie się z Wyspy Małp™, prawda?"
 
 msgctxt "hertoc120"
 msgid "Don't know, and I don't care."
@@ -30864,7 +30864,7 @@ msgstr "No. Starożytne to, nie?"
 
 msgctxt "guytoc107"
 msgid "Eh, it's a good thing we're on Monkey Island™, then."
-msgstr "Eh, więc to dobrze, że jesteś na Wyspie Małp."
+msgstr "Eh, więc to dobrze, że jesteś na Wyspie Małp™."
 
 msgctxt "guytoc108"
 msgid "I'm a little unclear on this 'counteracting the Ultimate Insult' thing."
@@ -30992,11 +30992,11 @@ msgstr "Nie mam łodzi, jeśli o to pytasz."
 
 msgctxt "guymon024"
 msgid "Great.  How am I supposed to get back to Męlée without a ship?"
-msgstr "Świetnie. Więc jak mam wrócić na Wyspę Szpady bez statku?"
+msgstr "Świetnie. Więc jak mam wrócić na Wyspę Szpady™ bez statku?"
 
 msgctxt "jojmon029"
 msgid "E...everyone who leaves Monkey Island™ finds their own path."
-msgstr "Wszyscy opuszczający Wyspę Małp odnaleźli swoją drogę."
+msgstr "Wszyscy opuszczający Wyspę Małp™ odnaleźli swoją drogę."
 
 msgctxt "jojmon030"
 msgid "I foresee a unique path for you, of an epic nature."
@@ -31008,7 +31008,7 @@ msgstr "Ewentualnie, znowu zgłodniałem."
 
 msgctxt "guymon025"
 msgid "Any less nebulous clues about how to get off of Monkey Island™?"
-msgstr "Masz jakieś mniej mgliste wskazówki, na temat wyjścia z tej wyspy-pułapki?"
+msgstr "Masz jakieś mniej mgliste wskazówki, na temat wyjścia z Wyspy Małp™?"
 
 msgctxt "guymon026"
 msgid "No details?"
@@ -31020,7 +31020,7 @@ msgstr "Tak. Nic a nic."
 
 msgctxt "guymon027"
 msgid "Since when are there so many monkeys on Monkey Island™?"
-msgstr "Od kiedy jest tak dużo małp na Wyspie Małp?"
+msgstr "Od kiedy jest tak dużo małp na Wyspie Małp™?"
 
 msgctxt "jojmon033"
 msgid "Since the Great Summoning."
@@ -31908,7 +31908,7 @@ msgstr "Muszę się jakoś wydostać z tej wyspy."
 
 msgctxt "pricol060"
 msgid "There is no Escape from Monkey Island™."
-msgstr "Nie ma Ucieczki z Wyspy Małp."
+msgstr "Nie ma Ucieczki z Wyspy Małp™."
 
 msgctxt "guycol047"
 msgid "That's not true.  I've escaped it on at least two occasions."
@@ -31928,11 +31928,11 @@ msgstr " "
 
 msgctxt "guycol049"
 msgid "I'd still like to Escape from Monkey Island™."
-msgstr "Wciąż pragnę Ucieczki z Wyspy Małp."
+msgstr "Wciąż pragnę Ucieczki z Wyspy Małp™."
 
 msgctxt "pricol063"
 msgid "Like I said, there is no Escape from Monkey Island™."
-msgstr "Już mówiłem, że nie ma Ucieczki z Wyspy Małp."
+msgstr "Już mówiłem, że nie ma Ucieczki z Wyspy Małp™."
 
 msgctxt "pricol064"
 msgid "Not even in the sweet embrace of death."
@@ -32292,7 +32292,7 @@ msgstr "Mogę wymyślić milion zastosowań dla tego przedmiotu... szkoda, że p
 
 msgctxt "chagme016"
 msgid "But you can call me the next Governor of Męlée Island™!"
-msgstr "Ale możesz nazywać mnie następnym gubernatorem!"
+msgstr "Ale możesz nazywać mnie następnym gubernatorem Wyspy Szpady™!"
 
 msgctxt "guyall223"
 msgid "Ah, the lovely Mrs. Threepwood."
@@ -32512,7 +32512,7 @@ msgstr "To TO!"
 
 msgctxt "hertoc162"
 msgid "It IS the official Gubernatorial Seal of Męlée Island™.  Uh, one of them, anyway."
-msgstr "To oficjalna Pieczęć Gubernatora Wyspy Szpady. Jedna z wielu."
+msgstr "To oficjalna Pieczęć Gubernatora Wyspy Szpady™. Jedna z wielu."
 
 msgctxt "hertoc163"
 msgid "A good governor always keeps a spare around, in case the original gets lost."
@@ -32936,7 +32936,7 @@ msgstr "To taca pełna mini bajgli z jakimś papkowatym ohydztwem."
 
 msgctxt "guystb117"
 msgid "They're mini-bagels with Schmear Whiz™ on them."
-msgstr "Mini bajgle z Schmear Whiz."
+msgstr "Mini bajgle z Schmear Whiz™."
 
 msgctxt "guystb118"
 msgid "I've already got one."
@@ -33396,15 +33396,15 @@ msgstr "Jeśli przez \"zaangażowany\" rozumiesz \"pracujący ramię w ramię z 
 
 msgctxt "guytoc115"
 msgid "Actually, he's the new governor of Męlée Island™."
-msgstr "Właściwie to nowy gubernator Wyspy Szpady."
+msgstr "Właściwie to nowy gubernator Wyspy Szpady™."
 
 msgctxt "guytoc116"
 msgid "The Secret of Monkey Island™?"
-msgstr "Sekret Wyspy Małp?"
+msgstr "Sekret Wyspy Małp™?"
 
 msgctxt "guytoc117"
 msgid "The REAL Secret of Monkey Island™?"
-msgstr "PRAWDZIWY Sekret Wyspy Małp?"
+msgstr "PRAWDZIWY Sekret Wyspy Małp™?"
 
 msgctxt "guytoc118"
 msgid "The Secret of your Missing Pants?"
@@ -33416,7 +33416,7 @@ msgstr "Sekret Dojenia Wątpliwie Popularnej Serii Gier Wideo?"
 
 msgctxt "guytoc120"
 msgid "The one that had to do with the Governorship of Męlée Island™?  I was wondering about that.  What is it?"
-msgstr "Ten, który miał związek z gubernatorstwem Wyspy Szpady? Zastanawiałem się nad tym. Czym on jest?"
+msgstr "Ten, który miał związek z gubernatorstwem Wyspy Szpady™? Zastanawiałem się nad tym. Czym on jest?"
 
 msgctxt "guytoc121"
 msgid "Maybe we should come up with a backup plan."
@@ -33716,11 +33716,11 @@ msgstr "Mamy dzisiaj darmową promocje, na spróbowanie, nie żałuj sobie."
 
 msgctxt "sbcstb060"
 msgid "That 'goop' you are referring to is StarBuccaneer's™ own Schmear Whiz™!"
-msgstr "Pyszny krem na ciasteczkach typu Schmear Whiz."
+msgstr "Pyszny krem na ciasteczkach typu Schmear Whiz™."
 
 msgctxt "sbcstb061"
 msgid "That delicious mini-bagel you're about to sample has StarBuccaneer's™ own Schmear Whiz™ on it."
-msgstr "Ten przepyszny mini bajgiel ma na sobie Schmear Whiz firmy StarBuccaneer."
+msgstr "Ten przepyszny mini bajgiel ma na sobie Schmear Whiz™ marki StarBukanier™."
 
 msgctxt "sbcstb062"
 msgid "That's a souvenir mug, not a coffee cup."
@@ -33944,7 +33944,7 @@ msgstr "Guybrushu Ulysusie Threepwood!"
 
 msgctxt "el1mel045"
 msgid "Good afternoon, citizen.  I'm Męlée Island™ Governor Elaine Marley, and I'm running for re-election."
-msgstr "Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady, moje imię Elaine Marley i startuje w wyborach."
+msgstr "Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady™, moje imię Elaine Marley i startuje w wyborach."
 
 msgctxt "el1mel046"
 msgid "It has recently come to my attention that my opponent, Charles L. Charles,"
@@ -34988,11 +34988,11 @@ msgstr "Ktoś ukradł moje oryginalne ciuchy z mojej szafy!!!"
 
 msgctxt "guyplt148"
 msgid "LucasArts™ seems to have their grubby hands into everything around here."
-msgstr "LucasArts musiał położyć na wszystkim swoje odciski."
+msgstr "LucasArts™ musiał położyć na wszystkim swoje odciski."
 
 msgctxt "guyplt149"
 msgid "I get the feeling that this LucasArts™ organization is controlling everything that happens in the Tri-Island Area..."
-msgstr "Mam przeczucie, że LucasArts kontroluje wszystko co się dzieje na Archipelagu Tri-Island..."
+msgstr "Mam przeczucie, że LucasArts™ kontroluje wszystko co się dzieje na Archipelagu Tri-Island..."
 
 msgctxt "guyplt150"
 msgid "I guess they couldn't find anything else interesting when they were stealing stuff out of my closet."
@@ -35276,7 +35276,7 @@ msgstr "To jest ZA CIĘŻKIE."
 
 msgctxt "guycan004"
 msgid "These appear to be sedimentary rocks that were once submerged under water in this canyon that clearly was previously a riverbed in prehistoric Monkey Island™."
-msgstr "To muszą być skały osadowe, które kiedyś tkwiły pod wodą w kanionie, ale zostały wytopione w czasach prehistorycznych Wyspy Małp."
+msgstr "To muszą być skały osadowe, które kiedyś tkwiły pod wodą w kanionie, ale zostały wytopione w czasach prehistorycznych Wyspy Małp™."
 
 msgctxt "guycan005"
 msgid "I'm not interested in an archaeological dig."
@@ -35300,7 +35300,7 @@ msgstr "Nie wchodzę w żadną jaskinię, która jest tak gorąca i śmierdzi ja
 
 msgctxt "guycan010"
 msgid "This path leads back to Monkey Island™."
-msgstr "Ścieżka prowadzi na Wyspę Małp."
+msgstr "Ścieżka prowadzi na Wyspę Małp™."
 
 msgctxt "guycan011"
 msgid "There's just a big empty flat area over there."
@@ -35376,7 +35376,7 @@ msgstr "\"Plaża Knutyńska: 1 kilometr\""
 
 msgctxt "guycpt078"
 msgid "'Jambalaya Island™: 3 kilometers'"
-msgstr "\"Wyspa Jambalaya: 3 kilometry\""
+msgstr "\"Wyspa Jambalaya™: 3 kilometry\""
 
 msgctxt "guycpt079"
 msgid "'Wall Drug: 7,921 kilometers'"
@@ -35392,7 +35392,7 @@ msgstr "Żaden pirat tego nie założy!"
 
 msgctxt "guycpt082"
 msgid "It's the boat I brought from Jambalaya Island™."
-msgstr "To łódka, którą przypłynąłem z Wyspy Jambalaya."
+msgstr "To łódka, którą przypłynąłem z Wyspy Jambalaya™."
 
 msgctxt "guycpt083"
 msgid "'In case of fire, pull alarm.'"
@@ -35456,7 +35456,7 @@ msgstr "A myślałem, że jestem za chudy."
 
 msgctxt "guycpt098"
 msgid "I doubt he'd be interested in a map to Jambalaya Island™."
-msgstr "Wątpię, żeby podobała mu się mapa Wyspy Jambalaya."
+msgstr "Wątpię, żeby podobała mu się mapa Wyspy Jambalaya™."
 
 msgctxt "guycpt099"
 msgid "I wonder what a sweet little old lady like that is doing in this dirty, pirate town."
@@ -35468,7 +35468,7 @@ msgstr "Ten przycisk jakby krzyczy do mnie \"Naciśnij mnie!\""
 
 msgctxt "guyall273"
 msgid "It's one of the many proud monkeys of Monkey Island™."
-msgstr "Jedna z wielu małpek żyjących na Wyspie Małp."
+msgstr "Jedna z wielu małpek żyjących na Wyspie Małp™."
 
 msgctxt "guyall274"
 msgid "Here, have a banana..."
@@ -35572,7 +35572,7 @@ msgstr "Ta ścieżka prowadzi na resztę Atolu Knutyńskiego."
 
 msgctxt "guyjun001"
 msgid "That goes back to Monkey Island™."
-msgstr "Tędy wrócę na Wyspę Małp."
+msgstr "Tędy wrócę na Wyspę Małp™."
 
 msgctxt "guylum004"
 msgid "That's one creepy looking mansion."
@@ -35612,7 +35612,7 @@ msgstr "To niezwykły kanał prowadzący na tą stronę klifu."
 
 msgctxt "guypac008"
 msgid "That goes back to Monkey Island™."
-msgstr "Tędy wrócę na Wyspę Małp."
+msgstr "Tędy wrócę na Wyspę Małp™."
 
 msgctxt "guypac009"
 msgid "I think I should do something with this rock before I try to do anything else."
@@ -36212,11 +36212,11 @@ msgstr "Ah, morze. Dawca życia. Niszczyciel statków. Dom ryb."
 
 msgctxt "guymib009"
 msgid "I really don't think I'm in good enough shape to SWIM back to Męlée Island™."
-msgstr "Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by płynąć kraulem na Wyspę Szpady."
+msgstr "Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by płynąć kraulem na Wyspę Szpady™."
 
 msgctxt "guymib010"
 msgid "This poor starfish died on the dry sandy shore of Monkey Island™.  I hope I don't share his fate."
-msgstr "Biedna, mała rozgwiazda pozostawiona na brzegu suchej plaży na Wyspie Małp.  Żebym sam nie musiał dzielić jej losu."
+msgstr "Biedna, mała rozgwiazda pozostawiona na brzegu suchej plaży na Wyspie Małp™.  Żebym sam nie musiał dzielić jej losu."
 
 msgctxt "guymib011"
 msgid "It's not wise to disturb the dead."
@@ -36228,7 +36228,7 @@ msgstr "Wow, dobrze że przypadkowo nie zgniotłem Timmiego."
 
 msgctxt "guymib013"
 msgid "That path leads into the mysterious depths of Monkey Island™."
-msgstr "Ścieżka prowadzi w tajemniczą otchłań Wyspy Małp."
+msgstr "Ścieżka prowadzi w tajemniczą otchłań Wyspy Małp™."
 
 msgctxt "guymon092"
 msgid "I don't think it's that easy."
@@ -36464,7 +36464,7 @@ msgstr "Nie mam żadnej kasy, żeby popływać."
 
 msgctxt "guygpt087"
 msgid "'Welcome to Jambalaya Island™.'"
-msgstr "\"Witamy na Wyspie Jambalaya\""
+msgstr "\"Witamy na Wyspie Jambalaya™\""
 
 msgctxt "guygpt088"
 msgid "That sign is REALLY high in the air."
@@ -36496,7 +36496,7 @@ msgstr "Oczywiście to haki i łatki na oczy skłoniły piratów do tego, żeby 
 
 msgctxt "guygpt095"
 msgid "'StarBuccaneer's™ Coffee', home of expensive espressos and gentrified java."
-msgstr "\"Kawa Starbuccaneera\", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni."
+msgstr "\"Kawa StarBukaniera™\", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni."
 
 msgctxt "guygpt096"
 msgid "'Micro-Groggery.'"
@@ -36540,7 +36540,7 @@ msgstr "Drzwi prowadzą prosto do Mikrogroggerii."
 
 msgctxt "guygpt106"
 msgid "That door goes into the StarBuccaneer's™."
-msgstr "Drzwi prowadzą prosto do Starbuccaneera."
+msgstr "Drzwi prowadzą prosto do Starbukaniera™."
 
 msgctxt "guygpt107"
 msgid "That door goes into Planet Threepwood."
@@ -36552,11 +36552,11 @@ msgstr "Tędy idzie się na wyspę."
 
 msgctxt "guytoc122"
 msgid "Who woulda thought that Herman Toothrot is really Grandpa Marley?"
-msgstr "Kto by pomyślał, że Herman Zgniłyząb to prawdziwy Dziadek Marley?"
+msgstr "Kto by pomyślał, że Herman Toothrot to prawdziwy Dziadek Marley?"
 
 msgctxt "guytoc123"
 msgid "It's old Herman Toothrot, the hermit of Monkey Island™."
-msgstr "Stary Herman Zgniłyząb, pustelnik Wyspy Małp."
+msgstr "Stary Herman Toothrot, pustelnik Wyspy Małp™."
 
 msgctxt "guytoc124"
 msgid "Nah, I already bonked him with this coconut."
@@ -36620,7 +36620,7 @@ msgstr "Wydaje mi się, że ta szopa została zbudowana z kadłuba jakieś stare
 
 msgctxt "guytoc139"
 msgid "This path leads to the rest of Monkey Island™."
-msgstr "Ścieżka prowadzi na resztę Wyspy Małp."
+msgstr "Ścieżka prowadzi na resztę Wyspy Małp™."
 
 msgctxt "guyall345"
 msgid "They're a pair of old, wooden earrings."
@@ -36676,7 +36676,7 @@ msgstr "Na jednej stronie mam mapę, a na drugiej stronię zdjęcie Talizmanu Up
 
 msgctxt "guyall358"
 msgid "It's Meathook's painting, modified to show the route to Jambalaya Island™."
-msgstr "To dzieło Meathooka, przerobione tak, aby wskazywało drogę na Wyspę Jambalaya."
+msgstr "To dzieło Meathooka, przerobione tak, aby wskazywało drogę na Wyspę Jambalaya™."
 
 msgctxt "guyall359"
 msgid "It's a painting from Meathook's 'blue period', depicting what appears to be the entire Tri-Island Area."
@@ -36768,15 +36768,15 @@ msgstr "Ha, jestem już w dwóch-trzecich mojej drogi do własnego Talizmanu Upo
 
 msgctxt "guyall381"
 msgid "It's an empty StarBuccaneer's™ groggoccino cup."
-msgstr "To tylko pusty kufel Grogoccino Starbuccaneera"
+msgstr "To tylko pusty kufel Grogoccino ze Starbukaniera™"
 
 msgctxt "guyall382"
 msgid "It's a frosty cup of StarBuccaneer's™ groggoccino."
-msgstr "To kufel zimnego Grogoccino Starbuccaneer."
+msgstr "To kufel zimnego Grogoccino ze Starbukaniera™."
 
 msgctxt "guyall383"
 msgid "Woooohooo!"
-msgstr ""
+msgstr "Woooohooo!"
 
 msgctxt "guyall384"
 msgid "Talk about your eye-openers!  I feel like I just drank an entire coffee plantation, donkeys and all!"
@@ -36876,7 +36876,7 @@ msgstr "\"Wredne odpowiedzi na głupie obelgi\""
 
 msgctxt "guyall408"
 msgid "'The Hearse of Monkey Aye-yai-yai-land, A SCABB Magazine Parody.'"
-msgstr "\"Wyspa Małp na stojaka czyli żarty miesiąca w SCABB\""
+msgstr "\"Wyspa Małp™ na stojaka czyli żarty miesiąca w SCABB\""
 
 msgctxt "guyall409"
 msgid "'Captain Sergio's Marginally Funny Etchings.'"
@@ -37352,7 +37352,7 @@ msgstr "Tylko ja mogę tak się cieszyć obrazem."
 
 msgctxt "guyall495"
 msgid "That doesn't need a painting with a map to Jambalaya Island™ on it."
-msgstr "To nie potrzebuje obrazu z mapą na Wyspę Jambalaya."
+msgstr "To nie potrzebuje obrazu z mapą na Wyspę Jambalaya™."
 
 msgctxt "guyall496"
 msgid "That doesn't need painting."
@@ -37584,7 +37584,7 @@ msgstr "\"Lokalna łódź wiosłowa\""
 
 msgctxt "guygpt110"
 msgid "'Disclaimer:  The Jambalaya Island™ Chamber of Commerce cannot be held responsible for the seaworthiness of the Community Rowboat.'"
-msgstr "Wspólnota Wyspy Jambalaya nie jest odpowiedzialna za cel użycia łodzi wiosłowej."
+msgstr "Wspólnota Wyspy Jambalaya™ nie jest odpowiedzialna za cel użycia łodzi wiosłowej."
 
 msgctxt "guyhei028"
 msgid "I think I'm supposed to put something in there."
@@ -37664,7 +37664,7 @@ msgstr "Zbyt skalista."
 
 msgctxt "guyjam010"
 msgid "It's Jambalaya Island's™ plank diving competition area."
-msgstr "Zawody nurkowania na Wyspi Jambalaya."
+msgstr "Zawody nurkowania na Wyspy Jambalaya™."
 
 msgctxt "guyjam011"
 msgid "It's a big coast guard ship."
@@ -37748,7 +37748,7 @@ msgstr "Po co mam rozrzucać tutaj całą zawartość moich kieszeni?"
 
 msgctxt "guyluc277"
 msgid "I'd rather not throw my inventory into the sewers of Lucre Island™."
-msgstr "Nie będe wrzucał moich rzeczy do włazy kanalizacyjnego."
+msgstr "Nie będe wrzucał moich rzeczy do włazy kanalizacyjnego Wyspy Mamony™."
 
 msgctxt "guyluc278"
 msgid "Why on Earth would I want to put the cover back on the manhole after I nearly gave myself a hernia removing it?!"
@@ -37816,7 +37816,7 @@ msgstr "Kolejny znak \"Sprzedane\"."
 
 msgctxt "guymel163"
 msgid "You told me to return the Gubernatorial Symbol when I got back from Lucre Island™, remember?"
-msgstr "Kazałeś mi zwrócić symbol gubernatorski po powrocie z Wyspy Mamony, pamiętasz?"
+msgstr "Kazałeś mi zwrócić symbol gubernatorski po powrocie z Wyspy Mamony™, pamiętasz?"
 
 msgctxt "guymhi093"
 msgid "I don't think Meathook would like it if I got wax all over his precious paint brush."
@@ -38260,7 +38260,7 @@ msgstr "Uup"
 
 msgctxt "ingb001"
 msgid "From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate."
-msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
+msgstr "Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady™, uzbrojony w durne imię i chęć zostania zawadiackim piratem."
 
 msgctxt "ingb001a"
 msgid "From the personal log of Guybrush Threepwood:"
@@ -38276,7 +38276,7 @@ msgstr "Trudno uwierzyć, że to ledwie parę lat,"
 
 msgctxt "ingb001d"
 msgid "since I first washed up on the beaches of Męlée Island™,"
-msgstr "odkąd ocknąłem się na plaży wyspy Szpady™,"
+msgstr "odkąd ocknąłem się na plaży Wyspy Szpady™,"
 
 msgctxt "ingb001e"
 msgid "armed with nothing more than a goofy name"
@@ -38320,7 +38320,7 @@ msgstr "Haaaaar!!!"
 
 msgctxt "ingb006"
 msgid "And who could have guessed that my battles with LeChuck would introduce me to the love of my life, M�l�e Island's� Governor Elaine Marley?"
-msgstr "I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady, Elaine Marley."
+msgstr "I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady™, Elaine Marley."
 
 msgctxt "ingb006a"
 msgid "And who could have guessed that my battles with LeChuck"
@@ -38332,11 +38332,11 @@ msgstr "zawiedzie mnie ku miłości mego życia:"
 
 msgctxt "ingb006c"
 msgid "Męlée Island's™ Governor Elaine Marley?"
-msgstr "Gubernator wyspy Szpady™, Elaine Marley."
+msgstr "Gubernator Wyspy Szpady™, Elaine Marley."
 
 msgctxt "ingb007"
 msgid "Or that my efforts to win Elaine's hand would repeatedly drag me to the mystery-drenched shores of Monkey Island�?"
-msgstr "Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp?"
+msgstr "Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp™?"
 
 msgctxt "ingb007a"
 msgid "Or that my efforts to win Elaine's hand would repeatedly drag me"
@@ -38344,7 +38344,7 @@ msgstr "Albo że próby zdobycia jej ręki przywiodą mnie"
 
 msgctxt "ingb007b"
 msgid "to the mystery-drenched shores of Monkey Island™?"
-msgstr "w przesiąknięte tajemnicą brzegi wyspy Małp™?"
+msgstr "w przesiąknięte tajemnicą brzegi Wyspy Małp™?"
 
 msgctxt "ingb014"
 msgid "That's the second biggest Monkey Head I've ever seen!"
@@ -38364,7 +38364,7 @@ msgstr "grzebiąc go pod lodową górą."
 
 msgctxt "ingb009"
 msgid "Not me, that's for sure.  Back then the only thing duller than my sword was my wit.  Now look at me.  I'm married to the most beautiful governmental official in the Caribbean, the entire Tri-Island Area shudders at the sound of my name, and now my Plunder Bunny and I are returning to M�l�e Island� after the most incredible honeymoon in the history of-"
-msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii..."
+msgstr "Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Wyspę Szpady™, po najniezwyklejszym miesiącu miodowym w historii..."
 
 msgctxt "ingb009a"
 msgid "Not me, that's for sure."
@@ -38388,7 +38388,7 @@ msgstr "okręg trzech wysp drży słysząc me imię,"
 
 msgctxt "ingb009f"
 msgid "and now my Plunder Bunny and I are returning to Męlée Island™"
-msgstr "a ja i mój zbójecki króliczek wracamy na Szpadę™,"
+msgstr "a ja i mój zbójecki króliczek wracamy na Wyspę Szpady™,"
 
 msgctxt "ingb009g"
 msgid "after the most incredible honeymoon in the history of..."
@@ -38396,7 +38396,7 @@ msgstr "po najniezwyklejszym miesiącu miodowym w historii..."
 
 msgctxt "inel010"
 msgid "GUYBRUSH!"
-msgstr ""
+msgstr "GUYBRUSH!"
 
 msgctxt "inel010a"
 msgid "Eh...ha...cha!"
@@ -38436,7 +38436,7 @@ msgstr "Eee, Elaine? Uwolnisz mnie?"
 
 msgctxt "e2el001"
 msgid "...And so, my swashbuckling citizens, as we approach the next century, can we really afford to entrust M�l�e Island's future to a man with no past, a man with no experience, a man who doesn't even seem to LIKE pirates?  Common sense says "no.""
-msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi \"nie\"."
+msgstr "...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady™ człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi \"nie\"."
 
 msgctxt "e2el001a"
 msgid "...And so, my swashbuckling citizens, as we approach the next century,"
@@ -38444,7 +38444,7 @@ msgstr "... moi zawadiaccy obywatele. Wkraczając w nowe stulecie,"
 
 msgctxt "e2el001b"
 msgid "can we really afford to entrust Męlée Island's future to a man with no past,"
-msgstr "czy możemy powierzyć przyszłość Wyspy Szpady człowiekowi bez przeszłości, "
+msgstr "czy możemy powierzyć przyszłość Wyspy Szpady™ człowiekowi bez przeszłości, "
 
 msgctxt "e2el001c"
 msgid "a man with no experience, a man who doesn't even seem to LIKE pirates?"
@@ -38456,7 +38456,7 @@ msgstr "Zdrowy rozsądek mówi \"nie\"."
 
 msgctxt "e2ch002"
 msgid "My opponent is right: I am a newcomer to these islands.  And it's true that my experience in affairs of state is minimal at best.  But it doesn't take a seventh-generation pirate princess to see that M�l�e Island� needs more than a part-time status quo Governor...a Governor who can't even promise her citizens...Good Times and Free Grog!"
-msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
+msgstr "Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady™ potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!"
 
 msgctxt "e2ch002a"
 msgid "My opponent is right: I am a newcomer to these islands."
@@ -38472,7 +38472,7 @@ msgstr "Ale nie trzeba być piracką księżniczką w siódmym pokoleniu,"
 
 msgctxt "e2ch002d"
 msgid "to see that Męlée Island™ needs more than a part-time status quo Governor..."
-msgstr "by dostrzec, że Szpada potrzebuje czegoś więcej niż gubernatora na pół etatu..."
+msgstr "by dostrzec, że Wyspa Szpady™ potrzebuje czegoś więcej niż gubernatora na pół etatu..."
 
 msgctxt "e2ch002e"
 msgid "a Governor who can't even promise her citizens..."
@@ -39068,7 +39068,7 @@ msgstr "Threepwood"
 
 msgctxt "h1ch032"
 msgid "-is that any way to talk to the next Governor of Męlée Island™?"
-msgstr "...czy wypada się tak zwracać do następnego gubernatora Wyspy Szpady?"
+msgstr "...czy wypada się tak zwracać do następnego gubernatora Wyspy Szpady™?"
 
 msgctxt "h1el033"
 msgid "I don't care what the polls say, the pirates of M�l�e will see through your tissues of false hopes and empty promises!"
@@ -39368,11 +39368,11 @@ msgstr "Tak? To jak?"
 
 msgctxt "hehn011"
 msgid "I'll get to that. First, let me tell you how I ended up here on Monkey Island�, with nothing but a busted accordion, most of the clothes on my back, and a head full of broken memories."
-msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień."
+msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp™, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień."
 
 msgctxt "hehn011a"
 msgid "I'll get to that. First, let me tell you how I ended up here on Monkey Island™,"
-msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp,"
+msgstr "O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp™,"
 
 msgctxt "hehn011b"
 msgid "with nothing but a broken accordion, most of the clothes on my back,"
@@ -39664,11 +39664,11 @@ msgstr "Przejażdżkę? Co przez to rozumiesz?"
 
 msgctxt "gmhn007"
 msgid "We're taking this Giant Monkey Robot to M�l�e Island� to rescue my granddaughter!"
-msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady, aby uratować moją wnuczkę!"
+msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady™, aby uratować moją wnuczkę!"
 
 msgctxt "gmhn007a"
 msgid "We're taking this Giant Monkey Robot to Męlée Island™"
-msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady,"
+msgstr "Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady™,"
 
 msgctxt "gmhn007b"
 msgid "to rescue my granddaughter!"
@@ -40129,7 +40129,7 @@ msgstr "To? Oh, to nic. To jakiś bibelot kupiony podczas miesiąca miodowego...
 
 msgctxt "ozlc019"
 msgid "Arrrr, the Gubernatorial Seal of Męlée Island™.  Of course!"
-msgstr "Arrr, gubernatorska pieczęć Wyspy Szpady! No tak!"
+msgstr "Arrr, gubernatorska pieczęć Wyspy Szpady™! No tak!"
 
 msgctxt "ozoz020"
 msgid "Let me see that."
@@ -40569,11 +40569,11 @@ msgstr "Teraz jesteś zgubiony, złoczyńco."
 
 msgctxt "ozjj089"
 msgid "Now is the time foretold in the ancient prophecies of Monkey Island�.  Now is the time for the ultimate in..."
-msgstr "Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp. Czas na talizman..."
+msgstr "Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp™. Czas na talizman..."
 
 msgctxt "ozjj089a"
 msgid "Now is the time foretold in the ancient prophecies of Monkey Island™."
-msgstr "Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp."
+msgstr "Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp™."
 
 msgctxt "ozjj089b"
 msgid "Now is the time for the ultimate in..."
@@ -40589,7 +40589,7 @@ msgstr "SHIFT"
 
 msgctxt "txtall001"
 msgid "Męlée Island™ Gubernatorial Symbol"
-msgstr "Symbol Gubernatora Wyspy Szpady"
+msgstr "Symbol Gubernatora Wyspy Szpady™"
 
 msgctxt "txtall002"
 msgid "Look at"
@@ -40853,7 +40853,7 @@ msgstr "lepka karykatura Małpiego Kubka"
 
 msgctxt "txtall067"
 msgid "StarBuccaneer's™ logo mug"
-msgstr "kubek z logiem Starbukaniera"
+msgstr "kubek z logiem Starbukaniera™"
 
 msgctxt "txtall068"
 msgid "fake Monkey Mug"
@@ -41233,7 +41233,7 @@ msgstr "Wyceń:"
 
 msgctxt "txtall162"
 msgid "map to Jambalaya Island™"
-msgstr "mapa Wyspy Jambalaya"
+msgstr "mapa Wyspy Jambalaya™"
 
 msgctxt "txtall163"
 msgid "sketch of the Ultimate Insult"
@@ -41289,11 +41289,11 @@ msgstr "pusta filiżanka po groggocino"
 
 msgctxt "txtall176"
 msgid "mini-bagel with Schmear Whiz™ on it"
-msgstr "mini bajgiel ze Schmear Whiz"
+msgstr "mini bajgiel ze Schmear Whiz™"
 
 msgctxt "txtall177"
 msgid "juicy wad of chewed up bagel chunks and Schmear Whiz™"
-msgstr "soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz"
+msgstr "soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz™"
 
 msgctxt "txtall178"
 msgid "diving certificate"
@@ -42109,7 +42109,7 @@ msgstr "Przerywniki"
 
 msgctxt "txtall382"
 msgid "Exit Escape from Monkey Island™?"
-msgstr "Zamknąć Ucieczkę z Wyspy Małp?"
+msgstr "Zamknąć Ucieczkę z Wyspy Małp™?"
 
 msgctxt "txtall383"
 msgid "Are you sure you want to quit?"
@@ -42125,7 +42125,7 @@ msgstr "&Nie"
 
 msgctxt "txtall386"
 msgid "Restart Escape from Monkey Island™?"
-msgstr "Resetować Ucieczkę z Wyspy Małp?"
+msgstr "Resetować Ucieczkę z Wyspy Małp™?"
 
 msgctxt "txtall387"
 msgid "Are you sure you want to restart?"
@@ -42449,7 +42449,7 @@ msgstr "Wejdź:"
 
 msgctxt "txtcan007"
 msgid "Monkey Island™"
-msgstr "Wyspa Małp"
+msgstr "Wyspa Małp™"
 
 msgctxt "txtcan008"
 msgid "Go back to"
@@ -42921,7 +42921,7 @@ msgstr "siatka"
 
 msgctxt "txtgpt015"
 msgid "StarBuccaneer's™ sign"
-msgstr "szyld Starbukaniera"
+msgstr "szyld Starbukaniera™"
 
 msgctxt "txtgpt016"
 msgid "Micro-Groggery sign"
@@ -42941,7 +42941,7 @@ msgstr "beczka z kuponami"
 
 msgctxt "txtgpt020"
 msgid "Jambalaya Island™"
-msgstr "Wyspa Jambalaya"
+msgstr "Wyspa Jambalaya™"
 
 msgctxt "txthei001"
 msgid "slot"
@@ -43125,7 +43125,7 @@ msgstr "jaskrawy dom"
 
 msgctxt "txtjun001"
 msgid "Monkey Island™"
-msgstr "Wyspa Małp"
+msgstr "Wyspa Małp™"
 
 msgctxt "txtjun002"
 msgid "Go back to"
@@ -43133,7 +43133,7 @@ msgstr "Powróć do:"
 
 msgctxt "txtjun003"
 msgid "Monkey Island™"
-msgstr "Wyspa Małp"
+msgstr "Wyspa Małp™"
 
 msgctxt "txtkab001"
 msgid "metabolically-challenged pirate"
@@ -43277,7 +43277,7 @@ msgstr "drzewa"
 
 msgctxt "txtlag006"
 msgid "Lucre Island™"
-msgstr "Wyspa Mamony"
+msgstr "Wyspa Mamony™"
 
 msgctxt "txtlag007"
 msgid "Go back to"
@@ -43321,7 +43321,7 @@ msgstr "katedra"
 
 msgctxt "txtlav008"
 msgid "Monkey Island™"
-msgstr "Wyspa Małp"
+msgstr "Wyspa Małp™"
 
 msgctxt "txtlav009"
 msgid "lava"
@@ -43861,7 +43861,7 @@ msgstr "niezwykle czysty i schludny bar"
 
 msgctxt "txtmig005"
 msgid "Mister Grog Machine™"
-msgstr "automat do grogu"
+msgstr "Pan Grogomat™"
 
 msgctxt "txtmig006"
 msgid "door to town"
@@ -44217,7 +44217,7 @@ msgstr "kanał po prawej stronie klifu"
 
 msgctxt "txtpac008"
 msgid "Monkey Island™"
-msgstr "Wyspa Małp"
+msgstr "Wyspa Małp™"
 
 msgctxt "txtpac009"
 msgid "Go back to"
@@ -44341,7 +44341,7 @@ msgstr "stare ciuchy Guybrusha"
 
 msgctxt "txtplt015"
 msgid "LucasArts™ mug"
-msgstr "kubek LucasArts"
+msgstr "kubek LucasArts™"
 
 msgctxt "txtplt016"
 msgid "Planet Threepwood logo T-shirts"
@@ -44813,7 +44813,7 @@ msgstr "wiadro na parasole"
 
 msgctxt "txtstb005"
 msgid "StarBuccaneer's™ sign"
-msgstr "szyld Starbukaniera"
+msgstr "szyld Starbukaniera™"
 
 msgctxt "txtstb006"
 msgid "cup o' coffee"
@@ -44829,7 +44829,7 @@ msgstr "słodzona filiżanka kawy"
 
 msgctxt "txtstb009"
 msgid "Cap'n-ccino™ machine"
-msgstr "automat Cap'n-ccino"
+msgstr "automat Cap'n-ccino™"
 
 msgctxt "txtstb010"
 msgid "stack o' coffee cups"
@@ -44841,7 +44841,7 @@ msgstr "torba podróżna"
 
 msgctxt "txtstb012"
 msgid "StarBuccaneer's™ counter clerk"
-msgstr "kasjer Starbukaniera"
+msgstr "kasjer Starbukaniera™"
 
 msgctxt "txtstb013"
 msgid "groggoccino"
@@ -44857,11 +44857,11 @@ msgstr "taca z mini bajglami"
 
 msgctxt "txtstb016"
 msgid "tray of mini-bagels with Schmear Whiz™ on them"
-msgstr "taca z mini bajglami ze Schmear Whiz"
+msgstr "taca z mini bajglami ze Schmear Whiz™"
 
 msgctxt "txtstb017"
 msgid "tray of free mini-bagels with Schmear Whiz™ on them"
-msgstr "taca z bezpłatnymi mini bajglami ze Schmear Whiz"
+msgstr "taca z bezpłatnymi mini bajglami ze Schmear Whiz™"
 
 msgctxt "txtsys001"
 msgid "No, I don't wanna!"
@@ -45053,7 +45053,7 @@ msgstr "/sytx424/"
 
 msgctxt "txtsys048"
 msgid "Bank of Lucre Island™"
-msgstr "Bank Wyspy Mamony"
+msgstr "Bank Wyspy Mamony™"
 
 msgctxt "txtsys049"
 msgid "SCUMM Bar"
@@ -45065,7 +45065,7 @@ msgstr "sklep z przynętami"
 
 msgctxt "txtsys051"
 msgid "Canyon on Monkey Island™"
-msgstr "Kanion Wyspy Małp"
+msgstr "Kanion Wyspy Małp™"
 
 msgctxt "txtsys052"
 msgid "Church of LeChuck"
@@ -45145,7 +45145,7 @@ msgstr "Mikrogrogeria"
 
 msgctxt "txtsys071"
 msgid "Monkey Island™ Beach"
-msgstr "Plaża Wyspy Małp"
+msgstr "Plaża Wyspy Małp™"
 
 msgctxt "txtsys072"
 msgid "Monkey Head"
@@ -45153,7 +45153,7 @@ msgstr "Małpia Głowa"
 
 msgctxt "txtsys073"
 msgid "Monkey Island™ Map"
-msgstr "mapa Wyspy Małp"
+msgstr "mapa Wyspy Małp™"
 
 msgctxt "txtsys074"
 msgid "Monkey Town"
@@ -45217,15 +45217,15 @@ msgstr "Wakacje ze Stanem"
 
 msgctxt "txtsys089"
 msgid "StarBuccaneer's™"
-msgstr "StartBukanier"
+msgstr "StartBukanier™"
 
 msgctxt "txtsys090"
 msgid "Toothrot Camp"
-msgstr "Obóz Zgniłozęba"
+msgstr "Obóz Toothrota"
 
 msgctxt "txtsys091"
 msgid "Underwater Cavern"
-msgstr "podwodna pieczara"
+msgstr "\\podwodna pieczara"
 
 msgctxt "txtsys092"
 msgid "Bank Vault"
@@ -45241,7 +45241,7 @@ msgstr "statek małżeński"
 
 msgctxt "txttoc001"
 msgid "Herman Toothrot"
-msgstr "Herman Zgniłyząb"
+msgstr "Herman Toothrot"
 
 msgctxt "txttoc002"
 msgid "Swing"
@@ -45285,7 +45285,7 @@ msgstr "zniszczony kadłub statku"
 
 msgctxt "txttoc012"
 msgid "path into Monkey Island™"
-msgstr "ścieżka na Wyspę Małp"
+msgstr "ścieżka na Wyspę Małp™"
 
 msgctxt "txttow001"
 msgid "short tower"
@@ -45589,11 +45589,11 @@ msgstr "wrogi pirat"
 
 msgctxt "txtact001"
 msgid "Things to Do on Męlée Island™ When You're Dead"
-msgstr "Rzeczy, które robisz na Wyspie Szpady, będąc martwym."
+msgstr "Rzeczy, które robisz na Wyspie Szpady™, będąc martwym."
 
 msgctxt "txtact002"
 msgid "Things to Do on Lucre Island™ When Your Wife Is Dead"
-msgstr "Rzeczy, które robisz na Wyspie Mamony, będąc martwym."
+msgstr "Rzeczy, które robisz na Wyspie Mamony™, będąc martwym."
 
 msgctxt "txtact003"
 msgid "Elaine's Campaign Plays Mainly to the Plain"
@@ -45617,7 +45617,7 @@ msgstr "To Apokaliptyczny Świat Ozziego"
 
 msgctxt "txtact008"
 msgid "Escape from Monkey Island™"
-msgstr "Ucieczka z Wyspy Małp"
+msgstr "Ucieczka z Wyspy Małp™"
 
 msgctxt "txtact009"
 msgid "Guybrush Kicks Unusually Large Butt"
@@ -45645,7 +45645,7 @@ msgstr "Strona"
 
 msgctxt "txtall433"
 msgid "Win Escape from Monkey Island™?"
-msgstr "Uciekłeś z Wyspy Małp?"
+msgstr "Uciekłeś z Wyspy Małp™?"
 
 msgctxt "txtall434"
 msgid "Are you sure you want to win?"
@@ -46101,7 +46101,7 @@ msgstr "Cuchnij po cichu"
 
 msgctxt "txtall516"
 msgid "The REAL Secret of Monkey Island"
-msgstr "Prawdziwy sekret Wyspy Małp"
+msgstr "Prawdziwy sekret Wyspy Małp™"
 
 msgctxt "txtall517"
 msgid "The Ultimate Insult"
@@ -46261,7 +46261,7 @@ msgstr "Sean Clark & Mike Stemmle                                               
 
 msgctxt "txtcdt001"
 msgid "LucasArts Entertainment Company™"
-msgstr "LucasArts Entertainment Company"
+msgstr "LucasArts Entertainment Company™"
 
 msgctxt "txtcdt002"
 msgid "Presents"
@@ -48321,7 +48321,7 @@ msgstr ""
 
 msgctxt "txtcdt508"
 msgid "Escape from Monkey Island™ and its characters,"
-msgstr "Ucieczka z wyspy Małp, postacie,"
+msgstr "Ucieczka z Wyspy Małp™, postacie,"
 
 msgctxt "txtcdt509"
 msgid "iMuse, and the iMuse System logo are each"
@@ -48373,7 +48373,7 @@ msgstr "CHWILĘ PÓŹNIEJ..."
 
 msgctxt "habshi029"
 msgid "My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'"
-msgstr "A dokładniej \"Główny zastępca regulatora stoczni, obsługa portu, wyspa Szpady\"."
+msgstr "A dokładniej \"Główny zastępca regulatora stoczni, obsługa portu, Wyspa Szpady™\"."
 
 msgctxt "habshi084"
 msgid "First, bring it back in the same (or better) condition as it is now."
@@ -48521,7 +48521,7 @@ msgstr "Dom Mięshaka"
 
 msgctxt "txtsavmem"
 msgid "Melee Island Map"
-msgstr "Mapa Wyspy Szpady"
+msgstr "Mapa Wyspy Szpady™"
 
 msgctxt "txtsavmel"
 msgid "Melee Town"
@@ -48581,7 +48581,7 @@ msgstr "Gablota Łupów"
 
 msgctxt "txtsavunc"
 msgid "Underwater Cavern"
-msgstr "podwodna pieczara"
+msgstr "\\podwodna pieczara"
 
 msgctxt "txtsavpph"
 msgid "Pegnose Pete's Hideout"
@@ -48593,7 +48593,7 @@ msgstr "Lasy Mamony"
 
 msgctxt "txtsavlum"
 msgid "Lucre Island Map"
-msgstr "Mapa Wyspy Mamony"
+msgstr "Mapa Wyspy Mamony™"
 
 msgctxt "txtsavoze"
 msgid "Outside Creepy Mansion"
@@ -48649,7 +48649,7 @@ msgstr "Starbukanier"
 
 msgctxt "txtsavjam"
 msgid "Jambalaya Island Map"
-msgstr "Mapa Wyspy Jambalaya"
+msgstr "Mapa Wyspy Jambalaya™"
 
 msgctxt "txtsavpla"
 msgid "Plank Dive"
@@ -48665,7 +48665,7 @@ msgstr "Kościół LeChucka"
 
 msgctxt "txtsavcan"
 msgid "Monkey Island Canyon"
-msgstr "Kanion Wyspy Małp"
+msgstr "Kanion Wyspy Małp™"
 
 msgctxt "txtsavlav"
 msgid "Lava Field"
@@ -48681,7 +48681,7 @@ msgstr "Małpia Dżungla"
 
 msgctxt "txtsavmib"
 msgid "Monkey Island Beach"
-msgstr "plaża Wyspy Małp"
+msgstr "plaża Wyspy Małp™"
 
 msgctxt "txtsavmoh"
 msgid "Monkey Head"
@@ -48689,7 +48689,7 @@ msgstr "Małpia Głowa"
 
 msgctxt "txtsavmom"
 msgid "Monkey Island Map"
-msgstr "mapa Wyspy Małp"
+msgstr "mapa Wyspy Małp™"
 
 msgctxt "txtsavmon"
 msgid "Monkey Town"

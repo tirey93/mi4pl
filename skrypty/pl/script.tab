@@ -56,20 +56,20 @@ HEHN003	Hej, przypomnia³em sobie gdzie zostawi³em spodnie!
 HEGB004	To dobrze, chyba. A co z Ozzie'm?
 HEGB006	Herman?
 HEGB008	Nie wiedzia³em, ¿e wieloryby mog¹ schlaæ siê w sztok, ale kontynuuj.
-HEGB037	Takie gadanie nic nam nie da, gubernatorze. Musimy po³¹czyæ si³y, by ocaliæ Szpadê™ przed Ozzie'm i LeChuckiem!
+HEGB037	Takie gadanie nic nam nie da, gubernatorze. Musimy po³¹czyæ si³y, by ocaliæ Wyspê Szpady™ przed Ozzie'm i LeChuckiem!
 HEHN038	LeChuck te¿ macza³ w tym palce?
-HEGB039	Jest teraz nowym gubernatorem wyspy Szpady™.
+HEGB039	Jest teraz nowym gubernatorem Wyspy Szpady™.
 HEHN040	Œwiêta Anielko! A co z moj¹ wnuczk¹?
 HEGB041	Zniknê³a zaraz po wyborach.
 HEHN042	Co za ulga!
 HEGB043	Jak to?
 HEHN044	Bo nie powiedzia³em Ozzie'mu o JEDNYM: tajemnicy czwartej czêœci Talizmanu Zniewagi.
-HEGB045	Tej, która ma coœ wspólnego z urzêdem gubernatora Szpady™? Elaine i ja g³owiliœmy siê nad tym. Co to takiego?
+HEGB045	Tej, która ma coœ wspólnego z urzêdem gubernatora Wyspy Szpady™? Elaine i ja g³owiliœmy siê nad tym. Co to takiego?
 HEHN046	To...
 HEGB047	Tak?
 HEHN048	To jest to!
-HEGB049	Wygl¹da jak pieczêæ gubernatora wyspy Szpady™.
-HEHN050	Bo to jest pieczêæ gubernatorska. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubi³ orygina³. Pieczêæ to klucz odblokowuj¹cy moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wygl¹dzie. Gdzie jest druga pieczêæ?
+HEGB049	Wygl¹da jak Pieczêæ Gubernatora Wyspy Szpady™.
+HEHN050	Bo to jest Pieczêæ Gubernatora Wyspy Szpady™. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubi³ orygina³. Pieczêæ to klucz odblokowuj¹cy moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wygl¹dzie. Gdzie jest druga pieczêæ?
 HEGB051	Chyba ma j¹ Elaine. Rzadko kiedy spuszcza j¹ z oka.
 EYP3006	Cicho b¹dŸ!
 OZGB001	To wielki krok dla cz³owieka, ale ma³e pstrykniêcie prze³¹cznikiem dla gigantycznej ma³py-robota.
@@ -94,7 +94,7 @@ EPGB007	Na pocz¹tek za³ó¿ jakieœ spodnie.
 EPHN008	Za³atwione!
 EPGB009	Oraz....
 EPHN010	Tak?
-EPGB011	Czy móg³byœ po raz kolejny zostaæ gubernatorem wyspy Szpady™?
+EPGB011	Czy móg³byœ po raz kolejny zostaæ gubernatorem Wyspy Szpady™?
 EPHN012	Mowy nie ma. Nienawidzi³em tej roboty. Myœlisz, ¿e po co przeby³em taki szmat drogi do Australii? Dla kuchni?
 EPEL013	Dziadku, proszê. Mam ju¿ doœæ bycia gubernatorem. To nie jest ¿ycie dla pirata.Guybrush i ja musimy byæ na otwartym morzu, wymachiwaæ mieczem, zabijaæ wrogów! Jesteœmy za m³odzi by rozpocz¹æ karierê w biukracji!
 EPHN014	No dobra... ale odwiedzajcie mnie czêsto!
@@ -103,7 +103,7 @@ EPHN016	I chcê widzieæ ma³e piraci¹tka!
 EPGB017	Zobaczymy, co da siê zrobiæ.
 EPJJ018	A kr¹g ¿ycia toczy siê dalej.
 EPEL019	Hej, jesteœ gadaj¹c¹ ma³p¹!
-EPGB020	Elaine, poznaj Jojo Juniora, Ksiêcia Ma³p wyspy Ma³p™.
+EPGB020	Elaine, poznaj Jojo Juniora, Ksiêcia Ma³p Wyspy Ma³p™.
 EPEL021	Dziêkujê, szlachetny Jojo, za ponowne ocalenie mórz.
 EPJJ022	To by³a przyjemnoœæ, pani Threepwood. Teraz muszê iœæ. Gdzieœ tam, razem ze swymi ma³pimi braæmi, mamy przeznaczenie do wype³nienia.
 EPGB023	Dok¹d pójdziesz?
@@ -173,7 +173,7 @@ guymel017	Ci¹gle jest 3 w nocy! Co za zbie¿noœæ!
 guymel018	A to gibki syren.
 guymel019	Mo¿e i BY£ABY z tego ozdoba na trawnik, ale w ¿yciu nie wejdzie mi w spodnie.
 guymel020	Droga do domu.
-guymel021	Œcie¿ka do wyspy Szpady.
+guymel021	Œcie¿ka do Wyspy Szpady™.
 guymel022	Oryginalne Miêdzynarodowe Stowarzyszenie Mojo, dostawca towaru voodoo.
 guymel023	Ciekawe, kto prowadzi to miejsce po przeprowadzce Lady Voodoo do Puerto Pollo.
 guymel024	A te drzwi prowadz¹... dok¹dœ.
@@ -181,7 +181,7 @@ el1mel001	Co znowu?
 guymel025	A nic. Chcia³em tylko powiedzieæ "czeœæ", póki powstrzymujê katapultê.
 el1mel002	Guybrush!
 guymel026	Jeszcze raz, co muszê zrobiæ?
-el1mel003	Zatrzymaæ katapultê i p³yn¹æ na wyspê Mamony, pamiêtasz?!
+el1mel003	Zatrzymaæ katapultê i p³yn¹æ na Wyspê Mamony™, pamiêtasz?!
 guymel027	Ano tak, dziêki.
 el1mel004	Guybrush! Co ty tu robisz?
 guymel028	Szukam WC?
@@ -204,7 +204,7 @@ el1gme005	Wiêc usuñ st¹d tê katapultê!
 guygme004	No!
 googme006	Wybacz, gubernatorze, mam umowê.
 googme007	Mam prawne zobowi¹zanie do zniszczenia pani willi t¹ katapult¹.
-el1gme006	Coœ mi œmierdzi na wyspie Szpady.
+el1gme006	Coœ mi œmierdzi na Wyspie Szpady™.
 guygme005	Wiem, ale smród zwykle odp³ywa wraz z przyp³ywem.
 el1gme007	Mam plan.
 guygme006	...choæ czasem zostaje podczas zaæmienia...
@@ -216,14 +216,14 @@ el1gme010	W miêdzyczasie, mam dla ciebie dwa zadania.
 guygme009	Wiêcej masa¿y stopami?
 el1gme011	Mo¿e póŸniej. Po pierwsze, zatrzymaj ten katapultowy ob³êd.
 guygme010	Zatrzymaæ ob³êd. £apiê.
-el1gme012	Po drugie, pop³yñ na wyspê Mamony. Pomów z prawnikami dziadka.
+el1gme012	Po drugie, pop³yñ na Wyspê Mamony™. Pomów z prawnikami dziadka.
 el1gme013	Mog¹ nam pomóc poradziæ sobie z ratuszem.
 guygme011	Nie cierpiê gadaæ z prawnikami!
 el1gme014	Nie tak, jak oni nie cierpi¹ gadaæ z tob¹.
 guygme012	Dobrze.
 el1gme015	Mam wskrzeszenie do za³atwienia!
 el1gme016	B¹dŸ grzeczny!
-el1gme017	I nie zapomnij: Zatrzymaj katapultê. P³yñ na wyspê Mamony.
+el1gme017	I nie zapomnij: Zatrzymaj katapultê. P³yñ na Wyspê Mamony™.
 googme008	To chyba koniec podró¿y poœlubnej.
 guygme013	By³a o niebo milsza, nim umar³a.
 guygme014	Oby podzia³a³o.
@@ -246,7 +246,7 @@ el1gme024	Tylko jeden kandydat, tylko jeden...
 chagme001	...wybór.
 guygme019	Ktoœ ty?
 chagme002	Jam, panie Threepwood, jest Charles L. Charles.
-el1gme025	Ale mo¿esz mnie zwaæ nowym gubernatorem wyspy Szpady!
+el1gme025	Ale mo¿esz mnie zwaæ nowym gubernatorem Wyspy Szpady™!
 el1gme026	Nie mo¿esz byæ gubernatorem! Ja nim jestem, a to do¿ywotnia kadencja.
 chagme003	W tym sêk, nieprawda¿? Mianowano ciê zmar³¹.
 el1gme027	S³ysza³am. JAK to siê sta³o?
@@ -256,13 +256,13 @@ chagme006	to poczciwi obywatele Szpady nie doszliby to b³êdnych wniosków, ¿e w¹c
 guygme020	Moment... z t¹ ma³pk¹ to by³o o mnie?
 el1gme028	Rozumiemy, startujesz na gubernatora. Ale po co burzyæ m¹ willê?
 chagme007	Kiedy "umar³aœ", willa sta³a siê w³asnoœci¹ urzêdu.
-chagme008	A w przys³udze dla przysz³ego gubernatora Szpady radni zawarli umowê z firm¹ rozbiórkow¹...
+chagme008	A w przys³udze dla przysz³ego gubernatora Wyspy Szpady™ radni zawarli umowê z firm¹ rozbiórkow¹...
 googme014	Czyli mn¹.
 chagme009	...by zniszczyæ przestarza³y i mieszczañski symbol elitarnej piratokracji.
 guygme021	Dlaczego?
 chagme010	Gdy¿ czasy pirackich ksiê¿niczek, rz¹dz¹cych z zacisznych willi minê³y, mój drogi.
 guygme022	Czy¿by?
-chagme011	Istotnie. Jeœli wyspa Szpady jutra ma prosperowaæ, to musi byæ rz¹dzona przez przedstawiciela ludu...
+chagme011	Istotnie. Jeœli Wyspa Szpady™ jutra ma prosperowaæ, to musi byæ rz¹dzona przez przedstawiciela ludu...
 chagme012	...nie boj¹cego siê przebywaæ z prostymi ludŸmi...
 chagme013	...który nie bêdzie ukrywaæ siê w willi chronionej przez pudle-piranie...
 el1gme029	I ty nim jesteœ?
@@ -276,7 +276,7 @@ guygme025	...mo¿e z lekk¹ szczypt¹ oregano...
 guygme026	Tak, z³otko?
 el1gme032	Wrócê do ratusza, by kontrkandydowaæ z Charlesem!
 guygme027	A jak ja mam pomóc?
-el1gme033	P³yñ na wyspê Mamony i pogadaj z prawnikami.
+el1gme033	P³yñ na Wyspê Mamony™ i pogadaj z prawnikami.
 guygme028	Ale po co? Zniszczy³em katapultê.
 el1gme034	Tak, skarbie, wiem, ale przez demolkê wisz¹c¹ nad will¹, kolejna katapulta mo¿e zjawiæ siê w ka¿dej chwili!
 el1gme035	Potrzebujemy jakiegoœ zakazu, który tylko moi prawnicy mog¹ wydaæ!
@@ -288,7 +288,7 @@ guygme031	Co?
 el1gme038	Wybacz, powiedzia³am to na g³os?
 el1gme039	Chcia³am rzec "Ruszyæ na pohybel zdradzieckim wodom w niebezpieczn¹ pogoñ".
 guygme032	No dobra, tak ju¿ lepiej.
-el1gme040	Muszê zacz¹æ kampaniê. Nie przesiaduj za d³ugo na wyspie Mamony.
+el1gme040	Muszê zacz¹æ kampaniê. Nie przesiaduj za d³ugo na Wyspie Mamony™.
 googme015	Mmm... dobre by³o.
 googme016	HEJ! Co ty tutaj robisz? PRZESTAÑ!
 guygme033	Dra¿liwyœ coœ.
@@ -428,14 +428,14 @@ guyscu021	Ludzkie cia³o to piêkna rzecz...
 guyscu022	...przewa¿nie.
 guyscu023	To przez takie obrazy piraci tyle pij¹.
 guyscu024	Widzê st¹d swój dom!
-guyscu025	Oby nadal tam sta³, jak wrócê z wyspy Mamony.
+guyscu025	Oby nadal tam sta³, jak wrócê z Wyspy Mamony™.
 guyscu026	Tak, willa nadal stoi.
 guyscu027	Nasz wynajêty statek miodowy ju¿ odbi³ od portu.
 guyscu028	W sumie, to dobrze. By³ za drogi na krótkie wyprawy.
 guyscu237	To niem¹dre rozmyœlaæ nad faktem, ¿e WIDZÊ port z tego okna.
 nedscu001	Z drogi!
 guyscu030	 
-guyscu031	Oto czaszka Hermiego, ogromnej œwini morskiej wyspy Szpady.
+guyscu031	Oto czaszka Hermiego, ogromnej œwini morskiej Wyspy Szpady™.
 guyscu032	¯ebra smakowa³y jak wieprzowina, golenie jak ³osoœ, a podroby jak pochrzyn.
 guyscu033	Co za ulga wiedzieæ, ¿e dr¹¿ona czaszka Hermiego chroni ten zdro¿ny bar.
 el1gmi001	Skarbie, ustaliliœmy chyba, ¿e nie bêdziesz rozrzuca³ swych rzeczy po naszej czystej pod³odze.
@@ -454,8 +454,8 @@ guygmi007	Sam nie wiem, ale przeczuwam, ¿e podpisana umowa mo¿e siê przydaæ.
 el1gmi007	No dobra, podpiszê to.
 el1gmi008	Niech zgadnê: kolejna gubernatorska ³apówka.
 guygmi008	Wolê nazwê ”bodziec sponsorowany przez pañstwo”.
-el1gmi009	Gdy wrócisz z Mamony, musimy odbyæ d³ug¹ pogadankê o etyce obywatelskiej.
-guygmi009	Próbujê zebraæ za³ogê na wyspê Mamony.
+el1gmi009	Gdy wrócisz z Wyspy Mamony™, musimy odbyæ d³ug¹ pogadankê o etyce obywatelskiej.
+guygmi009	Próbujê zebraæ za³ogê na Wyspê Mamony™.
 el1gmi010	No i?
 guygmi010	No i pragn¹ op³aty rz¹dowej.
 el1gmi011	£apówki?
@@ -498,7 +498,7 @@ guygmi040	Te¿ mo¿liwe.
 guygmi041	Nie, bez sensu taszczyæ ten zegar tylko po to, by znaæ godzinê...
 guygmi042	To znaczy, on nawet nie chodzi!
 guygmi043	Nakrêcê ten zegar, jak tylko unicestwiê jakiœ z³y czyn.
-guygmi044	St¹d widaæ prawie ca³¹ wyspê.
+guygmi044	St¹d widaæ prawie ca³¹ Wyspê Szpady™.
 guygmi045	Móg³bym je otworzyæ, ale po co?
 guygmi046	Wolê tê komodê od tej w ³azience...
 guygmi047	Tej z... porcelany.
@@ -542,7 +542,7 @@ guygme073	Ej, no! Chcê ujrzeæ g³az uderzaj¹cy w kaktus!
 googme064	Nie! Nie bêdê traci³ g³azów, gdy katapulta jest wykalibrowana.
 guygme074	Chcia³byœ do³¹czyæ do mej za³ogi potê¿nych piratów?
 googme065	Mo¿e i tak, ale nie mogê.
-googme066	W umowie o pracê jest wzmianka, ¿e nie mogê opuœciæ wyspy Szpady, nim nie skoñczê z cha³up¹.
+googme066	W umowie o pracê jest wzmianka, ¿e nie mogê opuœciæ Wyspy Szpady™, nim nie skoñczê z cha³up¹.
 guygme075	Na pewno nie mo¿esz do³¹czyæ do mej za³ogi?
 googme067	I naraziæ siê Izbie Handlowej Szpady? W ¿yciu.
 googme068	Te typy to twarde sztuki.
@@ -611,9 +611,9 @@ guymel037	Móg³bym przysi¹c, ¿e was znam.
 clamel017	Szczerze w¹tpiê.
 guymel038	Coœcie porabiali, ³otry?
 otimel013	Od czego by zacz¹æ?
-guymel039	Chcia³bym us³yszeæ coœ wiêcej o starej bandzie Szpady.
+guymel039	Chcia³bym us³yszeæ coœ wiêcej o starej bandzie Wyspy Szpady™.
 clamel018	Znaczy o kim?
-guymel040	Zbieram za³ogê na misjê na wyspê Mamony. Do³¹czacie?
+guymel040	Zbieram za³ogê na misjê na Wyspê Mamony™. Do³¹czacie?
 otimel014	MATKO BOSKA SKACZ¥CA, NIE!
 guymel041	Przyjmê to jako ”nie”.
 clamel019	Musisz wybaczyæ memu koledze...
@@ -644,10 +644,10 @@ guymel049	Wybacz, zagalopowa³em siê.
 guymel050	...skarby... ³adunki ze skarbem.
 clamel031	Nadal czekamy na skarb, który obieca³eœ OSTATNIM razem.
 guymel051	No tak...
-guymel052	...uroczy domek u wybrze¿y wyspy £upu.
+guymel052	...uroczy domek u wybrze¿y Wyspy £upu™.
 clamel032	Co za luksus.
 otimel020	 
-clamel033	Wszyscy wiedz¹, ¿e tajemniczy zagraniczny inwestor wykupi³ wszystkie nieruchomoœci wokó³ wyspy £upu!
+clamel033	Wszyscy wiedz¹, ¿e tajemniczy zagraniczny inwestor wykupi³ wszystkie nieruchomoœci wokó³ Wyspy £upu™!
 guymel053	... intratn¹ posadkê w urzêdzie!
 clamel034	Brzmi ciekawie.
 otimel021	Carla, co ty robisz?
@@ -655,7 +655,7 @@ clamel035	A o jak intratnej posadce mówimy?
 guymel054	Wiesz, takiej z stawk¹ w sektorze prywatnym, 3 razy na miesi¹c...
 guymel055	...bez kontroli...
 guymel056	...i bez zagro¿enia zwolnienia!
-otimel022	Nie s³uchaj go, Carla... on chce nas znowu zabraæ na wyspê Ma³p!
+otimel022	Nie s³uchaj go, Carla... on chce nas znowu zabraæ na Wyspê Ma³p™!
 clamel036	Chcemy umowy, oczywiœcie.
 guymel057	Zobaczê, co siê da zrobiæ.
 guymel058	...m¹ dozgonn¹ i bezwarunkow¹ wdziêcznoœæ, ma³a.
@@ -666,8 +666,8 @@ clamel038	To nie u¿ywaj tego ”lubie¿nego” g³osu. Jest straszny.
 guymel060	Wybacz.
 guymel061	...myœl¹c o tym, nie widzê dobrego powodu, abyœcie do³¹czyli.
 clamel039	Daj nam znaæ, jak na jakiœ wpadniesz.
-guymel062	Nie wpadliœmy na siebie zesz³ego lata na wyspie Phatta?
-clamel040	Nigdy nie byliœmy na wyspie Phatta.
+guymel062	Nie wpadliœmy na siebie zesz³ego lata na Wyspie Phatta™?
+clamel040	Nigdy nie byliœmy na Wyspie Phatta™.
 otimel024	I nigdy w lato!
 guymel063	Nie jesteœcie czasem Yongler i Muntz, znani komedianci?
 clamel041	Yongler i Muntz? Nigdy o nich nie s³ysza³am.
@@ -681,22 +681,22 @@ otimel025	Z pewnoœci¹.
 guymel070	Ziomy! Nie jesteœcie za³o¿ycielami Ci¹gnij-kila, najg³oœniejszego pirackiego zespo³u metalowego?
 clamel042	Nie. ¯aden z nas nie zna ¿adnej melodii.
 guymel071	To tak jak Ci¹gnij-kil.
-guymel072	A my nie byliœmy w jednej za³odze na wyspê Ma³p?
+guymel072	A my nie byliœmy w jednej za³odze na Wyspê Ma³p™?
 clamel043	W¹tpiê...
 otimel026	CARLA, ZABIERZ TEGO Z£EGO CZ£OWIEKA! ON CHCE NAS ZABRAÆ NA WYSPÊ MA£P™!
 guymel073	Carla?
 clamel044	Kto?
-guymel074	Nie nabierzesz mnie. Jesteœ Carla, Fechtmistrzyni wyspy Szpady!
+guymel074	Nie nabierzesz mnie. Jesteœ Carla, Fechtmistrzyni Wyspy Szpady™!
 guymel075	A ty...
 guymel076	Otis!
 otimel027	Nie wiem, o czym ty do mnie mówisz.
 clamel045	Odpuœæ, Otis, pó³g³ówek nas rozpozna³.
 guymel077	WIEDZIA£EM, ¿e was znam!
-guymel078	Byliœcie w 2/3 moj¹ star¹ za³og¹ na wyspê Ma³p!
-otimel028	Chyba za³og¹, któr¹ porzuci³eœ na wyspie Ma³p.
-clamel046	Masz pojêcie, jak trudna jest ucieczka z wyspy Ma³p?
+guymel078	Byliœcie w 2/3 moj¹ star¹ za³og¹ na Wyspê Ma³p™!
+otimel028	Chyba za³og¹, któr¹ porzuci³eœ na Wyspie Ma³p™.
+clamel046	Masz pojêcie, jak trudna jest ucieczka z Wyspy Ma³p™?
 guymel079	Nie, jak trudna jest...
-guymel080	...UCIECZKA Z WYSPY MA£P?
+guymel080	...UCIECZKA Z WYSPY MA£P™?
 clamel047	Có¿, diabelnie trudna!
 otimel029	Taaak!
 clamel048	To by³o traumatyczne prze¿ycie.
@@ -706,11 +706,11 @@ clamel049	Taa, "przepraszam" nie nakarmi narwali.
 guymel082	Mo¿e was mylê z inn¹ par¹ piratów.
 clamel050	To mo¿e byæ to.
 guymel083	A co z tob¹, Otis? Co robi³eœ przez ostatnie kilka lat?
-otimel031	Có¿, kiedy W KOÑCU uciek³em z wyspy Ma³p,
-otimel032	wróci³em na wyspê Szpady, gdzie próbowa³em odtworzyæ dawn¹ profesjê.
+otimel031	Có¿, kiedy W KOÑCU uciek³em z Wyspy Ma³p™,
+otimel032	wróci³em na Wyspê Szpady™, gdzie próbowa³em odtworzyæ dawn¹ profesjê.
 guymel084	Drobne kradzie¿e?
 otimel033	Wolê to nazywaæ "proczynn¹ redystrybucj¹ bogactwa".
-otimel034	Niestety, poni¿enie jakiego dozna³em na wyspie Ma³p, tak mn¹ wstrz¹snê³o,
+otimel034	Niestety, poni¿enie jakiego dozna³em na Wyspie Ma³p™, tak mn¹ wstrz¹snê³o,
 otimel035	¿e nie mogê gmeraæ przy zamkach i kieszeniach, nie ha³asuj¹c przy tym jak hipopotam z wzdêciami.
 guymel085	Jaka barwna metafora. To jak ZARABIACIE na ¿ycie?
 otimel036	¯ebrz¹c, przewa¿nie.
@@ -720,7 +720,7 @@ clamel051	Sprzeda dom zagranicznemu inwestorowi!
 otimel038	Mimo ¿e nie chcia³!
 clamel052	Inwestor zmierzy³ siê z nim w Remiku Zniewa¿anym i POKONA£ GO!
 otimel039	Smirk tak siê zawstydzi³, ¿e przepisa³ wszystko, co mia³ na miejscu i wyp³yn¹³ pierwszym statkiem ze Szpady.
-clamel053	Ta sama historia zdarza³a siê tu wielokrotnie...
+clamel053	Ta sama historia zdarza³a siê wielokrotnie na Wyspie Szpady™...
 clamel054	Ten oœliz³y inwestor chodzi od pirackich domów do siedzib pracy...
 clamel055	...wygrywa w zniewa¿aniu na to i tamto...
 clamel056	...i poni¿a ich tak dobitnie, ¿e musz¹ ugi¹æ siê pod jego wrogim przewrotem.
@@ -728,16 +728,16 @@ otimel040	Nie zauwa¿y³eœ tych wszystkich napisów "Sprzedane"?
 guymel087	A gdzie trzeci cz³onek naszej starej za³ogi?
 clamel057	Chodzi ci o Meathooka?
 otimel041	To dobre pytanie.
-clamel058	Kiedy W KOÑCU uciekliœmy z wyspy Ma³p, Meathook zrzek³ siê pirackiego trybu ¿ycia i powróci³ do swej prawdziwej pasji.
+clamel058	Kiedy W KOÑCU uciekliœmy z Wyspy Ma³p™, Meathook zrzek³ siê pirackiego trybu ¿ycia i powróci³ do swej prawdziwej pasji.
 guymel088	Picia?
 clamel059	Malowania!
 guymel089	Malowania? Facet nie ma r¹k!
 otimel042	Mówiliœmy mu!
 guymel090	A co ty porabia³aœ, Carla?
-clamel060	Znaczy, PO TYM, jak w koñcu uciek³am z wyspy Ma³p?
+clamel060	Znaczy, PO TYM, jak w koñcu uciek³am z Wyspy Ma³p™?
 guymel091	Nigdy mi tego nie wybaczycie, co?
 clamel061	Nie w tym ¿yciu.
-clamel062	Spêdzi³am ostatnie kilka lat na wyspie Szpady, na nowo wyrabiaj¹c sobie mandat fechtunku.
+clamel062	Spêdzi³am ostatnie kilka lat na Wyspie Szpady™, na nowo wyrabiaj¹c sobie mandat fechtunku.
 guymel092	Brzmi wydajnie.
 clamel063	Tak by³o...
 clamel064	...póki ten Australijczyk siê nie zjawi³.
@@ -762,7 +762,7 @@ barscu005	No tak, przepraszam za to, panie Threepwood.
 guyscu037	To miejsce jest cichsze ni¿ teatr pe³ny mimów.
 barscu006	To przykre. Jest tak od czasu, kiedy ten Australijczyk pojawi³ sie w mieœcie.
 guyscu038	Australijczyk?
-barscu007	Obel¿ywy Australijski przedsiêbiorca, który u¿ywa³ swych mocnych taktyk na wykupienie terenów na wyspie Szpady.
+barscu007	Obel¿ywy Australijski przedsiêbiorca, który u¿ywa³ swych mocnych taktyk na wykupienie terenów na Wyspie Szpady™.
 barscu008	Ten ³ajdak wykurzy³ mi st¹d ponad po³owê sta³ych klientów.
 guyscu039	 
 guyscu040	Wiesz mo¿e coœ wiêcej o tym Australijczyku?
@@ -819,13 +819,13 @@ guyscu061	Ja te¿.
 guyscu062	Jakiœ wa¿niak zwany Charlesem L. Charlesem wci¹¿ próbuje zniszczyæ mi dom.
 barscu035	Nie mów tak brzydko o panu Charlesie.
 guyscu063	¯e jak?
-barscu036	S³ysza³eœ... Charles L. Charles to PRZYSZ£OŒÆ wyspy Szpady!
+barscu036	S³ysza³eœ... Charles L. Charles to PRZYSZ£OŒÆ Wyspy Szpady™!
 guyscu064	Na sam¹ myœl o Charlesie wci¹¿ mam ciarki.
 barscu037	Rozumiem.
 guyscu065	Rz¹d próbuje zburzyæ mi dom.
 barscu038	Przykra sprawa, panie Threepwood.
 guyscu066	Jeœli ktokolwiek ma zburzyæ mi dom, to mogê to byæ tylko ja!
-guyscu067	Nie mam za³ogi, aby p³yn¹æ na wyspê Mamony.
+guyscu067	Nie mam za³ogi, aby p³yn¹æ na Wyspê Mamony™.
 barscu039	Wiesz co, na wyspie pewnie krêci siê jakiœ pirat lub dwóch chêtny do cz³onkostwa w twojej za³odze.
 guyscu068	Mam za³ogê, ale potrzebny mi nawigator.
 barscu040	Mój szef to nawigator.
@@ -839,15 +839,15 @@ guyscu071	Moje sny wype³nione s¹ absurdalnymi obrazami faszystowskiej rozpaczy w
 barscu045	W takim razie s¹dzê, ¿e masz ju¿ doœæ grogu na dzisiejszy wieczór.
 guyscu072	Ale nie da³eœ mi nawet kropelki.
 barscu046	Tym lepiej.
-guyscu073	Potrzebuje statku na wyspê Mamony.
-barscu047	Mo¿esz spróbowaæ na stoczni wyspy Szpady.
+guyscu073	Potrzebuje statku na Wyspê Mamony™.
+barscu047	Mo¿esz spróbowaæ na stoczni Wyspy Szpady™.
 guyscu074	Stan ci¹gle tam pracuje?
 barscu048	Nie. Teraz miejscem zarz¹dza Pani Kapitan Portu.
 guyscu075	"Pani... Kapitan"?
 barscu049	Jest bardzo przepisowa... choæ ma swoje s³abe strony.
 guyscu076	Jeœli to jest jej s³aba strona, to niech j¹ zachowa dla siebie.
 guyscu077	To gdzie mogê znaleŸæ statek?
-barscu050	W stoczni wyspy Szpady.
+barscu050	W stoczni Wyspy Szpady™.
 guyscu078	Jasne.
 guyscu079	Mam statek, ale nadal martwi mnie dewaluacja ludzkiego ducha w tej coraz bardziej stechnicyzowanej erze.
 barscu051	Zdziwi³byœ siê, jak czêsto ludzie przychodz¹ do mnie z tym problem.
@@ -876,7 +876,7 @@ guyscu089	To nie podpada pod paragraf?
 barscu064	Gdyby twoja ¿ona nie zaniedbywa³aby swoich obowi¹zków, nie uwa¿ano by jej za zmar³¹, nie s¹dzisz?
 barscu065	Poza tym, dobieg³y mnie s³uchy, ¿e Charles chce wybudowaæ na miejscu twojej by³ej rezydencji ogromn¹ kolejkê górsk¹.
 guyscu090	Kolejkê? Brzmi znajomo...
-barscu066	Co wyspie Szpady bardziej potrzeba:
+barscu066	Co Wyspie Szpady™ bardziej potrzeba:
 barscu067	Luksusowego, po¿eraj¹cego podatki symbolu pirackiej plutokracji...
 barscu068	Czy mia¿d¿¹co odjechanej górskiej kolejki?
 guyscu091	Jakie to przekonuj¹ce...
@@ -885,7 +885,7 @@ guyscu093	Mówi ci tylko to, co chcesz us³yszeæ!
 barscu069	Mo¿e i tak... a co jeœli nie k³amie i stanie siê to, co wszyscy chc¹ us³yszeæ?
 guyscu094	Tu mnie masz...
 guyscu095	Ale Charles to nie pirat!
-guyscu096	Jak taki s³aby snob jak Charles mo¿e daæ nadziejê i pragnienia zawadiackiej spo³ecznoœci piratów na wyspie Szpady?
+guyscu096	Jak taki s³aby snob jak Charles mo¿e daæ nadziejê i pragnienia zawadiackiej spo³ecznoœci piratów na Wyspie Szpady™?
 barscu070	Teoretycznie bym siê z tob¹ zgodzi³...
 barscu071	Ale nie oszukujmy siê: nam, piratom, raczej licho wychodzi rz¹dzenie...
 barscu072	Myœlê, ¿e to czas na zmianê.
@@ -907,7 +907,7 @@ guyvoo037	Czemu?
 voovoo006	Kto wie?
 voovoo007	Mo¿e dlatego, ¿e wi¹¿¹ nas niezrozumia³e, magiczne wiêzi...
 voovoo008	...albo przez los, który splót³ nasze przeznaczenia...
-voovoo009	...a mo¿e podpisa³am z LucasArts'em piêcioletni¹ umowê.
+voovoo009	...a mo¿e podpisa³am z LucasArts™ piêcioletni¹ umowê.
 voovoo010	W ka¿dym razie, jestem by pomóc.
 voovoo011	W czym mogê s³u¿yæ, Guybrushu Threepwoodzie?
 guyvoo038	Co wiesz o Talizmanie Upokorzenia - wihajstrze, o którym wszyscy tyle mówi¹?
@@ -936,11 +936,11 @@ voovoo023	Ostatni dar ma kolor niebieski!
 guyvoo049	Coœ nie tak?
 voovoo024	Tak. Powinien byæ jeszcze czwarty dar. NIEBIESKI prezent œlubny.
 voovoo025	Ale moje tajemne zdolnoœci nic nie widz¹.
-guyvoo050	Mo¿e pozosta³ na wyspie Mamony?
+guyvoo050	Mo¿e pozosta³ na Wyspie Mamony™?
 voovoo026	W¹tpiê.
-voovoo027	Moje voodoo instynkty mówi¹ mi, ¿e pozosta³ gdzieœ na wyspie Szpady. To ciekawe.
+voovoo027	Moje voodoo instynkty mówi¹ mi, ¿e pozosta³ gdzieœ na Wyspie Szpady™. To ciekawe.
 guyvoo051	Masz jakiœ pomys³, gdzie znajdê NIEBIESKI dar?
-voovoo028	Wiem tylko, ¿e jest gdzieœ na wyspie Szpady.
+voovoo028	Wiem tylko, ¿e jest gdzieœ na Wyspie Szpady™.
 guyvoo052	Co powinienem zrobiæ z tymi prezentami?
 voovoo029	Jeœli dziadek Marley mówi³ prawdê, to w nich tkwi klucz do odnalezienia Talizmanu Upokorzenia.
 guyvoo053	Ale jak?
@@ -963,7 +963,7 @@ voovoo039	Kontynuuj.
 guyvoo060	Nie przenios³aœ siê na wyspê Puerto Pollo?
 voovoo040	Tak, ale wyczu³am, ¿e tu jestem potrzebna.
 voovoo041	Poza tym to nieustaj¹ce gdakanie na Puerto Pollo doprowadza³o mnie do sza³u.
-guyvoo061	Naprawdê przenios³aœ ca³e swoje voodoo emporium na wyspê Szpady specjalnie dla mnie?
+guyvoo061	Naprawdê przenios³aœ ca³e swoje voodoo emporium na Wyspê Szpady™ specjalnie dla mnie?
 voovoo042	Tak...
 voovoo043	...ale moje voodoo zdolnoœci mog³y nawaliæ.
 guyvoo062	Kim jest ten Charles L. Charles i dlaczego próbuje odebraæ pracê mojej ¿onie?
@@ -976,14 +976,14 @@ guyvoo064	Czy wiesz coœ jeszcze na temat Charlesa L. Charlesa?
 voovoo048	Jest odra¿aj¹cym politykiem, co tu jeszcze mówiæ?
 guyvoo065	Dlaczego nie powiedzia³aœ, ¿e Charles L. Charles to LeChuck?!
 voovoo049	I zepsuæ niespodziankê?
-guyvoo066	Czemu na wyspie Szpady jest tak pusto?
+guyvoo066	Czemu na Wyspie Szpady™ jest tak pusto?
 voovoo050	I TO jest dobre pytanie, Guybrushu.
 guyvoo067	Tak myœla³em.
 guyvoo068	No i co?
 voovoo051	Co?
-guyvoo069	Czemu wyspa Szpady jest taka pusta?!
+guyvoo069	Czemu Wyspa Szpady™ jest taka pusta?!
 voovoo052	No tak.
-voovoo053	Oko³o miesi¹c temu tajemniczy zagraniczny inwestor zacz¹³ wykupywaæ od piratów wszystkie ziemie wyspy Szpady.
+voovoo053	Oko³o miesi¹c temu tajemniczy zagraniczny inwestor zacz¹³ wykupywaæ od piratów wszystkie ziemie Wyspy Szpady™.
 voovoo054	Tych, którzy nie chcieli sprzedaæ wyzywa³ na ró¿ne warianty gier na obelgi:
 voovoo055	Zniewa¿anie na Miecze, Zniewa¿anie Golfowe, Zniewa¿anie do Celu, Zniewa¿anie na Rêkê i tak dalej...
 voovoo056	O dziwo zawsze wygrywa. Zniewa¿a najlepiej na Trójwyspach.
@@ -992,7 +992,7 @@ voovoo058	Zak³ada³ siê o ich domy i firmy w stale rosn¹cych rundach gier na obel
 guyvoo070	To okropne. Dlaczego nikt nie odmawia³ mu gry?
 voovoo059	Ilu znasz piratów, którzy by odmówili pojedynku?
 guyvoo071	Racja.
-voovoo060	Nieliczni piraci zostali na wyspie Szpady. ¯yj¹ w ci¹g³ym strachu przed wyzwaniem ze strony zagranicznego inwestora.
+voovoo060	Nieliczni piraci zostali na Wyspie Szpady™. ¯yj¹ w ci¹g³ym strachu przed wyzwaniem ze strony zagranicznego inwestora.
 guyvoo072	Wiesz coœ wiêcej na temat tego tajemniczego zagranicznego inwestora?
 voovoo061	Tylko ¿e jest z dalekiego, egzotycznego miejsca zwanego "Sydney".
 guyvoo073	"Sydney"? To brzmi jak imiê dzieciaka, który jest czêsto bity w szkole.
@@ -1012,7 +1012,7 @@ voovoo069
 guyvoo079	Nadal nie wiem, jak powstrzymaæ mój dom przed zniszczeniem.
 voovoo070	Grawitacja jest przyjacielem...
 voovoo071	U¿yj jego w³asnej broni przeciwko niemu.
-guyvoo080	Jak dotrzeæ do wyspy Mamony?
+guyvoo080	Jak dotrzeæ do Wyspy Mamony™?
 voovoo072	To doœæ prosta procedura...
 voovoo073	IdŸ na swój statek...
 guyvoo081	Ale ja nie mam statku!
@@ -1020,10 +1020,10 @@ voovoo074	Wiêc znajdŸ. Mam ci to wyrysowaæ?
 voovoo075	Dalej... zbierz za³ogê...
 guyvoo082	Za³ogê? Gdzie ja znajdê za³ogê?
 voovoo076	To PIRACKIE miasto. Nawet w czasach kryzysu ekonomicznego powinieneœ byæ w stanie znaleŸæ kilku kompetentnych ¿eglarzy.
-voovoo077	... i pop³yñ na wyspê Mamony.
-guyvoo083	Ale nie wiem, gdzie szukaæ wyspy Mamony.
+voovoo077	... i pop³yñ na Wyspê Mamony™.
+guyvoo083	Ale nie wiem, gdzie szukaæ Wyspy Mamony™.
 voovoo078	I w³aœnie po to s¹ nawigatorzy, Guybrushu. Wierzê, ¿e jeden jest w SCUMM Barze.
-guyvoo084	Jeszcze raz: jak siê dostaæ na Wyspê Mamony?
+guyvoo084	Jeszcze raz: jak siê dostaæ na Wyspê Mamony™?
 guyvoo085	Jak mogê pomóc Elaine wygraæ wybory?
 voovoo079	To zale¿y. Co wiesz o politykach?
 guyvoo086	Absolutnie nic.
@@ -1079,7 +1079,7 @@ guyvoo107	Dobrze by by³o wiedzieæ, gdzie zacz¹æ.
 guyvoo108	Niezupe³nie...
 voovoo108	Jak mówi³am instrukcja wytworzenia Talizmanu Upokorzenia zosta³a zniszczona.
 voovoo109	Jednak¿e pamiêtam, ¿e pojedyncze czêœci talizmanu mo¿na odnaleŸæ tylko na jednej wyspie.
-guyvoo109	Wyspie Ma³p?
+guyvoo109	Wyspie Ma³p™?
 voovoo110	Nie, zbyt oczywiste.
 voovoo111	To by³a ca³kowicie inna wyspa. Niestety, jej nazwa zosta³a równie¿ zatracona przez kaprysy czasu.
 guyvoo110	Czym jest Talizman Upokorzenia?
@@ -1096,7 +1096,7 @@ voovoo114	Na wyspie. Nie wiem, której.
 guyvoo118	Na wyspie. Jasne.
 guyvoo119	Jakby pomyœleæ, nie chcê ju¿ rozmawiaæ o Talizmanie Upokorzenia.
 guyvoo120	Masz jeszcze jak¹œ parê voodoo lalek niszcz¹cych z³o?
-voovoo115	Niestety, skoñczy³y siê. Ale oczekujemy dostawy z wyspy S³odu na pocz¹tku tygodnia.
+voovoo115	Niestety, skoñczy³y siê. Ale oczekujemy dostawy z Wyspy Dinky™ na pocz¹tku tygodnia.
 guyvoo121	A co z tymi wisiorkami niewidzialnoœci, umo¿liwiaj¹cymi zakradanie siê do damskich szatni?
 voovoo116	Fajne s¹, co nie?
 guyvoo122	Taa, s¹ jeszcze?
@@ -1108,7 +1108,7 @@ voovoo119	Wiêc co taki eliksir na si³ê by ci da³?
 guyvoo125	Rozumiem.
 guyvoo126	Przyda³by mi siê eliksir, daj¹cy odpornoœæ na ostre ataki gazu.
 voovoo120	Mi to mówisz?
-voovoo121	Nieszczêœliwie nasza dostawa z wyspy £upu tak¿e siê spóŸnia.
+voovoo121	Nieszczêœliwie nasza dostawa z Wyspy £upu™ tak¿e siê spóŸnia.
 guyvoo127	Interesuje mnie tak¿e zaczarowany miecz. Ma hipnotyzowaæ mych wrogów i wprawiaæ w g³êbokie os³upienie zanim ich nim przeszyjê.
 voovoo122	Nie potrzebujesz miecza, ¿eby kogoœ os³upiæ, moje dziecko... po prostu b¹dŸ sob¹.
 guyvoo128	Dziêki.
@@ -1160,7 +1160,7 @@ guyscu117	Bêdziemy pl¹drowaæ nadmorskie wioski.
 guyscu118	Nie przepadasz za rybami, co?
 guyscu119	Jak wspomina³em, mówimy o standardzie grab-i-rabuj.
 guyscu120	Taa. To mog³o brzmieæ niemoralnie.
-guyscu121	Wyruszamy na wyspê Mamony, by spotkaæ siê prawników mej ¿ony.
+guyscu121	Wyruszamy na Wyspê Mamony™, by spotkaæ siê prawników mej ¿ony.
 guyscu122	Masz racjê. Na g³os brzmi to trochê g³upio.
 guyscu123	Jak mówi³em, poszukamy prawników.
 guyscu124	¯YWYCH.
@@ -1183,7 +1183,7 @@ guyscu128	Ahoj, koledzy!
 grgscu001	Zmiataj, zmiaciarzu.
 nedscu013	Taa! Nie widzisz, ¿e jesteœmy zajêci?
 guyscu129	Jesteœcie w barze. Gracie w rzutki. Jesteœcie "zajêci"?
-grgscu002	S³uchaj, gramy o tytu³ "Mistrza Rzutek na wyspie Szpady".
+grgscu002	S³uchaj, gramy o tytu³ "Mistrza Rzutek na Wyspie Szpady™".
 nedscu014	Taa, a ¿e jesteœ za mocny, ¿eby z nami walczyæ...
 grgscu003	...a nie jesteœ...
 nedscu015	Radzimy ci d³ugi spacer po krótkim molo.
@@ -1205,8 +1205,8 @@ grgscu006	Serio. Wybierz liczbê, on w ni¹ trafi.
 guyscu139	Na bank nie trafisz kolejnego celu.
 nedscu019	Trafiê co chcesz.
 guyscu140	Czy tacy m³odzi, napakowani osobnicy nie do³¹czyliby do mej pirackiej za³ogi?
-nedscu020	Chcia³bym, ale po wygraniu Mistrzostw wyspy Szpady, bêdê musia³ wyruszyæ w trasê po Puchar Rzutek na Trójwyspie.
-grgscu007	W sumie to mo¿esz do niego do³¹czyæ bo to ja bêdê mistrzem wyspy Szpady.
+nedscu020	Chcia³bym, ale po wygraniu Mistrzostw Wyspy Szpady™, bêdê musia³ wyruszyæ w trasê po Puchar Rzutek na Trójwyspie.
+grgscu007	W sumie to mo¿esz do niego do³¹czyæ bo to ja bêdê mistrzem Wyspy Szpady™.
 nedscu021	Pewnie, ¿ó³todziobie.
 grgscu008	Znasz mnie, æpunku.
 guyscu141	Na pewno nie chcecie do³¹czyæ do za³ogi?
@@ -1267,7 +1267,7 @@ el1gmi031	Czemu?
 guygmi070	Nie wiem czemu, ale jakoœ zawsze parê setek sztuk z³ota przydaje mi siê podczas moich przygód.
 el1gmi032	Z chêci¹ bym pomog³a, skarbie, ale na tê chwilê brakuje nam gotówki.
 el1gmi033	W³aœnie, a co siê sta³o z twoim kieszonkowym?
-guygmi071	Wszystko straci³em obstawiaj¹c na konkursie plucia na wyspie £upu.
+guygmi071	Wszystko straci³em obstawiaj¹c na konkursie plucia na Wyspie £upu™.
 el1gmi034	To bardzo mi przykro, ale nadszed³ czas, abyœ nauczy³ siê wa¿nej lekcji o zarz¹dzaniu maj¹tkiem.
 guygmi072	A niech to.
 guygmi073	Naprawdê potrzebujê trochê kasy na podró¿.
@@ -1283,7 +1283,7 @@ guygmi077	Nie, przysiêgam. Chcê tylko siê upewniæ, ¿e wszystko pamiêtam.
 el1gmi040	Dobrze.
 guygmi078	Mo¿e trochê. Czy to takie z³e?
 el1gmi041	Na wszystko jest odpowiednia pora, Guybrushu.
-el1gmi042	Podczas gdy ja skupiam siê na przygotowaniu do wyborów, ty masz siê dostaæ na wyspê Mamony.
+el1gmi042	Podczas gdy ja skupiam siê na przygotowaniu do wyborów, ty masz siê dostaæ na Wyspê Mamony™.
 el1gmi043	Kiedy tam dotrzesz, odwiedŸ rodzinnych prawników Marleyów.
 el1gmi044	I masz z nimi odnaleŸæ legalny sposób na ocalenie rezydencji przed tym zbirem, Charlesem.
 el1gmi045	Jasne?
@@ -1317,13 +1317,13 @@ guygmi092	Nie mam uprawnieñ do rekwizycji statków.
 guygmi093	Powa¿nie? Ja! Odk¹d wyjechaliœmy, musi tu byæ mnóstwo nowych ludzi.
 el1gmi059	Masz, weŸ to. To powinno ci daæ pozorny autorytet.
 guygmi094	A co to jest?
-el1gmi060	To oficjalny Symbol Gubernatora wyspy Szpady.
+el1gmi060	To oficjalny Symbol Gubernatora Wyspy Szpady™.
 el1gmi061	Wyra¿a autorytet urzêdu gubernatora.
 el1gmi062	Sprawia te¿, ¿e jego posiadacz ma wejœcie na najlepsze imprezy. Hahaha.
 guygmi095	Prawdziwy pirat nie potrzebuje ¿adnych "symboli gubernatora", by udowodniæ, ¿e zas³uguje na szacunek.
 el1gmi063	Tak, mimo wszystko lepiej ¿ebyœ go wzi¹³.
 guygmi096	No dobrze. Czy to oznacza, ¿e ju¿ teraz mam opuszczaæ wyspê? Mam kilka rewolucyjnych pomys³ów na subsydiowan¹ opiekê nad dzieæmi...
-el1gmi064	Niech to poczeka do momentu, gdy wróciæ z wyspy Mamony.
+el1gmi064	Niech to poczeka do momentu, gdy wróciæ z Wyspy Mamony™.
 guygmi097	Dobra.
 el1gmi065	Mi³o s³yszeæ.
 el1gmi066	.
@@ -1436,13 +1436,13 @@ clashi002	Jak chcesz.
 otishi002	Nie.
 clashi003	Dostaniesz klapsa, Otis.
 otishi003	Dobra, miejmy to za sob¹.
-guyshi002	P³yñmy wiêc na wyspê Mamony, w poszukiwaniu zacnych przygód i prawnie wi¹¿¹cych zakazów!
+guyshi002	P³yñmy wiêc na Wyspê Mamony™, w poszukiwaniu zacnych przygód i prawnie wi¹¿¹cych zakazów!
 otishi004	Skoñczy siê na p³aczu, sama zobaczysz.
 guyshi003	Potrzebujê statku.
 habshi001	Ju¿ mówi³am, nie masz upowa¿nienia, ¿eby...
 guyshi004	A spójrz na to.
 habshi002	Co to?
-guyshi005	Pieczêæ Gubernatorska wyspy Szpady.
+guyshi005	Pieczêæ Gubernatorska Wyspy Szpady™.
 habshi003	Rozumiem.
 habshi004	Wiêc JESTEŒ wa¿n¹ osob¹. Têdy proszê, pani Marley. Poka¿ê pani pañski statek.
 habshi005	A o to... "Drobna Dama".
@@ -1491,8 +1491,8 @@ clashi005	Tylko ¿artowaliœmy.
 otishi006	Tak?
 guyshi020	Kapitan przemawia. Przygotowaæ statek do ¿eglugi!
 otishi007	Œwietnie. Teraz dok¹d p³yniemy?
-guyshi021	Wyspa Jambalaya! Dom Talizmanu Upokorzenia.
-clashi006	Wyspa Jambalaya? Co to za nazwa?
+guyshi021	Wyspa Jambalaya™! Dom Talizmanu Upokorzenia.
+clashi006	Wyspa Jambalaya™? Co to za nazwa?
 guyshi022	Mo¿esz nas pan tam zabraæ, panie Ser?
 navshi004	Aj.
 guyshi023	To w drogê.
@@ -1523,7 +1523,7 @@ guymhe005
 guymhe006	Ukraœæ ksiê¿yc? Odbi³o ci?
 guymhe007	Zatem Miêshak w koñcu sprawi³ sobie most.
 guymhe008	Osobiœcie, brakuje mi metody na bazie kr¹¿ka i drobiu.
-guymhe009	Widaæ st¹d lasy wyspy Szpady.
+guymhe009	Widaæ st¹d lasy Wyspy Szpady™.
 guymhe010	Lokum Miêshaka.
 guymhe011	Zamkniête.
 guymhe012	To znowu ja.
@@ -1538,15 +1538,15 @@ habshi022	Znikaj, mam przerwê.
 guyshi042	Jesteœ Panem Stoczni?
 habshi023	Nie.
 habshi024	Jestem PANI¥ Stoczni.
-habshi025	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, wyspa Szpady".
+habshi025	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, Wyspa Szpady™".
 habshi026	Oddzia³ Us³ug Transportu Œród-Wyspowego.
 guyshi043	To znaczy?
-habshi027	To znaczy, ¿e odpowiadam za przydzia³ statków na wyspie Szpady™.
+habshi027	To znaczy, ¿e odpowiadam za przydzia³ statków na Wyspie Szpady™.
 guyshi044	Kto tu rz¹dzi?
 habshi028	Ja.
 guyshi045	Wezmê sobie jedn¹ z tych ³odzi.
 habshi030	Nie tak szybko, cywilu.
-habshi031	Jestem g³ównym zastêpc¹ regulatora stoczni, obs³uga portu, wyspa Szpady"
+habshi031	Jestem g³ównym zastêpc¹ regulatora stoczni, obs³uga portu, Wyspa Szpady™"
 guyshi046	Kotku, za moje statki mo¿esz odpowiadaæ ka¿dego dnia tygodnia.
 habshi032	Co? Próbujesz uwieœæ pracownika gubernatora?
 guyshi047	Nie.
@@ -1593,7 +1593,7 @@ habshi058	Nie mogê i nie bêdê mog³a oddaæ ³odzi ¿adnej osobie, spó³ce czy podmio
 habshi059	...który nie posiada zwierzchnictwa w urzêdzie...
 habshi060	...lub jest inaczej wa¿ny swoimi przywilejami.
 guyshi062	Co musia³oby siê staæ, ¿ebyœ odwróci³a wzrok?
-habshi061	Mam nadziejê, ¿e nie próbowa³eœ skorumpowaæ pracownika urzêdu wyspy Szpady™.
+habshi061	Mam nadziejê, ¿e nie próbowa³eœ skorumpowaæ pracownika urzêdu Wyspy Szpady™.
 habshi062	Nie, ¿eby obchodzi³ mnie twój los, ale nie chcia³abym mieæ na g³owie ca³ej tej papierologii.
 guyshi063	Nie ma tu jakieœ luki?
 habshi063	Nie. To proste.
@@ -1748,7 +1748,7 @@ guymhi021	NieŸle.
 meamhi026	Kocha³em malowanie. Ale kiedy straci³em rêce w... wypadku... zaj¹³em siê piractwem.
 meamhi027	Nie podoba³ mi siê piracki styl ¿ycia, ale co innego mog³em? By³em malarzem bez r¹k!
 guymhi022	Wiêc jak skoñczy³eœ maluj¹c woskiem?
-meamhi028	Có¿, po moich traumatycznych prze¿yciach na wyspie Ma³p™...
+meamhi028	Có¿, po moich traumatycznych prze¿yciach na Wyspie Ma³p™...
 guymhi023	Wybacz.
 meamhi029	...postanowi³em, ¿e ju¿ nie chcê byæ piratem i zdecydowa³em siê wróciæ do œwiata sztuki.
 meamhi030	Có¿, krótko mówi¹c...
@@ -1768,12 +1768,12 @@ guymhi030	Wci¹¿ mo¿esz byæ mi pomocny w zdobyciu Talizmanu.
 meamhi037	Co mogê zrobiæ?
 guymhi031	Nic wa¿nego. Wracaj do swych zajêæ.
 meamhi038	Dziêki.
-guymhi032	W jaki sposób ty, Carla i Otis UCIEKLIŒCIE Z WYSPY MA£P?
+guymhi032	W jaki sposób ty, Carla i Otis UCIEKLIŒCIE Z WYSPY MA£P™?
 meamhi039	Tak samo, jak ty.
 guymhi033	Na tajnym statku Hermana?
 meamhi040	Herman mia³ statek? Kretyn nic nie mówi³!
 meamhi041	S¹dzê, ¿e nie uciekliœmy w ten sposób, co ty.
-guymhi034	Jeœli nie p³ynêliœcie statkiem Hermana, to jak UCIEKLIŒCIE Z WYSPY MA£P?
+guymhi034	Jeœli nie p³ynêliœcie statkiem Hermana, to jak UCIEKLIŒCIE Z WYSPY MA£P™?
 meamhi042	Nie chcê o tym mówiæ.
 guymhi035	No weŸ.
 meamhi043	Nie.
@@ -1913,8 +1913,8 @@ guylaw013	A jeœli tym kimœ bêdziecie wy...
 whilaw009	dostalibyœmy du¿o pieniêdzy?
 thrlaw011	Uczciwie zarobionych.
 diglaw010	Myœlcie nieszablonowo, moi szanowni koledzy.
-diglaw011	Moglibyœmy zostaæ "Oficjalnymi Prawnikami Trójwyspu"!
-whilaw010	Tak, "Dedykowany Zespó³ Prawny Biura Gubernatora".
+diglaw011	Moglibyœmy zostaæ "Oficjalnymi Prawnikami Obszaru Trójwysp™"!
+whilaw010	Tak, "Dedykowany Zespó³ Prawny Biura Gubernatora™".
 thrlaw012	Czego od nas potrzebujesz, m³odzieñcze?
 guylaw014	No, nie wiem... rozwi¹zaliœcie problem nieruchomoœci dziadka Marleya, tak?
 whilaw011	Tak.
@@ -2165,7 +2165,7 @@ guyhoj006	Proszê. To wystarczy, by oczyœciæ me imiê i uwolniæ mnie z tego nieszc
 canhoj006	Hmm. To ma³a œrubka.
 guyhoj007	Dok³adnie. Ta sama, która przypina³a protezê nosa Ko³konosa do jego twarzy!
 canhoj007	Nawet jeœli to prawda, to nie mamy Ko³konosa, na którym dowiedlibyœmy pañskiej teorii.
-canhoj008	To raczej poszlaka, nawet jak na Wyspê Mamony. Trzymaj œrubê i wróæ, gdy bêdziesz mia³ coœ bardziej namacalnego.
+canhoj008	To raczej poszlaka, nawet jak na Wyspê Mamony™. Trzymaj œrubê i wróæ, gdy bêdziesz mia³ coœ bardziej namacalnego.
 canhoj009	Bez protezy nosa nie mo¿emy udowodniæ, ¿e by³ na miejscu zbrodni.
 canhoj010	Jedyne, czego by to dowodzi³o, to to, ¿e w jakiœ sposób jego œrubka znalaz³a siê w torbie z ³upami z banku.
 canhoj011	Jego obroñcy mieliby z tego niez³y ubaw. Trzymaj œrubkê i wróæ, gdy bêdziesz mia³ coœ bardziej namacalnego.
@@ -2206,7 +2206,7 @@ guyhoj025	nie po tym, co siê sta³o ostatnio.
 guyhoj026	No, i to jest mêski pirat!
 guyhoj027	Jest przyczepione do œciany.
 guyhoj028	Hej, powinienem zaprosiæ Miêshaka. Spodoba³oby mu siê tu.
-guyhoj029	Mi³o widzieæ, ¿e Wyspa Mamony nie pieœci siê z kryminalistami.
+guyhoj029	Mi³o widzieæ, ¿e Wyspa Mamony™ nie pieœci siê z kryminalistami.
 guyhoj030	Mama zawsze powtarza³a, ¿ebym siê nie bawi³ ostrymi przedmiotami.
 guyhoj031	Szczególnie jeœli jest na nich krew innych ludzi.
 guyhoj032	G³osi: "Contra Leges Marinas Latrocinium maris est".
@@ -2348,7 +2348,7 @@ guyoze006	To jest dom!
 guyoze007	Zamkniête.
 guyoze008	To drzwi do domu Ozziego
 guyoze009	To frontowe drzwi tej wspania³ej (choæ przera¿aj¹cej) rezydencji.
-guyoze010	Ta droga prowadzi do lasów Wyspy Mamony
+guyoze010	Ta droga prowadzi do lasów Wyspy Mamony™
 ozzoze001	Nadal tu jesteœ?
 ozzoze002	Zap³acisz za to, Threepwood!
 ozzoze003	Ta podró¿ do miasta staje siê uci¹¿liwa.  
@@ -2475,7 +2475,7 @@ guylag010	Tutaj nie jest tak p³ytko. Ledwo widaæ dno.
 guylag011	Bardzo tu g³êboko. W ogóle nie widzê dna, tylko dziwn¹ mêtn¹ ciemnoœæ.
 guylag012	S¹ bardzo tropikalne.
 guylag013	Nie ma mowy. Mam doœæ rzucania k³odami, by starczy³o mi na jakiœ czas.
-guylag014	Prowadzi na Wyspê Mamony.
+guylag014	Prowadzi na Wyspê Mamony™.
 guylag015	Hej, tu jest jakieœ ukryte przejœcie!
 guylag016	To pewnie tutaj Ozzie znikn¹³.
 guylag017	To droga to salonu Ko³konosa ze skradzionym ³upem.
@@ -2598,8 +2598,8 @@ guyban015	By³oby o wiele proœciej, gdybym móg³ pana przekupiæ.
 canban021	Puszczê to mimo uszu. Tutaj dzia³amy zgodnie z zasadami.
 canban022	Poniewa¿ to pañskie pierwsze wykroczenie, umieszczê pana w areszcie domowym.
 guyban016	Mam wróciæ do rezydencji i pobawiæ siê z Timmym?
-canban023	Nie. Jest pan zamkniêty na Wyspie Mamony. Nie wolno panu jej opuœciæ, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.
-canban024	Aby upewniæ siê, ¿e pan nie odejdzie, zak³adam panu Voodoo £añcuszek Ekstremalnego Dyskomfortu.
+canban023	Nie. Jest pan zamkniêty na Wyspie Mamony™. Nie wolno panu jej opuœciæ, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.
+canban024	Aby upewniæ siê, ¿e pan nie odejdzie, zak³adam panu Voodoo £añcuszek Ekstremalnego Dyskomfortu™.
 guyban017	To mnie zastanawia³o.
 guyban018	Jest trochê niewygodny, poluzuje mi pan?
 canban025	W tym jest ca³y jego sens, prawda? Bêdzie tylko gorzej, kiedy spróbuje pan opuœciæ wyspê.
@@ -2843,13 +2843,13 @@ guygpt047	I to uczucie kiedy ¿ona zabiera ci wszystko co kochasz.
 guygpt010	Wiesz gdzie odnajdê czêœci Talizmanu Upokorzenia?
 mtygpt012	Masz na myœli te wisiorki co sprzedaj¹ w Planecie Threepwood?
 guygpt011	Nie, mówiê o niebezpiecznym talizmanie voodoo o du¿ej mocy niszcz¹cym dusze!
-guygpt012	Mówi¹, ¿e jego czêœci s¹ na Wyspie Jambalaya, czy to prawda?
+guygpt012	Mówi¹, ¿e jego czêœci s¹ na Wyspie Jambalaya™, czy to prawda?
 mtygpt013	Ooh, ³owca œmieci. Mrozi to krew w ¿y³ach!
 mtygpt014	Jednak¿e mo¿e wiem jak pomóc. Jak te czêœci wygl¹daj¹?
 guygpt013	Móg³byœ poruszyæ g³ow¹ i powiedzieæ mi jeszcze wiêcej o Talizmanie Upokorzenia?
 mtygpt015	Rzeczywiœcie! Moja ¿ona te¿ mi mówi, ¿e jestem twardog³owy!
 guygpt014	Co ty wyprawiasz?
-mtygpt016	Podziwiam statuê najwiêkszego pirata Wyspy Jambalaya: Tiny LaFeete.
+mtygpt016	Podziwiam statuê najwiêkszego pirata Wyspy Jambalaya™: Tiny LaFeete.
 guygpt015	Mo¿esz oderwaæ spojrzenie od statuy?
 mtygpt017	Nie. Ona jest zbyt fantastyczna.
 guygpt016	Ju¿ ciê nie niepokoje.
@@ -2868,9 +2868,9 @@ mtygpt024	Nic mi to nie mówi.
 guygpt022	Wiesz co, ju¿ nie chce z tob¹ gadaæ o tym Talizmanie Upokorzenia.
 mtygpt025	Ja te¿.
 guygpt023	Z czego Timy jest taki s³awny?
-mtygpt026	By³ znany jako "Przyjazny Pirat Wyspy Jambalaya"
+mtygpt026	By³ znany jako "Przyjazny Pirat Wyspy Jambalaya™"
 mtygpt027	"Rabowa³ bogatych a oddawa³ biednym" - By³ takim naszym Pirackim Janosikiem.
-mtygpt028	Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya.
+mtygpt028	Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya™.
 guygpt024	Jesteœ pewny ¿e Tiny LeFeete istnia³ i ¿e to nie jest jakaœ marketingowa pu³apka?
 mtygpt029	Oh, on jest prawdziwy.
 mtygpt030	Podobno jego syn ¿yje sobie gdzieœ Atolu Knutyñskim.
@@ -2910,7 +2910,7 @@ baibas031	Nie. Ci¹gle œmierdzi.
 guybas057	Wiesz cokolwiek o bez-nosym z³odzieju?
 baibas032	Hmmm, kojarzy mi siê tylko z Pegnosem Pete'em.
 guybas058	Znasz go?
-baibas033	¯artujesz sobie? Wszyscy na Wyspie Mamony s³yszeli o Pegnosie Pete.
+baibas033	¯artujesz sobie? Wszyscy na Wyspie Mamony™ s³yszeli o Pegnosie Pete.
 guybas059	Chcia³bym siê o nim dowiedzieæ wiêcej.
 baibas034	Na przyk³ad?
 guybas060	Trochê mi g³upio pytaæ... ale po co hodujesz cyrk termitów?
@@ -2938,7 +2938,7 @@ baibas049	... i zanim siê o tym dowiesz, one ju¿ s¹ zepsute!
 guybas067	Chyba siê tutaj pokrêcê.
 baibas050	Rób co chcesz, ale jeœli coœ zwêdzisz, musisz to kupiæ.
 baibas051	To mo¿e jest takie czcze gadanie,
-baibas052	... ale móg³bym przysi¹c, ¿e Wyspa Mamony schodzi na z³¹ stronê pirackiej uczciwoœci.
+baibas052	... ale móg³bym przysi¹c, ¿e Wyspa Mamony™ schodzi na z³¹ stronê pirackiej uczciwoœci.
 guybas068	Serio? Jak to?
 baibas053	Jesteœmy zasypywani.
 guybas069	Przez obcych najeŸdŸców?
@@ -2964,7 +2964,7 @@ baibas065	Te¿ tak myœlê. W przesz³oœci ten biznes siê krêci³
 guybas077	Tak? Wiêc co siê zmieni³o?
 guybas078	Czemu?
 guybas079	Kto to jest?
-baibas066	To najbardziej wp³ywowy z³odziej na Wyspie Mamony.
+baibas066	To najbardziej wp³ywowy z³odziej na Wyspie Mamony™.
 baibas067	NIGDY go nie z³apali...
 baibas068	Jego ³upy NIGDY nie zosta³y odkryte...
 baibas069	A jego prawdziwa twarz (poza jego w³asn¹ kreacj¹ nosa) NIGDY nie by³a widziana!
@@ -2983,10 +2983,10 @@ baibas076	Jego siê NIE DA znaleŸæ...
 baibas077	No chyba, ¿e potrafisz dop³yn¹æ do serca Bagien Czasoprzestrzeni.
 guybas085	Ach, no tak... zapomnia³em o tym.
 guybas086	Jak to sie sta³o, ¿e on nie ma nosa?
-baibas078	To jedna z najmroczniejszych tajemnic na Wyspie Mamony.
+baibas078	To jedna z najmroczniejszych tajemnic na Wyspie Mamony™.
 baibas079	Ktoœ mi kiedyœ powiedzia³, ¿e duma Pegnose'a zosta³a odgryziona przez kaczkê...
 baibas080	Ale jak s¹dzê, ¿e to mu siê po prostu sta³o jakoœ tak w ³onie matki.
-guybas087	A wiêc TO jest "najmroczniejsza tajemnica" na Wyspie Mamony?
+guybas087	A wiêc TO jest "najmroczniejsza tajemnica" na Wyspie Mamony™?
 baibas081	Nie zupe³nie, ale tak brzmi to z³owrogo.
 guybas088	Ciekawe jak on czuje zapachy bez nosa?
 baibas082	Obrzydliwe!
@@ -3148,7 +3148,7 @@ frehos029	Ale ja sam nie jestem pewny jak mam naprawdê na imiê
 frehos030	RzeŸbiê laski do chodzenia.
 guyhos032	Nigdy bym nie pomyœla³, ¿e sklep z laskami do chodzenia mo¿e siê utrzymaæ na wyspie pe³nej robali.
 frehos031	W sumie, móg³bym siê zgodziæ z tym zdaniem.
-frehos032	Ale ostatnio Wyspa Mamony by³a odwiedzana przez t³umy turystów, gapiów i innych zagranicznych.
+frehos032	Ale ostatnio Wyspa Mamony™ by³a odwiedzana przez t³umy turystów, gapiów i innych zagranicznych.
 frehos033	naprawdê uwielbiali moje " w³asnorêcznie robione laski"... do pewnego stopnia, oczywiœcie.
 frehos034	Poza tym, mog³em zawsze polegaæ na panu Mandrillu, który tygodniowo ³amie tuzin lasek.
 frehos035	On sam utrzymuje mnie przez ca³y miesi¹c pracy.
@@ -3181,7 +3181,7 @@ guyhos040	Wrócê póŸniej.
 frehos054	Trzymaj siê.
 guyhos041	Kto to jest?
 frehos055	Pegnose?
-frehos056	To najlepszy z³odziej na Wyspie Mamony!
+frehos056	To najlepszy z³odziej na Wyspie Mamony™!
 frehos057	Nie ka¿dy umie zdecydowaæ na aborda¿ nie maj¹c jednej nogi.
 frehos058	Sam by³em œwiadkiem.
 guyhos042	Nie!
@@ -3201,7 +3201,7 @@ frehos069	Za³o¿e siê, ¿e on wiedzia³, ¿e nie warto zadzieraæ z Freddiem.
 guyhos045	Niesamowite.
 guyhos046	Wiêc, jeszcze raz, kim jest Pegnose?
 frehos070	A masz jak¹œ laskê w uchu czy co?
-frehos071	To nie z³apliwy z³odziej Wyspy Mamony.
+frehos071	To nie z³apliwy z³odziej Wyspy Mamony™.
 guyhos047	Ach, no tak.
 guyhos048	Gdzie mogê go znaleŸæ?
 frehos072	Nie mo¿esz.
@@ -3313,16 +3313,16 @@ guyhoj057	Kiedy mam mieæ przes³uchanie?
 canhoj051	Po tym jak nasz sêdzia powróci.
 guyhoj058	Super. A kiedy to sie stanie?
 canhoj052	Powinien wróciæ w przeci¹gu kilku tygodni, jak skoñczy mu siê urlop.
-guyhoj059	Kilku tygodni!? Muszê wróciæ na Wyspê Szpady jeszcze DZISIAJ!
+guyhoj059	Kilku tygodni!? Muszê wróciæ na Wyspê Szpady™ jeszcze DZISIAJ!
 canhoj053	Mog³eœ o tym pomyœleæ zanim poszed³eœ i napad³eœ na bank, prawda?
 guyhoj060	Ale ja jestem niewinny!
 canhoj054	Powiedz to sêdziemu.
 guyhoj061	No nie, ten vodoo ³añcuszek jest naprawdê niewygodna.
-canhoj055	To wyjaœnia dlaczego nazywa siê £añcuszek Vodoo wersja DYSKOMFORT.
+canhoj055	To wyjaœnia dlaczego nazywa siê £añcuszek Vodoo wersja DYSKOMFORT™.
 canhoj056	Ok, to znaczy, ¿e dzia³a.
 canhoj057	Próbujesz mi coœ powiedzieæ?
 canhoj058	Zapomnij o tym. Zostaje tam gdzie jest.
-canhoj059	Jeœli ta ci nie pasuje, zawsze mogê przynieœæ ci £añcuszek Vodoo wersje MÊCZARNIA BÓLU.
+canhoj059	Jeœli ta ci nie pasuje, zawsze mogê przynieœæ ci £añcuszek Vodoo wersje MÊCZARNIA BÓLU™.
 guyhoj062	Wiesz co, w koñcu ona nie jest taka z³a.
 guyhoj063	Jak idzie œledztwo?
 canhoj060	Jakie œledztwo?
@@ -3336,7 +3336,7 @@ canhoj063	Cicho siedŸ!
 guyhoj068	Z³apa³em prawdziwego z³odzieja. Mogê ju¿ iœæ?
 peghoj008	Jestem niewinny!
 canhoj064	Cicho b¹dŸ!
-canhoj065	No wiêc, wszyscy wiemy, ¿e próbowa³eœ z³apaæ Pegnose'a tylko dlatego, ¿e ci sie wydawa³o, ¿e on jest winny...
+canhoj065	Wszystkich nas cieszy, ¿e uda³o ci siê schwytaæ Ko³konosa, poniewa¿ jest on poszukiwany w zwi¹zku z setkami kradzie¿y na Wyspie Mamony™...
 canhoj066	Ale, nie masz ¿adnych dowodów na to ¿e to w³aœnie on Ciê wrobi³, a te¿ ³up zagin¹³.
 canhoj067	Ale nie udowodni³eœ, ¿e to on jest odpowiedzialny za napad na bank.
 canhoj068	Ale nie znalaz³eœ jeszcze zaginionego skarbu.
@@ -3349,7 +3349,7 @@ canhoj071	On ma niestety racje. Potrzebujesz jakiœ dowodów ¿ebym ci uwierzy³.
 guyhoj071	Gdzie mogê znaleŸæ Pegnose'a?
 canhoj072	Jeœli siê nie mylê, jest zamkniêty.
 guyhoj072	To dlatego, ¿e on mnie wrobi³ w napad?
-canhoj075	Nie. Z powodu trzystu innych przestêpstw, które zd¹¿y³ pope³niæ.
+canhoj075	Nie. Z powodu trzystu innych przestêpstw, które zd¹¿y³ pope³niæ na Wyspie Mamony™.
 guyhoj074	No dobra, wiêc ja ju¿ pójdê i poszukam dowodów.
 canhoj073	W nic siê nie mieszaj.
 guyhoj075	Jak tam leci, Otis?
@@ -3404,7 +3404,7 @@ guyhoj097	Nie, ale jestem ciekaw.
 otihoj026	Tak poza tym, nie wiem czy CHCÊ iœæ do miasta... Bojê siê miasta.
 guyhoj098	B¹dŸ twardy.
 otihoj027	Ci¹gle to próbuje robiæ.
-guyhoj099	A mo¿e chcesz te wszystkie w³oskie kawy z Starbuccaneers?
+guyhoj099	A mo¿e chcesz te wszystkie w³oskie kawy z Starbukaniera™?
 otihoj028	Nie dziêki... Próbuje nie piæ nic, co ma d³u¿sz¹ nazwê ni¿ moje imiê.
 guyhoj100	Czyli grog jest ok?
 otihoj029	To jest fajne.
@@ -3428,7 +3428,7 @@ preluc004	Gdzie subtelnoœæ zapachów z egzotycznych krain zabiera ciê w œwiat rom
 preluc005	Jestem Hugo, i jestem licencjonowanym aromaterapeut¹.
 preluc006	Czy Hugo mo¿e ciê wci¹gn¹æ w nasze œwietne perfumy, wody koloñskie i wody po goleniu?
 guyluc092	Czy perfumy nie niszcz¹ tutaj twojej pirackoœci?
-preluc007	Hugo nie jest piratem, Hugo jest wzorem spo³eczeñstwa, który tworzy ogromny wk³ad w dobro Wyspy Mamony.
+preluc007	Hugo nie jest piratem, Hugo jest wzorem spo³eczeñstwa, który tworzy ogromny wk³ad w dobro Wyspy Mamony™.
 guyluc093	Mmmm-hmmm.
 guyluc094	Jednak¿e ty i tak wygl¹dasz mi na pirata.
 preluc008	Ale Hugo nie jest piratem. W ¿adnym wypadku.
@@ -3454,7 +3454,7 @@ guyluc101	Super.
 guyluc102	Nie zdarzy³o ci siê przypadkiem widzieæ beznosego pirata z ³upem pod pach¹, wybiegaj¹cego z banku, prawda?
 preluc021	Nie, ale Hugo widzia³ CIEBIE wybiegaj¹cego z ³upem.
 guyluc103	Aha, a kiedy tak bieg³em, to pamiêtasz któr¹ drog¹?
-preluc022	W stronê mrocznego lasku Wyspy Mamony.
+preluc022	W stronê mrocznego lasku Wyspy Mamony™.
 guyluc104	Dziêki.
 guyluc105	Co to za piekielny smród który eksponujesz niczego siê niespodziewaj¹cym przechodni¹?
 preluc023	To jest moja w³asna kreacja zapachowa: Eau de LeChuck
@@ -3483,14 +3483,14 @@ claluc007	Znowu zaczynasz?
 guyluc117	O czym ty pieprzysz?
 claluc008	Najpierw jakieœ pierdo³y o beznosym piracie.
 claluc009	póŸniej nowe zaklêcie voodoo do przetestowania
-claluc010	I co? TRACH! Znowu jesteœmy na Wyspie Ma³p, co?
+claluc010	I co? TRACH! Znowu jesteœmy na Wyspie Ma³p™, co?
 claluc011	-wzdycha-
 claluc012	Mog³am pos³uchaæ Otisa.
 guyluc118	A wiêc co mówi³aœ o beznosym piracie.
 claluc013	Nie.
 guyluc119	Ci¹gle ni s³ychu o beznosym piracie?
 claluc014	A czy to wa¿ne?
-claluc015	Znowu zmie¿amy prosto w stronê Wyspy Ma³p.
+claluc015	Znowu zmie¿amy prosto w stronê Wyspy Ma³p™.
 guyluc120	Czyli nic nie wiesz.
 guyluc121	Trzym siê.
 claluc016	A mam jakiœ wybór?
@@ -3526,9 +3526,9 @@ guyluc137	Dlaczego pijesz?
 claluc030	Pijê...by zapomnieæ.
 guyluc138	O czym?
 claluc031	Zapomnia³am.
-guyluc139	Chcesz zapomnieæ o Wyspie Ma³p?
+guyluc139	Chcesz zapomnieæ o Wyspie Ma³p™?
 claluc032	DOK£ADNIE!
-claluc033	Pijê by zamnipoeæ Wyspe Ma³p, te czaysy.
+claluc033	Pijê by zamnipoeæ Wyspê Ma³p™, te czaysy.
 claluc034	Dziêki ¿eœ przpomnia³... teraz muszê zacz¹æ piæ od pocz¹tku.
 guyluc140	Wybacz.
 guyluc141	Carla, picie nie jest odpowiedzi¹.
@@ -3721,7 +3721,7 @@ whilaw042	To mog³oby pójœæ SZYBCIEJ...
 diglaw042	DU¯O szybciej...
 whilaw043	Jeœli mielibyœmy orginalny akt prawny.
 thrlaw043	Do Rezydencji Marleya.
-guylaw046	Hej, a propos listy dziadka, takie akty s¹ tu, na Wyspie Mamony? W lokalnym banku!
+guylaw046	Hej, a propos listy dziadka, takie akty s¹ tu, na Wyspie Mamony™? W lokalnym banku!
 whilaw044	Wiêc nie stój tu...
 diglaw043	... jak zdrêtwia³a ma³pa...
 thrlaw044	Tylko idŸ do banku i zdob¹dŸ ten akt!
@@ -3748,7 +3748,7 @@ diglaw050	... ale podtrzebujemy jeszcze jednego dokumentu...
 thrlaw049	Aktu prawnego Rezdydencji Marleya.
 guylaw050	No nie, co za zbieg okolicznoœci.
 whilaw051	Czemu?
-guylaw051	No bo, list dziadka Marleya wspomina³ coœ o akcie prawnym w banku na Wyspie Mamony.
+guylaw051	No bo, list dziadka Marleya wspomina³ coœ o akcie prawnym w banku na Wyspie Mamony™.
 guylaw052	No wiêc poszed³em tam ¿eby go odebraæ.
 whilaw052	No i?
 guylaw053	No i kiedy tam by³em, bez-nosy pirat obrabowa³ bank, ukrad³ akt i wrobi³ mnie w napad.
@@ -3907,7 +3907,7 @@ guyozi164	Jestem Guybrush Threepwood, Ma³pi Kowoboj.
 ozzozi153	Ze mnie g³upka nie zrobisz, panie Threepwood.
 ozzozi154	Na przyk³ad, przydatn¹ informacj¹ jest to, ¿e nie ma ani jednej ma³py na Karaibach.
 ozzozi155	S¹dze ¿e jesteœ ¿a³osnym piratem.
-guyozi165	Jestem Guybrush Threepwood, Najwiêkszy Amant Wyspy Szpady.
+guyozi165	Jestem Guybrush Threepwood, Najwiêkszy Amant Wyspy Szpady™.
 ozzozi156	Zaraz siê posikam ze œmiechu.
 ozzozi157	Jesteœ kolejnym wszowym piratem.
 ozzozi158	Nie baw siê ze mn¹ w ten sposób, panie Threepwood.
@@ -4160,7 +4160,7 @@ guymel130	To jest ten moment w którym nie chce byæ nieczu³ym piratem alfa.
 guymel131	A jak tam kampania? Mogê pomóc?
 el1mel039	Idzie Ÿle i NIE.
 guymel132	Dasz mi trochê pieniêdzy, TERAZ?
-guymel133	Móg³bym mieæ wielk¹ potrzebê posiadania gotówki na Wyspê Mamony.
+guymel133	Móg³bym mieæ wielk¹ potrzebê posiadania gotówki na Wyspê Mamony™.
 el1mel040	Czemu?
 guymel134	Nie wiem...¿eby coœ kupiæ, tak myœlê.
 el1mel041	Dostaniesz kieszonkowe dziesi¹tego najbli¿szego miesi¹ca, nie wczeœniej.
@@ -4293,7 +4293,7 @@ guystb003	Co dentysta robi na Karaibach?
 mblstb003	G³upku, mamy wakacje!
 guystb004	Czy to nie jest aby niebezpieczne, ¿eby jechaæ na wakacje na wyspê piratów?
 mblstb004	Niebezpieczne? HA! Zabawny jesteœ! HA!
-mblstb005	Przed wyjazdem, poczyta³am trochê jak Ozzie Mandrill uzdrowi³ piratów z Wyspy Jambalaya,
+mblstb005	Przed wyjazdem, poczyta³am trochê jak Ozzie Mandrill uzdrowi³ piratów z Wyspy Jambalaya™,
 mblstb006	robi¹c z wyspy bezpieczne dla ludzi i s³odkie sklepy tak jak ten.
 guystb005	A widzia³aœ mo¿e jakiegoœ nieuzdrowionego pirata?
 mblstb007	Nie.
@@ -4319,15 +4319,15 @@ mblstb017	Brzmi ekscytuj¹co! Jak te czêœci wygl¹daj¹?
 guystb015	To pomo¿esz mi trochê wiêcej z zagadk¹ Talizmanu Upokorzenia?
 mblstb018	Jasne! Tylko powiedz mi jeszcze raz jak to wygl¹da?
 guystb016	Co ty wyprawiasz?
-mblstb019	Podnoszê torbê pe³n¹ bajecznie wspania³ych Kaw Starbuccaneera.
+mblstb019	Podnoszê torbê pe³n¹ bajecznie wspania³ych Kaw Starbukaniera™.
 mblstb020	W domu takiej kawy sobie nie zrobisz.
-guystb017	Mo¿esz. Wystarczy, ¿e znajdziesz inn¹ siedzibê Starbuccaneera od tej!
-mblstb021	Tak, ale te, maj¹ taki stempelek na kubku z logiem Wyspy Jambalaya!
+guystb017	Mo¿esz. Wystarczy, ¿e znajdziesz inn¹ siedzibê Starbukaniera™ od tej!
+mblstb021	Tak, ale te, maj¹ taki stempelek na kubku z logiem Wyspy Jambalaya™!
 mblstb022	Moi znajomi bêd¹ tacy zazdroœni.
 guystb018	Jak dla mnie kawa to kawa.
 mblstb023	Oczywiœcie ¿e tak, ty biedny, prosty piracie.
 mblstb024	Mieszkañcy nigdy nie byli wdziêczni za to co ju¿ maj¹.
-guystb019	Widzê, ¿e kupi³aœ jeden z tych œwietnych Kubków do Kawy od Starbuccaneera.
+guystb019	Widzê, ¿e kupi³aœ jeden z tych œwietnych Kubków do Kawy od Starbukaniera™.
 mblstb025	No mam! Moi znajomi pêkn¹ z zazdroœci!
 guystb020	Dasz mi ja?
 mblstb026	Co? Taa, jasne. Kup sobie.
@@ -4444,7 +4444,7 @@ murgpt023	S£UCHAJCIE prawdziwej pirackiej muzyki!
 murgpt024	POCZUJCIE jak wasze wnêtrzonoœci poruszaj¹ waszym cia³em prosto do restauracji czystego Z£A!!! MWAH-HAH-HAH-HAAA!!!
 clagpt001	Wow, to by³ szalony rejs.
 otigpt001	¯adna intratna posadka nie jest warta takiego zachodu.
-guygpt030	Witam na Wyspie Jambalaya, domu prawdziwych piratów oraz tajemniczych voodoo kl¹tw!
+guygpt030	Witam na Wyspie Jambalaya™, domu prawdziwych piratów oraz tajemniczych voodoo kl¹tw!
 otigpt002	I jakiœ restauracji tematycznych.
 clagpt002	i turystów.
 navgpt001	Czy ja s³yszê muzykê wydobywaj¹c¹ siê z tych sztucznych drzew?
@@ -4462,7 +4462,7 @@ guygpt036	Otis!
 otigpt004	Co?
 guygpt037	ZnajdŸ Carle i otrzeŸwij j¹.
 otigpt005	Taaa. To bêdzie proste...
-guygpt038	Teraz te czêœci Talizmanu Upokorzenia nale¿¹ do mnie. Powrót na Wyspê Szpady!
+guygpt038	Teraz te czêœci Talizmanu Upokorzenia nale¿¹ do mnie. Powrót na Wyspê Szpady™!
 murgpt026	Hej, co ty robisz?
 murgpt027	Tak siê ze mn¹ bawisz? "Odkrêcasz Bezbronn¹ Czaszkê". Co za kretyn.
 murgpt028	Ok, Threepwood, koniec zabawy. Koniec zawracania mi g³owy.
@@ -4557,7 +4557,7 @@ macpla011	£adny skok, panie Threepwood.  Jeœli wybaczy mi pan na moment...
 guypla014	Zastanawiam siê o co w tym wszystkim chodzi?
 guypla015	To nie brzmi za ³adnie.
 guypla016	Ewww.
-guypla017	Marco nie wie, ¿e zast¹piliœmy jego zwyk³¹ Dzieciêc¹ Focz¹ Oliwkê podk³adaj¹c Shmear Whiz. Zobaczmy.
+guypla017	Marco nie wie, ¿e zast¹piliœmy jego zwyk³¹ Dzieciêc¹ Focz¹ Oliwkê podk³adaj¹c Shmear Whiz ze StarBukaniera™. Zobaczmy.
 macpla012	A teraz, przyjacielu..przygotuj siê na widok mistrza w akcji!
 macpla013	Powodzenia, panie Threepwood.
 macpla014	Nie zazdroszczê panu, panie Threepwood.
@@ -4596,7 +4596,7 @@ macpla033	Ma pan ju¿ dosyæ, panie Threepwood?
 macpla034	Zaczynam traciæ cierpliwoœæ wobec pañskiej jednorazowo urokliwej upartoœci, panie Threepwood.
 macpla035	Dzieñ dobry, panie Threepwood.
 eddpla006	Co to?
-guypla021	To ulotka z "Wakacje ze Stanem" na wyspie Jambalaya.
+guypla021	To ulotka z "Wakacje ze Stanem" na Wyspie Jambalaya™.
 eddpla007	No i co z tego?
 guypla022	Przyjrzyj siê uwa¿nie trzeciej stronie.
 eddpla008	Jejku!
@@ -4638,16 +4638,16 @@ guystb034	To statek dowodzony przez wielk¹ fili¿ankê.
 guystb035	S³odkie... w charakterystyczny sposób.
 guystb036	Pasowa³o by to u nas w ogródku, ale Elaine mo¿e siê nie zgodziæ.
 guystb037	Chyba jest ju¿ doœæ widowiskowe i nie potrzebuje mojej pomocy.
-guystb038	Logo towarowe Starbuccaneera
+guystb038	Logo towarowe Starbukaniera™
 guystb039	Kubki, koszulki, termosy, dzbanki do kawy...
 guystb040	...oraz kilka rzeczy których nie rozpoznaje.
-guystb041	Hej, ten kubek z logo StarBuccaneer™ wygl¹da na mniej wiêcej taki sam kszta³t i rozmiar jak Kubek Srebrnej Ma³py.
+guystb041	Hej, ten kubek z logo StarBukaniera™ wygl¹da na mniej wiêcej taki sam kszta³t i rozmiar jak Kubek Srebrnej Ma³py.
 guystb042	Na pewno wyprodukowano je w tym samym pañstwie.
-guystb043	Ale oszuœci. Na Wyspie Szpady dostanê dok³adnie to samo tylko dziesiêæ razy taniej!
-sbcstb013	Tak, ale teraz jesteœ poza Wysp¹ Szpady.
+guystb043	Ale oszuœci. Na Wyspie Szpady™ dostanê dok³adnie to samo tylko dziesiêæ razy taniej!
+sbcstb013	Tak, ale teraz jesteœ poza Wysp¹ Szpady™.
 guystb044	Nie potrzeba mi niczego z tych rzeczy.
-guystb045	Wiadro pe³ne parasoli z logiem Starbuccaneera.
-guystb046	Nie potrzebuje byæ modny za tak¹ cenê!
+guystb045	Wiadro pe³ne parasoli z logiem Starbukaniera™.
+guystb046	Na pewno nie chcê modnego, parasola StarBukaniera™ z zawy¿on¹ cen¹.
 guystb047	Nigdy nie widzia³em deszczy na ca³ym Archipelagu Tri-Island!
 guystb048	Nie, wiadomo ¿e nie otwieramy parasolki jak nie pada.
 guystb049	Wow.  Czy to nie przesada trzymaæ taki wielki znak wewn¹trz sklepu?
@@ -4666,7 +4666,7 @@ guystb061	Jak bardzo trzeba nienawidziæ kawy ¿eby laæ tyle mleka?
 guystb062	Pije tylko czarn¹ kawê.
 guystb063	Powinny dostarczaæ kawê z cukrem - zawsze.
 guystb064	A¿ taki okrutny nie jestem ¿eby to piæ.
-guystb065	Ten automat robi takie pyszne kawowe drinki od Starbuccaneera.
+guystb065	Ten automat robi takie pyszne kawowe drinki od Starbukaniera™.
 guystb066	Mo¿e i chcia³bym mieæ taki w domu, jednak wygl¹da zbyt ciê¿ko by to zabraæ.
 guystb067	To chyba nie jest sklep samoobs³ugowy.
 guystb068	Ca³a sterta fili¿anek.
@@ -4674,7 +4674,7 @@ guystb069	Ró¿ni¹ siê trochê od tym ScummBarowskich - s¹ CZYSTE.
 guystb070	Co siê dzieje z tym œwiatem?
 guystb071	Nie uniosê.
 guystb072	Turystyczne badziewia.
-guystb073	Du¿o kawy i Kubków od Starbuccaneera.
+guystb073	Du¿o kawy i Kubków od Starbukaniera™.
 guystb074	Maj¹ wyprzedaæ ziaren kawy!
 mblstb038	Mój Bo¿e! Gdzie?
 guystb075	Uups. Mój b³¹d.
@@ -4838,7 +4838,7 @@ hb1cpt014	Ta-ta-ta-talizman Upokorzenia?
 hb1cpt015	Uhhh uhh ahh! <krzyk>
 guycpt041	Chyba zostawiê ciê w spokoju.
 hb1cpt016	Dziêkujê.
-sbcstb014	Witamy Kawiarni Starbuccaneera.
+sbcstb014	Witamy Kawiarni Starbukanier™.
 sbcstb015	W czym mogê pomóc?
 guystb077	Grogu!
 sbcstb016	Przykro mi, ale nie podajemy czystego grogu.
@@ -4882,12 +4882,12 @@ sbcstb036	Manipulacja to zawsze jakiœ sposób na konsumentów.
 sbcstb037	Zamiast mieæ jedn¹ ma³¹ kafejkê z jednym dostêpnym produktem...
 sbcstb038	...my mamy setki ofert, które podpasuj¹ ka¿demu klientowi.
 guystb095	Naprawdê tak myœlisz?
-sbcstb039	Taki jest rynek. Uczymy siê tego zanim zaczniemy zarabiaæ kasê i nosiæ te oryginalne uniformy.
+sbcstb039	Taki jest rynek. Uczymy siê tego zanim zaczniemy zarabiaæ kasê i nosiæ uniformy z logo StarBukanier™.
 guystb096	No to musisz byæ dumny.
 sbcstb040	No tak. Ale nie wiesz jak czêsto coœ siê knoci.
 sbcstb041	To w czym mogê pomóc?
 guystb097	Tylko, ¿e dla konsumenta, takiego jak ja, to zdurnia³e.
-sbcstb042	Tutaj, w Starbuccaneerze nie obchodzi nas potrzeba klienta, wolimy mieæ dobre uk³ady z naszymi konkurentami.
+sbcstb042	Tutaj, w Starbukanier™ nie obchodzi nas potrzeba klienta, wolimy mieæ dobre uk³ady z naszymi konkurentami.
 guystb098	To brzmi super...hej! Czekaj! Nie podoba mi siê to. Porozmawia³em z moim wewnêtrznym biznesmenem.
 sbcstb043	To piêkny pomys³. Nie mamy innych kawiarni, bo mamy w³asne uk³ady.
 sbcstb044	Jakbyœ chcia³ trochê kawy, to tylko do nas przyjdziesz!
@@ -4913,7 +4913,7 @@ eddpla017	Jak chcesz.
 guypla029	Przepraszam.
 trppla008	Hej, ziom. Co tam?
 guypla030	A co tutaj chodzi?
-kahpla008	Jesteœmy sêdziami Konkursu Skoków do wody Wyspy Jambalaya.
+kahpla008	Jesteœmy sêdziami Konkursu Skoków do wody Wyspy Jambalaya™.
 eddpla018	Choæ dzisiaj bardziej przypomina cyrk ni¿ konkurs.
 trppla009	Ziom, nie wysy³aj do mnie negatywnych wibracji.
 guypla031	Ja te¿ bym chcia³ wzi¹æ udzia³ w takim konkursie.
@@ -5061,7 +5061,7 @@ jumkab006	Wiêc strzela w nas kulami armatnimi.
 jumkab007	Gdyby na tej pla¿y nie by³o tak wygodnie, pop³yn¹³bym do niego i powiedzia³bym co o nim myœlê.
 guykab005	Zapomnia³em:  DLACZEGO Casaba w was strzela?
 jumkab008	Bo jest paranoikiem z urojeniami.
-jumkab009	Za ka¿dym razem, kiedy widzi trzech lub wiêcej rozmawiaj¹cych piratów, myœli, ¿e planujemy inwazjê na Wyspê Jambalaya.
+jumkab009	Za ka¿dym razem, kiedy widzi trzech lub wiêcej rozmawiaj¹cych piratów, myœli, ¿e planujemy inwazjê na Wyspê Jambalaya™.
 jumkab010	Wiêc w nas strzela.
 guykab006	Czy zdajesz sobie sprawê, ¿e masz na ramionach parê papug?
 jumkab011	Naprawdê? Nie zauwa¿y³em.
@@ -5105,13 +5105,13 @@ jumkab033	Piraci ustawiali siê w niekoñcz¹cych siê kolejkach, ¿eby napluæ na jeg
 guykab022	Jeœli Tiny by³ tak wspania³ym piratem, to o co chodzi z tym przydomkiem 'Tiny, Przyjazny Pirat'?
 jumkab034	To ci bezduszni kretyni z Ozzie Mandrill Enterprises.
 jumkab035	U¿ywaj¹ imienia i postaci mojego ojca...
-jumkab036	...jako 'radosn¹' ikonê ich nowej 'przyjaznej rodzinie' wyspy Jambalaya.
+jumkab036	...jako 'radosn¹' ikonê ich nowej 'przyjaznej rodzinie' Wyspy Jambalaya™.
 guykab023	Te dupki!
 guykab024	Jesteœ pewien, ¿e nie by³eœ adoptowany?
 guykab025	W koñcu ty jesteœ taki wielki, a Tiny by³ taki...ma³y.
 jumkab037	Powinieneœ zobaczyæ moj¹ matkê.
 guykab026	Pewnie by³a du¿¹ kobiet¹?
-jumkab038	Mia³a na poœladku tatua¿ z Wysp¹ Ma³p.
+jumkab038	Mia³a na poœladku tatua¿ z Wysp¹ Ma³p™.
 guykab027	No i?
 jumkab039	'W skali jeden do jednego.'
 guykab028	Ewww.
@@ -5120,7 +5120,7 @@ jumkab040	Ja mu siê sta³em.
 guykab030	S³ucham?
 jumkab041	Doda³em trochê 'autentycznoœci' ich cennemu pomnikowi,
 jumkab042	Te lizusy Mandrilla oblali kapelusz mojego ojca br¹zem, a potem przyspawali go do pomnika.
-jumkab043	Rozwœcieczony przez to œwiêtokradztwo, zebra³em kilku piratów i najecha³em Wyspê Jambalaya.
+jumkab043	Rozwœcieczony przez to œwiêtokradztwo, zebra³em kilku piratów i najecha³em Wyspê Jambalaya™.
 jumkab044	Zanim zorientowali siê co siê dzieje, odzyska³em kapelusz mojego ojca, wróci³em do Atolu Knutyñskiego, i zakopa³em skarb!
 guykab031	Twój ojciec by³by dumny z twojego pirackiego mêstwa.
 jumkab045	Dziêki.  Niestety mój najazd sk³oni³ Mandrilla do zatrudnienia Casaby, ¿eby patrolowa³ wody knutyñskie..
@@ -5166,12 +5166,12 @@ opemig028	A dowodzik jest?
 guymig024	Nieeee...
 opemig029	Wiêc nie mogê ci daæ tych dobrych rzeczy...
 opemig030	Ale mogê ci zaproponowaæ niskoprocentowe grogowe napoje.
-opemig031	Zw¹ siê Grog Junior.
+opemig031	Zw¹ siê Grog Jr™.
 opemig032	Rozwijamy taki mikrogrogeryjny biznes dla ludzi takich jak ty.
 opemig033	Maj¹ troszkê alkoholu, og³usz¹ najwy¿ej chud¹ papugê!
 guymig025	No i co z tego?!
 opemig034	No to weŸ i spróbuj.
-guymig026	Grog Junior to najbardziej obrzydliwy napój jaki w ¿yciu pi³em...
+guymig026	Grog Jr™ to najbardziej obrzydliwy napój jaki w ¿yciu pi³em...
 guymig027	...ale daj mi jeszcze ³yka.
 opemig035	Sorka. Jeden klient - jeden kufel promocyjny.
 guymig028	A jak tam biznes?
@@ -5224,11 +5224,11 @@ macpla040	A dziêkujê. Bojê siê, ¿e moje zdolnoœci staj¹ siê zwyrodnia³e.
 guypla086	Pss. To by³ jeden z najlepszych skoków jakie w ¿yciu widzia³em.
 macpla041	A kim jesteœ, ¿e sprawiasz taki ból skokom do wody i samej trampolinie?
 guypla087	Jam Guybrush Threepwood! Potê¿ny Pirat!
-macpla042	Ah, pirat. To rzadkoœæ poznaæ pirata na Jambalaya w dzisiejszych czasach.
+macpla042	Ah, pirat. To rzadkoœæ poznaæ pirata na Wyspie Jambalaya™ w dzisiejszych czasach.
 guypla088	To prawda.
 macpla043	Panie Potê¿ny Pirat, a ja jestem Marco De Pollo, najlepszy skoczek do wody na œwiecie!
 guypla089	Jam Guybrush Threepwood, Potê¿ny Nurek!
-macpla044	Witamy na Wyspie Jambalaya, panie Threepwood.
+macpla044	Witamy na Wyspie Jambalaya™, panie Threepwood.
 macpla045	Jam Marco De Pollo, niepokonany i niezwyciê¿ony najlepszy skoczek do wody!
 guypla090	Jestem Threepwood...Guybrush Threepwood.
 guypla091	Moje imiê jest nieistotne.
@@ -5242,7 +5242,7 @@ guypla093	Naprawdê jesteœ najlepszym skoczkiem?
 macpla051	Tak. Spêdzi³em lata szukaj¹c po œwiecie kogoœ, kto móg³by pokonaæ mnie stylem skoku...
 macpla052	...bez efektów.
 guypla094	To straszne.
-guypla095	Co robisz na Wyspie Jambalaya?
+guypla095	Co robisz na Wyspie Jambalaya™?
 macpla053	Ah, to ciekawa historia.
 guypla096	A d³uga jest?
 macpla054	Jakiœ rok temu zrozpaczony zrozumia³em, ¿e nie znajdê równego sobie, i postanowi³em zdj¹æ k¹pielówki.
@@ -5343,7 +5343,7 @@ guyplt031	Wow, jaki ten œwiat ma³y, co nie?
 guyplt032	Hej, Murray.
 murplt003	Witam w Planecie Threepwood, najbardziej Z£EJ restauracji na Œwiecie!
 ptwplt001	Zamknij siê, Murray!
-guyplt033	Jak uda³o ci siê Uciec z Wyspy Ma³p?
+guyplt033	Jak uda³o ci siê Uciec z Wyspy Ma³p™?
 guyplt034	Ostatnio jak ciê widzia³em to siedzia³eœ na pó³ce w Zabawnie Demonicznym Parku LeChucka.
 murplt004	Arr. To d³uga historia pe³na z³a i okrutnoœci.
 guyplt035	Oczywiœcie.
@@ -5479,7 +5479,7 @@ guyplt082	Jak chcesz, to ci udowodniê.
 guyplt083	Po prostu zapytaj mnie o coœ, co tylko Guybrush mo¿e wiedzieæ!
 ptwplt012	Ok, jak nazywali siê twoi rodzice?
 guyplt084	No dobra, a TY, kim niby jesteœ?
-ptwplt013	Jestem Elaine Marley, Piracka Ksiê¿niczka Wyspy Szpady!
+ptwplt013	Jestem Elaine Marley, Piracka Ksiê¿niczka Wyspy Szpady™!
 guyplt085	Hej, skarbie, mo¿esz byæ moj¹ Elaine ka¿dego dnia.
 ptwplt014	Co?
 guyplt086	Nie, nic.
@@ -5680,7 +5680,7 @@ rivcpt013	Pan Mandrill uwa¿a, ¿e takie voodoo to przyczyna piractwa.
 guycpt053	Czy wiesz, ¿e tam przy brzegu p³ywa jakiœ koleœ co ma nie pokolei?
 rivcpt014	Mówisz o odwa¿nym Admirale Casaba?
 guycpt054	Odwa¿nym?
-rivcpt015	Sam, w pojedynkê œwietnie radzi sobie z mas¹ niegrzecznych piratów st¹d do samej Wyspy Jambalaya
+rivcpt015	Sam, w pojedynkê œwietnie radzi sobie z mas¹ niegrzecznych piratów st¹d do samej Wyspy Jambalaya™
 guycpt055	To frajer!
 rivcpt016	Najodwa¿niejsi mê¿czyŸni s¹ zawsze trochê pokrêceni, skarbie.
 guycpt056	Do widzenia.
@@ -5813,7 +5813,7 @@ guyall017	Moja kochana Elaine,
 guyall018	jeœli to czytasz, to ju¿ wysz³aœ za m¹¿ a ja jestem martwy.
 guyall019	Teraz, gdy w koñcu ustatkowa³aœ siê z nieustraszonym mê¿em piratem,
 guyall020	nadszed³ czas, abyœ upomnia³a siê o ostatnie elementy naszego dziedzictwa.
-guyall021	W Banku Wyspy Mamony znajdziesz depozyt pod moim nazwiskiem.
+guyall021	W Banku Wyspy Mamony™ znajdziesz depozyt pod moim nazwiskiem.
 guyall022	W skrzyni znajdziesz miêdzy innymi akt w³asnoœci posiad³oœci Marleyów.
 guyall023	Pilnuj go jak oka w g³owie.
 guyall024	Co wiêcej, skrzynia zawiera równie¿ prezenty œlubne dla ciebie.
@@ -5971,13 +5971,13 @@ guyscu004	Co pan powie na do³¹czenie do mej za³ogi potê¿nych piratów, panie Serz
 navscu068	I co, powiedz, móg³bym robiæ, gdybym do³¹czy³ do tej za³ogi potê¿nych piratów?
 guyscu213	Jesteœ pan pewny, ¿e nie chce do³¹czyæ do za³ogi potê¿nych piratów?
 navscu069	Nie wiem. Jakiego rodzaju piractwa bym uprawia³?
-guyscu214	Czy da³by siê pan jakoœ przekonaæ, aby nawigowaæ mój statek na Wyspê Mamony?
+guyscu214	Czy da³by siê pan jakoœ przekonaæ, aby nawigowaæ mój statek na Wyspê Mamony™?
 navscu006	Jestem otwarty na sugestie... Co masz na myœli?
-guyscu215	Czy nic by pana nie przekona³o, aby nawigowaæ mój statek na Wyspê Mamony?
+guyscu215	Czy nic by pana nie przekona³o, aby nawigowaæ mój statek na Wyspê Mamony™?
 guyscu008	Wyzywam pana na kolejn¹ rundê Zniewa¿ania na Rêkê, ty wielkoramienny œwirze!
 navscu007	Znakomicie! Wygrasz, a bêdê twym nawigatorem.
 guyscu217	Stoi.
-guyscu218	Nie mo¿e siê pan doczekaæ rejsu na Wyspê Mamony?
+guyscu218	Nie mo¿e siê pan doczekaæ rejsu na Wyspê Mamony™?
 navscu008	Aj... sama przyjemnoœæ ¿eglowaæ z tak subtelnym kpiarzem jak ty.
 guyscu219	Ale mam pan wielkie ramiona, panie Ser.
 navscu009	Najlepsze do Zniewa¿ania na Rêkê, panie Threepwood.
@@ -6029,10 +6029,10 @@ guyscu244	Szuka³by pan zatopionego skarbu z grup¹ bezwzglêdnych maszyn do zabija
 navscu030	£owy zatopionych skarbów s¹ dla z³odziei i nicponi, m³odzieñcze. Prawdziwi piraci TRZYMAJ¥ swoje skarby.
 guyscu245	Jak wspomina³em, bêdziemy przeczesywaæ dna w poszukiwaniu mokrych szekli.
 navscu031	Przykro mi, ale to brzmi durnie.
-guyscu246	Pop³yn¹³by pan na Wyspê Mamony z ekip¹ kretyñskich korsarzy, by spotkaæ siê z prawnikami mojej ¿ony.
+guyscu246	Pop³yn¹³by pan na Wyspê Mamony™ z ekip¹ kretyñskich korsarzy, by spotkaæ siê z prawnikami mojej ¿ony.
 navscu032	I TO brzmi jak misja warta zachodu dla Potê¿nego Pirata Nawigatora, takiego jak ja.
 guyscu247	Serio?
-navscu033	Aj. Morza wokó³ Wyspy Mamony s¹ bardzo zdradliwe, a poruszaæ siê po nich mo¿e tylko doœwiadczony ¿eglarz.
+navscu033	Aj. Morza wokó³ Wyspy Mamony™ s¹ bardzo zdradliwe, a poruszaæ siê po nich mo¿e tylko doœwiadczony ¿eglarz.
 navscu034	Chêtnie bym stawi³ temu czo³a, ale...
 guyscu248	Ale co?
 navscu035	Nie mogê.
@@ -6093,7 +6093,7 @@ navscu062	... piskliwe...
 navscu063	... zrzêdzenie.
 guyscu276	Nie mia³em pojêcia.
 navscu064	Wiêc daj mi znaæ, kiedy bêdziesz mia³.
-navluc001	No i jesteœmy, panie Marley. Wyspa Mamony.
+navluc001	No i jesteœmy, panie Marley. Wyspa Mamony™.
 guyluc001	Dziêki, panie Serze. Yy, czy nastêpnym razem nie moglibyœmy dostaæ sie tu z mniejszym dramatyzmem?
 otiluc001	Oh, nie. Nie planujemy bycia tu nastêpny raz, prawda?
 claluc053	Na pewno nie. O jeden raz za du¿o.
@@ -6129,7 +6129,7 @@ guyluc009	Nie bêdê pi³ z tej fontanny.
 guyluc010	Wow, Miasto Mamony ma w³asn¹ kanalizacjê!
 guyluc011	Jakie TO jest mi³e!
 guyluc164	Szkoda, ¿e nie mogê st¹d wejœæ do banku.
-guyluc165	Za³o¿ê siê, ¿e móg³byœ dostaæ siê do ka¿dej ³azienki na Wyspie Mamony tym wejœciem.
+guyluc165	Za³o¿ê siê, ¿e móg³byœ dostaæ siê do ka¿dej ³azienki na Wyspie Mamony™ tym wejœciem.
 guyluc166	Hej! To dzia³a jak Trampolina!
 guyluc015	Wow... ale g³êboka i ciemna dziura...
 guyluc016	pomijaj¹c ju¿ jak to œmierdzi.. PFEW!
@@ -6191,7 +6191,7 @@ guyluc213	Hej! Widzia³em takie same na naszym statku.
 guyluc214	Nie, Elaine by sie to nie podoba³o.
 guyluc215	S¹dzê, ¿e niebieski jest lepszym kolorem jak na statek.
 guyluc216	Hmmm. Mo¿e w³aœciciel tej ³odzi nie zauwa¿y, ¿e podmieni³em ten statek na moj¹ Drobn¹ Damê.
-guyluc217	Administracja Portu na Wyspie Mamony.
+guyluc217	Administracja Portu na Wyspie Mamony™.
 guyluc218	Lepiej, ¿ebym tam nie wchodzi³ i lepiej ¿eby nie widzieli jakich szkód narobi³ mój nawigator w ich porcie.
 guyluc219	Jacyœ faceci ze szkockim akcentem s¹ na tej ³odzi.
 guyluc220	Eh. Nie chcê niepokoiæ Szkotów na ich w³asnych ³odziach.
@@ -6224,7 +6224,7 @@ guyluc245	To drzwi do Domu Lasek.
 guyluc246	Bêdzie na to du¿o czasu PO TYM jak pójdê do biura prawników.
 guyluc247	To pó³ka z przek¹skami.
 guyluc248	Powinienem iœæ do biura prawników zanim cokolwiek kupiê.
-guyluc249	Bank Wyspy Mamony. To tu chowa siê ³up.
+guyluc249	Bank Wyspy Mamony™. To tu chowa siê ³up.
 guyluc250	Powinienem iœæ do biura prawników zanim bêdê chcia³ zdobyæ informacje o strategiach inwestycyjnych.
 guyluc251	Zamkniête.
 guyluc252	Pa³ac Protez
@@ -6925,7 +6925,7 @@ navgpt010	Uciek³a szybko jak tylko dotarliœmy do portu.
 guygpt048	Carla pije!
 navgpt011	Ale co w tym dziwnego. ma jak¹œ traumê depresyjn¹ po naszej wycieczce.
 guygpt049	Traumê?
-navgpt012	No. Ci¹gle coœ mruczy o Wyspie Ma³p.
+navgpt012	No. Ci¹gle coœ mruczy o Wyspie Ma³p™.
 guygpt050	Chcia³by pan mi pomóc w poszukiwaniu Talizmanu Upokorzenia?
 navgpt013	Brzmi jak dobra, stara, piracka zabawa, Kapitanie...
 navgpt014	... no, ale ja muszê posk³adaæ z czêœæ ten statek.
@@ -7285,7 +7285,7 @@ guycgs016	Sk¹d wziê³o siê imiê: 'Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara
 cascgs009	Od pokoleñ, na ca³ym œwiecie, ród Casaba sprawowa³ porz¹dek na morzach.
 cascgs010	W rezultacie czego dzisiaj mamy tak eklektyczny wybór nazwisk.
 guycgs017	Co ty tutaj robisz?
-cascgs011	Mam przydzielone sprawowaæ ochronê interesów handlowych Ozziego Mandrilla na ca³ym terenie Wyspy Jambalaya
+cascgs011	Mam przydzielone sprawowaæ ochronê interesów handlowych Ozziego Mandrilla na ca³ym terenie Wyspy Jambalaya™
 cascgs012	W tym celu muszê odnajdywaæ wszystkich piratów-œmieci i transportowaæ je na wysypisko, czyli Atol Knutyñski.
 cascgs013	Pozostan¹ tam, a¿ stan¹ siê produktywnymi cz³onkami spo³eczeñstwa.
 guycgs018	A jak du¿o piratów kiedykolwiek powróci³o z powrotem na Jambalaya?
@@ -7333,7 +7333,7 @@ guymob002	<smar><smark> Ta wyspa pachnie jakoœ znajomie.
 guymob003	Ugh, tylko jedna wyspa pachnie tak Ÿle...
 guymob004	....oh nie!
 guymob005	Te dwa chciwe potwory zostawi³y mnie na brzegu...
-guymob006	...Wyspy Ma³p.
+guymob006	...Wyspy Ma³p™.
 guymob007	No có¿. Ja siê poddajê.
 guymob008	Nigdy nie pokonam tej niekoñcz¹cej siê przeszkody.
 guymob009	To tak jakby ca³e moje ¿ycie krêci³o siê wokó³ serii nierozwi¹zywalnych...zagadek.
@@ -7351,7 +7351,7 @@ guymob020	Podpisane H.T.
 guymob021	"H.T. - P.S: Szukaj w kopalni"
 guymob022	"Powstrzymaj ich. Za jednym razem. Twoje wykopaliska s¹ przyczyn¹ utkwienia na naszej œwiêtej wyspie."
 guymob023	Podpisane JJJ.
-guymob024	"Do wszystkich tych, co boj¹ siê LeChucka na Wyspie Ma³p"
+guymob024	"Do wszystkich tych, co boj¹ siê LeChucka na Wyspie Ma³p™"
 guymob025	"Serdecznie zapraszamy na grê w bingo w naszym koœció³ku w ka¿dy wtorek o pó³nocy"
 guymob026	"Wszyscy mile widziani"
 guymob027	Podpisane Ojciec Rasputin, CoL, Prawos³awie.
@@ -7465,7 +7465,7 @@ jojmon018	Czeœæ zwyciêstwa jest twoja, Guybrushu, podobnie jak mój br¹zowy kapel
 jojmon019	Opiekuj siê nim: jest wyj¹tkowy.
 guytoc001	Herman!
 hertoc001	Gdzie?
-guytoc002	Tu! Herman Zgni³yz¹b, pustelnik Wsypy Ma³p!
+guytoc002	Tu! Herman Toothrot, pustelnik Wyspy Ma³p™!
 hertoc002	Ja? A ty to kto?
 guytoc003	Herman?
 hertoc003	Skoro tak mówisz.
@@ -7473,7 +7473,7 @@ guytoc004	Coœ nie tyka z twoj¹ pamiêci¹.
 hertoc004	Tak? Nie pamiêtam.
 guytoc005	Ju¿ u ciebie lepiej z pamiêci¹?
 hertoc005	Nie pamiêtam w sumie.
-guytoc006	Co tam s³ychaæ na Wyspie Ma³p?
+guytoc006	Co tam s³ychaæ na Wyspie Ma³p™?
 hertoc006	To jest wyspa?
 guytoc007	Potrzebujê pomocy.
 hertoc007	Ja utraci³em pamiêæ, a on chce MOJEJ pomocy.
@@ -7505,7 +7505,7 @@ hertoc020	Dalej ni¿ obudzi³em siê na hamaku? Nie.
 guytoc020	Chyba zg³êbimy mroczne tajemnice twojej pamiêci nieco póŸniej.
 hertoc021	Jak chcesz. Heh heh.
 guytoc021	Pamiêtasz gdzie zaparkowa³eœ statek?
-guytoc022	Al ja NAPRAWDÊ muszê wróciæ na Wyspê Szpady.
+guytoc022	Al ja NAPRAWDÊ muszê wróciæ na Wyspê Szpady™.
 hertoc022	Mam statek? Myœla³em, ¿e jestem pustelnikiem.
 guytoc023	No tak, ale...
 hertoc023	A masz komórkê?
@@ -7539,7 +7539,7 @@ hertoc037	Czyli mn¹.
 guytoc037	Jak z pamiêci¹?
 hertoc038	Nie wiem. Zapytaj mnie o coœ?
 hertoc039	Rzeczy?  Jakie rzeczy?
-guytoc038	Chcia³bym pos³uchaæ wiêcej o tym, co siê dzieje na Wyspie Ma³p.
+guytoc038	Chcia³bym pos³uchaæ wiêcej o tym, co siê dzieje na Wyspie Ma³p™.
 hertoc040	Jak chcesz.
 hertoc041	Powiem tyle, patrz¹c na ciebie.
 hertoc042	Na pewno.
@@ -7588,9 +7588,9 @@ guytoc057	Jak tam wykopaliska?
 hertoc066	Musia³em przestaæ.
 guytoc058	Czemu?
 hertoc067	Natrafi³em na wielk¹, metalow¹ œcianê.
-guytoc059	Pod Wysp¹ Ma³p jest metalowa œciana?
+guytoc059	Pod Wysp¹ Ma³p™ jest metalowa œciana?
 hertoc068	No. Dziwne.
-guytoc060	Jeœli chodzi o nieprzepuszczaln¹ barierê pod Wysp¹ Ma³p...
+guytoc060	Jeœli chodzi o nieprzepuszczaln¹ barierê pod Wysp¹ Ma³p™...
 hertoc069	Nie przypominaj mi.
 hertoc070	Ca³e to z³oto, nie do wydobycia.
 hertoc071	(sob)
@@ -7606,7 +7606,7 @@ hertoc077	Potrzebuje nowych zainteresowañ
 guytoc064	Wiec s¹dzisz, ¿e ten duch jest nieszkodliwy?
 hertoc078	Jasne.
 hertoc079	Tylko jedna rzecz jest w nim przera¿aj¹ca - te "Anty LeChuckowe" symbole, które wszêdzie wywiesza.
-guytoc065	Ju¿ nie chce gadaæ o Wyspie Ma³p.
+guytoc065	Ju¿ nie chce gadaæ o Wyspie Ma³p™.
 hertoc080	Okey-Dokey.
 guytoc066	Zabawki?
 hertoc081	Z³oto!
@@ -7616,7 +7616,7 @@ hertoc084	Mia³em nawet poz³acany zbierak bananów.
 guytoc067	Po co pustelnikowi z³oto?
 hertoc085	Dla bezpieczeñstwa. Dziêki niemu pustelnik ma ¿ycie na wysokim poziomie, nawet jeœli pójdzie na emeryturê!
 guytoc068	Nugatowe centrum?
-guytoc069	PRAWDZIWY Sekret Wyspy Ma³p
+guytoc069	PRAWDZIWY Sekret Wyspy Ma³p™
 guytoc070	Skrypt Drugiego Odcinka?
 hertoc086	Auu!
 hertoc087	Chcesz mnie zabiæ, rasisto.....
@@ -7640,10 +7640,10 @@ hertoc099	No. Trochê tam nudno by³o...
 hertoc100	...park rozrywki stercz¹cy na prawie bezludnej wyspie, praktycznie pustka.
 guytoc076	Zacz¹³em siê nawet zastanawiaæ!
 hertoc101	Ale to w koñcu LeChuck....jego paskudne dzie³o, nie za dobre.
-guytoc077	Pamiêtasz Wyspê S³odu?
+guytoc077	Pamiêtasz Wyspê Dinky™?
 hertoc102	Chcia³bym zapomnieæ.
 hertoc103	Nadal nie wiem jak tam wyl¹dowa³em.
-guytoc078	LeChuck powiedzia³ mi, ¿e istnieje tunel pomiêdzy wyspami S³odu i Ma³p.
+guytoc078	LeChuck powiedzia³ mi, ¿e istnieje tunel pomiêdzy wyspami Dinky i Ma³p™.
 hertoc104	Tak? Czy coœ to przebijê...
 guytoc079	Pamiêtasz jaskiniê pod Wielk¹ Ma³pi¹ G³ow¹?
 hertoc105	Tak. "Miêsna Jaskinia". Heh heh heh heh.
@@ -7653,12 +7653,12 @@ hertoc108	Du¿o pamiêtam.
 hertoc109	Szczególnie dobrze jakiegoœ smarka, który nie pozwala³ biednemu pustelnikowi nacieszyæ siê spokojem i cisz¹.
 hertoc110	To by dawno.
 guytoc080	Spróbuj.
-hertoc111	Hmmm...Pamiêtam... jakieœ dwadzieœcia lat. temu.... Jestem wyrzucany na brzeg Wyspy Ma³p.
+hertoc111	Hmmm...Pamiêtam... jakieœ dwadzieœcia lat. temu.... Jestem wyrzucany na brzeg Wyspy Ma³p™.
 hertoc112	...g³owa mnie bola³a....
 hertoc113	Obok mnie na pla¿y le¿a³ jaki akordeon.
 guytoc081	Akordeon?
 hertoc114	No. Nawet stara³em siê na nim zagraæ, ale nie umia³em, wiêc wyrzuci³em go do chwastów.
-guytoc082	Czyli nie pamiêtasz nic co siê dzia³o przed tym jak wyl¹dowa³eœ na brzegu Wyspy Ma³p?
+guytoc082	Czyli nie pamiêtasz nic co siê dzia³o przed tym jak wyl¹dowa³eœ na brzegu Wyspy Ma³p™?
 guytoc083	Przeanalizujmy twój stan umys³u po tym.
 guytoc084	To TERAZ wiesz gdzie masz swój statek?
 hertoc115	Teraz tak.
@@ -7669,7 +7669,7 @@ hertoc118	...to nie ma ¿adnego sensu.
 hertoc119	Wiêc, w duchu prawdziwego pustelnika, zatopi³em go.
 guytoc086	No to....eh...super.
 guytoc087	Teraz muszê znaleŸæ jaki INNY sposób wydostania siê z tej bujnie tropikalnej, rajskiej, wyspy.
-guytoc088	Nie znasz jakiegoœ innego sposobu na wydostanie siê z Wyspy Ma³p, prawda?
+guytoc088	Nie znasz jakiegoœ innego sposobu na wydostanie siê z Wyspy Ma³p™, prawda?
 hertoc120	Nie wiem i nie chce wiedzieæ.
 hertoc121	Teraz mam ca³y pustelniczy etat!
 guytoc089	Oj.
@@ -7714,7 +7714,7 @@ guytoc105	Jak stara?
 hertoc144	To ma³pia paplanina.
 guytoc106	Jêzyk Talizmanu to zwyk³a ma³pia paplanina?
 hertoc145	No. Staro¿ytne to, nie?
-guytoc107	Eh, wiêc to dobrze, ¿e jesteœ na Wyspie Ma³p.
+guytoc107	Eh, wiêc to dobrze, ¿e jesteœ na Wyspie Ma³p™.
 guytoc108	Nie do koñca rozumiem jak przeciwdzia³aæ Talizmanowi Upokorzenia.
 hertoc146	Jezu, moja wnusia musi mieæ niez³e piek³o z tob¹.
 hertoc147	S³uchaj uwa¿nie, ch³opcze:
@@ -7746,14 +7746,14 @@ guymon022	TO bardzo g³êbokie, ale nie wiem co ty do mnie mówisz.
 jojmon027	Dobrze jest coœ chcieæ.
 guymon023	Chcê st¹d uciec. Pomo¿esz mi czy nie?
 jojmon028	Nie mam ³odzi, jeœli o to pytasz.
-guymon024	Œwietnie. Wiêc jak mam wróciæ na Wyspê Szpady bez statku?
-jojmon029	Wszyscy opuszczaj¹cy Wyspê Ma³p odnaleŸli swoj¹ drogê.
+guymon024	Œwietnie. Wiêc jak mam wróciæ na Wyspê Szpady™ bez statku?
+jojmon029	Wszyscy opuszczaj¹cy Wyspê Ma³p™ odnaleŸli swoj¹ drogê.
 jojmon030	Mam przeczucie, ¿e twoja droga bêdzie wyj¹tkowa.
 jojmon031	Ewentualnie, znowu zg³odnia³em.
-guymon025	Masz jakieœ mniej mgliste wskazówki, na temat wyjœcia z tej wyspy-pu³apki?
+guymon025	Masz jakieœ mniej mgliste wskazówki, na temat wyjœcia z Wyspy Ma³p™?
 guymon026	Brak danych?
 jojmon032	Tak. Nic a nic.
-guymon027	Od kiedy jest tak du¿o ma³p na Wyspie Ma³p?
+guymon027	Od kiedy jest tak du¿o ma³p na Wyspie Ma³p™?
 jojmon033	Od Wielkiego Posiedzenia.
 guymon028	Wielkiego Posiedzenia? O czym ty mówisz?
 jojmon034	Przestañ szczekaæ, niecierpliwcze, to ci powiem.
@@ -7975,13 +7975,13 @@ pricol058	Co siê gryzie, synu?
 guycol045	Trudno mi o tym mówiæ. Wychodzê.
 pricol059	Das Vedanya.
 guycol046	Muszê siê jakoœ wydostaæ z tej wyspy.
-pricol060	Nie ma Ucieczki z Wyspy Ma³p.
+pricol060	Nie ma Ucieczki z Wyspy Ma³p™.
 guycol047	Nie prawda. Ju¿ ucieka³em st¹d co najmniej dwa razy.
 pricol061	W takim razie czemu i tym razem nie poradzisz sobie sam, panie M¹dralo?
 guycol048	Teraz nie mogê.
 pricol062	 
-guycol049	Wci¹¿ pragnê Ucieczki z Wyspy Ma³p.
-pricol063	Ju¿ mówi³em, ¿e nie ma Ucieczki z Wyspy Ma³p.
+guycol049	Wci¹¿ pragnê Ucieczki z Wyspy Ma³p™.
+pricol063	Ju¿ mówi³em, ¿e nie ma Ucieczki z Wyspy Ma³p™.
 pricol064	Nawet w s³odkich objêciach œmierci.
 guycol050	To demotywuj¹ce.
 guycol051	Szukam antidotum na Talizman Upokorzenia.
@@ -8071,7 +8071,7 @@ guyall219	Nie tutaj!
 guyall220	Dobry pomys³... Szkoda, ¿e projektanci o tym nie pomyœleli.
 guyall221	Nie, zbyt oczywiste.
 guyall222	Mogê wymyœliæ milion zastosowañ dla tego przedmiotu... szkoda, ¿e projektanci nie chc¹, ¿ebym go mia³.
-chagme016	Ale mo¿esz nazywaæ mnie nastêpnym gubernatorem!
+chagme016	Ale mo¿esz nazywaæ mnie nastêpnym gubernatorem Wyspy Szpady™!
 guyall223	Ah, urocza pani Threepwood.
 wailua043	Hej! Hej! Nie dotykaæ!
 wailua044	To z drogiej kolekcji.
@@ -8126,7 +8126,7 @@ hertoc158	Gadzooks!  Gdzie jest moja wnuczka!
 hertoc159	Z powodu jednego sekretu, którego nie wyjawi³em Ozziemu, zanim próbowa³ mnie zabiæ.
 hertoc160	Jasne, ¿e nie! Mówiê o tajemnicy czwartego elementu Talizmanu Upokorzenia!
 hertoc161	To TO!
-hertoc162	To oficjalna Pieczêæ Gubernatora Wyspy Szpady. Jedna z wielu.
+hertoc162	To oficjalna Pieczêæ Gubernatora Wyspy Szpady™. Jedna z wielu.
 hertoc163	Dobry gubernator zawsze ma przy sobie zapas na wypadek zgubienia orygina³u.
 hertoc164	Pieczêæ jest kluczem do odblokowania przera¿aj¹cej mocy Talizmanu Upokorzenia; bez niej to tylko zabawne marakasy.
 hertoc165	Guybrushu, to bardzo wa¿ne: gdzie jest druga Pieczêæ Gubernatora?
@@ -8232,7 +8232,7 @@ guystb113	Poza tym mój poranny horoskop mówi: "Uwa¿aj na nowe zainteresowania, n
 guystb114	Cokolwiek to znaczy.
 guystb115	Super!
 guystb116	To taca pe³na mini bajgli z jakimœ papkowatym ohydztwem.
-guystb117	Mini bajgle z Schmear Whiz.
+guystb117	Mini bajgle z Schmear Whiz™.
 guystb118	Ju¿ je mam.
 guystb119	Nie!  Ostatni by³ NAPRAWDÊ obrzydliwy!
 guystb120	Nie oferujecie darmowych dolewek, prawda?
@@ -8347,12 +8347,12 @@ guytoc111	Dziadek?
 guytoc112	Tak siê nie rozmawia. Bêdziemy musieli wspó³pracowaæ, aby pokonaæ Ozziego i LeChucka.
 guytoc113	Powiedzia³em LeChuck? Myœla³em "Ozzie i jego kacza".
 guytoc114	Jeœli przez "zaanga¿owany" rozumiesz "pracuj¹cy ramiê w ramiê z Ozziem, by zniszczyæ piracki styl ¿ycia, jaki znamy", to tak.
-guytoc115	W³aœciwie to nowy gubernator Wyspy Szpady.
-guytoc116	Sekret Wyspy Ma³p?
-guytoc117	PRAWDZIWY Sekret Wyspy Ma³p?
+guytoc115	W³aœciwie to nowy gubernator Wyspy Szpady™.
+guytoc116	Sekret Wyspy Ma³p™?
+guytoc117	PRAWDZIWY Sekret Wyspy Ma³p™?
 guytoc118	Sekret Zagubionych Gaci?
 guytoc119	Sekret Dojenia W¹tpliwie Popularnej Serii Gier Wideo?
-guytoc120	Ten, który mia³ zwi¹zek z gubernatorstwem Wyspy Szpady? Zastanawia³em siê nad tym. Czym on jest?
+guytoc120	Ten, który mia³ zwi¹zek z gubernatorstwem Wyspy Szpady™? Zastanawia³em siê nad tym. Czym on jest?
 guytoc121	Mo¿e potrzebny nam plan awaryjny.
 guyjam001	Aiiee!
 guyjam002	I TO jest miasto piratów!
@@ -8427,8 +8427,8 @@ sbcstb056	Ci¹gle masz pe³no.
 sbcstb057	Hej, czekaj. Zdajesz sobie sprawê, ¿e to jest p³atne?
 sbcstb058	Pyszna mieszanka topionego sera i nutki ³ososia pokryta genialnym kremem cukrowym.
 sbcstb059	Mamy dzisiaj darmow¹ promocje, na spróbowanie, nie ¿a³uj sobie.
-sbcstb060	Pyszny krem na ciasteczkach typu Schmear Whiz.
-sbcstb061	Ten przepyszny mini bajgiel ma na sobie Schmear Whiz firmy StarBuccaneer.
+sbcstb060	Pyszny krem na ciasteczkach typu Schmear Whiz™.
+sbcstb061	Ten przepyszny mini bajgiel ma na sobie Schmear Whiz™ marki StarBukanier™.
 sbcstb062	To jest pami¹tka, nie kubek na kawê.
 googme099	Hej! Z drogi!
 googme100	Tak, tak, sekundkê...
@@ -8484,7 +8484,7 @@ el1gmi067	Tak?
 el1gmi068	To nie czas na przekomarzanki, Guybrush.
 el1all001	Guybrush! Co ja ci mówi³am o piciu grogu!
 el1all002	Guybrushu Ulysusie Threepwood!
-el1mel045	Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady, moje imiê Elaine Marley i startuje w wyborach.
+el1mel045	Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady™, moje imiê Elaine Marley i startuje w wyborach.
 el1mel046	Ostatnio dowiedzia³am siê, ¿e mój przeciwnik, Charles L. Charles,
 el1mel047	to nikt inny jak Demoniczny Zombie o imieniu LeChuck.
 el1mel048	Czy Szpada na naprawdê potrzebuje Trupich Legionów maszeruj¹cych pod nadzorem tego Zombie?
@@ -8745,8 +8745,8 @@ guyplt144	Te rzeczy ju¿ mi narobi³y doœæ k³opotów.
 guyplt145	Ciekawe czy Murray wie, ¿e maj¹ jego rêkê na wystawie.
 guyplt146	O...mój...Bo¿e.
 guyplt147	Ktoœ ukrad³ moje oryginalne ciuchy z mojej szafy!!!
-guyplt148	LucasArts musia³ po³o¿yæ na wszystkim swoje odciski.
-guyplt149	Mam przeczucie, ¿e LucasArts kontroluje wszystko co siê dzieje na Archipelagu Tri-Island...
+guyplt148	LucasArts™ musia³ po³o¿yæ na wszystkim swoje odciski.
+guyplt149	Mam przeczucie, ¿e LucasArts™ kontroluje wszystko co siê dzieje na Archipelagu Tri-Island...
 guyplt150	Chyba ju¿ nic ciekawszego nie znaleŸli po tym jak ukradli mi moje ciuchy.
 guyplt151	Moje imiê jest na tym...tak jak na mojej bieliŸnie.
 guyplt152	Mam ju¿ ubrania.
@@ -8817,13 +8817,13 @@ guylav017	Prowadzi prosto na resztê wyspy.
 guycan001	Zastanawiam siê jak te ska³y maj¹ utorowaæ mi drogê?
 guycan002	Tak siê koñczy szalona jazda.
 guycan003	To jest ZA CIÊ¯KIE.
-guycan004	To musz¹ byæ ska³y osadowe, które kiedyœ tkwi³y pod wod¹ w kanionie, ale zosta³y wytopione w czasach prehistorycznych Wyspy Ma³p.
+guycan004	To musz¹ byæ ska³y osadowe, które kiedyœ tkwi³y pod wod¹ w kanionie, ale zosta³y wytopione w czasach prehistorycznych Wyspy Ma³p™.
 guycan005	Nie znam siê na wykopaliskach archeologicznych.
 guycan006	To na pewno poleci daleko.
 guycan007	To wejœcie do szybu kopalni.
 guycan008	Ale tu du¿o ciep³a wydobywaj¹cego siê z kopalni.
 guycan009	Nie wchodzê w ¿adn¹ jaskiniê, która jest tak gor¹ca i œmierdzi jak zgni³e jaja.
-guycan010	Œcie¿ka prowadzi na Wyspê Ma³p.
+guycan010	Œcie¿ka prowadzi na Wyspê Ma³p™.
 guycan011	Tam jest du¿o p³askiego terenu.
 guycan012	To tylko pusty kanion, strat¹ czasu by³oby go bezsensu badaæ.
 guycgs025	Skierowane na pla¿e.
@@ -8842,11 +8842,11 @@ guycpt074	Podwodny piach.
 guycpt075	W po³owie spalony.
 guycpt076	Jego dni s¹ policzone.
 guycpt077	"Pla¿a Knutyñska: 1 kilometr"
-guycpt078	"Wyspa Jambalaya: 3 kilometry"
+guycpt078	"Wyspa Jambalaya™: 3 kilometry"
 guycpt079	"Bier Halle: 7921 kilometrów"
 guycpt080	Na upór nie ma lekarstwa...
 guycpt081	¯aden pirat tego nie za³o¿y!
-guycpt082	To ³ódka, któr¹ przyp³yn¹³em z Wyspy Jambalaya.
+guycpt082	To ³ódka, któr¹ przyp³yn¹³em z Wyspy Jambalaya™.
 guycpt083	"W razie po¿aru, w³¹cz alarm"
 guycpt084	Wiêc po co TERAZ?
 guycpt085	Nie róbcie tego w domu, dzieci.
@@ -8862,10 +8862,10 @@ guycpt094	Nie, zmarnuje mu ¿ycie.
 guycpt095	Lalk¹ tego nie trzeba.
 guycpt096	Przystojny, ma³y facet.
 guycpt097	A myœla³em, ¿e jestem za chudy.
-guycpt098	W¹tpiê, ¿eby podoba³a mu siê mapa Wyspy Jambalaya.
+guycpt098	W¹tpiê, ¿eby podoba³a mu siê mapa Wyspy Jambalaya™.
 guycpt099	Ciekawe co taka ma³a, stara pani robi w takim brudnym, pirackim mieœcie.
 guyuch028	Ten przycisk jakby krzyczy do mnie "Naciœnij mnie!"
-guyall273	Jedna z wielu ma³pek ¿yj¹cych na Wyspie Ma³p.
+guyall273	Jedna z wielu ma³pek ¿yj¹cych na Wyspie Ma³p™.
 guyall274	Masz, weŸ banana...
 guyall275	O, ma³pa, ma³pa, ma³pa...
 guyall276	O, patrz co mam...
@@ -8891,7 +8891,7 @@ guykab120	Nic tu nie ma, poza nieprzeniknion¹ d¿ungl¹.
 guykab121	Na Œwiêt¹ Ma³pê, ale tu kamieni....
 guykab122	Jakim sposobem znajdê ten jeden?
 guykab123	Ta œcie¿ka prowadzi na resztê Atolu Knutyñskiego.
-guyjun001	Têdy wrócê na Wyspê Ma³p.
+guyjun001	Têdy wrócê na Wyspê Ma³p™.
 guylum004	Ale przera¿aj¹ca posiad³oœæ.
 guylum005	S¹dzê, ¿e ka¿dy szanuj¹cy siê pirat powinien mieæ kawa³ek bagien na swoim terenie.
 guypac001	Zostawiê ten kamieñ w spokoju bo jeszcze przepukliny dostanê.
@@ -8901,7 +8901,7 @@ guypac004	To kamieñ!
 guypac005	Lepiej siê obejrzê gdzie chcê go wrzuciæ.
 guypac006	To chyba najlepszy sposób jak je utylizowaæ.
 guypac007	To niezwyk³y kana³ prowadz¹cy na t¹ stronê klifu.
-guypac008	Têdy wrócê na Wyspê Ma³p.
+guypac008	Têdy wrócê na Wyspê Ma³p™.
 guypac009	Myœlê, ¿e muszê zrobiæ z tymi kamieniami coœ, zanim zrobiê im co innego.
 guypac010	Hmph.  Obawiam siê, ¿e ju¿ nie ma wiêcej kamieni na ziemi.
 guypta055	Ummm...
@@ -9051,11 +9051,11 @@ guymib005	Nie dosiêgnê jej st¹d.
 guymib006	Mam jednego!
 guymib007	OOOoof!
 guymib008	Ah, morze. Dawca ¿ycia. Niszczyciel statków. Dom ryb.
-guymib009	Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by p³yn¹æ kraulem na Wyspê Szpady.
-guymib010	Biedna, ma³a rozgwiazda pozostawiona na brzegu suchej pla¿y na Wyspie Ma³p.  ¯ebym sam nie musia³ dzieliæ jej losu.
+guymib009	Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by p³yn¹æ kraulem na Wyspê Szpady™.
+guymib010	Biedna, ma³a rozgwiazda pozostawiona na brzegu suchej pla¿y na Wyspie Ma³p™.  ¯ebym sam nie musia³ dzieliæ jej losu.
 guymib011	To nie m¹drze, przeszkadzaæ zmar³ym.
 guymib012	Wow, dobrze ¿e przypadkowo nie zgniot³em Timmiego.
-guymib013	Œcie¿ka prowadzi w tajemnicz¹ otch³añ Wyspy Ma³p.
+guymib013	Œcie¿ka prowadzi w tajemnicz¹ otch³añ Wyspy Ma³p™.
 guymon092	To chyba nie jest takie proste.
 guyall320	Ma³a spakowana g¹bka.
 guyall321	Spakowana g¹bka.
@@ -9114,7 +9114,7 @@ guygpt083	"Zakniête - teren prywatny"
 guygpt084	Nie dziêki. Mam ju¿ doœæ prywatnych pla¿ po ostatniej wycieczce.
 guygpt085	Wynajem kajaków.
 guygpt086	Nie mam ¿adnej kasy, ¿eby pop³ywaæ.
-guygpt087	"Witamy na Wyspie Jambalaya"
+guygpt087	"Witamy na Wyspie Jambalaya™"
 guygpt088	Ten znak jest ODJECHANY w kosmos.
 guygpt089	O Mój Bo¿e. To Plexus LVX300 wersja limitowana" Nie ma to jak dobre wra¿enie.
 guygpt090	Mimo, ¿e kradzie¿ statków to moje hobby, mam teraz wa¿niejsze rzeczy do robienia.
@@ -9122,7 +9122,7 @@ guygpt091	Nie umiem graæ w siatkówkê.
 guygpt092	Pi³ka zawsze omija moje d³onie i l¹duje prosto na mojej twarzy.
 guygpt093	Prawdziwi piraci nie graj¹ w siatkê.
 guygpt094	Oczywiœcie to haki i ³atki na oczy sk³oni³y piratów do tego, ¿eby nie bawiæ sie w sport i ró¿nych innych nadmuchiwanych rzeczy.
-guygpt095	"Kawa Starbuccaneera", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni.
+guygpt095	"Kawa StarBukaniera™", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni.
 guygpt096	"Mikrogroggeria."
 guygpt097	Osobiœcie preferuje grog w rozmiarze giga.
 guygpt098	Oooh. Piêkny kwiatek.
@@ -9133,11 +9133,11 @@ guygpt102	"Dodane sk³adniki od¿ywcze dadz¹ ci du¿o energii ( i zapobiega szkorbu
 guygpt103	Jasne, wy³ó¿cie wielk¹ beczkê darmowych kuponów na posi³ek z Ma³pim Kubkiem PO tym, jak zada³em sobie tyle trudu, aby go zdobyæ.
 guygpt104	Zrobiê to w swoim czasie.
 guygpt105	Drzwi prowadz¹ prosto do Mikrogroggerii.
-guygpt106	Drzwi prowadz¹ prosto do Starbuccaneera.
+guygpt106	Drzwi prowadz¹ prosto do Starbukaniera™.
 guygpt107	Drzwi prowadz¹ prosto do Planety Threepwood.
 guygpt108	Têdy idzie siê na wyspê.
-guytoc122	Kto by pomyœla³, ¿e Herman Zgni³yz¹b to prawdziwy Dziadek Marley?
-guytoc123	Stary Herman Zgni³yz¹b, pustelnik Wyspy Ma³p.
+guytoc122	Kto by pomyœla³, ¿e Herman Toothrot to prawdziwy Dziadek Marley?
+guytoc123	Stary Herman Toothrot, pustelnik Wyspy Ma³p™.
 guytoc124	Nie, ju¿ mu przywali³em z kokosa.
 guytoc125	Nie, ju¿ mu rozwali³em na czuprynie z butelki mleka.
 guytoc126	Nie, ju¿ dosta³ ode mnie z akordeonu.
@@ -9153,7 +9153,7 @@ guytoc135	Eugh. Po wra¿eniach z Lua Baru i Sklepu z przynêtami na Mamonie, nie c
 guytoc136	Ciekawe sk¹d to wielkie ko³o przyby³o.
 guytoc137	£odzie generalnie nie maj¹ kó³.
 guytoc138	Wydaje mi siê, ¿e ta szopa zosta³a zbudowana z kad³uba jakieœ starej ³odzi.
-guytoc139	Œcie¿ka prowadzi na resztê Wyspy Ma³p.
+guytoc139	Œcie¿ka prowadzi na resztê Wyspy Ma³p™.
 guyall345	To para starych, drewnianych kolczyków.
 guyall346	No i s¹ ró¿owe.
 guyall347	Nie, chyba nie pasuj¹ do mojego fasonu.
@@ -9167,7 +9167,7 @@ guyall354	Musia³o mu siê coœ przekrêciæ kiedy le¿a³ w skrzyni... Nie mogê uwierz
 guyall355	Muszê mieæ na czym pisaæ.
 guyall356	Kiedy przychodzi co do czego to nie umiem malowaæ.
 guyall357	Na jednej stronie mam mapê, a na drugiej stroniê zdjêcie Talizmanu Upokorzenia.
-guyall358	To dzie³o Meathooka, przerobione tak, aby wskazywa³o drogê na Wyspê Jambalaya.
+guyall358	To dzie³o Meathooka, przerobione tak, aby wskazywa³o drogê na Wyspê Jambalaya™.
 guyall359	To obraz Meathooka pt. "Zimny okres" przestawiaj¹cy  coœ co przypomina mi ca³y Archipelag Tri-Island.
 guyall360	Hmmm....
 guyall361	Bez komentarza.
@@ -9190,8 +9190,8 @@ guyall377	Po pracy pójdê bo muszê to mieæ, ale nie ma mowy ¿ebym siê z tego napi
 guyall378	Myœlê, ¿e zauwa¿yliby, gdybym po prostu wyrwa³ ich ukochany Ma³pi Kubek i uciek³ z nim.
 guyall379	Mo¿e i wygl¹daj¹ podobnie, ale na pewno nie s¹ a¿ tak g³upi.
 guyall380	Ha, jestem ju¿ w dwóch-trzecich mojej drogi do w³asnego Talizmanu Upokorzenia.
-guyall381	To tylko pusty kufel Grogoccino Starbuccaneera
-guyall382	To kufel zimnego Grogoccino Starbuccaneer.
+guyall381	To tylko pusty kufel Grogoccino ze Starbukaniera™
+guyall382	To kufel zimnego Grogoccino ze Starbukaniera™.
 guyall383	Woooohooo!
 guyall384	Pogadajmy o  "objawieniu"! Czujê siê jakbym wypi³ ca³¹ plantacje kofeiny wliczaj¹c w to hodowców!
 guyall385	Ohh. Mo¿e to groggocino mi siê odbija.
@@ -9217,7 +9217,7 @@ guyall404	Hmm ... to mi brzmi jak papuga.
 guyall405	Mam nadziejê, ¿e nie zbiorê tutaj wszystkich papug na wyspie.
 guyall406	"Dobre strony kary œmierci"
 guyall407	"Wredne odpowiedzi na g³upie obelgi"
-guyall408	"Wyspa Ma³p na stojaka czyli ¿arty miesi¹ca w SCABB"
+guyall408	"Wyspa Ma³p™ na stojaka czyli ¿arty miesi¹ca w SCABB"
 guyall409	"Kapitan Sergio - Ma³o Œmieszny Kolekcjoner"
 guyall410	"Wiesz co, a twoja mama jest jak..."
 guyall411	Ale tego du¿o.
@@ -9336,7 +9336,7 @@ guyall491	Na g³owê ma³py ze srebra, czapkê z br¹zu i cz³owieka ze z³ota.
 guyall492	Ciekawe jak to dzia³a.
 guyall493	Jeœli bêdê rozdawa³ na lewo i prawo plany zdobycia Talizmanu Upokorzenia to ktoœ go stworzy przede mn¹.
 guyall494	Tylko ja mogê tak siê cieszyæ obrazem.
-guyall495	To nie potrzebuje obrazu z map¹ na Wyspê Jambalaya.
+guyall495	To nie potrzebuje obrazu z map¹ na Wyspê Jambalaya™.
 guyall496	To nie bêdzie wdziêczne za pomalowanie.
 guyall497	Podobnie jak na Pani Stoczni, na mnie te¿ to nie robi ¿adnego wra¿enia.
 guyall498	Nie! To mój grog!
@@ -9394,7 +9394,7 @@ guygmi105	Zawsze chcia³em wiedzieæ co jest za rezydencja. Teraz wiem.
 guygom041	To w niczym nie u³atwia.
 guygom042	Nigdy w ¿yciu siê w tym nie zmieszczê.
 guygpt109	"Lokalna ³ódŸ wios³owa"
-guygpt110	Wspólnota Wyspy Jambalaya nie jest odpowiedzialna za cel u¿ycia ³odzi wios³owej.
+guygpt110	Wspólnota Wyspy Jambalaya™ nie jest odpowiedzialna za cel u¿ycia ³odzi wios³owej.
 guyhei028	Ich glaube, ich sollte hier irgendwas hiNietun.
 guyhei029	No, that doesn't fit right.
 guyhei030	Hej! Pasuje!
@@ -9414,7 +9414,7 @@ guyhos079	Ten smar nie nale¿y u¿ywaæ z trzcin¹ bez zgody konsulatu...
 guyhos080	Dobry pomys³, ale ta laska nie spowoduje sabota¿u.
 guyjam008	Pla¿a wype³niona g³azami.
 guyjam009	Zbyt skalista.
-guyjam010	Zawody nurkowania na Wyspi Jambalaya.
+guyjam010	Zawody nurkowania na Wyspy Jambalaya™.
 guyjam011	To statek wariatów.
 guyjam012	To jakiœ ponuty dom.
 guyjam013	To ³ódŸ lokalna co sobie po¿yczy³em.
@@ -9435,7 +9435,7 @@ guylua081	To chyba tu nie pasuje.
 guyluc274	To mówisz ¿e sp³aci³eœ ju¿ d³ug publiczny, Otis?
 guyluc275	Wchodzenie do w³azu to g³upi pomys³.
 guyluc276	Po co mam rozrzucaæ tutaj ca³¹ zawartoœæ moich kieszeni?
-guyluc277	Nie bêde wrzuca³ moich rzeczy do w³azy kanalizacyjnego.
+guyluc277	Nie bêde wrzuca³ moich rzeczy do w³azy kanalizacyjnego Wyspy Mamony™.
 guyluc278	Po co mia³bym wrzucaæ wieczko do studzienki skoro przed chwil¹ ma³o nie dosta³em przepukliny wyjmuj¹c je?
 guyluc279	Tutaj jest ma³a kaczuszka. Musz¹ byæ tu kacze standardy.
 guyluc280	Pozwolê kaczuszk¹ zaj¹æ siê t¹ flag¹.
@@ -9452,7 +9452,7 @@ guymel159	Jezu, ale to brzmi przekonujaco.
 guymel160	"Sprzedane"
 guymel161	"Sprzedane"...Zauwa¿am tu wzorzec...
 guymel162	Kolejny znak "Sprzedane".
-guymel163	Kaza³eœ mi zwróciæ symbol gubernatorski po powrocie z Wyspy Mamony, pamiêtasz?
+guymel163	Kaza³eœ mi zwróciæ symbol gubernatorski po powrocie z Wyspy Mamony™, pamiêtasz?
 guymhi093	Meathook bêdzie z³y, jak siê dowie ¿e ukrad³em mu bezu¿tyczny pêdzel
 guymig048	Nigdy wiêcej - ani razu.
 guymig049	Hej, Barman! Uruchom krowê!
@@ -9563,11 +9563,11 @@ opemig059	Wooohoo! Koniec!
 guyall531	Watpie zeby to sie komus spodobalo.
 gmrmon001	Ak
 gmrmon002	Uup
-ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
+ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady™, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
 ingb001a	Osobisty dziennik Guybrusha Threepwooda:
 ingb001b	Czasem, w ciszy, nadal s³yszê ma³py.
 ingb001c	Trudno uwierzyæ, ¿e to ledwie parê lat,
-ingb001d	odk¹d ockn¹³em siê na pla¿y wyspy Szpady™,
+ingb001d	odk¹d ockn¹³em siê na pla¿y Wyspy Szpady™,
 ingb001e	uzbrojony w durne imiê
 ingb001f	i chêæ zostania zawadiackim piratem.
 ingb015	Chcê byæ piratem.
@@ -9578,24 +9578,24 @@ ingb002c	oœlizg³ym œlimakiem siedmiu mórz.
 inlc003	Yaaar!
 inlc004	Jaahaahaar!
 inlc005	Haaaaar!!!
-ingb006	I któ¿ by s¹dzi³, ¿e ów bój zawiedzie mnie ku mi³oœci mego ¿ycia: Gubernator Wyspy Szpady, Elaine Marley.
+ingb006	I któ¿ by s¹dzi³, ¿e ów bój zawiedzie mnie ku mi³oœci mego ¿ycia: Gubernator Wyspy Szpady™, Elaine Marley.
 ingb006a	I któ¿ by s¹dzi³, ¿e ów bój
 ingb006b	zawiedzie mnie ku mi³oœci mego ¿ycia:
-ingb006c	Gubernator wyspy Szpady™, Elaine Marley.
-ingb007	Albo ¿e próby zdobycia jej rêki przywiod¹ mnie w przesi¹kniête tajemnic¹ brzegi Wyspy Ma³p?
+ingb006c	Gubernator Wyspy Szpady™, Elaine Marley.
+ingb007	Albo ¿e próby zdobycia jej rêki przywiod¹ mnie w przesi¹kniête tajemnic¹ brzegi Wyspy Ma³p™?
 ingb007a	Albo ¿e próby zdobycia jej rêki przywiod¹ mnie
-ingb007b	w przesi¹kniête tajemnic¹ brzegi wyspy Ma³p™?
+ingb007b	w przesi¹kniête tajemnic¹ brzegi Wyspy Ma³p™?
 ingb014	To drugi najwiêkszy ³eb ma³py, jaki widzia³em!
 ingb008	Albo ¿e skoñczê z LeChuckiem grzebi¹c go pod lodow¹ gór¹.
 ingb008a	Albo ¿e skoñczê z LeChuckiem
 ingb008b	grzebi¹c go pod lodow¹ gór¹.
-ingb009	Na pewno nie ja. Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip. A teraz sam popatrz! Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów, ca³y Trójwysep dr¿y s³ysz¹c me imiê, a ja i mój zbójecki króliczek wracamy na Szpadê, po najniezwyklejszym miesi¹cu miodowym w historii...
+ingb009	Na pewno nie ja. Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip. A teraz sam popatrz! Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów, ca³y Trójwysep dr¿y s³ysz¹c me imiê, a ja i mój zbójecki króliczek wracamy na Wyspê Szpady™, po najniezwyklejszym miesi¹cu miodowym w historii...
 ingb009a	Na pewno nie ja.
 ingb009b	Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip.
 ingb009c	A teraz sam popatrz!
 ingb009d	Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów,
 ingb009e	okrêg trzech wysp dr¿y s³ysz¹c me imiê,
-ingb009f	a ja i mój zbójecki króliczek wracamy na Szpadê™,
+ingb009f	a ja i mój zbójecki króliczek wracamy na Wyspê Szpady™,
 ingb009g	po najniezwyklejszym miesi¹cu miodowym w historii...
 inel010	GUYBRUSH!
 inel010a	Eh...ha...cha!
@@ -9607,16 +9607,16 @@ ingb012	Tak, kotku?
 inel011	Przestañ siê rozczulaæ i przydaj siê na coœ!
 inel012a	Och, mój ty ksiêciu.
 ingb013	Eee, Elaine? Uwolnisz mnie?
-e2el001	...moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie, czy naprawdê mo¿emy sobie pozwoliæ na powierzenie przysz³oœci Wyspy Szpady cz³owiekowi bez przesz³oœci, bez doœwiadczenia, który nawet nie wydaje siê lubiæ piratów?  Zdrowy rozs¹dek mówi "nie".
+e2el001	...moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie, czy naprawdê mo¿emy sobie pozwoliæ na powierzenie przysz³oœci Wyspy Szpady™ cz³owiekowi bez przesz³oœci, bez doœwiadczenia, który nawet nie wydaje siê lubiæ piratów?  Zdrowy rozs¹dek mówi "nie".
 e2el001a	... moi zawadiaccy obywatele. Wkraczaj¹c w nowe stulecie,
-e2el001b	czy mo¿emy powierzyæ przysz³oœæ Wyspy Szpady cz³owiekowi bez przesz³oœci, 
+e2el001b	czy mo¿emy powierzyæ przysz³oœæ Wyspy Szpady™ cz³owiekowi bez przesz³oœci, 
 e2el001c	cz³owiekowi bez doœwiadczenia, który nie wydaje siê nawet LUBIÆ piratów?
 e2el001d	Zdrowy rozs¹dek mówi "nie".
-e2ch002	Mój przeciwnik ma racjê: jestem tu nowy.  I prawd¹ jest, ¿e moje doœwiadczenie w sprawach pañstwowych jest w najlepszym razie minimalne.  Ale nie trzeba byæ pirack¹ ksiê¿niczk¹ w siódmym pokoleniu, by dostrzec, ¿e Wyspa Szpady potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu... gubernatora, który nie mo¿e nawet obiecaæ... dobre czasy i darmowego grogu!
+e2ch002	Mój przeciwnik ma racjê: jestem tu nowy.  I prawd¹ jest, ¿e moje doœwiadczenie w sprawach pañstwowych jest w najlepszym razie minimalne.  Ale nie trzeba byæ pirack¹ ksiê¿niczk¹ w siódmym pokoleniu, by dostrzec, ¿e Wyspa Szpady™ potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu... gubernatora, który nie mo¿e nawet obiecaæ... dobre czasy i darmowego grogu!
 e2ch002a	Mój przeciwnik ma racjê: jestem tu nowy.
 e2ch002b	Tak - moje doœwiadczenie w sprawach pañstwowych jest znikome.
 e2ch002c	Ale nie trzeba byæ pirack¹ ksiê¿niczk¹ w siódmym pokoleniu,
-e2ch002d	by dostrzec, ¿e Szpada potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu...
+e2ch002d	by dostrzec, ¿e Wyspa Szpady™ potrzebuje czegoœ wiêcej ni¿ gubernatora na pó³ etatu...
 e2ch002e	gubernatora, który nie mo¿e nawet obiecaæ...
 e2ch002f	dobrych czasów i darmowego grogu!
 e2cr003	Taaaa! Grog, Grog, Grog, Grog!
@@ -9765,7 +9765,7 @@ h1el029b	wynoœ siê z tego domu, zanim naszczujê na ciebie moje pirania pudle!
 h1gb028	Jejku!
 h1ch030	Moja droga pani Marley...
 h1gb031	Threepwood
-h1ch032	...czy wypada siê tak zwracaæ do nastêpnego gubernatora Wyspy Szpady?
+h1ch032	...czy wypada siê tak zwracaæ do nastêpnego gubernatora Wyspy Szpady™?
 h1el033	Nie dbam o sonda¿e, piraci ze Szpady przejrz¹ wasze tkanki fa³szywych nadziei i pustych obietnic!
 h1el033a	Nie dbam o sonda¿e.
 h1el033b	Piraci ze Szpady w koñcu przejrz¹ twoje
@@ -9840,8 +9840,8 @@ duca006	OGNIA!
 dugb007	£a³, no i jest... Br¹zowa czapka Tiniego LeFeet!
 hehn009	Ok, po pierwsze, nie nazywam siê Herman Zgni³yz¹b.
 hegb010	Tak? To jak?
-hehn011	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p, nie maj¹c nic poza rozwalonym akordeonem, wiêkszoœci¹ ubrañ na grzbiecie i g³ow¹ pe³n¹ zepsutych wspomnieñ.
-hehn011a	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p,
+hehn011	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p™, nie maj¹c nic poza rozwalonym akordeonem, wiêkszoœci¹ ubrañ na grzbiecie i g³ow¹ pe³n¹ zepsutych wspomnieñ.
+hehn011a	O tym póŸniej. Najpierw opowiem ci, jak znalaz³em siê na Wyspie Ma³p™,
 hehn011b	nie maj¹c nic poza rozwalonym akordeonem, wiêkszoœci¹ ubrañ na grzbiecie,
 hehn011c	i g³ow¹ pe³n¹ zepsutych wspomnieñ.
 hegb012	Czy to chwilê nie potrwa? Trochê mi siê spieszy.
@@ -9914,8 +9914,8 @@ gmhn003	Jedziemy na ma³¹ przeja¿d¿kê.
 gmgb005	Jasne.
 gmjj004	Poci¹gnij za tamt¹ dŸwigniê, dobra?
 gmgb006	Przeja¿d¿kê? Co przez to rozumiesz?
-gmhn007	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady, aby uratowaæ moj¹ wnuczkê!
-gmhn007a	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady,
+gmhn007	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady™, aby uratowaæ moj¹ wnuczkê!
+gmhn007a	Zabieramy tego Gigantycznego Ma³piego Robota na Wyspê Szpady™,
 gmhn007b	aby uratowaæ moj¹ wnuczkê!
 gmgb008	Gigantyczny Ma³pi Robot?  Hmm. Jesteœ pewien, ¿e odzyska³eœ ca³¹ pamiêæ?  Mo¿e uderzyæ ciê jeszcze raz...
 gmgb008a	Gigantyczny Ma³pi Robot? Hmm. Czy na pewno odzyska³eœ ca³¹ pamiêæ?
@@ -10030,7 +10030,7 @@ ozlc015	Grrr.
 ozel016	Grrr.
 ozoz017	Co, w imieniu niewidzialnej rêki Adama Smitha, to jest?
 ozel018	To? Oh, to nic. To jakiœ bibelot kupiony podczas miesi¹ca miodowego...
-ozlc019	Arrr, gubernatorska pieczêæ Wyspy Szpady! No tak!
+ozlc019	Arrr, gubernatorska pieczêæ Wyspy Szpady™! No tak!
 ozoz020	Zobaczmy.
 ozoz021	Wygl¹da na to, ¿e ogoliliœmy przys³owiowego dingo. Przetestujmy tego gnojka. Ko³konos?
 ozoz021a	Wygl¹da na to, ¿e ogoliliœmy przys³owiowego dingo. 
@@ -10140,12 +10140,12 @@ ozoz086b	Szkoda, ¿e muszê je zepsuæ, niszcz¹c wasze mizerne umys³y
 ozoz086c	moc¹ Talizmanu Upokorzenia!
 ozoz087	Co teraz?
 ozjj088	Teraz jesteœ zgubiony, z³oczyñco.
-ozjj089	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p. Czas na talizman...
-ozjj089a	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p.
+ozjj089	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p™. Czas na talizman...
+ozjj089a	Teraz czas przepowiedziany w staro¿ytnych proroctwach Wyspy Ma³p™.
 ozjj089b	Czas na ostateczn¹...
 ozjj090	KRAV MAAAAA£PÊ!
 txtall222	SHIFT
-txtall001	Symbol Gubernatora Wyspy Szpady
+txtall001	Symbol Gubernatora Wyspy Szpady™
 txtall002	Obejrzyj:
 txtall003	papiery gubernatora
 txtall004	intratna umowa o pracê w urzêdzie
@@ -10211,7 +10211,7 @@ txtall063	kupon do Planety Threepwood
 txtall064	s³oik z klejem
 txtall065	karykatura Ma³piego Kubka
 txtall066	lepka karykatura Ma³piego Kubka
-txtall067	kubek z logiem Starbukaniera
+txtall067	kubek z logiem Starbukaniera™
 txtall068	fa³szywy Ma³pi Kubek
 txtall069	Po³¹cz:
 txtall070	U¿yj:
@@ -10306,7 +10306,7 @@ txtall158	pióro na naszyjniku
 txtall159	pióro na ³añcuchu
 txtall160	niebieski obraz
 txtall161	Wyceñ:
-txtall162	mapa Wyspy Jambalaya
+txtall162	mapa Wyspy Jambalaya™
 txtall163	szkic Talizmanu Upokorzenia
 txtall164	pêdzel
 txtall165	puszka grogu
@@ -10320,8 +10320,8 @@ txtall172	Ma³pi Kubek
 txtall173	pusta fili¿anka po groggocino
 txtall174	fili¿anka groggocino
 txtall175	pusta fili¿anka po groggocino
-txtall176	mini bajgiel ze Schmear Whiz
-txtall177	soczysty zwitek prze¿utych kawa³ków bajgla i Schmear Whiz
+txtall176	mini bajgiel ze Schmear Whiz™
+txtall177	soczysty zwitek prze¿utych kawa³ków bajgla i Schmear Whiz™
 txtall178	certyfikat p³ywacki
 txtall179	Przyjrzyj siê:
 txtall180	czapka g³¹ba
@@ -10525,11 +10525,11 @@ txtall378	<wolne>
 txtall379	Gra zapisana
 txtall380	&Wróæ do menu
 txtall381	Przerywniki
-txtall382	Zamkn¹æ Ucieczkê z Wyspy Ma³p?
+txtall382	Zamkn¹æ Ucieczkê z Wyspy Ma³p™?
 txtall383	Na pewno chcesz wyjœæ?
 txtall384	&Tak
 txtall385	&Nie
-txtall386	Resetowaæ Ucieczkê z Wyspy Ma³p?
+txtall386	Resetowaæ Ucieczkê z Wyspy Ma³p™?
 txtall387	Na pewno chcesz uruchomiæ ponownie?
 txtall388	Gra wstrzymana
 txtall389	Naciœnij dowolny klawisz, aby powróciæ.
@@ -10610,7 +10610,7 @@ txtcan003	pod³o¿a skalne
 txtcan004	wielki g³az
 txtcan005	szyb kopalni
 txtcan006	WejdŸ:
-txtcan007	Wyspa Ma³p
+txtcan007	Wyspa Ma³p™
 txtcan008	Powróæ do:
 txtcgs001	Admira³ Casaba
 txtcgs002	armaty
@@ -10728,12 +10728,12 @@ txtgpt011	napis powitalny
 txtgpt012	kajaki na wynajem
 txtgpt013	statki
 txtgpt014	siatka
-txtgpt015	szyld Starbukaniera
+txtgpt015	szyld Starbukaniera™
 txtgpt016	szyld Mikrogroggerii
 txtgpt017	kwiaty na parapecie
 txtgpt018	pusty budynek
 txtgpt019	beczka z kuponami
-txtgpt020	Wyspa Jambalaya
+txtgpt020	Wyspa Jambalaya™
 txthei001	slot
 txthei002	kierownica
 txthei003	dŸwignia
@@ -10779,9 +10779,9 @@ txtjam008	wysoka ska³a
 txtjam009	statek Casaby
 txtjam010	zawody w skoku do wody
 txtjam011	jaskrawy dom
-txtjun001	Wyspa Ma³p
+txtjun001	Wyspa Ma³p™
 txtjun002	Powróæ do:
-txtjun003	Wyspa Ma³p
+txtjun003	Wyspa Ma³p™
 txtkab001	pirat z zaburzeniami metabolicznymi
 txtkab002	papuga
 txtkab003	du¿y g³az
@@ -10817,7 +10817,7 @@ txtlag002	p³ytka woda
 txtlag003	nie tak p³ytka woda
 txtlag004	g³êboka woda
 txtlag005	drzewa
-txtlag006	Wyspa Mamony
+txtlag006	Wyspa Mamony™
 txtlag007	Powróæ do:
 txtlag008	ukryte przejœcie
 txtlag009	ZejdŸ z:
@@ -10828,7 +10828,7 @@ txtlav004	basen lawy
 txtlav005	pusty dó³
 txtlav006	wielki g³az
 txtlav007	katedra
-txtlav008	Wyspa Ma³p
+txtlav008	Wyspa Ma³p™
 txtlav009	lawa
 txtlaw001	ma³a beczka
 txtlaw002	etykieta imienia
@@ -10963,7 +10963,7 @@ txtmig001	GroŸny Mechaniczny Manat
 txtmig002	smar
 txtmig003	bar
 txtmig004	niezwykle czysty i schludny bar
-txtmig005	automat do grogu
+txtmig005	Pan Grogomat™
 txtmig006	drzwi na zewn¹trz
 txtmig007	Dwie godziny póŸniej...
 txtmig008	barman
@@ -11052,7 +11052,7 @@ txtpac004	na:
 txtpac005	kana³ z lewej strony klifu
 txtpac006	kana³ na œrodku klifu
 txtpac007	kana³ po prawej stronie klifu
-txtpac008	Wyspa Ma³p
+txtpac008	Wyspa Ma³p™
 txtpac009	Powróæ do:
 txtpla001	namiot przebieralnia
 txtpla002	sêdziowie p³ywaccy
@@ -11083,7 +11083,7 @@ txtplt011	bar
 txtplt012	przypadkowe akcesoria
 txtplt013	rêka Murraya
 txtplt014	stare ciuchy Guybrusha
-txtplt015	kubek LucasArts
+txtplt015	kubek LucasArts™
 txtplt016	T-Shirty z logiem Planety Threepwood
 txtplt017	dzisiejsze menu
 txtplt018	sekretny szyld
@@ -11201,19 +11201,19 @@ txtstb001	kasa fiskalna
 txtstb002	dekoracje statku
 txtstb003	towary
 txtstb004	wiadro na parasole
-txtstb005	szyld Starbukaniera
+txtstb005	szyld Starbukaniera™
 txtstb006	fili¿anka kawy
 txtstb007	kremowa fili¿anka kawy
 txtstb008	s³odzona fili¿anka kawy
-txtstb009	automat Cap'n-ccino
+txtstb009	automat Cap'n-ccino™
 txtstb010	stos fili¿anek do kawy
 txtstb011	torba podró¿na
-txtstb012	kasjer Starbukaniera
+txtstb012	kasjer Starbukaniera™
 txtstb013	groggoccino
 txtstb014	dziwna pani
 txtstb015	taca z mini bajglami
-txtstb016	taca z mini bajglami ze Schmear Whiz
-txtstb017	taca z bezp³atnymi mini bajglami ze Schmear Whiz
+txtstb016	taca z mini bajglami ze Schmear Whiz™
+txtstb017	taca z bezp³atnymi mini bajglami ze Schmear Whiz™
 txtsys001	Nie, nie chcê!
 txtsys002	Nie, przygodowe gry zespo³owe s¹ po prostu zbyt ³atwe.
 txtsys003	Gniazdo TCP nie dzia³a.
@@ -11261,10 +11261,10 @@ txtsys044	/sytx412/
 txtsys045	/sytx413/
 txtsys046	/sytx414/
 txtsys047	/sytx424/
-txtsys048	Bank Wyspy Mamony
+txtsys048	Bank Wyspy Mamony™
 txtsys049	SCUMMBar
 txtsys050	sklep z przynêtami
-txtsys051	Kanion Wyspy Ma³p
+txtsys051	Kanion Wyspy Ma³p™
 txtsys052	Koœció³ LeChucka
 txtsys053	zewnêtrzna czêœæ rezydencji
 txtsys054	wewnêtrzna czêœæ rezydencji
@@ -11284,9 +11284,9 @@ txtsys067	Szpada
 txtsys068	pracownia Miêshaka od zewn¹trz
 txtsys069	pracownia Miêshaka od wewn¹trz
 txtsys070	Mikrogrogeria
-txtsys071	Pla¿a Wyspy Ma³p
+txtsys071	Pla¿a Wyspy Ma³p™
 txtsys072	Ma³pia G³owa
-txtsys073	mapa Wyspy Ma³p
+txtsys073	mapa Wyspy Ma³p™
 txtsys074	Ma³pie Miasto
 txtsys075	Bagna Czasoprzestrzeni
 txtsys076	ma³pi robot Belly
@@ -11302,13 +11302,13 @@ txtsys085	SCUMM Bar???
 txtsys086	Stocznia Szpady
 txtsys087	Salon Ko³konosa
 txtsys088	Wakacje ze Stanem
-txtsys089	StartBukanier
-txtsys090	Obóz Zgni³ozêba
+txtsys089	StartBukanier™
+txtsys090	Obóz Toothrota
 txtsys091	podwodna pieczara
 txtsys092	skrytka banku
 txtsys093	Miêdzynarodowe Stowarzyszenie Mojo
 txtsys094	statek ma³¿eñski
-txttoc001	Herman Zgni³yz¹b
+txttoc001	Herman Toothrot
 txttoc002	huœtawka
 txttoc003	na:
 txttoc004	U¿yj:
@@ -11319,7 +11319,7 @@ txttoc008	buda
 txttoc009	ryby
 txttoc010	ogromne ko³o
 txttoc011	zniszczony kad³ub statku
-txttoc012	œcie¿ka na Wyspê Ma³p
+txttoc012	œcie¿ka na Wyspê Ma³p™
 txttow001	niska wie¿a
 txttow002	œrednia wie¿a
 txttow003	kolosalnie du¿a wie¿a
@@ -11395,21 +11395,21 @@ txtwed004	armata
 txtwed005	krata ³adowni
 txtwed006	wrogi okrêt
 txtwed007	wrogi pirat
-txtact001	Rzeczy, które robisz na Wyspie Szpady, bêd¹c martwym.
-txtact002	Rzeczy, które robisz na Wyspie Mamony, bêd¹c martwym.
+txtact001	Rzeczy, które robisz na Wyspie Szpady™, bêd¹c martwym.
+txtact002	Rzeczy, które robisz na Wyspie Mamony™, bêd¹c martwym.
 txtact003	Elaine Kampania Jest Zawsze Do Wygrania
 txtact004	Jak ujeŸdziæ Manata?
 txtact005	To Œwiat Ozziego, My Tylko Tu ¯yjemy
 txtact006	Gdzie ci piraci?
 txtact007	To Apokaliptyczny Œwiat Ozziego
-txtact008	Ucieczka z Wyspy Ma³p
+txtact008	Ucieczka z Wyspy Ma³p™
 txtact009	Guybrush kopie niezwykle wielki ty³ek
 txtact010	Guybrush Kopie Wielgaœny Ty³ek
 txtall429	Napisy
 txtall430	&Zmieñ wspó³czynnik Gee Whiz...
 txtall431	<BAD DATA>
 txtall432	Strona
-txtall433	Uciek³eœ z Wyspy Ma³p?
+txtall433	Uciek³eœ z Wyspy Ma³p™?
 txtall434	Jesteœ pewny, ¿e chcesz wygraæ?
 txtall435	WYGRA£EŒ!
 txtall436	Ustawienia Gee Whiz
@@ -11523,7 +11523,7 @@ txtall512	Mów do rêki
 txtall513	Uprowadzony
 txtall514	Wyznanie H.T. Marley
 txtall515	Cuchnij po cichu
-txtall516	Prawdziwy sekret Wyspy Ma³p
+txtall516	Prawdziwy sekret Wyspy Ma³p™
 txtall517	Talizman Upokorzenia
 txtall518	Ostateczna Kontra
 txtulg001	???
@@ -11563,7 +11563,7 @@ txtopc027	Koordynator produkcji
 txtopc028	Christopher Tuite
 txtopc029	Kierownictwo projektu
 txtopc030	Sean Clark & Mike Stemmle                                                                              wersja polska: tirey93, twig, ManualCzaszka, Johnny, Zagadka, Rael, dziab i tirey93
-txtcdt001	LucasArts Entertainment Company
+txtcdt001	LucasArts Entertainment Company™
 txtcdt002	przedstawia
 txtcdt003	UCIECZKA Z WYSPY MA£P™
 txtcdt004	Story, Game Design and Project Leads
@@ -12078,7 +12078,7 @@ txtcdt504	GEORGE LUCAS
 txtcdt505	2001 LucasArts Entertainment Company
 txtcdt506	LLC.  The LucasArts logo is a registered
 txtcdt507	trademark of Lucasfilm Ltd.
-txtcdt508	Ucieczka z wyspy Ma³p, postacie,
+txtcdt508	Ucieczka z Wyspy Ma³p™, postacie,
 txtcdt509	iMuse, i logo iMuse System s¹
 txtcdt510	zarejstrowanymi znakami towarowymi
 txtcdt511	LucasArts Entertainment Company LLC.
@@ -12091,7 +12091,7 @@ dugb001	Yaarr! Witaj, Lil' LeChuck!  Jak myœlisz, co powinniœmy dzisiaj zrobiæ!
 googme075	45...
 guyvau004	Ma³a kupka g¹bki do pakowania.
 guyvau025	CHWILÊ PÓNIEJ...
-habshi029	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, wyspa Szpady".
+habshi029	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, Wyspa Szpady™".
 habshi084	Po pierwsze, statek ma wróciæ w tym lub w lepszym stanie ni¿ teraz.
 habshi085	Po drugie, ca³a za³oga oraz pasa¿erowie maj¹ nosiæ kamizelki ratunkowe przez ca³y czas.
 habshi086	Wreszcie, pojazd ten ma byæ u¿ywany wy³¹cznie do celów s³u¿bowych, wiêc....
@@ -12128,7 +12128,7 @@ txtsavmdo	Doki Szpady
 txtsavshi	Stocznia Szpady
 txtsavmhe	Ogród Miêshaka
 txtsavmhi	Dom Miêshaka
-txtsavmem	Mapa Wyspy Szpady
+txtsavmem	Mapa Wyspy Szpady™
 txtsavmel	Szpada
 txtsavgme	rezydencja od zewn¹trz
 txtsavlua	Lua Bar
@@ -12146,7 +12146,7 @@ txtsavuch	Gablota £upów
 txtsavunc	podwodna pieczara
 txtsavpph	Kryjówka Pete'a Ko³konosego
 txtsavfor	Lasy Mamony
-txtsavlum	Mapa Wyspy Mamony
+txtsavlum	Mapa Wyspy Mamony™
 txtsavoze	ogrody upiornej rezydencji
 txtsavozi	wnêtrze domu Ozziego
 txtsavpop	Pa³ac Protez
@@ -12160,17 +12160,17 @@ txtsavgpt	miasto Jambalaya
 txtsavplt	Planeta Threepwood
 txtsavsta	Stan 
 txtsavstb	Starbukanier
-txtsavjam	Mapa Wyspy Jambalaya
+txtsavjam	Mapa Wyspy Jambalaya™
 txtsavpla	Deska do skoku
 txtsavhei	Wnêtrze Ma³piej G³owy
 txtsavcol	Koœció³ LeChucka
-txtsavcan	Kanion Wyspy Ma³p
+txtsavcan	Kanion Wyspy Ma³p™
 txtsavlav	Pole Lawy
 txtsavgom	kopalnia z³ota
 txtsavjun	Ma³pia D¿ungla
-txtsavmib	pla¿a Wyspy Ma³p
+txtsavmib	pla¿a Wyspy Ma³p™
 txtsavmoh	Ma³pia G³owa
-txtsavmom	mapa Wyspy Ma³p
+txtsavmom	mapa Wyspy Ma³p™
 txtsavmon	Ma³pie Miasto
 txtsavmrb	Dziwna maszynownia
 txtsavpac	malowniczy widok

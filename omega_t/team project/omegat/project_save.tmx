@@ -425,7 +425,7 @@
         <seg>'Disclaimer:  The Jambalaya Island™ Chamber of Commerce cannot be held responsible for the seaworthiness of the Community Rowboat.'</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wspólnota Wyspy Jambalaya nie jest odpowiedzialna za cel użycia łodzi wiosłowej.</seg>
+        <seg>Wspólnota Wyspy Jambalaya™ nie jest odpowiedzialna za cel użycia łodzi wiosłowej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,7 +585,7 @@
         <seg>'Jambalaya Island™: 3 kilometers'</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>"Wyspa Jambalaya: 3 kilometry"</seg>
+        <seg>"Wyspa Jambalaya™: 3 kilometry"</seg>
       </tuv>
     </tu>
     <tu>
@@ -840,8 +840,8 @@
       <tuv lang="en-US">
         <seg>'StarBuccaneer's™ Coffee', home of expensive espressos and gentrified java.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>"Kawa Starbuccaneera", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122517Z">
+        <seg>"Kawa StarBukaniera™", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -905,7 +905,7 @@
         <seg>'The Hearse of Monkey Aye-yai-yai-land, A SCABB Magazine Parody.'</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>"Wyspa Małp na stojaka czyli żarty miesiąca w SCABB"</seg>
+        <seg>"Wyspa Małp™ na stojaka czyli żarty miesiąca w SCABB"</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,7 +969,7 @@
         <seg>'To all LeChuck-fearing citizens of Monkey Island™.'</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>"Do wszystkich tych, co boją się LeChucka na Wyspie Małp"</seg>
+        <seg>"Do wszystkich tych, co boją się LeChucka na Wyspie Małp™"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,7 +1009,7 @@
         <seg>'Welcome to Jambalaya Island™.'</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>"Witamy na Wyspie Jambalaya"</seg>
+        <seg>"Witamy na Wyspie Jambalaya™"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,7 +1401,7 @@
         <seg>-is that any way to talk to the next Governor of Męlée Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T132804Z">
-        <seg>...czy wypada się tak zwracać do następnego gubernatora Wyspy Szpady?</seg>
+        <seg>...czy wypada się tak zwracać do następnego gubernatora Wyspy Szpady™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,7 +1521,7 @@
         <seg>...'happy' icons for their new 'family-friendly' Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>...jako 'radosną' ikonę ich nowej 'przyjaznej rodzinie' wyspy Jambalaya.</seg>
+        <seg>...jako 'radosną' ikonę ich nowej 'przyjaznej rodzinie' Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,7 +1585,7 @@
         <seg>...And so, my swashbuckling citizens, as we approach the next century, can we really afford to entrust M�l�e Island's future to a man with no past, a man with no experience, a man who doesn't even seem to LIKE pirates?  Common sense says "no."</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T084356Z">
-        <seg>...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie".</seg>
+        <seg>...moi zawadiaccy obywatele. Wkraczając w nowe stulecie, czy naprawdę możemy sobie pozwolić na powierzenie przyszłości Wyspy Szpady™ człowiekowi bez przeszłości, bez doświadczenia, który nawet nie wydaje się lubić piratów?  Zdrowy rozsądek mówi "nie".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@
       <tuv lang="en-US">
         <seg>...ESCAPE FROM MONKEY ISLAND™?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121445Z">
-        <seg>...UCIECZKA Z WYSPY MAŁP?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120308Z">
+        <seg>...UCIECZKA Z WYSPY MAŁP™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,7 +1625,7 @@
         <seg>...I hope it's still there when I get back from Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T203020Z">
-        <seg>Oby nadal tam stał, jak wrócę z wyspy Mamony.</seg>
+        <seg>Oby nadal tam stał, jak wrócę z Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,7 +1686,7 @@
         <seg>...Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>...Wyspy Małp.</seg>
+        <seg>...Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,7 +2078,7 @@
         <seg>...but I could swear that Lucre Island™ is getting less and less...pirate-friendly, see.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>... ale mógłbym przysiąc, że Wyspa Mamony schodzi na złą stronę pirackiej uczciwości.</seg>
+        <seg>... ale mógłbym przysiąc, że Wyspa Mamony™ schodzi na złą stronę pirackiej uczciwości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2605,8 +2605,8 @@
       <tuv lang="en-US">
         <seg>...some lovely property off the coast of Booty Island™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120724Z">
-        <seg>...uroczy domek u wybrzeży wyspy Łupu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120156Z">
+        <seg>...uroczy domek u wybrzeży Wyspy Łupu™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,7 +2726,7 @@
         <seg>...then sail to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T132311Z">
-        <seg>... i popłyń na wyspę Mamony.</seg>
+        <seg>... i popłyń na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,7 +4190,7 @@
         <seg>A few weeks!? I need to get back to Męlée Island™ TODAY!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Kilku tygodni!? Muszę wrócić na Wyspę Szpady jeszcze DZISIAJ!</seg>
+        <seg>Kilku tygodni!? Muszę wrócić na Wyspę Szpady™ jeszcze DZISIAJ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4397,8 +4397,8 @@
       <tuv lang="en-US">
         <seg>A small bucket of StarBuccaneer's™ logo umbrellas.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiadro pełne parasoli z logiem Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121342Z">
+        <seg>Wiadro pełne parasoli z logiem Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4790,7 +4790,7 @@
         <seg>About a month ago, a mysterious overseas investor began buying up all of Męlée Island™ from the local pirates.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T120149Z">
-        <seg>Około miesiąc temu tajemniczy zagraniczny inwestor zaczął wykupywać od piratów wszystkie ziemie wyspy Szpady.</seg>
+        <seg>Około miesiąc temu tajemniczy zagraniczny inwestor zaczął wykupywać od piratów wszystkie ziemie Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4814,7 +4814,7 @@
         <seg>About this impenetrable barrier under Monkey Island™...</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jeśli chodzi o nieprzepuszczalną barierę pod Wyspą Małp...</seg>
+        <seg>Jeśli chodzi o nieprzepuszczalną barierę pod Wyspą Małp™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4982,7 +4982,7 @@
         <seg>Actually, he's the new governor of Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T095812Z">
-        <seg>Właściwie to nowy gubernator Wyspy Szpady.</seg>
+        <seg>Właściwie to nowy gubernator Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5022,7 +5022,7 @@
         <seg>Actually, you WILL be able to join his crew, since I will be winning the Męlée Island™ championship.</seg>
       </tuv>
       <tuv lang="pl" changeid="dapyt" changedate="20231017T111247Z">
-        <seg>W sumie to możesz do niego dołączyć bo to ja będę mistrzem wyspy Szpady.</seg>
+        <seg>W sumie to możesz do niego dołączyć bo to ja będę mistrzem Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,7 +5158,7 @@
         <seg>After we FINALLY got off Monkey Island™, Meathook renounced his pirate-y lifestyle, and returned to his true passion.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T122033Z">
-        <seg>Kiedy W KOŃCU uciekliśmy z wyspy Małp, Meathook zrzekł się pirackiego trybu życia i powrócił do swej prawdziwej pasji.</seg>
+        <seg>Kiedy W KOŃCU uciekliśmy z Wyspy Małp™, Meathook zrzekł się pirackiego trybu życia i powrócił do swej prawdziwej pasji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,8 +5317,8 @@
       <tuv lang="en-US">
         <seg>Ah, a pirate.  It's rare to encounter a genuine pirate on Jambalaya Island™ these days.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ah, pirat. To rzadkość poznać pirata na Jambalaya w dzisiejszych czasach.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122124Z">
+        <seg>Ah, pirat. To rzadkość poznać pirata na Wyspie Jambalaya™ w dzisiejszych czasach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6654,7 +6654,7 @@
         <seg>And before you know it, LeChuck'll show up with his legions of undead goons, and POW! We'll all be stuck on Monkey Island™ again!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>I co? TRACH! Znowu jesteśmy na Wyspie Małp, co?</seg>
+        <seg>I co? TRACH! Znowu jesteśmy na Wyspie Małp™, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6678,7 +6678,7 @@
         <seg>And don't forget:  Stop the Catapult.  Go to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T212231Z">
-        <seg>I nie zapomnij: Zatrzymaj katapultę. Płyń na wyspę Mamony.</seg>
+        <seg>I nie zapomnij: Zatrzymaj katapultę. Płyń na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7136,7 +7136,7 @@
         <seg>And who could have guessed that my battles with LeChuck would introduce me to the love of my life, M�l�e Island's� Governor Elaine Marley?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T141702Z">
-        <seg>I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady, Elaine Marley.</seg>
+        <seg>I któż by sądził, że ów bój zawiedzie mnie ku miłości mego życia: Gubernator Wyspy Szpady™, Elaine Marley.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7343,8 +7343,8 @@
       <tuv lang="en-US">
         <seg>Any less nebulous clues about how to get off of Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Masz jakieś mniej mgliste wskazówki, na temat wyjścia z tej wyspy-pułapki?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122315Z">
+        <seg>Masz jakieś mniej mgliste wskazówki, na temat wyjścia z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7368,7 +7368,7 @@
         <seg>Anyhow, I've spent the last few years here on Męlée Island™, re-establishing my Swordmaster credentials.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T122114Z">
-        <seg>Spędziłam ostatnie kilka lat na wyspie Szpady, na nowo wyrabiając sobie mandat fechtunku.</seg>
+        <seg>Spędziłam ostatnie kilka lat na Wyspie Szpady™, na nowo wyrabiając sobie mandat fechtunku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,7 +7656,7 @@
         <seg>Are you kiddin'?  Everyone on Lucre Island™ has heard of Pegnose Pete.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Żartujesz sobie? Wszyscy na Wyspie Mamony słyszeli o Pegnosie Pete.</seg>
+        <seg>Żartujesz sobie? Wszyscy na Wyspie Mamony™ słyszeli o Pegnosie Pete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7696,7 +7696,7 @@
         <seg>Are you looking forward to sailing to Lucre Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T151214Z">
-        <seg>Nie może się pan doczekać rejsu na Wyspę Mamony?</seg>
+        <seg>Nie może się pan doczekać rejsu na Wyspę Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7800,7 +7800,7 @@
         <seg>Are you sure there's nothing I can do to convince you to navigate my ship to Lucre Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T151202Z">
-        <seg>Czy nic by pana nie przekonało, aby nawigować mój statek na Wyspę Mamony?</seg>
+        <seg>Czy nic by pana nie przekonało, aby nawigować mój statek na Wyspę Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8024,7 +8024,7 @@
         <seg>Are you trying to forget Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Chcesz zapomnieć o Wyspie Małp?</seg>
+        <seg>Chcesz zapomnieć o Wyspie Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,7 +8304,7 @@
         <seg>Arrrr, the Gubernatorial Seal of Męlée Island™.  Of course!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231117T111001Z">
-        <seg>Arrr, gubernatorska pieczęć Wyspy Szpady! No tak!</seg>
+        <seg>Arrr, gubernatorska pieczęć Wyspy Szpady™! No tak!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8391,8 +8391,8 @@
       <tuv lang="en-US">
         <seg>As a favor to me, the future Governor of Męlée Island™, the town elders contracted a demolition firm--</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T083508Z">
-        <seg>A w przysłudze dla przyszłego gubernatora Szpady radni zawarli umowę z firmą rozbiórkową...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120046Z">
+        <seg>A w przysłudze dla przyszłego gubernatora Wyspy Szpady™ radni zawarli umowę z firmą rozbiórkową...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8680,7 +8680,7 @@
         <seg>At the Lucre Island™ Municipal Bank, you'll find a safe deposit chest under my name.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231027T165140Z">
-        <seg>W Banku Wyspy Mamony znajdziesz depozyt pod moim nazwiskiem.</seg>
+        <seg>W Banku Wyspy Mamony™ znajdziesz depozyt pod moim nazwiskiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,7 +8960,7 @@
         <seg>Aye.  A scurrilous Australian land developer who's been using strong-arm tactics to buy up all the land on Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T145602Z">
-        <seg>Obelżywy Australijski przedsiębiorca, który używał swych mocnych taktyk na wykupienie terenów na wyspie Szpady.</seg>
+        <seg>Obelżywy Australijski przedsiębiorca, który używał swych mocnych taktyk na wykupienie terenów na Wyspie Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8984,7 +8984,7 @@
         <seg>Aye.  The seas around Lucre Island™ are very treacherous, and can only be navigated by a skilled sailor.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231028T183349Z">
-        <seg>Aj. Morza wokół Wyspy Mamony są bardzo zdradliwe, a poruszać się po nich może tylko doświadczony żeglarz.</seg>
+        <seg>Aj. Morza wokół Wyspy Mamony™ są bardzo zdradliwe, a poruszać się po nich może tylko doświadczony żeglarz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9232,7 +9232,7 @@
         <seg>Bank of Lucre Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Bank Wyspy Mamony</seg>
+        <seg>Bank Wyspy Mamony™</seg>
       </tuv>
     </tu>
     <tu>
@@ -9648,7 +9648,7 @@
         <seg>Besides, I read about how Ozzie Mandrill's been rehabilitating Jambalaya's pirates,</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Przed wyjazdem, poczytałam trochę jak Ozzie Mandrill uzdrowił piratów z Wyspy Jambalaya,</seg>
+        <seg>Przed wyjazdem, poczytałam trochę jak Ozzie Mandrill uzdrowił piratów z Wyspy Jambalaya™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -10344,7 +10344,7 @@
         <seg>But I don't know where to find Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T194257Z">
-        <seg>Ale nie wiem, gdzie szukać wyspy Mamony.</seg>
+        <seg>Ale nie wiem, gdzie szukać Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,7 +10720,7 @@
         <seg>But lately, Lucre Island™'s been experiencing an influx of tourists, gawkers, and other assorted outsiders.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ale ostatnio Wyspa Mamony była odwiedzana przez tłumy turystów, gapiów i innych zagranicznych.</seg>
+        <seg>Ale ostatnio Wyspa Mamony™ była odwiedzana przez tłumy turystów, gapiów i innych zagranicznych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11080,7 +11080,7 @@
         <seg>But you can call me the next Governor of Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T083113Z">
-        <seg>Ale możesz mnie zwać nowym gubernatorem wyspy Szpady!</seg>
+        <seg>Ale możesz mnie zwać nowym gubernatorem Wyspy Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11423,7 +11423,7 @@
       <tuv lang="en-US">
         <seg>CARLA, MAKE THE BAD MAN STOP!  HE'S COME TO TAKE US BACK TO MONKEY ISLAND™!</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="damia" changedate="20231130T112450Z">
         <seg>CARLA, ZABIERZ TEGO ZŁEGO CZŁOWIEKA! ON CHCE NAS ZABRAĆ NA WYSPĘ MAŁP™!</seg>
       </tuv>
     </tu>
@@ -11832,15 +11832,15 @@
         <seg>Canyon on Monkey Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Kanion Wyspy Małp</seg>
+        <seg>Kanion Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cap'n-ccino™ machine</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>automat Cap'n-ccino</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123041Z">
+        <seg>automat Cap'n-ccino™</seg>
       </tuv>
     </tu>
     <tu>
@@ -11905,6 +11905,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Carla, co ty robisz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carla?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T111141Z" creationid="damia" creationdate="20231130T111141Z">
+        <seg>Carla?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11975,8 +11983,8 @@
       <tuv lang="en-US">
         <seg>Certificate of Transmogrification</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Certyfikat Dobrego Pirat</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123414Z">
+        <seg>Certyfikat Przeobrażenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -13304,7 +13312,7 @@
         <seg>Did you really move your thriving voodoo emporium back to Męlée Island™ just to be near me?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T114012Z">
-        <seg>Naprawdę przeniosłaś całe swoje voodoo emporium na wyspę Szpady specjalnie dla mnie?</seg>
+        <seg>Naprawdę przeniosłaś całe swoje voodoo emporium na Wyspę Szpady™ specjalnie dla mnie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13335,8 +13343,8 @@
       <tuv lang="en-US">
         <seg>Didn't we run into each other last summer on Phatt Island™?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120951Z">
-        <seg>Nie wpadliśmy na siebie zeszłego lata na wyspie Phatta?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120244Z">
+        <seg>Nie wpadliśmy na siebie zeszłego lata na Wyspie Phatta™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13344,7 +13352,7 @@
         <seg>Didn't we share a cruise to Monkey Island™ once?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121238Z">
-        <seg>A my nie byliśmy w jednej załodze na wyspę Małp?</seg>
+        <seg>A my nie byliśmy w jednej załodze na Wyspę Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13664,7 +13672,7 @@
         <seg>Do you have any idea how difficult it is to escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121413Z">
-        <seg>Masz pojęcie, jak trudna jest ucieczka z wyspy Małp?</seg>
+        <seg>Masz pojęcie, jak trudna jest ucieczka z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13927,8 +13935,8 @@
       <tuv lang="en-US">
         <seg>Do you remember Dinky Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pamiętasz Wyspę Słodu?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122210Z">
+        <seg>Pamiętasz Wyspę Dinky™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14336,7 +14344,7 @@
         <seg>Don't listen to him, Carla...he just wants to take us back to Monkey Island™!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120828Z">
-        <seg>Nie słuchaj go, Carla... on chce nas znowu zabrać na wyspę Małp!</seg>
+        <seg>Nie słuchaj go, Carla... on chce nas znowu zabrać na Wyspę Małp™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14784,7 +14792,7 @@
         <seg>E...everyone who leaves Monkey Island™ finds their own path.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wszyscy opuszczający Wyspę Małp odnaleźli swoją drogę.</seg>
+        <seg>Wszyscy opuszczający Wyspę Małp™ odnaleźli swoją drogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14839,7 +14847,7 @@
       <tuv lang="en-US">
         <seg>ESCAPE FROM MONKEY ISLAND™</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="damia" changedate="20231130T123140Z">
         <seg>UCIECZKA Z WYSPY MAŁP™</seg>
       </tuv>
     </tu>
@@ -15168,7 +15176,7 @@
         <seg>Eh, it's a good thing we're on Monkey Island™, then.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Eh, więc to dobrze, że jesteś na Wyspie Małp.</seg>
+        <seg>Eh, więc to dobrze, że jesteś na Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15592,7 +15600,7 @@
         <seg>Enraged by this sacrilege, I gathered some pirates and raided Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Rozwścieczony przez to świętokradztwo, zebrałem kilku piratów i najechałem Wyspę Jambalaya.</seg>
+        <seg>Rozwścieczony przez to świętokradztwo, zebrałem kilku piratów i najechałem Wyspę Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15655,7 +15663,7 @@
       <tuv lang="en-US">
         <seg>Escape from Monkey Island™</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="damia" changedate="20231130T105749Z">
         <seg>Ucieczka z Wyspy Małp™</seg>
       </tuv>
     </tu>
@@ -15664,7 +15672,7 @@
         <seg>Escape from Monkey Island™ and its characters,</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ucieczka z wyspy Małp, postacie,</seg>
+        <seg>Ucieczka z Wyspy Małp™, postacie,</seg>
       </tuv>
     </tu>
     <tu>
@@ -15856,7 +15864,7 @@
         <seg>Every time he sees three or more pirates talking, he thinks we're plotting an invasion of Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Za każdym razem, kiedy widzi trzech lub więcej rozmawiających piratów, myśli, że planujemy inwazję na Wyspę Jambalaya.</seg>
+        <seg>Za każdym razem, kiedy widzi trzech lub więcej rozmawiających piratów, myśli, że planujemy inwazję na Wyspę Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15895,8 +15903,8 @@
       <tuv lang="en-US">
         <seg>Everyone knows that a mysterious foreign investor has bought up all the real estate around Booty Island™!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120740Z">
-        <seg>Wszyscy wiedzą, że tajemniczy zagraniczny inwestor wykupił wszystkie nieruchomości wokół wyspy Łupu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120207Z">
+        <seg>Wszyscy wiedzą, że tajemniczy zagraniczny inwestor wykupił wszystkie nieruchomości wokół Wyspy Łupu™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16176,7 +16184,7 @@
         <seg>Exit Escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Zamknąć Ucieczkę z Wyspy Małp?</seg>
+        <seg>Zamknąć Ucieczkę z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16968,7 +16976,7 @@
         <seg>From the personal log of Guybrush Threepwood:  Sometimes, when it's quiet, I can still hear the monkeys.  It's hard to believe that it's only been a few years since I first washed up on the beaches of M�l�e Island�, armed with nothing more than a goofy name and an overpowering urge to become a swashbuckling pirate.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T141606Z">
-        <seg>Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady, uzbrojony w durne imię i chęć zostania zawadiackim piratem.</seg>
+        <seg>Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal słyszę małpy. Trudno uwierzyć, że to ledwie parę lat, odkąd ocknąłem się na plaży Wyspy Szpady™, uzbrojony w durne imię i chęć zostania zawadiackim piratem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17097,6 +17105,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>GRRAH! Wypuście mnie stąd!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GUYBRUSH!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122830Z" creationid="damia" creationdate="20231130T122830Z">
+        <seg>GUYBRUSH!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17864,7 +17880,7 @@
         <seg>Go to Lucre Island™ to talk to the family lawyers.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T083857Z">
-        <seg>Płyń na wyspę Mamony i pogadaj z prawnikami.</seg>
+        <seg>Płyń na Wyspę Mamony™ i pogadaj z prawnikami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17928,7 +17944,7 @@
         <seg>Good afternoon, citizen.  I'm Męlée Island™ Governor Elaine Marley, and I'm running for re-election.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady, moje imię Elaine Marley i startuje w wyborach.</seg>
+        <seg>Dobry wieczór, wyborco. Jestem Gubernatorem Wyspy Szpady™, moje imię Elaine Marley i startuje w wyborach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18440,7 +18456,7 @@
         <seg>Great.  How am I supposed to get back to Męlée without a ship?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Świetnie. Więc jak mam wrócić na Wyspę Szpady bez statku?</seg>
+        <seg>Świetnie. Więc jak mam wrócić na Wyspę Szpady™ bez statku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18479,8 +18495,8 @@
       <tuv lang="en-US">
         <seg>Grog Jr.™ is the most foul tasting beverage I've EVER tasted...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Grog Junior to najbardziej obrzydliwy napój jaki w życiu piłem...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122058Z">
+        <seg>Grog Jr™ to najbardziej obrzydliwy napój jaki w życiu piłem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19876,7 +19892,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>He was 'The Friendly Pirate of Jambalaya Island™'.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Był znany jako "Przyjazny Pirat Wyspy Jambalaya"</seg>
+        <seg>Był znany jako "Przyjazny Pirat Wyspy Jambalaya™"</seg>
       </tuv>
     </tu>
     <tu>
@@ -19948,7 +19964,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>He's Lucre Island™'s uncatchable pirate thief.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To nie złapliwy złodziej Wyspy Mamony.</seg>
+        <seg>To nie złapliwy złodziej Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20076,7 +20092,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>He's single-handedly keeping the great unwashed pirate masses of Knuttin Atoll from corrupting the paradise of Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Sam, w pojedynkę świetnie radzi sobie z masą niegrzecznych piratów stąd do samej Wyspy Jambalaya</seg>
+        <seg>Sam, w pojedynkę świetnie radzi sobie z masą niegrzecznych piratów stąd do samej Wyspy Jambalaya™</seg>
       </tuv>
     </tu>
     <tu>
@@ -20092,7 +20108,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>He's the greatest pirate thief on Lucre Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To najlepszy złodziej na Wyspie Mamony!</seg>
+        <seg>To najlepszy złodziej na Wyspie Mamony™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20100,7 +20116,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>He's the perfect symbol of the new, non-threatening, Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya.</seg>
+        <seg>Tiny jest idealnym symbolem nowej, nie-pirackiej, Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20467,8 +20483,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Here at StarBuccaneer's™, we care less about the needs of the consumer, and more about the relationship we have with our competitors.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tutaj, w Starbuccaneerze nie obchodzi nas potrzeba klienta, wolimy mieć dobre układy z naszymi konkurentami.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122003Z">
+        <seg>Tutaj, w Starbukanier™ nie obchodzi nas potrzeba klienta, wolimy mieć dobre układy z naszymi konkurentami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20515,8 +20531,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Here!  You're Herman Toothrot, the hermit of Monkey Island™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tu! Herman Zgniłyząb, pustelnik Wsypy Małp!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122158Z">
+        <seg>Tu! Herman Toothrot, pustelnik Wyspy Małp™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20611,8 +20627,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Herman Toothrot</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Herman Zgniłyząb</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123120Z">
+        <seg>Herman Toothrot</seg>
       </tuv>
     </tu>
     <tu>
@@ -21052,7 +21068,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>Hey, according to Grandpa Marley's letter, the deed's here on Lucre Island™, at the local bank!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Hej, a propos listy dziadka, takie akty są tu, na Wyspie Mamony? W lokalnym banku!</seg>
+        <seg>Hej, a propos listy dziadka, takie akty są tu, na Wyspie Mamony™? W lokalnym banku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21395,8 +21411,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, this StarBuccaneer's™ logo mug looks like it's about the same shape and size as the Silver Monkey Mug.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231029T170820Z">
-        <seg>Hej, ten kubek z logo StarBuccaneer™ wygląda na mniej więcej taki sam kształt i rozmiar jak Kubek Srebrnej Małpy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121334Z">
+        <seg>Hej, ten kubek z logo StarBukaniera™ wygląda na mniej więcej taki sam kształt i rozmiar jak Kubek Srebrnej Małpy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22404,7 +22420,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>Hmmm...I remember...it's twenty years ago...I'm washing ashore on Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Hmmm...Pamiętam... jakieś dwadzieścia lat. temu.... Jestem wyrzucany na brzeg Wyspy Małp.</seg>
+        <seg>Hmmm...Pamiętam... jakieś dwadzieścia lat. temu.... Jestem wyrzucany na brzeg Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22691,8 +22707,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How about a half-decaf, half-caf triple cappuccino mocha latte from StarBuccaneers™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A może chcesz te wszystkie włoskie kawy z Starbuccaneers?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121019Z">
+        <seg>A może chcesz te wszystkie włoskie kawy z Starbukaniera™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22852,7 +22868,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>How can an effete snob like Charles hope to relate to the hopes and desires of a swashbuckling community like Męlée Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T223851Z">
-        <seg>Jak taki słaby snob jak Charles może dać nadzieję i pragnienia zawadiackiej społeczności piratów na wyspie Szpady?</seg>
+        <seg>Jak taki słaby snob jak Charles może dać nadzieję i pragnienia zawadiackiej społeczności piratów na Wyspie Szpady™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22964,15 +22980,15 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>How did you Escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jak udało ci się Uciec z Wyspy Małp?</seg>
+        <seg>Jak udało ci się Uciec z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>How did you and Carla and Otis ESCAPE FROM MONKEY ISLAND™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W jaki sposób ty, Carla i Otis UCIEKLIŚCIE Z WYSPY MAŁP?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120610Z">
+        <seg>W jaki sposób ty, Carla i Otis UCIEKLIŚCIE Z WYSPY MAŁP™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23020,7 +23036,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>How do I get to Lucre Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T192115Z">
-        <seg>Jak dotrzeć do wyspy Mamony?</seg>
+        <seg>Jak dotrzeć do Wyspy Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23460,7 +23476,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>How're things on Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Co tam słychać na Wyspie Małp?</seg>
+        <seg>Co tam słychać na Wyspie Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23596,7 +23612,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>Hugo's not a pirate, Hugo's a model citizen, making a positive economic contribution to the economic well-being of Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Hugo nie jest piratem, Hugo jest wzorem społeczeństwa, który tworzy ogromny wkład w dobro Wyspy Mamony.</seg>
+        <seg>Hugo nie jest piratem, Hugo jest wzorem społeczeństwa, który tworzy ogromny wkład w dobro Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23996,7 +24012,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I am the Chief Assistant Shipyard Regulator, Harbor Operations, Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231020T075510Z">
-        <seg>Jestem głównym zastępcą regulatora stoczni, obsługa portu, wyspa Szpady"</seg>
+        <seg>Jestem głównym zastępcą regulatora stoczni, obsługa portu, Wyspa Szpady™"</seg>
       </tuv>
     </tu>
     <tu>
@@ -24459,8 +24475,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can see most of Męlée Island™ from here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Stąd widać prawie całą wyspę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120124Z">
+        <seg>Stąd widać prawie całą Wyspę Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24492,7 +24508,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I can see the forests of Męlée Island™ from here.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231019T142034Z">
-        <seg>Widać stąd lasy wyspy Szpady.</seg>
+        <seg>Widać stąd lasy Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25076,7 +25092,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I could've really used some cash on Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Mógłbym mieć wielką potrzebę posiadania gotówki na Wyspę Mamony.</seg>
+        <seg>Mógłbym mieć wielką potrzebę posiadania gotówki na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26340,7 +26356,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I doubt he'd be interested in a map to Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wątpię, żeby podobała mu się mapa Wyspy Jambalaya.</seg>
+        <seg>Wątpię, żeby podobała mu się mapa Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26579,8 +26595,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I get the feeling that this LucasArts™ organization is controlling everything that happens in the Tri-Island Area...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam przeczucie, że LucasArts kontroluje wszystko co się dzieje na Archipelagu Tri-Island...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122456Z">
+        <seg>Mam przeczucie, że LucasArts™ kontroluje wszystko co się dzieje na Archipelagu Tri-Island...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27012,7 +27028,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I have been assigned the singular honor of guarding Ozzie Mandrill's commercial interests on Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Mam przydzielone sprawować ochronę interesów handlowych Ozziego Mandrilla na całym terenie Wyspy Jambalaya</seg>
+        <seg>Mam przydzielone sprawować ochronę interesów handlowych Ozziego Mandrilla na całym terenie Wyspy Jambalaya™</seg>
       </tuv>
     </tu>
     <tu>
@@ -27180,7 +27196,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I haven't got a crew to take me to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T153034Z">
-        <seg>Nie mam załogi, aby płynąć na wyspę Mamony.</seg>
+        <seg>Nie mam załogi, aby płynąć na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,7 +27716,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I made my way back to Męlée Island™, where I tried to resume my former profession.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121557Z">
-        <seg>wróciłem na wyspę Szpady, gdzie próbowałem odtworzyć dawną profesję.</seg>
+        <seg>wróciłem na Wyspę Szpady™, gdzie próbowałem odtworzyć dawną profesję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27852,7 +27868,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I need a ship to take me to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T154209Z">
-        <seg>Potrzebuje statku na wyspę Mamony.</seg>
+        <seg>Potrzebuje statku na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,7 +28268,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I really don't think I'm in good enough shape to SWIM back to Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by płynąć kraulem na Wyspę Szpady.</seg>
+        <seg>Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by płynąć kraulem na Wyspę Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28284,7 +28300,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I really hope that you aren't trying to bribe an employee of the Męlée Island™ government.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130719T100010Z">
-        <seg>Mam nadzieję, że nie próbowałeś skorumpować pracownika urzędu wyspy Szpady™.</seg>
+        <seg>Mam nadzieję, że nie próbowałeś skorumpować pracownika urzędu Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28332,7 +28348,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I really, REALLY need to get back to Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Al ja NAPRAWDĘ muszę wrócić na Wyspę Szpady.</seg>
+        <seg>Al ja NAPRAWDĘ muszę wrócić na Wyspę Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28523,8 +28539,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I see you bought one of those great StarBuccaneer's™ coffee mugs.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Widzę, że kupiłaś jeden z tych świetnych Kubków do Kawy od Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121219Z">
+        <seg>Widzę, że kupiłaś jeden z tych świetnych Kubków do Kawy od Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28835,8 +28851,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I sure don't want a trendy, overpriced StarBuccaneer's™ umbrella.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie potrzebuje być modny za taką cenę!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121657Z">
+        <seg>Na pewno nie chcę modnego, parasola StarBukaniera™ z zawyżoną ceną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30436,7 +30452,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I would, but once I win the Męlée Championship, I'm going to have to go on tour to win the 'Tri-Island Dart Thrower's Championship'.</seg>
       </tuv>
       <tuv lang="pl" changeid="dapyt" changedate="20231017T111156Z">
-        <seg>Chciałbym, ale po wygraniu Mistrzostw wyspy Szpady, będę musiał wyruszyć w trasę po Puchar Rzutek na Trójwyspie.</seg>
+        <seg>Chciałbym, ale po wygraniu Mistrzostw Wyspy Szpady™, będę musiał wyruszyć w trasę po Puchar Rzutek na Trójwyspie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30772,7 +30788,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I'd like to hear some more about what's going on on Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Chciałbym posłuchać więcej o tym, co się dzieje na Wyspie Małp.</seg>
+        <seg>Chciałbym posłuchać więcej o tym, co się dzieje na Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30915,8 +30931,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'd love to hear some more about the old Męlée Island™ gang.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120232Z">
-        <seg>Chciałbym usłyszeć coś więcej o starej bandzie Szpady.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120138Z">
+        <seg>Chciałbym usłyszeć coś więcej o starej bandzie Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30971,8 +30987,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'd rather not throw my inventory into the sewers of Lucre Island™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie będe wrzucał moich rzeczy do włazy kanalizacyjnego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122721Z">
+        <seg>Nie będe wrzucał moich rzeczy do włazy kanalizacyjnego Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31020,7 +31036,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I'd still like to Escape from Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wciąż pragnę Ucieczki z Wyspy Małp.</seg>
+        <seg>Wciąż pragnę Ucieczki z Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31172,7 +31188,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I'll bet you could get into any bathroom on Lucre Island™ through here!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Założę się, że mógłbyś dostać się do każdej łazienki na Wyspie Mamony tym wejściem.</seg>
+        <seg>Założę się, że mógłbyś dostać się do każdej łazienki na Wyspie Mamony™ tym wejściem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31252,7 +31268,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I'll get to that. First, let me tell you how I ended up here on Monkey Island™,</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T094354Z">
-        <seg>O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp,</seg>
+        <seg>O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -31260,7 +31276,7 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
         <seg>I'll get to that. First, let me tell you how I ended up here on Monkey Island�, with nothing but a busted accordion, most of the clothes on my back, and a head full of broken memories.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T131924Z">
-        <seg>O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień.</seg>
+        <seg>O tym później. Najpierw opowiem ci, jak znalazłem się na Wyspie Małp™, nie mając nic poza rozwalonym akordeonem, większością ubrań na grzbiecie i głową pełną zepsutych wspomnień.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31689,7 +31705,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>I'm Elaine Marley, the Pirate Princess of Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jestem Elaine Marley, Piracka Księżniczka Wyspy Szpady!</seg>
+        <seg>Jestem Elaine Marley, Piracka Księżniczka Wyspy Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31777,7 +31793,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>I'm Guybrush Threepwood, the Love Machine of Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jestem Guybrush Threepwood, Największy Amant Wyspy Szpady.</seg>
+        <seg>Jestem Guybrush Threepwood, Największy Amant Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,7 +31961,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>I'm admiring the craftsmanship of this statue of Jambalaya's most famous pirate:  Tiny LaFeet.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Podziwiam statuę największego pirata Wyspy Jambalaya: Tiny LaFeete.</seg>
+        <seg>Podziwiam statuę największego pirata Wyspy Jambalaya™: Tiny LaFeete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32120,8 +32136,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm drinking to forget all that time I spent stranded on Monkey Island™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Piję by zamnipoeć Wyspe Małp, te czaysy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121132Z">
+        <seg>Piję by zamnipoeć Wyspę Małp™, te czaysy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32840,8 +32856,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm picking up some bags of this absolutely fabulous StarBuccaneer's™ Coffee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podnoszę torbę pełną bajecznie wspaniałych Kaw Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T103904Z">
+        <seg>Podnoszę torbę pełną bajecznie wspaniałych Kaw Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32881,7 +32897,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>I'm putting together a crew for a mission to Lucre Island™.  Wanna join?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120247Z">
-        <seg>Zbieram załogę na misję na wyspę Mamony. Dołączacie?</seg>
+        <seg>Zbieram załogę na misję na Wyspę Mamony™. Dołączacie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -33241,7 +33257,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>I'm trying to get a crew to go to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T114542Z">
-        <seg>Próbuję zebrać załogę na wyspę Mamony.</seg>
+        <seg>Próbuję zebrać załogę na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34040,8 +34056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I... I blew it all gambling on spitting contests on Booty Island™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130713T100850Z">
-        <seg>Wszystko straciłem obstawiając na konkursie plucia na wyspie Łupu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120554Z">
+        <seg>Wszystko straciłem obstawiając na konkursie plucia na Wyspie Łupu™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34536,8 +34552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If that one doesn't suit you, I could always get out the Voodoo Anklet of Excruciating Pain™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130801T144359Z">
-        <seg>Jeśli ta ci nie pasuje, zawsze mogę przynieść ci Łańcuszek Vodoo wersje MĘCZARNIA BÓLU.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120735Z">
+        <seg>Jeśli ta ci nie pasuje, zawsze mogę przynieść ci Łańcuszek Vodoo wersje MĘCZARNIA BÓLU™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34736,8 +34752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you didn't use Herman's ship, how DID you ESCAPE FROM MONKEY ISLAND™?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130721T142910Z">
-        <seg>Jeśli nie płynęliście statkiem Hermana, to jak UCIEKLIŚCIE Z WYSPY MAŁP?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120620Z">
+        <seg>Jeśli nie płynęliście statkiem Hermana, to jak UCIEKLIŚCIE Z WYSPY MAŁP™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35017,7 +35033,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>In any event, the few pirates remaining on Męlée Island™ live in constant fear of being challenged by this foreign investor.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T121011Z">
-        <seg>Nieliczni piraci zostali na wyspie Szpady. Żyją w ciągłym strachu przed wyzwaniem ze strony zagranicznego inwestora.</seg>
+        <seg>Nieliczni piraci zostali na Wyspie Szpady™. Żyją w ciągłym strachu przed wyzwaniem ze strony zagranicznego inwestora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35137,7 +35153,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Indeed they are, lad.  If the Męlée Island™ of tomorrow is to prosper, it must be governed by a man of the people...</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T083636Z">
-        <seg>Istotnie. Jeśli wyspa Szpady jutra ma prosperować, to musi być rządzona przez przedstawiciela ludu...</seg>
+        <seg>Istotnie. Jeśli Wyspa Szpady™ jutra ma prosperować, to musi być rządzona przez przedstawiciela ludu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35577,7 +35593,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Is there something I could do to convince you to navigate my ship to Lucre Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T151156Z">
-        <seg>Czy dałby się pan jakoś przekonać, aby nawigować mój statek na Wyspę Mamony?</seg>
+        <seg>Czy dałby się pan jakoś przekonać, aby nawigować mój statek na Wyspę Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35720,8 +35736,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It IS the Męlée Island™ Gubernatorial Seal.  Uh. One of them, anyway.  Ya see. A good governor always keeps a spare around, in case the original gets lost. He he he.  The Seal is the key to unlocking the dread power of the Ultimate Insult; uh without it, it's just a weird-looking maraca.  Tell me, Guybrush, where is the other Gubernatorial Seal?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T091249Z">
-        <seg>Bo to jest pieczęć gubernatorska. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120023Z">
+        <seg>Bo to jest Pieczęć Gubernatora Wyspy Szpady™. A przynajmniej jedna z wielu. Dobry gubernator zawsze ma kilka w zanadrzu, gdyby zgubił oryginał. Pieczęć to klucz odblokowujący moc Talizmanu Zniewagi: bez niej to tylko marakas o dziwnym wyglądzie. Gdzie jest druga pieczęć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35729,7 +35745,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It IS the official Gubernatorial Seal of Męlée Island™.  Uh, one of them, anyway.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231029T140222Z">
-        <seg>To oficjalna Pieczęć Gubernatora Wyspy Szpady. Jedna z wielu.</seg>
+        <seg>To oficjalna Pieczęć Gubernatora Wyspy Szpady™. Jedna z wielu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36089,7 +36105,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It leads back to the Lucre Island™ forests.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231122T183131Z">
-        <seg>Ta droga prowadzi do lasów Wyspy Mamony</seg>
+        <seg>Ta droga prowadzi do lasów Wyspy Mamony™</seg>
       </tuv>
     </tu>
     <tu>
@@ -36920,8 +36936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's Jambalaya Island's™ plank diving competition area.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zawody nurkowania na Wyspi Jambalaya.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122701Z">
+        <seg>Zawody nurkowania na Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36937,7 +36953,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's Meathook's painting, modified to show the route to Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To dzieło Meathooka, przerobione tak, aby wskazywało drogę na Wyspę Jambalaya.</seg>
+        <seg>To dzieło Meathooka, przerobione tak, aby wskazywało drogę na Wyspę Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37097,7 +37113,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's a brochure for Stan's Jambalaya Timeshare Emporium.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To ulotka z "Wakacje ze Stanem" na wyspie Jambalaya.</seg>
+        <seg>To ulotka z "Wakacje ze Stanem" na Wyspie Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,8 +37304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's a frosty cup of StarBuccaneer's™ groggoccino.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To kufel zimnego Grogoccino Starbuccaneer.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122645Z">
+        <seg>To kufel zimnego Grogoccino ze Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38056,8 +38072,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's an empty StarBuccaneer's™ groggoccino cup.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To tylko pusty kufel Grogoccino Starbuccaneera</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122637Z">
+        <seg>To tylko pusty kufel Grogoccino ze Starbukaniera™</seg>
       </tuv>
     </tu>
     <tu>
@@ -38224,8 +38240,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's called 'Grog Jr.'™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zwą się Grog Junior.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122102Z">
+        <seg>Zwą się Grog Jr™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38425,7 +38441,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's good to see that Lucre Island™ doesn't mollycoddle its criminal element.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Miło widzieć, że Wyspa Mamony nie pieści się z kryminalistami.</seg>
+        <seg>Miło widzieć, że Wyspa Mamony™ nie pieści się z kryminalistami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38808,8 +38824,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's old Herman Toothrot, the hermit of Monkey Island™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Stary Herman Zgniłyząb, pustelnik Wyspy Małp.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122552Z">
+        <seg>Stary Herman Toothrot, pustelnik Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38833,7 +38849,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's one of the many proud monkeys of Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jedna z wielu małpek żyjących na Wyspie Małp.</seg>
+        <seg>Jedna z wielu małpek żyjących na Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39017,7 +39033,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's the boat I brought from Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To łódka, którą przypłynąłem z Wyspy Jambalaya.</seg>
+        <seg>To łódka, którą przypłynąłem z Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,8 +39064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's the company credo.  We have to learn it before we earn the right to wear the StarBuccaneer's™ apron.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Taki jest rynek. Uczymy się tego zanim zaczniemy zarabiać kasę i nosić te oryginalne uniformy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121948Z">
+        <seg>Taki jest rynek. Uczymy się tego zanim zaczniemy zarabiać kasę i nosić uniformy z logo StarBukanier™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39216,8 +39232,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's the machine that dispenses all the StarBuccaneer's™ fancy coffee drinks.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ten automat robi takie pyszne kawowe drinki od Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121811Z">
+        <seg>Ten automat robi takie pyszne kawowe drinki od Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39233,7 +39249,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>It's the official Gubernatorial Symbol of Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130714T113009Z">
-        <seg>To oficjalny Symbol Gubernatora wyspy Szpady.</seg>
+        <seg>To oficjalny Symbol Gubernatora Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39553,7 +39569,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Its pieces are supposed to be somewhere on Jambalaya Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Mówią, że jego części są na Wyspie Jambalaya, czy to prawda?</seg>
+        <seg>Mówią, że jego części są na Wyspie Jambalaya™, czy to prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -39649,7 +39665,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Jambalaya Island Map</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T152431Z">
-        <seg>Mapa Wyspy Jambalaya</seg>
+        <seg>Mapa Wyspy Jambalaya™</seg>
       </tuv>
     </tu>
     <tu>
@@ -39657,7 +39673,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Jambalaya Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wyspa Jambalaya</seg>
+        <seg>Wyspa Jambalaya™</seg>
       </tuv>
     </tu>
     <tu>
@@ -39665,7 +39681,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Jambalaya Island™.  Home of the Ultimate Insult.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130716T124735Z">
-        <seg>Wyspa Jambalaya! Dom Talizmanu Upokorzenia.</seg>
+        <seg>Wyspa Jambalaya™! Dom Talizmanu Upokorzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39673,7 +39689,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Jambalaya Island™?  'Kinda name is that?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130716T124800Z">
-        <seg>Wyspa Jambalaya? Co to za nazwa?</seg>
+        <seg>Wyspa Jambalaya™? Co to za nazwa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -40209,7 +40225,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Just give it back the minute you return from Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130714T132037Z">
-        <seg>Niech to poczeka do momentu, gdy wrócić z wyspy Mamony.</seg>
+        <seg>Niech to poczeka do momentu, gdy wrócić z Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,8 +40736,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>LeChuck told me there was a tunnel between Dinky and Monkey Island™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>LeChuck powiedział mi, że istnieje tunel pomiędzy wyspami Słodu i Małp.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122249Z">
+        <seg>LeChuck powiedział mi, że istnieje tunel pomiędzy wyspami Dinky i Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41129,7 +41145,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Let's not talk about Monkey Island™ right now.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Już nie chce gadać o Wyspie Małp.</seg>
+        <seg>Już nie chce gadać o Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41273,7 +41289,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Like I said, there is no Escape from Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Już mówiłem, że nie ma Ucieczki z Wyspy Małp.</seg>
+        <seg>Już mówiłem, że nie ma Ucieczki z Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41465,7 +41481,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Listen, we're playing for the title of 'Grand Master Dart Champion of Męlée Island™'</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130712T160849Z">
-        <seg>Słuchaj, gramy o tytuł "Mistrza Rzutek na wyspie Szpady".</seg>
+        <seg>Słuchaj, gramy o tytuł "Mistrza Rzutek na Wyspie Szpady™".</seg>
       </tuv>
     </tu>
     <tu>
@@ -41824,8 +41840,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Lots of coffee and a StarBuccaneer's™ logo coffee cup.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dużo kawy i Kubków od Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121824Z">
+        <seg>Dużo kawy i Kubków od Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41880,24 +41896,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>LucasArts Entertainment Company™</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>LucasArts Entertainment Company</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123144Z">
+        <seg>LucasArts Entertainment Company™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LucasArts™ mug</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T190623Z">
-        <seg>kubek LucasArts</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123018Z">
+        <seg>kubek LucasArts™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LucasArts™ seems to have their grubby hands into everything around here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>LucasArts musiał położyć na wszystkim swoje odciski.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122454Z">
+        <seg>LucasArts™ musiał położyć na wszystkim swoje odciski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41937,7 +41953,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Lucre Island Map</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T152058Z">
-        <seg>Mapa Wyspy Mamony</seg>
+        <seg>Mapa Wyspy Mamony™</seg>
       </tuv>
     </tu>
     <tu>
@@ -41945,7 +41961,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Lucre Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wyspa Mamony</seg>
+        <seg>Wyspa Mamony™</seg>
       </tuv>
     </tu>
     <tu>
@@ -41953,7 +41969,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Lucre Island™ Port Authority</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Administracja Portu na Wyspie Mamony.</seg>
+        <seg>Administracja Portu na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42409,7 +42425,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Maybe it's still on Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T081731Z">
-        <seg>Może pozostał na wyspie Mamony?</seg>
+        <seg>Może pozostał na Wyspie Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42665,7 +42681,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Melee Island Map</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T151656Z">
-        <seg>Mapa Wyspy Szpady</seg>
+        <seg>Mapa Wyspy Szpady™</seg>
       </tuv>
     </tu>
     <tu>
@@ -42888,8 +42904,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Mister Grog Machine™</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>automat do grogu</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123002Z">
+        <seg>Pan Grogomat™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43089,7 +43105,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island Beach</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T152554Z">
-        <seg>plaża Wyspy Małp</seg>
+        <seg>plaża Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43097,7 +43113,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island Canyon</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T152529Z">
-        <seg>Kanion Wyspy Małp</seg>
+        <seg>Kanion Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43105,7 +43121,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island Map</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231112T152602Z">
-        <seg>mapa Wyspy Małp</seg>
+        <seg>mapa Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43113,7 +43129,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wyspa Małp</seg>
+        <seg>Wyspa Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43121,7 +43137,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island™ Beach</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Plaża Wyspy Małp</seg>
+        <seg>Plaża Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43129,7 +43145,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island™ Map</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>mapa Wyspy Małp</seg>
+        <seg>mapa Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -43137,7 +43153,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Wyspie Małp?</seg>
+        <seg>Wyspie Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43577,7 +43593,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>My contract explicitly states that I'm not to leave Męlée Island™ until this house has been demolished.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T115651Z">
-        <seg>W umowie o pracę jest wzmianka, że nie mogę opuścić wyspy Szpady, nim nie skończę z chałupą.</seg>
+        <seg>W umowie o pracę jest wzmianka, że nie mogę opuścić Wyspy Szpady™, nim nie skończę z chałupą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43649,7 +43665,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, Męlée Island™.'</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231019T172548Z">
-        <seg>A dokładniej "Główny zastępca regulatora stoczni, obsługa portu, wyspa Szpady".</seg>
+        <seg>A dokładniej "Główny zastępca regulatora stoczni, obsługa portu, Wyspa Szpady™".</seg>
       </tuv>
     </tu>
     <tu>
@@ -43657,7 +43673,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>My full title is 'Chief Assistant Shipyard Regulator, Harbor Operations, M�l�e Island�.'</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T131634Z">
-        <seg>A dokładniej "Główny zastępca regulatora stoczni, obsługa portu, wyspa Szpady".</seg>
+        <seg>A dokładniej "Główny zastępca regulatora stoczni, obsługa portu, Wyspa Szpady™".</seg>
       </tuv>
     </tu>
     <tu>
@@ -43841,7 +43857,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>My opponent is right: I am a newcomer to these islands.  And it's true that my experience in affairs of state is minimal at best.  But it doesn't take a seventh-generation pirate princess to see that M�l�e Island� needs more than a part-time status quo Governor...a Governor who can't even promise her citizens...Good Times and Free Grog!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T084458Z">
-        <seg>Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!</seg>
+        <seg>Mój przeciwnik ma rację: jestem tu nowy.  I prawdą jest, że moje doświadczenie w sprawach państwowych jest w najlepszym razie minimalne.  Ale nie trzeba być piracką księżniczką w siódmym pokoleniu, by dostrzec, że Wyspa Szpady™ potrzebuje czegoś więcej niż gubernatora na pół etatu... gubernatora, który nie może nawet obiecać... dobre czasy i darmowego grogu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43913,7 +43929,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>My voodoo instincts tell me it's somewhere on Męlée Island™.  How curious.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T143105Z">
-        <seg>Moje voodoo instynkty mówią mi, że pozostał gdzieś na wyspie Szpady. To ciekawe.</seg>
+        <seg>Moje voodoo instynkty mówią mi, że pozostał gdzieś na Wyspie Szpady™. To ciekawe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43961,14 +43977,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Męlée Island's™ Governor Elaine Marley?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Gubernator wyspy Szpady™, Elaine Marley.</seg>
+        <seg>Gubernator Wyspy Szpady™, Elaine Marley.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Męlée Island™</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183325Z">
+      <tuv lang="pl" changeid="damia" changedate="20231130T105438Z">
         <seg>Wyspa Szpady™</seg>
       </tuv>
     </tu>
@@ -43977,7 +43993,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Męlée Island™ Gubernatorial Symbol</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T103259Z">
-        <seg>Symbol Gubernatora Wyspy Szpady</seg>
+        <seg>Symbol Gubernatora Wyspy Szpady™</seg>
       </tuv>
     </tu>
     <tu>
@@ -46168,8 +46184,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No.  Because he's wanted for approximately three hundred other crimes on Lucre Island™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie. Z powodu trzystu innych przestępstw, które zdążył popełnić.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120959Z">
+        <seg>Nie. Z powodu trzystu innych przestępstw, które zdążył popełnić na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46241,7 +46257,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>No.  You are confined to Lucre Island™.  You are not permitted to leave until and unless you are cleared of the crime of bank robbery.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231123T142215Z">
-        <seg>Nie. Jest pan zamknięty na Wyspie Mamony. Nie wolno panu jej opuścić, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.</seg>
+        <seg>Nie. Jest pan zamknięty na Wyspie Mamony™. Nie wolno panu jej opuścić, dopóki nie zostanie pan oczyszczony z zarzutu napadu na bank.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46792,8 +46808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Not me, that's for sure.  Back then the only thing duller than my sword was my wit.  Now look at me.  I'm married to the most beautiful governmental official in the Caribbean, the entire Tri-Island Area shudders at the sound of my name, and now my Plunder Bunny and I are returning to M�l�e Island� after the most incredible honeymoon in the history of-</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231110T141954Z">
-        <seg>Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Szpadę, po najniezwyklejszym miesiącu miodowym w historii...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122802Z">
+        <seg>Na pewno nie ja. Jedyną rzeczą bardziej tępą od mej szabli był mój dowcip. A teraz sam popatrz! Poślubiłem najpiękniejszą rządową urzędniczkę Karaibów, cały Trójwysep drży słysząc me imię, a ja i mój zbójecki króliczek wracamy na Wyspę Szpady™, po najniezwyklejszym miesiącu miodowym w historii...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47193,7 +47209,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Now I ask you, what does Męlée Island™ need more:</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T222933Z">
-        <seg>Co wyspie Szpady bardziej potrzeba:</seg>
+        <seg>Co Wyspie Szpady™ bardziej potrzeba:</seg>
       </tuv>
     </tu>
     <tu>
@@ -47377,7 +47393,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Now is the time foretold in the ancient prophecies of Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231117T113643Z">
-        <seg>Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp.</seg>
+        <seg>Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47385,7 +47401,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Now is the time foretold in the ancient prophecies of Monkey Island�.  Now is the time for the ultimate in...</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231117T113636Z">
-        <seg>Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp. Czas na talizman...</seg>
+        <seg>Teraz czas przepowiedziany w starożytnych proroctwach Wyspy Małp™. Czas na talizman...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47465,7 +47481,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Now that the pieces of the Ultimate Insult are mine, it's back to Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Teraz te części Talizmanu Upokorzenia należą do mnie. Powrót na Wyspę Szpady!</seg>
+        <seg>Teraz te części Talizmanu Upokorzenia należą do mnie. Powrót na Wyspę Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -47761,7 +47777,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Now, while I concentrate on running for reelection, you're going to get yourself to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="dapyt" changedate="20231017T134137Z">
-        <seg>Podczas gdy ja skupiam się na przygotowaniu do wyborów, ty masz się dostać na wyspę Mamony.</seg>
+        <seg>Podczas gdy ja skupiam się na przygotowaniu do wyborów, ty masz się dostać na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47912,8 +47928,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course you can.  There are thousands of StarBuccaneers™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Możesz. Wystarczy, że znajdziesz inną siedzibę Starbuccaneera od tej!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121209Z">
+        <seg>Możesz. Wystarczy, że znajdziesz inną siedzibę Starbukaniera™ od tej!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48937,7 +48953,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Oh, he's the most notorious thief on Lucre Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To najbardziej wpływowy złodziej na Wyspie Mamony.</seg>
+        <seg>To najbardziej wpływowy złodziej na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49736,8 +49752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh. Elaine, I'd like you to meet Jojo Jr., the Monkey Prince of Monkey Island™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T131018Z">
-        <seg>Elaine, poznaj Jojo Juniora, Księcia Małp wyspy Małp™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T105811Z">
+        <seg>Elaine, poznaj Jojo Juniora, Księcia Małp Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49873,7 +49889,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Okay, I'm off to start my campaign.  Don't spend too much time on Lucre Island™, dearest!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130708T084117Z">
-        <seg>Muszę zacząć kampanię. Nie przesiaduj za długo na wyspie Mamony.</seg>
+        <seg>Muszę zacząć kampanię. Nie przesiaduj za długo na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50537,7 +50553,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Only that it's somewhere on Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T081825Z">
-        <seg>Wiem tylko, że jest gdzieś na wyspie Szpady.</seg>
+        <seg>Wiem tylko, że jest gdzieś na Wyspie Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50633,7 +50649,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Ooh, that's one of the darkest mysteries of Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To jedna z najmroczniejszych tajemnic na Wyspie Mamony.</seg>
+        <seg>To jedna z najmroczniejszych tajemnic na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50968,8 +50984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Or maybe I've got an unbreakable five-game deal with LucasArts™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T075124Z">
-        <seg>...a może podpisałam z LucasArts'em pięcioletnią umowę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120403Z">
+        <seg>...a może podpisałam z LucasArts™ pięcioletnią umowę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51057,7 +51073,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Or that my efforts to win Elaine's hand would repeatedly drag me to the mystery-drenched shores of Monkey Island�?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T141732Z">
-        <seg>Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp?</seg>
+        <seg>Albo że próby zdobycia jej ręki przywiodą mnie w przesiąknięte tajemnicą brzegi Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -51122,6 +51138,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Jest w więzieniu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Otis!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120302Z" creationid="damia" creationdate="20231130T120302Z">
+        <seg>Otis!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53721,7 +53745,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Restart Escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Resetować Ucieczkę z Wyspy Małp?</seg>
+        <seg>Resetować Ucieczkę z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54441,7 +54465,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Second, I want you to go to Lucre Island™.  Talk to my grandpa's lawyers.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T212149Z">
-        <seg>Po drugie, popłyń na wyspę Mamony. Pomów z prawnikami dziadka.</seg>
+        <seg>Po drugie, popłyń na Wyspę Mamony™. Pomów z prawnikami dziadka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54681,7 +54705,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>She had a picture of Monkey Island™ tattooed on her butt.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Miała na pośladku tatuaż z Wyspą Małp.</seg>
+        <seg>Miała na pośladku tatuaż z Wyspą Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55033,7 +55057,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Since when are there so many monkeys on Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Od kiedy jest tak dużo małp na Wyspie Małp?</seg>
+        <seg>Od kiedy jest tak dużo małp na Wyspie Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55817,7 +55841,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>So, you really don't remember anything about your life before you washed up on Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Czyli nie pamiętasz nic co się działo przed tym jak wylądowałeś na brzegu Wyspy Małp?</seg>
+        <seg>Czyli nie pamiętasz nic co się działo przed tym jak wylądowałeś na brzegu Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56105,7 +56129,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Something's rotten on Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T211757Z">
-        <seg>Coś mi śmierdzi na wyspie Szpady.</seg>
+        <seg>Coś mi śmierdzi na Wyspie Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56352,8 +56376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Sorry, we're fresh out.  We're expecting a shipment from Dinky Island™ early next week, though.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130712T081540Z">
-        <seg>Niestety, skończyły się. Ale oczekujemy dostawy z wyspy Słodu na początku tygodnia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120446Z">
+        <seg>Niestety, skończyły się. Ale oczekujemy dostawy z Wyspy Dinky™ na początku tygodnia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56680,8 +56704,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>StarBuccaneer's™</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231124T181952Z">
-        <seg>StartBukanier</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123107Z">
+        <seg>StartBukanier™</seg>
       </tuv>
     </tu>
     <tu>
@@ -56696,32 +56720,32 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>StarBuccaneer's™ counter clerk</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231124T182002Z">
-        <seg>kasjer Starbukaniera</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123044Z">
+        <seg>kasjer Starbukaniera™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>StarBuccaneer's™ logo merchandise.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Logo towarowe Starbuccaneera</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121327Z">
+        <seg>Logo towarowe Starbukaniera™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>StarBuccaneer's™ logo mug</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231124T182034Z">
-        <seg>kubek z logiem Starbukaniera</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122900Z">
+        <seg>kubek z logiem Starbukaniera™</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>StarBuccaneer's™ sign</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231124T182017Z">
-        <seg>szyld Starbukaniera</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122939Z">
+        <seg>szyld Starbukaniera™</seg>
       </tuv>
     </tu>
     <tu>
@@ -57457,7 +57481,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>THAT'S one of the 'darkest mysteries' of Lucre Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>A więc TO jest "najmroczniejsza tajemnica" na Wyspie Mamony?</seg>
+        <seg>A więc TO jest "najmroczniejsza tajemnica" na Wyspie Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -57697,7 +57721,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Tell me again how to get to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231016T132351Z">
-        <seg>Jeszcze raz: jak się dostać na Wyspę Mamony?</seg>
+        <seg>Jeszcze raz: jak się dostać na Wyspę Mamony™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -58016,8 +58040,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That 'goop' you are referring to is StarBuccaneer's™ own Schmear Whiz™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pyszny krem na ciasteczkach typu Schmear Whiz.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122407Z">
+        <seg>Pyszny krem na ciasteczkach typu Schmear Whiz™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58120,8 +58144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That delicious mini-bagel you're about to sample has StarBuccaneer's™ own Schmear Whiz™ on it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T092729Z">
-        <seg>Ten przepyszny mini bajgiel ma na sobie Schmear Whiz firmy StarBuccaneer.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122418Z">
+        <seg>Ten przepyszny mini bajgiel ma na sobie Schmear Whiz™ marki StarBukanier™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58225,7 +58249,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That doesn't need a painting with a map to Jambalaya Island™ on it.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To nie potrzebuje obrazu z mapą na Wyspę Jambalaya.</seg>
+        <seg>To nie potrzebuje obrazu z mapą na Wyspę Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58352,8 +58376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That door goes into the StarBuccaneer's™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Drzwi prowadzą prosto do Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122535Z">
+        <seg>Drzwi prowadzą prosto do Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58433,7 +58457,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That goes back to Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Tędy wrócę na Wyspę Małp.</seg>
+        <seg>Tędy wrócę na Wyspę Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58585,7 +58609,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That leads back to Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231123T100846Z">
-        <seg>Prowadzi na Wyspę Mamony.</seg>
+        <seg>Prowadzi na Wyspę Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58672,8 +58696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That looks like the Męlée Island™ Gubernatorial Seal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120919Z">
-        <seg>Wygląda jak pieczęć gubernatora wyspy Szpady™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120006Z">
+        <seg>Wygląda jak Pieczęć Gubernatora Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58753,7 +58777,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That path leads into the mysterious depths of Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ścieżka prowadzi w tajemniczą otchłań Wyspy Małp.</seg>
+        <seg>Ścieżka prowadzi w tajemniczą otchłań Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59648,8 +59672,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's no way to talk, Governor.  We've got to work together to save Męlée Island™ from Ozzie and LeChuck!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120437Z">
-        <seg>Takie gadanie nic nam nie da, gubernatorze. Musimy połączyć siły, by ocalić Szpadę™ przed Ozzie'm i LeChuckiem!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T105415Z">
+        <seg>Takie gadanie nic nam nie da, gubernatorze. Musimy połączyć siły, by ocalić Wyspę Szpady™ przed Ozzie'm i LeChuckiem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60025,7 +60049,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That's the path to Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T211201Z">
-        <seg>Ścieżka do wyspy Szpady.</seg>
+        <seg>Ścieżka do Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60097,7 +60121,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>That's the skull of Hermie, the Giant Sea Pig of Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T082316Z">
-        <seg>Oto czaszka Hermiego, ogromnej świni morskiej wyspy Szpady.</seg>
+        <seg>Oto czaszka Hermiego, ogromnej świni morskiej Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60304,8 +60328,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's why it's called the Voodoo Anklet of Extreme DISCOMFORT™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130801T144345Z">
-        <seg>To wyjaśnia dlaczego nazywa się Łańcuszek Vodoo wersja DYSKOMFORT.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120720Z">
+        <seg>To wyjaśnia dlaczego nazywa się Łańcuszek Vodoo wersja DYSKOMFORT™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60457,7 +60481,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The Gubernatorial Seal of Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130715T114951Z">
-        <seg>Pieczęć Gubernatorska wyspy Szpady.</seg>
+        <seg>Pieczęć Gubernatorska Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60481,7 +60505,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The Lucre Bank.  Best place to put your loot.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Bank Wyspy Mamony. To tu chowa się łup.</seg>
+        <seg>Bank Wyspy Mamony™. To tu chowa się łup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60497,7 +60521,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The Męlée Island™ Municipal Shipyards.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T154801Z">
-        <seg>W stoczni wyspy Szpady.</seg>
+        <seg>W stoczni Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60513,7 +60537,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The REAL Secret of Monkey Island</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T104843Z">
-        <seg>Prawdziwy sekret Wyspy Małp</seg>
+        <seg>Prawdziwy sekret Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -60521,7 +60545,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The REAL Secret of Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>PRAWDZIWY Sekret Wyspy Małp?</seg>
+        <seg>PRAWDZIWY Sekret Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60529,7 +60553,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The REAL Secret to Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>PRAWDZIWY Sekret Wyspy Małp</seg>
+        <seg>PRAWDZIWY Sekret Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -60577,7 +60601,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The Secret of Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Sekret Wyspy Małp?</seg>
+        <seg>Sekret Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60833,7 +60857,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The crew you abandoned on Monkey Island™, you mean!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121406Z">
-        <seg>Chyba załogą, którą porzuciłeś na wyspie Małp.</seg>
+        <seg>Chyba załogą, którą porzuciłeś na Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61144,8 +61168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The one having to do with the Governorship of Męlée Island™?  Elaine and I were wondering about that.  What is it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120922Z">
-        <seg>Tej, która ma coś wspólnego z urzędem gubernatora Szpady™? Elaine i ja głowiliśmy się nad tym. Co to takiego?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T104740Z">
+        <seg>Tej, która ma coś wspólnego z urzędem gubernatora Wyspy Szpady™? Elaine i ja głowiliśmy się nad tym. Co to takiego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -61161,7 +61185,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>The one that had to do with the Governorship of Męlée Island™?  I was wondering about that.  What is it?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T095941Z">
-        <seg>Ten, który miał związek z gubernatorstwem Wyspy Szpady? Zastanawiałem się nad tym. Czym on jest?</seg>
+        <seg>Ten, który miał związek z gubernatorstwem Wyspy Szpady™? Zastanawiałem się nad tym. Czym on jest?</seg>
       </tuv>
     </tu>
     <tu>
@@ -61312,8 +61336,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The same story's been repeated dozens of times all over Męlée Island™...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121851Z">
-        <seg>Ta sama historia zdarzała się tu wielokrotnie...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120340Z">
+        <seg>Ta sama historia zdarzała się wielokrotnie na Wyspie Szpady™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61673,7 +61697,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Then we're off to Lucre Island™, in search of high adventure and a legally-binding restraining order!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231019T081843Z">
-        <seg>Płyńmy więc na wyspę Mamony, w poszukiwaniu zacnych przygód i prawnie wiążących zakazów!</seg>
+        <seg>Płyńmy więc na Wyspę Mamony™, w poszukiwaniu zacnych przygód i prawnie wiążących zakazów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61977,7 +62001,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>There is no Escape from Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Nie ma Ucieczki z Wyspy Małp.</seg>
+        <seg>Nie ma Ucieczki z Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62049,7 +62073,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>There you go, Mister Marley.  Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T151324Z">
-        <seg>No i jesteśmy, panie Marley. Wyspa Mamony.</seg>
+        <seg>No i jesteśmy, panie Marley. Wyspa Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62089,7 +62113,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>There's a big, metal wall under Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Pod Wyspą Małp jest metalowa ściana?</seg>
+        <seg>Pod Wyspą Małp™ jest metalowa ściana?</seg>
       </tuv>
     </tu>
     <tu>
@@ -62673,7 +62697,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>These appear to be sedimentary rocks that were once submerged under water in this canyon that clearly was previously a riverbed in prehistoric Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>To muszą być skały osadowe, które kiedyś tkwiły pod wodą w kanionie, ale zostały wytopione w czasach prehistorycznych Wyspy Małp.</seg>
+        <seg>To muszą być skały osadowe, które kiedyś tkwiły pod wodą w kanionie, ale zostały wytopione w czasach prehistorycznych Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63072,8 +63096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>They're mini-bagels with Schmear Whiz™ on them.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T092508Z">
-        <seg>Mini bajgle z Schmear Whiz.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122353Z">
+        <seg>Mini bajgle z Schmear Whiz™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63185,7 +63209,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Things to Do on Lucre Island™ When Your Wife Is Dead</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Rzeczy, które robisz na Wyspie Mamony, będąc martwym.</seg>
+        <seg>Rzeczy, które robisz na Wyspie Mamony™, będąc martwym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63193,7 +63217,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Things to Do on Męlée Island™ When You're Dead</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Rzeczy, które robisz na Wyspie Szpady, będąc martwym.</seg>
+        <seg>Rzeczy, które robisz na Wyspie Szpady™, będąc martwym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63689,7 +63713,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>This is rather circumstantial, even for Lucre Island™.  Keep the screw and come back when you have something more tangible.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231121T163347Z">
-        <seg>To raczej poszlaka, nawet jak na Wyspę Mamony. Trzymaj śrubę i wróć, gdy będziesz miał coś bardziej namacalnego.</seg>
+        <seg>To raczej poszlaka, nawet jak na Wyspę Mamony™. Trzymaj śrubę i wróć, gdy będziesz miał coś bardziej namacalnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63921,7 +63945,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>This path leads back to Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ścieżka prowadzi na Wyspę Małp.</seg>
+        <seg>Ścieżka prowadzi na Wyspę Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63937,7 +63961,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>This path leads to the rest of Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ścieżka prowadzi na resztę Wyspy Małp.</seg>
+        <seg>Ścieżka prowadzi na resztę Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64025,7 +64049,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>This poor starfish died on the dry sandy shore of Monkey Island™.  I hope I don't share his fate.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Biedna, mała rozgwiazda pozostawiona na brzegu suchej plaży na Wyspie Małp.  Żebym sam nie musiał dzielić jej losu.</seg>
+        <seg>Biedna, mała rozgwiazda pozostawiona na brzegu suchej plaży na Wyspie Małp™.  Żebym sam nie musiał dzielić jej losu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64536,8 +64560,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>To make sure you don't leave, you are required to wear the Voodoo Anklet of Extreme Discomfort™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231123T142338Z">
-        <seg>Aby upewnić się, że pan nie odejdzie, zakładam panu Voodoo Łańcuszek Ekstremalnego Dyskomfortu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120711Z">
+        <seg>Aby upewnić się, że pan nie odejdzie, zakładam panu Voodoo Łańcuszek Ekstremalnego Dyskomfortu™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64672,8 +64696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Toothrot Camp</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T105117Z">
-        <seg>Obóz Zgniłozęba</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123112Z">
+        <seg>Obóz Toothrota</seg>
       </tuv>
     </tu>
     <tu>
@@ -64713,7 +64737,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Towards the deepest forests of Lucre Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>W stronę mrocznego lasku Wyspy Mamony.</seg>
+        <seg>W stronę mrocznego lasku Wyspy Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64744,8 +64768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Tragically, our shipment from Booty Island™ is also running late.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130712T082140Z">
-        <seg>Nieszczęśliwie nasza dostawa z wyspy Łupu także się spóźnia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120542Z">
+        <seg>Nieszczęśliwie nasza dostawa z Wyspy Łupu™ także się spóźnia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65457,7 +65481,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Uh, stop that catapult from destroying our home, then sail to Lucre Island™, remember?!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130707T211252Z">
-        <seg>Zatrzymać katapultę i płynąć na wyspę Mamony, pamiętasz?!</seg>
+        <seg>Zatrzymać katapultę i płynąć na Wyspę Mamony™, pamiętasz?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -65833,7 +65857,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Um, well, actually, he's the new Governor of Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl" changeid="Rael" changedate="20130801T120527Z">
-        <seg>Jest teraz nowym gubernatorem wyspy Szpady™.</seg>
+        <seg>Jest teraz nowym gubernatorem Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66104,8 +66128,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Underwater Cavern</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>podwodna pieczara</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123117Z">
+        <seg>\podwodna pieczara</seg>
       </tuv>
     </tu>
     <tu>
@@ -66161,7 +66185,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Unfortunately, the indignities I suffer on Monkey Island™ have left me so jittery...</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121619Z">
-        <seg>Niestety, poniżenie jakiego doznałem na wyspie Małp, tak mną wstrząsnęło,</seg>
+        <seg>Niestety, poniżenie jakiego doznałem na Wyspie Małp™, tak mną wstrząsnęło,</seg>
       </tuv>
     </tu>
     <tu>
@@ -67065,7 +67089,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>We are the judges for Jambalaya's All-World Diving Contest.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Jesteśmy sędziami Konkursu Skoków do wody Wyspy Jambalaya.</seg>
+        <seg>Jesteśmy sędziami Konkursu Skoków do wody Wyspy Jambalaya™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67112,8 +67136,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We could become the 'Official Lawyers for the Tri-Island Area™!'</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231119T125242Z">
-        <seg>Moglibyśmy zostać "Oficjalnymi Prawnikami Trójwyspu"!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120639Z">
+        <seg>Moglibyśmy zostać "Oficjalnymi Prawnikami Obszaru Trójwysp™"!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67385,7 +67409,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>We'll be heading to Lucre Island™ to meet with my wife's lawyers.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130712T083733Z">
-        <seg>Wyruszamy na wyspę Mamony, by spotkać się prawników mej żony.</seg>
+        <seg>Wyruszamy na Wyspę Mamony™, by spotkać się prawników mej żony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67449,7 +67473,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>We're all doomed to return to Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Znowu zmieżamy prosto w stronę Wyspy Małp.</seg>
+        <seg>Znowu zmieżamy prosto w stronę Wyspy Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67529,7 +67553,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>We're taking this Giant Monkey Robot to Męlée Island™</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T092934Z">
-        <seg>Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady,</seg>
+        <seg>Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -67537,7 +67561,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>We're taking this Giant Monkey Robot to M�l�e Island� to rescue my granddaughter!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231110T085257Z">
-        <seg>Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady, aby uratować moją wnuczkę!</seg>
+        <seg>Zabieramy tego Gigantycznego Małpiego Robota na Wyspę Szpady™, aby uratować moją wnuczkę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67584,8 +67608,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We've never been to Phatt Island™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T120955Z">
-        <seg>Nigdy nie byliśmy na wyspie Phatta.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120249Z">
+        <seg>Nigdy nie byliśmy na Wyspie Phatta™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67689,7 +67713,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Welcome to Jambalaya Island™, Mister Threepwood.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T152240Z">
-        <seg>Witamy na Wyspie Jambalaya, panie Threepwood.</seg>
+        <seg>Witamy na Wyspie Jambalaya™, panie Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67697,7 +67721,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Welcome to Jambalaya Island™, home of swashbuckling pirates and spooooky voodoo curses!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Witam na Wyspie Jambalaya, domu prawdziwych piratów oraz tajemniczych voodoo klątw!</seg>
+        <seg>Witam na Wyspie Jambalaya™, domu prawdziwych piratów oraz tajemniczych voodoo klątw!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67744,8 +67768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Welcome to StarBuccaneer's™ Coffee House.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Witamy Kawiarni Starbuccaneera.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121859Z">
+        <seg>Witamy Kawiarni Starbukanier™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68089,7 +68113,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Well, Grandpa Marley's letter mentioned something about the deed being in the Lucre Island™ Bank,</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>No bo, list dziadka Marleya wspominał coś o akcie prawnym w banku na Wyspie Mamony.</seg>
+        <seg>No bo, list dziadka Marleya wspominał coś o akcie prawnym w banku na Wyspie Mamony™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68425,7 +68449,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Well, after I FINALLY escaped from Monkey Island™...</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121548Z">
-        <seg>Cóż, kiedy W KOŃCU uciekłem z wyspy Małp,</seg>
+        <seg>Cóż, kiedy W KOŃCU uciekłem z Wyspy Małp™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -68433,7 +68457,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Well, after me traumatic experience on Monkey Island™...</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130721T140712Z">
-        <seg>Cóż, po moich traumatycznych przeżyciach na wyspie Małp™...</seg>
+        <seg>Cóż, po moich traumatycznych przeżyciach na Wyspie Małp™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -69273,8 +69297,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, we're all tickled pink that you've managed to capture Pegnose, seeing as how he's wanted for questioning in hundreds of Lucre Island™ thefts...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No więc, wszyscy wiemy, że próbowałeś złapać Pegnose'a tylko dlatego, że ci sie wydawało, że on jest winny...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120934Z">
+        <seg>Wszystkich nas cieszy, że udało ci się schwytać Kołkonosa, ponieważ jest on poszukiwany w związku z setkami kradzieży na Wyspie Mamony™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -69545,8 +69569,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What Marco doesn't know is that we've replaced his regular Baby Seal Oil with StarBuccaneers™ Shmear Whiz.  Let's watch.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T185740Z">
-        <seg>Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając Shmear Whiz. Zobaczmy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T121308Z">
+        <seg>Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając Shmear Whiz ze StarBukaniera™. Zobaczmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69618,7 +69642,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>What a rip-off.  I could get any of these things for a tenth of the price back on Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ale oszuści. Na Wyspie Szpady dostanę dokładnie to samo tylko dziesięć razy taniej!</seg>
+        <seg>Ale oszuści. Na Wyspie Szpady™ dostanę dokładnie to samo tylko dziesięć razy taniej!</seg>
       </tuv>
     </tu>
     <tu>
@@ -70858,7 +70882,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>What're you doing on Jambalaya Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Co robisz na Wyspie Jambalaya?</seg>
+        <seg>Co robisz na Wyspie Jambalaya™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -71617,8 +71641,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>When you get back from Lucre Island™, we're going to have a long talk about civic ethics.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T114536Z">
-        <seg>Gdy wrócisz z Mamony, musimy odbyć długą pogadankę o etyce obywatelskiej.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120107Z">
+        <seg>Gdy wrócisz z Wyspy Mamony™, musimy odbyć długą pogadankę o etyce obywatelskiej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71993,8 +72017,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Which means I'm in charge of ship allocations on Męlée Island™.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Pytkowscy" changedate="20130717T132847Z">
-        <seg>To znaczy, że odpowiadam za przydział statków na wyspie Szpady™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T105614Z">
+        <seg>To znaczy, że odpowiadam za przydział statków na Wyspie Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72273,8 +72297,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Who woulda thought that Herman Toothrot is really Grandpa Marley?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kto by pomyślał, że Herman Zgniłyząb to prawdziwy Dziadek Marley?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122549Z">
+        <seg>Kto by pomyślał, że Herman Toothrot to prawdziwy Dziadek Marley?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72906,7 +72930,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Why is Męlée Island™ so empty!?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T144614Z">
-        <seg>Czemu wyspa Szpady jest taka pusta?!</seg>
+        <seg>Czemu Wyspa Szpady™ jest taka pusta?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -72914,7 +72938,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Why is Męlée Island™ so empty?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130710T144553Z">
-        <seg>Czemu na wyspie Szpady jest tak pusto?</seg>
+        <seg>Czemu na Wyspie Szpady™ jest tak pusto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73250,7 +73274,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Win Escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Uciekłeś z Wyspy Małp?</seg>
+        <seg>Uciekłeś z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73511,6 +73535,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Woooohooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122657Z" creationid="damia" creationdate="20231130T122657Z">
+        <seg>Woooohooo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Word of LeChuck</seg>
       </tuv>
       <tuv lang="pl">
@@ -73626,7 +73658,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Would you please be the Governor of Męlée Island™ again?</seg>
       </tuv>
       <tuv lang="pl" changeid="Rael" changedate="20130801T122555Z">
-        <seg>Czy mógłbyś po raz kolejny zostać gubernatorem wyspy Szpady™?</seg>
+        <seg>Czy mógłbyś po raz kolejny zostać gubernatorem Wyspy Szpady™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74322,7 +74354,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Yeah, but these have 'Jambalaya Island™' stamped on them.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Tak, ale te, mają taki stempelek na kubku z logiem Wyspy Jambalaya!</seg>
+        <seg>Tak, ale te, mają taki stempelek na kubku z logiem Wyspy Jambalaya™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -74530,7 +74562,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Yeah.  Kept muttering about Monkey Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>No. Ciągle coś mruczy o Wyspie Małp.</seg>
+        <seg>No. Ciągle coś mruczy o Wyspie Małp™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74802,7 +74834,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Yes, but you'd still be on Męlée Island™.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Tak, ale teraz jesteś poza Wyspą Szpady.</seg>
+        <seg>Tak, ale teraz jesteś poza Wyspą Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74889,8 +74921,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes, the 'Preferred Legal Team of the Governor's Office™'.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231119T125414Z">
-        <seg>Tak, "Dedykowany Zespół Prawny Biura Gubernatora".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T120657Z">
+        <seg>Tak, "Dedykowany Zespół Prawny Biura Gubernatora™".</seg>
       </tuv>
     </tu>
     <tu>
@@ -75386,7 +75418,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You can't fool me.  You're Carla, the Swordmaster of Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121329Z">
-        <seg>Nie nabierzesz mnie. Jesteś Carla, Fechtmistrzyni wyspy Szpady!</seg>
+        <seg>Nie nabierzesz mnie. Jesteś Carla, Fechtmistrzyni Wyspy Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75698,7 +75730,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You heard me...Charles L. Charles is the FUTURE of Męlée Island™!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T152609Z">
-        <seg>Słyszałeś... Charles L. Charles to PRZYSZŁOŚĆ wyspy Szpady!</seg>
+        <seg>Słyszałeś... Charles L. Charles to PRZYSZŁOŚĆ Wyspy Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76034,7 +76066,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You mean AFTER I finally managed to escape from Monkey Island™?</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T122100Z">
-        <seg>Znaczy, PO TYM, jak w końcu uciekłam z wyspy Małp?</seg>
+        <seg>Znaczy, PO TYM, jak w końcu uciekłam z Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76090,7 +76122,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You might want to try the Męlée Island™ Municipal Shipyards.</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T154226Z">
-        <seg>Możesz spróbować na stoczni wyspy Szpady.</seg>
+        <seg>Możesz spróbować na stoczni Wyspy Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76426,7 +76458,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You told me to return the Gubernatorial Symbol when I got back from Lucre Island™, remember?</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231030T172242Z">
-        <seg>Kazałeś mi zwrócić symbol gubernatorski po powrocie z Wyspy Mamony, pamiętasz?</seg>
+        <seg>Kazałeś mi zwrócić symbol gubernatorski po powrocie z Wyspy Mamony™, pamiętasz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76514,7 +76546,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You were two-thirds of my original Monkey Island™ crew!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T121400Z">
-        <seg>Byliście w 2/3 moją starą załogą na wyspę Małp!</seg>
+        <seg>Byliście w 2/3 moją starą załogą na Wyspę Małp™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76562,7 +76594,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You wouldn't happen to know any OTHER ways off of Monkey Island™, would you?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Nie znasz jakiegoś innego sposobu na wydostanie się z Wyspy Małp, prawda?</seg>
+        <seg>Nie znasz jakiegoś innego sposobu na wydostanie się z Wyspy Małp™, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76642,7 +76674,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>You'd be travelling to Lucre Island™ with a crew of cretinous buccaneers to meet with my wife's lawyers.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T151231Z">
-        <seg>Popłynąłby pan na Wyspę Mamony z ekipą kretyńskich korsarzy, by spotkać się z prawnikami mojej żony.</seg>
+        <seg>Popłynąłby pan na Wyspę Mamony™ z ekipą kretyńskich korsarzy, by spotkać się z prawnikami mojej żony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77977,8 +78009,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>and now my Plunder Bunny and I are returning to Męlée Island™</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>a ja i mój zbójecki króliczek wracamy na Szpadę™,</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122812Z">
+        <seg>a ja i mój zbójecki króliczek wracamy na Wyspę Szpady™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -78794,7 +78826,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>can we really afford to entrust Męlée Island's future to a man with no past,</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T090458Z">
-        <seg>czy możemy powierzyć przyszłość Wyspy Szpady człowiekowi bez przeszłości, </seg>
+        <seg>czy możemy powierzyć przyszłość Wyspy Szpady™ człowiekowi bez przeszłości, </seg>
       </tuv>
     </tu>
     <tu>
@@ -80697,8 +80729,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>juicy wad of chewed up bagel chunks and Schmear Whiz™</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T092850Z">
-        <seg>soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122920Z">
+        <seg>soczysty zwitek przeżutych kawałków bajgla i Schmear Whiz™</seg>
       </tuv>
     </tu>
     <tu>
@@ -81074,7 +81106,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>map to Jambalaya Island™</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T110842Z">
-        <seg>mapa Wyspy Jambalaya</seg>
+        <seg>mapa Wyspy Jambalaya™</seg>
       </tuv>
     </tu>
     <tu>
@@ -81201,8 +81233,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>mini-bagel with Schmear Whiz™ on it</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T110932Z">
-        <seg>mini bajgiel ze Schmear Whiz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122916Z">
+        <seg>mini bajgiel ze Schmear Whiz™</seg>
       </tuv>
     </tu>
     <tu>
@@ -81689,7 +81721,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>on Męlée Island™</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T141711Z">
+      <tuv lang="pl" changeid="damia" changedate="20231130T105619Z">
         <seg>na Wyspie Szpady™</seg>
       </tuv>
     </tu>
@@ -81858,7 +81890,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>path into Monkey Island™</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231101T105434Z">
-        <seg>ścieżka na Wyspę Małp</seg>
+        <seg>ścieżka na Wyspę Małp™</seg>
       </tuv>
     </tu>
     <tu>
@@ -82954,7 +82986,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>since I first washed up on the beaches of Męlée Island™,</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>odkąd ocknąłem się na plaży wyspy Szpady™,</seg>
+        <seg>odkąd ocknąłem się na plaży Wyspy Szpady™,</seg>
       </tuv>
     </tu>
     <tu>
@@ -83841,8 +83873,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>to see that Męlée Island™ needs more than a part-time status quo Governor...</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231116T105201Z">
-        <seg>by dostrzec, że Szpada potrzebuje czegoś więcej niż gubernatora na pół etatu...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122842Z">
+        <seg>by dostrzec, że Wyspa Szpady™ potrzebuje czegoś więcej niż gubernatora na pół etatu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -83857,8 +83889,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>to the mystery-drenched shores of Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>w przesiąknięte tajemnicą brzegi wyspy Małp™?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T105737Z">
+        <seg>w przesiąknięte tajemnicą brzegi Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -83953,8 +83985,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>tray of free mini-bagels with Schmear Whiz™ on them</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T092944Z">
-        <seg>taca z bezpłatnymi mini bajglami ze Schmear Whiz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123051Z">
+        <seg>taca z bezpłatnymi mini bajglami ze Schmear Whiz™</seg>
       </tuv>
     </tu>
     <tu>
@@ -83969,8 +84001,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>tray of mini-bagels with Schmear Whiz™ on them</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T093058Z">
-        <seg>taca z mini bajglami ze Schmear Whiz</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T123048Z">
+        <seg>taca z mini bajglami ze Schmear Whiz™</seg>
       </tuv>
     </tu>
     <tu>
@@ -84692,7 +84724,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>...and, if re-elected, I promise that Męlée Island™ will remain a place where men and women can be proud of their pirate traditions and lifestyle!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20231023T210919Z">
+      <tuv lang="pl" changeid="damia" changedate="20231130T105432Z">
         <seg>...i jeśli wygram te wybory, obiecuję, że Wyspa Szpady™ pozostanie miejscem, gdzie nikt nie będzie musiał wstydzić się swych pirackich tradycji i przekonań!</seg>
       </tuv>
     </tu>
@@ -84752,8 +84784,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>But you can call me the next Governor of Męlée Island™!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231029T134724Z">
-        <seg>Ale możesz nazywać mnie następnym gubernatorem!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20231130T122339Z">
+        <seg>Ale możesz nazywać mnie następnym gubernatorem Wyspy Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -84793,7 +84825,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
         <seg>Escape from Monkey Island™</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Ucieczka z Wyspy Małp</seg>
+        <seg>Ucieczka z Wyspy Małp™</seg>
       </tuv>
     </tu>
     <tu>

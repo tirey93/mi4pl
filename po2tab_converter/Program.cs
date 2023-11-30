@@ -16,6 +16,7 @@ namespace po2tab_converter
             Convert(args);
             //Tools.FindingDifferences();
             //Tools.AnyDuplicatesInPl();
+            //Tools.AnyDuplicatesInPl();
         }
         private static void Convert(string[] args)
         {

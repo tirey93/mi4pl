@@ -167,5 +167,53 @@ namespace po2tab_converter
             //File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
 
         }
+
+        internal static void FindTms()
+        {
+            string fileNameEn = "..\\..\\..\\..\\skrypty\\en\\script.tab";
+            string fileNamePl = "..\\..\\..\\..\\skrypty\\pl\\script.tab";
+
+
+
+            System.Text.EncodingProvider ppp = System.Text.CodePagesEncodingProvider.Instance;
+            Encoding.RegisterProvider(ppp);
+
+
+            string fileEn = File.ReadAllText(fileNameEn, Encoding.GetEncoding("windows-1250"));
+            string filePl = File.ReadAllText(fileNamePl, Encoding.GetEncoding("windows-1250"));
+
+            string[] linesEn = fileEn.Split("\r\n");
+            string[] linesPl = filePl.Split("\r\n");
+            var listPl = linesPl.Select(x => new Line(x)).Where(x => x.Markup != null);
+            var dictPl = linesPl.Select(x => new Line(x))
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.ToList(), StringComparer.OrdinalIgnoreCase)
+                .Where(x => x.Value.Count > 1);
+            var listEn = linesEn.Select(x => new Line(x)).Where(x => x.Markup != null);
+            var dictEn = listEn
+                .Where(x => x.Markup != null)
+                .GroupBy(x => x.Markup)
+                .ToDictionary(x => x.Key, y => y.First().Contents, StringComparer.OrdinalIgnoreCase);
+            var toFile = "";
+            int i = 1;
+            foreach (var result in listPl)
+            {
+                string engContents = dictEn[result.Markup];
+                if (engContents.Contains("™") && !result.Contents.Contains("™"))
+                {
+                    toFile +=
+                     $"msgctxt \"{result.Markup}\"\r\n" +
+                     $"msgln \"{i}\"\r\n" +
+                     $"msgid \"{engContents}\"\r\n" +
+                     $"msgstr \"{result.Contents}\"\r\n\r\n";
+                }
+                i++;
+            }
+
+            File.WriteAllText("tms.po", toFile, Encoding.GetEncoding("windows-1250"));
+
+            //File.WriteAllText("duplicates.po", toFile, Encoding.GetEncoding("windows-1250"));
+        }
     }
 }

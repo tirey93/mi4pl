@@ -12359,7 +12359,7 @@ msgid "Nothing, but I sure spend a lot."
 msgstr "Nic, ale ja mógłbym zrobić wiele."
 
 msgctxt "guyban126"
-msgid "Umm, nothing."
+msgid "Umm, nothing.2"
 msgstr "Ummm. Nic."
 
 msgctxt "telban036"
@@ -13907,7 +13907,7 @@ msgid "Since you're stuck here, would you like me to get you something from town
 msgstr "Skoro tu stoisz, to może chcesz żebym coś za ciebie załatwił w mieście?"
 
 msgctxt "claluc005"
-msgid "Like what?"
+msgid "Like what?1"
 msgstr "Na przykład co?"
 
 msgctxt "guyluc115"

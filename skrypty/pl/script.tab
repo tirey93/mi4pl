@@ -251,7 +251,7 @@ el1gme026	Nie mo¿esz byæ gubernatorem! Ja nim jestem, a to do¿ywotnia kadencja.
 chagme003	W tym sêk, nieprawda¿? Mianowano ciê zmar³¹.
 el1gme027	S³ysza³am. JAK to siê sta³o?
 chagme004	Któ¿ wie? Mo¿e gdybyœ poœwiêci³a ciut wiêcej czasu rz¹dzeniu,
-chagme005	a mniej umizgom na Trójwyspie ze swoj¹ ma³pk¹,
+chagme005	a mniej umizgom na Trójwyspach ze swoj¹ ma³pk¹,
 chagme006	to poczciwi obywatele Szpady nie doszliby to b³êdnych wniosków, ¿e w¹cha³aœ kwiatki od spodu.
 guygme020	Moment... z t¹ ma³pk¹ to by³o o mnie?
 el1gme028	Rozumiemy, startujesz na gubernatora. Ale po co burzyæ m¹ willê?
@@ -283,7 +283,7 @@ el1gme035	Potrzebujemy jakiegoœ zakazu, który tylko moi prawnicy mog¹ wydaæ!
 guygme029	Ale ja chcê tworzyæ sprytne has³a wyborcze i robiæ badania operacyjne!
 el1gme036	Guybrushu, mi³oœci mego ¿ycia, jestem politykiem. Pozwól mi czyniæ m¹ powinnoœæ, a ja pozwolê ci czyniæ twoj¹.
 guygme030	Co to?
-el1gme037	¯eglowanie po Trójwyspie z pozornie bezcelowym zadaniem.
+el1gme037	¯eglowanie po Trójwyspach z pozornie bezcelowym zadaniem.
 guygme031	Co?
 el1gme038	Wybacz, powiedzia³am to na g³os?
 el1gme039	Chcia³am rzec "Ruszyæ na pohybel zdradzieckim wodom w niebezpieczn¹ pogoñ".
@@ -760,7 +760,7 @@ barscu004	Co mogê dla pana zrobiæ, panie Marley?
 guyscu036	Threepwood.
 barscu005	No tak, przepraszam za to, panie Threepwood.
 guyscu037	To miejsce jest cichsze ni¿ teatr pe³ny mimów.
-barscu006	To przykre. Jest tak od czasu, kiedy ten Australijczyk pojawi³ sie w mieœcie.
+barscu006	To przykre. Jest tak od czasu, kiedy ten Australijczyk pojawi³ siê w mieœcie.
 guyscu038	Australijczyk?
 barscu007	Obel¿ywy Australijski przedsiêbiorca, który u¿ywa³ swych mocnych taktyk na wykupienie terenów na Wyspie Szpady™.
 barscu008	Ten ³ajdak wykurzy³ mi st¹d ponad po³owê sta³ych klientów.
@@ -1824,7 +1824,7 @@ meamhi066	Czemu?
 guymhi057	Bo pomo¿e mi to odnaleŸæ wyspê z cz¹stkami Talizmanu Upokorzenia.
 meamhi067	Zabawne.
 meamhi068	Wiele lat temu, bêd¹c genialnym m³odzieñcem u¿ywaj¹cym tradycyjnych akwareli...
-meamhi069	...dziadek Marley wynaj¹³ mnie do namalowania mu mapy Trójwyspu.
+meamhi069	...dziadek Marley wynaj¹³ mnie do namalowania mu mapy obszaru Trójwysp.
 meamhi070	Mówi³, ¿e to ma byæ kiedyœ prezent œlubny dla jej wnuczki.
 meamhi071	Niestety przeniós³ siê do Australii, zanim j¹ skoñczy³em.
 guymhi058	To gdzie ten obraz jest teraz?
@@ -1889,7 +1889,7 @@ diglaw004	Rezydencja, mówisz?
 thrlaw005	To zmienia postaæ rzeczy.
 whilaw005	£adnie u¿yte ™.
 diglaw005	Ale ty nie jesteœ gubernatorem.
-guylaw005	Reprezentujê tutaj czcigodn¹ pani¹ Elaine Marley Threepwood, gubernatora Trójwyspu.
+guylaw005	Reprezentujê tutaj czcigodn¹ pani¹ Elaine Marley Threepwood, gubernatora obszaru Trójwysp.
 guylaw006	To moja ¿ona.
 whilaw006	Rozumiem...
 thrlaw006	¿artuje o ¿onie.
@@ -2025,7 +2025,7 @@ guylaw035	"Zabiæ drozda... i uszczupliæ do przedawnienia"
 guylaw036	"Piraci s¹ z Marsa, a prawnicy s¹ z Uranu"
 guylaw037	"Atrybut Wiatru II: Ma³py id¹ po odszkodowanie"
 guylaw038	"Wszystko, co wiem o prawie wynios³em z przedszkola"
-guylaw039	"Kapitan karetki na Trójwyspie - poradnik"
+guylaw039	"Kapitan karetki na Trójwyspach - poradnik"
 guylaw040	To chyba ju¿ wszystkie z ciekawszych pozycji.
 guylaw041	Mimo zainteresowania praktyk¹ prawnicz¹ nie mam za wiele czasu na czytanie.
 guylaw042	Wnioskuj¹c z plakietek, nazywaj¹ siê Whipp, Trawtle i Digg.
@@ -3215,7 +3215,7 @@ guyhos051	Och, no tak.
 guyhos052	Co siê sta³o z jego nosem?
 frehos077	Coœ tajemniczego.
 frehos078	Wiêkszoœæ okolicznych mówi, ¿e kaczka mu wyskuba³a.
-guyhos053	 
+guyhos053	£eee.
 frehos079	Ale ja w to nie wierzê.
 guyhos054	Czemu?
 frehos080	Z doœwiadczenia wiem, ¿e kaczki maj¹ wyj¹tkowo ma³e zêby.
@@ -4009,7 +4009,7 @@ guyhoj126	Albo zapytam ponownie!
 peghoj031	To mnie nie zaskoczy.
 guyhoj127	Albo zacznê ci œpiewaæ piosenki.
 peghoj032	Tak? To ja je zaœpiewam przez dziurkê po nosie!
-guyhoj128	 
+guyhoj128	£eee.
 guyhoj129	Albo nic.
 peghoj033	Tak te¿ myœla³em.
 guymhi067	Meathook ... kiedyœ okrutny pirat, dzisiaj przygruby malarz woskowy.
@@ -4202,7 +4202,7 @@ guylua018	Co ma znaczyæ "dobre wejœcie"?
 bgllua003	Wygl¹dasz prawie jak prawdziwy korsarz!
 bgllua004	Pracujesz tutaj?
 guylua019	Nie! Ja JESTEM korsarzem! A moja ¿ona gubernatorem. Jestem potê¿nym kapitanem statku.
-bgllua005	Wow...Umiesz siê wczuæ w role.
+bgllua005	£a³... Umiesz siê wczuæ w role.
 guylua020	Co oni maj¹ tutaj dobrego?
 bgllua006	Wiesz, mi smakuje wszystko.
 guylua021	Serio? Wed³ug mnie te sushi nie wygl¹daj¹ za apetycznie.
@@ -4407,7 +4407,7 @@ guymdo026	Podobno potrafi za³atwiæ najbardziej awanturnych piratów.
 daimdo024	Serio?
 guymdo027	Czyli na pewno nic nie s³ysza³aœ?
 daimdo025	Na pewno nie s³ysza³am o takich nielegalnych talizmanach.
-daimdo026	Ale sie do wiem jak bêdziesz ³añcuchem! Ha!
+daimdo026	Ale siê dowiem jak bêdziesz ³añcuchem! Ha!
 guymdo028	Nie, nie chce byæ twoj¹ kotwic¹.
 daimdo027	Wiêc sp³ywaj st¹d. Zas³aniasz mi widoki.
 guymdo029	Rozumiem, ¿e robisz sobie ze mnie jaja, tam nic nie ma.
@@ -4442,7 +4442,7 @@ murgpt021	OGL¥DAJCIE pami¹tki z ostatniej eskapady Guybrusha!
 murgpt022	SPRÓBUJCIE kulinarnych specja³ów sporz¹dzonych dla prawdziwych piratów.
 murgpt023	S£UCHAJCIE prawdziwej pirackiej muzyki!
 murgpt024	POCZUJCIE jak wasze wnêtrzonoœci poruszaj¹ waszym cia³em prosto do restauracji czystego Z£A!!! MWAH-HAH-HAH-HAAA!!!
-clagpt001	Wow, to by³ szalony rejs.
+clagpt001	£a³, to by³ szalony rejs.
 otigpt001	¯adna intratna posadka nie jest warta takiego zachodu.
 guygpt030	Witam na Wyspie Jambalaya™, domu prawdziwych piratów oraz tajemniczych voodoo kl¹tw!
 otigpt002	I jakiœ restauracji tematycznych.
@@ -4556,7 +4556,7 @@ macpla010	Bardzo dobrze, panie Threepwood.  Daj mi tylko minutkê by przygotowaæ 
 macpla011	£adny skok, panie Threepwood.  Jeœli wybaczy mi pan na moment...
 guypla014	Zastanawiam siê o co w tym wszystkim chodzi?
 guypla015	To nie brzmi za ³adnie.
-guypla016	 
+guypla016	£eee.
 guypla017	Marco nie wie, ¿e zast¹piliœmy jego zwyk³¹ Dzieciêc¹ Focz¹ Oliwkê podk³adaj¹c CudoKrem™ ze StarBukaniera™. Zobaczmy.
 macpla012	A teraz, przyjacielu..przygotuj siê na widok mistrza w akcji!
 macpla013	Powodzenia, panie Threepwood.
@@ -4648,9 +4648,9 @@ sbcstb013	Tak, ale teraz jesteœ poza Wysp¹ Szpady™.
 guystb044	Nie potrzeba mi niczego z tych rzeczy.
 guystb045	Wiadro pe³ne parasoli z logiem Starbukaniera™.
 guystb046	Na pewno nie chcê modnego, parasola StarBukaniera™ z zawy¿on¹ cen¹.
-guystb047	Nigdy nie widzia³em deszczy na ca³ym Archipelagu Tri-Island!
+guystb047	Nigdy nie widzia³em deszczy na ca³ych Trójwyspach!
 guystb048	Nie, wiadomo ¿e nie otwieramy parasolki jak nie pada.
-guystb049	Wow.  Czy to nie przesada trzymaæ taki wielki znak wewn¹trz sklepu?
+guystb049	£a³.  Czy to nie przesada trzymaæ taki wielki znak wewn¹trz sklepu?
 guystb050	Chyba by siê kapnêli jakbym wzi¹³.
 guystb051	Du¿a fili¿anka kawy.
 guystb052	Nie pracuje tutaj
@@ -5114,7 +5114,7 @@ guykab026	Pewnie by³a du¿¹ kobiet¹?
 jumkab038	Mia³a na poœladku tatua¿ z Wysp¹ Ma³p™.
 guykab027	No i?
 jumkab039	'W skali jeden do jednego.'
-guykab028	 
+guykab028	£eee.
 guykab029	Co siê sta³o z pomnikiem Tiny'ego?
 jumkab040	Ja mu siê sta³em.
 guykab030	S³ucham?
@@ -5176,7 +5176,7 @@ guymig027	...ale daj mi jeszcze ³yka.
 opemig035	Sorka. Jeden klient - jeden kufel promocyjny.
 guymig028	A jak tam biznes?
 opemig036	Super!
-opemig037	Jesteœmy jedynym miejscem w ca³ym Archipelagu Tri-Island gdzie ludzie mog¹ przyjœæ i dostaæ œwie¿y, destylowany grog.
+opemig037	Jesteœmy jedynym miejscem na ca³ych Trójwyspach, gdzie ludzie mog¹ przyjœæ i dostaæ œwie¿y, destylowany grog.
 opemig038	Ludzie przychodz¹ do nas i chc¹ próbowaæ 65 ró¿nych smaków grogu!
 opemig039	Mamy na przyk³ad Ekskluzywn¹ Grogelie, Zielony Grog, Niebezpieczn¹ Szaroœæ, Sikacz Syreny(ze wzglêdu na kolor, nie treœæ), no i nasz najlepszy Stalowy Browar!
 opemig040	Ka¿dy z naszych grogów jest indywidualnie destylowany przez cz³onków naszej MikroGroggeryjnej rodziny.
@@ -5339,7 +5339,7 @@ guyplt029	Murray?
 guyplt030	Murray Czaszka Z³a?
 murplt001	Guybrush?
 murplt002	Guybrush, Pirat Œmierci?
-guyplt031	Wow, jaki ten œwiat ma³y, co nie?
+guyplt031	£a³, jaki ten œwiat ma³y, co nie?
 guyplt032	Hej, Murray.
 murplt003	Witam w Planecie Threepwood, najbardziej Z£EJ restauracji na Œwiecie!
 ptwplt001	Zamknij siê, Murray!
@@ -5433,7 +5433,7 @@ clvplt013	Zg³upia³eœ?
 clvplt014	Prawdziwy Guybrush Threepwood ma ponad siedem stóp wysokoœci...
 clvplt015	...nosi czapkê z której cieknie krew jego wrogów...
 clvplt016	...no i ma widmo swojej papugi siedz¹cej na jego ramieniu!
-guyplt063	Wow, jestem straszniejszy ni¿ myœla³em.
+guyplt063	£a³, jestem straszniejszy ni¿ myœla³em.
 guyplt064	Szukam czêœci Talizmanu Upokorzenia.
 clvplt017	A czy to jeden z tych Planet-Threepwoodowskich podarunków dla wychodz¹cych?
 guyplt065	Nie, to nieprzewidywalny talizman voodoo o nieopisywalnie silnie-psychicznej mocy!
@@ -5468,7 +5468,7 @@ ptwplt006	Czyli cztery kawa³ki kie³basy, szynki i indyka pokryte trzema rodzajam
 guyplt077	Eww.
 ptwplt007	To niesamowite, taka reakcje na to danie jest codziennie.
 guyplt078	Co to za miejsce?
-ptwplt008	To Planeta Threepwood, jedna z placówek sieci restauracji dedykowana najbardziej znanemu piratowi na Archipelagu Tri-Island: Guybrushowi Threepwoodowi!
+ptwplt008	To Planeta Threepwood, jedna z placówek sieci restauracji dedykowana najbardziej znanemu piratowi na Trójwyspach: Guybrushowi Threepwoodowi!
 guyplt079	Ah. To wyjaœnia czemu ka¿da œciana jest zab³ocona moimi insygniami.
 ptwplt009	S³ucham?
 guyplt080	Jam Guybrush Threepwood, a to miejsce mnie jakoœ nie rusza.
@@ -6091,380 +6091,380 @@ guyscu275	No i?
 navscu061	No i jeœli jest jedna rzecz, na któr¹ jestem odporny, to jest to nieustanne, piskliwe, zrzêdzenie.
 navscu062	... piskliwe...
 navscu063	... zrzêdzenie.
-guyscu276	Nie mia³em pojêcia.
+guyscu276	Nie mam pojêcia.
 navscu064	Wiêc daj mi znaæ, kiedy bêdziesz mia³.
 navluc001	No i jesteœmy, panie Marley. Wyspa Mamony™.
-guyluc001	Dziêki, panie Serze. Yy, czy nastêpnym razem nie moglibyœmy dostaæ sie tu z mniejszym dramatyzmem?
-otiluc001	Och, nie. Nie planujemy bycia tu nastêpny raz, prawda?
-claluc053	Na pewno nie. O jeden raz za du¿o.
-guyluc002	Ok. Idê do miasta. Wy stójcie tu i pilnujcie statku.
-otiluc002	No tak. Wiem o co chodzi. To kapitan podejmuje wszystkie wa¿ne decyzje.
-guyluc003	Czas wyruszaæ w drogê, majtki!
-otiluc003	Dziêki Bogu. Ta wyspa mi siê nie podoba.
+guyluc001	Dziêki, panie Serze. Czy nastêpnym razem uda nam siê dotrzeæ na miejsce z troszkê mniejszym dramatyzmem?
+otiluc001	Och, nie. Nie bêdzie ju¿ nastêpnego razu, prawda?
+claluc053	Lepiej nie. O jeden za du¿o.
+guyluc002	Okej. Idê do miasta. Wy tu stójcie i pilnujcie statku.
+otiluc002	No tak. Rozumiem sytuacjê. Kapitan podejmuje wszystkie decyzje.
+guyluc003	Czas wyruszaæ w drogê, koledzy!
+otiluc003	Dziêki bogom! To miejsce jest przyt³aczaj¹ce!
 claluc054	Taak, zaczyna³o mi siê tu nudziæ.
-navluc002	Ale nie mo¿na. Jest kilka rzeczy do naprawy.
+navluc002	Nie mo¿na. Statek wymaga naprawy.
 navluc003	¯artowa³em. Statek jest gotowy.
-canluc001	To co, powrót do miejsca zbrodni, tak?
-guyluc004	Szuka³em dowodów.
-canluc002	Rzeczywiœcie. Bank by³ zamkniêty to momentu zakoñczenia sprawy.
-canluc003	Ale ja i tak nie chcê ciê tam lepiej widzieæ.
-canluc004	Powiedzia³em, ¿ebyœ lepiej siê zmywa³.
-guyluc005	Ah, Miasto Mamony. Najbardziej zurbanizowane miasto na Archipelagu Tri-Island.
-cdaluc031	Peruwiañski kretyn!
-cdaluc032	Kupa smalcu!
-cdaluc033	Worek pche³!
-cdaluc034	Worek œwini!
-cdaluc035	Grubas!
-cdaluc036	Œmierdz¹cy ser!
-sgoluc034	Krowi zad!
-sgoluc035	Statek rozpaczy!
-sgoluc036	Idiota!
+canluc001	Powracamy na miejsce zbrodni, czy¿ nie?
+guyluc004	Szuka³em tylko dowodów.
+canluc002	Tak. Bank jest zamkniêty do czasu zakoñczenia œledztwa.
+canluc003	Wiêc nie chcê tu pana widywaæ.
+canluc004	Nie wolno tu wchodziæ!
+guyluc005	Ach, Mamona. Najbardziej zurbanizowane miasto na Trójwyspach.
+cdaluc031	Radomska Œwinia!
+cdaluc032	Wiadro smalcu!
+cdaluc033	Pchli magnez!
+cdaluc034	Fabryka potu!
+cdaluc035	Dubler Karolaka!
+cdaluc036	Serowy trzon!
+sgoluc034	Gobliñski nos!
+sgoluc035	W¹chacz koronek!
+sgoluc036	Wsiurski kandydat!
 sgoluc037	Wielki idiota!
-sgoluc038	Galaretkowy w spodniach!
-sgoluc039	Ma³pi ty³ek!
-guyluc006	Naprawdê estetycznie wygl¹daj¹ca fontanna.
-guyluc007	No ja myœlê!
-guyluc008	Ja nie jestem psem!
-guyluc009	Nie bêdê pi³ z tej fontanny.
-guyluc010	Wow, Miasto Mamony ma w³asn¹ kanalizacjê!
-guyluc011	Jakie TO jest mi³e!
-guyluc164	Szkoda, ¿e nie mogê st¹d wejœæ do banku.
-guyluc165	Za³o¿ê siê, ¿e móg³byœ dostaæ siê do ka¿dej ³azienki na Wyspie Mamony™ tym wejœciem.
-guyluc166	Hej! To dzia³a jak Trampolina!
-guyluc015	Wow... ale g³êboka i ciemna dziura...
-guyluc016	pomijaj¹c ju¿ jak to œmierdzi.. PFEW!
-guyluc169	Z drugiej strony, nie chcia³bym tam wpaœæ z ró¿nych powodów.
-guyluc018	EEUUUUURRGGHHH!!!
-guyluc019	To jest zdecydowanie za ciê¿kie, ¿ebym to podniós³ w pojedynkê.
-guyluc172	Cholera! Wypuœci³em miecz do studzienki.
-guyluc173	No tak, teraz ten miecz jest z³amany i œmierdz¹cy.
-guyluc174	WhoOOOaaa!
-guyluc175	YEEEAAARGGGHHH! UGH!
-guyluc176	.... ow ....
-guyluc177	No nie. To jest ci¹gle ró¿owe.
-guyluc178	Nie mo¿emy ju¿ wyp³ywaæ. Jeszcze nie skoñczyliœmy.
-guyluc179	Te perfumy s¹ ró¿owe i wygl¹daj¹ bardzo feministycznie.
-preluc028	Tak, to jest L'Eau de la Fleur, idealne perfumy dla ka¿dej feministki...
-preluc029	... oraz dla wszystkich ma³o-mêskich panów.
-guyluc180	Do diab³a nie! Jestem dzielnym piratem!
-guyluc181	Co za okropny zapach...
-guyluc182	Jaki ³adny odcieñ b³êkitu.
-preluc030	A to jest zapach morza zamkniêty w butelce.
-guyluc183	Yy, nie dziêki.
-guyluc184	Wow, ale dziwne kolory na tej butelce!
-preluc031	Oh tak, prze³om w dziedzinie zapachów.
-preluc032	Nazywa siê "Mutt" i jest wyj¹tkowa mieszanka wszystkich ulubionych zapachów piratów.
-guyluc185	... auæ...
-guyluc186	Lepiej nie. To mnie ju¿ przera¿a.
-guyluc035	Te perfumy maj¹ kilka pasków na buteleczce.
-preluc033	To nowe perfumy od "Candycaniego".
-preluc034	£adnie pachn¹... NO i s¹ JADALNE.
+sgoluc038	Zmartwiona ³asica!
+sgoluc039	Ma³pi molestator!
+guyluc006	To bardzo gustowna fontanna.
+guyluc007	Tak myœlê.
+guyluc008	Ja nie pies!
+guyluc009	Nie bêdê w niej ani pi³ ani harcowa³!
+guyluc010	£a³, Mamona ma system kanalizacji!
+guyluc011	TO takie mi³e!
+guyluc164	Ciekawe, czy mogê siê przez to dostaæ do banku...
+guyluc165	Na bank mo¿na siê st¹d dostaæ do ka¿dej ³azienki na Wyspie Mamony™!
+guyluc166	Hej! Prawie jak trampolina!
+guyluc015	£a³... ale¿ g³êboka i ciemna dziura...
+guyluc016	A do tego jak œmierdzi... FIUU!
+guyluc169	Po namyœle, nie s¹dzê, bym chcia³ tam schodziæ z jakiegokolwiek powodu.
+guyluc018	 
+guyluc019	Jest za ciê¿ka, bym móg³ j¹ samodzielnie otworzyæ.
+guyluc172	Cholerka! Upuœci³em miecz do studzienki.
+guyluc173	No tak, teraz nie doœæ, ¿e jest z³amany to i œmierdz¹cy.
+guyluc174	 
+guyluc175	 
+guyluc176	 
+guyluc177	Ci¹gle jest ró¿owy.
+guyluc178	Nie mo¿emy wyp³ywaæ. Jeszcze nie skoñczyliœmy.
+guyluc179	To bardzo ró¿owe i bardzo kobiece perfumy.
+preluc028	Tak, to s¹ L'eau de la fleur, idealny wybór dla najbardziej kobiecych kobiet...
+preluc029	Lub najmniej mêskich mê¿czyzn.
+guyluc180	W ¿yciu! Jestem twardym piratem!
+guyluc181	Chocia¿ pachn¹ przyjemnie...
+guyluc182	£adny, niebieski odcieñ.
+preluc030	Zapach morza zamkniêty w butelce!
+guyluc183	Nie, dziêki.
+guyluc184	£a³, co za mnogoœæ kolorów w butelce.
+preluc031	Och tak, to prze³om w dziedzinie zapachów.
+preluc032	Nazywaj¹ siê "Kundel", dobrze dopasowane po³¹czenie ka¿dej esencji znanej piratowi!
+guyluc185	Fuj.
+guyluc186	Lepiej nie. Te mnie przera¿aj¹.
+guyluc035	Buteleczka ma zgrabny pasek biegn¹cy przez œrodek.
+preluc033	To nowe perfumy, Cukiereczki.
+preluc034	£adnie pachn¹... i s¹ JADALNE.
 guyluc188	Nie. S¹ dla mnie zbyt egzotyczne.
-guyluc189	Ale absolutnie nie!
-guyluc038	Ktoœ tu sprzedaje rybki.
+guyluc189	Na górze zupe³nie nic nie ma.
+guyluc038	Ktoœ tu sprzedaje ryby.
 guyluc190	Nigdzie nie widaæ sprzedawcy.
-guyluc191	Hej Patrz! Szczêœliwa moneta!
-guyluc041	Jest przyklejona do ziemi.
-guyluc042	Ale du¿e molo.
-guyluc043	Widaæ wiele statków zacumowanych do portu.
-guyluc044	Phew. To miejsce œmierdzi wyj¹tkowo.
-guyluc045	Mam nadzieje, ¿e ta gra nie jest wspierana przez producenta perfum...
+guyluc191	Hej Patrzcie! Szczêœliwa moneta!
+guyluc041	Przyklejona do ziemi!
+guyluc042	To bardzo du¿e molo.
+guyluc043	Zaparkowali to od groma ³odzi i statków.
+guyluc044	Fiu. To stoisko jest nadmiernie zalatuj¹ce.
+guyluc045	Mam nadzieje, ¿e ta gra nie ma wsparcia dla generowania zapachu...
 guyluc195	Powinienem pogadaæ ze sprzedawc¹.
-guyluc196	Lepiej nie dotykaæ, bo znowu zostanê pos¹dzony o coœ, czego nie zrobi³em.
-guyluc197	Lepiej nie dotykaæ, bo znowu zostanê pos¹dzony o coœ, czego nie zrobi³em.
-guyluc198	Nie mam broni.
-guyluc199	Ten bank ma bardzo du¿o okien.
-guyluc200	Nie mogê tutaj przechodziæ. Inspektor Canard powiedzia³, ¿e nie chce mnie widzieæ.
-guyluc201	Nie dosiêgnê tamtego okna stoj¹c tu, na ziemi.
-guyluc202	Myœla³em, ¿e pralnie s¹ z REGU£Y czyste.
-guyluc203	Ta pranie jest nie na moje rozmiary.
-guyluc204	Ale fajny, ma³y park.
-guyluc205	Ja ... uhhh ... MÓG£BYM tam wróciæ... uhhh ... ale NAPRAWDÊ tego nie chcê... taaa.
-guyluc206	Ah, nie ma nic lepszego ni¿ zapach wiadra pe³nego zgni³ych ryb o poranku.
-guyluc058	Ahhh... Jak dobrze jest od czasu do czasu usi¹œæ i daæ odpocz¹æ nog¹.
-guyluc059	Wiesz, siedzenie tu powoduje u mnie refleksje...
-guyluc209	¯ycie jest jak rabowanie statków przybitych do portu w Jamestown...
+guyluc196	Lepiej nie dotykaæ bo oskar¿¹ mnie o kolejne przestêpstwo, którego nie pope³ni³em.
+guyluc197	Lepiej siê st¹d ulotniê, zanim zostanê oskar¿ony o przestêpstwo, którego nie pope³ni³em.
+guyluc198	Triangulacja ognia krzy¿owego. To jest klucz.
+guyluc199	Ten bank ma bez w¹tpienia sporo okien.
+guyluc200	Gdybym tylko móg³ przejœæ przez to okno. Inspektor Canard mnie tu nie dostrze¿e.
+guyluc201	Nie mogê dosiêgn¹æ okna, stoj¹c na ziemi.
+guyluc202	Myœla³em, ¿e pranie rozwiesza siê PO jego wypraniu.
+guyluc203	Nie ma tu mojego rozmiaru.
+guyluc204	Uroczy, ma³y park.
+guyluc205	Ja... MÓG£BYM tam wróciæ... ale... ale NAPRAWDÊ tego nie chcê...
+guyluc206	Nie ma to jak zapach wiader ryb gnij¹cych o poranku.
+guyluc058	Ach... Mi³o jest móc usi¹œæ i odpocz¹æ przez chwilê.
+guyluc059	Wiecie, siedzenie tu powoduje refleksje...
+guyluc209	¯ycie jest jak pl¹drowanie statku handlowego p³yn¹cego do Jamestown...
 guyluc210	Nigdy nie wiesz, na co trafisz.
-guyluc211	No dobra, dosyæ odpoczywania!
-guyluc212	£aweczka wygl¹da naprawdê komfortowo.
-guyluc213	Hej! Widzia³em takie same na naszym statku.
-guyluc214	Nie, Elaine by sie to nie podoba³o.
-guyluc215	S¹dzê, ¿e niebieski jest lepszym kolorem jak na statek.
-guyluc216	Hmmm. Mo¿e w³aœciciel tej ³odzi nie zauwa¿y, ¿e podmieni³em ten statek na moj¹ Drobn¹ Damê.
+guyluc211	Dobra, dosyæ odpoczywania!
+guyluc212	Ta ³awka wydaje siê bardzo wygodna.
+guyluc213	Hej! Patrzcie na te wyporowe urz¹dzenia.
+guyluc214	Nie, Elaine by siê to nie spodoba³o.
+guyluc215	S¹dzê, ¿e niebieski jest lepszym kolorem dla statku.
+guyluc216	Hmm... mo¿e w³aœciciel nie zauwa¿y³by, gdybym zamieni³ j¹ z Drobn¹ Dam¹.
 guyluc217	Administracja Portu na Wyspie Mamony™.
-guyluc218	Lepiej, ¿ebym tam nie wchodzi³ i lepiej ¿eby nie widzieli jakich szkód narobi³ mój nawigator w ich porcie.
-guyluc219	Jacyœ faceci ze szkockim akcentem s¹ na tej ³odzi.
-guyluc220	Eh. Nie chcê niepokoiæ Szkotów na ich w³asnych ³odziach.
-guyluc221	To musi byæ "Sklep ze strasznymi ³odziami" o którym pan Ser tyle gada³.
-guyluc222	Nie. Rozka¿e swojej za³odze, ¿eby szuka³a czêœci zamiennych do statku.
-guyluc223	A o tym do mnie nie mogê powiedzieæ nic œmiesznego.
-guyluc224	Nie wejdê tam.
-guyluc225	Ktokolwiek tu ¿yje, musi byæ naprawdê niski.
-guyluc226	Nie zmieszczê siê do tych malutkich drzwi.
-guyluc227	Hej, tam widaæ Otisa!
-guyluc228	W¹tpiê, ¿e to dobry pomys³ ¿eby próbowaæ go przemyciæ na zewn¹trz.
-guyluc229	Du¿o tutaj pustych butelek.
-guyluc230	Wezmê jedn¹.
-guyluc231	Mam ju¿ jedn¹ i nie potrzebujê wiêcej.
-guyluc232	Nie mogê, bo oni udaj¹ skoncentrowanych.
-guyluc233	Wygl¹da jakby by³ z³y.
-guyluc234	Ciê¿ko jest traktowaæ grubasów na serio.
-guyluc235	Ahh. Lepiej ¿ebym im nie przerywa³.
-guyluc236	NajwyraŸniej jest skoncentrowany.
-guyluc237	To najbardziej ¿a³osne zniewagi, jakie kiedykolwiek s³ysza³em.
-guyluc238	Pierwsza zasada piratów mówi, ¿eby nie wchodziæ w bójki z innymi.
-guyluc239	To pan Ser, nasz uprzyjmy nawigator.
-guyluc240	To Carla. Wygl¹da na znudzon¹.
-guyluc241	To nasze lokalne organy œcigania
-canluc005	IdŸcie st¹d. Tu nie ma nic ciekawego.
-guyluc242	To dobrze, ¿e bank nadal sobie jakoœ radzi.
-guyluc243	To droga do miasta.
-guyluc244	Prawnicy dobrze mi radzili, wyspa jest piêkna.
+guyluc218	Lepiej, ¿ebym tam nie wchodzi³, bo jeszcze siê przyczepi¹ do tego, jak mój nawigator uszkodzi³ doki.
+guyluc219	Kilku facetów z zabawnymi akcentami z "pó³nocy" przyp³ynê³o t¹ ³odzi¹.
+guyluc220	Nie s¹dzê, ¿ebym chcia³ tak niepokoiæ tych "nordyckich" w³aœcicieli.
+guyluc221	To musi byæ ten "sklepik ze statkami", o którym mówi³ tyle pan Ser.
+guyluc222	Nie, niech za³oga zajmie siê znalezieniem czêœci zamiennych.
+guyluc223	Nie mam ¿adnego gagu na temat tego domu.
+guyluc224	Nie mogê tam wejœæ.
+guyluc225	Ktokolwiek tu ¿yje, musi byæ naprawdê ma³y.
+guyluc226	Nie wcisnê siê do tych drzwiczek.
+guyluc227	Widaæ st¹d Otisa!
+guyluc228	Nie s¹dzê, by dobrym pomys³em by³o wyci¹gniêcie Otisa.
+guyluc229	To stos pustych spryskiwaczy po perfumach.
+guyluc230	Wezmê jeden.
+guyluc231	Mam ju¿ jeden i nie potrzebujê wiêcej.
+guyluc232	Nie wygl¹da na zbyt skoncentrowanego.
+guyluc233	Chyba jest trochê ura¿ony.
+guyluc234	Trudno traktowaæ powa¿nie wœciek³ego grubasa.
+guyluc235	Ach. Lepiej ¿ebym im nie przerywa³.
+guyluc236	Chyba jest g³êboko skoncentrowany.
+guyluc237	To najg³upsze obelgi, jakie kiedykolwiek s³ysza³em.
+guyluc238	M¹drzy piraci wiedz¹, ¿e nie nale¿y anga¿owaæ siê w wewnêtrzne spory.
+guyluc239	To pan Ser, nasz rzekomy nawigator.
+guyluc240	To Carla. Chyba jest znudzona.
+guyluc241	To lokalne organy œcigania.
+canluc005	Nie zatrzymywaæ siê. Nie ma tu nic ciekawego.
+guyluc242	Chyba nadal jest wkurzony z powodu napadu na bank.
+guyluc243	To droga za miasto.
+guyluc244	Lepiej odwiedzê prawników, zanim zacznê zwiedzaæ wyspê.
 guyluc245	To drzwi do Domu Lasek.
-guyluc246	Bêdzie na to du¿o czasu PO TYM jak pójdê do biura prawników.
-guyluc247	To pó³ka z przek¹skami.
-guyluc248	Powinienem iœæ do biura prawników zanim cokolwiek kupiê.
-guyluc249	Bank Wyspy Mamony™. To tu chowa siê ³up.
-guyluc250	Powinienem iœæ do biura prawników zanim bêdê chcia³ zdobyæ informacje o strategiach inwestycyjnych.
-guyluc251	Zamkniête.
-guyluc252	Pa³ac Protez
-guyluc253	Ja naprawdê powinienem iœæ do biura prawników.
-guyluc254	To Sala Sprawiedliwoœci
-guyluc255	Powinienem iœæ do biura prawników zanim tam wst¹piê.
-guyluc256	Ehh, tu sie koñczy pomost.
-guyluc257	Jestem pewny, ¿e dalej nic nie ma.
+guyluc246	Bêdzie na to mnóstwo czasu po tym, jak pójdê do kancelarii.
+guyluc247	Twój sklep z przynêtami.
+guyluc248	Muszê pierw odwiedziæ prawników, zanim zakupiê przynêtê.
+guyluc249	Bank Mamony. Tu siê chowa ³up.
+guyluc250	Powinienem udaæ siê do kancelarii zanim zasiêgnê porad inwestycyjnych.
+guyluc251	To kancelaria prawna.
+guyluc252	Pa³ac Protez.
+guyluc253	Naprawdê powinienem najpierw iœæ do kancelarii.
+guyluc254	To sala sprawiedliwoœci.
+guyluc255	Powinienem iœæ do kancelarii zanim tam wst¹piê.
+guyluc256	Ech, tu siê koñczy molo.
+guyluc257	Jestem pewny, ¿e nic tam dalej nie ma.
 deapop001	Tak?
 guypop001	Dave?
 deapop002	Witamy w Pa³acu Protez!
-deapop003	Miejscu pe³nego Nie-psuj¹cego, Nie-g³upiego i Nieodrzucanego sprzêtu z 30 dniow¹ gwarancj¹!
+deapop003	Miejscu bez detekcji, bez infekcji, bez obiekcji - z 30dniow¹ gwarancj¹!
 deapop004	Pachniesz nowo. Kim jesteœ?
-deapop005	Ja jestem Dave.
-deapop006	Znajomi mówi na mnie Martwooki Dave.
-deapop007	Na Archipelagu Tri-Island najwiêkszy ekspert w dziedzinie anatomii ludzkiej.
-guypop002	Jestem Guybrush Threepwood, Potê¿ny Pirat.
-deapop008	Nie pachniesz jak potê¿ny pirat.
+deapop005	Jestem Dave.
+deapop006	Mówi¹ tu na mnie Martwooki Dave.
+deapop007	Na Trójwyspach jestem najwiêkszym ekspertem w anatomicznej aproksymacji.
+guypop002	Jestem Guybrush Threepwood, Potê¿ny Pirat!
+deapop008	Nie pachniesz na potê¿nego.
 guypop003	¯e co!?
-deapop009	Wed³ug mnie, pachniesz jak kwiaty...
+deapop009	W³aœciwie pachniesz kwiatowo...
 guypop004	CO?!
-deapop010	No tak, wyw¹cham twój twoj¹ wodê koloñsk¹ nawet kiedy mam katar.
-guypop005	Wow, niez³y jesteœ...
-guypop006	Nie poznajesz mnie? Wujek Freddie!
+deapop010	Kurczê, czujê zapach wody po goleniu Bezy-i-Lilie nawet przez mój zatkany nos.
+guypop005	£a³, niez³y jesteœ...
+guypop006	To ja! Twój wujek Freddie!
 deapop011	Nie prawda!
 guypop007	Co to ma znaczyæ? Nie poznajesz mnie?
-deapop012	Nie. Wujek Freddie pachnia³ raczej jak cytrynowy ser sojowy.
-guypop008	Ok, masz mnie. Nazywam siê Guybrush Threepwood.
+deapop012	Nie. Wujek Freddie pachnia³ raczej jak cytrynowy twaro¿ek.
+guypop008	Okej, masz mnie. Nazywam siê Guybrush Threepwood.
 guypop009	Kim jesteœ?
-guypop010	A jak tam idzie ci twój protetyczny biznes?
+guypop010	Jak siê ma twój protetyczny biznes?
 deapop013	Bywa³o lepiej.
-guypop011	Niech zgadnê: Jakiœ Australijski Inwestor u¿ywa³ swoich wielkich miêœni w g³owie, ¿eby wykupiæ ci biznes?
+guypop011	Niech zgadnê: Australijski inwestor stosowa³ ró¿ne taktyki si³owe, aby wykupiæ twój biznes.
 deapop014	Co? Sk¹d bierzesz takie dziwaczne pomys³y?
-guypop012	No tak z kosmosu...
-deapop015	No, ale nie trafi³eœ. "Australia", co to za dziwne w³oskie imiê?
-guypop013	To bez znaczenia. A wiêc co jest NIE TAK z twoim biznesem?
+guypop012	Tak myœla³em...
+deapop015	le myœla³eœ. "Australia"... có¿ to za osobliwa nazwa?
+guypop013	Niewa¿ne. To co siê dzieje z twoim biznesem?
 deapop016	Ma³pa mnie porzuci³a.
-guypop014	Masz od niej jakieœ wiadomoœci, po tym jak znik³a?
-deapop017	To znaczy co masz na myœli? Myœlisz, ¿e wyœle mi pocztówkê?
-guypop015	Uch...
-guypop016	Nie chcia³bym byæ nie taktowny, ale czy ty jesteœ œlepy?
+guypop014	Czy mia³eœ jakieœ wieœci od swojej ksiêgowej ma³py?
+deapop017	Co mia³aby zrobiæ, wys³aæ mi pocztówkê?
+guypop015	 
+guypop016	Nie chcê byæ nietaktowny, ale czy ty jesteœ œlepy?
 deapop018	A wygl¹dam jak œlepy?
-guypop017	Nie wiem... bia³e Ÿrenice mog¹ byæ rodzajem jakiejœ nowej, pirackiej mody czy coœ.
-deapop019	Oczywiœcie, ¿e jestem œlepy, ty brzydki straceñcu majtek!
+guypop017	Nie wiem... opaski na obu oczach mog¹ byæ wyrazem jakiejœ nowej, pirackiej mody.
+deapop019	Oczywiœcie, ¿e jestem œlepy, ty pachn¹cy bzem pantoflarzu!
 guypop018	Wybacz.
-deapop020	Ah, z drugiej strony reszta moich zmys³ów wyraŸnie rekompensuje wrodzon¹ œlepotê.
-deapop021	Na przyk³ad, zwykle rozpoznaje moich klientów przez ich charakterystyczny odór.
-guypop019	Mówisz, ¿e rozpoznajesz ludzi po zapachu?
-deapop022	Zwykle nie mam z tym najmniejszego problemu, ale dzisiaj na przyk³ad, jestem okropnie przeziêbiony.
-deapop023	Wiêc dajê radê tylko wzmocnionym zapachom...
-deapop024	... tak jak twoja denerwuj¹ca woda po goleniu, któr¹ ka¿dy chyba czuje.
-deapop025	Ale reszta moich zmys³ów jakoœ sobie radzi.
-guypop020	A co ze s³yszeniem, dobrze s³yszysz?
-deapop026	Ja s³yszê wszystko.
-guypop021	Szukam jakiegoœ prezentu dla moich bez-koñczynowych przyjació³.
+deapop020	Nie przejmuj siê tym tak. Moje inne zmys³y z nawi¹zk¹ rekompensuj¹ mój brak wzroku.
+deapop021	Na przyk³ad, zwykle mogê zidentyfikowaæ moich klientów po ich charakterystycznych zapachach.
+guypop019	Mo¿esz rozpoznawaæ ludzi po zapachu?
+deapop022	Zazwyczaj nie ma problemu. Dzisiaj jednak mam zatkany nos, bo jestem trochê przeziêbiony.
+deapop023	Mogê tylko rozpoznawaæ wzmocnione zapachy...
+deapop024	Jak liliow¹ wodê po goleniu, który obficie na³o¿y³eœ na twarz.
+deapop025	Na szczêœcie mój s³uch wci¹¿ jest ostrzejszy ni¿ brzytwa.
+guypop020	Wiêc jak ostry jest twój s³uch? £ysol.
+deapop026	Doœæ ostry, smoczku.
+guypop021	Szukam prezentów dla moich niepe³nosprawnych pirackich przyjació³.
 deapop027	Nie mog³eœ trafiæ lepiej!
 deapop028	Jaki rodzaj protezy masz konkretnie na myœli?
-guypop022	Ci¹gle szukam jakiegoœ podarku na Dzieñ Bez-koñczyn dla mojego kolegi.
-deapop029	O co dok³adnie chodzi?
-guypop023	O Ko³konosego Pete'a.
+guypop022	Wci¹¿ szukam prezentów dla przyjació³ na andrzejkow¹ imprezê.
+deapop029	O jakie dok³adnie prezenty siê rozchodzi?
+guypop023	Ko³konosy Pete.
 deapop030	Hmmm.
-deapop031	Przykro mi, nigdy o nim nie s³ysza³em.
-deapop032	Jeœli to jest z³odziej to prawie na pewno u¿ywa fa³szywego nazwiska.
-deapop033	I w³aœnie dlatego uwielbiam moje wonne zdolnoœci...Zapachu nie oszukasz.
-guypop024	Ja siê na tym nie znam.
+deapop031	Nie. Pierwsze s³yszê.
+deapop032	Oczywiœcie, jeœli to z³odziej, to pewnie u¿ywa³ pseudonimu.
+deapop033	Dlatego zwykle polegam na swoim wêchu... zapachu nie podrobisz.
+guypop024	Ja go nie znam.
 deapop034	To nie dobrze.
-deapop035	Oczywiœcie nawet jeœli znasz imiê szukanego pirata, to po tym go prawdopodobnie nie poznasz.
-deapop036	Bez Pongo nie jestem w stanie rozpoznaæ zaginionych.
-guypop025	Szukam beznosego z³odzieja.
-deapop037	Wiesz, w sumie na tej wyspie mamy ich du¿o.
+deapop035	Oczywiœcie, nawet gdybym zna³ imiê pirata, to i tak by to pewnie nie mia³o znaczenia.
+deapop036	Bez Pongo nie by³bym w stanie wydobyæ jego danych.
+guypop025	Szukam beznosego pirata-z³odzieja.
+deapop037	Mamy ich w sumie ca³kiem sporo na wyspie.
 guypop026	Z³odziei?
-deapop038	Beznosych.
+deapop038	Nie, beznosych piratów.
 guypop027	Serio?
-deapop039	No tak.  Zdziwi³byœ siê gdybyœ wiedzia³ ilu piratów ³atwo traci nosy.
-deapop040	A czy ten pirat, co go szukasz, to ma jakieœ imiê?
-guypop028	Ci¹gle szukam tego beznosego.
-deapop041	Aha, a znasz ju¿ jego imiê?
-guypop029	Jesteœ pewny, ¿e nie znasz prawdziwego nazwiska Ko³konosego?
-deapop042	A sk¹d mam znaæ jego nazwisko?
-deapop043	Znam swoich klientów tylko dziêki ich imionom i zapachom.
-guypop030	To czeœæ.
-deapop044	Trzymaj siê.
-deapop045	Smród pomaga mi w papierach i dostawach.
-deapop046	Tylko on rozumia³ mój biurowy PlikoMat.
-deapop047	Bez niego, nie wiedzia³bym, które zamówienie idzie do jakiego klienta.
-deapop048	Mia³bym wtedy taki ba³agan.
+deapop039	O tak. Zdziwi³byœ siê, jak czêsto piraci trac¹ swoje kichawy.
+deapop040	Czy ten twój pirat ma jakieœ imiê?
+guypop028	Ci¹gle szukam beznosego pirata.
+deapop041	Czy pozna³eœ ju¿ jego imiê?
+guypop029	Czy na pewno nie znasz pseudonimu Ko³konosego Pete'a?
+deapop042	Sk¹d mia³bym je znaæ?
+deapop043	Znam swoich klientów tylko po ich imionach i po zapachach.
+guypop030	Do zobaczenia.
+deapop044	Mów za siebie.
+deapop045	Poniewa¿ Pongo zajmowa³ siê papierami i dostawami.
+deapop046	Tylko on rozumia³ trzymany na zapleczu Plikomat - zautomatyzowany system archiwizacji danych.
+deapop047	Bez niego nie mam pojêcia, które zamówienia trafiaj¹ do których klientów.
+deapop048	To bardzo denerwuje moich sta³ych klientów.
 guypop031	To straszne.
-guypop032	I jesteœ tak przygnêbiony po utracie, ¿e nie mo¿esz skupiæ siê na pracy?
+guypop032	I jesteœ tak przygnêbiony swoj¹ strat¹, ¿e nie mo¿esz skupiæ siê na pracy, tak?
 deapop049	Przygnêbiony? Przez Pongo? Nie b¹dŸ g³upi.
-guypop033	Wiêc dlaczego on by³ tak wa¿ny?
-guypop034	Ale bez ma³py zaprzêgowej, która rzeŸbi³a twoje protezy twój biznes bardzo cierpi, nie?
-deapop050	Zdurnia³eœ? Nigdy nie pozwoli³em Pongo rzeŸbiæ protez.
-guypop035	Wiêc dlaczego za nim têsknisz?
-guypop036	I bez ma³py strzeg¹cej twojego biznesu jesteœ bardzo wstrz¹œniêty, racja?
-deapop051	Nie, radzê sobie bez niej równie dobrze.
-guypop037	Ok, mo¿e tak: Co by³o wa¿nego w sprawie znikniêcia twojej ma³py?
-guypop038	Macie coœ z modnych protez na lato?
-deapop052	Masz szczêœcie... W³aœnie przysz³a dostawa z serii SteadyPeg, koœæ s³oniowa i wygodny gumowy uchwyt.
-deapop053	Dwadzieœcia z³oty za koñczynê.
-guypop039	By³o by super...gdybym tylko zna³ t¹ jednostkê.
-guypop040	A jakie haki nosz¹ najlepsi piraci w tym sezonie?
-deapop054	Ah...tradycyjne.
-deapop055	Ale ¿adna nie mówi do ka¿dego "jo ho ho i butelka rumu" poza nasz¹ lini¹ haków QuickGut2000.
-deapop056	A reklama na dziœ to: Kup jeden hak za ponad 30 z³oty, a zni¿kê na nastêpn¹ koñczynê dostaniesz ty.
-guypop041	To trochê za wysoko jak na moj¹ kieszeñ.
-guypop042	A co macie z przystêpnych protez r¹k?
-deapop057	Jeœli szukasz czegoœ tañszego to w tamtym koszu znajdziesz nieco zniekszta³cone protezy z drzewa sekwoi.
-deapop058	Dzisiaj chodz¹ po pi¹tkê za sztukê.
-guypop043	No, to brzmi nieŸle. Wiedzia³em, ¿eby wzi¹æ trochê kasy.
-guypop044	Szczerze, szukam protez nosa.
-deapop059	Przykro mi, skoñczy³y siê.
-deapop060	To niesamowite jak czêsto moi regularni klienci wymieniaj¹ protezy.
+guypop033	Wiêc dlaczego jest taki wa¿ny?
+guypop034	A bez ma³py, która rzeŸbi³a protezy twój biznes cierpi, tak?
+deapop050	Zdurnia³eœ? Nigdy nie pozwoli³bym Pongo rzeŸbiæ protezy!
+guypop035	Wiêc dlaczego za nim tak têsknisz?
+guypop036	A bez ma³py, która oprowadzi po sklepie, jesteœ w³aœciwie sparali¿owany, tak?
+deapop051	Nie, po sklepie poruszam siê bardzo dobrze z Pongo lub bez niego. Dziêkujê bardzo.
+guypop037	Ok, mo¿e tak: Co by³o tak istotnego w zaginiêciu twojej ma³py?
+guypop038	Macie coœ z modnych protez nóg?
+deapop052	Masz szczêœcie... w³aœnie dosz³a dostawa StabilNóg z koœci s³oniowej z gumowymi stoperami.
+deapop053	Dwadzieœcia dublonów za sztukê.
+guypop039	By³yby œwietne... gdybym mia³ pieni¹dze.
+guypop040	Jakie haki nosz¹ fajni piraci w tym sezonie?
+deapop054	Ach... tradycjonalista.
+deapop055	Có¿, nic tak nie mówi "jo ho ho i butelka rumu" jak nasze haki z linii SzybkiBebech2000.
+deapop056	Dziœ mamy wyprzeda¿: Kup jeden hak za trzydzieœci dublonów, a jeden zastêpczy otrzymasz za darmo.
+guypop041	Trochê za wysoko jak na moj¹ kieszeñ.
+guypop042	Co masz w niedrogich protez r¹k?
+deapop057	Có¿, jeœli nie masz wysokich wymagañ, to tam jest kosz z lekko zniekszta³conymi rêkami z sekwoi.
+deapop058	Puszczamy je po piêæ dublonów za sztukê.
+guypop043	Brzmi to nieŸle. Prawie ¿a³ujê, ¿e nie mam przy sobie pieniêdzy.
+guypop044	Szczerze mówi¹c, szukam protezy nosa.
+deapop059	Skoñczy³y siê.
+deapop060	To szokuj¹ce, jak czêsto moi stali klienci ci¹gle je przedmuchuj¹.
 guypop045	A co masz za darmo?
 deapop061	Za darmo?
-deapop062	A myœlisz, ¿e co ja prowadzê? Fundacjê dla dzieci?
-guypop046	No ale co ja mam poradziæ? Jestem sp³ukany.
+deapop062	Myœlisz, ¿e dzia³am tu charytatywnie?
+guypop046	Có¿ zrobiæ, jestem sp³ukany.
 deapop063	 
-deapop064	Ok, wzbudzi³eœ moje poczucie mi³osierdzia do bliskiego.
-deapop065	Oto co zrobiê: Dam ci jedn¹ z moich nie testowanych...
-deapop066	...bez gwarancyjnych...
-deapop067	... nie zatwierdzonych...
-deapop068	... protez doœwiadczalnych.
-guypop047	Super. A o jakiej protezie konkretnie mówimy?
+deapop064	Dobra, pobudzi³eœ moj¹ wielkodusznoœæ.
+deapop065	Oto jak bêdzie: Dam ci jeden z moich nieprzetestowanych...
+deapop066	Bez gwarancyjnych...
+deapop067	Nieatestowanych...
+deapop068	Eksperymentalnych urz¹dzeñ protetycznych.
+guypop047	Super. O jakim urz¹dzeniu protetycznym mówimy?
 deapop069	Pozwolê ci wybraæ... po historyjce.
 guypop048	Co?
-deapop070	Musisz mnie rozbawiæ.
-deapop071	Za siedmioma górami ¿y³ pirat zwany...
-guypop049	Chcia³bym dostaæ inn¹ z dostêpnych darmowych protez.
-deapop072	A dasz mi dokoñczyæ nasz¹ historiê, huh?
-deapop073	No dobra...
+deapop070	Rozbaw mnie.
+deapop071	Pewnego razu ¿y³ pirat o imieniu...
+guypop049	Chcia³bym dostaæ jeszcze jedn¹ z tych darmowych protez.
+deapop072	Nie masz ju¿ doœæ eksperymentalnej technologii, co?
+deapop073	Okej...
 guypop050	Z drugiej strony, mo¿e najpierw siê rozejrzê.
-deapop074	Daj mi znaæ, jak czegoœ chcesz.
+deapop074	Daj znaæ, jeœli czegoœ potrzebujesz.
 guypop051	Jerry?
 deapop075	Jerry.
-deapop076	Jerry'emu wpad³a w OKO ksiê¿niczka o imieniu...
+deapop076	Jerry mia³ oko na pirack¹ ksiê¿niczkê o imieniu...
 guypop052	Larry?
 deapop077	Larry.
-deapop078	Larry chcia³ RÊKE piêknej dziewicy zwanej...
+deapop078	Larry chcia³ zdobyæ RÊKÊ piêknej panny o imieniu...
 guypop053	Harry?
 deapop079	Harry.
-deapop080	Ale jasnowidz przepowiedzia³ Harry'emu, ¿e jest mu przeznaczona piêkna piosenkarka o imieniu...
+deapop080	Z D£ONI wywró¿ono Harry'emu, ¿e przeznaczona jest mu piêkna piosenkarka o imieniu...
 guypop054	Mindy?
 deapop081	Mindy.
-deapop082	Niestety, serdeczny PALEC Mindy nale¿a³ ju¿ do okropnego drania o imieniu...
+deapop082	Niestety, PALEC Mindy mia³ ju¿ pierœcionek zarêczynowy od drania o imieniu...
 guypop055	Cindy?
 deapop083	Cindy.
-deapop084	A najgorsze by³o to, ¿e odda³a RÊKE fa³szywemu ³ajdakowi zwanym...
+deapop084	Niestety, RÊKA Cindy zosta³a ju¿ przyrzeczona pod³emu ³obuzowi o imieniu...
 guypop056	Wendy?
 deapop085	Wendy.
-deapop086	Tragicznie, Wendy SERCE nale¿a³o ju¿ do jêdzy o imieniu...
+deapop086	Niestety, Wendy ju¿ odda³a wczeœniej swoje SERCE palantowi o imieniu...
 guypop057	No i co?
 deapop087	Co, co?
-guypop058	No i co siê sta³o?
-deapop088	Oh, wszyscy zmarli wczeœnie przed trzydziestk¹. Nie uwierzy³byœ gdybym ci powiedzia³ ile grogu wtedy pili.
-deapop089	Mog³o byæ te¿ tak, ¿e ona pod¹¿a³a za swoim SERCEM i wysz³a za m¹¿ za Azusa. Kto by chcia³ poœlubiæ pirata?
-deapop090	Po wielu latach knucia i intrygi zosta³a G£OW¥ rodziny, mia³a dwójkê dzieci.
-deapop091	¯aden z nich nie mia³ wystarczaj¹cych JAJ, ¿eby sam siê o¿eniæ, w ramach rozpaczy sama zaczê³a siê interesowaæ biznesem, wzbogaci³a siê i ¿y³a szczêœliwie.
-deapop092	Nie mieœci³o to siê jej w G£OWIE, ¿eby siê o¿eniæ z jednym z nich dwóch, wiêc wst¹pi³a do klasztoru.
-deapop093	Kiedy siê zorientowa³a jak BRZYDKA jest, zdecydowa³a poœlubiæ najbrzydszego w mieœcie.
-deapop094	Na koñcu odesz³a z podró¿uj¹cym ksiêciem, który wsun¹³ na jej stopê o numerze 12 parê szklanych pantofelków.
-deapop095	Zainspirowa³o ich to do œpiewania bardzo niegrzecznej ballady.
+guypop058	Co by³o dalej?
+deapop088	Wszyscy zmarli na niewydolnoœæ W¥TROBY przed trzydziestk¹. Nie uwierzy³byœ, ile grogu pi³y te dzieciaki.
+deapop089	Ostatecznie posz³a za g³osem SERCA i poœlubi³a fizyka kwantowego z Zamoœcia. Kto w ogóle chcia³by poœlubiæ pirata?
+deapop090	Po wielu latach spiskowania sta³a siê G£OW¥ wszystkich rodzin i wykoñczy³a ich wszystkich.
+deapop091	¯aden z nich nie mia³ JAJ, by wzi¹æ z ni¹ œlub, wiêc skierowa³a swoj¹ pasjê na gie³dê, gdzie ¿y³a d³ugo i szczêœliwie.
+deapop092	Jej ¯O£¥DEK nie móg³ przetrawiæ myœli o ma³¿eñstwie z którymkolwiek z nich, wiêc wst¹pi³a do klasztoru.
+deapop093	Zorientowa³a siê, ¿e SKÓRA daje tylko powierzchown¹ urodê, wiêc wybra³a brzydala.
+deapop094	W koñcu uciek³a z podró¿uj¹cym ksiêciem, który wsun¹³ parê szklanych pantofelków na jej wielkie STOPY.
+deapop095	Ich TY£KI sta³y siê bohaterem bardzo niegrzecznego limeryku.
 deapop096	Koniec.
-guypop059	Co za wzruszaj¹ca opowieœæ.
-guypop060	Ta historia by³a gorsza od tej poprzedniej.
-guypop061	Powinieneœ zostawiæ opowiadanie takich bajeczek profesjonalistom.
-deapop097	No wiem. Tutaj masz swoj¹ protezê doœwiadczaln¹.
+guypop059	Co za okropna historia.
+guypop060	Ta by³a gorsza od tej poprzedniej.
+guypop061	Powinieneœ zostawiæ opowiadanie historyjek profesjonalistom.
+deapop097	Wiem. WeŸ swoj¹ darmow¹ eksperymentaln¹ protezê.
 guypop062	Co to jest?
-deapop098	To Bumbleeeny Klasy-M wersja niezniszczalnego plastiku.
-deapop099	Wynalaz³em go kilka miesiêcy temu.
-guypop063	To nie mo¿na by³o rzuciæ grogu?
-deapop100	Jeœli nie mieli odpowiednich zapasów alhoholu - za³amywali siê.
-deapop101	To najwy¿szej klasy Pumpmistrz Omega wersja sztuczne serce.
-deapop102	<smark> Wszyscy byli wœciekli kilka lat wczeœniej....przed tym jak œrubki zaczê³y rdzewieæ.
-deapop103	To prototyp mojej w³asne DeadeyeDeluxe wersja g³owa do wymiany.
-deapop104	Jest przeznaczony dla piratów z takim ubytkiem uszu, nosa lub oczu, ¿e lepiej im daæ zupe³nie now¹ g³owê.
-guypop064	Czy planujesz wymianê mózgu niektórym wymagaj¹cym piratom?
-deapop105	Tak, mam zamiar wydaæ coœ takiego w najnowszym updejcie.
-deapop106	To kilka tuzinów stóp Frinkle & Osterman wersja nowych jaj.
-guypop065	Ale jazda!
-deapop107	Wiem, ale ten typ zawsze siê zacina w zimne wieczory.
-guypop066	Podwójna jazda!
-deapop108	To fabryczny model BileTastic Stom-Mech9000.
-deapop109	Jeœli producenci kiedyœ za³api¹ jak zatrzymaæ wyciekaj¹cym kwas, zap³ac¹ za niego miliony.
-deapop110	Ale nie martw siê... i tak bym ci go nie da³.
+deapop098	To sztuczna w¹troba "Be³kotek" klasy M.
+deapop099	Wycofaliœmy je kilka miesiêcy temu.
+guypop063	Nie mog³y znieœæ ju¿ grogu?
+deapop100	Wrêcz przeciwnie, bez sta³ego dop³ywu mocnego alkoholu, strasznie siê psu³y.
+deapop101	To najwy¿szej klasy sztuczne serce marki Pompmajster Omega.
+deapop102	By³y modne kilka lat temu... zanim œruby zaczê³y rdzewieæ.
+deapop103	To prototyp mojej w³asnej protetycznej g³owy Martwooki Deluxe.
+deapop104	Jest dla piratów, którzy stracili tak wiele uszu, oczu i nosów, ¿e woleliby zacz¹æ wszystko od nowa z nowiuteñk¹ g³ow¹.
+guypop064	Jak uda³o ci siê powieliæ skomplikowane procesy myœlowe pirackiego mózgu?
+deapop105	Bêdê to dodawaæ w nastêpnej poprawce.
+deapop106	To kilkadziesi¹t stóp sztucznych kiszek Frinkle'a i Ostermana.
+guypop065	Chore!
+deapop107	Wiem, zawsze siê zatykaj¹ w ch³odne zimowe wieczory.
+guypop066	Podwójnie chore!
+deapop108	To fabryczny model ¯ó³ciaka ¯o³¹dmecha 9000.
+deapop109	Jeœli kiedyœ wymyœl¹, jak zapobiec wyciekaniu kwasu, to sprzedadz¹ ich miliony.
+deapop110	Bez obaw... ten jest pusty.
 deapop111	A TO... coœ specjalnego.
-deapop112	To próbka nowo-wykreowanej, Ultra-drapi¹cej, Pasuj¹cej-do-ka¿dego, sztucznej skóry!
-guypop067	 
-deapop113	Produkowana z tajemniczej substancji, piraci oddaj¹ w zamian za skórê stracone miêdzy innymi w walkach na miecze,
-deapop114	walkach na no¿e, przeci¹ganie liny czy okazjonalnych ch³ostach.
-deapop115	Sprzedajemy je w komplecie ze smuk³ymi hakami, ³atwo mocowanymi!
-guypop068	Mo¿e ja powtórzê: Ewww.
-deapop116	A to jest para £atwo przypinalnych Protez Palców u nóg wersja XXL.
-deapop117	Zaprojektowane dla piratów maj¹cych nie przeciêtny rozmiar...stopy.
-deapop118	Ale na nieszczêœcie, cz³owiek w takiej protezie bardziej przypomina Klauna.
-deapop119	To wyj¹tkowy eksperyment, który wyj¹tkowo nigdy siê nie przyj¹³.
-deapop120	Grupa francuskich naukowców chcia³a ostatnio rozwi¹zaæ ten problem wciskaj¹c w to piratów którzy stracili buty.
-deapop121	( niektórzy z nich stracili buty w czasie walki, inny po prostu z nich zrezygnowali a jeszcze inni mieli tajemnicze znikniêcie butów rzekomo w czasie dziwnego b³ysku )
-deapop122	Po wielu latach, uda³o mi siê stworzyæ to cudo - FauxBut3000.
-deapop123	Ku niespodziance wszystkich, to kompletna klapa.
+deapop112	To próbka mojej nowej, ultrarozci¹gliwej, uniwersalnej protetycznej skóry!
+guypop067	£eee.
+deapop113	Dziêki zaledwie kilku stopom kwadratowym tej cudownej substancji pirat mo¿e zast¹piæ ca³¹ skórê, któr¹ straci³ podczas walki na miecze,
+deapop114	Walki na no¿e, holowaniu pod kilem czy okazjonalnych ch³ostach.
+deapop115	W komplecie do³¹czamy zestaw ma³ych haczyków do ³atwego mocowania!
+guypop068	Powtórzê: £eee.
+deapop116	To para protetycznych wielkich stóp marki As GwoŸdzioszukacz.
+deapop117	Zosta³y zaprojektowane dla piratów niepewnych co do rozmiaru swoich... no wiesz, stóp.
+deapop118	Niestety, ludzie wygl¹dali w nich jak durne klauny.
+deapop119	To szlachetny eksperyment, który nigdy siê nie przyj¹³.
+deapop120	Zespó³ francuskich proktologów postanowi³ zaj¹æ siê problemami piratów, którzy utracili swoje ty³ki.
+deapop121	(Niektórym odstrzelono je w bitwie, innym ty³ek pali³ siê w pracy, a jeszcze inni nie mogli ju¿ nawet trafiæ do ty³ka z latark¹.)
+deapop122	Po wielu latach, stworzyli to - Ty³ex 3000.
+deapop123	Ku zaskoczeniu wszystkich, projekt upad³.
 guypop069	Dlaczego?
-deapop124	Ludzie przychodz¹ tutaj raczej dla butów, a nie dla sztucznych butów.
-guypop070	Da³eœ mi w³aœnie taki.
-deapop125	Tak? Przepraszam, obawiam siê, ¿e tylko takie mogê rozdawaæ klientom.
+deapop124	Okazuje siê, ¿e ludzie wol¹ nie mieæ ty³ka w ogóle ni¿ mieæ ty³ek podróbkê.
+guypop070	Ju¿ mi jedn¹ da³eœ.
+deapop125	Tak? W takim razie, przykro mi, ale mogê rozdaæ tylko jedn¹ na klienta.
 guypop071	Fred?
-deapop126	No Fred.
+deapop126	Tak, Fred.
 guypop072	Ned?
-deapop127	Ned. Dok³adnie.
+deapop127	Ned, tak jest.
 guypop073	Jed?
-deapop128	Masz racjê. Jed.
+deapop128	Tak jest. Jed.
 guyluc258	Ahoj, panie Serze.
 navluc004	Tak?
-guyluc259	Dobra robota. Kurs nam sie uda³.
-navluc005	Dziêki, nastêpnym razem, bêdziesz pomocny jeœli nie bêdziesz u¿ywa³ mapy statku jako papieru toaletowego.
-guyluc260	A gdzie jest Otis?
-navluc006	Ten bezu¿yteczny owsik? Daruj sobie.
-navluc007	Zanim odszed³eœ, on ju¿ zwia³.
-navluc008	Prawdopodobnie szuka nowych sposobów bycia leniem.
-guyluc261	A co ze statkiem? Yy, kiedy bêdzie gotowy do odp³ywu?
-navluc009	Jak zgubisz ten voodoo ³añcuszek to pomyœlimy
-guyluc262	Oh no tak.
-navluc010	Dok³adnie po tym jak naprawiê ster, maszt i ca³e piêtro.
-guyluc263	No dobra. Tylko chcia³bym, ¿eby ten statek ci¹gle wygl¹da³ jak statek kiedy wrócê.
+guyluc259	Œwietnie doprowadzi³ nas pan do portu.
+navluc005	Dziêki. Nastêpnym razem bardzo by pomog³o, gdybyœ nie u¿ywa³ map w statku jako podk³adki.
+guyluc260	Gdzie znajdê Otisa?
+navluc006	Ten bezu¿yteczny wymaz? Nie wiem.
+navluc007	Jak odszed³eœ to zwia³.
+navluc008	Pewnie szuka nowych sposobów na bycie leniem.
+guyluc261	Jak ma siê statek? Kiedy bêdzie gotowy do wyp³yniêcia?
+navluc009	Bêdzie gotowy na d³ugo przed tym, jak zdejmiesz ten ³añcuszek voodoo.
+guyluc262	No tak, to.
+navluc010	Jak tylko naprawiê ster, maszt i pok³ad.
+guyluc263	W takim razie dobrze. Proszê dbaæ o... statek, kiedy mnie nie bêdzie.
 guyluc264	To tylko ma³e nieporozumienie.
-guyluc265	Ale jak znajdê prawdziwego z³odzieja, moje imiê bêdzie czyste.
-navluc011	No tak, ale na razie nie jest.
-guyluc266	To nie ³añcuszek, to jakiœ voodoo talizman.
-navluc012	Cokolwiek powiesz to i tak nigdy nie bêdzie modne.
-guyluc267	Bêdê wolny zanim nawet ma³pa mrugnie dwa razy.
-navluc013	Nie chcê wiedzieæ czemu cie aresztowali.
-guyluc268	Ja te¿ nie chcê o tym mówiæ.
-navluc014	W³aœnie widzê.
-guyluc269	Co sie sta³o ze sterem?
-navluc015	Ma siê trochê gorzej ni¿ falochron
+guyluc265	Kiedy znajdê prawdziwego z³odzieja, moje imiê znów bêdzie czyste.
+navluc011	Tak, ale dalej bêdziesz sob¹.
+guyluc266	To nie ³añcuszek, to œwiêty voodoo talizman.
+navluc012	Jakkolwiek by tego nie nazwaæ, nadal nie jest to modny dodatek.
+guyluc267	Bêdê wolny za dwa machniêcia ma³pim ogonem.
+navluc013	Nie chcê wiedzieæ, czemu ciê aresztowali.
+guyluc268	W³aœciwie nie chcê o tym gadaæ.
+navluc014	Wiem czemu.
+guyluc269	Co siê sta³o ze sterem?
+navluc015	Po prostu trochê oberwa³ w drodze obok tego falochronu.
 navluc016	Szybko to naprawiê.
 guyluc270	Co siê sta³o z masztem?
-navluc017	Trochê siê z³ama³ po tym jak uderzyliœmy w wielk¹ górê lodow¹.
+navluc017	Có¿, trochê nim wstrz¹snê³o, gdy zjechaliœmy ze skalistego wystêpu.
 guyluc271	Co siê sta³o z pok³adem?
-navluc018	Ktoœ do niego wo³a³ "Mamusiu, pomocy!".
-navluc019	Niby wiêksza dziurka, ale naprawiê to.
-guyluc272	Ok, zostawiam to tobie.
+navluc018	Ktoœ wydrapa³ na nim "Pomó¿ mi, mamusiu".
+navluc019	Drapa³ g³êboko, ale da siê to naprawiæ.
+guyluc272	Dobrze, to nie przeszkadzam.
 navluc020	Dziêki.
 guypop074	Adeline A. Apricot
 guypop075	Bobby D. Fisher
@@ -6716,167 +6716,167 @@ deapop250	Totally Y. Frivolous
 deapop251	Timmy Z. Monkey
 deapop252	Val Z. Skilmer
 deapop253	Xylophone Y. Zimmerman
-guypop199	To jakiœ dziwny rodzaj dokumentu.
-guypop200	Ten odra¿aj¹cy facet ma przepaskê na oczach!
-deapop254	Taa, tylko, ¿e mam dobry s³uch.
+guypop199	To jakiœ dokument.
+guypop200	Ten oblech ma przepaski na obu oczach!
+deapop254	Taa, ale s³uch mam dobry.
 guypop201	Wybacz.
 guypop202	Do niego nale¿y Pa³ac Protez.
-guypop203	To Deadeye Dave.
-guypop204	Hej, czy ten zapach na chusteczce nie przypomina ci czegoœ lub kogoœ?
-deapop255	No nie wiem. Raczej nie.
+guypop203	To Martwooki Dave.
+guypop204	Hej, czy zapach tej chusteczki przypomina ci coœ lub kogoœ?
+deapop255	Nie wiem. Pow¹chajmy...
 deapop256	(poci¹gniêcie nosem)
-deapop257	Nic. naprawdê nic na tym nie czuje.
-guypop205	Co ty sobie myœlisz?! Myœla³em, ¿e œlepi ludzie...
-deapop258	Hej! Niepe³nosprawni...
-guypop206	Przepraszam. Myœla³em, ¿e NIEPE£NOSPRAWNI ludzie maj¹ mocniejsze zmys³y.
-guypop207	To znaczy, moje wszystkie zmys³y dzia³aj¹ poprawnie i nie mam specjalnego wêchu, a mimo to czuje ten odór z chusteczki.
-deapop259	Heh, bo to dzia³a tylko kiedy mam czysty nos.
-deapop260	W tej chwili jestem okropnie przeziêbiony wiêc nos jest zatkany - po prostu nic nie czuje.
-deapop261	Jeœli naprawdê potrzebujesz u¿yæ moich super mocy musisz znaleŸæ jakiœ sposób ¿eby wzmocniæ zapach to mo¿e dam radê.
+deapop257	Nic. Nie wyczuwam na niej zbyt wiele.
+guypop205	Jak to?! Myœla³em, ¿e œlepcy...
+deapop258	Hej, hej, hej, hej!  Z upoœledzeniem wzroku...
+guypop206	Przepraszam.  Myœla³em, ¿e osoby z UPOŒLEDZENIEM WZROKU wzmocnione zmys³y, aby zrównowa¿yæ jego brak.
+guypop207	Nawet ja, z pe³ni funkcjonuj¹cym zestawem oczu, potrafiê wyczuæ wydobywaj¹cy siê z niej nieprzyjemny zapach!
+deapop259	Bo to dzia³a tylko kiedy mam czysty nos.
+deapop260	Jestem trochê przeziêbiony i mam zatkany nos, wiêc prawie nie czujê zapachów.
+deapop261	Jeœli chcesz skorzystaæ z moich niesamowitych zdolnoœci rozró¿niania zapachów, bêdziesz musia³ spróbowaæ daæ mi wzmocnion¹ wersjê zapachu.
 guypop208	Ale jak?
 deapop262	U¿yj swojego nosa!
-deapop263	Phew! To jakiœ znany zapach...
-deapop264	Móg³bym d³ugo na to ponarzekaæ ale...
-deapop265	... to mój najlepszy klient.
+deapop263	Fiu! To a¿ nazbyt znajomy zapach...
+deapop264	Jednak nie powinienem narzekaæ bo...
+deapop265	To mój najlepszy klient.
 deapop266	Taaak...
-deapop267	Ten koleœ regularnie kupuje u mnie protezy nosa!
-guypop209	Serio? To mój... uuch... naprawdê dobry przyjaciel...tak.
-guypop210	On tragicznie zagin¹³... i naprawdê têskniê za nim wiêc stworzy³em specjalny zapach, ¿eby mieæ wspomnienia po nim.
-deapop268	Ok, za du¿o informacji.
-deapop269	Mam zasady: nie widaæ z³a, nie czuæ z³a.
-guypop211	No, w ka¿dym razie, jeœli wiesz gdzie mo¿e byæ... uch.. mój przyjaciel, to bym by³ ci bardzo wdziêczny!
-deapop270	Oh tak, na pewno. On ¿yje gdzieœ na Czasomglistych Moczarach.
-deapop271	Nie dostaniesz siê do nich bez wskazówek, które mi da³.
-deapop272	S¹ gdzieœ ukryte w bazie danych mojego PlikoMatu.
-guypop212	To daj mi te wskazówki!
+deapop267	Facet regularnie kupuje ode mnie protezy nosa!
+guypop209	Serio? To mój... uch... bardzo dobry znajomy... tak.
+guypop210	Straci³em go z oczu i... tak za nim zatêskni³em, ¿e zrobi³em tak¹ ma³¹ miksturê, która mia³a mi o nim przypominaæ.
+deapop268	Okej, za du¿o informacji.
+deapop269	Mam œcis³¹ zasadê: nie pytaj, nie w¹chaj.
+guypop211	W ka¿dym razie, jeœli wiesz, gdzie mogê znaleŸæ mojego... uch... przyjaciela, bardzo byœ mi pomóg³!
+deapop270	Och tak, pewnie. ¯yje gdzieœ na Czasomglistych Moczarach.
+deapop271	Nie przejdziesz przez nie bez wskazówek, które mi da³.
+deapop272	S¹ zapisane gdzieœ w bazie mojego PlikoMatu.
+guypop212	No to dawaj mi je!
 deapop273	Nie mogê.
-deapop274	Pongo, moja ksiêgowa ma³pa, gdzieœ uciek³a. Tylko on wiedzia³ jak dzia³a PlikoMat.
-deapop275	Innymi s³owy, nie mam pojêcia jak odnaleŸæ drogê.
-deapop276	Ale jeœli sam to rozgryziesz... droga wolna.
-deapop277	G³ówny panel znajdziesz tutaj.
-guypop213	Co za zbieg okolicznoœci! Mam akta Ko³konosego na wierzchu.
-guypop214	To musi byæ jakaœ moc psychiki.
-deapop278	Taa, albo po prostu szczêœcie...
-deapop279	Wee-hew! Nie po oczach!
-guypop215	Przepraszam, ale nie by³em pewny. Jak myœlisz, do kogo nale¿y ten zapach?
-deapop280	Ju¿ ci mówi³em, to nale¿y do...
+deapop274	Pongo, moja ksiêgowa ma³pa, gdzieœ uciek³a. Tylko on wiedzia³, jak dzia³a PlikoMat.
+deapop275	W efekcie nie mam pojêcia jak wyci¹gn¹æ tê mapê.
+deapop276	Ale jeœli tobie siê uda, to droga wolna.
+deapop277	Sterowanie jest tu obok.
+guypop213	Co za przypadek! Ju¿ mam mam akta Ko³konosa.
+guypop214	To jakaœ psychiczna moc!
+deapop278	Albo szczêœcie...
+deapop279	Przestañ mi tym psikaæ!
+guypop215	Przepraszam, ale chcê mieæ pewnoœæ. Do kogo nale¿y ten zapach?
+deapop280	Ju¿ ci mówi³em, nale¿y do...
 guypop216	Dziêki.
-deapop281	Stary, znowu mnie popsika³eœ takimi œmierdz¹cymi odorami.
-deapop282	Œmierdzi tak...
-deapop283	... drewniano...
-deapop284	... i rybnie...
-deapop285	... rybnie...
-deapop286	... i jak kwiaty...
-deapop287	... jak kwiaty...
-deapop288	... i zgnile...
-deapop289	... zgnile...
-deapop290	... i jak bagna...
-deapop291	... bagna...
-deapop292	... jak stêch³e powietrze.
-guypop217	To podwieszacz przynosz¹cy dokumenty z zaplecza.
-guypop218	Podwieszacz teraz nic nie trzyma.
-guypop219	Nie, potrzebuje tych wskazówek do kryjówki Ko³konosego.
-guypop220	To panel kontrolny systemu pobierania plików.
-deapop293	Kiedy mówi³em, ¿e "droga wolna" przy u¿ywaniu PlikoMatu nie mia³em na myœli "Droga wolna, ¿eby go ukraœæ".
-guypop221	Mam ju¿ jeden dokument od Dave'a. Jeœli bêdzie inny, bêdê musia³ ten od³o¿yæ.
+deapop281	Kurczê, dziwnie pachnie to, czym mnie spryska³eœ.
+deapop282	Œmierdzi...
+deapop283	Drewniano...
+deapop284	I rybnie...
+deapop285	Rybnie...
+deapop286	I kwiatowo...
+deapop287	Kwiatowo...
+deapop288	I bagniœcie...
+deapop289	Bagniœcie...
+deapop290	I wodniœcie...
+deapop291	Wodniœcie...
+deapop292	Jak stêch³e powietrze.
+guypop217	To chwytak, który pobiera pliki z zaplecza.
+guypop218	Na chwytaku nie ma teraz pliku.
+guypop219	Nie, potrzebujê tych wskazówek do kryjówki Ko³konosego.
+guypop220	To panel kontrolny systemu pobierania akt.
+deapop293	Mówi¹c "droga wolna" by u¿ywaæ systemu plików, NIE mia³em na myœli "droga wolna by mi go ukraœæ".
+guypop221	Mam ju¿ jeden akta klienta Martwookiego. Jeœli chcê mieæ kolejne, lepiej od³o¿ê te.
 guypop222	Ja ju¿ mam akta Ko³konosego.
-guypop223	Hmmm. Mam wra¿enie, ¿e z takimi ustawieniami nie ma danych.
-guypop224	Ah, zapomnij.
-guypop225	To kosz dla protez ca³ych koñczyn.
+guypop223	Hmm... Chyba nie ma pliku z takimi ustawieniami.
+guypop224	Ach, niewa¿ne.
+guypop225	To kosz z precyzyjnie wykonanymi protezami koñczyn.
 guypop226	Nie potrzebujê ca³ego kosza z protezami.
-guypop227	W ewentualnoœci, jedna by mi siê przyda³a.
-guypop228	To mi wygl¹da na jakiœ rodzaj nowoczesnego systemu pobierania plików.
-guypop229	Szkoda, ¿e one siê na mnie patrz¹.
-guypop230	Masz ju¿ doœæ dotykania ludzi za ich oczy. Dziêkuje.
-guypop231	Nie widzia³em tylu ostrokrawê¿nych rzeczy od czasu mojej ostatniej wizyty u lekarza.
-guypop232	Wk³adanie rêki do kosza pe³nego ostrych jak brzytwa haków to recepta na katastrofê.
-guypop233	Ten haki i koñczyny wygl¹daj¹ jakby stêpione.
-deapop294	Wiem. Zamówi³em kilka takich od jakieœ chiñskiej firmy, a teraz bêdê cierpia³.
-deapop295	Nawet nie mogê ich podnieœæ.
-guypop234	Mimo, ¿e uwielbiam darmochê to takie plastikowe badziewia to przesada.
-guypop235	Œwietny pomys³! Szkoda mi tylko tych s³oni.
-guypop236	Mam now¹ zasadê - bojkotuje wszystkie rzeczy zrobione z wyginiêtych gatunków.
-guypop237	Kiedyœ czyta³em o tym ksi¹¿kê. Podobno ³atwo siê z tego robi frytki.
-guypop238	Jakbym to za³o¿y³ to najpierw bym siê zabi³.
-guypop239	Ah, klasyczny hak ze stali. Idealny dla najbrutalniejszych piratów na œwiecie.
-guypop240	Lepiej nie. Elaine by by³a z³a gdybym tym jej poharata³ twarz.
+guypop227	Najwy¿ej jedn¹.
+guypop228	To chyba jakiœ zaawansowany system wydobywania plików.
+guypop229	Fajnie, jakby przesta³y siê na mnie gapiæ.
+guypop230	Mam ju¿ doœæ dotykania ga³ek ocznych innych ludzi, dziêki.
+guypop231	Nie widzia³em tylu spiczastych przedmiotów od czasu mojej ostatniej kontroli dentystycznej.
+guypop232	Wk³adanie rêki do kosza pe³nego haczyków wydaje siê byæ recept¹ na katastrofê.
+guypop233	Te haki i rêce wygl¹daj¹, jakby siê rozpada³y.
+deapop294	Wiem. Zamówi³em je od jakiejœ zamorskiej firmy krzak i teraz z nimi utkn¹³em.
+deapop295	Nie mogê ich nawet rozdaæ.
+guypop234	Choæ uwielbiam darmowe rzeczy, te plastikowe gad¿ety s¹ bezu¿yteczne.
+guypop235	Œwietny pomys³! Chocia¿ szkoda mi tych s³oni.
+guypop236	Z zasady bojkotujê rzeczy wykonane z zagro¿onych wyginiêciem zwierz¹t, których osobiœcie nie zabi³em.
+guypop237	Widzia³em literaturê na ich temat. Podobno mo¿na z nich zrobiæ œwietne frytki.
+guypop238	Myœlê, ¿e tylko bym siê tym zrani³.
+guypop239	Ach, klasyczny ¿eliwny hak, ulubiony przez okrutnych piratów na ca³ym œwiecie.
+guypop240	Nie s¹dzê. Elaine wystarczaj¹co siê z³oœci, gdy moja broda drapie j¹ po twarzy.
 deapop296	S³ysza³em to!
-deapop297	Mam nadziejê, ¿e chcesz zap³aciæ za t¹ rêkê. Nie jest tania.
-guypop241	Nie wzi¹³em ze sob¹ ¿adnych drobnych...
-deapop298	Skoro tak, to lepiej bêdzie jeœli od³o¿ysz to na swoje miejsce, jasne?
-deapop299	Od³ó¿ to na miejsce, nêdzna szumowino.
+deapop297	Mam nadziejê, ¿e chcesz zap³aciæ za tê rêkê. Nie jest tania.
+guypop241	W³aœciwie nie mam ani grosza...
+deapop298	W takim mo¿e lepiej od³ó¿ to z powrotem, tygrysie?
+deapop299	Od³ó¿ to, ty ha³aœliwy hultaju.
 deapop300	Czy ja coœ s³ysza³em?
 guypop242	Nie, tylko nawiedzaj¹ce melodie mojej pozytywki.
-guypop243	O nie... ta sztuczna jest zrobiona z porcelany. Brrr
-guypop244	Nie dotknê tego.
-guypop245	Co my tu mamy... gumowe palce...sztuczne wyrostki... metalowe jajniki... nie, tu nic ciekawego dla mnie.
-guypop246	Prowadz¹ do Miasta Mamony .
-guymot001	Jeœli jesteœ mn¹, to o jakiej liczbie teraz myœlê?
-guymot002	To ³atwe. O TEJ, o której ja myœlê teraz!
-guymot003	S¹dzê, ¿e jesteœ mn¹.
+guypop243	Ta noga jest zrobiona z... porcelany.
+guypop244	Nie dotknê jej.
+guypop245	Zobaczmy... gumowe kostki... sztuczne wyrostki... mieszki w³osowe... nie, nic st¹d nie chcê.
+guypop246	Prowadz¹ na Mamonê.
+guymot001	Jeœli naprawdê jesteœ mn¹ z przysz³oœci, to o jakiej liczbie myœlê?
+guymot002	Straszne. O tej liczbie w³aœnie myœlê!
+guymot003	Chyba jednak jesteœ mn¹.
 guymot004	Dwadzieœcia osiem i pó³.
 guymot005	Dziewiêæ tysiêcy czterysta piêædziesi¹t dwa.
 guymot006	Dwanaœcie.
 guymot007	Szeœædziesi¹t dziewiêæ.
 guymot008	Dziewiêædziesi¹t trzy.
 guymot009	Jeden-jeden-trzy-osiem
-guymot010	Dziêki Guybrush! Jesteœ najlepszy...
+guymot010	Dziêki, Guybrush! Jesteœ najlepszy!
 guymot011	Masz, weŸ to.
-guymot012	Myœlê ¿e i to ci siê przyda...
-guymot013	... i to te¿...
-guymot014	Oh, mam coœ dla ciebie!
-guymot015	Uhm, super. Gumowy kurczak z kó³kiem na szyi.
-guymot016	Ooh, lina. To siê mo¿e przydaæ.
-guymot017	Hej, patrzcie, broñ! Strze¿ siê, Ko³konosy.
+guymot012	I to ci siê przyda...
+guymot013	I to...
+guymot014	Och, mam coœ jeszcze dla ciebie.
+guymot015	Super. Gumowy kurczak z kó³kiem na szyi.
+guymot016	Lina. Mo¿e siê przydaæ.
+guymot017	Hej, hej, to broñ! Strze¿ siê, Ko³konosy.
 guymot018	Uh oh..
-guymot019	Nie uciekaj! Mo¿esz spowodowaæ jakieœ b³êdy w czasie.
-guymot020	Ah, cholera...
-guymot021	Nie masz jeszcze czegoœ dla mnie?
-guymot022	Lepiej nie... S¹dzê, ¿e to ca³e gadanie ze sob¹ mo¿e doprowadziæ do zak³ócenia kontinuum czasoprzestrzennego.
-guymot023	Jasne.
+guymot019	Nie odchodŸ! Mo¿esz spowodowaæ jakiœ paradoks!
+guymot020	Œwietnie...
+guymot021	Czy nie powinieneœ mi czegoœ daæ?
+guymot022	Och nie. W³aœnie rozerwa³em tkaninê czasoprzestrzeni, prawda?
+guymot023	Tak.
 guymot024	Masz, weŸ to.
-guymot025	Myœlê ¿e i to ci siê przyda...
-guymot026	... i to te¿...
-guymot027	Dziêki Guybrush! Jesteœ najlepszy...
-guymot028	Oh, mam coœ dla ciebie!
+guymot025	To te¿ ci siê przyda.
+guymot026	I to...
+guymot027	Dziêki, Guybrush! Jesteœ najlepszy!
+guymot028	Och, mam coœ jeszcze dla ciebie.
 guymot029	Hmmmm...
-guymot030	Lepiej nie... S¹dzê, ¿e to ca³e gadanie ze sob¹ mo¿e doprowadziæ do zak³ócenia kontinuum czasoprzestrzennego..
+guymot030	Lepiej nie... Podejrzewam, ¿e ca³e to gadanie do siebie sieje spustoszenie w kontinuum czasoprzestrzennym.
 guymot031	Nie! Nic nie mów!
 guymot032	Spowodujesz paradoks!
-guymot033	Auu!
-guymot034	No dobra masz racjê... Posiadacze broni s¹ piêæ razy bardziej zagro¿eni postrzeleniem siebie...
-guymot035	Coœ tu jest nie tak.
-guymot036	Nie. Jestem pewny, ¿e da³em to sobie z jakiegoœ powodu.
+guymot033	 
+guymot034	Ojej, jednak to prawda... posiadacze broni s¹ piêæ razy bardziej nara¿eni na postrzelenie...
+guymot035	Coœ mi tu nie gra.
+guymot036	Nie. Na pewno da³em to sobie w jakimœ celu.
 guymot037	Lepiej to zatrzymam, mo¿e mi siê póŸniej przydaæ.
-guymot038	Nie, wolê to teraz trzymaæ przy sobie.
+guymot038	Nie, wola³bym to jeszcze u siebie zatrzymaæ.
 guymot039	To prosta tratwa.
 guymot040	To brama.
-guymot041	Nie ma mowy! Prawdopodobnie to Ko³konosy Pete siê za mnie znowu przebra³!
-guymot042	Za³o¿ê siê, ¿e tym kluczem otworzê ka¿dy zamek!
-guymot043	Gdybym tylko mia³ z czym go u¿yæ.
-guymot044	Nigdy wczeœniej w grach nie mia³em do czynienia z broni¹... To musi byæ fajne.
-guymot045	To 15 metrów d³ugiej liny.
+guymot041	No nie!  To na pewno Ko³konosy Pete znów siê za mnie przebra³!
+guymot042	Tym kluczem na bank da siê otworzyæ ka¿dy zamek!
+guymot043	Gdybym tylko mia³ jakiœ zamek.
+guymot044	Do tej pory, w ¿adnej mej przygodzie, nie dosta³em nigdy broni... powinno byæ zabawnie.
+guymot045	To d³ugi na piêtnaœcie stóp kawa³ liny.
 guymot046	Tak pi razy oko.
-guymot047	MÓG£BYM zrobiæ jakieœ fajne sztuczki z lin¹, ale wiem ¿e animatorzy by mnie udusili.
-guymot048	Nie widzia³em czegoœ takie tak d³ugo.
+guymot047	MÓG£BYM teraz zrobiæ jakieœ wymyœlne sztuczki z lin¹, ale animatorzy by mnie znienawidzili.
+guymot048	Nie widzia³em czegoœ takiego bardzo d³ugo.
 guymot049	Wygl¹da na ciê¿szy ni¿ ostatnio.
-guymot050	Ale przynajmniej bezu¿ytecznoœæ siê nie zmieni³a.
-guymot051	To ka³u¿a pe³na œmierdz¹cej wody na bagnie.
+guymot050	Mimo to bezu¿ytecznoœæ siê nie zmieni³a.
+guymot051	To œmierdz¹ca ka³u¿a bagiennej wody.
 guymot052	Potê¿ni piraci nie potrzebuj¹ siê pluskaæ w ka³u¿y.
-guymot053	Zawsze chcia³em mieæ perfumy na bazie bagiennej sadzawki.
+guymot053	Zawsze chcia³am mieæ perfumy o zapachu bagien.
 guymot054	To wyjœcie z bagien.
 guymot055	Do czego to s³u¿y?
 guymot056	Kim jesteœ?
 guymot057	Gdzie to dosta³eœ?
-guymot058	Ale by³o inaczej! Nie pamiêtasz co mówi³eœ kiedy by³eœ tam gdzie ja teraz?
-guymot059	Jestem tob¹ z przysz³oœci! Potrzebuje ciê do otworzenia bramy.
-guymot060	To klucz z koœciotrupa, najbardziej przydatna rzecz jak¹ mo¿esz kiedykolwiek prosiæ w przygodówkach. U¿yj tego w bramie.
-guymot061	A jak myœlisz, do czego s³u¿y? Otwórz nim bramê, kretynie.
-guymot062	Jestem Guybrush Threepwood! A teraz zrób sobie sam przys³ugê i otwórz mi bramê.
-guymot063	Kto ty myœlisz, ¿e ja jestem? Sam sobie otwórz bramê, ok?
-guymot064	Zaraz sam zobaczysz. Móg³byœ ju¿ skoñczyæ i otworzyæ mi i sobie bramê?
-guymot065	To nie istotne. Wa¿ne jest tylko to, ¿ebyœ otworzy³ t¹ cholern¹ bramê i rozwi¹za³ zagadkê.
-guymot066	Czy ja zawsze brzmiê tak wkurzaj¹co? Mo¿esz ju¿ nam otworzyæ?
+guymot058	To nie tak!  Nie pamiêtasz, co mówi³eœ, kiedy by³eœ tam, gdzie ja teraz jestem!?
+guymot059	Jestem tob¹ z przysz³oœci! Musisz mi otworzyæ bramê.
+guymot060	To klucz z koœciotrupa, najbardziej przydatny przedmiot, o jaki mo¿na prosiæ w grze przygodowej. U¿yj go, aby otworzyæ bramê.
+guymot061	A do czego to mo¿e byæ? Otwórz tym bramê, g³uptasie.
+guymot062	Jestem Guybrush Threepwood! A teraz zrób sobie przys³ugê i otwórz mi bramê.
+guymot063	A niby kim mam byæ? Otwórz sobie bramê, dobra?
+guymot064	Wkrótce siê przekonasz. Móg³byœ byæ koleg¹ i pomóg³ sobie otworzyæ tê bramê?
+guymot065	To nie jest istotne. Istotne jest, abyœ otworzy³ dla mnie bramê, bo inaczej nigdy nie rozwi¹¿esz tej zagadki.
+guymot066	Cholerka, czy ja zawsze brzmiê tak irytuj¹co? Otworzysz sobie wreszcie tê bramê?!
 guymot067	le!
 guyall155	"Grog Jr™. Ca³y wspania³y smak Grogu z tylko dwoma procentami alkoholu".
 guyall156	Co za krzywda.
@@ -7297,7 +7297,7 @@ cascgs017	Panie Threepwood, spotka³em siê w ¿yciu tylko z dwoma rodzajami pirató
 cascgs018	Tych, którzy uprawiaj¹ barbarzyñstwo bezmyœlnie, oraz tych, którzy to planuj¹ i niszcz¹ wszystko bezsensownie!
 cascgs019	Ka¿da z tych grup jest równie niebezpieczna i w ka¿dym momencie mo¿e zrobiæ coœ zagra¿aj¹cemu ¿yciu lub zdrowiu!
 guycgs020	Powtórzy pan œrodek tego zdania?
-guycgs021	Czyli ciska pan kulami w ka¿d¹ grupê piratów którzy sie tylko pojawi¹?
+guycgs021	Czyli ciska pan kulami w ka¿d¹ grupê piratów którzy siê tylko pojawi¹?
 cascgs020	Oczywiœcie.
 cascgs021	Tylko tak powstrzymamy ich piekielny spisek....
 cascgs022	Nawet teraz ich s³yszê, jak knuj¹ kolejne podstêpy przeciwko niczemu nie winnych obywateli Jambalaya...
@@ -7529,7 +7529,7 @@ hertoc031	Jeœli jesteœ moim kumplem, to gdzie by³eœ jak straci³em pamiêæ?
 guytoc033	ahmmmm.
 guytoc034	Jam Guybrush Threepwood,  przyj¹³em w Wietnamie pocisk za ciebie.
 hertoc032	Na co go przyj¹³eœ?
-hertoc033	Auu!
+hertoc033	 
 hertoc034	Co ty próbujesz...? Hej!
 hertoc035	Jestem Herman Toothrot!
 guytoc035	Herman! Znowu pamiêtasz!
@@ -7618,7 +7618,7 @@ hertoc085	Dla bezpieczeñstwa. Dziêki niemu pustelnik ma ¿ycie na wysokim poziomi
 guytoc068	Nugatowe centrum?
 guytoc069	PRAWDZIWY Sekret Wyspy Ma³p™
 guytoc070	Skrypt Drugiego Odcinka?
-hertoc086	Auu!
+hertoc086	 
 hertoc087	Chcesz mnie zabiæ, rasisto.....
 hertoc088	Guybrush!
 guytoc071	Herman! Pamiêtasz mnie?
@@ -7698,7 +7698,7 @@ hertoc133	Jak to jest? Czekaj...
 hertoc134	ZANIM cisn¹³eœ we mnie akordeonem, by³em beztroskim pustelnikiem na tropikalnej wyspie.
 hertoc135	A TERAZ...Pamiêtam, ¿e mam wnuka, têpaka.
 hertoc136	....wnusiê zagro¿on¹ nie przez jedn¹, a przez dwie okrutne istoty z³a...
-hertoc137	i wiedzê, ¿e ka¿dy pirat na Archipelagu Tri-Island mo¿e byæ zniszczony przez pomy³kê, któr¹ zrobi³em ponad dwadzieœcia lat temu!
+hertoc137	i wiedzê, ¿e ka¿dy pirat na Trójwyspach mo¿e byæ zniszczony przez pomy³kê, któr¹ zrobi³em ponad dwadzieœcia lat temu!
 hertoc138	Wiêc myœlisz, ¿e jak siê czuje, wnusiu?!
 guytoc100	Ummm, optymistycznie?
 hertoc139	Grrrr.
@@ -8015,7 +8015,7 @@ guytow003	tak d³ugo, a¿ nieruchomoœci spadn¹ do punktu gdzie bêdzie móg³ sprzeda
 guytow004	Genialne!
 hertow004	Co ty bredzisz?
 hertow005	Ozzie chce u¿ywaæ tych wie¿ do wzmocnienia efektu dzia³ania Talizmanu Upokorzenia,
-hertow006	co doprowadzi do jednoczesnego upokorzenia wszystkich piratów na Archipelagu Tri-Island!
+hertow006	co doprowadzi do jednoczesnego upokorzenia wszystkich piratów na Trójwyspach!
 guytow005	Jesteœ pewny, ¿e nie chodzi o nieruchomoœci?
 jojtow002	Jeœli chcesz oszukaæ przeznaczenie i ocaliæ piratów, musisz wspi¹æ siê na szczyt wie¿y i zniszczyæ diabelskie maszyny.
 guytow006	Coœ mi siê widzi ¿e chcesz powiedzieæ...
@@ -8133,10 +8133,10 @@ hertoc165	Guybrushu, to bardzo wa¿ne: gdzie jest druga Pieczêæ Gubernatora?
 hertoc167	Jak mówi³em: Dopóki Ozzie i LeChuck nie znajd¹ Elaine, Talizman Upokorzenia nigdy nie zostanie skompletowany.
 guyall226	To jakiœ rz¹dowy dokument.
 guyall227	Ta dêtka wygl¹da, jakby by³a poddawana niewyobra¿alnym naprê¿eniom.
-guyall228	Wow, te ma³e g¹bki naprawdê siê rozszerzaj¹!
+guyall228	£a³, te ma³e g¹bki naprawdê siê rozszerzaj¹!
 guyall229	Mo¿e i zapachnie ³adniej, ale jest O WIELE za du¿a, aby j¹ tam w³o¿yæ.
 guyall230	W³aœnie tego u¿ywaj¹.
-guyall231	Wow, jest wype³niona wszelkiego rodzaju cennymi rupieciami.
+guyall231	£a³, jest wype³niona wszelkiego rodzaju cennymi rupieciami.
 guyall232	Zgadujê, ¿e nie ma tu ju¿ nic wartoœciowego.
 guyall233	Bojê siê w tym grzebaæ, ¿eby nie pobrudziæ wszystkiego odciskami palców.
 guyall234	Nie mam pojêcia, co mam z tym zrobiæ. Mo¿e ktoœ inny wie.
@@ -8634,7 +8634,7 @@ guylua078	Skoñczy³em z niegotowanymi œwiniami tydzieñ temu.
 guylua079	Jezu, tutaj w ogóle nie ma nastroju.
 guyhos078	Teraz te termity pracuj¹ w wywiadzie wiêc mieszkaj¹ na pod³odze.
 guylav018	U¿y³em ju¿ Wypielacza na tych chwastach.
-guyluc273	Hej! Odwal sie!
+guyluc273	Hej! Odwal siê!
 guymon068	Ma na sobie kapelusz z br¹zu.
 guymon069	Jojo to na pewno wyrafinowana ma³pa.
 guymon070	Ta ma³pa musi mieæ niez³y talent muzyczny.
@@ -8698,7 +8698,7 @@ guysta039	...choæ przynajmniej jest ubezpieczone.
 guysta040	To zwyk³e biurko.
 guysta041	Ca³e pogryzione przez myszy.
 guysta042	Sterta papierów.
-guysta043	Wow! Stan ma dodatkow¹ parê majtek w zapasie!
+guysta043	£a³! Stan ma dodatkow¹ parê majtek w zapasie!
 guysta044	Nie. Jestem pewny, ¿e nie chcê wiedzieæ
 guysta045	Materia³y na projekt time-sharingu.
 guysta046	Jedna mi wystarczy.
@@ -8731,7 +8731,7 @@ guyplt130	"Planeta Threepwood". To jest kompletnie powalone.
 guyplt131	Gdy gdziekolwiek to le¿y, to do niego nale¿y.
 guyplt132	Na pewno ktoœ tu siê pojawia jak ktoœ próbuje zwiaæ.
 guyplt133	To znaczy jak ktoœ chce jeœæ za darmo...
-guyplt134	Dobrzy kucharze Archipelagu Tri-Islands.
+guyplt134	Dobrzy kucharze obszaru Trójwysp.
 guyplt135	Stainless Steel Chef, Copper Chef, Adamantium Chef...
 guyplt136	Nigdy o nich nie s³ysza³em.
 guyplt137	"Planeta Threepwood wygra³a Nagrodê Z³otej Ryby na Jambalaya". NieŸle.
@@ -8746,7 +8746,7 @@ guyplt145	Ciekawe czy Murray wie, ¿e maj¹ jego rêkê na wystawie.
 guyplt146	O...mój...Bo¿e.
 guyplt147	Ktoœ ukrad³ moje oryginalne ciuchy z mojej szafy!!!
 guyplt148	LucasArts™ musia³ po³o¿yæ na wszystkim swoje odciski.
-guyplt149	Mam przeczucie, ¿e LucasArts™ kontroluje wszystko co siê dzieje na Archipelagu Tri-Island...
+guyplt149	Mam przeczucie, ¿e LucasArts™ kontroluje wszystko co siê dzieje na Trójwyspach...
 guyplt150	Chyba ju¿ nic ciekawszego nie znaleŸli po tym jak ukradli mi moje ciuchy.
 guyplt151	Moje imiê jest na tym...tak jak na mojej bieliŸnie.
 guyplt152	Mam ju¿ ubrania.
@@ -8802,7 +8802,7 @@ guylav002	YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!
 guylav003	Drzewa le¿¹ po drugiej stronie potoku lawy, tworz¹c prowizoryczny most.
 guylav004	Wiesz, te drzewa nie s¹ za stabilne. Musz¹ mieæ jakieœ towarzystwo.
 guylav005	Mo¿e powinienem im pomóc w nêdzy.
-guylav006	Wow, drzewo spad³o dok³adnie tam gdzie trzeba.
+guylav006	£a³, drzewo spad³o dok³adnie tam gdzie trzeba.
 guylav007	Mam nadziejê, ¿e most ma wysok¹ temperaturê topnienia.
 guylav008	Móg³bym spróbowaæ po nim przejœæ....
 guylav009	To basen pe³ny lawy z wystaj¹cymi niezwykle odpornymi chwastami
@@ -8871,7 +8871,7 @@ guyall275	O, ma³pa, ma³pa, ma³pa...
 guyall276	O, patrz co mam...
 guyall277	Nie chcê, ¿eby zlecia³y siê wszystkie ma³py.
 guyall278	Widzê, ¿e uczy³eœ siê du¿o sztuki Ma³piego Kombatu.
-guyall279	Nie wiem co powiedzia³, ale czuje sie ura¿ony.
+guyall279	Nie wiem co powiedzia³, ale czuje siê ura¿ony.
 guykab105	Jest dwa razy wiêkszy ode mnie....serio.
 guykab106	Jumbeaux LaFeet, ostatni z rodu LaFeet.
 guykab107	To papuga.
@@ -8985,7 +8985,7 @@ guymot083	Z tej strony nie siêgnê do dziurki na klucze.
 guymot084	Potrzebna mi czyjaœ pomoc.
 guymot085	Wolê trzymaæ siê miêdzy t¹ bramê i œmierci¹.
 guymot086	Chyba zaczynam traciæ orientacjê.
-guymot087	Mam nadziejê, ¿e jakoœ st¹d uda mi sie wróciæ.
+guymot087	Mam nadziejê, ¿e jakoœ st¹d uda mi siê wróciæ.
 guymot088	Chyba bêdê potrzebowa³ jakiegoœ kompasu, inaczej siê zgubiê.
 guymot089	Chyba p³ywam w kó³ko.
 guymot090	Ta pustka przyprawia mnie o nudnoœci.
@@ -9026,7 +9026,7 @@ guyall310
 guyall311	Moje prowizoryczne talerze.
 guyall312	Ale ³adny kapelusz z br¹zu.
 guyall313	Za du¿o tutaj ma³piañskiej mody.
-guyall314	Wow, wiêc mogê u¿ywaæ mojego zbieraka bananów wiêcej ni¿ raz!
+guyall314	£a³, wiêc mogê u¿ywaæ mojego zbieraka bananów wiêcej ni¿ raz!
 guyall315	Chyba mój zbierak bêdzie mi s³u¿y³ zamiast rêki.
 guyall316	Ale siê cieszê maj¹c takie przydatne urz¹dzonko.
 guyall317	Co ja bym zrobi³ bez mojego ukochanego zbieraka bananów?
@@ -9054,7 +9054,7 @@ guymib008	Ah, morze. Dawca ¿ycia. Niszczyciel statków. Dom ryb.
 guymib009	Nie jestem pewny czy jestem odpowiednio sprawny fizycznie by p³yn¹æ kraulem na Wyspê Szpady™.
 guymib010	Biedna, ma³a rozgwiazda pozostawiona na brzegu suchej pla¿y na Wyspie Ma³p™.  ¯ebym sam nie musia³ dzieliæ jej losu.
 guymib011	To nie m¹drze, przeszkadzaæ zmar³ym.
-guymib012	Wow, dobrze ¿e przypadkowo nie zgniot³em Timmiego.
+guymib012	£a³, dobrze ¿e przypadkowo nie zgniot³em Timmiego.
 guymib013	Œcie¿ka prowadzi w tajemnicz¹ otch³añ Wyspy Ma³p™.
 guymon092	To chyba nie jest takie proste.
 guyall320	Ma³a spakowana g¹bka.
@@ -9121,7 +9121,7 @@ guygpt090	Mimo, ¿e kradzie¿ statków to moje hobby, mam teraz wa¿niejsze rzeczy d
 guygpt091	Nie umiem graæ w siatkówkê.
 guygpt092	Pi³ka zawsze omija moje d³onie i l¹duje prosto na mojej twarzy.
 guygpt093	Prawdziwi piraci nie graj¹ w siatkê.
-guygpt094	Oczywiœcie to haki i ³atki na oczy sk³oni³y piratów do tego, ¿eby nie bawiæ sie w sport i ró¿nych innych nadmuchiwanych rzeczy.
+guygpt094	Oczywiœcie to haki i ³atki na oczy sk³oni³y piratów do tego, ¿eby nie bawiæ siê w sport i ró¿nych innych nadmuchiwanych rzeczy.
 guygpt095	"Kawa StarBukaniera™", miejsce gdzie dostaniesz mocne espresso i wysoki status kawiarni.
 guygpt096	"Mikrogroggeria."
 guygpt097	Osobiœcie preferuje grog w rozmiarze giga.
@@ -9168,7 +9168,7 @@ guyall355	Muszê mieæ na czym pisaæ.
 guyall356	Kiedy przychodzi co do czego to nie umiem malowaæ.
 guyall357	Na jednej stronie mam mapê, a na drugiej stroniê zdjêcie Talizmanu Upokorzenia.
 guyall358	To dzie³o Meathooka, przerobione tak, aby wskazywa³o drogê na Wyspê Jambalaya™.
-guyall359	To obraz Meathooka pt. "Zimny okres" przestawiaj¹cy  coœ co przypomina mi ca³y Archipelag Tri-Island.
+guyall359	To obraz Meathooka pt. "Zimny okres" przestawiaj¹cy  coœ co przypomina mi ca³y obszar Trójwysp.
 guyall360	Hmmm....
 guyall361	Bez komentarza.
 guyall362	Ten pêdzel wydaje siê byæ naprawdê solidny.
@@ -9202,7 +9202,7 @@ guyall389	To bez sensu...
 guyall390	PLLLPHHHTT!!  PTUI!
 guyall391	DOBRY SOS! Ale smak jest OKROPNY.
 guyall392	EUUGGUhhHH!
-guyall393	G³osi, ¿e jestem ca³kowicie sprawny fizycznie i mentalnie aby wyst¹piæ w œwiatowych zawodach nurkowania na Archipelagu Trójwysp.
+guyall393	G³osi, ¿e jestem ca³kowicie sprawny fizycznie i mentalnie aby wyst¹piæ w œwiatowych zawodach nurkowania na Trójwyspach.
 guyall394	To mi nie pasuje.
 guyall395	Czuje siê jak kretyn, zak³adaj¹c to.
 guyall396	Pointy.
@@ -9315,7 +9315,7 @@ guyall470	To chyba nie jest odpowiednia przynêta na to.
 guyall471	Ta sztuczna rêka nie jest mi na nic potrzebna.
 guyall472	Ta sztuczna skóra nie jest mi na nic potrzebna.
 guyall473	Stworzy³em potwora!
-guyall474	Oooh, ale nie mi³y widok.
+guyall474	Och, có¿ za niemi³y widok.
 guyall475	To ¿yje!
 guyall476	S¹dzê, ¿e muszê jeszcze to trochê przerobiæ. ¿eby to...coœ... zaczê³o dzia³aæ.
 guyall477	Teraz mój potwór jest gotowy!
@@ -9461,7 +9461,7 @@ guymig051	Myœlê ¿e wystarczy mi grogu na kilka dni.
 guymig052	Musi byæ coœ bardziej mocnego, ¿eby wytrzeŸwia³a.
 guymig053	Teraz wam pokarze, kto tu jest szefem!
 guymig054	Teraz siod³o jest takie samo, jak pod³oga w ScummBarze!
-guymoh024	Wow! Na prawdê gigantyczny Talizman Upokorzenia!
+guymoh024	£a³! Na prawdê gigantyczny Talizman Upokorzenia!
 guymoh025	Teraz, jeœli bêdê móg³ utrzymaæ jakoœ wielk¹ g³owê na z³otym cz³owieku, dostanê wielki Talizman Upokorzenia!
 guymoh026	To ucho chyba nie jest na sta³e.
 guymoh027	Teraz, jeœli znajdê czapkê z br¹zu pasuj¹c¹ na t¹ rzecz, bêdê mia³ ogromny Talizman Upokorzenia!
@@ -9508,8 +9508,8 @@ guypph024	To s¹ drzwi do chaty Ko³konosego.
 guypph025	Jeœli bym siê ujawni³, Ko³konosy by mnie zabi³!
 guypph026	Ko³konosy musia³ sam wa¿yæ ten rum.
 guypph027	Nie dziêki. Preferuje rum przygotowany od ludzi z pe³ni funkcjonalnym nosem.
-guypph028	Te rybe Ko³konosy musia³ z³apaæ sam.
-guypph029	Nie dziêki. Jeœli bym chcia³ œmierdz¹c¹ rybe, poszed³ bym do sklepu z przynêtami.
+guypph028	Te rybê Ko³konosy musia³ z³apaæ sam.
+guypph029	Nie dziêki. Jeœli bym chcia³ œmierdz¹c¹ rybê poszed³ bym do sklepu z przynêtami.
 guypph030	Po co mi te kraby... nie mam ³odzi na krewetki.
 guypph031	Nie, ta kaczka jest wyzwolona.
 guypta117	Nie jestem idiot¹.
@@ -9560,7 +9560,7 @@ jojmon177	Zawsze pamiêtaj ¿e ta sama obelga mo¿e równie¿ odwracaæ ruch.
 jojmon178	Tylko tak mo¿esz zachowaæ pozycjê nie ³ami¹c zasad powtarzania g³ównych s³ów trzy razy z rzêdu.
 jojmon179	Wystarczy kopiowaæ obelgi przeciwnika. Przegrasz wiele walk, ale wygrasz znajomoœæ ruchów.
 opemig059	Wooohoo! Koniec!
-guyall531	Watpie zeby to sie komus spodobalo.
+guyall531	W¹tpiê ¿eby to siê komuœ spodoba³o.
 gmrmon001	Ak
 gmrmon002	Uup
 ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady™, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
@@ -9589,12 +9589,12 @@ ingb014	To drugi najwiêkszy ³eb ma³py, jaki widzia³em!
 ingb008	Albo ¿e skoñczê z LeChuckiem grzebi¹c go pod lodow¹ gór¹.
 ingb008a	Albo ¿e skoñczê z LeChuckiem
 ingb008b	grzebi¹c go pod lodow¹ gór¹.
-ingb009	Na pewno nie ja. Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip. A teraz sam popatrz! Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów, ca³y Trójwysep dr¿y s³ysz¹c me imiê, a ja i mój zbójecki króliczek wracamy na Wyspê Szpady™, po najniezwyklejszym miesi¹cu miodowym w historii...
+ingb009	Na pewno nie ja. Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip. A teraz sam popatrz! Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów, ca³y obszar Trójwysp dr¿y s³ysz¹c me imiê, a ja i mój zbójecki króliczek wracamy na Wyspê Szpady™, po najniezwyklejszym miesi¹cu miodowym w historii...
 ingb009a	Na pewno nie ja.
 ingb009b	Jedyn¹ rzecz¹ bardziej têp¹ od mej szabli by³ mój dowcip.
 ingb009c	A teraz sam popatrz!
 ingb009d	Poœlubi³em najpiêkniejsz¹ rz¹dow¹ urzêdniczkê Karaibów,
-ingb009e	okrêg trzech wysp dr¿y s³ysz¹c me imiê,
+ingb009e	ca³y obszar Trójwysp dr¿y s³ysz¹c me imiê,
 ingb009f	a ja i mój zbójecki króliczek wracamy na Wyspê Szpady™,
 ingb009g	po najniezwyklejszym miesi¹cu miodowym w historii...
 inel010	GUYBRUSH!
@@ -9632,8 +9632,8 @@ babm004	Ummph! Ahhh, no i jest. Skrzynia z depozytem H.T. Marleya pozostawiona t
 babm004a	Ummph! Ahhh, no i jest.
 babm004b	Skrzynia z depozytem H.T. Marleya
 babm004c	pozostawiona tu przez ponad 20 lat.
-bagb005	Wow!  Niesamowita kolekcja... œmieci. Dlaczego dziadek Marley mia³by przechowywaæ coœ takiego w banku?
-bagb005a	Wow!  Niesamowita kolekcja... œmieci.
+bagb005	£a³!  Niesamowita kolekcja... œmieci. Dlaczego dziadek Marley mia³by przechowywaæ coœ takiego w banku?
+bagb005a	£a³!  Niesamowita kolekcja... œmieci.
 bagb005b	Dlaczego dziadek Marley przechowywa³ coœ takiego w banku?
 babm006	Pan Marley by³ ekscentrycznym starcem, prawda? Huh. Ha. Wszyscy byliœmy zdruzgotani, gdy znikn¹³ z powierzchni Ziemi. W ka¿dym razie, mam parê po¿yczek do odrzucenia. Proszê daæ mi znaæ, gdy pan skoñczy, a ja przybiegnê.
 babm006a	Pan Marley by³ ekscentrycznym starcem, prawda? Huh. Ha.
@@ -11008,7 +11008,7 @@ txtmon013	IdŸ do:
 txtmot001	Guybrush
 txtmot002	tratwa
 txtmot003	brama
-txtmot004	klucze z koœciotrupa
+txtmot004	klucz z koœciotrupa
 txtmot005	broñ
 txtmot006	Strzel:
 txtmot007	w:
@@ -11092,7 +11092,7 @@ txtplt020	Wstañ z:
 txtplt021	kelnerka
 txtpop001	Martwooki Dave
 txtpop002	z:
-txtpop003	system pobierania plików
+txtpop003	chwytak systemu pobierania plików
 txtpop004	panel systemu pobierania plików
 txtpop005	kosz pe³en protez
 txtpop006	dziwny przyrz¹d
@@ -11439,7 +11439,7 @@ txtall459	kolekcja eksperymentalnych czêœci protez
 txtall460	Klient:
 txtall461	Ko³konosy Pete
 txtall462	Receptura:
-txtall463	Sztuczny Narz¹d ACME - model TK-421
+txtall463	Sztuczny Kinol ACME - model TK-421
 txtall464	Wskazówki:
 txtall465	Czasomgliste Moczary
 txtall466	N

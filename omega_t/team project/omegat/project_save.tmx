@@ -6261,8 +6261,8 @@
       <tuv lang="en-US">
         <seg>All the termites have already jumped ship onto the cane.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Teraz te termity pracują w wywiadzie więc mieszkają na podłodze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101902Z">
+        <seg>Wszystkie termity już przeskoczyły na tę laskę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9711,8 +9711,8 @@
       <tuv lang="en-US">
         <seg>Besides which, I really don't think I should be trying to bust people out of jail right now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nawet nie chcę myśleć ilu ludzi właśnie teraz próbuje uciec z więzienia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101559Z">
+        <seg>Poza tym naprawdę nie sądzę, że powinienem teraz próbować wyciągać ludzi z więzienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10655,8 +10655,8 @@
       <tuv lang="en-US">
         <seg>But I've got a hunch that I'm going to need this hanky to...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wydaje mi się że może mi się jeszcze przydać.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101641Z">
+        <seg>Ale mam przeczucie, że będę potrzebował tej chusteczki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14175,8 +14175,8 @@
       <tuv lang="en-US">
         <seg>Do you mind if I turn this on?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy to ci przeszkadza?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103903Z">
+        <seg>Czy mógłbym to teraz włączyć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15857,6 +15857,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Elaine, nie przy ludziach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elaine?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240110T105044Z" creationid="damia" creationdate="20240110T105044Z">
+        <seg>Elaine?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20531,8 +20539,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>He's already a bit of a butthead... no need to rub his face in it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>On jest trochę dziwny... Nie wiem na co mu chusteczka skoro nie ma nosa.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101457Z">
+        <seg>Już i tak ma brzydką buźkę... nie ma potrzeby mu to wcierać w twarz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22475,8 +22483,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hmm.  Guess not.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hmm. Czyli nie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103936Z">
+        <seg>Hmm. Chyba nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24379,8 +24387,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I SAID DO YOU MIND IF I TURN THIS ON?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PYTAŁEM CZY CI TO PRZESZKADZA?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103915Z">
+        <seg>PYTAŁEM, CZY MÓGŁBYM TO WŁĄCZYĆ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -26555,8 +26563,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't think it would help me get the real thing if I gave this to her now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Musi być jakiś sposób żeby to ukraść, tylko na razie mi to nie wychodzi...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103722Z">
+        <seg>Nie sądzę, by pomogło mi to w zdobyciu tej prawdziwej, gdybym dał jej to teraz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26875,8 +26883,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't want to catch any crawdaddies...besides, I don't think this is crawdaddy bait.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Po co mi te kraby... nie mam łodzi na krewetki.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104433Z">
+        <seg>Nie chcę łapać żadnych raków... poza tym, nie sądzę, żeby to była przynęta na raki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31187,8 +31195,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'd better not...he's liable to have me thrown in jail.  Again.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Lepiej nie...a co jeśli znowu wtrąci mnie za kratki.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104825Z">
+        <seg>Lepiej nie... może mnie wsadzić do więzienia. Ponownie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34840,8 +34848,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If I just go barging in there, Pegnose will shoot me!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T184731Z">
-        <seg>Jeśli bym się ujawnił, Kołkonosy by mnie zabił!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104033Z">
+        <seg>Jeśli po prostu tam wejdę, Kołkonosy mnie zastrzeli!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38464,8 +38472,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's a stinky hanky that belongs to the REAL bank robber!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam prawdziwą chusteczkę z tamtego napadu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101040Z">
+        <seg>To śmierdząca chusteczka i należy do PRAWDZIWEGO rabusia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38752,8 +38760,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's bad form to grease someone else's walking stick without permission.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ten smar nie należy używać z trzciną bez zgody konsulatu...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101730Z">
+        <seg>To w złym guście smarować czyjąś laskę bez pozwolenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43136,8 +43144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Matched dueling swords.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dopasowanie swoich mieczy</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104850Z">
+        <seg>Miecze do pojedynków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43272,8 +43280,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Maybe the person that lives in this.. this abode, will be home later.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Być może osoba która mieszka w tym... w tym domu, wróci później.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T105025Z">
+        <seg>Może osoba, która mieszka w tej... siedzibie, wróci później.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45368,16 +45376,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nah, they'd probably reject it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, prawdopodobnie to odrzuci.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T100518Z">
+        <seg>Nie, i tak to pewnie odrzucą.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Nah, this is more of a free-range duck.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, ta kaczka jest wyzwolona.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104302Z">
+        <seg>Nie, to raczej kaczka z wolnego wybiegu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46136,8 +46144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No thanks.  I went through too much trouble to get it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie dzięki. Za dużo mnie kosztowało zdobycie tego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103811Z">
+        <seg>Nie dzięki. Zdobycie tego za dużo mnie kosztowało .</seg>
       </tuv>
     </tu>
     <tu>
@@ -46160,8 +46168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No thanks.  If I need stinky old fish, I'll go to the bait shop.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240107T105101Z">
-        <seg>Nie dzięki. Jeśli bym chciał śmierdzącą rybę poszedł bym do sklepu z przynętami.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104218Z">
+        <seg>Nie, dzięki. Gdybym potrzebował śmierdzącej ryby, poszedłbym do sklepu z przynętami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59936,8 +59944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That seems like a good idea...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Głupi pomysł...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101611Z">
+        <seg>To ciekawy pomysł...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60456,8 +60464,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's a good idea, but I don't think these are the right sticks to sabotage.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobry pomysł, ale ta laska nie spowoduje sabotażu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101747Z">
+        <seg>To dobry pomysł, ale nie sądzę, by były to odpowiednie laski do sabotażu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63000,8 +63008,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There are more civilized ways to pick a fight.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Są bardziej cywilizowane metody, aby walczyć.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104901Z">
+        <seg>Są bardziej cywilizowane sposoby na walkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64576,8 +64584,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This grog isn't strong enough to eat through the bars...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Grog nie nada się, jest za mocny...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101545Z">
+        <seg>Ten grog nie jest wystarczająco mocny, by przegryźć kraty...</seg>
       </tuv>
     </tu>
     <tu>
@@ -64920,8 +64928,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This jail door looks sturdier than the one in the bank.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wygląda bardziej stabilnie niż w banku.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101525Z">
+        <seg>Te drzwi wyglądają na solidniejsze niż te w banku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66576,8 +66584,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Uh, no thanks.  I prefer to drink rum that's been prepared by people with fully-functioning nasal equipment.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie dzięki. Preferuje rum przygotowany od ludzi z pełni funkcjonalnym nosem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T104123Z">
+        <seg>Nie, dziękuję. Wolę pić rum, który został przygotowany przez ludzi z w pełni sprawnym nosowym wyposażeniem..</seg>
       </tuv>
     </tu>
     <tu>
@@ -67584,8 +67592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Uuhhh... I wasn't going to keep it, really!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Uuuch, ja tego nie chciałem zwinąć, serio.!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T103621Z">
+        <seg>Nie chciałem tego zwinąć, serio!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68192,8 +68200,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Want a flower, Otis?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zwiędły kwiatek, Otis?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240110T101511Z">
+        <seg>Kwiatka, Otis?</seg>
       </tuv>
     </tu>
     <tu>

@@ -10,6 +10,7 @@ W katalogu "omega_t" znajduje się projekt do programu Omega-T ułatwiający tł
 W katalogach "po2_tab_converter"(source) znajduje się mój autorski program konwersji plików .po generowanych przez Omega-T do pliku .tab który umieszczamy wewnątrz artAll.m4b
 W katalogu "skrypty" umieściłem skrypty (pliki .tab) w wersji różnych wersjach językowych. Należy je zdumpować dumperem do pliku artAll.m4b w celu aktualizacji wersji językowej
 
+Kontakt: tirey93.pay@gmail.com lub Discord: tirey93
 
 Poniżej spis stanu wybranych grup linijek:
 od DOEL012(1) do guymel097(755) - tłumaczenie i korekta Raela lub zagadki sprzed kilkunastu lat
@@ -23,7 +24,8 @@ od navluc001(6096) do guymot067(6880) - retranslacja tirey93
 od guyall155(6881) do jojtow006(8029) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od guyall179(8030) do navshi033(8402) - retranslacja tirey93, 2023
 od eddpla039(8403) do ptwplt071(9286) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
-od guyall443(9287) do guybas092(9379) - planowana korekta tirey93, 2024, jeszcze guypph, guyluc...
+od guyall443(9287) do guybas092(9379) - planowana korekta tirey93, 2024, 
+,luc!,guymot069 - guymot092!
 od guycol081(9380) do gmrmon002(9565) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od ingb001(9566) do ozjj090(10146) - korekta tirey93, 2023
 od txtall222(10147) do txtcdt513(12086) - korekta podpisów tirey93, 2023

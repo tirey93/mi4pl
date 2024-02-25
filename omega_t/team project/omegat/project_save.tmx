@@ -1080,8 +1080,8 @@
       <tuv lang="en-US">
         <seg>(A wholly-owned subsidiary of Ozzie Mandrill Enterprises.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231116T152221Z">
-        <seg>(Wszelkie prawa zastrzeżone dla pana Ozziego Mandrilla)</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204952Z">
+        <seg>(Spółka zależna należąca w całości do Ozzie Mandrill Enterprises)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,8 +1152,8 @@
       <tuv lang="en-US">
         <seg>(Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231116T152226Z">
-        <seg>(Planeta Threepwood jest prawnym znakiem towarowym zastrzeżonym dla pana Ozziego Mandrilla)</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205758Z">
+        <seg>(Planeta Threepwood jest spółką zależną należącą w całości do Ozzie Mandrill Enterprises)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,8 +1464,8 @@
       <tuv lang="en-US">
         <seg>... and a few items that I don't recognize.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>...oraz kilka rzeczy których nie rozpoznaje.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181408Z">
+        <seg>oraz inne rzeczy, których nie rozpoznaję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2701,8 +2701,8 @@
       <tuv lang="en-US">
         <seg>...that's been completely taken over by the corporate tourist industry.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>... doszczętnie opanowane przez przemysł turystyczny.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120924Z">
+        <seg>Doszczętnie przejęte przez korporacyjny przemysł turystyczny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,8 +2845,8 @@
       <tuv lang="en-US">
         <seg>...we prefer to specialize and give our customers literally hundreds of confusing options.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>...my mamy setki ofert, które podpasują każdemu klientowi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115137Z">
+        <seg>Wolimy się wyspecjalizować i dawać naszym klientom dosłownie setki mylących opcji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3259,6 +3259,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125109Z" creationid="damia" creationdate="20240220T125109Z">
+        <seg>1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 4 6 8, who wants to litigate!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231120T124852Z">
@@ -3271,6 +3279,22 @@
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231204T175134Z">
         <seg>2) Skradzione łupy musiałyby zostać odzyskane,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125109Z" creationid="damia" creationdate="20240220T125109Z">
+        <seg>2...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125109Z" creationid="damia" creationdate="20240220T125109Z">
+        <seg>3...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4141,8 +4165,8 @@
       <tuv lang="en-US">
         <seg>A copiously creamified cup o' coffee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobra śmietanka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182747Z">
+        <seg>Filiżanka kawy z dużą ilością śmietanki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4165,8 +4189,8 @@
       <tuv lang="en-US">
         <seg>A cup of black bubbling bitterness.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kubek pełny czarnej rzeczy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182712Z">
+        <seg>Filiżanka czarnej, bulgoczącej goryczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4405,16 +4429,16 @@
       <tuv lang="en-US">
         <seg>A silver monkey head, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240217T132035Z">
-        <seg>Srebra małpia głowa?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181807Z">
+        <seg>Srebrna małpia głowa?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A small bucket of StarBuccaneer's™ logo umbrellas.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121342Z">
-        <seg>Wiadro pełne parasoli z logiem Starbukaniera™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182157Z">
+        <seg>Małe wiadro pełne parasolek z logiem Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4590,6 +4614,14 @@
         <seg>AAAH!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130712T215016Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AAAaaaahhhhh..</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125114Z" creationid="damia" creationdate="20240220T125114Z">
         <seg> </seg>
       </tuv>
     </tu>
@@ -4805,8 +4837,8 @@
       <tuv lang="en-US">
         <seg>Aaaugh... Is it over yet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aaaaugh ... już koniec?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125014Z">
+        <seg>Już koniec?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5917,8 +5949,8 @@
       <tuv lang="en-US">
         <seg>Ahoy, mateys!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ahoj, piraci!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205847Z">
+        <seg>Ahoj, piracie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5951,6 +5983,14 @@
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231113T081514Z">
         <seg>Aieee, eh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aieeee!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140711Z" creationid="damia" creationdate="20240220T140711Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -6317,8 +6357,8 @@
       <tuv lang="en-US">
         <seg>Almost...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Szybciej...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125108Z">
+        <seg>Prawie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6413,8 +6453,8 @@
       <tuv lang="en-US">
         <seg>Although sometimes, when the swords don't hit together cleanly, it makes this awful screeeech sound.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Choć czasami, gdy miecz nie uderzy kogoś czysto, to wydaje taki okropny dźwięk.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T101945Z">
+        <seg>Chociaż czasami, gdy miecze nie uderzą w siebie czysto, wydają taki okropny dźwięk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6453,8 +6493,8 @@
       <tuv lang="en-US">
         <seg>Although, I suppose they'd love to have their eyes back even more.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Choć sądzę,  że jeszcze bardziej kochali by swoje utracone oko.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103723Z">
+        <seg>Choć podejrzewam, że jeszcze bardziej by pokochał powrót swoich oczu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6661,8 +6701,8 @@
       <tuv lang="en-US">
         <seg>And I was almost done, too.  Huh, well, let me know if you change your mind.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Też prawie skończyłem. Dobrze, powiedz mi jak zmienisz zdanie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105132Z">
+        <seg>Ale ja już prawie skończyłem. No to daj mi znać, jeśli zmienisz zdanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6773,8 +6813,8 @@
       <tuv lang="en-US">
         <seg>And drink from our one-of-a-kind ceremonial Mega Monkey Mug!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231211T092147Z">
-        <seg>oraz pijcie z naszego najlepszego Mega Małpiego Kufla!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205504Z">
+        <seg>i ugaś pragnienie z naszego ceremonialnego Mega Małpiego Kufla!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6967,8 +7007,8 @@
       <tuv lang="en-US">
         <seg>And most would agree that that statement is 'I'm a creepy jerk who tortures small animals for my personal amusement.'</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>...choć pewnie większość się zgodzi, że taka postawa mówi " Jestem odrażającym kretynem, który torturuje małe zwierzątka dla swojej radochy".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104051Z">
+        <seg>I większość zgodzi się, że ten komunikat to: "Jestem okropnym palantem, który torturuje małe zwierzęta dla własnej rozrywki".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7055,8 +7095,8 @@
       <tuv lang="en-US">
         <seg>And tacky theme restaurants.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>I jakiś restauracji tematycznych.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120522Z">
+        <seg>I tandetnych restauracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7135,8 +7175,8 @@
       <tuv lang="en-US">
         <seg>And tourists.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>i turystów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120526Z">
+        <seg>I turystów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7343,8 +7383,8 @@
       <tuv lang="en-US">
         <seg>And you've got a lot of clothes for a monkey.  What's your point?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A ty masz na sobie sporo ubrań, jak na małpę.  O co ci chodzi?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113522Z">
+        <seg>A ty masz sporo ubrań jak na małpę. Do czego zmierzasz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8405,6 +8445,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arrrrr!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240222T133328Z" creationid="damia" creationdate="20240222T133328Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arrrrrgh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120508Z" creationid="damia" creationdate="20240225T120508Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arrrrrrrrrr!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140851Z" creationid="damia" creationdate="20240220T140849Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arthur F. Jomama</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231224T190255Z" creationid="damia" creationdate="20231224T190255Z">
@@ -8575,8 +8639,8 @@
       <tuv lang="en-US">
         <seg>As much as I'd like to have one of my own, it looks a bit heavy to carry with me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może i chciałbym mieć taki w domu, jednak wygląda zbyt ciężko by to zabrać.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T185728Z">
+        <seg>Chociaż chciałbym mieć swój własny, wygląda na nieco za ciężki by go nieść.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9535,8 +9599,8 @@
       <tuv lang="en-US">
         <seg>Because of that paranoid jerk, Admiral Casaba.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przez tego głupiego paranoika, Admirała Casabę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200713Z">
+        <seg>Przez tego paranoicznego buca, Admirała Casabę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10095,8 +10159,8 @@
       <tuv lang="en-US">
         <seg>Books...yes.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Książki...taak.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104629Z">
+        <seg>Książki... tak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10407,8 +10471,8 @@
       <tuv lang="en-US">
         <seg>But I AM a real pirate.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem PRAWDZIWYM piratem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120501Z">
+        <seg>Ale ja jestem piratem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10471,8 +10535,8 @@
       <tuv lang="en-US">
         <seg>But I don't have 350 Jambalaya Bucks.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie mam żadnych Jambalajskich dolarów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114539Z">
+        <seg>Ale ja nie mam 350 jambalajskich dolarów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10599,8 +10663,8 @@
       <tuv lang="en-US">
         <seg>But I wanna grog!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale ja chce grog!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210655Z">
+        <seg>Ale ja chcę grog!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10711,8 +10775,8 @@
       <tuv lang="en-US">
         <seg>But doesn't your company prey on the competitors?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To twoja firma nie żeruje na konkurencji?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114730Z">
+        <seg>Ale czy twoja firma nie żeruje na konkurencji?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10991,8 +11055,8 @@
       <tuv lang="en-US">
         <seg>But that's not very convenient for me, the consumer.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tylko, że dla konsumenta, takiego jak ja, to zdurniałe.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115812Z">
+        <seg>Tylko że to nie jest zbyt wygodne dla mnie jako konsumenta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11063,8 +11127,8 @@
       <tuv lang="en-US">
         <seg>But we do have some nice grog-flavored coffee drinks to choose from.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale za to mamy duży wybór grogowych drinków kawowych.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T203030Z">
+        <seg>Mamy jednak duży wybór wyśmienitych napojów kawowych o smaku grogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11279,8 +11343,8 @@
       <tuv lang="en-US">
         <seg>But you should always be careful to lift from the legs, or else you could throw your back out.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Choć trzeba uważać, żeby przy wynoszeniu, nie spadł ci na palce albo żebyś nie uszkodził sobie pleców.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102655Z">
+        <seg>Ale trzeba uważać, żeby siła zawsze szła z nóg bo można sobie łatwo rozwalić plecy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11559,8 +11623,8 @@
       <tuv lang="en-US">
         <seg>C'mon, let me talk to the puppeteer.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No już, daj porozmawiać z animatorem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113006Z">
+        <seg>No weź, daj mi porozmawiać z lalkarzem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11759,16 +11823,16 @@
       <tuv lang="en-US">
         <seg>Can I make you a coffee drink?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Skusisz się na kawkę?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210635Z">
+        <seg>Skusisz się na napój kawowy?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Can I make you our most popular drink, the iced groggoccino?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może chciałbyś nasz najpopularniejszy drink, Groggocino z lodem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T121118Z">
+        <seg>Może zaproponuję ci nasz najpopularniejszy drink, mrożone groggocino?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11823,40 +11887,40 @@
       <tuv lang="en-US">
         <seg>Can I talk to the nasty puppet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę porozmawiać z paskudną kukiełką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202213Z">
+        <seg>Mogę porozmawiać z paskudną lalką?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Can I talk to the nice puppet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę porozmawiać z miłą kukiełką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202110Z">
+        <seg>Mogę porozmawiać z miłą lalką?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Can I talk to the other puppet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę porozmawiać z inną kukiełką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112716Z">
+        <seg>Mogę porozmawiać z drugą lalką?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Can I talk to the puppeteer again?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę jeszcze raz porozmawiać z animatorem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T201118Z">
+        <seg>Mogę jeszcze porozmawiać z lalkarzem?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Can I talk to your puppeteer?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę porozmawiać z twoim animatorem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112851Z">
+        <seg>Mogę porozmawiać z twoim lalkarzem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11943,8 +12007,8 @@
       <tuv lang="en-US">
         <seg>Can't he tell the difference between pirates and puppets?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie potrafi odróżnić piratów i kukiełek?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201019Z">
+        <seg>Nie potrafi odróżnić piratów i lalek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12023,8 +12087,8 @@
       <tuv lang="en-US">
         <seg>Careful there!  Don't want to scare the customers!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wyluzuj! Nie strasz mi klientów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122555Z">
+        <seg>Ostrożnie! Nie chcemy przestraszyć klientów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12503,8 +12567,8 @@
       <tuv lang="en-US">
         <seg>Come back to give the old cow another run?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To przejedźmy się jeszcze raz?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122715Z">
+        <seg>Chętny jeszcze raz wsiąść na stare siodło?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12551,24 +12615,24 @@
       <tuv lang="en-US">
         <seg>Come on in and enjoy some hand-crafted homebrewed grog!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wejdź i rozpłyń się we własnoręcznie ważonych grogach!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122532Z">
+        <seg>Wejdź i skosztuj ręcznie robionego domowego grogu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Come on in and taste our world famous Guybrush Burger,</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wejdźcie i zasmakujcie w znanym na cały świat Guybrush Burgerze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205121Z">
+        <seg>Wejdź i skosztuj naszego słynnego Guybrush Burgera,</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Come on over to the bar, partner, and I'll get you your Monkey Mug Meal Coupon!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231211T092213Z">
-        <seg>Chodź ze mną do lady, a dam ci kupon na posiłek z Małpim Kuflem!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125518Z">
+        <seg>Zapraszam do lady a dostaniesz swój własny kupon na posiłek z Małpim Kubkiem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12599,8 +12663,8 @@
       <tuv lang="en-US">
         <seg>Come one, come all, to the place where everyone from eight to eighty gets their buckles swashed...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zapraszamy, nie wahajcie się, bo każdy może stać się prawdziwym zawadiakiem w...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204644Z">
+        <seg>Wpadaj, wbijaj do miejsca, gdzie wszyscy, od małego do dużego poznają zawadiacką przygodę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,8 +13335,8 @@
       <tuv lang="en-US">
         <seg>De Pollo's too good to be beaten by a flat-headed loser like you.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>De Pollo jest za dobry by przegrać z takim płaskogębnym frajerem jak ty.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142014Z">
+        <seg>De Pollo jest za dobry, by przegrać z takim płaskogłowym jak ty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13295,8 +13359,8 @@
       <tuv lang="en-US">
         <seg>Deal.  It won't do ya any good, though.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Stoi.  Ale to i tak ci nic nie da.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141902Z">
+        <seg>Stoi. Choć i tak nic ci to nie da.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13313,6 +13377,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Skarbie, ustaliliśmy chyba, że nie będziesz rozrzucał swych rzeczy po naszej czystej podłodze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Decaf deluxe mocha impresso!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142746Z" creationid="damia" creationdate="20240220T142746Z">
+        <seg>Bezkofeinowe mocha impresso!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13615,8 +13687,8 @@
       <tuv lang="en-US">
         <seg>Did your PR person make you say that?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Naprawdę tak myślisz?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115157Z">
+        <seg>Ludzie z PRu kazali ci tak mówić?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13735,8 +13807,8 @@
       <tuv lang="en-US">
         <seg>Do I LOOK dead to you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy ja WYGLĄDAM na martwego?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T131008Z">
+        <seg>Czy wyglądam jak trup?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13751,8 +13823,8 @@
       <tuv lang="en-US">
         <seg>Do I be hearing piped-in music wafting through those artificial trees?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy ja słyszę muzykę wydobywającą się z tych sztucznych drzew?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120812Z">
+        <seg>Czy dobrze słyszę muzykę unoszącą się nad tymi sztucznymi drzewami?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14023,8 +14095,8 @@
       <tuv lang="en-US">
         <seg>Do you have anything other than coffee?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Masz coś innego poza kawą?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111641Z">
+        <seg>Macie tu coś innego niż kawa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14751,16 +14823,16 @@
       <tuv lang="en-US">
         <seg>Don't touch me, foolish mortal!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie dotykaj mnie, przeklęta kałamarnico!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122210Z">
+        <seg>Łapy precz, głupi śmiertelniku!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Don't touch that oil!  It's very expensive!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łapy z dala od olejku! Jest piekielnie drogi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142544Z">
+        <seg>Zostaw ten oliwkę! Jest bardzo droga!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14879,8 +14951,8 @@
       <tuv lang="en-US">
         <seg>Donated by actual friends and associates of Guybrush Threepwood who've lived to tell the tale!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wspomóżcie przyjaciół i pomocników Guybrusha, którzy opowiedzą wam piękne historie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204335Z">
+        <seg>przekazane przez prawdziwych przyjaciół Guybrusha Threepwooda, skorych by o nim opowiedzieć!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14895,8 +14967,8 @@
       <tuv lang="en-US">
         <seg>Done!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Skończone!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105150Z">
+        <seg>Koniec!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15055,8 +15127,8 @@
       <tuv lang="en-US">
         <seg>Dude, you've tied de Pollo again, bro!  Let's get set up for the tiebreaker round.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobra, uspokójcie się ludzie.  Pierwsza runda zakończyła się remisem... znowu. Będziemy musieli urządzić kolejną dogrywkę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132105Z">
+        <seg>Ziom, znowu zremisowałeś z De Pollo! Czas ustawić wam dogrywkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15399,8 +15471,8 @@
       <tuv lang="en-US">
         <seg>Eh, I guess the dunce cap worked.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wygląda na to, że ośla czapka zadziałała.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130645Z">
+        <seg>Ośla czapka chyba zadziałała.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15455,8 +15527,8 @@
       <tuv lang="en-US">
         <seg>Eh, but you're Hellbeard the Unrepentant!  You sacked an entire archipelago with a row boat and the jawbone of a bilge rat named 'Stinky.'</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ech, ale jesteś Hellbeard Nieskruszony. Złupiłeś cały archipelag przy użyciu szalupy i szczęki szczura zęzowego o imieniu Stinky.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201912Z">
+        <seg>Ech, ale jesteś Hellbeard Nieskruszony! Splądrowałeś cały archipelag za pomocą łódki i szczęki szczura o imieniu "Stinky".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15575,8 +15647,8 @@
       <tuv lang="en-US">
         <seg>Eh, on second thought, skip it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak się zastanowić, to nic nie chce.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111752Z">
+        <seg>Właściwie to jednak nie chcę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15775,8 +15847,8 @@
       <tuv lang="en-US">
         <seg>Eighty years of living under the influence of the Ultimate Insult will do that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To przez osiemdziesiąt lat pod wpływem Talizmanu Upokorzenia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201438Z">
+        <seg>Osiemdziesiąt lat życia pod butem Talizmanu Upokorzenia robi swoje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16365,6 +16437,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eww.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104752Z" creationid="damia" creationdate="20240221T104752Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Eww... It's Mungle's chewing tobacco.</seg>
       </tuv>
       <tuv lang="pl">
@@ -16471,16 +16551,16 @@
       <tuv lang="en-US">
         <seg>Excellent choice, sir.  One iced groggoccino, 350 Jambalaya Bucks.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Świetny wybór. Groggocino z lodem, 350 Jambalajskich dolarów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114513Z">
+        <seg>Świetny wybór. Groggocino z lodem raz, 350 jambalajskich dolarów.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Excellent.  We have many fine drinks to choose from.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Świetnie. Mamy kilka do wyboru.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T203013Z">
+        <seg>Świetnie. Do wyboru mamy wiele wyśmienitych drinków. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16551,8 +16631,8 @@
       <tuv lang="en-US">
         <seg>Excuse me?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Słucham?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095324Z">
+        <seg>Przepraszam?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,8 +16695,8 @@
       <tuv lang="en-US">
         <seg>FEEL your souls being gently ripped from your bodies by this restaurant of uncompromising EEEEEVIL!!! MWAH-HAH-HAH-HAAA!!!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>POCZUJCIE jak wasze wnętrzoności poruszają waszym ciałem prosto do restauracji czystego ZŁA!!! MWAH-HAH-HAH-HAAA!!!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T210404Z">
+        <seg>POCZUJ jak twa dusza jest nikczemnie wyrywana z ciała przez restaurację pełną bezkompromisowego ZŁAAAAA!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16855,8 +16935,8 @@
       <tuv lang="en-US">
         <seg>Fine.  All I want is...a fair diving competition.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zgoda.  Chcę jedynie...uczciwych zawodów w skokach.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141828Z">
+        <seg>Zgoda. Chcę tylko... uczciwych zawodów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17447,8 +17527,8 @@
       <tuv lang="en-US">
         <seg>Frozen Latte Blizzard!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>MlecznoKawne Tornado!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180236Z">
+        <seg>Mroźna Zamieć Latte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17631,8 +17711,8 @@
       <tuv lang="en-US">
         <seg>Gaze upon our genuine Guybrush Threepwood paraphernalia,</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nasze piękne Guybrushowskie kelnerki nie są wliczone w cenę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204058Z">
+        <seg>Sprawdź oryginalne akcesoria prawdziwego Guybrusha Threepwooda,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17703,8 +17783,8 @@
       <tuv lang="en-US">
         <seg>Gee, Ozzie must've been really busy here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja nie mogę, Ozzie musiał mieć dużo roboty.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121145Z">
+        <seg>Jej, Ozzie w ogóle tutaj nie próżnował.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17775,8 +17855,8 @@
       <tuv lang="en-US">
         <seg>Gee, that sounds great... hey!  Wait a minute!  I don't like that.  I'm taking my business elsewhere.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To brzmi super...hej! Czekaj! Nie podoba mi się to. Porozmawiałem z moim wewnętrznym biznesmenem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120315Z">
+        <seg>Jej, to brzmi świetnie... hej! Chwileczkę! Nie podoba mi się to. Zabieram stąd swój interes gdzie indziej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18087,8 +18167,8 @@
       <tuv lang="en-US">
         <seg>Get this through your lice-infested skull, cabin boy:</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przetraw to w tej swojej zawszonej czaszce, chłopcze okrętowy:</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112613Z">
+        <seg>Wbij do swojej wszawej czaszki, chłopcze okrętowy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18191,8 +18271,8 @@
       <tuv lang="en-US">
         <seg>Give me your best grog-flavored drink.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Więc daj mi najlepszy grogowy drink.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T211115Z">
+        <seg>Dawaj najlepszy napój o smaku grogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18343,8 +18423,8 @@
       <tuv lang="en-US">
         <seg>Go find Carla, and sober her up!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Znajdź Carle i otrzeźwij ją.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121601Z">
+        <seg>Znajdź Carlę i postaw ją na nogi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18463,8 +18543,8 @@
       <tuv lang="en-US">
         <seg>Good day, Mister Threepwood.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dzień dobry, panie Threepwood.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141256Z">
+        <seg>Miłego dnia, panie Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19005,10 +19085,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grog Machiado!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180133Z" creationid="damia" creationdate="20240220T180133Z">
+        <seg>Grog Machiado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grog flavored coffee beans, ground up over ice.  Very refreshing!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Naturalnie wygrogowane ziarna kawowe, wszystko pokryte lodem. Bardzo odświeżające.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T112039Z">
+        <seg>Ziarna kawy o smaku grogu, zmielone z lodem. Bardzo orzeźwiające!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19039,8 +19127,16 @@
       <tuv lang="en-US">
         <seg>Grog-flavored?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Grogowych?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T121357Z">
+        <seg>O smaku grogu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Groggoccino Valencia!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180110Z" creationid="damia" creationdate="20240220T180110Z">
+        <seg>Groggoccino Valencia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19063,8 +19159,8 @@
       <tuv lang="en-US">
         <seg>Gross.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Niesamowite.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182531Z">
+        <seg>Ohyda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19159,8 +19255,8 @@
       <tuv lang="en-US">
         <seg>Gunplay, got it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czyli broń, rozumiem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102131Z">
+        <seg>Czyli broń, jasne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19201,6 +19297,14 @@
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231116T103925Z">
         <seg>Guybrush spotyka swoją partię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guybrush Threepwood!!!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140728Z" creationid="damia" creationdate="20240220T140728Z">
+        <seg>Guybrush Threepwood!!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19443,8 +19547,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>HEAR beautiful pirate folk music!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>SŁUCHAJCIE prawdziwej pirackiej muzyki!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T210045Z">
+        <seg>USŁYSZ przepiękne pirackie szanty!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19475,8 +19579,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>HEY!  The tough pirate look is out.  My job prospects are better as a friendly, non-threatening, corporate lackey.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>HEJ! Nie ma miejsca dla awanturników! Tu, mam miejsce tylko przyjazna i uczciwa praca!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180706Z">
+        <seg>HEJ! Wygląd twardego pirata odpada. Mam lepsze perspektywy pracy jako przyjazny, niegroźny, korporacyjny sługus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19555,24 +19659,24 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Ha ha ha ha ha ha!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ha ha ha!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122415Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Ha ha ha ha ha ha... bed wetter... heh, heh.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Heheheh...ale cienias...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124805Z">
+        <seg>Siusiumajtek...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Ha ha ha ha ha... Who's afraid of a sea cow?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kto się boi krowy morskiej?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122241Z">
+        <seg>Kto się boi morskiej krowy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19627,8 +19731,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Ha!  Explain that!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ha!  Wyjaśnij to!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202355Z">
+        <seg>Ha! Wyjaśnij to!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19779,24 +19883,24 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hahahah!  I've seen drunk old ladies who were able to hold on tighter than that!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hahahah! Widziałem stare i pijane baby które trzymały się lepiej od ciebie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124743Z">
+        <seg>Widziałem przestarzałe panienki, które utrzymały się dłużej niż ty!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hahahah!  It looks like the ol' sea cow got the best of you!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hahahahahah! Chyba nawet krowa by dłużej wytrzymała!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124543Z">
+        <seg>Stara morska krowa chyba zrobiła cię w bambuko!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hahahah!  Ya see, the trick is to stay ON the manatee!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hahahahah! Widzisz, chodzi o to żeby zostać NA syrence!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124630Z">
+        <seg>Wiedz, że chodzi o to, żeby zostać na grzbiecie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19885,6 +19989,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T101602Z">
         <seg>Har! To się zdarza cały czas. Słona morska bryza faktycznie pomaga odświeżyć nieco atmosferę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Har-har-harrrrr!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112456Z" creationid="damia" creationdate="20240221T112456Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -19995,8 +20107,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Have a nice day, and visit us again soon.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Miłego dnia, czekamy na ciebie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210650Z">
+        <seg>Miłego dnia, zapraszamy ponownie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20099,8 +20211,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Have you had enough, Mister Threepwood?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ma pan już dosyć, panie Threepwood?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141205Z">
+        <seg>Nie ma pan dość, panie Threepwood?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20203,8 +20315,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>He appears to be the bartender.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Widocznie to jest barman.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122611Z">
+        <seg>To chyba będzie barman.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20891,8 +21003,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Heh.  Seriously, where's the other puppet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Heh. Serio, gdzie jest ta druga kukiełka?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112916Z">
+        <seg>Heh. Poważnie, gdzie jest ta druga lalka?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20915,16 +21027,24 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hellbeard the Unrepentant is no man's puppet!!!  Arrrrr!!!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hellbeard Nieskruszony nie jest niczyją kukiełką!!!  Arrrrr!!!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112948Z">
+        <seg>Hellbeard Nieskruszony nie jest niczyją lalką!!!  Arrrrr!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hellbeard...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201445Z" creationid="damia" creationdate="20240223T201445Z">
+        <seg>Hellbeard...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hellbeard?  I think I've heard of you...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hellbeard?  Chyba o tobie słyszałem...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112225Z">
+        <seg>Hellbeard? Chyba o tobie słyszałem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21051,8 +21171,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Here at StarBuccaneer's™, we care less about the needs of the consumer, and more about the relationship we have with our competitors.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T122003Z">
-        <seg>Tutaj, w Starbukanier™ nie obchodzi nas potrzeba klienta, wolimy mieć dobre układy z naszymi konkurentami.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115848Z">
+        <seg>W Starbukanier™ mniej dbamy o potrzeby konsumentów, a bardziej o relacje z konkurencją.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21083,16 +21203,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Here ya go!  Enjoy your prize!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Masz! Baw się dobrze!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125535Z">
+        <seg>Trzymaj! Miłej zabawy!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Here you are, sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Niech pan spojrzy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105156Z">
+        <seg>To dla ciebie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21979,8 +22099,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, this StarBuccaneer's™ logo mug looks like it's about the same shape and size as the Silver Monkey Mug.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231211T092243Z">
-        <seg>Hej, ten kubek z logo StarBukaniera™ wygląda na mniej więcej taki sam kształt i rozmiar jak Srebrny Małpi Kufel.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181925Z">
+        <seg>Hej, ten kubek z logo StarBukaniera™ ma bardzo podobny rozmiar i kształt do Srebrnego Małpiego Kufla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22019,8 +22139,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, what're you doing?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hej, co ty robisz?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121755Z">
+        <seg>Hej, a co ty robisz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23019,8 +23139,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hmmm...yes...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hmmmm ... tiaa...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105144Z">
+        <seg>Hmmmm... taa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23523,8 +23643,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How cute... in a corporate retail sort of way.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Słodkie... w charakterystyczny sposób.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181202Z">
+        <seg>Słodkie... w korporacyjnym, detalicznym stylu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23851,8 +23971,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How much can you like coffee if you put that much cream in it?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak bardzo trzeba nienawidzić kawy żeby lać tyle mleka?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182840Z">
+        <seg>Jak bardzo lubisz smak kawy, kiedy dodajesz do niej tyle śmietanki?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24347,8 +24467,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I HEARD those sarcastic 'quotes,' ya scab-covered whale-whipper!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>SŁYSZAŁEM ten sarkastyczny "cudzysłów", ty pokryty strupami emulsyfikatorze wielorybów!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113757Z">
+        <seg>SŁYSZAŁEM ten sarkastyczny "cudzysłów", ty parszywy ubijaczu waleni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24419,8 +24539,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I SAID I never heard of it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>POWIEDZIAŁEM, że nigdy o nim nie słyszałem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113224Z">
+        <seg>NIGDY o nim nie słyszałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24555,8 +24675,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I am Marco de Pollo, the greatest plank diver in the WORLD!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem Marco De Pollo, najlepszy skoczek z trampoliny na ŚWIECIE!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140757Z">
+        <seg>Jam Marco De Pollo, najlepszy skoczek do wody na ŚWIECIE!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24571,8 +24691,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I am not going to talk to you while you're doing this.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nigdy nie przestanę do ciebie mówić!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122156Z">
+        <seg>Nie zamierzam z tobą rozmawiać, gdy tak robisz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24755,8 +24875,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I bet they're made by the same company.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Na pewno wyprodukowano je w tym samym państwie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181957Z">
+        <seg>Jak nic robiła je ta sama firma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25227,8 +25347,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can't believe that you live in a puppet theatre.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wierzę, że mieszkasz w teatrze kukiełkowym.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202453Z">
+        <seg>Nie wierzę, że mieszkasz w teatrze lalek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25443,8 +25563,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can't reach them.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie uniosę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190054Z">
+        <seg>Nie sięgnę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25699,8 +25819,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I could, but I'm no bully.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mógłbym, ale nie jestem rabusiem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180836Z">
+        <seg>Mógłbym, ale nie jestem łobuzem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25827,8 +25947,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I do not envy you the pummeling you are about to receive.  Nevertheless, the plank is yours.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gościu, znowu zremisowałeś z De Pollo!  Przygotujmy się do kolejnej dogrywki.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132202Z">
+        <seg>Nie zazdroszczę ci tego, co cię zaraz czeka. Niemniej, deska jest twoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26019,8 +26139,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't know if you've noticed, but Casaba's not too bright.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wiem, czy zauważyłeś, ale Casaba nie jest zbyt rozgarnięty.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201302Z">
+        <seg>Nie wiem, czy zauważyłeś, ale Casaba nie jest za bystry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26403,8 +26523,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't think I should rob this place.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie powinienem rabować tego sklepu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180902Z">
+        <seg>Nie powinienem rabować tego miejsca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26947,8 +27067,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't work here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie pracuje tutaj</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182527Z">
+        <seg>Nie pracuję tutaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -26987,8 +27107,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I draw the line at putting MECHANICAL manatees in my pants.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak mam wsadzić taką MECHANICZNĄ syrenę w spodnie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124259Z">
+        <seg>Jestem przeciwny wkładaniu mechanicznych manatów w spodnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27259,8 +27379,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I grow weary of your once-charming persistence, Mister Threepwood.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zaczynam tracić cierpliwość wobec pańskiej jednorazowo urokliwej upartości, panie Threepwood.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141230Z">
+        <seg>Męczy mnie już pański niegdyś czarujący upór, panie Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27499,8 +27619,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I guess those peg legs ARE pretty funny looking...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może i te protezy są zabawne  ale...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103317Z">
+        <seg>Myślę, że te protezy nóg są całkiem zabawne...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27667,8 +27787,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I have no idea what it is, but I'll try to draw it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie mam pojęcie co to jest, ale spróbuje to namalować.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104842Z">
+        <seg>Nie wiem, co to jest, ale spróbuję to namalować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27779,8 +27899,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I haven't even had any drinks, I'm certainly not picking up anybody else's bar tabs!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie miałem żadnego drinka. Ja nawet nie dotykałem tego czegoś do robienia piwa!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130224Z">
+        <seg>Nie zamówiłem jeszcze żadnego drinka a już mam za kogoś płacić w barze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27851,8 +27971,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I heard that you once outdueled the Devil for a pack of gum.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Słyszałem, że wygrałeś z Diabłem pojedynek o paczkę gumy do żucia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T131453Z">
+        <seg>Słyszałem, że załatwiłeś Diabła za paczkę gum do żucia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28155,8 +28275,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I know it's not much to look at, but it's actually quite roomy.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiem, że nie jest zbyt okazały, ale tak naprawdę jest tu całkiem przestronnie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202419Z">
+        <seg>Wiem, że nie wygląda zbyt okazale, ale jest całkiem pojemny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28299,8 +28419,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I love the smell of gunpowder in the morning.  Smells like...victory.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kocham zapach prochu strzelniczego o poranku. Pachnie jak...zwycięstwo.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102008Z">
+        <seg>Kocham zapach prochu o poranku. Pachnie jak... zwycięstwo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28707,8 +28827,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I prefer my coffee with less cream.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pije tylko czarną kawę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182859Z">
+        <seg>Preferuję kawę bez śmietanki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28835,8 +28955,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I read about you in school.  You cut off the heads of seventy men with a sharpened spoon.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czytałem o tobie w szkole.  Odciąłeś głowy siedemdziesięciu ludziom, przy pomocy zaostrzonej łyżki.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T131055Z">
+        <seg>Czytałem o tobie w szkole. Odciąłeś głowy siedemdziesięciu ludziom zaostrzoną łyżką.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29059,8 +29179,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I said, don't touch me!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powiedziałem, ręce przy sobie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122220Z">
+        <seg>Powiedziałem łapy precz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29451,8 +29571,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I sure don't want a trendy, overpriced StarBuccaneer's™ umbrella.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121657Z">
-        <seg>Na pewno nie chcę modnego, parasola StarBukaniera™ z zawyżoną ceną.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182253Z">
+        <seg>Na pewno nie chcę modnego parasola StarBukaniera™ z zawyżoną ceną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29651,8 +29771,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I think I'll leave you alone.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chyba zostawię cię w spokoju.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202612Z">
+        <seg>Chyba dam ci spokój.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29891,8 +30011,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I think it's pretty much performing its duty without any help from me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chyba jest już dość widowiskowe i nie potrzebuje mojej pomocy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181240Z">
+        <seg>Myślę, że spełnia swoje zadanie bez mojej pomocy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29915,8 +30035,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I think parrots are cute, too.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja też sądzę, że papugi są słodkie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104113Z">
+        <seg>Też uważam, że papugi są słodkie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30027,8 +30147,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I think that most of them just like to curl up by the fire with a good book.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sądzę, że większość z nich lubi sobie przysiąść z książką przy kominku...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104536Z">
+        <seg>Myślę, że większość z nich lubi po prostu usiąść przy kominku z dobrą książką.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30147,8 +30267,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I think your red-headed wife would be very interested to find out about the TIME you've been SHARING with this blonde, don't you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem pewien, że twoja ruda żona bardzo chętnie przekona się, co WSPÓŁDZIEŁEŚ z tą blondynką, co?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141531Z">
+        <seg>Myślę, że twoją rudą żonę bardzo by zainteresowało, gdyby dowiedziała się o CZASIE, który współdzieliłeś z tą blondynką, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30235,8 +30355,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I thought the other puppet was Hellbeard.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Myślałem, że Hellbeard to ta druga kukiełka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T133202Z">
+        <seg>Myślałem, że ta druga lalka to Hellbeard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30291,8 +30411,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I thought we'd lose you on the 'Grazing Frenzy' setting, but you made it!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Myślałem, że wypadniesz na poziomie "Pastwisko", ale nie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125207Z">
+        <seg>Myślałem, że wypadniesz na poziomie "Szał Wypasu", ale nie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30331,8 +30451,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I told you not to touch that!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powiedziałem coś!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142559Z">
+        <seg>Powiedziałem: nie ruszaj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -30675,8 +30795,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I was wrong; I WILL enjoy defeating you again.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Myliłem się; BĘDĘ się cieszył z pokonania cię raz jeszcze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133447Z">
+        <seg>Myliłem się. Zwycięstwo mnie wielce uraduje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30907,8 +31027,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I wonder what that's all about?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zastanawiam się o co w tym wszystkim chodzi?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133136Z">
+        <seg>O co w tym wszystkim chodzi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31267,8 +31387,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'd have to be some sort of sadist to do that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Musiałbym być sadystą, żeby to zrobić.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T201250Z">
+        <seg>Musiałbym być jakimś sadystą, żeby to zrobić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31283,8 +31403,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'd like a coffee drink.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Daj mi jakiś kawowy drink.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202937Z">
+        <seg>Poproszę napój kawowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31683,8 +31803,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll be as gentle as a baby dolphin.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Będę tak łagodny, jak mały delfin.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T133429Z">
+        <seg>Będę delikatny jak mały delfinek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31827,8 +31947,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll come back when I have something figured out.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak coś wykombinuje to wrócę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114708Z">
+        <seg>Wrócę, jak coś wymyślę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31923,8 +32043,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll have one of those, then.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wezmę jeden z tych.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114310Z">
+        <seg>Może wezmę sobie jedną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31947,8 +32067,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll have whatever tastes the most grog-like.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Daj mi coś co ma "grog" w nazwie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T113559Z">
+        <seg>Wezmę wasz najbardziej grogowy napój.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31963,8 +32083,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll have your coffee of the day.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chciałbym dostać kawę dnia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111830Z">
+        <seg>Wezmę kawę dnia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32003,8 +32123,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I'll just splatter some glue on here like this...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może kilka kropelek kleju pomoże...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125802Z">
+        <seg>Troszkę popsikam tu tym klejem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32184,8 +32304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'll stay here and, um, uh, guard the ship.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A ja zostanę i...popilnuje statku.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121348Z">
+        <seg>Ja tu zostanę i... popilnuję statku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32504,8 +32624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm a mighty pirate.  Surrender your women!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem potężnym piratem. Chrońcie kobiety i dzieci!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210552Z">
+        <seg>Jestem potężnym piratem. Oddawać kobiety!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32864,8 +32984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm harmless, really.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem nieszkodliwy, naprawdę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201708Z">
+        <seg>Jestem nieszkodliwy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32904,8 +33024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm impressed by your pluckiness, but you are starting to annoy me.  Go on, try to make a dive that I cannot match!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jesteś coraz lepszy, ale nigdy nie pokonasz mnie w dogrywce.  Śmiało, pokaż, że się mylę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132555Z">
+        <seg>Imponuje mi twoja wytrwałość, ale zaczynasz mnie irytować. Dalej na górę i skocz tak, żebym nie mógł tego powtórzyć!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33256,8 +33376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm not paid to clean up after the customers.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie jestem sprzątaczką.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182553Z">
+        <seg>Nikt mi nie płaci za sprzątanie po klientach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33448,8 +33568,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm partial to the clang of a good sword fight.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Lubię sobie czasem powymachiwać mieczem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T101858Z">
+        <seg>Lubię brzęk dobrej walki na miecze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33488,8 +33608,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm pretty sure they'd notice if I took that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chyba by się kapnęli jakbym wziął.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182443Z">
+        <seg>Chyba by się kapnęli, jakbym go wziął.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33520,8 +33640,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm rethinking this whole coffee idea.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam wrażenie, że całe to kawowe zamieszanie to zły pomysł.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114221Z">
+        <seg>Muszę jeszcze rozważyć ten pomysł z kawą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33696,8 +33816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm strapping this dunce cap to your stubborn pirate head, in the hopes that humiliation will succeed where education failed.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>wcisnę ci teraz na głowę tą czapkę pajaca w nadziei, że zrozumiesz jakim głąbem jesteś.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130654Z">
+        <seg>wcisnę ci teraz na głowę tę oślą czapkę pajaca w nadziei, że zrozumiesz jakim głąbem jesteś.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34176,8 +34296,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I've got money, jewels, property, anything!  Just don't tell my wife!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam pieniądze, klejnoty, nieruchomości!  Tylko nie mów mojej żonie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141803Z">
+        <seg>Mam pieniądze, klejnoty, nieruchomości! Tylko nie mów mojej żonie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34232,8 +34352,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I've got repairs to make.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No to ja muszę zając się statkiem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121326Z">
+        <seg>A ja naprawić statek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34384,8 +34504,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I've never even seen it RAIN in the Tri-Island Area!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231222T122416Z">
-        <seg>Nigdy nie widziałem deszczy na całych Trójwyspach!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182321Z">
+        <seg>Nigdy nie widziałem, żeby padało na całym Trójwyspie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34424,8 +34544,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I've never met a pirate who didn't love his eye patch...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie spotkałem pirata, który nie kocha łatek na oczy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103614Z">
+        <seg>Nie spotkałem takiego, co nie kochał swych łatek na oczy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34560,8 +34680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I, ahem, uh... look!  Over there!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja, ahem, um ... patrz! O tam!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112342Z">
+        <seg>Ja, yyy... patrz! Za tobą!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34776,16 +34896,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Iced groggoccino half caff!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bezkofeinowe Groggoccino z lodem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142649Z">
+        <seg>Bezkofeinowe groggoccino z lodem!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Iced groggoccino with lemon!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Groggoccino z lodem i cytrynką.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142703Z">
+        <seg>Groggoccino z lodem i cytryną!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35048,8 +35168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If it isn't the master of the mechanical manatee!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pokarz swoją pirackość na naszym byku morskim!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122451Z">
+        <seg>To jest dopiero mistrz mechanicznych manatów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35128,8 +35248,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If only I didn't.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Szkoda, że nim nie jestem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T201350Z">
+        <seg>Chciałbym nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35296,8 +35416,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If what I've heard is true, more and more pirates are spending their free time on the Internet.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jeśli to co słyszałem jest prawdą, coraz więcej piratów jest w Internecie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104821Z">
+        <seg>Jeśli to, co słyszałem, jest prawdą, to coraz więcej piratów spędza swój wolny czas w Internecie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35320,8 +35440,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you ask me, nothing can compare to the thrill of uncovering buried treasure.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak naprawdę, nic nie zastąpi dreszczyku poszukiwania skarbu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102302Z">
+        <seg>Jeśli o mnie chodzi, to nic dorówna dreszczykowi emocji podczas odkopywania skarbu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35368,8 +35488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you don't stop spinning me, I'll put an EVIL curse on you!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak mi nie dasz spokoju to obiecuje, że PRZEKLNĘ cię na wieki!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122043Z">
+        <seg>Jak mi nie dasz spokoju, to PRZEKLNĘ cię na wieki!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35400,8 +35520,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you must...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jeśli musisz...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T133311Z">
+        <seg>Jak musisz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35424,7 +35544,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you say so, sir.</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="damia" changedate="20240223T201753Z">
         <seg>Skoro tak pan mówi.</seg>
       </tuv>
     </tu>
@@ -35504,8 +35624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you're Hellbeard, where have you been for the past 80 years...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jeśli jesteś Hellbeard, to gdzie się podziewałeś przez ostatnie 80 lat...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112323Z">
+        <seg>Jeśli jesteś Hellbeardem, to gdzie się podziewałeś przez ostatnie 80 lat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -35672,8 +35792,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>In one fell swoop, its devastating jibes utterly destroyed my once-indomitable ego.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Za jednym zamachem jego niszczące szyderstwa całkowicie zrujnowały moje nieposkromione ego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200505Z">
+        <seg>Za jednym zamachem jego druzgocące kpiny zupełnie zniszczyły moje niegdyś nieposkromione ego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35832,8 +35952,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Instead of having a one stop shop that offers a single bland choice for every item you may want...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zamiast mieć jedną małą kafejkę z jednym dostępnym produktem...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115054Z">
+        <seg>Zamiast mieć jeden sklep, który oferuje jeden nijaki wybór dla każdej rzeczy, której można chcieć...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36104,8 +36224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Is that a bribe?  If so, it's a pretty insulting one.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy to łapówka? Jeśli tak, to jest upokarzające.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142341Z">
+        <seg>Czy to łapówka? Jeśli tak, to raczej mnie obraża.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36256,8 +36376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Is...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125057Z">
+        <seg>Czy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36480,8 +36600,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It destroyed my ego.  What more do I need to know?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zniszczył moje ego.  Co jeszcze mam wiedzieć?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200528Z">
+        <seg>Zniszczył moje ego. Co jeszcze miałbym wiedzieć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36696,8 +36816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It isn't nice to drink someone else's coffee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wolno pić kawy obcych ludzi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182732Z">
+        <seg>Nieładnie jest wypijać komuś kawę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36888,8 +37008,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It nice to see that good old-fashioned blackmail still works in some parts of this 'modern' world.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobrze wiedzieć, że staromodny szantaż wciąż działa w niektórych częściach "nowoczesnego" świata.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130335Z">
+        <seg>Dobrze wiedzieć, że stary dobry szantaż wciąż działa w niektórych częściach "nowoczesnego" świata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37200,8 +37320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It was a close one, but our winner is still...Marco de Pollo!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Niewiele brakowało, ale mistrzem jest nadal...Marco De Pollo!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140615Z">
+        <seg>Niewiele brakowało, ale mistrzem jest nadal... Marco De Pollo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37368,8 +37488,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It would be most unwise to try to bribe a diving judge!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Byłoby dla ciebie nierozsądne przekupywać sędziów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142318Z">
+        <seg>Byłoby bardzo nieroztropnie przekupywać sędziego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37840,8 +37960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's a cup of coffee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To filiżanka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182536Z">
+        <seg>To filiżanka kawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38392,8 +38512,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's a ship riding a wave out of a big coffee cup.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To statek dowodzony przez wielką filiżankę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181009Z">
+        <seg>To statek płynący na fali z dużej filiżanki kawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38520,8 +38640,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's a synthetic grog substitute.  Quite good, really.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oddaje to smak grogu. Całkiem dobry.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T211053Z">
+        <seg>To syntetyczny zamiennik grogu. Nawet niezły.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38864,8 +38984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's called the Menacing Mechanical Manatee.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183934Z">
-        <seg>Nazywamy go Groźny Mechaniczny Manat.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124141Z">
+        <seg>Nazywamy go Złowrogi Mechaniczny Manat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,8 +39168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's good clean pirating fun that's safe for the whole family at PLANET THREEPWOOD!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Całą to świetną ofertę oraz mnóstwo całkowicie piracko-familijnej atmosfery znajdzie tylko w PLANECIE THREEPWOOD!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205657Z">
+        <seg>To idealnie czysta piracka frajda, bezpieczna dla całej rodziny w PLANECIE THREEPWOOD!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39616,8 +39736,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's somebody's cup of coffee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Duża filiżanka kawy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182524Z">
+        <seg>To czyjaś filiżanka kawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39680,8 +39800,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's the company credo.  We have to learn it before we earn the right to wear the StarBuccaneer's™ apron.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121948Z">
-        <seg>Taki jest rynek. Uczymy się tego zanim zaczniemy zarabiać kasę i nosić uniformy z logo StarBukanier™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115316Z">
+        <seg>Takie jest nasze kredo. Musimy się go nauczyć, zanim zdobędziemy prawo do noszenia fartucha StarBukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39848,8 +39968,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's the machine that dispenses all the StarBuccaneer's™ fancy coffee drinks.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121811Z">
-        <seg>Ten automat robi takie pyszne kawowe drinki od Starbukaniera™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T185654Z">
+        <seg>To maszyna, która dozuje wszystkie fantazyjne napoje kawowe StarBukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42472,8 +42592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Look, kid, I'm already being bribed and blackmailed.  Don't push your luck.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam być przekupiony i szantażowany! To nie przeszkadza sportom ekstremalnym.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142512Z">
+        <seg>Słuchaj, już mnie przekupiono i zaszantażowano. Nie przeginaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42648,8 +42768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Lots of coffee and a StarBuccaneer's™ logo coffee cup.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121824Z">
-        <seg>Dużo kawy i Kubków od Starbukaniera™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190226Z">
+        <seg>Dużo kawy i kubków z logiem Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43080,8 +43200,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Many years ago, I was the last pirate to be exposed to the Ultimate Insult.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiele lat temu, byłem ostatnim piratem, który wystawił się na działanie Talizmanu Upokorzenia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T194446Z">
+        <seg>Wiele lat temu byłem ostatnim piratem, którego wystawiono na jego działanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43138,6 +43258,22 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Marco de Pollo: ERIK SCHaFFLER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marcoooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140758Z" creationid="damia" creationdate="20240220T140758Z">
+        <seg>Marcoooo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marcoooooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140840Z" creationid="damia" creationdate="20240220T140840Z">
+        <seg>Marcoooooo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -43448,8 +43584,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Me, a fearsome pirate?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja, przerażającym piratem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201740Z">
+        <seg>Ja, przerażającym?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43616,8 +43752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Menacing Mechanical Manatee</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183948Z">
-        <seg>Groźny Mechaniczny Manat</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124210Z">
+        <seg>Złowrogi Mechaniczny Manat</seg>
       </tuv>
     </tu>
     <tu>
@@ -43888,8 +44024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Mmm.  It's a humble home, but I'm a humble man.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mmm.  To skromny dom, ale jestem skromnym człowiekiem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202555Z">
+        <seg>Mmm. To skromny dom dla skromnego człowieka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44512,8 +44648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>My dad used to tell me stories about you.  Did you really sink five ships with your steely gaze?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mój tata opowiadał mi o tobie historie.  Naprawdę zatopiłeś pięć statków swoim stalowym wzrokiem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T131148Z">
+        <seg>Mój tata opowiadał mi o tobie. Naprawdę zatopiłeś pięć statków swoim stalowym wzrokiem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45256,8 +45392,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nah, I don't really want any of this junk.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie potrzeba mi niczego z tych rzeczy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182136Z">
+        <seg>Nie, nic mi stąd nie potrzeba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45520,8 +45656,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Naw, I'm too tough and piratey to drink coffee this sweet.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aż taki okrutny nie jestem żeby to pić.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T185613Z">
+        <seg>Nie, jestem zbyt twardy i piracki by pić tak słodką kawę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45744,8 +45880,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nice dive, Mister Threepwood.  If you'll excuse me for a moment...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bardzo dobrze, panie Threepwood.  Daj mi tylko minutkę by przygotować się do skoku...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133031Z">
+        <seg>Ładny skok, panie Threepwood. Teraz przepraszam na chwilę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -46824,8 +46960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, it's bad luck to open an umbrella unless it's raining.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, wiadomo że nie otwieramy parasolki jak nie pada.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182402Z">
+        <seg>Nie, otwieranie parasola kiedy nie pada ponoć przynosi pecha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46952,8 +47088,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, sir, I'm afraid we only serve coffee drinks here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie. Obawiam się, że w kawiarni serwujemy tylko kawę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111705Z">
+        <seg>Nie. Obawiam się, że w serwujemy tu tylko kawę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47600,16 +47736,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Not bad!  Okay, now let's increase the difficulty until we get to the top setting!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nieźle! To może teraz podnośmy poprzeczkę, w końcu musisz spaść!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124838Z">
+        <seg>Nieźle! To teraz zwiększę obroty aż do maksymalnych ustawień!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Not bad, Mister Threepwood.  Please wait here for a moment while I turn off the stove...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ładny skok, panie Threepwood.  Jeśli wybaczy mi pan na moment...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133117Z">
+        <seg>Nieźle, panie Threepwood. Proszę zaczekać bo zostawiłem kuchenkę na gazie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -47728,8 +47864,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Not many have survived their rides on the savage manatee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wielu przetrwało jazdy na naszej moskiej krowie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125314Z">
+        <seg>Niewielu przetrwało próbę na tym dzikim manacie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47856,8 +47992,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Not the pirates I've met.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale nie dla piratów, których ja znam.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120938Z">
+        <seg>Nie dla piratów mi znanych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48040,8 +48176,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nothing makes a bold fashion statement like a pirate with a parrot on his shoulder...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nic nie tworzy cię bardziej modnym piratem jak papuga stojąca na twoim ramieniu...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104018Z">
+        <seg>Nie ma silniejszego komunikatu w modzie niż pirat z papugą na ramieniu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -48416,8 +48552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Now that the pieces of the Ultimate Insult are mine, it's back to Męlée Island™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Teraz te części Talizmanu Upokorzenia należą do mnie. Powrót na Wyspę Szpady™!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121741Z">
+        <seg>Posiadając wszystkie części Talizmanu Upokorzenia czas wrócić na Wyspę Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48560,8 +48696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Now, Mister Threepwood, if you're done embarrassing yourself, I'm off to gaze at my diving trophies.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A teraz, panie Threepwood, jeśli skończyłeś już upokarzanie się, to pójdę pogapić się na moje puchary.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141147Z">
+        <seg>A teraz, panie Threepwood, jeśli skończył się pan już kompromitować, pójdę podziwiać trochę swoje trofea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48632,8 +48768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Now, my friend...prepare to watch a master in action!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A teraz, przyjacielu..przygotuj się na widok mistrza w akcji!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133331Z">
+        <seg>A teraz, przyjacielu, czas zobaczyć mistrza w akcji!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48680,8 +48816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Now, what can I get for you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To w czym mogę pomóc?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115727Z">
+        <seg>To w czym mogę służyć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -48808,8 +48944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course not!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oczywiście, że nie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104424Z">
+        <seg>Jasne, że nie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48888,8 +49024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course you've heard of me!  I'm the nastiest pirate in the world!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oczywiście, że o mnie słyszałeś!  Jestem najokropniejszym piratem na świecie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112303Z">
+        <seg>Oczywiście, że o mnie słyszałeś! Jestem najpaskudniejszym piratem na świecie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48928,8 +49064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course, gunpowder in the late afternoon tends to smell a little more like week-old macaroni, which is why I always try to have my gun battles before lunch.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To znaczy, taki proch późniejszym popołudniem raczej śmierdzi jak zeszło miesięczny makaron, dlatego właśnie zawsze strzelam do wrogów przed śniadaniem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102123Z">
+        <seg>Oczywiście po południu proch strzelniczy już pachnie trochę bardziej jak tygodniowy makaron, dlatego zawsze staram się toczyć bitwy przed lunchem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48944,8 +49080,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course, most of those guys lost their legs to gangrene and sharks, so it's not really 'ha-ha' funny.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>na pewno zdajesz sobie sprawę, że większość tych gości bez nóg naprawdę cierpiało kiedy traciło kończyny. To nie jest takie "ha ha ha".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103452Z">
+        <seg>Oczywiście większość tych gości straciło kończyny w wyniku gangreny czy rekinów więc też tak średnio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48960,8 +49096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course, they usually just throw the book in the fire, but still...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>to znaczy, zwykle piraci lubią rzucać książkami do ognia, ale wiesz....</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104621Z">
+        <seg>Oczywiście zazwyczaj po prostu wrzucają tę książkę do ognia, ale wiesz...</seg>
       </tuv>
     </tu>
     <tu>
@@ -49160,8 +49296,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh my word!  Really?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mój Boże! Gdzie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190255Z">
+        <seg>Nie wierzę! Gdzie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -49488,8 +49624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh, HERE'S a big surprise.  Marco de Pollo has won again!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oh, MAMY wielkie zaskoczenie.  Marco De Pollo znowu wygrał!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131104Z">
+        <seg>Och, KOLEJNE zaskoczenie. Marco De Pollo znowu wygrał!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49768,8 +49904,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh, dear.  That sounds far too violent and adventurous for me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ojej.  To brzmi zdecydowanie zbyt brutalnie i niebezpiecznie, jak dla mnie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201944Z">
+        <seg>Ojej. To brzmi zdecydowanie zbyt brutalnie i ryzykownie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50776,8 +50912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh?  Well, you try to snatch the grass out of a manatee's mouth and see how menacing it gets.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak? To spróbuj wepchnąć się do żarcia, które oni jedzą to zobaczysz jakie groźne są.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124205Z">
+        <seg>Tak? To spróbuj wepchnąć się do żarcia, które oni jedzą to zobaczysz jakie złowrogie są.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50800,8 +50936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ohhh, I need a drink.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No dobra, muszę się napić.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121310Z">
+        <seg>Idę się napić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50848,8 +50984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, I'm going to start at the 'Bed-Wetter' setting, which shouldn't be any trouble for a stout young guy like you.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobra, to ja ustawię bestie, ale dla takiego źrebaka jak ty to pewnie żaden problem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124433Z">
+        <seg>Dobra, ustawimy go na tryb "Siusiumajtka", co nie powinno stanowić większego problemu dla takiego zucha jak ty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50864,8 +51000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, Threepwood, you've had your fun.  Now stop spinning me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ok, Threepwood, koniec zabawy. Koniec zawracania mi głowy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121931Z">
+        <seg>Ok, Threepwood, koniec zabawy. Dość zawracania mi głowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50888,8 +51024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, everyone, settle down.  The first round has ended in a tie...again.  We'll have to run another tiebreaker.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Okej, wszyscy cisza. Pierwsza runda zakończyła się remisem...znowu. Czeka nas jeszcze jeden pojedynek.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131954Z">
+        <seg>Dobra, wszyscy spokój. Pierwsza runda zakończyła się remisem... znowu. Czeka nas kolejna dogrywka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50904,8 +51040,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, here I go, I'm puttin' a curse on you...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ok. Sam chciałeś. Właśnie rzucam klątwę...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122053Z">
+        <seg>Ok. Sam chciałeś. Zaczynam rzucam klątwę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51200,8 +51336,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On second thought, I don't want a picture drawn of me.  I'm afraid it'll steal my soul.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z drugiej strony, nie chcę obrazu ze mną. Boję się, że mogę przez to stracić dusze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105057Z">
+        <seg>Po namyśle, nie chcę, żeby ktoś narysował moje zdjęcie. Może mi to skraść duszę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51264,8 +51400,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On second thought, I'd rather not get caricatured right now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z drugiej strony, nie chce mieć teraz karykatury.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102803Z">
+        <seg>Jakby pomyśleć, to jednak nie chcę być teraz karykaturowany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51288,8 +51424,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On second thought, the notion of a crudely-drawn picture of me sounds like a really bad idea.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z drugiej strony pomysł żeby ktoś mnie przemalował nie jest zbyt dobry.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104216Z">
+        <seg>Po namyśle, kaprys z prymitywnie narysowanym obrazem mojej osoby brzmi jak naprawdę zły pomysł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51704,8 +51840,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oooh, good one.  Hold it...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oooh, to dobre. Czekaj...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105010Z">
+        <seg>Och, to dobre. Czekaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51752,8 +51888,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oooh, well, I'm sorry, then, sir.  It's well worth it, though.  We're offering free refills with every purchase.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oooh, w takim razie, przykro mi. Trochę szkoda. Oferujemy darmową nalewkę po każdym zakupie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114643Z">
+        <seg>Och, w takim razie, przykro mi. Trochę pan traci. Oferujemy darmową dolewkę przy każdym zakupie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51856,8 +51992,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oops.  My mistake.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Uups. Mój błąd.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190259Z">
+        <seg>Ups. Mój błąd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52208,8 +52344,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Our featured coffee is the iced groggoccino.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jednak z wyjątkowych kaw, to nasze Groggocino z lodem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T112033Z">
+        <seg>Naszą polecaną kawą jest mrożone groggoccino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52344,8 +52480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ozzie Mandrill Enterprises has hired me, Kristopher Kilometer, to render free 'pirate-themed' caricatures of our guests.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>na polecenie Ozzie Mandrill Enterprises ,ja  Kristopher Kilometer, mam zachęcać naszych gości do robienia sobie zabawnych pirackich karykatur.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095527Z">
+        <seg>Ozzie Mandrill Enterprises zatrudniło mnie, Kristophera Kilometra, do bezpłatnego tworzenia karykatur naszych gości w tematyce pirackiej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52512,8 +52648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>PLANET THREEPWOOD!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PLANECIE THREEPWOOD!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204716Z">
+        <seg>PLANETY THREEPWOOD!</seg>
       </tuv>
     </tu>
     <tu>
@@ -52584,8 +52720,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Patches...this is great.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łatka...będzie super.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103738Z">
+        <seg>Łatki... są świetne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52664,8 +52800,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Peg legs...m'hmmmm.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A więc proteza...hmmm.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103505Z">
+        <seg>A więc protezy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52752,8 +52888,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pegs, patches, parrots, hooks...they're just so darned whimsical!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Protezy, łatki na oczy, papugi, haki... to takie zabawne.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103012Z">
+        <seg>Protezy, łatki, papugi, haki... oni są tak cholernie dziwaczni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -52896,8 +53032,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Perhaps you're hanging out with the wrong crowd.  All the young hip pirates are drinking coffee drinks now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może zadajesz się ze złym towarzystwem. Wszyscy młodzi piraci popijają kawę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T121029Z">
+        <seg>Może zadajesz się ze złym towarzystwem. Wszyscy młodzi piraci na czasie popijają dzisiaj tylko kawę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52968,8 +53104,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Personally, I prefer to spend my weekends doing chores around the house.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Osobiście lubię sobie spędzić weekend na wypucowaniu domu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104751Z">
+        <seg>Osobiście preferuję spędzać weekendy sprzątając w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53240,8 +53376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Plain black coffee!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czarniejsza Kawa!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180130Z">
+        <seg>Zwykła czarna!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53494,6 +53630,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Poloooooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140848Z" creationid="damia" creationdate="20240220T140848Z">
+        <seg>Poloooooo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pongo, my filing monkey, ran away a while back.  He was the only one who knew how to run the File-o-Matic.</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20240106T170742Z">
@@ -53506,6 +53650,22 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Kucyk!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pooooloooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140806Z" creationid="damia" creationdate="20240220T140806Z">
+        <seg>Pooooloooo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poooolooooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140758Z" creationid="damia" creationdate="20240220T140758Z">
+        <seg>Poooolooooo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53920,8 +54080,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Predatory practices aren't good for anyone except the consumer.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Manipulacja to zawsze jakiś sposób na konsumentów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114801Z">
+        <seg>Drapieżne praktyki nie są dobre dla nikogo poza konsumentami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53936,8 +54096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Prepared by genuinely fun-filled pirate chefs!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>oraz próbujcie specjałów naszych pirackich kucharzy!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204834Z">
+        <seg>sporządzonych przez zabawnych pirackich kucharzy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -54088,8 +54248,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pretty good, huh?  I was top in my class at the Pirate Training Academy.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobre, nie? Byłem najlepszym uczniem w naszej Akademii Pirackości.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120542Z">
+        <seg>Nieźle, co? Byłem najlepszy w klasie w Akademii Szkolenia Piratów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54224,24 +54384,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Puppet?  Eh...eh, what puppet?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kukiełką? Ech...ech, jaką kukiełką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202124Z">
+        <seg>Lalką? Ech... jaką lalką?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Puppet?  There be no puppets here, boy!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kukiełką?  Nie ma tu żadnych kukiełek, chłopcze!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112909Z">
+        <seg>Kukiełką? Nie ma tu żadnych lalek, chłopcze!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Puppeteer!?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Animatorem!?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112936Z">
+        <seg>Lalkarzem!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54256,8 +54416,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Puppets?  Eh, what puppets?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kukiełki? Ech, jakie kukiełki?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201959Z">
+        <seg>Lalki? Ech, jakie lalki?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54496,8 +54656,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Raise the anchor, hoist the sails, and ready the warp drive!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Podnieść kotwice, rozwinąć żagle, wypływamy na szerokie wody!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121536Z">
+        <seg>Podnieść kotwicę, rozwinąć żagle, przygotować napęd warp!</seg>
       </tuv>
     </tu>
     <tu>
@@ -54560,8 +54720,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ready!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jasne!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124442Z">
+        <seg>Gotów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -54608,8 +54768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Really.  Do we have a deal?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Naprawdę.  Umowa stoi?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141837Z">
+        <seg>Naprawdę. Umowa stoi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54648,8 +54808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Really?  Huh... Well then I guess your wife won't mind if I show her the brochure.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Naprawdę?  W takim razie nie będziesz miał nic przeciwko jeśli pokażę ulotkę twojej żonie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141715Z">
+        <seg>Naprawdę? W takim twoja żona nie będzie miała nic przeciwko, jeśli jej to pokażę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55264,8 +55424,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>SEE souvenirs of Guybrush Threepwood's most famous escapades!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>OGLĄDAJCIE pamiątki z ostatniej eskapady Guybrusha!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205936Z" creationid="damia" creationdate="20240217T205936Z">
+        <seg>SPRAWDŹ pamiątki z najsłynniejszych wypraw Guybrusha Threepwooda!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55536,8 +55696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Scissors, Rock, Paper?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W kamień, papier i nożyce?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131250Z">
+        <seg>Kamień, papier i nożyce?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55784,8 +55944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Set sail for family fun at PLANET THREEPWOOD!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Żeglujcie z całą rodziną po potrawach w PLANECIE THREEPWOOD!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205828Z">
+        <seg>Kurs na rodzinną zabawę w PLANECIE THREEPWOOD!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56042,6 +56202,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Mysiu-Pysiu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shoo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140709Z" creationid="damia" creationdate="20240220T140709Z">
+        <seg>Sio!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56368,8 +56536,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Smells like a Crapaccino.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jakieś Crappaciono</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182653Z">
+        <seg>Pachnie jak Srappacino</seg>
       </tuv>
     </tu>
     <tu>
@@ -56568,8 +56736,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So he lobs a cannonball at them.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Więc rzuca w nich kulami armatnimi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200957Z">
+        <seg>I z marszu strzela do nich z armaty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56640,8 +56808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So that's your game, eh? 'Spin the Helpless Talking Skull' huh?  How juvenile.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak się ze mną bawisz? "Odkręcasz Bezbronną Czaszkę". Co za kretyn.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T121914Z">
+        <seg>Tak się ze mną bawisz? Kręcisz biedną gadającą czachą, tak? Dziecinada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56824,8 +56992,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, if you want a coffee drink, this is the place!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jakbyś chciał trochę kawy, to tylko do nas przyjdziesz!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120423Z">
+        <seg>Więc jeśli masz ochotę na kawę, to tylko tutaj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56848,8 +57016,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, pirate-boy, what can I get for ya?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Piracie, co mogę dla ciebie zrobić?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120612Z">
+        <seg>A zatem, piraciku, co mogę ci podać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56880,8 +57048,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, what do you think pirates do in their off hours?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A co według ciebie każdy pirat musi robić w każdy piątek?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104450Z">
+        <seg>Więc co piraci robią poza swoimi godzinami pracy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56952,8 +57120,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So, what's your favorite pirate accessory?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A jakie ty masz ulubione narzędzie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T103050Z">
+        <seg>A jakie jest twoje ulubione akcesorium?</seg>
       </tuv>
     </tu>
     <tu>
@@ -57168,8 +57336,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Someday I will manage one of these stores.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pewnego dnia wszystkie sklepy będą pod moim kierownictwem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180757Z">
+        <seg>Pewnego dnia sam będę zarządzał czymś takim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57488,8 +57656,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Sorry, sir, but we don't serve straight grog here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przykro mi, ale nie podajemy czystego grogu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202819Z">
+        <seg>Przykro mi, ale nie podajemy tu czystego grogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57888,8 +58056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>StarBuccaneer's™ logo merchandise.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T121327Z">
-        <seg>Logo towarowe Starbukaniera™</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181316Z">
+        <seg>Gadżety z logo Starbukaniera™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58016,8 +58184,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Step inside and sample our fun-filled genuine pirate cuisine,</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zapraszamy do środka, odkrywajcie tajemnice naszych pirackich krewnych,</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204803Z">
+        <seg>Wejdź do środka i skosztuj naszych zabawnych pirackich dań,</seg>
       </tuv>
     </tu>
     <tu>
@@ -58104,8 +58272,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Still offering that free refill?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy to prawda, że macie darmowe nalewki?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114328Z">
+        <seg>Ciągle macie darmową dolewkę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -58168,16 +58336,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Stop it!  I will not be mocked!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przestańcie!  Nie pozwolę na przedrzeźnianie mnie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140839Z">
+        <seg>Przestańcie! Nie wolno mnie wyśmiewać!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Stop it!  Stop it!  Stop it!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przestańcie!  Przestańcie!  Przestańcie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140845Z">
+        <seg>Przestańcie!  Przestańcie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58208,8 +58376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Stop spinning me, accursed mortal!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie okręcaj mnie, ty spróchniała ośmiornico!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122004Z">
+        <seg>Przestań kręcić, przeklęty śmiertelniku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58424,8 +58592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Super charged triple caff heart resuscitator special!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Specjał- TrzyKomorowe  Ekspresso</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180107Z">
+        <seg>Potrójny kawowy super reanimator serca!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58440,8 +58608,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Sure they do!  Sitting down with a latte to discuss piratey things with their pirate friends is a pirate tradition!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Właśnie że tak! Siedzenie z pysznym latte oraz rozmawianie z pirackimi przyjaciółmi to piracka tradycja!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120927Z">
+        <seg>Jak to nie piją! Posiedzenie przy latte, rozmowy o pirackich sprawach z pirackimi przyjaciółmi to piracka tradycja!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58608,8 +58776,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>TASTE culinary delights approved by genuine pirates!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>SPRÓBUJCIE kulinarnych specjałów sporządzonych dla prawdziwych piratów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T210013Z">
+        <seg>SPRÓBUJ kulinarnych przysmaków od prawdziwym piratów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58744,8 +58912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Take a look at page three.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przyjrzyj się uważnie trzeciej stronie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141418Z">
+        <seg>Zerknij na trzecią stronę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58808,8 +58976,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Talk to the hand, ya nosy scupper-scraper!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mów do ręki, wścibski psuju!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113154Z">
+        <seg>Gadaj se zdrów, ty wścibski skrobaku gnoju!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58832,8 +59000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Tell 'em Murray sent ya!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bo Murray prawdę wam powie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205727Z">
+        <seg>Jak coś Murray was przesłał!</seg>
       </tuv>
     </tu>
     <tu>
@@ -59032,8 +59200,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Thank you for your patronage, and enjoy your visit to the Happiest Island on Earth.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dziękuje za obecność, i baw się dobrze na Najszczęśliwszej Wyspie na Ziemi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T105242Z">
+        <seg>Dziękuję za twój mecenat i baw się dobrze na Najszczęśliwszej Wyspie na Ziemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59080,8 +59248,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Thank you, kind sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dziękuję.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202652Z">
+        <seg>Nad wyraz dziękuję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59392,8 +59560,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That doesn't look so menacing.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wygląda aż tak przerażająco.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124219Z">
+        <seg>Nie wygląda tak złowrogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59520,8 +59688,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That doesn't sound menacing at all!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale to nie brzmi "Groźnie".</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124154Z">
+        <seg>Ale to nie brzmi "Złowrogo".</seg>
       </tuv>
     </tu>
     <tu>
@@ -59672,8 +59840,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That goes outside to town.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Drzwi na zewnątrz.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190311Z">
+        <seg>Prowadzą do miasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60056,8 +60224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That sounds exciting.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To niesamowite.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180810Z">
+        <seg>Brzmi niesamowicie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60208,8 +60376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That was not a fair dive!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ten skok nie był uczciwy!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140744Z">
+        <seg>To nie był uczciwy skok!</seg>
       </tuv>
     </tu>
     <tu>
@@ -60312,8 +60480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That would be our iced groggoccino.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może Groggocino z lodem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T211143Z">
+        <seg>To będzie nasze mrożone groggoccino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60328,8 +60496,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That would look great in the backyard, but I don't think Elaine would agree.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pasowało by to u nas w ogródku, ale Elaine może się nie zgodzić.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181222Z">
+        <seg>Świetnie by to wyglądało na podwórku, ale nie sądzę, żeby Elaine się zgodziła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60496,8 +60664,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's a big pile o' cups.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cała sterta filiżanek.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T185755Z">
+        <seg>Wielka sterta filiżanek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60664,8 +60832,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's all?  Really?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To wszystko?  Naprawdę?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141834Z">
+        <seg>To wszystko? Naprawdę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60816,8 +60984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's it, you're cursed.  You are gonna have such a rash.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Już po wszystkim. Jesteś przeklęty.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122139Z">
+        <seg>No i już, jesteś przeklęty. Będziesz miał niezłą wysypkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61184,8 +61352,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's the beautiful part.  Because we have these agreements, there are no other coffee houses.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To piękny pomysł. Nie mamy innych kawiarni, bo mamy własne układy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120407Z">
+        <seg>I to właśnie jest piękne. Ponieważ mamy nasze umowy, nie ma nigdzie innych kawiarni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61536,8 +61704,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That, my friend, is the Menacing Mechanical Manatee!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183858Z">
-        <seg>To, mój kolego, nasza Groźny Mechaniczny Manat!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124135Z">
+        <seg>To, mój kolego, nasza Złowrogi Mechaniczny Manat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61712,8 +61880,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The NEW All-World Plank Diving Champion is, uh...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>NOWYM mistrzem świata w skokach z trampoliny jest...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140727Z">
+        <seg>NOWYM Mistrzem Świata w skokach z do wody jest...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61888,8 +62056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The Ultimate Insult!?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Talizman Upokorzenia?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113205Z">
+        <seg>Talizmanie Upokorzenia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -62432,8 +62600,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The owner of this cup should try some coffee with their sugar.  Ugh.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powinny dostarczać kawę z cukrem - zawsze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182923Z">
+        <seg>Właściciel tej filiżanki powinien spróbować kawy z cukrem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62464,8 +62632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The plank is yours, Threepwood.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Trampolina jest twoja, Threepwood.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140603Z">
+        <seg>Deska jest twoja, Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62592,8 +62760,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The stunningly handsome one.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tą oszałamiająco piękną.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202144Z">
+        <seg>Tą oszałamiająco przystojną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62640,8 +62808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The tiebreaker only delayed the inevitable, folks...Marco de Pollo is the winner!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dogrywka jedynie opóźniła nieuniknione, ludzie...Marco De Pollo zwyciężył!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140634Z">
+        <seg>Dogrywka jedynie opóźniła nieuniknione, ludzie... Marco De Pollo zwyciężył!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62688,8 +62856,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The winner, and still All-World Plank Diving Champion, is Marco de Pollo!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zwycięzcą i wciąż aktualnym Mistrzem Świata w skokach do wody Marco De Pollo!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130914Z">
+        <seg>Zwycięzcą i aktualnym Mistrzem Świata w skokach do wody pozostaje Marco De Pollo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62704,8 +62872,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Their wacky, madcap accessories!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ich szurnięte akcesoria!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102903Z">
+        <seg>Ich odjechanie szurnięte akcesoria!</seg>
       </tuv>
     </tu>
     <tu>
@@ -63080,8 +63248,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There are no puppets here, sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie ma tu kukiełek, proszę pana.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202202Z">
+        <seg>Nie ma tu żadnych lalek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63120,16 +63288,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There be no puppets, there be only Hellbeard!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie ma kukiełek, jest tylko Hellbeard!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112923Z">
+        <seg>Nie ma tu lalek, jest tylko Hellbeard!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>There be only the unrelenting terror of Hellbeard!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jest tylko niesłabnąca zgroza Hellbearda!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T112453Z">
+        <seg>Jest tylko nieubłagany terror Hellbearda!</seg>
       </tuv>
     </tu>
     <tu>
@@ -63392,8 +63560,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There's a sale on coffee beans!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mają wyprzedać ziaren kawy!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190242Z">
+        <seg>Mają wyprzedaż ziaren kawy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64056,8 +64224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>They can't spend their entire lives fighting, sailing, and wenching, can they?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie mogą wytrzymać bez codziennych bijatyk, bez żeglugi, prostytuctwa?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104418Z">
+        <seg>Nie ma szans, że cały życie tylko walczą, żeglują i chodzą na dziewki, no nie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -64312,8 +64480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>They're so active and healthy.  Ya know, all that swordfighting and sailing.  Really outdoorsy stuff.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Są tacy żywi i zdrowi. Całe te walki na mieczei żegluga. Dużo świeżego powietrza.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T101808Z">
+        <seg>Są tacy aktywni i zdrowi. No wiesz, cała ta szermierka i żeglarstwo. Dużo świeżego powietrza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64528,8 +64696,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This bar counter is incredibly clean and un-sticky.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ten bar nawet nie jest brudny ani śmierdzący.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130108Z">
+        <seg>Ta lada barowa jest czysta że mucha nie siada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64792,8 +64960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This is growing tiresome, Mister Threepwood.  You know you cannot defeat me in a tiebreaker,</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Twój hart ducha imponuje mi, ale zaczynasz mnie irytować.  No dalej, oddaj skok którego nie dam rady powtórzyć!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132659Z">
+        <seg>Zaczyna mnie już pan męczyć, panie Threepwood. Wie pan, że nie da się mnie pokonać w dogrywkach</seg>
       </tuv>
     </tu>
     <tu>
@@ -64864,8 +65032,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This is my home, sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To mój dom, proszę pana.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202405Z">
+        <seg>To jest mój dom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65056,8 +65224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>This must be where grog comes from.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Stąd przychodzi grog.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130237Z">
+        <seg>Stąd musi przychodzić grog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66232,8 +66400,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Two of my favorite smells: coffee and booty.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dwa z moich ulubionych zapachów: kawa i kasa.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180855Z">
+        <seg>Dwa moje ulubione zapachy: kawa i skarby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66370,6 +66538,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20240216T114302Z">
         <seg>Co ten dziadek sobie myślał?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ugh.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130358Z" creationid="damia" creationdate="20240220T130358Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -66720,8 +66896,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Uh, that's nice.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Może później.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T120443Z">
+        <seg>Ależ miło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66880,8 +67056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Uhhh uhh ahh! &lt;Scream&gt;</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Uhhh uhh ahh! &lt;krzyk&gt;</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202602Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -67088,8 +67264,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Um, sir, I'm not sure what you're doing, but I'm sure it's against company policy.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Panie, nie jestem pewny co pan robi, ale wiem, że jest to niezgodne z prawem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180328Z">
+        <seg>Nie jestem pewien, co pan robi, ale bez wątpienia jest to wbrew polityce firmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67320,8 +67496,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ummm, better not.  Elaine wouldn't appreciate the smell if I started brewing grog at home.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Lepiej nie. Elaine nie zniosła by zapachu gdybym zaczął ważyć grog.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130305Z">
+        <seg>Lepiej nie. Elaine nie zniosłaby zapachu gdybym zaczął ważyć grog w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67488,8 +67664,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Unlike the cups in the good ol' SCUMM Bar, these cups appear to be CLEAN.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240216T104213Z">
-        <seg>Różnią się trochę od tym Scumm Barowskich - są CZYSTE.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190035Z">
+        <seg>W przeciwieństwie do kufli w SCUMM Barze, te kubki wydają się być CZYSTE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67808,8 +67984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Very good, Mister Threepwood.  Just give me a second to prepare for my dive...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A teraz przepraszam na chwilkę, muszę się przygotować do skoku.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133005Z">
+        <seg>Znakomicie, panie Threepwood. Proszę dać mi chwilę, abym przygotował się do skoku...</seg>
       </tuv>
     </tu>
     <tu>
@@ -67824,8 +68000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Very good, sir!  You almost sound like a real pirate!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Całkiem, całkiem! Jesteś prawie jak prawdziwy pirat!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210617Z">
+        <seg>Całkiem nieźle! Brzmiałeś prawie jak prawdziwy pirat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67888,8 +68064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Very well.  The plank is yours.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wyśmienicie. Trampolina jest twoja.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131726Z">
+        <seg>Wyśmienicie. Trampolina jest pana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68008,8 +68184,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Voila!  A puddle o' glue!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Voila! Klejona krowa!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125849Z">
+        <seg>Voila! Kałuża kleju!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68168,8 +68344,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Waitaminute...Hellbeard the Unrepentant died over 80 years ago!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chwilunia...Hellbeard Nieskruszony umarł 80 lat temu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113813Z">
+        <seg>Chwilunia... Hellbeard Nieskruszony zmarł ponad 80 lat temu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68616,8 +68792,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We move on to the tiebreaker round.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Teraz będzie dogrywka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131242Z">
+        <seg>Będziemy mieli dogrywkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68640,8 +68816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We prefer not to compete with independent businesses.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jednak wolimy nie rywalizować z konkurencją.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210759Z">
+        <seg>Wolimy nie konkurować z niezależnymi firmami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68696,8 +68872,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We wouldn't want to compete with the other stores in the area.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie chcielibyśmy rywalizować z innymi sieciami na wyspie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111722Z">
+        <seg>Nie chcielibyśmy konkurować z innymi sklepami w okolicy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68760,8 +68936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We'll just see about that, dive monkey!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zaraz się przekonamy, małpo głębinowa!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131657Z">
+        <seg>Zaraz się przekonamy, nurkująca małpo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -69032,8 +69208,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Welcome to Jambalaya Island™, home of swashbuckling pirates and spooooky voodoo curses!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Witam na Wyspie Jambalaya™, domu prawdziwych piratów oraz tajemniczych voodoo klątw!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120458Z">
+        <seg>Witam na Wyspie Jambalaya™, domu pirackich zawadiaków oraz upiornych voodoo klątw!</seg>
       </tuv>
     </tu>
     <tu>
@@ -69048,8 +69224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Welcome to PLANET THREEPWOOD, the Piratiest Place on Earth!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Witajcie na PLANECIE THREEPWOOD, Najbardziej Pirackim Miejscu na Świecie!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T204737Z">
+        <seg>Witaj na PLANECIE THREEPWOOD, Najpiraczniejszym Miejscu na Ziemi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -69160,8 +69336,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well done, young one.  By tying de Pollo, you've earned the right to face him in another tiebreaker round.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bardzo dobrze, młodzieńcze. Remisując z De Pollo, wygrałeś prawo do kolejnej dogrywki.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131840Z">
+        <seg>Nieźle, młodzieńcze. Remisując z De Pollo, zyskałeś prawo do zmierzenia się z nim kolejnej dogrywce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69248,8 +69424,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well played, Mister Threepwood.  Feel free to challenge me again in a few years, after you've acquired some skills.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobrze zagrane, panie Threepwood.  Nie wahaj się wyzwać mnie ponownie za parę lat, jak się choć trochę podszkolisz.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140953Z">
+        <seg>Dobrze zagrane, panie Threepwood. Chętnie się z panem zmierzę za parę lat, jak się pan trochę podszkoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69744,8 +69920,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, THAT was a miserable journey.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240107T103808Z">
-        <seg>Łał, to był szalony rejs.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120354Z">
+        <seg>Ależ to był nędzny rejs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69784,8 +69960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, alright, but don't make any sudden moves.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cóż, dobrze, ale nie rób żadnych gwałtownych ruchów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T133403Z">
+        <seg>No dobrze, ale nie rób za gwałtownych ruchów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70040,16 +70216,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, if it isn't the bucking buccaneer!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To się nazywa mechaniczny byk morski!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T122316Z">
+        <seg>To dopiero zawadiacki zawadiaka!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Well, if there aren't any puppets, then why are you in a puppet theatre?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cóż, skoro nie ma tu żadnych kukiełek, to dlaczego jesteś w teatrze kukiełkowym?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202510Z">
+        <seg>Cóż, skoro nie ma tu lalek, to dlaczego jesteś w teatrze lalek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -70777,8 +70953,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Welllll, alright.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cóż, no doooobrze.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T201301Z">
+        <seg>No to dobrze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70897,8 +71073,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What Marco doesn't know is that we've replaced his regular Baby Seal Oil with StarBuccaneers™ Shmear Whiz.  Let's watch.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231206T125838Z">
-        <seg>Marco nie wie, że zastąpiliśmy jego zwykłą Dziecięcą Foczą Oliwkę podkładając CudoKrem™ ze StarBukaniera™. Zobaczmy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133256Z">
+        <seg>Marco nie wie, że zastąpiłem jego zwykłą Dziecięcą Foczą Oliwkę podkładając CudoKrem™ ze StarBukaniera™. Zobaczmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70969,8 +71145,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What a rip-off.  I could get any of these things for a tenth of the price back on Męlée Island™!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale oszuści. Na Wyspie Szpady™ dostanę dokładnie to samo tylko dziesięć razy taniej!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182050Z">
+        <seg>Co za zdzierstwo. Mógłbym dostać każdą z tych rzeczy za jedną dziesiątą ceny na Wyspie Szpady™!</seg>
       </tuv>
     </tu>
     <tu>
@@ -71089,8 +71265,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What are the hip pirates drinking?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co modni piraci lubią pić?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114117Z">
+        <seg>Co piją dziś piraci na czasie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -71161,8 +71337,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What are you guys talking about? This is a perfectly normal pirate town...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co wy gadacie? To najzwyklejsze miasto pełne nieustraszonych piratów...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T120840Z">
+        <seg>Co wy gadacie? To najzwyklejsze pirackie miasteczko...</seg>
       </tuv>
     </tu>
     <tu>
@@ -71289,8 +71465,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What do they do in their spare time?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No a co oni robią w wolnym czasie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104255Z">
+        <seg>Co oni robią w wolnym czasie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -71609,8 +71785,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What happens now?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co teraz?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131227Z">
+        <seg>To co teraz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72297,8 +72473,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What's it worth to ya?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ile to jest dla ciebie warte?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141749Z">
+        <seg>A ile jest dla ciebie warta?</seg>
       </tuv>
     </tu>
     <tu>
@@ -72441,8 +72617,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What's the world coming to?!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co się dzieje z tym światem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T190046Z">
+        <seg>Dokąd ten świat zmierza?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -72777,16 +72953,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Whatever you say, sir.  What else can I do for you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak pan chce. Co mogę jeszcze dla ciebie zrobić?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T111816Z">
+        <seg>Jak pan uważa. Co mogę jeszcze dla pana zrobić?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Whatever you say.  Let me know if you change your mind.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie ma problemu. Powiedz mi, jak zmienisz zdanie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102809Z">
+        <seg>Nie ma problemu. Powiedz, jak zmienisz zdanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73001,8 +73177,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Whenever he sees three or more pirates talking, he assumes they're plotting some sort of mischief...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kiedy tylko widzi trzech lub więcej gadających piratów, zaraz myśli, że planują jakieś intrygi...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200802Z">
+        <seg>Ilekroć widzi trzech lub więcej rozmawiających piratów, od razu zakłada, że knują jakąś intrygę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -73129,8 +73305,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Where do the REAL pirates go when they're looking for buccaneer-styled family dining at a reasonable price?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gdzie każdy PRAWDZIWY pirat idzie, kiedy nie ma kto mu gotować i ma mało pieniędzy w kieszeni?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205020Z">
+        <seg>Gdzie udają się prawdziwi piraci, gdy szukają rodzinnego posiłku w korsarskim stylu za rozsądną cenę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73577,8 +73753,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Who said that?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kto to powiedział?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140804Z">
+        <seg>Kto to był?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73809,16 +73985,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Whoa, dudes, this is unprecedented!  The newcomer has TIED Marco de Pollo!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Rany, ludziska, to nie do pomyślenia! Debiutant zremisował z Marco De Pollo!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131222Z">
+        <seg>Ło, ziomy, to bezprecedensowe! Debiutant ZREMISOWAŁ z Marco De Pollo!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Whoa, flashback, man!  Marco de Pollo wins again!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łał, wspomnienia wracają!  Marco De Pollo znowu wygrał!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131042Z">
+        <seg>Ło, to samo, ziom! Marco De Pollo znowu wygrywa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -73841,8 +74017,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Whoa, that was close, man.  But the winner is still...Marco de Pollo!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łał, byłeś blisko, stary.  Ale mistrzem jest nadal...Marco De Pollo!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T140704Z">
+        <seg>Ło, stary, byłeś blisko. Ale mistrzem pozostaje... Marco De Pollo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -73905,8 +74081,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Whoah, man, it's really uncool to try an' bribe a diving judge!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hej, facet. Nie wolno przekupywać sędziów!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T142232Z">
+        <seg>Ło, stary. Niefajnie jest jak próbujesz przekupić sędziego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -73961,8 +74137,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why are all these coffee house clerks always prepubescent street urchins?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dlaczego ci pracownicy barów wyglądają zawsze na niedojrzałe urwisy?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T180602Z">
+        <seg>Dlaczego wszyscy pracownicy kawiarni zawsze są niedojrzałymi urwisami?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74081,8 +74257,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why can I only talk to one of you at a time?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dlaczego mogę rozmawiać tylko z jednym z was na raz?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T200558Z">
+        <seg>Dlaczego mogę gadać tylko z jednym z was na raz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74145,8 +74321,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why do your puppets look like me and LeChuck?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dlaczego twoje kukiełki wyglądają jak ja i LeChuck?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201951Z">
+        <seg>Dlaczego twoje lalki wyglądają jak ja i LeChuck?</seg>
       </tuv>
     </tu>
     <tu>
@@ -74457,8 +74633,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why, PLANET THREEPWOOD, of course!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Do Planety Threepwood!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240217T205037Z">
+        <seg>Do PLANETY THREEPWOOD, rzecz jasna!</seg>
       </tuv>
     </tu>
     <tu>
@@ -74537,8 +74713,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Why, yes.  You'd be surprised how many washouts we get.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No tak. Ale nie wiesz jak często coś się knoci.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115705Z">
+        <seg>No tak. Zdziwiłbyś się, jak często te opcje kończą się klapą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74865,8 +75041,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Woo... Whoa!  Whoooa!  Hooawa!  Oof!  ... ow...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Woo ... Whoa! Whooa! Hooawa! Uff &lt;spada&gt; ... au ...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124444Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -74881,8 +75057,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>WooHOO!  Ride'em seacowboy!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>WooHOO! Kowboj morski!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125002Z">
+        <seg>Dajesz kowboju!</seg>
       </tuv>
     </tu>
     <tu>
@@ -74993,8 +75169,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Would you like one?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chcesz taką?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095534Z">
+        <seg>Chciałbyś taką?</seg>
       </tuv>
     </tu>
     <tu>
@@ -75153,8 +75329,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Wow, seems a little gaudy to have a sign that big INSIDE the store.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240107T103812Z">
-        <seg>Łał.  Czy to nie przesada trzymać taki wielki znak wewnątrz sklepu?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182429Z">
+        <seg>Łał, wydaje się trochę krzykliwe mieć tak duży znak wewnątrz sklepu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75241,8 +75417,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Wow, you ARE a basket case, aren't you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łał, JESTEŚ kłębkiem nerwów, prawda?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202044Z">
+        <seg>Łał, naprawdę jesteś wrakiem, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -75473,8 +75649,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>YOU DID IT!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>ZROBIŁEŚ TO!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125113Z">
+        <seg>UDAŁO SIĘ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75513,8 +75689,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ya got it all wrong, kid!  She's just a friend of the family.  Really!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wszystko pokręciłeś dzieciaku! To tylko przyjaciółka domu.  Naprawdę!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141605Z">
+        <seg>Wszystko pokręciłeś! To stara przyjaciółka rodziny. Naprawdę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -75555,6 +75731,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl">
         <seg>Nigdy nie wiesz, na co trafisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yaaaaaa-hoooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124808Z" creationid="damia" creationdate="20240220T124808Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -75849,8 +76033,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yeah, so?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No i co z tego?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T141405Z">
+        <seg>No i co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76007,6 +76191,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yeeeeaaaaagh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240220T124840Z" creationid="damia" creationdate="20240220T124840Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yeeps!</seg>
       </tuv>
       <tuv lang="pl" changeid="Pytkowscy" changedate="20130709T115958Z">
@@ -76019,6 +76211,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231031T192315Z">
         <seg>Zwymyślaj:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeoooowch!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240225T121949Z" creationid="damia" creationdate="20240225T121949Z">
+        <seg>Yeoooowch!</seg>
       </tuv>
     </tu>
     <tu>
@@ -76249,8 +76449,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes, but you'd still be on Męlée Island™.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak, ale teraz jesteś poza Wyspą Szpady™.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T182119Z">
+        <seg>Tak, ale dalej byłbyś na Wyspie Szpady™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76321,8 +76521,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes, sir.  Very good, sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak.  Świetnym.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T202059Z">
+        <seg>Tak. Najlepszym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76449,8 +76649,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes.  To help promote the zany, swashbuckling atmosphere of Planet Threepwood,</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak. By utrzymać pocieszną i zawadiacka atmosferę w Planecie,</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095433Z">
+        <seg>Tak, aby pomóc w promowaniu zawadiackiej atmosfery w Planecie Threepwood,</seg>
       </tuv>
     </tu>
     <tu>
@@ -76497,8 +76697,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes?  Would you like a free pirate caricature?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak? Skusiłby się pan na darmową karykaturę pirata?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095347Z">
+        <seg>Tak? Skusiłbyś się na darmową karykaturę pirata?</seg>
       </tuv>
     </tu>
     <tu>
@@ -76745,8 +76945,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You betcha, sir.  I'll take care of that for you.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie ma sprawy. Zajmę się tym.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T114409Z">
+        <seg>Oczywiście. Zajmę się tym za pana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77073,8 +77273,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You have shown that you can mimic my moves, Mister Threepwood, but I doubt that you can concoct a dive that I cannot perform!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Udowodniłeś, że potrafisz kopiować moje ruchy, panie Threepwood, ale wątpię byś był w stanie wymyślić coś, czego nie będę umiał powtórzyć!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131624Z">
+        <seg>Pokazał pan, że potrafi pan kopiować moje ruchy, panie Threepwood, ale wątpię, by był pan w stanie obmyślić skok, którego ja nie wykonam!</seg>
       </tuv>
     </tu>
     <tu>
@@ -77249,24 +77449,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You know what I can't figure about pirates?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiesz po czym ja poznaje prawdziwego pirata?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T104238Z">
+        <seg>Wiesz, czego nie mogę rozgryźć w piratach?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>You know what I like about pirates?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiesz co mi się podoba w pirackości?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T095553Z">
+        <seg>Wiesz, co mi się podoba w piratach?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>You know what else I like about pirates?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiesz co mi się jeszcze podoba w piratach?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T102816Z">
+        <seg>Wiesz, co mi się jeszcze podoba w piratach?</seg>
       </tuv>
     </tu>
     <tu>
@@ -77585,8 +77785,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You must be mistaken, sir.  Nnnh... I wouldn't harm a fly.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Musiał się pan pomylić.  Nnnh... Nie skrzywdziłbym muchy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201808Z">
+        <seg>Musiał się pan pomylić. Nie skrzywdziłbym muchy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77601,8 +77801,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You must be very proud.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No to musisz być dumny.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240225T115322Z">
+        <seg>Musisz być dumny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77721,8 +77921,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You really should have stopped while you were behind, Mister Threepwood.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powinieneś się pan wycofać póki jeszcze trzymał się pan w tyle, panie Threepwood.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T133412Z">
+        <seg>Trzeba było się zatrzymać, gdy był pan w tyle, panie Threepwood.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77985,8 +78185,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You wish.  In this round of dives, YOU will go first, and De Pollo will try to match your dive.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chciałbyś.  W tym wypadku, TY zaczynasz, a De Pollo będzie próbował wyrównać twój skok.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T131352Z">
+        <seg> Chciałbyś. W tej rundzie ty skaczesz pierwszy a De Pollo musiał odpowiedzieć na twój skok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78009,8 +78209,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You won't mention the Ultimate Insult again, will you?  He's very skittish about that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wspomnisz znowu o Talizmanie Upokorzenia, dobrze? Boi się tego tematu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240222T201231Z">
+        <seg>Nie wspomnisz mu więcej o Talizmanie Upokorzenia, prawda? Ten temat go płoszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78169,8 +78369,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You'll have to go over to the micro-groggery for that, sir.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Możesz spróbować w naszej mikrogrogerii.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T210945Z">
+        <seg>Zapewne dostaniesz go w mikrogrogerii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78537,8 +78737,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You're remarkably level-headed for a guy named Hellbeard.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jesteś niezwykle zrównoważony, jak na faceta imieniem Hellbeard.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240223T201412Z">
+        <seg>Jesteś niezwykle opanowany, jak na faceta o imieniu Hellbeard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78721,8 +78921,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You've got a lot of attitude for a sock.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Masz spory dystans do siebie, jak na skarpetę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240221T113448Z">
+        <seg>Masz niezły charakterek jak na skarpetę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78753,8 +78953,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You've joined an elite fraternity, my friend.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dołączyłeś do naszej elity, mój kolego.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T125231Z">
+        <seg>Dołączyłeś do elitarnego bractwa, mój drogi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78825,8 +79025,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Your arrogance leaves me speechless, Mister Threepwood.  Go on, dive, if that will make you happy.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pańska arogancja odbiera mi mowę, panie Threepwood. Skacz, jeśli cię to uszczęśliwi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132843Z">
+        <seg>Pańska arogancja odbiera mi mowę, panie Threepwood. Niech pan skacze, jak to pana uszczęśliwi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79001,8 +79201,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Your skills are improving, but you will never defeat me in a tiebreaker.  Go ahead, prove me wrong.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie zazdroszczę cięgów jakie zaraz zbierzesz.  Niemniej, trampolina jest twoja.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132325Z">
+        <seg>Dużo się nauczyłeś, ale nigdy nie uda ci się mnie pokonać w dogrywkach. Idź i pokaż, że się mylę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79529,8 +79729,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>and yet you persist in dragging me through this charade.  Go, make your pitiful dive.  I no longer care.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To jest coraz bardziej nużące, panie Threepwood.  Wiesz, że nie możesz pokonać mnie w dogrywce, a mimo to nieustannie zmuszasz mnie do udziału w tej farsie. Idź i oddaj swój żałosny skok.  Już mi nie zależy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T132809Z">
+        <seg>a mimo to uparcie ciągnie mnie pan przez tę farsę. Proszę oddać swój słaby skok. Wcale mi nie zależy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81081,8 +81281,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>dunce cap</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>czapka głąba</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T130711Z">
+        <seg>ośla czapka</seg>
       </tuv>
     </tu>
     <tu>
@@ -82641,8 +82841,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>merchandise</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T103447Z">
-        <seg>towary</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181616Z">
+        <seg>gadżety</seg>
       </tuv>
     </tu>
     <tu>
@@ -84321,8 +84521,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>ship decoration</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T103436Z">
-        <seg>dekoracje statku</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240220T181541Z">
+        <seg>statek dekoracyjny</seg>
       </tuv>
     </tu>
     <tu>

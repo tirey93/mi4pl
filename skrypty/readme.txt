@@ -5,8 +5,8 @@ od guymhi001(1702) do meamhi082(1849) - retranslacja tirey93, 2024
 od guytri001(1850) do guyluc069(2822) - retranslacja tirey93, 2023
 od guygpt001(2823) do peghoj033(4046) - retranslacja tirey93, 2023
 od guylua001(4047) do daimdo032(4420) - retranslacja tirey93, 2024
-od murgpt001(4421) do guystb105(4908) - planowana korekta 2024, tirey93
-od guypla028(4909) do parkab063(5793) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od murgpt001(4421) do guystb105(4908) - retranslacja tirey93, 2024
+od guypla028(4909) do parkab063(5793) - planowana korekta tirey93, 2024
 od daishi015(5794) do navscu064(6095) - retranslacja tirey93, 2023
 od navluc001(6096) do guymot067(6880) - retranslacja tirey93, 2024
 od guyall155(6881) do jojtow006(8029) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93

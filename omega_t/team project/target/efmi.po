@@ -18296,7 +18296,7 @@ msgstr "Panie i panowie..."
 
 msgctxt "trppla005"
 msgid "The NEW All-World Plank Diving Champion is, uh..."
-msgstr "NOWYM Mistrzem Świata w skokach z do wody jest..."
+msgstr "NOWYM Mistrzem Świata w skokach do wody jest..."
 
 msgctxt "eddpla005"
 msgid "Guybrush Threepwood!!!"
@@ -19636,15 +19636,15 @@ msgstr "Cześć."
 
 msgctxt "kahpla007"
 msgid "Aloha, Grasshopper."
-msgstr "Aloha, Młody."
+msgstr "Aloha, skoczniuś."
 
 msgctxt "trppla007"
 msgid "Duuude."
 msgstr "Ziooom!"
 
 msgctxt "eddpla017"
-msgid "Whatever."
-msgstr "Jak chcesz."
+msgid "Whatever.2"
+msgstr "Wszystko jedno."
 
 msgctxt "guypla029"
 msgid "Eh, excuse me."
@@ -19652,7 +19652,7 @@ msgstr "Przepraszam."
 
 msgctxt "trppla008"
 msgid "Hey, little dude.  What's up?"
-msgstr "Hej, ziom. Co tam?"
+msgstr "Hej, ziomuś. Co tam?"
 
 msgctxt "guypla030"
 msgid "What's going on around here?"
@@ -19660,23 +19660,23 @@ msgstr "A co tutaj chodzi?"
 
 msgctxt "kahpla008"
 msgid "We are the judges for Jambalaya's All-World Diving Contest."
-msgstr "Jesteśmy sędziami Konkursu Skoków do wody Wyspy Jambalaya™."
+msgstr "Jesteśmy sędziami konkursu skoków do wody Wyspy Jambalaya™."
 
 msgctxt "eddpla018"
 msgid "Actually, it's more like a free-for-all than a contest."
-msgstr "Choć dzisiaj bardziej przypomina cyrk niż konkurs."
+msgstr "Choć bardziej przypomina to wolną amerykankę niż konkurs."
 
 msgctxt "trppla009"
 msgid "Dude, quit projecting your negative vibes, man."
-msgstr "Ziom, nie wysyłaj do mnie negatywnych wibracji."
+msgstr "Ziom, nie wysyłaj do nas negatywnych wibracji."
 
 msgctxt "guypla031"
 msgid "I'd like to take a crack at winning that diving trophy."
-msgstr "Ja też bym chciał wziąć udział w takim konkursie."
+msgstr "Chciałbym spróbować wygrać tutejsze trofeum."
 
 msgctxt "eddpla019"
 msgid "You and dozens of other gold-hunting wannabes."
-msgstr "Tak jak wielu innych beznadziejnych piratów."
+msgstr "Tak jak dziesiątki innych poszukiwaczy złota."
 
 msgctxt "kahpla009"
 msgid "If you wish to dive, you must be certified first."
@@ -19688,43 +19688,43 @@ msgstr "Czemu?"
 
 msgctxt "trppla010"
 msgid "We could leave ourselves open to most grievous lawsuits if we let physically uncool people try to dive."
-msgstr "Wylali by nas za zbyt dużo wypadków śmiertelnych gdybyśmy puszczali każdego."
+msgstr "Naraziłoby nas to na poważne procesy sądowe gdybyśmy pozwalali skakać każdemu, kto się tu przypałęta."
 
 msgctxt "kahpla010"
 msgid "Now if you'll just step behind the table..."
-msgstr "Jeśli tylko staniesz za stołem..."
+msgstr "Stań tylko tam za stołem..."
 
 msgctxt "guypla033"
 msgid "There won't be any word problems, will there?"
-msgstr "I już nie będzie żadnych problemów?"
+msgstr "Nie będzie chyba żadnych kartkówek, nie?"
 
 msgctxt "guypla034"
 msgid "H... Hey, w... what're you doing with that?"
-msgstr "Hej, co ty z tym robisz?"
+msgstr "Hej, co ty mi z tym robisz?"
 
 msgctxt "trppla011"
 msgid "Please turn to the right, dude."
-msgstr "Weź to odłóż."
+msgstr "Skręć w prawo, ziom."
 
 msgctxt "guypla035"
 msgid "You're not gonna put that there, are you?"
-msgstr "Ale nie położysz już tego tam, prawda?"
+msgstr "Chyba nie chcecie tam tego włożyć, prawda?"
 
 msgctxt "kahpla011"
 msgid "Now then, let me know when this begins to hurt..."
-msgstr "Ok, więc powiedz jak będzie boleć..."
+msgstr "A teraz powiedz, jak zacznie coś boleć..."
 
 msgctxt "guypla036"
 msgid "Yeoooowch!"
-msgstr "Yeoooowch!"
+msgstr " "
 
 msgctxt "guypla037"
 msgid "...and another thing, I think the staple gun was completely uncalled for!"
-msgstr "...to kolejna rzecz, która boli bardziej od zszywacza na palcu."
+msgstr "A poza tym uważam, że pistolet na zszywki był całkowicie nie na miejscu!"
 
 msgctxt "kahpla012"
 msgid "Be that as it may, you have passed the physical."
-msgstr "Wydaje mi się, że zdał egzamin."
+msgstr "W każdym razie przeszedłeś sprawdzian fizyczny."
 
 msgctxt "guypla038"
 msgid "Really?"
@@ -19732,11 +19732,11 @@ msgstr "Serio?"
 
 msgctxt "eddpla020"
 msgid "Don't act so shocked; you'd have to be a palsy-ridden grandmother to fail."
-msgstr "Ale nie bądź zszokowany. Musisz być naprawdę słaby w skokach."
+msgstr "Nie dziw się tak. Musiałbyś być babcią z porażeniem żeby go nie zdać."
 
 msgctxt "trppla012"
 msgid "Here's your certificate; feel free to challenge our champion diver whenever you wanna dive."
-msgstr "Masz certyfikat. Możesz się czuć zawodnikiem turnieju, kiedy tylko chcesz zacząć."
+msgstr "Masz certyfikat. Teraz możesz rzucać wyzwanie naszemu czempionowi, kiedy tylko chcesz."
 
 msgctxt "guypla039"
 msgid "Nice trophy."
@@ -19744,11 +19744,11 @@ msgstr "Fajne trofeum."
 
 msgctxt "trppla013"
 msgid "Haha.  Isn't it a trip?"
-msgstr "Niezłe, nie?"
+msgstr "Haha, niezłe co?"
 
 msgctxt "kahpla013"
 msgid "It is awarded to the winner of the All-World Plank Diving Contest."
-msgstr "To nagroda za pierwsze miejsce w naszym konkursie skoków."
+msgstr "To nagroda za pierwsze miejsce w konkursie skoków do wody."
 
 msgctxt "guypla040"
 msgid "Can I take a closer look at that trophy?"
@@ -19756,7 +19756,7 @@ msgstr "Mogę się mu trochę lepiej przyjrzeć?"
 
 msgctxt "eddpla021"
 msgid "Are you kidding?"
-msgstr "Żarty sobie stroisz?"
+msgstr "Żartujesz?"
 
 msgctxt "kahpla014"
 msgid "Ooh!  Only the winners of the All-World Plank Diving Contest are allowed to touch the trophy."
@@ -19776,15 +19776,15 @@ msgstr "Albo rodzaj trampoliny?"
 
 msgctxt "guypla042"
 msgid "No, it's an ancient voodoo talisman of indescribably horrible power!"
-msgstr "Nie, to starożytny talizman voodoo o piekielnie silnej mocy."
+msgstr "Nie, to starożytny talizman voodoo o nieopisanie piekielnej mocy!"
 
 msgctxt "eddpla022"
 msgid "Look, junior, we're diving judges.  We know as much about voodoo as you do about astrophysics."
-msgstr "Ale my jesteśmy sędziami pływackimi. Wiemy tyle samo o voodoo talizmanach co ty wiesz o astrofizyce."
+msgstr "Słuchaj, młody. Jesteśmy sędziami. O voodoo talizmanach wiemy mniej więcej tyle co o astrofizyce."
 
 msgctxt "guypla043"
 msgid "Are you guys sure you can't help me find the Ultimate Insult?"
-msgstr "Na pewno nie wiecie jak mi pomóc w poszukiwaniach?"
+msgstr "Na pewno nie wiecie jak mi pomóc w poszukiwaniach Talizmanu?"
 
 msgctxt "eddpla023"
 msgid "Nope."
@@ -19792,7 +19792,7 @@ msgstr "Nie."
 
 msgctxt "trppla015"
 msgid "No way, dude."
-msgstr "Nie wiem, ziom."
+msgstr "Bez szans, ziom."
 
 msgctxt "kahpla016"
 msgid "No."
@@ -19800,11 +19800,11 @@ msgstr "Nie."
 
 msgctxt "guypla044"
 msgid "I'm off."
-msgstr "No to cześć."
+msgstr "Nara."
 
 msgctxt "kahpla017"
 msgid "Aloha."
-msgstr ""
+msgstr "Aloha."
 
 msgctxt "trppla016"
 msgid "See ya, dude."
@@ -19820,7 +19820,7 @@ msgstr "Co?"
 
 msgctxt "guypla046"
 msgid "What was wrong with my last dive?"
-msgstr "Co nie tak z ostatnim skokiem?"
+msgstr "Co było nie tak z ostatnim skokiem?"
 
 msgctxt "eddpla025"
 msgid "It SUCKED."
@@ -19836,7 +19836,7 @@ msgstr "Nie."
 
 msgctxt "eddpla027"
 msgid "Nothing, ya craven blackmailer."
-msgstr "Nic nie powiem, szantażysto!"
+msgstr "Nic, tchórzliwy szantażysto!"
 
 msgctxt "guypla048"
 msgid "I'd like to dive now."
@@ -19844,7 +19844,7 @@ msgstr "Chciałbym skoczyć."
 
 msgctxt "eddpla028"
 msgid "Tell someone who cares, like Marco de Pollo over there."
-msgstr "Pogadaj o tym może z Marco De Pollo?"
+msgstr "Zaproponuj komu innemu. Na przykład Marco de Pollo."
 
 msgctxt "guypla049"
 msgid "I'm looking for the Ultimate Insult."
@@ -19852,11 +19852,11 @@ msgstr "Szukam Talizmanu Upokorzenia."
 
 msgctxt "eddpla029"
 msgid "You've obviously mistaken me for someone who gives a farthing."
-msgstr "Pomyliłeś mnie z kimś kto daje dobre rady."
+msgstr "Najwyraźniej pomyliłeś mnie z kimś, kogo to obchodzi."
 
 msgctxt "guypla050"
 msgid "Why are you giving me such low scores?"
-msgstr "A czemu miałem tak mało punktów?"
+msgstr "Czemu dostałem tak mało punktów?"
 
 msgctxt "eddpla030"
 msgid "Look, kid, it's nothing personal."
@@ -19864,39 +19864,39 @@ msgstr "To nic osobistego."
 
 msgctxt "eddpla031"
 msgid "It's just that I've got an expensive red-headed wife, two expensive red-headed kids, and an expensive red-headed dog to feed, ya follow?"
-msgstr "Może dlatego,że mam na utrzymaniu rudą żonę, dwa rude bliźniaki i drogiego rudego psa do wykarmienia, łapiesz?"
+msgstr "Po prostu mam kosztowną rudą żonę, dwójkę kosztownych rudych dzieci i kosztownego rudego psa do wykarmienia, nadążasz?"
 
 msgctxt "guypla051"
 msgid "Not really."
-msgstr "Nie zupełnie."
+msgstr "Niezupełnie."
 
 msgctxt "eddpla032"
 msgid "Then let me spell it out for ya:"
-msgstr "Może ci wytłumaczę tak:"
+msgstr "Wyrażę się więc jaśniej:"
 
 msgctxt "eddpla033"
 msgid "Mister Mandrill pays me a LOT of money to make sure that Mister de Pollo ALWAYS wins."
-msgstr "Pan Mandrill płaci mi DUŻO więcej pieniędzy, gdy jest pewny że De Pollo ZAWSZE wygrywa."
+msgstr "Pan Mandrill płaci mi DUŻO pieniędzy, by upewnić się, że pan de Pollo ZAWSZE wygrywa."
 
 msgctxt "guypla052"
 msgid "Whatever Mandrill's paying you to fix this contest, I'll double it!"
-msgstr "Nie wiem ile Mandrill ci płaci, ale ja to przebije!"
+msgstr "Ile by ci Mandrill nie płacił, ja to podwoję!"
 
 msgctxt "eddpla034"
 msgid "I appreciate the sentiment, junior,"
-msgstr "Chyba nie do końca się rozumiemy,"
+msgstr "Doceniam twój gest, młody."
 
 msgctxt "eddpla035"
 msgid "but it's obvious that you don't have two shillings to rub together,"
-msgstr "jednak jestem pewny, że nie masz dość dużo kasy,"
+msgstr "Ale od razu widać, że nie masz ni szylinga przy duszy."
 
 msgctxt "eddpla036"
 msgid "much less the kind of dough it takes to keep my red-headed wife living in the manner to which she's accustomed."
-msgstr "a na pewno nie tyle by zaspokoić potrzeby mojej żony."
+msgstr "A tym bardziej dość szmalu, by utrzymać moją rudą żonę w bogactwie, do którego jest przyzwyczajona."
 
 msgctxt "guypla053"
 msgid "Think I'll leave you to your grouchiness."
-msgstr "Pozostawię cię zrzędzącego."
+msgstr "Pozostawię cię ze swoim zrzędzeniem."
 
 msgctxt "eddpla037"
 msgid "Whatever."
@@ -19908,15 +19908,15 @@ msgstr "Przepraszam."
 
 msgctxt "kahpla018"
 msgid "Yes, Grasshopper?"
-msgstr "Słucham?"
+msgstr "Tak, skoczniusiu?"
 
 msgctxt "guypla055"
 msgid "One of your judges is taking bribes!"
-msgstr "Jeden z sędziów to łapówkarz!"
+msgstr "Jeden z sędziów bierze w łapę!"
 
 msgctxt "kahpla019"
 msgid "Ooh, that is an exceptionally grave charge, young mackerel."
-msgstr "To są poważne oskarżenia, młody człowieku."
+msgstr "To wyjątkowo poważne zarzuty, młoda makrelo."
 
 msgctxt "kahpla020"
 msgid "Do you have any proof?"
@@ -19944,7 +19944,7 @@ msgstr "Na twoim miejscu, następnym razem uważałbym na oskarżenia."
 
 msgctxt "guypla057"
 msgid "What was wrong with my last dive?"
-msgstr "Co nie tak z ostatnim skokiem?"
+msgstr "Co było nie tak z ostatnim skokiem?"
 
 msgctxt "kahpla023"
 msgid "Not a thing, my young friend."
@@ -20040,7 +20040,7 @@ msgstr "Ja się znam tylko na nurkowaniu, chłopcze."
 
 msgctxt "guypla067"
 msgid "Aloha."
-msgstr ""
+msgstr "Aloha."
 
 msgctxt "kahpla037"
 msgid "May your life be big, and your splashes be small."
@@ -20140,7 +20140,7 @@ msgstr "No! Widzę, że łapiesz."
 
 msgctxt "guypla077"
 msgid "What was wrong with my last dive?"
-msgstr "Co nie tak z ostatnim skokiem?"
+msgstr "Co było nie tak z ostatnim skokiem?"
 
 msgctxt "trppla032"
 msgid "Not a thing, broham.  It was primo!"
@@ -21456,7 +21456,7 @@ msgstr "Wiesz co, ta opowieść nie była przepełniona \"złem i okrutnością\
 
 msgctxt "murplt017"
 msgid "Are you kidding?"
-msgstr "Żarty sobie stroisz?"
+msgstr "Żartujesz?"
 
 msgctxt "murplt018"
 msgid "It had LeChuck, Ozzie, and yours truly...how much more evil can you get?"
@@ -34760,7 +34760,7 @@ msgstr "A co to zmieni?"
 
 msgctxt "guysta033"
 msgid "Not really."
-msgstr "Nie zupełnie."
+msgstr "Niezupełnie."
 
 msgctxt "guysta034"
 msgid "It's a temporarily beautiful beach."

@@ -3256,7 +3256,7 @@ msgstr "Mów."
 
 msgctxt "guyscu060"
 msgid "I've gotta go."
-msgstr "Muszę już lecieć."
+msgstr "Muszę lecieć."
 
 msgctxt "barscu033"
 msgid "Right well, grog'll do that."
@@ -11432,7 +11432,7 @@ msgstr "Hmmm. Nie, nic mi nie przychodzi do głowy."
 
 msgctxt "guygpt018"
 msgid "One of the pieces looks like a bronze pirate hat."
-msgstr "Jedna z części wygląda jak czapka piracka z brązu."
+msgstr "Jedna z części wygląda jak piracka czapka z brązu."
 
 msgctxt "mtygpt020"
 msgid "A bronze pirate hat?  Oh, that's interesting."
@@ -17372,7 +17372,7 @@ msgstr "No tak mi się skojarzyło z przewodnika."
 
 msgctxt "guystb026"
 msgid "One of the pieces looks like a bronze pirate hat."
-msgstr "Jedna z części wygląda jak czapka piracka z brązu."
+msgstr "Jedna z części wygląda jak piracka czapka z brązu."
 
 msgctxt "mblstb032"
 msgid "Hmmm."
@@ -18900,7 +18900,7 @@ msgstr "Nie ma szans, że cały życie tylko walczą, żeglują i chodzą na dzi
 
 msgctxt "guyplt020"
 msgid "I guess not."
-msgstr "Raczej nie."
+msgstr "Może nie."
 
 msgctxt "artplt025"
 msgid "Of course not!"
@@ -21224,35 +21224,35 @@ msgstr "Przypomniało mi się, że mam zaręczyny. Pa."
 
 msgctxt "guypla122"
 msgid "One of the pieces is a bronze hat."
-msgstr "Jeden element to czapka z brązu."
+msgstr "Jedna z części to czapka z brązu."
 
 msgctxt "macpla088"
 msgid "I never wear hats.  They might screw up the shape of my naturally streamlined head."
-msgstr "Nie noszę czapek. Mogą spieprzyć kształt mojej idealnie wyważonej głowy."
+msgstr "Nie noszę czapek. Mogłyby zepsuć kształt mojej naturalnie opływowej głowy."
 
 msgctxt "guypla123"
 msgid "One of the pieces is a silver monkey head."
-msgstr "Jedna część to srebrna małpia głowa."
+msgstr "Jedna z części to srebrna małpia głowa."
 
 msgctxt "macpla089"
 msgid "I'm sorry, but that doesn't ring a bell."
-msgstr "Sorry, ale nie wiem."
+msgstr "Niestety, nic mi nie świta."
 
 msgctxt "guypla124"
 msgid "One of the pieces is a golden man of some sort."
-msgstr "Jedna część to swojego rodzaju złoty człowiek."
+msgstr "Jedna z części to pewnego rodzaju złoty człowiek."
 
 msgctxt "macpla090"
 msgid "Hmm.  How peculiar.  The solid gold All-World Diving Trophy looks like a golden man of some sort."
-msgstr "Hmm. Dziwne.  Nasza nagroda konkursowa wygląda jak jakiś złoty człowiek."
+msgstr "Hmm. To dziwne. Trofeum najlepszego skoczka skoków do wody wygląda jak złoty człowiek."
 
 msgctxt "macpla091"
 msgid "It's over by the judges' table."
-msgstr "Masz go na biurku sędziowskim."
+msgstr "Stoi przy stoliku sędziowskim."
 
 msgctxt "guypla125"
 msgid "Perhaps you're not the best person to ask about the Ultimate Insult."
-msgstr "Być może nie jesteś idealną osobą do rozmowy o Talizmanie Upokorzenia."
+msgstr "Być może nie jesteś najlepszą osobą do rozmowy o Talizmanie Upokorzenia."
 
 msgctxt "macpla092"
 msgid "Perhaps not."
@@ -21260,23 +21260,23 @@ msgstr "Może i nie."
 
 msgctxt "guypla126"
 msgid "Are you kidding?  I LOVE stories rife with melancholy."
-msgstr "Żartujesz sobie? UWIELBIAM historie pełne melancholii."
+msgstr "Żartujesz? UWIELBIAM historie przepełnione melancholią."
 
 msgctxt "macpla093"
 msgid "It begins with my father, Count Francisco Alvarez de Pollo.  He was a man of peculiar moods and eccentricities."
-msgstr "Na przykład historia mojego ojca, Count Francisco Alvaraz de Pollo. Był człowiekiem o szczególnym temperamencie."
+msgstr "Zaczyna się od mojego ojca, hrabiego Francisco Alvareza de Pollo.  Był ekscentrykiem o osobliwych nastrojach."
 
 msgctxt "macpla094"
 msgid "In one of his so-called 'lighter' moments, he named his only son 'Marco,' much to the consternation of his wife and extended family."
-msgstr "W jednych z jego melancholijnych momentach nazwał jedynego syna \"Marco\", doprowadzając do konsternacji swoją żonę i dalszą rodzinę."
+msgstr "W jednym ze swoich tak zwanych \"słabszych\" momentów nazwał swojego jedynego syna „Marco”, ku konsternacji żony oraz dalszej rodziny."
 
 msgctxt "guypla127"
 msgid "Why the fuss?"
-msgstr "Aż tak zamieszał?"
+msgstr "Co ich trafiło?"
 
 msgctxt "macpla095"
 msgid "I take it you have never been in a public swimming pool."
-msgstr "Rozumiem. że nigdy nie byłeś na basenie publicznym."
+msgstr "Rozumiem, że nigdy nie byłeś na publicznym basenie."
 
 msgctxt "guypla128"
 msgid "Pirates don't have much use for 'em."
@@ -21284,15 +21284,15 @@ msgstr "Piraci raczej je omijają."
 
 msgctxt "macpla096"
 msgid "Ah, then allow me to elaborate.  At the tender age of six I was sent to my first swimming lesson."
-msgstr "Ah, więc mogę się rozgadać. W wieku sześciu la po raz pierwszy zabrano mnie na lekcję pływania."
+msgstr "Ach, a więc pozwól, że wyjaśnię. W wieku sześciu lat po raz pierwszy wysłano mnie na lekcję pływania."
 
 msgctxt "macpla097"
 msgid "Oh, how I happily splashed about, taking to the water like a worm to dirt."
-msgstr "Oh, jak dobrze jest czasami wziąć wodę w garść, pobawić się..."
+msgstr "Och, jak radośnie się popluskałem, wchodząc w wodę jak robak w ziemię."
 
 msgctxt "macpla098"
 msgid "Suddenly, someone shouted my name..."
-msgstr "Wiesz jak to jest, kiedy ktoś krzyczy twoje imię..."
+msgstr "Nagle, ktoś krzyczy me imię..."
 
 msgctxt "macpla099"
 msgid "Marcooo!"
@@ -21300,7 +21300,7 @@ msgstr ""
 
 msgctxt "macpla100"
 msgid "I turned to see who it was.  Before I could find who had called my name, everyone in the pool shouted in response..."
-msgstr "Odwracam się, patrzę kto mnie woła. Ale zanim odwrócę głowę, każdy na basenie odkrzykuje w odpowiedzi..."
+msgstr "Odwróciłem się, szukając, kto to był. Zanim się zorientowałem, kto mnie wołał, wszyscy w basenie krzyknęli w odpowiedzi..."
 
 msgctxt "macpla101"
 msgid "Polloooo!"
@@ -21308,39 +21308,39 @@ msgstr ""
 
 msgctxt "macpla102"
 msgid "I couldn't understand what was happening."
-msgstr "Nie mogłem zrozumieć, co się działo."
+msgstr "Nie mogłem zrozumieć, co się stało."
 
 msgctxt "macpla103"
 msgid "WHY were they shouting my name in such an annoying sing-song manner?"
-msgstr "CZEMU oni krzyczą me imię w tak śpiewny sposób?"
+msgstr "DLACZEGO wykrzykiwali moje imię w tak irytujący, śpiewny sposób?"
 
 msgctxt "macpla104"
 msgid "WHY were they closing their eyes to my obvious torment?"
-msgstr "CZEMU zamykali oczy ku mojemu zdziwieniu?"
+msgstr "DLACZEGO odwracali głowy na mą oczywistą udrękę?"
 
 msgctxt "macpla105"
 msgid "I...I tried to get them to stop, but they just kept chanting my name, over and over again..."
-msgstr "Ja...starałem się to zatrzymać, ale oni wciąż śpiewali moje nazwisko, i tak w kółko..."
+msgstr "Próbowałem ich powstrzymać, ale oni tylko skandowali moje imię, w kółko i w kółko..."
 
 msgctxt "macpla106"
 msgid "Unable to tolerate it any further, I climbed to the highest diving board in the pool, and cannonballed into the center of the taunting masses."
-msgstr "Nie mogłem już dłużej wytrzymać, wdrapałem się na najwyższą trampolinę na basenie, i z siłą pocisku zacząłem spadać w dół do wody."
+msgstr "Nie mogąc dłużej tego tolerować, wspiąłem się na najwyższą trampolinę na basenie i wystrzeliłem wprost w samo serce drwiących mas."
 
 msgctxt "macpla107"
 msgid "As I hit the water with a resounding ker-splash, the haunting chants of my classmates finally gave way to comforting screams of terror."
-msgstr "Kiedy uderzyłem o tafle z głośnym pluskiem, głośne okrzyki znajomych ustąpiły, zamieniając się w krzyk przerażenia."
+msgstr "Gdy donośnie chlupnąłem w wodę, nawiedzające śpiewy kolegów z ławki w końcu ustąpiły miejsca pocieszającym krzykom przerażenia."
 
 msgctxt "guypla129"
 msgid "What a horrible story."
-msgstr "Co za straszna historia."
+msgstr "Straszna historia."
 
 msgctxt "macpla108"
 msgid "Yes, but at least I gained a lucrative career out of my childhood trauma."
-msgstr "Tak, dzięki tej przygodzie moja kariera się zaczęła."
+msgstr "Tak, ale chociaż zyskałem lukratywną karierę dzięki traumie z dzieciństwa."
 
 msgctxt "guypla130"
 msgid "Maybe later."
-msgstr "Pogadamy jeszcze."
+msgstr "Może później."
 
 msgctxt "macpla109"
 msgid "As you wish."
@@ -21352,7 +21352,7 @@ msgstr "Murray?"
 
 msgctxt "guyplt030"
 msgid "Murray the Evil Skull?"
-msgstr "Murray Czaszka Zła?"
+msgstr "Murray, Zła Czaszka?"
 
 msgctxt "murplt001"
 msgid "Guybrush?"
@@ -21360,11 +21360,11 @@ msgstr "Guybrush?"
 
 msgctxt "murplt002"
 msgid "Guybrush the Mortal Pirate?"
-msgstr "Guybrush, Pirat Śmierci?"
+msgstr "Guybrush, Pirat Śmiertelnik?"
 
 msgctxt "guyplt031"
 msgid "Wow, it IS a small world, after all."
-msgstr "Łał, jaki ten świat mały, co nie?"
+msgstr "Łał, jaki ten świat jest mały."
 
 msgctxt "guyplt032"
 msgid "Hi, Murray."
@@ -21372,11 +21372,11 @@ msgstr "Hej, Murray."
 
 msgctxt "murplt003"
 msgid "Welcome to Planet Threepwood, the EVILEST theme restaurant on Earth!  Muahahahaha..."
-msgstr "Witam w Planecie Threepwood, najbardziej ZŁEJ restauracji na Świecie!"
+msgstr "Witam w Planecie Threepwood, najbardziej ZŁEJ restauracji na Ziemi!"
 
 msgctxt "ptwplt001"
 msgid "Knock it off, Murray!"
-msgstr "Zamknij się, Murray!"
+msgstr "Daj już spokój, Murray!"
 
 msgctxt "guyplt033"
 msgid "How did you Escape from Monkey Island™?"
@@ -21384,11 +21384,11 @@ msgstr "Jak udało ci się Uciec z Wyspy Małp™?"
 
 msgctxt "guyplt034"
 msgid "The last time I saw you, you were sitting on a shelf in LeChuck's Demonic Amusement Park."
-msgstr "Ostatnio jak cię widziałem to siedziałeś na półce w Zabawnie Demonicznym Parku LeChucka."
+msgstr "Ostatnim razem, gdy cię widziałem, siedziałeś na półce w Demonicznym Parku Rozrywki LeChucka."
 
 msgctxt "murplt004"
 msgid "Arrr, that's a tale of heart-stopping malice and evil."
-msgstr "Arr. To długa historia pełna zła i okrutności."
+msgstr "Arrr. To opowieść o zatrzymującej serce złośliwości i złu."
 
 msgctxt "guyplt035"
 msgid "Oh, naturally."
@@ -21396,55 +21396,55 @@ msgstr "Oczywiście."
 
 msgctxt "murplt005"
 msgid "It all started a few months ago."
-msgstr "Bo wszystko zaczęło się kilka miesięcy temu."
+msgstr "Wszystko zaczęło się kilka miesięcy temu."
 
 msgctxt "murplt006"
 msgid "As usual, I was sitting on my shelf, working on my plans to conquer the world!  Muah-hah-hah-haaaah!"
-msgstr "Tak jak zwykle o tej porze, siedziałem sobie na półeczce pracując nad pomysłem opanowania świata. Mwah-hah-hah!"
+msgstr "Tak jak zwykle siedziałem sobie na półeczce pracując nad planami podboju świata!"
 
 msgctxt "murplt007"
 msgid "Mwah-hah-hah-haaaah!"
-msgstr ""
+msgstr " "
 
 msgctxt "murplt008"
 msgid "Suddenly the amusement park exploded with a blast of demonic heckfire!"
-msgstr "Nagle nasz zabawny park wybuchł z podmuchem demonicznego ognia!"
+msgstr "Nagle park rozrywki eksplodował podmuchem demonicznego ognia!"
 
 msgctxt "guyplt036"
 msgid "So, after LeChuck escaped, how did you end up here?"
-msgstr "Więc jak już LeChuck uciekł, to jak tu się znalazłeś?"
+msgstr "No a po u ucieczce LeChucka, jak się tu znalazłeś?"
 
 msgctxt "murplt009"
 msgid "After his escape, LeChuck began destroying his theme park in a fit of demonic rage."
-msgstr "Po jego ucieczce, cały park LeChucka został zniszczony z wściekłością godną demona."
+msgstr "Po ucieczce LeChuck zaczął niszczyć swój park w przypływie demonicznej wściekłości."
 
 msgctxt "murplt010"
 msgid "(Although, personally, I think he was just colossally embarrassed by the whole thing..."
-msgstr "(choć według mnie, to całe zamieszanie go po prostu spłukało..."
+msgstr "(Chociaż osobiście uważam, że był po prostu kolosalnie zażenowany całą sprawą..."
 
 msgctxt "murplt011"
 msgid "...I mean really, what kind of a demonically evil scheme involves roller coasters and cotton candy, anyway?)"
-msgstr "... to znaczy, jaki złoczyńca zabiera się za diabelskie młyny czy watę cukrową?)"
+msgstr "W sensie, jaki rodzaj demonicznie złego planu obejmuje kolejki górskie i watę cukrową?)"
 
 msgctxt "guyplt037"
 msgid "Enough editorializing.  How'd you wind up here?"
-msgstr "Koniec z własnymi poglądami. Jak tu dotarłeś?"
+msgstr "Proszę o konkrety. Jak się tu znalazłeś?"
 
 msgctxt "murplt012"
 msgid "Oh, that.  Well, one of the explosions flung me out to sea, where ironically I landed on the shattered remnants of a midway dart game."
-msgstr "Ach, to. Po tym, eksplozja wywiała mnie na morze, gdzie z resztkami parku takimi jak rzutki, dostałem się na otwarte morze."
+msgstr "A, to. Cóż, jedna z eksplozji wyrzuciła mnie do morza, gdzie, jak na ironię, wylądowałem na roztrzaskanych resztkach tarczy do gry w rzutki."
 
 msgctxt "murplt013"
 msgid "After weeks at sea I drifted to shore on this delightfully evil isle, where Ozzie Mandrill"
-msgstr "Po tygodniach samotnej żeglugi dotarłem do naprawdę złego miejsca, gdzie Ozzie Mandrill"
+msgstr "Po tygodniach samotnej żeglugi przybiłem do tej rozkosznie złej wyspy, gdzie Ozzie Mandrill..."
 
 msgctxt "murplt014"
 msgid "(a man after my own blackened soul)"
-msgstr "(człowiek z charakterem podobnym do mojego)"
+msgstr "(człowiek ze sczerniałą duszą jak moja)"
 
 msgctxt "murplt015"
 msgid "gave me a job at this fine establishment."
-msgstr "dał mi robotę w porządnej restauracji."
+msgstr "Dał mi robotę w niniejszej placówce."
 
 msgctxt "murplt016"
 msgid "Arrrr."
@@ -21452,7 +21452,7 @@ msgstr ""
 
 msgctxt "guyplt038"
 msgid "You know, the tale of your exodus wasn't particularly filled with 'heart-stopping malice and evil'."
-msgstr "Wiesz co, ta opowieść nie była przepełniona \"złem i okrutnością\"."
+msgstr "Wiesz, opowieść o twoim exodusie nie była zbyt wypełniona \"zatrzymującą serce złośliwością i złem\"."
 
 msgctxt "murplt017"
 msgid "Are you kidding?"
@@ -21460,7 +21460,7 @@ msgstr "Żartujesz?"
 
 msgctxt "murplt018"
 msgid "It had LeChuck, Ozzie, and yours truly...how much more evil can you get?"
-msgstr "Było o LeChucku, Ozziem, i wacie cukrowej...czy może być coś gorszego?"
+msgstr "Byli w nim LeChuck, Ozzie i ja... czy można wymyślić coś bardziej złego?"
 
 msgctxt "guyplt039"
 msgid "Good point."
@@ -21472,15 +21472,15 @@ msgstr "Co ty tutaj robisz?"
 
 msgctxt "murplt019"
 msgid "Isn't it obvious?"
-msgstr "Czy to nie oczywiste?"
+msgstr "Nie widać?"
 
 msgctxt "murplt020"
 msgid "I'm the greeter-slash-bouncer of Planet Threepwood..."
-msgstr "Jestem nadającym dla Planety Threepwood..."
+msgstr "Jestem naganiaczem w Planecie Threepwood..."
 
 msgctxt "murplt021"
 msgid "The creme de la creme in pirate-themed, family-style, altogether EVILLLL dining."
-msgstr "Oferujemy crem de la crem w pirackim wydaniu, rodzinną atmosferę i mnóstwo ZŁEGO żarcia!"
+msgstr "Creme de la creme w pirackim, rodzinnym, całkowicie ZŁYM obiadowaniu."
 
 msgctxt "ptwplt002"
 msgid "Murray!"
@@ -21488,11 +21488,11 @@ msgstr ""
 
 msgctxt "murplt022"
 msgid "All right, I added the 'Evil' part."
-msgstr "Jest ok. Specjalnie dodałem to o \"źle\"."
+msgstr "Dobra, to o źle dodałem sam."
 
 msgctxt "guyplt041"
 msgid "I can't imagine how you could be a very good bouncer."
-msgstr "Nie mogę sobie wyobrazić, że jesteś zapraszającym."
+msgstr "Nie wydaje mi się, żebyś był materiałem na naganiacza."
 
 msgctxt "murplt023"
 msgid "Why not?"
@@ -21500,11 +21500,11 @@ msgstr "Czemu?"
 
 msgctxt "guyplt042"
 msgid "Well, for starters, you've got no arms."
-msgstr "No, nie masz rąk na przykład."
+msgstr "Po pierwsze, nie masz rak."
 
 msgctxt "murplt024"
 msgid "Evil needs no arms.  Watch!"
-msgstr "ZŁU nie potrzebne są ręce. Patrz@"
+msgstr "Zło nie potrzebuje rąk. Patrz!"
 
 msgctxt "murplt025"
 msgid "You, over there!  With the face!"
@@ -21512,11 +21512,11 @@ msgstr "Ej, ty! Tak, ty z twarzą!"
 
 msgctxt "clvplt001"
 msgid "Wh...who, me?"
-msgstr "K...kto ja?"
+msgstr "K... kto ja?"
 
 msgctxt "murplt026"
 msgid "Yes, you.  I want you out of the restaurant, now!"
-msgstr "Tak ty! Masz zaraz wejść do mojej restauracji, raus!"
+msgstr "Tak, ty! Wynocha z mojej restauracji, ruchy!"
 
 msgctxt "clvplt002"
 msgid "Oh, but I'm not--"
@@ -21524,7 +21524,7 @@ msgstr "Ale ja nie..."
 
 msgctxt "murplt027"
 msgid "Talk to the hand, mortal!"
-msgstr "Gadaj do ręki, ośle!"
+msgstr "Gadaj do ręki, śmiertelniku!"
 
 msgctxt "clvplt003"
 msgid "Uh, what hand?"
@@ -21532,43 +21532,43 @@ msgstr "Jakiej ręki?"
 
 msgctxt "murplt028"
 msgid "Don't play smart with me fleshbag!  Out, out, out!"
-msgstr "Ze mną się nie dyskutuje! Do środka!"
+msgstr "Nie zgrywaj cwaniaka! Precz, precz, precz!"
 
 msgctxt "guyplt043"
 msgid "Impressive.  I don't imagine you get much repeat business, though."
-msgstr "Niesamowite.  Masz niesamowite predyspozycje perswazyjne."
+msgstr "Niesamowite. Nie wydaje mi się jednak, byś miał wielu stałych klientów."
 
 msgctxt "guyplt044"
 msgid "So, how do you like this job?"
-msgstr "Podoba ci się taka robota?"
+msgstr "To podoba ci się ta robota?"
 
 msgctxt "murplt029"
 msgid "Personally, I preferred it when I was just the greeter."
-msgstr "Osobiście wolałem ją bardziej kiedy witałem tylko gości."
+msgstr "Osobiście wolałem wyłącznie witać gości."
 
 msgctxt "murplt030"
 msgid "It really allowed me plenty of time to work on my evil dreams."
-msgstr "Taka fucha dawała mi mnóstwo czasu na planowanie zła."
+msgstr "Dawało mi to mnóstwo czasu na pracę nad moimi planami zła."
 
 msgctxt "murplt031"
 msgid "But when Floppo the Bouncer Monkey ran away, they needed someone to double on bouncer duty, and I really needed the money."
-msgstr "Ale kiedy Floppo, nasza Małpa Reklamująca uciekła, potrzebowali kogoś na to stanowisko, a ja potrzebowałem kasy."
+msgstr "Ale kiedy Floppo, Naganiająca Małpa uciekł, potrzebowali kogoś na to stanowisko, a ja potrzebowałem kasy."
 
 msgctxt "guyplt045"
 msgid "Murray, what do you need money for?"
-msgstr "Murray, a na co ci kasa?"
+msgstr "Murray, na co ci ta kasa?"
 
 msgctxt "murplt032"
 msgid "To finance my diabolical schemes, of course!"
-msgstr "Finansuje moje diaboliczne plany."
+msgstr "Aby sfinansować moje diaboliczne plany!"
 
 msgctxt "murplt033"
 msgid "Do you have any idea how much it costs to hire a fleet of Scandinavian barbarians these days?"
-msgstr "Czy ty zdajesz sobie sprawę ile w dzisiejszych czasach kosztuje wynajem Skandynawskich barbarzyńców?"
+msgstr "Masz pojęcie, ile w dzisiejszych czasach kosztuje wynajęcie floty skandynawskich barbarzyńców?"
 
 msgctxt "guyplt046"
 msgid "How would you like to become an integral part of a powerful voodoo talisman?"
-msgstr "Jak bardzo chciałbyś pomóc mi stworzyć potężny voodoo talizman?"
+msgstr "Jak bardzo chciałbyś stać się integralną częścią potężnego talizmanu voodoo?"
 
 msgctxt "murplt034"
 msgid "Is it an EVIL talisman?"
@@ -21576,7 +21576,7 @@ msgstr "Ale ten talizman jest ZŁY?"
 
 msgctxt "guyplt047"
 msgid "Potentially."
-msgstr "Potencjalnie tak."
+msgstr "Potencjalnie."
 
 msgctxt "murplt035"
 msgid "What's it called?"
@@ -21592,23 +21592,23 @@ msgstr "Upoko..."
 
 msgctxt "murplt037"
 msgid "Don't be naive, mortal.  The Ultimate Insult is too powerful to be wielded by the likes of you."
-msgstr "Nie bądź naiwny. Talizman Upokorzenia jest zbyt potężny dla takiego dzieciaka jak ty."
+msgstr "Nie bądź naiwny. Talizman Upokorzenia jest zbyt potężny dla takich dzieciaków jak ty."
 
 msgctxt "guyplt049"
 msgid "But I need a headpiece, and you'd be perfect, see?"
-msgstr "Ja potrzebuje głowy do stworzenia, będziesz idealny!"
+msgstr "Ale potrzebuję głowy, byłbyś idealny, widzisz?"
 
 msgctxt "murplt038"
 msgid "You fool!  This diagram clearly indicates you need a MONKEY head.  I am a human head."
-msgstr "Kretyn! Schemat wyraźnie pokazuje, że potrzeba ci głowy MAŁPY. Co jak co, ale ja byłem człowiekiem."
+msgstr "Kretyn! Schemat wyraźnie pokazuje, że potrzeba ci głowy MAŁPY. Ja byłem człowiekiem."
 
 msgctxt "guyplt050"
 msgid "I just thought..."
-msgstr "Ja tylko myślałem..."
+msgstr "Pomyślałem, że..."
 
 msgctxt "murplt039"
 msgid "Well, think a little harder.  I want no part of this Ultimate Insult tomfoolery."
-msgstr "Więc musisz myśleć mocniej. Nie chce mieć nic wspólnego z żadną częścią talizmanu."
+msgstr "To pomyśl mocniej. Nie chcę brać udziału w ten talizmanowej błazenadzie."
 
 msgctxt "guyplt051"
 msgid "Are you sure you don't want to be a part of the Ultimate Insult?"
@@ -21616,19 +21616,19 @@ msgstr "Na pewno nie chcesz być częścią Talizmanu Upokorzenia?"
 
 msgctxt "murplt040"
 msgid "Absolutely not."
-msgstr "Absolutnie!"
+msgstr "Absolutnie nie."
 
 msgctxt "murplt041"
 msgid "I may be evil, but I'm not crazy."
-msgstr "Może i jestem zły. Ale nie jestem głupi."
+msgstr "Może i jestem zły, ale nie głupi."
 
 msgctxt "guyplt052"
 msgid "I've gotta go."
-msgstr "Muszę już lecieć."
+msgstr "Muszę lecieć."
 
 msgctxt "murplt042"
 msgid "Stop by any time for more pirate-themed fun...and EVILLLL!  Mwah-hahahah!"
-msgstr "Wpadnij jeszcze pogadać, będziemy się śmiać...szerzmy ZŁO!"
+msgstr "Wpadnij w każdej chwili po więcej pirackiej zabawy... i ZŁA!  "
 
 msgctxt "guyplt053"
 msgid "It was those hydrogen-filled LeChuck balloons, right?  I knew they were trouble."
@@ -21640,55 +21640,55 @@ msgstr "Nie, to przez LeChucka!"
 
 msgctxt "murplt044"
 msgid "Apparently, his flaming beard melted its way through his icy tomb, freeing him!"
-msgstr "Jego żarząca broda doprowadziła go do zimnego grobowca!"
+msgstr "Najwyraźniej jego płonąca broda stopiła jego lodowy grobowiec, uwalniając go!"
 
 msgctxt "guyplt054"
 msgid "I KNEW I should have given him a shave before I left!"
-msgstr "WIEDZIAŁEM, żeby dać mu maszynkę zanim ucieknie!"
+msgstr "WIEDZIAŁEM, że trzeba było go wcześniej ogolić!"
 
 msgctxt "guyplt055"
 msgid "But what caused the 'explosive blast of demonic heckfire'?"
-msgstr "Ale co spowodowało taką wielką eksplozje?"
+msgstr "Ale co spowodowało \"eksplodujący podmuch demonicznego ognia\"?"
 
 msgctxt "murplt045"
 msgid "Oh, he was just letting off a little steam."
-msgstr "Po prostu facet stracił siły."
+msgstr "Po prostu popuścił nieco pary."
 
 msgctxt "murplt046"
 msgid "Steam, get it?  Mwah-hah-ha-hahhhh!  ...I thought it was funny."
-msgstr "Starość go dopadła! Mwah-hah-ha-hahhhh! ...ah, myślałem, że to było śmieszne."
+msgstr "Pary, kumasz? Mwah-hah-ha-hahhhh!  Myślałem, że wyjdzie zabawniej."
 
 msgctxt "guyplt056"
 msgid "Was it an unfortunate accident at Largo's Burrito Bar?"
-msgstr "Czy to był ten niefortunny wypadek w Barze Burrito?"
+msgstr "Czy był to nieszczęśliwy wypadek w Largo's Burrito Bar?"
 
 msgctxt "guyplt057"
 msgid "Did the Anti-Matterhorn finally rip a whole in the space-time continuum, as predicted by most reputable scientists?"
-msgstr "Czy AntyMateria skończył już swoje Kontinuum Czasoprzestrzenne, tyle naukowców na to czeka?"
+msgstr "Czy antymaterion w końcu rozerwał kontinuum czasoprzestrzenne zgodnie z przewidywaniami renomowanych naukowców?"
 
 msgctxt "guyplt058"
 msgid "Eh, pardon me."
-msgstr "Przepraszam?"
+msgstr "O, przepraszam."
 
 msgctxt "clvplt004"
 msgid "Ah, yeah!"
-msgstr "Tak?"
+msgstr "O tak!"
 
 msgctxt "guyplt059"
 msgid "You're a little goofy-looking for a pirate, aren't you?"
-msgstr "Wyglądasz dość durnowato, jak na pirata."
+msgstr "Trochę głupowato wyglądasz jak na pirata, co nie?"
 
 msgctxt "clvplt005"
 msgid "Oh hohoho gosh me, a pirate?  Don't I wish now!  Pirates are the coolest!"
-msgstr "Ja, Piratem? Chciałbym. Piraci są najlepsi!"
+msgstr " Och, hoho. Ja piratem? To by było! Piraci są najlepsi!"
 
 msgctxt "clvplt006"
 msgid "I'm a vacationing pet shop clerk don't ya know?"
-msgstr "Jestem zoologiem na wakacjach."
+msgstr "Jestem sprzedawcą na wakacjach, nie widać?"
 
 msgctxt "guyplt060"
 msgid "Aren't you afraid of encountering REAL pirates?"
-msgstr "To nie boisz się spotkać takiego prawdziwego pirata?"
+msgstr "A nie boisz się spotkać prawdziwych piratów?"
 
 msgctxt "clvplt007"
 msgid "<Laugh>  Nahhhh."
@@ -21696,11 +21696,11 @@ msgstr "Nieee."
 
 msgctxt "clvplt008"
 msgid "Everyone knows that Ozzie Mandrill's swept the island clean of you know those real scary pirates."
-msgstr "Wszyscy wiedzą, że Ozzie Mandrill wyczyścił całą wyspę od prawdziwych piratów."
+msgstr "Wszyscy wiedzą, że Ozzie Mandrill oczyścił wyspę z tych prawdziwie strasznych piratów."
 
 msgctxt "clvplt009"
 msgid "Well, thanks to him, I can indulge my passion for pirate memorabilia, if you must know, you know without the hassle of dealing with actual pirates haha!"
-msgstr "I dzięki Bogu. Teraz mogę zbierać pirackie pamiątki bez obaw spotkania źle nastawionego pirata."
+msgstr "No i dzięki niemu mogę oddać się mej pasji zbierania pirackich pamiątek i to bez udręki z tymi prawdziwymi piratami!"
 
 msgctxt "guyplt061"
 msgid "What would you say if I told you were looking at a real pirate right now?"
@@ -21708,35 +21708,35 @@ msgstr "A co, gdybym ci powiedział, że właśnie patrzysz na najprawdziwszego 
 
 msgctxt "clvplt010"
 msgid "Get out of here right now!"
-msgstr "Nie ośmieszaj się!"
+msgstr "A dajże spokój!"
 
 msgctxt "clvplt011"
 msgid "Real pirates have scars 'n' parrots 'n' peglegs -- you know stuff like that there."
-msgstr "Prawdziwi piraci mają blizny, papugi, protezy i inne rzeczy."
+msgstr "Prawdziwi piraci mają blizny, papugi, protezy i inne takie rzeczy."
 
 msgctxt "clvplt012"
 msgid "You look more like one of the squeaky clean pirate 'performers' that Mandrill's hired to entertain the tourists."
-msgstr "Bardziej mi przypominasz jakąś imitacje podobieństwa pirata którą Mandrill dał, by bawić turystów."
+msgstr "Bardziej przypominasz mi tych czyściuteńkich \"artystów\", których Mandrill zatrudnił do zabawiania turystów."
 
 msgctxt "guyplt062"
 msgid "But I AM a real pirate!  I'm Guybrush Threepwood!"
-msgstr "Ale JA JESTEM piratem! Jam Guybrush Threepwood!"
+msgstr "Ale JA JESTEM piratem! Jestem Guybrush Threepwood!"
 
 msgctxt "clvplt013"
 msgid "Oah don't be stupid now."
-msgstr "Zgłupiałeś?"
+msgstr "Och, nie wydurniaj się."
 
 msgctxt "clvplt014"
 msgid "The real Guybrush Threepwood is over seven feet tall..."
-msgstr "Prawdziwy Guybrush Threepwood ma ponad siedem stóp wysokości..."
+msgstr "Prawdziwy Guybrush Threepwood ma ponad siedem stóp wzrostu..."
 
 msgctxt "clvplt015"
 msgid "...wears a hat dripping with the blood of his enemies..."
-msgstr "...nosi czapkę z której cieknie krew jego wrogów..."
+msgstr "Nosi czapkę, z której cieknie krew jego wrogów..."
 
 msgctxt "clvplt016"
 msgid "...and he has the ghost of his favorite parrot perched on his shoulder there!  Right there ya!"
-msgstr "...no i ma widmo swojej papugi siedzącej na jego ramieniu!"
+msgstr "A na ramieniu siedzi mu duch jego ulubionej papugi! Właśnie tam!"
 
 msgctxt "guyplt063"
 msgid "Wow, I'm scarier than I thought."
@@ -21748,11 +21748,11 @@ msgstr "Szukam części Talizmanu Upokorzenia."
 
 msgctxt "clvplt017"
 msgid "Is that one of Planet Threepwood's toy giveaways?"
-msgstr "A czy to jeden z tych Planet-Threepwoodowskich podarunków dla wychodzących?"
+msgstr "Czy to jedna z zabawek z Planety Threepwood?"
 
 msgctxt "guyplt065"
 msgid "No, it's a volatile voodoo talisman of indescribably psyche-destroying power!"
-msgstr "Nie, to nieprzewidywalny talizman voodoo o nieopisywalnie silnie-psychicznej mocy!"
+msgstr "Nie, to nieprzewidywalny voodoo talizman o nieopisanie niszczącej psychikę mocy!"
 
 msgctxt "guyplt066"
 msgid "I'm trying to stop an undead evil pirate from assembling it."
@@ -21760,15 +21760,15 @@ msgstr "Próbuję powstrzymać okrutnego zombie pirata, by go nie zdobył."
 
 msgctxt "clvplt018"
 msgid "Oh cripes, a quest!"
-msgstr "Ah, rozumiem, wyzwanie!"
+msgstr "Ach, rozumiem, wyzwanie!"
 
 msgctxt "clvplt019"
 msgid "This is just like my pirate role-playing games at home!"
-msgstr "To mi przypomina takie odgrywane scenki pirackie, które robię w domu."
+msgstr "Zupełnie jak w tych moich pirackich grach fabularnych z domu!"
 
 msgctxt "clvplt020"
 msgid "What does this Ultimate Insult look like?"
-msgstr "No więc jak taki Talizman Upokorzenia wygląda?"
+msgstr "Jak ten Talizman Upokorzenia wygląda?"
 
 msgctxt "guyplt067"
 msgid "I'm still looking for the Ultimate Insult."
@@ -21776,7 +21776,7 @@ msgstr "Ciągle poszukuję Talizmanu Upokorzenia."
 
 msgctxt "clvplt021"
 msgid "Well maybe I can help ya."
-msgstr "Może wiem jak pomóc."
+msgstr "Może mógłbym jakoś pomóc."
 
 msgctxt "guyplt068"
 msgid "I'll just be on my way."
@@ -21784,7 +21784,7 @@ msgstr "To ja się zwijam."
 
 msgctxt "clvplt022"
 msgid "B -bye now."
-msgstr "Cześć."
+msgstr "To cześć."
 
 msgctxt "guyplt069"
 msgid "One of the pieces looks like a golden man."
@@ -21796,7 +21796,7 @@ msgstr " "
 
 msgctxt "clvplt024"
 msgid "That sounds like my 'Yellow Avenger' action figure back home in Osh Kosh."
-msgstr "To prawie jak moja figurka \"Mściciela Żółci\"."
+msgstr "To brzmi zupełnie jak moja figurka \"Żółtego Mściciela\" z domu w Osh Kosh."
 
 msgctxt "guyplt070"
 msgid "I don't think that's it."
@@ -21804,7 +21804,7 @@ msgstr "To chyba nie to."
 
 msgctxt "guyplt071"
 msgid "One of the pieces looks like a bronze pirate hat."
-msgstr "Jedna z części wygląda jak czapka piracka z brązu."
+msgstr "Jedna z części wygląda jak piracka czapka z brązu."
 
 msgctxt "clvplt026"
 msgid "Hmmm."
@@ -21812,7 +21812,7 @@ msgstr "Hmmm."
 
 msgctxt "clvplt027"
 msgid "Haha nope.  I, ah, guess I don't have the Experience Points to come up with a clue."
-msgstr "Nie. Niestety nie mam dość dużo Punktów Doświadczenia, żeby ci coś poradzić."
+msgstr "Nie. Chyba nie mam dość Punktów Doświadczenia, żeby ci coś tu poradzić."
 
 msgctxt "guyplt072"
 msgid "One of the pieces looks like a silver monkey head."
@@ -21824,7 +21824,7 @@ msgstr "Srebrna małpia głowa?"
 
 msgctxt "clvplt029"
 msgid "Oh -- sounds like the Silver Monkey Mug they use for special occasions here at Planet Threepwood!"
-msgstr "Zupełnie jak Srebrny Małpi Kufel, którego używają na specjalne okazje w Planet Threepwood!"
+msgstr "Brzmi jak Srebrny Małpi Kufel, którego używają na specjalne okazje w Planecie Threepwood!"
 
 msgctxt "guyplt073"
 msgid "You think the Silver Monkey Mug is one of the pieces, eh?"
@@ -21832,7 +21832,7 @@ msgstr "Uważasz, że ten Srebrny Małpi Kufel jest jedną z części?"
 
 msgctxt "clvplt030"
 msgid "I'd risk half my Hit Points on it oh yeah!"
-msgstr "Oddałbym za to połowę moich Punktów Uderzenia."
+msgstr "Oddałbym za to połowę moich Punktów Uderzenia!"
 
 msgctxt "guyplt074"
 msgid "I've had just about enough talking about the Ultimate Insult for now."
@@ -21848,23 +21848,23 @@ msgstr "Przepraszam?"
 
 msgctxt "ptwplt003"
 msgid "Hi, I'm Elayne, and I'll be your waitress this afternoon."
-msgstr "Hej, Jestem Elaine, dzisiaj będę twoją kelnerką."
+msgstr "Hej, jestem Elaine będę dziś twoją kelnerką."
 
 msgctxt "ptwplt004"
 msgid "Would like to hear about today's special?"
-msgstr "Może chcesz usłyszeć dzisiejszy specjał?"
+msgstr "Czy chciałbyś usłyszeć o daniu dnia?"
 
 msgctxt "guyplt076"
 msgid "I'd love to hear about today's special."
-msgstr "Bardzo chętnie."
+msgstr "Chętnie posłucham o daniu dnia."
 
 msgctxt "ptwplt005"
 msgid "We call it Stan's Budget Baloney Sub."
-msgstr "Nazywamy go Budżetowe Kiełbaski Stana."
+msgstr "To będzie Budżetowa Kanapka Stana."
 
 msgctxt "ptwplt006"
 msgid "It's four pieces of baloney, ham, and turkey, smothered in three types of cheese, on rye bread."
-msgstr "Czyli cztery kawałki kiełbasy, szynki i indyka pokryte trzema rodzajami sera, podawane z chlebem ryżowym."
+msgstr "Cztery kiełbaski, szynka i indyk pokryte trzema rodzajami sera na żytnim chlebie."
 
 msgctxt "guyplt077"
 msgid "Eww."
@@ -21872,19 +21872,19 @@ msgstr " "
 
 msgctxt "ptwplt007"
 msgid "Ha, that's funny, we've been getting that reaction all day."
-msgstr "To niesamowite, taka reakcje na to danie jest codziennie."
+msgstr "To zabawne bo cały dzień spotykamy się z taką reakcją."
 
 msgctxt "guyplt078"
 msgid "What kind of place is this, anyway?"
-msgstr "Co to za miejsce?"
+msgstr "Co to w ogóle za miejsce?"
 
 msgctxt "ptwplt008"
 msgid "This is Planet Threepwood, one of a chain of restaurants dedicated to showcasing the exploits of the Tri-Island Area's most famous pirate:  Guybrush Threepwood!"
-msgstr "To Planeta Threepwood, jedna z placówek sieci restauracji dedykowana najbardziej znanemu piratowi na Trójwyspach: Guybrushowi Threepwoodowi!"
+msgstr "To Planeta Threepwood, jedna z sieci restauracji poświęconych prezentowaniu wyczynów najsłynniejszego pirata na Trójwyspach: Guybrushowi Threepwoodowi!"
 
 msgctxt "guyplt079"
 msgid "Ah.  That explains why it looks like my life has been vomited all over the walls."
-msgstr "Ah. To wyjaśnia czemu każda ściana jest zabłocona moimi insygniami."
+msgstr "Ach. To wyjaśnia, czemu mam wrażenie, że całe moje życie ktoś zwymiotował na ściany."
 
 msgctxt "ptwplt009"
 msgid "Excuse me?"
@@ -21892,11 +21892,11 @@ msgstr "Przepraszam?"
 
 msgctxt "guyplt080"
 msgid "I'M Guybrush Threepwood, and I'm not too thrilled about this place."
-msgstr "Jam Guybrush Threepwood, a to miejsce mnie jakoś nie rusza."
+msgstr "Jestem Guybrush Threepwood, a to miejsce jakoś mnie nie rusza."
 
 msgctxt "ptwplt010"
 msgid "Heh heh.  That's a good one, sir."
-msgstr "Dobry masz humor."
+msgstr "Hehe. Bardzo mnie pan rozbawił."
 
 msgctxt "guyplt081"
 msgid "What?"
@@ -21904,15 +21904,15 @@ msgstr "Co?"
 
 msgctxt "ptwplt011"
 msgid "Everyone knows that Guybrush Threepwood is about 6 foot 4, has a scar about yea long over his left eye, and has a big black parrot!"
-msgstr "Wszyscy tutaj wiedzą, że Guybrush Threepwood ma nawet sześć stóp wysokości, bliznę pod swoim lewym okiem no i wielką, czarną papugę!"
+msgstr "Wszyscy wiedzą, że Guybrush Threepwood ma jakieś sześć stóp wzrostu, długaśną bliznę pod lewym okiem no i wielką, czarną papugę!"
 
 msgctxt "guyplt082"
 msgid "No, really, I can prove it."
-msgstr "Jak chcesz, to ci udowodnię."
+msgstr "Nie, serio. Mogę udowodnić."
 
 msgctxt "guyplt083"
 msgid "Ask me something only Guybrush Threepwood would know!"
-msgstr "Po prostu zapytaj mnie o coś, co tylko Guybrush może wiedzieć!"
+msgstr "Zapytaj mnie o coś, co tylko Guybrush Threepwood by wiedział!"
 
 msgctxt "ptwplt012"
 msgid "Okay, what are your parents' names?"
@@ -21920,7 +21920,7 @@ msgstr "Ok, jak nazywali się twoi rodzice?"
 
 msgctxt "guyplt084"
 msgid "So, who are YOU supposed to be?"
-msgstr "No dobra, a TY, kim niby jesteś?"
+msgstr "No, a ty niby kim jesteś?"
 
 msgctxt "ptwplt013"
 msgid "I'm Elaine Marley, the Pirate Princess of Męlée Island™!"
@@ -21928,7 +21928,7 @@ msgstr "Jestem Elaine Marley, Piracka Księżniczka Wyspy Szpady™!"
 
 msgctxt "guyplt085"
 msgid "Hey, baby, you can be my Elaine any time."
-msgstr "Hej, skarbie, możesz być moją Elaine każdego dnia."
+msgstr "Hej, skarbie, możesz być mą Elaine, kiedy chcesz."
 
 msgctxt "ptwplt014"
 msgid "What?"
@@ -21940,11 +21940,11 @@ msgstr "Nie, nic."
 
 msgctxt "guyplt087"
 msgid "Whose brilliant idea was this, anyway?"
-msgstr "Tak poza tym, to co to wszystko jest?"
+msgstr "Kto w ogóle wymyślił coś takiego?"
 
 msgctxt "ptwplt015"
 msgid "Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises."
-msgstr "To Planeta Threepwood własność Ozzie Mandrill Enterprises."
+msgstr "Planeta Threepwood jest spółką zależną należącą w całości do Ozzie Mandrill Enterprises."
 
 msgctxt "guyplt088"
 msgid "I should have guessed."
@@ -21952,11 +21952,11 @@ msgstr "Mogłem się domyślić."
 
 msgctxt "guyplt089"
 msgid "I think I'm ready to order."
-msgstr "Myślę, że mogę coś zamówić."
+msgstr "Chyba mogę coś zamówić."
 
 msgctxt "ptwplt016"
 msgid "What'll it be?"
-msgstr "Co ma być?"
+msgstr "Co będzie?"
 
 msgctxt "guyplt090"
 msgid "So, what's it like being married to a diving judge?"
@@ -21964,23 +21964,23 @@ msgstr "Więc jak to jest być żoną sędziego skoków do wody?"
 
 msgctxt "guyplt091"
 msgid "You're married to one of the diving judges, aren't you?"
-msgstr "Jesteś żoną jednego sędziów skoków do wody, prawda?"
+msgstr "Jesteś żoną jednego z sędziów skoków do wody, prawda?"
 
 msgctxt "ptwplt017"
 msgid "Whatever gave you that idea?"
-msgstr "Co ci przyszło do głowy?"
+msgstr "Skąd ci to przyszło do głowy?"
 
 msgctxt "guyplt092"
 msgid "Isn't this a picture of you and your husband sharing a cozy moment in a time share bungalow built for two?"
-msgstr "A czy to nie jest zdjęcie twoje i męża świetnie spędzających czas na parterze jakiegoś domu?"
+msgstr "Czy to nie aby wasze zdjęcie, na którym razem z mężem dzielicie przytulną chwilę w bungalowie dla dwojga?"
 
 msgctxt "ptwplt018"
 msgid "Gasp!"
-msgstr "(wdech)"
+msgstr " "
 
 msgctxt "ptwplt019"
 msgid "Uh, th...that's not me!"
-msgstr "To nie ja!"
+msgstr "Ach, to... to nie ja!"
 
 msgctxt "guyplt093"
 msgid "Uh, but--"
@@ -22000,7 +22000,7 @@ msgstr "Szukam Talizmanu Upokorzenia."
 
 msgctxt "ptwplt021"
 msgid "I've never heard of that.  Is it on the menu?"
-msgstr "Pierwszo słyszę. Czy to jest w naszym menu?"
+msgstr "Pierwsze słyszę. Czy jest w menu?"
 
 msgctxt "guyplt096"
 msgid "I don't think so."
@@ -22008,27 +22008,27 @@ msgstr "Wątpię."
 
 msgctxt "ptwplt022"
 msgid "If it's not on the menu, then we don't make it."
-msgstr "Jeśli tego nie ma w menu, to nie przyrządzamy tego."
+msgstr "Jeśli go tam nie ma, to tu go nie robimy."
 
 msgctxt "guyplt097"
 msgid "Come to think of it, I need a few more minutes."
-msgstr "Muszę to przemyśleć. Daj mi kilka minut."
+msgstr "Jak o tym pomyślę, to jeszcze potrzebuję chwili."
 
 msgctxt "ptwplt023"
 msgid "Let me know when you're ready to order."
-msgstr "To powiedz mi, jak już będziesz gotowy."
+msgstr "Daj znać, jak będziesz gotów zamówić."
 
 msgctxt "guyplt098"
 msgid "I didn't."
-msgstr "No dobra."
+msgstr "Ja nie."
 
 msgctxt "ptwplt024"
 msgid "Then maybe you aren't really Guybrush Threepwood."
-msgstr "Więc pewnie nie jesteś prawdziwym Guybrushem Threepwood."
+msgstr "Więc może nie jesteś prawdziwym Guybrushem Threepwood."
 
 msgctxt "guyplt099"
 msgid "I guess not."
-msgstr "Raczej nie."
+msgstr "Może nie."
 
 msgctxt "guyplt100"
 msgid "John and Martha?"
@@ -22048,11 +22048,11 @@ msgstr "George i Gracie?"
 
 msgctxt "ptwplt027"
 msgid "Everyone knows their names were Harry and Carrie."
-msgstr "Wszyscy wiedzą, że nazywali się Harry and Carrie."
+msgstr "Wszyscy wiedzą, że nazywali się Harry i Carrie."
 
 msgctxt "guyplt102"
 msgid "Herman and Eloise?"
-msgstr "Herman i Eloise?"
+msgstr "Herman i Eloiza?"
 
 msgctxt "ptwplt028"
 msgid "Everyone knows their names were Dwayne and Bertha."
@@ -22072,15 +22072,15 @@ msgstr "Wszyscy wiedzą, że nazywali się Fredo i Moonbeam."
 
 msgctxt "guyplt104"
 msgid "I think I'll have the Swordmaster's Delight."
-msgstr "Chyba zdecyduje się na Rozkosznego Fechmistrza."
+msgstr "Chyba wezmę Rozkosz Fechmistrza."
 
 msgctxt "ptwplt031"
 msgid "How adventurous."
-msgstr "Dobry wybór."
+msgstr "Odważnie."
 
 msgctxt "ptwplt032"
 msgid "And to drink?"
-msgstr "A co do picia?"
+msgstr "A do picia?"
 
 msgctxt "guyplt105"
 msgid "Guybrush's Mighty Pirate Burger Sounds Good."
@@ -22092,7 +22092,7 @@ msgstr "Z pewnością."
 
 msgctxt "guyplt106"
 msgid "I'll take my chances with the Lobster LeChuck."
-msgstr "Spróbuje sił z Homarem LeChuck."
+msgstr "Spróbuje się z Homarem LeChuck."
 
 msgctxt "ptwplt034"
 msgid "Ka-Ching!"
@@ -22100,7 +22100,7 @@ msgstr ""
 
 msgctxt "guyplt107"
 msgid "I'll have the special."
-msgstr "Pokarz mi jakieś menu."
+msgstr "Wezmę danie dnia."
 
 msgctxt "ptwplt035"
 msgid "Very good sir."
@@ -22108,15 +22108,15 @@ msgstr "Oczywiście."
 
 msgctxt "guyplt108"
 msgid "Maybe I should take another look at the menu."
-msgstr "Chyba muszę jeszcze raz spojrzeć na menu."
+msgstr "Chyba muszę jeszcze spojrzeć na menu."
 
 msgctxt "guyplt109"
 msgid "What've you got?"
-msgstr "Co mi polecicie?"
+msgstr "Co polecacie?"
 
 msgctxt "ptwplt036"
 msgid "-Sigh-"
-msgstr "(wzdycha)..."
+msgstr " "
 
 msgctxt "ptwplt037"
 msgid "It's all on the menu."
@@ -22124,23 +22124,23 @@ msgstr "Wszystko jest w menu."
 
 msgctxt "ptwplt038"
 msgid "Call me after you've read it."
-msgstr "Powiedz mi, jak już je przeczytasz."
+msgstr "Powiedz, jak przeczytasz."
 
 msgctxt "guyplt110"
 msgid "Gee, she's just as snippy as the REAL Elaine."
-msgstr "Jaa...jest równie oschła jak Elaine."
+msgstr "Jej, zrzędzi jak prawdziwa Elaine."
 
 msgctxt "guyplt111"
 msgid "Largo's Lemonade will be fine."
-msgstr "Daj mi Lemoniadę Largo."
+msgstr "Poproszę Largo Lemoniadę."
 
 msgctxt "ptwplt039"
 msgid "Good choice, sir."
-msgstr "Bardzo dobrze."
+msgstr "Świetny wybór."
 
 msgctxt "ptwplt040"
 msgid "And how will you be paying?"
-msgstr "Jaką formę płatności wybierasz?"
+msgstr "A jaka będzie forma płatności?"
 
 msgctxt "guyplt112"
 msgid "I'll have a Phatt Phizz."
@@ -22148,15 +22148,15 @@ msgstr "Wezmę Phatt Phizz."
 
 msgctxt "ptwplt041"
 msgid "A popular choice, sir."
-msgstr "Ludzie to lubią."
+msgstr "Tak jak wszyscy."
 
 msgctxt "ptwplt042"
 msgid "And how will you be paying?"
-msgstr "Jaką formę płatności wybierasz?"
+msgstr "A jaka będzie forma płatności?"
 
 msgctxt "guyplt113"
 msgid "Just a water, please."
-msgstr "Daj mi wody."
+msgstr "Poproszę wody."
 
 msgctxt "ptwplt043"
 msgid "Fine."
@@ -22164,39 +22164,39 @@ msgstr "Dobrze."
 
 msgctxt "ptwplt044"
 msgid "Let me know when you're ready."
-msgstr "To powiedz mi, jak będziesz gotów."
+msgstr "Daj znać, jak będziesz gotów."
 
 msgctxt "guyplt114"
 msgid "Why should I pay?  This place wouldn't exist if it weren't for me!"
-msgstr "Czemu mam płacić? Gdybym się nie urodził to nie byłoby tego miejsca!"
+msgstr "Czemu mam płacić? To miejsce nie istniałoby, gdyby nie ja!"
 
 msgctxt "ptwplt045"
 msgid "This place wouldn't exist if it weren't for Ozzie Mandrill, sir."
-msgstr "Tego miejsca by nie było gdyby Ozzie Mandrill się nie urodził."
+msgstr "To miejsce nie istniałoby, gdyby nie Ozzie Mandrill."
 
 msgctxt "ptwplt046"
 msgid "And you don't look like him."
-msgstr "A nie wyglądasz mi na niego."
+msgstr "A nie na niego mi nie wyglądasz."
 
 msgctxt "ptwplt047"
 msgid "In any event, don't bother me again until you have some way of paying for your meal."
-msgstr "W każdym razie, nie zawracaj mi głowy, jeśli nie znajdziesz jakiegoś sposobu, żeby mi zapłacić."
+msgstr "W każdym razie, nie zawracaj mi głowy, dopóki nie będziesz miał jak zapłacić za posiłek."
 
 msgctxt "guyplt115"
 msgid "I was thinking of running a tab."
-msgstr "To ja poproszę na kredyt."
+msgstr "Będę brał na krechę."
 
 msgctxt "ptwplt048"
 msgid "We don't run tabs at Planet Threepwood."
-msgstr "Nie dajemy kredytów w Planecie."
+msgstr "Nie w Planecie Threepwood."
 
 msgctxt "ptwplt049"
 msgid "There are still too many deadbeat pirates hanging around to start handing out lines of credit."
-msgstr "Ciągle tu jest dużo nierobotnych piratów, którzy do dziś nie opłacili swoich posiłków \"na kredyt\"."
+msgstr "Wciąż jest zbyt wielu spłukanych piratów, byśmy mogli sobie pozwolić na udzielanie kredytów."
 
 msgctxt "ptwplt050"
 msgid "You know the type."
-msgstr "Wiesz o co chodzi."
+msgstr "Pewnie kojarzysz."
 
 msgctxt "guyplt116"
 msgid "Um, yeah."
@@ -22204,35 +22204,35 @@ msgstr "No ta."
 
 msgctxt "ptwplt051"
 msgid "Ahhh, let me know when you've got some way to pay for a meal."
-msgstr "Powiadom mnie, jak będziesz miał jakiś sposób żeby dostać posiłek."
+msgstr "To daj mi znać, kiedy będziesz miał jak zapłacić za posiłek."
 
 msgctxt "guyplt117"
 msgid "I, uh, don't have any money."
-msgstr "Ale...ja nie mam pieniędzy."
+msgstr "Ale... ja nie mam pieniędzy."
 
 msgctxt "ptwplt052"
 msgid "I thought not.  Listen buster, things are pretty busy around here.  Don't bother me again until you're ready to pay for your meal."
-msgstr "Domyślam się. Słuchaj, kolego, nam się tutaj nie nudzi. Nie zaczepiaj mnie póki nie będziesz mógł zapłacić za posiłek."
+msgstr "Tak myślałem. Słuchaj, frajerze, nam się tu nie nudzi. Nie zawracaj mi głowy, dopóki nie będziesz mógł zapłacić za posiłek."
 
 msgctxt "ptwplt053"
 msgid "Listen, buster, things are pretty busy around here."
-msgstr "Jestem dość zajęta."
+msgstr "Słuchaj, frajerze. Nam się tu nie nudzi."
 
 msgctxt "ptwplt054"
 msgid "Don't bother me again until you're ready to pay for your meal."
-msgstr "Proszę, zostaw mnie w spokoju póki nie wiesz jak mi zapłacić."
+msgstr "Nie zawracaj mi głowy, dopóki nie będziesz mógł zapłacić za posiłek."
 
 msgctxt "guyplt118"
 msgid "Check out this Mega Monkey Meal ticket!"
-msgstr "I chciałbym też dostać ten Małpi Kubek."
+msgstr "Obczaj ten bilet na Mega Małpi posiłek!"
 
 msgctxt "ptwplt055"
 msgid "Very good, sir."
-msgstr "To świetnie."
+msgstr "Bardzo dobrze."
 
 msgctxt "ptwplt056"
 msgid "I'll bring out your food and your ceremonial Mega Monkey Mug in few minutes."
-msgstr "Za kilka minut przyniosę jedzenie i ceremonialny Mega Małpi Kufel."
+msgstr "Za chwilę przyniosę jedzenie i twój ceremonialny Mega Małpi Kufel."
 
 msgctxt "hb2cpt021"
 msgid "FOOD!"
@@ -22244,7 +22244,7 @@ msgstr ""
 
 msgctxt "hb2cpt023"
 msgid "WENCHES!"
-msgstr "DZIWKI!"
+msgstr "DZIEWKI!"
 
 msgctxt "hb2cpt024"
 msgid "BLOOD!"
@@ -22260,15 +22260,15 @@ msgstr "OWCE!"
 
 msgctxt "hb2cpt027"
 msgid "MORE WENCHES!"
-msgstr "WIĘCEJ DZIWEK!"
+msgstr "WIĘCEJ DZIEWEK!"
 
 msgctxt "hb2cpt028"
 msgid "SLEEP!"
-msgstr "SPAĆ!"
+msgstr "SEN!"
 
 msgctxt "hb2cpt029"
 msgid "BELCHING!"
-msgstr "WYMIOTY!"
+msgstr "BEKANIE!"
 
 msgctxt "hb2cpt030"
 msgid "SPITTING!"
@@ -22276,7 +22276,7 @@ msgstr "PLUCIE!"
 
 msgctxt "hb2cpt031"
 msgid "SCRATCHING!"
-msgstr "WANDALIZM!"
+msgstr "DRAPANIE!"
 
 msgctxt "hb2cpt032"
 msgid "RUM!"
@@ -22292,11 +22292,11 @@ msgstr "PRZEMOC!"
 
 msgctxt "hb2cpt035"
 msgid "NAUGHTY!"
-msgstr "NIEPOSŁUSZEŃSTWO!"
+msgstr "NIEGRZECZNOŚĆ!"
 
 msgctxt "hb2cpt036"
 msgid "FLATULENCE!"
-msgstr "WZDĘCIA!"
+msgstr "WZDĘCIE!"
 
 msgctxt "hb2cpt037"
 msgid "SCHADENFREUDE!"
@@ -22308,35 +22308,35 @@ msgstr "KALECZENIE!"
 
 msgctxt "hb2cpt039"
 msgid "BOOTY!"
-msgstr "ŁODZIE!"
+msgstr "SKARBY!"
 
 msgctxt "hb3cpt019"
 msgid "...I think we're getting off track here.  Let's...let's get back to..."
-msgstr "...myślę, że tu trzeba się zatrzymać. Powróćmy....chodźmy do...."
+msgstr "Myślę, że zbaczamy z tematu. Może wróćmy do..."
 
 msgctxt "hb3cpt020"
 msgid "...Well, yes, but I think you need to rationalize..."
-msgstr "....tak, tak, ale to trzeba zracjonalizować..."
+msgstr "Tak, tak, ale najpierw musisz zracjonalizować..."
 
 msgctxt "hb3cpt021"
 msgid "...I see what you're saying, but let's try to focus on..."
-msgstr "...rozumiem o czym myślisz, ale skupmy się na...."
+msgstr "Rozumiem twój pomysł, ale teraz skupmy się na..."
 
 msgctxt "hb3cpt022"
 msgid "...Now you're just being obstinate.  What's important here is..."
-msgstr "...teraz to zwykła upartość. Co najważniejsze to..."
+msgstr "Teraz to zwykła upartość. Co się tu liczy to..."
 
 msgctxt "hb3cpt023"
 msgid "...Well, that's obvious, naturally.  But what about..."
-msgstr "...to chyba oczywiste. Ale co z...."
+msgstr "To całkiem oczywiste. Ale co z..."
 
 msgctxt "hb3cpt024"
 msgid "...No, no, no, no, no.  You're forgetting the importance of..."
-msgstr "... nie, nie, nie, nie, nie. Zapominasz o znaczeniu ..."
+msgstr "Nie, nie, nie, nie, nie. Zapominasz o znaczeniu..."
 
 msgctxt "hb3cpt025"
 msgid "...Right, now we're getting somewhere.  Let's move on to..."
-msgstr "....dochodzimy do wniosków. Skupmy się teraz na...."
+msgstr "Tak, do czegoś tu zmierzamy. Przejdźmy więc do..."
 
 msgctxt "pi1cpt001"
 msgid "Go away!"
@@ -22348,7 +22348,7 @@ msgstr "Nie chcemy tego!"
 
 msgctxt "pi1cpt003"
 msgid "I gave at the office!"
-msgstr "Dałem już w urzędzie!"
+msgstr "Już to złożyłem!"
 
 msgctxt "pi1cpt004"
 msgid "Get out of here!"
@@ -22368,7 +22368,7 @@ msgstr "Daj mi spokój!"
 
 msgctxt "pi1cpt008"
 msgid "I don't want any trouble!"
-msgstr "Nie chcę żadnych problemów!"
+msgstr "Nie chcę żadnych kłopotów!"
 
 msgctxt "pi2cpt001"
 msgid "Go away!"
@@ -22380,7 +22380,7 @@ msgstr "Nie chcemy tego!"
 
 msgctxt "pi2cpt003"
 msgid "I gave at the office!"
-msgstr "Dałem już w urzędzie!"
+msgstr "Już to złożyłem!"
 
 msgctxt "pi2cpt004"
 msgid "Get outta here!"
@@ -22400,7 +22400,7 @@ msgstr "Daj mi spokój!"
 
 msgctxt "pi2cpt008"
 msgid "I don't want any trouble!"
-msgstr "Nie chcę żadnych problemów!"
+msgstr "Nie chcę żadnych kłopotów!"
 
 msgctxt "pi3cpt001"
 msgid "Oh, go away!"
@@ -22412,7 +22412,7 @@ msgstr "Nie chcemy tego!"
 
 msgctxt "pi3cpt003"
 msgid "I gave at the office!"
-msgstr "Dałem już w urzędzie!"
+msgstr "Już to złożyłem!"
 
 msgctxt "pi3cpt004"
 msgid "Get outta here!"
@@ -22432,7 +22432,7 @@ msgstr "Daj mi spokój!"
 
 msgctxt "pi3cpt008"
 msgid "I don't want any trouble!"
-msgstr "Nie chcę żadnych problemów!"
+msgstr "Nie chcę żadnych kłopotów!"
 
 msgctxt "guycpt042"
 msgid "Could you help me find this?"
@@ -22440,7 +22440,7 @@ msgstr "Pomożesz mi to znaleźć?"
 
 msgctxt "hb1cpt017"
 msgid "Wh-wh-wh-wh-wh-what's that?"
-msgstr "Co..co...tttooo... jest?"
+msgstr "Co... to jest?"
 
 msgctxt "guycpt043"
 msgid "It's a picture of the Ultimate Insult."
@@ -22448,7 +22448,7 @@ msgstr "To obraz Talizmanu Upokorzenia."
 
 msgctxt "hb1cpt018"
 msgid "Th-th-th-the Ultimate Insult!?"
-msgstr "Ttt...Talizman Upokorzenia?"
+msgstr "T...Talizmanu Upokorzenia?"
 
 msgctxt "hb1cpt019"
 msgid "Uhhh uhh ahh! <Scream>"
@@ -22460,11 +22460,11 @@ msgstr "Hej! Zapomniałeś swoich lalek!"
 
 msgctxt "guycpt045"
 msgid "Gee, guess that was just the kind of breakthrough he needed to mend his shattered psyche."
-msgstr "Chyba mój obraz musiał spowodować jakiś przełom w jego zrujnowanej psychice."
+msgstr "Jej, chyba właśnie takiego przełomu potrzebował, by naprawić swoją zszarganą psychikę."
 
 msgctxt "dsykab001"
 msgid "...So that's when I sliced open his pancreas--"
-msgstr "...I wtedy właśnie rozkrajam jego trzustkę--"
+msgstr "I wtedy właśnie rozciąłem jego trzustkę..."
 
 msgctxt "guykab046"
 msgid "Hi there!"
@@ -22504,7 +22504,7 @@ msgstr "Dzięki."
 
 msgctxt "jumkab068"
 msgid "You're welcome.  Now go away so I can resume my discussion with the delightful Miss Daisy."
-msgstr "Proszę bardzo.  A teraz odejdź, żebym mógł dokończyć moją dyskusję z piękną panną"
+msgstr "Proszę bardzo. A teraz odejdź, żebym mógł dokończyć moją dyskusję z piękną panną Daisy."
 
 msgctxt "guykab049"
 msgid "Now, boys..."
@@ -22512,7 +22512,7 @@ msgstr "A teraz..."
 
 msgctxt "guykab050"
 msgid "Amoral lout!"
-msgstr "Ty chamie!"
+msgstr "Bezduszny cham!"
 
 msgctxt "guykab051"
 msgid "Unemployed layabout!"
@@ -22524,15 +22524,15 @@ msgstr "Chłopaki?"
 
 msgctxt "guykab053"
 msgid "Uncultured corpse!!"
-msgstr "Niewychowany trupie!"
+msgstr "Niewychowany trup!"
 
 msgctxt "guykab054"
 msgid "Uh, I really think that's loud enough to catch Casaba's attention..."
-msgstr "Ah, według mnie to oni krzyczą wystarczająco, żeby wezwać Casabe..."
+msgstr "Ach, sądzę, że to dość głośno, by zwrócić uwagę Casaby..."
 
 msgctxt "guykab057"
 msgid "Sigh, I've obviously got some deep-seated issues to work out here..."
-msgstr "Mam kilka propozycji jak tutaj zarządzić..."
+msgstr "Cóż, bez wątpienia mam tu głęboko zakorzenione problemy do przepracowania..."
 
 msgctxt "guykab059"
 msgid "Hi there, Lil' Guybrush!"
@@ -22544,35 +22544,35 @@ msgstr "Cześć, Wielki Guybrushu!"
 
 msgctxt "guykab061"
 msgid "Hi there, Lil' LeChuck!"
-msgstr "Witaj, Mały LeChuck!"
+msgstr "Witaj, Mały LeChucku!"
 
 msgctxt "guykab062"
 msgid "What's on your mind, Lil' Guybrush?"
-msgstr "Co masz na myśli Mały Guybrushu?"
+msgstr "Co cię gnębi, Mały Guybrushu?"
 
 msgctxt "guykab063"
 msgid "What's on your mind, Lil' LeChuck?"
-msgstr "Co masz na myśli, MałyLechucku?"
+msgstr "Co cię gnębi, Mały LeChucku?"
 
 msgctxt "guykab064"
 msgid "I think Admiral Casaba's a big dope, don't you?"
-msgstr "Według mnie Casaba to jakiś palant, nie?"
+msgstr "Ten Admirał Casaba to wielki palant, co nie?"
 
 msgctxt "guykab065"
 msgid "Oh, I don't know, Lil' Guybrush.  What do you think, Lil' LeChuck?"
-msgstr "Nie wiem, Mały Guybrushu. Co o tym myślisz Mały LeChucku?"
+msgstr "No nie wiem, Mały Guybrushu. Co o tym myślisz, Mały LeChucku?"
 
 msgctxt "guykab066"
 msgid "I think Ozzie Mandrill's an evil meanie."
-msgstr "Ale myślę, że Ozzie Mandrill jest bardzo okrutny."
+msgstr "Myślę, że Ozzie Mandrill jest złym łajdakiem."
 
 msgctxt "guykab067"
 msgid "I think that's a bit harsh, Lil' Guybrush.  What do you think, Lil' LeChuck?"
-msgstr "Może i jest trochę za surowy, Mały Guybrushu. Co o tym myślisz Mały LeChucku?"
+msgstr "Oceniasz go surowo, Mały Guybrushu. Co o tym myślisz, Mały LeChucku?"
 
 msgctxt "guykab068"
 msgid "I think Lil' LeChuck's a smelly undead creep."
-msgstr "Myślę, że Mały LeChuck śmierdzi niemiłosiernie."
+msgstr "Myślę, że Mały LeChuck to śmierdzący trup."
 
 msgctxt "guykab069"
 msgid "I can hardly argue with that, Lil' Guybrush.  What do you think, Lil' LeChuck?"
@@ -22580,11 +22580,11 @@ msgstr "Muszę się z tym zgodzić, Mały Guybrushu. Co o tym myślisz, Mały Le
 
 msgctxt "guykab070"
 msgid "I think you should be keelhauled until the flesh is ripped from your body!"
-msgstr "Myślę, że powinni cię wychłostać za te słowa!"
+msgstr "Myślę, że powinno się cię przeciągnąć pod kilem aż do zerwania skóry!"
 
 msgctxt "guykab071"
 msgid "Gosh, that's not very nice.  What do ya think of that, Lil' Guybrush?"
-msgstr "To nie jest za miłe. Ty też tak myślisz, Mały Guybrushu?"
+msgstr "To nie było zbyt miłe. Ty też tak myślisz, Mały Guybrushu?"
 
 msgctxt "guykab072"
 msgid "I think that someday Lil' Elaine will be mine!"
@@ -22592,19 +22592,19 @@ msgstr "Myślę, że wkrótce Mała Elaine będzie moja!"
 
 msgctxt "guykab073"
 msgid "Gee, I didn't even know there was a Lil' Elaine.  What do you think, Lil' Guybrush?"
-msgstr "Jeju, nawet nie wiedziałem, że ktoś taki istnieje. Co o tym myślisz Mały Guybrushu?"
+msgstr "Jeju, nawet nie wiedziałem, że ktoś taki istnieje. Co o tym myślisz, Mały Guybrushu?"
 
 msgctxt "guykab074"
 msgid "I think Lil' Guybrush is a big wussy!"
-msgstr "Myślę, że Mały Guybrush to ogromny palant!"
+msgstr "Myślę, że Mały Guybrush to wielki mięczak!"
 
 msgctxt "guykab075"
 msgid "Jeepers, Lil' LeChuck, that's just mean.  What do you think, Lil' Guybrush?"
-msgstr "Jeja, naprawdę tak myślisz, Mały LeChuck? Co tym sądzisz, Mały Guybrush?"
+msgstr "Jejka, Mały LeChucku, to było złośliwe? Co tym sądzisz, Mały Guybrush?"
 
 msgctxt "guykab076"
 msgid "I think Lil' LeChuck should worry less about his enemies, and more about his personal hygiene!"
-msgstr "Myślę, że Mały LeChuck powinien się tak nie martwić o swoich wrogów, lecz bardziej o swoją higienę!"
+msgstr "Myślę, że Mały LeChuck powinien się mniej martwić o swoich wrogów, a bardziej o higienę osobistą!"
 
 msgctxt "guykab077"
 msgid "Yeah!"
@@ -22612,39 +22612,39 @@ msgstr "Taaak!"
 
 msgctxt "guykab078"
 msgid "I think Lil' LeChuck can kiss my woolly butt!"
-msgstr "Sądzę, że Mały LeChuck może mnie pocałować w tyłek!"
+msgstr "Myślę, że Mały LeChuck może mnie cmoknąć w tyłek!"
 
 msgctxt "guykab079"
 msgid "I think Lil' LeChuck is, clinically speaking, a nutjob!"
-msgstr "Myślę, że Mały LeChuck jest klinicznie psychiczny!"
+msgstr "Myślę, że Mały LeChuck jest, mówiąc klinicznie, świrem!"
 
 msgctxt "guykab080"
 msgid "I think Lil' Guybrush wouldn't know a real pirate if it stabbed him in the liver!"
-msgstr "Chyba Mały Guybrush nie będzie wiedział co prawdziwy pirat kiedy ten wydrze mu wątrobę!"
+msgstr "Myślę, że Mały Guybrush nie poznałby pirata, gdyby ten wbił mu nóż w wątrobę!"
 
 msgctxt "guykab081"
 msgid "Oh yeah?"
-msgstr "Tak?"
+msgstr "Ach tak?"
 
 msgctxt "guykab082"
 msgid "I think Lil' Guybrush should learn to sleep with one ping-pong ball eye open!"
-msgstr "Chyba Mały Guybrush musi się nauczyć spać z otwartymi oczami, bo się tak mnie boi!"
+msgstr "Myślę, że Mały Guybrush musi się nauczyć spać z piłeczkami do ping-ponga!"
 
 msgctxt "guykab083"
 msgid "I think Lil' Guybrush is a preening pirate wannabe!"
-msgstr "Mały LeChuck to marny naśladowca pirata!"
+msgstr "Myślę, że LeChuck to obnoszący się pozer pirata!"
 
 msgctxt "guycpt046"
 msgid "Excuse me, ma'am."
-msgstr "Przepraszam bardzo."
+msgstr "Przepraszam panią."
 
 msgctxt "rivcpt001"
 msgid "What can I do for you, young man?"
-msgstr "Co mogę dla ciebie zrobić?"
+msgstr "W czym mogę pomóc, młodzieńcze?"
 
 msgctxt "rivcpt002"
 msgid "Are you ready to take our class, young man?"
-msgstr "Gotowy by wstąpić do naszej klasy, młody człowieku?"
+msgstr "Gotów rozpocząć lekcję, młodzieńcze?"
 
 msgctxt "guycpt047"
 msgid "This is kind of a strange place for a school."
@@ -22652,23 +22652,23 @@ msgstr "To trochę dziwne miejsce jak na szkołę."
 
 msgctxt "rivcpt003"
 msgid "This isn't your average school, dearie."
-msgstr "Ale to nie jest zwykła szkoła, złotko."
+msgstr "To nie jest zwykła szkoła, złotko."
 
 msgctxt "rivcpt004"
 msgid "This is the Ozzie Mandrill Pirate Transmogrification Center."
-msgstr "To Centrum Dobrego Pirata Ozziego Mandrilla."
+msgstr "To Centrum Pirackiego Przeobrażenia Ozziego Mandrilla."
 
 msgctxt "guycpt048"
 msgid "Eh, uh, transmawhatification?"
-msgstr "Jakiego pirata?"
+msgstr "Prze-kiego-żenia?"
 
 msgctxt "rivcpt005"
 msgid "Transmogrification."
-msgstr "Dobrego Pirata."
+msgstr "Przeobrażenia."
 
 msgctxt "rivcpt006"
 msgid "We take barbaric, foul-smelling pirates"
-msgstr "Bierzemy barbarzyńskich i niewychowanych piratów"
+msgstr "Bierzemy barbarzyńskich, cuchnących piratów"
 
 msgctxt "rivcpt007"
 msgid "(like yourself)"
@@ -22676,23 +22676,23 @@ msgstr "(jak ty)"
 
 msgctxt "rivcpt008"
 msgid "and transform them into prim, productive, and polite members of the emerging consumer-based economy."
-msgstr "i przemieniamy ich w uczciwych, produktywnych i grzecznych członków naszego społeczeństwa."
+msgstr "i przekształcamy ich w prymitywnych, produktywnych i uprzejmych członków nowej, konsumpcyjnej gospodarki."
 
 msgctxt "guycpt049"
 msgid "Th-that's the most nefariously evil thing I've ever heard!"
-msgstr "To...to najbardziej nikczemnie zła rzecz jaką słyszałem!"
+msgstr "To najbardziej nikczemnie zła rzecz, jaką kiedykolwiek słyszałem!"
 
 msgctxt "rivcpt009"
 msgid "Oh, now, now, sweetie.  Don't knock it until you've tried it."
-msgstr "Teraz tak, kochany. Nie oceniaj dnia przed zachodem."
+msgstr "Teraz tak, złotko. Nie oceniaj dnia przed zachodem słońca."
 
 msgctxt "guycpt050"
 msgid "I'm tired of being a slimy pirate.  Sign me up."
-msgstr "Już nie chce być okrutnym piratem. Zapisz mnie."
+msgstr "Już nie chce być oślizgłym piratem. Zapisuj."
 
 msgctxt "rivcpt010"
 msgid "Wonderful!  Just go in and take a seat, and you'll soon be on your way to a brighter tomorrow."
-msgstr "Świetnie! Tylko wejdźmy do środka, zajmiesz miejsce i to będzie początek twojego dobrego jutra."
+msgstr "Cudownie! Wejdź i zajmij swoje miejsce a już wkrótce będziesz na drodze do lepszego jutra."
 
 msgctxt "guycpt051"
 msgid "Do you know anything about the Ultimate Insult?"
@@ -22704,19 +22704,19 @@ msgstr "A co to?"
 
 msgctxt "guycpt052"
 msgid "It's a powerful voodoo talisman that destroys peoples' egos."
-msgstr "To potężny talizman voodoo, który niszczy ludzi od środka."
+msgstr "To potężny talizman voodoo, który niszczy ludzkie ego."
 
 msgctxt "rivcpt012"
 msgid "Oh my, we don't allow any voodoo paraphernalia in our classroom, young man."
-msgstr "O Boże, nie tolerujemy żadnych voodoo wyznawców, młodych człowieku."
+msgstr "Och nie, nie tolerujemy żadnych akcesoriów voodoo w naszej klasie, młodzieńcze."
 
 msgctxt "rivcpt013"
 msgid "Mister Mandrill feels that voodoo is a prime contributor to the pirate lifestyle."
-msgstr "Pan Mandrill uważa, że takie voodoo to przyczyna piractwa."
+msgstr "Pan Mandrill uważa, że voodoo jest główną przyczyną pirackiego stylu życia."
 
 msgctxt "guycpt053"
 msgid "Did you know that there's a crazy man cruising along your shore?"
-msgstr "Czy wiesz, że tam przy brzegu pływa jakiś koleś co ma nie pokolei?"
+msgstr "Czy wiesz, że wzdłuż wybrzeża pływa jakiś szaleniec?"
 
 msgctxt "rivcpt014"
 msgid "Do you mean that brave Admiral Casaba?"
@@ -22728,15 +22728,15 @@ msgstr "Odważnym?"
 
 msgctxt "rivcpt015"
 msgid "He's single-handedly keeping the great unwashed pirate masses of Knuttin Atoll from corrupting the paradise of Jambalaya Island™."
-msgstr "Sam, w pojedynkę świetnie radzi sobie z masą niegrzecznych piratów stąd do samej Wyspy Jambalaya™"
+msgstr "Sam jak palec powstrzymuje wielkie, niemyte masy piratów z Atolu Nicanic przed zepsuciem raju na Wyspie Jambalaya™."
 
 msgctxt "guycpt055"
 msgid "He's a loon!"
-msgstr "To frajer!"
+msgstr "To głupek!"
 
 msgctxt "rivcpt016"
 msgid "The most courageous men are always a little crazy, dearie."
-msgstr "Najodważniejsi mężczyźni są zawsze trochę pokręceni, skarbie."
+msgstr "Najodważniejsi zawsze są trochę pokręceni, skarbie."
 
 msgctxt "guycpt056"
 msgid "Um, bye."
@@ -22752,19 +22752,19 @@ msgstr "Tak, panie Threepwood?"
 
 msgctxt "guycpt058"
 msgid "I'd like to take another whack at becoming a transmanwhatified pirate."
-msgstr "Chciałbym jeszcze raz spróbować przemienić się w dobrego."
+msgstr "Chciałbym jeszcze raz spróbować zostać przekokszonym piratem."
 
 msgctxt "rivcpt018"
 msgid "Well, what for, dearie?  You already passed the class."
-msgstr "Ale po co? Masz już zdaną klasę."
+msgstr "Ale po cóż, złotko? Masz już zdaną klasę."
 
 msgctxt "guycpt059"
 msgid "Oh, I know, but I feel a relapse coming on."
-msgstr "No tak, wiem, ale czuje, że muszę się doszkolić."
+msgstr "No wiem, ale czuję, że nawrót się zbliża."
 
 msgctxt "guycpt060"
 msgid "Arrr.  Ayyyye.  Avast, ya swabs!"
-msgstr "Arrr. Ayyyye. Nie pyskuj mi!"
+msgstr "Arrr. Aj. Stójże, gamoniu!"
 
 msgctxt "guycpt061"
 msgid "Eh, see?"
@@ -22772,19 +22772,19 @@ msgstr "Widzisz?"
 
 msgctxt "rivcpt019"
 msgid "Oh, you poor man.  Take a seat, and we'll get started."
-msgstr "Biedny chłopczyk. Zajmij miejsce i zaczynamy."
+msgstr "Och, bidulek. Zajmij miejsce i zaczynamy."
 
 msgctxt "rivcpt020"
 msgid "Are you prepared to take the class seriously this time?"
-msgstr "A przygotowałeś się dobrze tym razem?"
+msgstr "A czy tym razem potraktujesz nasze lekcje poważnie?"
 
 msgctxt "guycpt062"
 msgid "Yes, ma'am.  This pirate lifestyle is too physically taxing for a wimp like me."
-msgstr "Tak, pszepani. Piracki świat jest zbyt okrutny dla takie człowieka jak ja."
+msgstr "Tak. Piracki styl życia jest zbyt obciążający dla takiego mięczaka jak ja."
 
 msgctxt "rivcpt021"
 msgid "I understand.  Take a seat, and we'll get started."
-msgstr "Rozumiem. Usiądź sobie i zaczynamy."
+msgstr "Rozumiem. Zajmij miejsce i zaczynamy."
 
 msgctxt "rivcpt022"
 msgid "Absolutely not!"
@@ -22792,11 +22792,11 @@ msgstr "Absolutnie nie!"
 
 msgctxt "rivcpt023"
 msgid "I have no intention of wasting my precious skills on intractable pirates like you..."
-msgstr "Nie chce już marnować moich zdolności pedagogicznych dla kogoś takiego..."
+msgstr "Nie mam zamiaru marnować moich cennych umiejętności na takich krnąbrców jak ty..."
 
 msgctxt "rivcpt024"
 msgid "Not while there are pirates out there who are practically begging for this service."
-msgstr "...jest tyle dobrych piratów z których powinieneś brać przykład."
+msgstr "Nie, dopóki istnieją piraci, którzy praktycznie błagają o to, bym im pomóc."
 
 msgctxt "guycpt063"
 msgid "Eh, but--"
@@ -22804,15 +22804,15 @@ msgstr "Ale..."
 
 msgctxt "rivcpt025"
 msgid "Go away, Mister Threepwood."
-msgstr "Idź sobie, panie Threepwood."
+msgstr "Proszę odejść, panie Threepwood."
 
 msgctxt "guycpt064"
 msgid "Why didn't I get a Pirate Transmoglorification Certificate?"
-msgstr "Dlaczego nie dostałem Certyfikatu Dobrego Pirata?"
+msgstr "Dlaczego nie dostałem Pirackiego Certyfikatu Przeodrobaczenia?"
 
 msgctxt "rivcpt026"
 msgid "You have to pass the course to get a certificate, Mister Threepwood."
-msgstr "Żeby go mieć, trzeba pozytywnie zdać nasz kurs, panie Threepwood."
+msgstr "Żeby go mieć, trzeba zdać nasz kurs, panie Threepwood."
 
 msgctxt "guycpt065"
 msgid "Oh."
@@ -22820,11 +22820,11 @@ msgstr "Och."
 
 msgctxt "guycpt066"
 msgid "I'd like to reclaim a confiscated item."
-msgstr "Chciałbym odzyskać zabrane rzeczy."
+msgstr "Chciałbym odzyskać skonfiskowane rzeczy."
 
 msgctxt "rivcpt027"
 msgid "But I didn't confiscate anything from you, sweetie."
-msgstr "Ale ja ci nic nie zabrałam, mój drogi."
+msgstr "Ale ja ci nic nie skonfiskowałam, złotko."
 
 msgctxt "guycpt067"
 msgid "I'm, uh, collecting it for a friend."
@@ -22832,7 +22832,7 @@ msgstr "Tak, ale kolega zapomniał zabrać."
 
 msgctxt "rivcpt028"
 msgid "Sorry, dear, but the owners of confiscated items must reclaim them in person."
-msgstr "Przykro mi, ale właściciele zabranych rzezy muszą się po nie zgłosić osobiście."
+msgstr "Przykro mi, ale właściciele skonfiskowanych przedmiotów muszą odebrać je osobiście."
 
 msgctxt "guycpt068"
 msgid "Darn."
@@ -22844,11 +22844,11 @@ msgstr "Uważaj na słowa, synku."
 
 msgctxt "guycpt069"
 msgid "What's your first name, baby?"
-msgstr "Jak masz na imię, kotku?"
+msgstr "Jak cię zwą, kotku?"
 
 msgctxt "rivcpt030"
 msgid "Don't try to smooth talk me, mister."
-msgstr "Nie bierz mnie pod włos."
+msgstr "Nie bierz mnie pod włos, kolego."
 
 msgctxt "guykab084"
 msgid "Pretty Polly."
@@ -22856,31 +22856,31 @@ msgstr "Piękna Polly."
 
 msgctxt "parkab003"
 msgid "<bwak> Pretty Polly."
-msgstr "<kwak> Piękna Polly."
+msgstr "Piękna Polly."
 
 msgctxt "parkab004"
 msgid "<bwak> Pretty <hiccup> Polly."
-msgstr "<kwak> Piękna <bek> Polly."
+msgstr "Piękna... Polly."
 
 msgctxt "parkab005"
 msgid "<bwak> PrettyPrettyPrettyPolly."
-msgstr "<kwak> PięknaPięknaPięknaPolly."
+msgstr "PięknaPięknaPięknaPolly."
 
 msgctxt "guykab085"
 msgid "LeChuck sucks!"
-msgstr "LeChuck do dupy!"
+msgstr "LeChuck ssie!"
 
 msgctxt "parkab006"
 msgid "LeChuck Sucks! <bwak>"
-msgstr "LeChuck do dupy! <kwak>"
+msgstr "LeChuck... ssie!"
 
 msgctxt "parkab007"
 msgid "<bwak> <hiccup> LeChuck sucks!"
-msgstr "<kwak> <bek> LeChuck do dupy!"
+msgstr "LeChuck... ssie!"
 
 msgctxt "parkab008"
 msgid "<bwak> LeChuckySuckySuckSucks."
-msgstr "<kwak> LeChuckjestdodupy!."
+msgstr "LeChuck... ssiesiesiessie."
 
 msgctxt "guykab086"
 msgid "Two Plus Two?"
@@ -22888,91 +22888,91 @@ msgstr "Dwa plus dwa?"
 
 msgctxt "parkab009"
 msgid "<bwak> Four!"
-msgstr "<kwak> Cztery!"
+msgstr "Cztery!"
 
 msgctxt "parkab010"
 msgid "<bwak> Four! <hiccup>"
-msgstr "<kwak> Cztery! <bek>"
+msgstr "Cz... tery!"
 
 msgctxt "parkab011"
 msgid "<bwak> FourFourFour!"
-msgstr "<kwak> CzteryCzteryCztery!"
+msgstr "Cztery Cztery Cztery!"
 
 msgctxt "guykab087"
 msgid "That must've been the truth-telling parrot."
-msgstr "Ty musisz być papugą mówiącą prawdę."
+msgstr "To musi być papuga mówiącą prawdę."
 
 msgctxt "parkab012"
 msgid "Three! <bwak>"
-msgstr "Trzy! <kwak>"
+msgstr "Trzy!"
 
 msgctxt "parkab013"
 msgid "<bwak> Thirty-Seven! <hiccup>"
-msgstr "<kwak> Trzydzieści siedem! <bek>"
+msgstr "Trzydzieści... siedem!"
 
 msgctxt "parkab014"
 msgid "<bwak> NinetyEightSkillion!"
-msgstr "<kwak> DziewięćdziesiątOsiemMilionów!"
+msgstr "Dziewięćdziesiąt Osiem Skilionów!"
 
 msgctxt "guykab088"
 msgid "That must've been the lying parrot"
-msgstr "Ty musisz być kłamiącą papugą."
+msgstr "To musi być kłamiącą papuga."
 
 msgctxt "guykab089"
 msgid "What's my name?"
-msgstr "Podaj moje imię?"
+msgstr "Jak się zwę?"
 
 msgctxt "parkab015"
 msgid "<bwak> Guybrush Threepwood! <bwak>"
-msgstr "<kwak> Guybrush Threepwood! <kwak>"
+msgstr "Guybrush Threepwood!"
 
 msgctxt "parkab016"
 msgid "<bwak> Guybrush <hiccup> Threepwood! <hiccup> <bwak>"
-msgstr "<kwak> Guybrush <bek> Threepwood! <bek> <kwak>"
+msgstr "Guybrush... Threepwood!"
 
 msgctxt "parkab017"
 msgid "<bwak> Guyguyguyguybrushbrush Threeeeepwood!  ThreeeeeepwoodThreeeepwood!  <bwak>"
-msgstr "<kwak> Guyguyguyguybrushbrush Threeeeepwood!  ThreeeeeepwoodThreeeepwood!  <kwak>"
+msgstr "Guyguyguyguybrushbrush Threeeeepwood! Threeeeeepwood Threeeepwood!"
 
 msgctxt "parkab018"
 msgid "<bwak> Davey Jones!"
-msgstr "<kwak> Davey Jones!"
+msgstr "Davey Jones!"
 
 msgctxt "parkab019"
 msgid "<bwak> Shnazzlebard Hizzleprit! <hic> err."
-msgstr "<kwak> Shnazzlebard Hizzleprit! <hik> err."
+msgstr "Shnazzlebard Hizzle... prit!."
 
 msgctxt "parkab020"
 msgid "<bwak> Wubbawubbawubbawubba! <bwak>"
-msgstr "<kwak> Wubbawubbawubbawubba! <kwak>"
+msgstr "Wubbawubbawubbawubba!"
 
 msgctxt "guykab090"
 msgid "Who's your daddy?"
-msgstr "A twój tatuś to?"
+msgstr "Twój tatuś to?"
 
 msgctxt "parkab021"
 msgid "<bwak> Jumbeaux LaFeet!  <hiccup>"
-msgstr "<kwak> Jumbeaux LaFeet!  <bek>"
+msgstr "Jumbeaux La... Feet!"
 
 msgctxt "parkab022"
 msgid "<bwak> Jumbeaux LaFeet! <hic>."
-msgstr "<kwak> Jumbeaux LaFeet! <hik>."
+msgstr "Jumbeaux LaFeet!"
 
 msgctxt "parkab023"
 msgid "<bwak> JumbeauxJumbeauxJumbeauxJumbeauxJumbeaux!"
-msgstr "<kwak> JumbeauxJumbeauxJumbeauxJumbeauxJumbeaux!"
+msgstr "Jumbeaux Jumbeaux Jumbeaux Jumbeaux Jumbeaux!"
 
 msgctxt "parkab024"
 msgid "<bwak> Nosehair Seepgood!"
-msgstr "<kwak> Włochaty Nosowski!"
+msgstr "Włochaty Nosowski!"
 
 msgctxt "parkab025"
 msgid "<bwak> I can parrot any lick in the joint! <hiccup>"
-msgstr "<kwak> Mogę być dowolną papugą! <bek>"
+msgstr "Mogę sparodiować każdą papugę!"
 
 msgctxt "parkab026"
 msgid "<bwak> SatanSatanSatanSatanSatan!"
-msgstr "<kwak> SzatanSzatanSzatanSzatanSzatan!"
+msgstr "Szatan Szatan Szatan Szatan Szatan!"
 
 msgctxt "guykab091"
 msgid "What are you?"
@@ -22980,55 +22980,55 @@ msgstr "Kim jesteś?"
 
 msgctxt "parkab027"
 msgid "<bwak> A parrot!"
-msgstr "<kwak> Papugą!"
+msgstr "Papugą!"
 
 msgctxt "parkab028"
 msgid "<bwak> A freakin' <hic> parrot! Thyngh..."
-msgstr "<kwak> Szurniętą <hik> papugą! Thyngh..."
+msgstr "Szurniętą... papugą!"
 
 msgctxt "parkab029"
 msgid "<bwak> Parrrrrrot!"
-msgstr "<kwak> Papuuuugą!"
+msgstr "Papuuuugą!"
 
 msgctxt "parkab030"
 msgid "<bwak> A three-headed monkey!"
-msgstr "<kwak> Trójgłową małpą!"
+msgstr "Trójgłową małpą!"
 
 msgctxt "parkab031"
 msgid "<bwak> An abominible... <gibberish> abimibinal...abrombina... <hic> a yeti!"
-msgstr "<kwak> Okropnym...<jazgocze> okropnosiuśkim...<hik> jeti!"
+msgstr "Abominacją... yeti!"
 
 msgctxt "parkab032"
 msgid "<bwak> Iamthequiesathadderach! <bwak> Iamthequiesathadderach! <bwak>"
-msgstr "<kwak> Iamthequiesathadderach! <kwak> Iamthequiesathadderach! <kwak>"
+msgstr "Iamthequiesathadderach! Iamthequiesathadderach!"
 
 msgctxt "guykab092"
 msgid "What's the capitol of North Dakota?"
-msgstr "Stolica północnej Dakoty?"
+msgstr "Stolica polskich gór?"
 
 msgctxt "parkab033"
 msgid "<bwak> <bwak> Fargo!"
-msgstr "<kwak> <kwak> Fargo!"
+msgstr "Zakopane!"
 
 msgctxt "parkab034"
 msgid "<bwak> Far- <hic> -go!"
-msgstr "<kwak> Far- <hik> -go!"
+msgstr "Zako... pane!"
 
 msgctxt "parkab035"
 msgid "<bwak> Farrrrrrrgo!"
-msgstr "<kwak> Farrrrrrrgo!"
+msgstr "Zakopane!"
 
 msgctxt "parkab036"
 msgid "<bwak> Istanbul!"
-msgstr "<kwak> Istambuł!"
+msgstr "Istambuł!"
 
 msgctxt "parkab037"
 msgid "<bwak> My feathered bu...! <hic>"
-msgstr "<kwak> Moje optactwo <hik>"
+msgstr "Moje ptasie...!"
 
 msgctxt "parkab038"
 msgid "<bwak> DakotaCityityityityity!"
-msgstr "<kwak> DakotaCityityityityity!"
+msgstr "Miasto Radom!"
 
 msgctxt "guykab093"
 msgid "Are you the parrot that always tells the truth?"
@@ -23036,19 +23036,19 @@ msgstr "Jesteś papugą zawsze mówiącą prawdę?"
 
 msgctxt "parkab039"
 msgid "<bwak> Yes!"
-msgstr "<kwak>Tak!!"
+msgstr "Tak!"
 
 msgctxt "parkab040"
 msgid "<bwak> <hic> Yes!"
-msgstr "<kwak> <hik> Tak!"
+msgstr "T... tak!"
 
 msgctxt "parkab041"
 msgid "<bwak> YesYesYesYesYesYesYesYesYes!"
-msgstr "<kwak>TakTakTakTakTakTakTakTak!"
+msgstr "Tak Tak Tak Tak Tak Tak Tak Tak!"
 
 msgctxt "guykab094"
 msgid "I don't think that told me anything."
-msgstr "Chyba to mi nic nie powie."
+msgstr "Chyba to mi nic nie mówi."
 
 msgctxt "guykab095"
 msgid "Are you the parrot that always lies?"
@@ -23056,15 +23056,15 @@ msgstr "Czy jesteś kłamiącą papugą?"
 
 msgctxt "parkab042"
 msgid "<bwak> No!"
-msgstr "<kwak> Nie!"
+msgstr "Nie!"
 
 msgctxt "parkab043"
 msgid "<bwak> Heck no! <hic>."
-msgstr "<kwak> Nie, do diabła! <hik>END}"
+msgstr "W życiu...!"
 
 msgctxt "parkab044"
 msgid "<bwak> NoNoNoNo!"
-msgstr "<kwak> NieNieNieNie!"
+msgstr "Nie Nie Nie Nie!"
 
 msgctxt "guykab096"
 msgid "Is Tiny LaFeet's hat buried under this rock?"
@@ -23072,39 +23072,39 @@ msgstr "Czy czapka Tiniego LaFeet jest pod tą skałą?"
 
 msgctxt "parkab045"
 msgid "<bwak> Heck yes! <hic>."
-msgstr "<kwak> Tak, do diabła! <hik>."
+msgstr "Tak jest!"
 
 msgctxt "parkab046"
 msgid "<bwak> Yesireebob!"
-msgstr "<kwak> Tak, kretynie!"
+msgstr "Takje!"
 
 msgctxt "parkab047"
 msgid "<bwak> No! <hic>."
-msgstr "<kwak> Nie! <hik>."
+msgstr "Nie!"
 
 msgctxt "parkab048"
 msgid "<bwak> No!"
-msgstr "<kwak> Nie!"
+msgstr "Nie!"
 
 msgctxt "guykab097"
 msgid "I'm sure that was useful, but I'm not sure how."
-msgstr "Jestem pewny, że to się przyda, ale nie wiem jak."
+msgstr "To na bank się przyda, ale nie wiem jak."
 
 msgctxt "guykab098"
 msgid "If only I could tells these birds apart."
-msgstr "Jeśli tylko mógłbym oddzielić te ptaki."
+msgstr "Jakbym tylko umiał rozróżnić te ptaki."
 
 msgctxt "guykab099"
 msgid "Hmm, I know that that parrot always tells the truth, so..."
-msgstr "Hmm, skoro wiem, że ta papuga zawsze mówi prawdę...."
+msgstr "Hmm, skoro wiem, że ta papuga zawsze mówi prawdę..."
 
 msgctxt "guykab100"
 msgid "Hmm, I know that parrot always lies, so..."
-msgstr "Hmm, skoro wiem że ta papuga zawsze kłamie...."
+msgstr "Hmm, skoro wiem, że ta papuga zawsze kłamie...."
 
 msgctxt "guykab101"
 msgid "Tiny LaFeet's hat must be buried under THIS ROCK!"
-msgstr "Czapka LaFeeta musi być POD TYM głazem!"
+msgstr "Czapka LaFeeta musi być POD TĄ skałą!"
 
 msgctxt "guykab102"
 msgid "Which way should I go to find Tiny's hat?"
@@ -23112,67 +23112,67 @@ msgstr "Którędy muszę iść, żeby znaleźć czapkę Tiniego?"
 
 msgctxt "parkab049"
 msgid "<bwak> North!"
-msgstr "<kwak> Na północ!"
+msgstr "Na północ!"
 
 msgctxt "parkab050"
 msgid "<bwak> North! <hic>."
-msgstr "<kwak> Na północ! <hik>."
+msgstr "Na... północ!"
 
 msgctxt "parkab051"
 msgid "<bwak> NorthNorthNorthNorthNorthNorth!"
-msgstr "<kwak> Na północpółnocpółnocpółnoc!"
+msgstr "Północ północ północ północ!"
 
 msgctxt "parkab052"
 msgid "<bwak> South!"
-msgstr "<kwak> Na południe!"
+msgstr "Na południe!"
 
 msgctxt "parkab053"
 msgid "<bwak> South! <hic>."
-msgstr "<kwak> Na południe! <hik>."
+msgstr "Na... południe!"
 
 msgctxt "parkab054"
 msgid "<bwak> SouthSouthSouthSouthSouthSouthSouth!"
-msgstr "<kwak> Na południepołudniepołudniepołudnie!"
+msgstr "Południe południe południe południe!"
 
 msgctxt "parkab055"
 msgid "<bwak> East!"
-msgstr "<kwak> Na wschód!"
+msgstr "Na wschód!"
 
 msgctxt "parkab056"
 msgid "<bwak> East! <hic>."
-msgstr "<kwak> Na wschód! <hik>."
+msgstr "Na... wschód!"
 
 msgctxt "parkab057"
 msgid "<bwak> EastEastEastEastEastEastEast!"
-msgstr "<kwak>Na wschódwschódwschód!"
+msgstr "Wschód wschód wschód!"
 
 msgctxt "parkab058"
 msgid "<whistle> <bwak> West!"
-msgstr "<gwizdek> <kwak> Na zachód!"
+msgstr "Na... zachód!"
 
 msgctxt "parkab059"
 msgid "<bwak> <hic> West!"
-msgstr "<kwak> <hik> Na zachód!"
+msgstr "Na zachód!"
 
 msgctxt "parkab060"
 msgid "<bwak> WestWestWestWestWestWest! <bwak> <whistle>"
-msgstr "<kwak> Na zachódzachódzachódzachód! <kwak> <gwizdek>"
+msgstr "Zachód zachód zachód zachód!"
 
 msgctxt "parkab061"
 msgid "<bwak> Nowhere!"
-msgstr "<kwak> Nigdzie!"
+msgstr "Nigdzie!"
 
 msgctxt "parkab062"
 msgid "<bwak> Nowhere! <hic>."
-msgstr "<kwak> Nigdzie! <hik>."
+msgstr "Nigdzie...!"
 
 msgctxt "parkab063"
 msgid "<bwak> NowhereNowhereNowhereNowhere!"
-msgstr "<kwak> NigdzieNigdzieNigdzieNigdzie!"
+msgstr "Nigdzie nigdzie nigdzie nigdzie!"
 
 msgctxt "daishi015"
 msgid "Suits me fine...hey, who painted me pink?"
-msgstr "Nieźle... hej, kto mnie tak pomalował?"
+msgstr "Nieźle... hej, kto mnie tak pomalował?d"
 
 msgctxt "navscu055"
 msgid "Congratulations.  You got yourself a navigator."
@@ -27756,7 +27756,7 @@ msgstr "Dzień dobry, klaso."
 
 msgctxt "rivpta005"
 msgid "My name is Miss Rivers, and I'd like to welcome you to Ozzie Mandrill's Pirate Transmogrification Academy,"
-msgstr "Nazywam się pani Rivers, witam na pierwszej lekcji w Akademii Dobrego Pirata pana Ozziego Mandrilla,"
+msgstr "Nazywam się pani Rivers, witam na pierwszej lekcji w Pirackiej Akademii Przeobrażenia Ozziego Mandrilla,"
 
 msgctxt "rivpta006"
 msgid "a wholly-owned subsidiary of Ozzie Mandrill Enterprises."
@@ -27996,7 +27996,7 @@ msgstr "Ale mamy jeszcze Guybrusha..."
 
 msgctxt "rivpta043"
 msgid "Guybrush, I'm proud to say that you're the best student that Ozzie Mandrill's Pirate Transmogrification Academy has ever had!"
-msgstr "Guybrushu, z dumą mogę powiedzieć, że jesteś najlepszym studentem jaka nasza Akademia Ozziego Mandrilla miała w życiu."
+msgstr "Guybrushu, z dumą mogę powiedzieć, że jesteś najlepszym studentem jaka nasza Piracka Akademia Przeobrażenia Ozziego Mandrilla miała w życiu."
 
 msgctxt "guypta006"
 msgid "Wow!"
@@ -28004,7 +28004,7 @@ msgstr ""
 
 msgctxt "rivpta044"
 msgid "It's an honor to bestow upon you this Certificate of Transmogrification, which will help you get a high paying job in the tourist services industry!"
-msgstr "Z wielką przyjemnością mogę wręczyć ci Certyfikat Dobrego Pirata, który zagwarantuje ci dobrą prace w przemyśle turystycznym."
+msgstr "Z wielką przyjemnością mogę wręczyć ci Certyfikat Przeobrażenia, który zagwarantuje ci dobrą prace w przemyśle turystycznym."
 
 msgctxt "rivpta045"
 msgid "Now, before you all leave to continue your lives, I just have one more thing to say..."
@@ -28020,7 +28020,7 @@ msgstr "Nie ma to jak dobre zakończenie roku."
 
 msgctxt "rivpta047"
 msgid "Guybrush, you've renewed your Certificate of Transmogrification with flying colors, congratulations."
-msgstr "Guybrushu, uzupełniłeś swój Certyfikat Dobrego Pirata bardzo dobrze, gratuluje."
+msgstr "Guybrushu, uzupełniłeś swój Certyfikat Przeobrażenia bardzo dobrze, gratuluje."
 
 msgctxt "rivpta048"
 msgid "NOW GET OUT!"
@@ -28516,7 +28516,7 @@ msgstr "Cześć, Stan."
 
 msgctxt "stasta005"
 msgid "What can I do for you, young man?"
-msgstr "Co mogę dla ciebie zrobić?"
+msgstr "W czym mogę pomóc, młodzieńcze?"
 
 msgctxt "guysta005"
 msgid "Tell me about these pamphlets."
@@ -33324,7 +33324,7 @@ msgstr "Wygląda na to, że nie ruszasz się zbytnio z tego stołka."
 
 msgctxt "guygpt062"
 msgid "So, what's today's special in your evil domain?"
-msgstr "Więc, co jest dzisiaj specjalnego w twojej złej ofercie?"
+msgstr "Więc, jakie jest danie dnia w twojej złej ofercie?"
 
 msgctxt "guygpt063"
 msgid "Any interest in a prosthetic stomach?"
@@ -33880,7 +33880,7 @@ msgstr "Zwracaj uwagę na słowa, młody człowieku."
 
 msgctxt "rivpta102"
 msgid "Oh, that certificate doesn't mean anything anymore.  I've voided your transmogrification."
-msgstr "Nie, ten certyfikat jest już nie ważny. Został anulowany."
+msgstr "Nie, ten certyfikat jest już nie ważny. Unieważniłam twoje przeobrażenie."
 
 msgctxt "rivpta103"
 msgid "You'll never amount to anything, even WITH that certificate!"
@@ -34344,7 +34344,7 @@ msgstr "Ostatnio takim grałem."
 
 msgctxt "ptwgpt001"
 msgid "Knock it off, Murray!"
-msgstr "Zamknij się, Murray!"
+msgstr "Daj już spokój, Murray!"
 
 msgctxt "hb2kab001"
 msgid "Effette doily-sniffer!"
@@ -34364,7 +34364,7 @@ msgstr "Arr, ahoj, Wielki Guybrushu!"
 
 msgctxt "hb2kab008"
 msgid "Oh yeah?"
-msgstr "Tak?"
+msgstr "Ach tak?"
 
 msgctxt "hb2kab009"
 msgid "Yeah!"
@@ -35844,7 +35844,7 @@ msgstr "... moją kochaną, przerażającą sąsiadów babunie."
 
 msgctxt "guypta110"
 msgid "If I'm such a dunce, how'd I manage to get this certificate of transmogrification?"
-msgstr "Jeśli jestem takim idiotą to w jaki sposób poradziłem sobie ze zdobyciem czapki?"
+msgstr "Jeśli jestem takim idiotą to w jaki sposób zdobyłem certyfikat przeobrażenia?"
 
 msgctxt "guypta111"
 msgid "Oh yeah?  Well I never intended to use this thing, anyway!  So there!"
@@ -36264,7 +36264,7 @@ msgstr "Ale te stopy są OGROMNE!"
 
 msgctxt "guyall327"
 msgid "Maybe later."
-msgstr "Pogadamy jeszcze."
+msgstr "Może później."
 
 msgctxt "guyall328"
 msgid "This thing is rusty!"

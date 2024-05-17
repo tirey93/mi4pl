@@ -6517,8 +6517,8 @@
       <tuv lang="en-US">
         <seg>Am I old enough to hear this?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240427T171712Z">
-        <seg>Czy jest to historia dla dzieci?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T105356Z">
+        <seg>Czy to historia dla dorosłych?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7311,8 +7311,8 @@
       <tuv lang="en-US">
         <seg>And you are...?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A ty jesteś ...?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T104532Z">
+        <seg>A ty jesteś...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10775,8 +10775,8 @@
       <tuv lang="en-US">
         <seg>But as a promotional special, we're currently giving away a Planet Threepwood coupon for a complimentary Monkey Mug Meal to anybody who can ride the Manatee at the highest setting.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231211T092427Z">
-        <seg>Ale w ramach promocji rozdajemy kupon Planety Threepwood na bezpłatny posiłek z Małpim Kuflem dla każdego, kto ujedzie na Manacie na najwyższym ustawieniu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T104413Z">
+        <seg>Ale w ramach promocji rozdajemy kupon Planety Threepwood na bezpłatny posiłek z Małpim Kuflem dla każdego, kto ujedzie Manata na najwyższym ustawieniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15671,8 +15671,8 @@
       <tuv lang="en-US">
         <seg>Eh, pardon me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240503T191645Z">
-        <seg>O, przepraszam.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T104558Z">
+        <seg>Przepraszam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28491,8 +28491,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I may be evil, but I'm not crazy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240503T190532Z">
-        <seg>Może i jestem zły, ale nie głupi.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T105126Z">
+        <seg>Może i jestem zły, ale nie szalony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33640,8 +33640,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I'm ready to dive against you now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240427T175502Z">
-        <seg>Jestem już na pojedynek.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T105249Z">
+        <seg>Jestem już gotów na pojedynek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51496,8 +51496,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On today's menu is Swordmaster's Delight, Guybrush's Mighty Pirate Burger, Lobster LeChuck, and Elaine's Sea-sar Salad.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W dzisiejszym menu mamy "Rozkosznego Fechmistrza", "Burger Potężnego Pirata" "Homar LeChuck" no i "Sałatkę z Elaine"</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T104934Z">
+        <seg>W dzisiejszym menu mamy "Rozkosznego Fechmistrza", "Burger Potężnego Pirata" "Homar LeChuck" no i Sałatkę z Elaine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56880,8 +56880,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>So what is that thing over there with a saddle on it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240426T145834Z">
-        <seg>To o co chodzi z dziwadłem z siodłem?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T104458Z">
+        <seg>To o co chodzi z tym osiodłanym czymś?</seg>
       </tuv>
     </tu>
     <tu>
@@ -58608,8 +58608,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Suits me fine...hey, who painted me pink?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231026T134425Z">
-        <seg>Nieźle... hej, kto mnie tak pomalował?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240516T142256Z">
+        <seg>Nieźle... hej, kto mnie tak pomalował?d</seg>
       </tuv>
     </tu>
     <tu>
@@ -63160,8 +63160,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Then you should challenge de Pollo directly.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240424T152014Z">
-        <seg>To rzuć wyzwanie De Pollo .</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T105233Z">
+        <seg>To rzuć wyzwanie De Pollo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70753,8 +70753,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well, think a little harder.  I want no part of this Ultimate Insult tomfoolery.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240503T190501Z">
-        <seg>To pomyśl mocniej. Nie chcę brać udziału w ten talizmanowej błazenadzie.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240517T105143Z">
+        <seg>To pomyśl mocniej. Nie chcę brać udziału w tej talizmanowej błazenadzie.</seg>
       </tuv>
     </tu>
     <tu>

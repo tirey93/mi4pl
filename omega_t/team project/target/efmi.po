@@ -23448,7 +23448,7 @@ msgstr "To zdechła rybka używana jako przynęta."
 
 msgctxt "guyall068"
 msgid "Ewww..."
-msgstr "Ewww..."
+msgstr " "
 
 msgctxt "guyall069"
 msgid "It's sharp and hooky."
@@ -28392,7 +28392,7 @@ msgstr "W życiu!"
 
 msgctxt "munpta024"
 msgid "Cripes, you ARE hardcore!"
-msgstr "Ale z ciebie hardkor!"
+msgstr "Ale z ciebie hardcore!"
 
 msgctxt "guypta038"
 msgid "I ask the ship's captain if he needs any help."
@@ -28468,7 +28468,7 @@ msgstr "Przyłączam się do mojego nowego przyjaciela pijąc z nim całą noc."
 
 msgctxt "guypta051"
 msgid "I accept the grog, poison his own, and steal his treasure."
-msgstr "Przyjmuję grog, jego zatruwam i kradnę jego skarb."
+msgstr "Przyjmuję grog, jego zatruwam i okradam go ze skarbu."
 
 msgctxt "guypta052"
 msgid "Arrrrr!"
@@ -28492,7 +28492,7 @@ msgstr "Czy to ty?"
 
 msgctxt "stasta001"
 msgid "Why, if it isn't my old friend, er, Bob!"
-msgstr "Hej, jak dawno się nie widzieliśmy, yy, Bob!"
+msgstr "Hej, czy to aby nie mój stary druh, Bob!"
 
 msgctxt "guysta003"
 msgid "It's Guybrush."
@@ -28508,7 +28508,7 @@ msgstr "Witaj w Centrum Nieruchomości u Stana!"
 
 msgctxt "stasta004"
 msgid "Where a deal's a deal and the real estate is real!"
-msgstr "Tylko tu umowa jest umową, a prawdziwy majątek jest prawdziwy."
+msgstr "Gdzie umowa to umowa a nieruchomości nie uciekają!"
 
 msgctxt "guysta004"
 msgid "Hi, Stan."
@@ -28520,39 +28520,39 @@ msgstr "W czym mogę pomóc, młodzieńcze?"
 
 msgctxt "guysta005"
 msgid "Tell me about these pamphlets."
-msgstr "Opowiedz mi o tej broszurce."
+msgstr "Opowiedz mi o tych broszurkach."
 
 msgctxt "stasta006"
 msgid "Do yourself a favor and read them."
-msgstr "Po prostu ją przeczytaj."
+msgstr "Zrób sobie przysługę i je przeczytaj."
 
 msgctxt "stasta007"
 msgid "They're full of all sorts of great information about Stan's Time Shares!"
-msgstr "Masz tu mnóstwo informacji o programie \"Timesharing u Stana\"!"
+msgstr "Jest tam mnóstwo świetnych informacji o Timesharingu u Stana!"
 
 msgctxt "stasta008"
 msgid "Take one!  They're free!"
-msgstr "Weź jedną! Są za darmo!"
+msgstr "Weź jedną! Są za friko!"
 
 msgctxt "stasta009"
 msgid "That's the kind of guy I am!  Just giving things away!"
-msgstr "Taki ze mnie człowiek! Tylko bym dawał za darmo."
+msgstr "Taki już jestem! Lubię rozdawać!"
 
 msgctxt "guysta006"
 msgid "I thought you were selling life insurance."
-msgstr "Myślałem, że wciąż ubezpieczasz?"
+msgstr "Myślałem, że sprzedajesz ubezpieczenia."
 
 msgctxt "stasta010"
 msgid "Turned into a dead-end."
-msgstr "Ten biznes już zdechł."
+msgstr "To był ślepy zaułek."
 
 msgctxt "stasta011"
 msgid "Get it?  Dead-end.  Ha ha ha!!"
-msgstr "Łapiesz? Zdechł! Ha, ha, ha!"
+msgstr "Łapiesz? Ślepy."
 
 msgctxt "stasta012"
 msgid "Seriously, no money in it any more.  It just dried up."
-msgstr "Żadnej kasy z tego nie ma. Tylko wykańcza."
+msgstr "Poważnie, żadnej kasy w tym nie ma. Kompletna klapa."
 
 msgctxt "guysta007"
 msgid "Why?"
@@ -28560,15 +28560,15 @@ msgstr "Czemu?"
 
 msgctxt "stasta013"
 msgid "All my clients were dying and becoming ghosts just to collect on their policies."
-msgstr "Wszyscy ludzie, którzy umarli, wrócili jako duchy by odebrać swoją polisę."
+msgstr "Wszyscy klienci umierali i stawali się duchami tylko po to, by odebrać swoje polisy."
 
 msgctxt "stasta014"
 msgid "Oh well, gotta remain flexible, kid.  Know what I mean?"
-msgstr "Ale teraz mam lepsze pomysły, pewnie wiesz?"
+msgstr "Ale trzeba pozostać elastycznym. Kumasz czaczę?"
 
 msgctxt "stasta015"
 msgid "Time-shares are the wave of the future."
-msgstr "\"Wakacje ze Stanem\" to przyszłość."
+msgstr "Timesharing to przyszłość."
 
 msgctxt "guysta008"
 msgid "Why is your desk outside?"
@@ -28576,51 +28576,51 @@ msgstr "Czemu masz biurko na dworze?"
 
 msgctxt "stasta016"
 msgid "Ah, it's a beautiful day!"
-msgstr "Mamy taki ładny dzień."
+msgstr "Ach, jest dziś tak ładnie!"
 
 msgctxt "stasta017"
 msgid "How can you work inside on a day like this!?"
-msgstr "Jak można siedzieć w dusznym pokoju przy takiej pogodzie?"
+msgstr "Jak można pracować w środku w taki dzień?!"
 
 msgctxt "guysta009"
 msgid "Why are you REALLY outside?"
-msgstr "Aha, a tak NAPRAWDĘ?"
+msgstr "Czemu NAPRAWDĘ siedzisz na dworze?"
 
 msgctxt "stasta018"
 msgid "Just a, um, small problem with the local vermin."
-msgstr "Mamy mały problem z insektami."
+msgstr "Jest mały problem z miejscowym robactwem. "
 
 msgctxt "stasta019"
 msgid "It's the problem that's small; the vermin themselves are actually quite large."
-msgstr "A problem jest o tyle mały, że robaki są trochę duże."
+msgstr "To problem jest mały. Robactwo jest właściwie całkiem spore."
 
 msgctxt "stasta020"
 msgid "But it's nothing to worry about; it'll be taken care of right away!"
-msgstr "Ale nie ma co się przejmować. Zaraz się ich pozbędę."
+msgstr "Ale nie ma co się przejmować. Zaraz się ich pozbędę!"
 
 msgctxt "stasta021"
 msgid "It's just a minor setback.  What's important is that the time-share units are, legally-speaking, practically vermin free!"
-msgstr "Taka mała komplikacja. Ale najlepsze jest to, że cała organizacja jest praktycznie wolna od insektów!"
+msgstr "To drobne utrudnienie. Ważne jest to, że aktywa w timesharingu są, prawnie rzecz ujmując, wolne od robactwa!"
 
 msgctxt "guysta010"
 msgid "You're hawking real estate now?"
-msgstr "Więc teraz wynajmujesz domy?"
+msgstr "To teraz opychasz nieruchomości?"
 
 msgctxt "stasta022"
 msgid "T-t-t-time-shares, my good man."
-msgstr "To się nazywa time-shares."
+msgstr "Timesharing, dobry człowieku."
 
 msgctxt "stasta023"
 msgid "Looking for a second home?"
-msgstr "Może chcesz mieć nowy dom?"
+msgstr "Szukasz drugiego domu?"
 
 msgctxt "stasta024"
 msgid "Investment property?"
-msgstr "Dobra inwestycja."
+msgstr "Coś pod inwestycję?"
 
 msgctxt "stasta025"
 msgid "A little extra income?"
-msgstr "Nowe dochody."
+msgstr "Dodatkowy dochód?"
 
 msgctxt "stasta026"
 msgid "Look no further!"
@@ -28628,31 +28628,31 @@ msgstr "Dobrze trafiłeś!"
 
 msgctxt "stasta027"
 msgid "You can't afford not to take advantage of this once-in-a-lifetime opportunity!"
-msgstr "Nie możesz przegapić takiej okazji, jedynej w swoim rodzaju!"
+msgstr "Nie stać cię, by nie skorzystać z tej jedynej w swoim rodzaju okazji!"
 
 msgctxt "stasta028"
 msgid "And, for the next twenty-four hours, for just listening to my pitch, you get a coupon for a free Monkey Mug at Planet Threepwood!"
-msgstr "A jeśli wysłuchasz mojej oferty przez najbliższe 24 godziny, to dostanie kupon na darmowy Małpi Kufel z Planety Threepwood!"
+msgstr "A przez następne 24 godziny, za samo wysłuchanie mojej gadki, otrzymasz kupon na darmowy Małpi Kufel z Planety Threepwood!"
 
 msgctxt "stasta029"
 msgid "(Limit one per customer, while supplies last.  Void where prohibited by law and in the state of Wyoming.)"
-msgstr "(Jeden na klienta, do wyczerpania zapasów.)"
+msgstr "(Tylko jeden na klienta, do wyczerpania zapasów. Dostępny w wybranych placówkach i poza miastem Szczecin)."
 
 msgctxt "guysta011"
 msgid "Tell me more about this time-share deal."
-msgstr "Opowiedz mi więcej o swojej ofercie."
+msgstr "Opowiedz mi więcej o timesharingu."
 
 msgctxt "stasta030"
 msgid "It'd be my pleasure, my pantalooned friend!"
-msgstr "Z wielką przyjemnością, przyjacielu."
+msgstr "Z przyjemnością, mój pantaloniarzu!"
 
 msgctxt "stasta031"
 msgid "You have to be touched in the head not to take advantage of this once-in-a-lifetime opportunity!"
-msgstr "Właśnie stoisz przed jedyną taką szansą w swoim życiu!"
+msgstr "Trzeba mieć nie po kolei w głowie, żeby nie skorzystać z tej jedynej w swoim rodzaju okazji!"
 
 msgctxt "stasta032"
 msgid "As a bonus, just for listening to my pitch, I'll give you a coupon for a free Monkey Mug at Planet Threepwood!"
-msgstr "A do tego, jako bonus, za wysłuchanie mojej oferty dostaniesz kupon na darmowy Małpi Kufel z Planety Threepwood!"
+msgstr "A do tego, za samo wysłuchanie mojej gadki, otrzymasz kupon na darmowy Małpi Kufel z Planety Threepwood!"
 
 msgctxt "guysta012"
 msgid "Ever heard of something called the Ultimate Insult?"
@@ -28660,23 +28660,23 @@ msgstr "Słyszałeś cokolwiek o Talizmanie Upokorzenia?"
 
 msgctxt "stasta033"
 msgid "Why?  Are you looking for one?"
-msgstr "A co? Mam ci załatwić?"
+msgstr "A co? Szukasz takiego?"
 
 msgctxt "guysta013"
 msgid "Yes!  Do you know where I can get it?"
-msgstr "Tak! Gdzie mam go szukać?"
+msgstr "Tak! Wiesz, gdzie mogę go dostać?"
 
 msgctxt "stasta034"
 msgid "Not just now, but perhaps I can acquire some..."
-msgstr "Teraz nigdzie, ale mogę ci załatwić..."
+msgstr "Teraz nie, ale mogę ci załatwić..."
 
 msgctxt "stasta035"
 msgid "...if the mark-up is substantial."
-msgstr "... o ile dasz zaliczkę."
+msgstr "Przy odpowiedniej marży."
 
 msgctxt "stasta036"
 msgid "How many units do you think I could push?"
-msgstr "A co, myślisz że nie wiem gdzie robią takie wisiorki?"
+msgstr "Jak dużo dałoby radę tego opchnąć?"
 
 msgctxt "guysta014"
 msgid "Never mind."
@@ -28692,59 +28692,59 @@ msgstr "Ozziego Mandrilla?"
 
 msgctxt "stasta038"
 msgid "Let me tell you something about Ozzie Mandrill, kid."
-msgstr "Powiem ci coś o tym Ozziem Mandrillu, chłpcze."
+msgstr "Powiem ci coś o tym Ozziem Mandrillu."
 
 msgctxt "stasta039"
 msgid "Ozzie Mandrill doesn't know squat about being a real entrepreneur."
-msgstr "Ozzie Mandrill nie ma pojęcia o tym jak prowadzić biznes."
+msgstr "Ozzie Mandrill nie ma pojęcia o tym, jak prowadzić biznes."
 
 msgctxt "stasta040"
 msgid "He doesn't know the thrill of haggling, the ecstasy of a hard-earned sale, the agony of a lost customer..."
-msgstr "Nie wie co to jest dreszczyk targowania, przebicie ceny w ostatniej sekundzie aukcji, rzeź ostatniego klienta..."
+msgstr "Nie zna dreszczyku targowania się, ekstazy ciężko zarobionej sprzedaży, agonii utraconego klienta..."
 
 msgctxt "stasta041"
 msgid "All Ozzie wants are orderly lines of zombies, queuing up to purchase his pre-fabricated, pre-priced, pre-processed garbage!"
-msgstr "Wszystkie te opowieści o Ozziem o jakimś zombiem to po prostu chwyt marketingowy, same śmieci."
+msgstr "Czego Ozzie chce, to kolejki zombie, ustawiającej się do zakupu jego prefabrykowanych, przecenionych, przetworzonych śmieci!"
 
 msgctxt "stasta042"
 msgid "I ask you, kid, where's the fun in that, huh?  Where's the love?"
-msgstr "Ale tu nie ma zabawy. Rozumiesz? A gdzie miejsce na miłość?"
+msgstr "I teraz pytanie. Gdzie tu zabawa co? Gdzie tu miłość?"
 
 msgctxt "guysta016"
 msgid "He wouldn't hire ya?"
-msgstr "A to pan dla niego nie robi?"
+msgstr "Nie chce cię?"
 
 msgctxt "stasta043"
 msgid "Not even an interview."
-msgstr "Proszę cię, chyba kpisz."
+msgstr "Nawet rozmawiać."
 
 msgctxt "guysta017"
 msgid "My mistake.  See ya later."
-msgstr "Muszę lecieć, pa."
+msgstr "Mój błąd. Do później."
 
 msgctxt "stasta044"
 msgid "You can't afford to wait too long!  This deal won't last!"
-msgstr "Ale nie musisz się martwić. Na pewno będą nowe umowy!"
+msgstr "Nie stać cię, by czekać! Okazja nie trwa wiecznie!"
 
 msgctxt "guysta018"
 msgid "Gimme the pitch!"
-msgstr "Daj mi swój kupon."
+msgstr "Dawaj gadkę!"
 
 msgctxt "stasta045"
 msgid "Okay, but you already got the free coupon.  You only get one."
-msgstr "Ale ty już masz jeden. Nie można mieć dwóch."
+msgstr "Dobra, ale ty już masz swój kupon. Drugiego nie będzie."
 
 msgctxt "guysta019"
 msgid "Oh.  Never mind, then."
-msgstr "No dobra, zapomnij o tym."
+msgstr "No to nieważne."
 
 msgctxt "stasta046"
 msgid "Smart decision, my friend!  You'll thank me after you've heard about this exciting opportunity."
-msgstr "Mądra decyzja. Podziękujesz mi po tym jak wysłuchasz mojej super oferty."
+msgstr "Mądra decyzja. Podziękujesz później, gdy już usłyszysz o tej ekscytującej okazji."
 
 msgctxt "stasta047"
 msgid "Stay with me, the full pitch takes, um, just under three hours!"
-msgstr "Zostań ze mną, a przekonasz się jak łatwo zarobić!"
+msgstr "Zostań ze mną, pełna gadka potrwa coś koło trzech godzin!"
 
 msgctxt "guysta020"
 msgid "Eep."
@@ -28752,7 +28752,7 @@ msgstr " "
 
 msgctxt "guysta021"
 msgid "Ooh... stop right there, I'm not interested."
-msgstr "No dobra, już nie jestem zainteresowany."
+msgstr "Och, tu się zatrzymamy. Nie interesuje mnie to."
 
 msgctxt "stasta048"
 msgid "Your loss."
@@ -28760,11 +28760,11 @@ msgstr "Twoja strata."
 
 msgctxt "stasta049"
 msgid "Be prepared to be stunned by what I have to tell you!"
-msgstr "Przygotuj się na szok informacji, które ci zaraz podam."
+msgstr "Przygotuj się na szok po tym, co ci powiem!"
 
 msgctxt "stasta050"
 msgid "What's the best investment for your hard-earned cash?"
-msgstr "Jakie są najlepsze inwestycje twoich ciężko zarobionych pieniędzy?"
+msgstr "W co inwestować twoją ciężko zarobioną kasę?"
 
 msgctxt "stasta051"
 msgid "The stock market?"
@@ -28772,27 +28772,27 @@ msgstr "Akcje?"
 
 msgctxt "stasta052"
 msgid "No, too volatile."
-msgstr "Nie, zbyt ryzykowne."
+msgstr "Nie, ryzykowne."
 
 msgctxt "stasta053"
 msgid "Duck food futures?"
-msgstr "Inwestycja w drób?"
+msgstr "Kontrakty na kaczki?"
 
 msgctxt "stasta054"
 msgid "No, ducks have short life-spans."
-msgstr "Nie, kaczki paskudzą."
+msgstr "Nie, żyją zbyt krótko."
 
 msgctxt "stasta055"
 msgid "Porcelain figurines?"
-msgstr "A może porcelana?"
+msgstr "Porcelana?"
 
 msgctxt "guysta022"
 msgid "Ewww..."
-msgstr "Ewww..."
+msgstr " "
 
 msgctxt "stasta056"
 msgid "Uh oh.  Oops, too fragile."
-msgstr "Nie, to kruchy biznes."
+msgstr "Nie, kruchy biznes."
 
 msgctxt "stasta057"
 msgid "What then?"
@@ -28800,11 +28800,11 @@ msgstr "Więc co?"
 
 msgctxt "stasta058"
 msgid "Two words!"
-msgstr "Dwa słówka!"
+msgstr "Dwa słowa!"
 
 msgctxt "stasta059"
 msgid "Time share!!!"
-msgstr "Timesharing!!!"
+msgstr "Time sharing!!!"
 
 msgctxt "stasta060"
 msgid "That's right!  Real estate!"
@@ -28812,35 +28812,35 @@ msgstr "Tak, nieruchomości!"
 
 msgctxt "stasta061"
 msgid "Let me show you how a small investment today can compound into an incredible fortune in just a, um, few short generations!"
-msgstr "Pozwól mi pokazać sobie jak mała inwestycja może odsetkować w wielką fortunę przy kilku trikach!"
+msgstr "Pokażę ci, jak inwestycja dziś może zamienić się w niewyobrażalną fortunę w ciągu zaledwie kilku krótkich pokoleń!"
 
 msgctxt "stasta062"
 msgid "So who's excited and ready to invest, huh?"
-msgstr "Więc kto jest podniecony nową przyszłością biznesową?"
+msgstr "To kto chce spróbować nowej inwestycji?"
 
 msgctxt "guysta023"
 msgid "Uh, gosh, that sounds interesting, but I need to check with my wife first."
-msgstr "Brzmi super, ale najpierw muszę o tym pogadać ze swoją żoną."
+msgstr "Och, brzmi ciekawie, ale najpierw musiałbym to skonsultować z żoną."
 
 msgctxt "stasta063"
 msgid "You bet!  Gotta check with the missus.  Wouldn't want to wind up in the ol' doghouse, aroo-hoo?"
-msgstr "Widzisz! Musisz zapytać żony! Nie chciałbyś mieć u niej przechlapane, co?"
+msgstr "Pewnie! Lepiej skonsultować. Nie chciałbyś chyba skończyć w starej psiej budzie?"
 
 msgctxt "guysta024"
 msgid "Right.  I mean, where would the piranha poodles sleep?"
-msgstr "Tak! To znaczy, nie chce spać w budzie z jej pieskami."
+msgstr "Tak. W sensie, gdzie byśmy wtedy posłali pirania pudle?"
 
 msgctxt "stasta064"
 msgid "Right!  Well, thanks for listening!"
-msgstr "Aha. No to dzięki za wysłuchanie."
+msgstr "Tak! Dzięki za wysłuchanie!"
 
 msgctxt "stasta065"
 msgid "Have this coupon for a free Monkey Mug at Planet Threepwood from your old friend Stan!"
-msgstr "Weź jeszcze tylko swój kupon na darmowy Małpi Kufel do Planety Threepwood, stary przyjacielu."
+msgstr "Oto kupon na darmowy Małpi Kufel w Planecie Threepwood od starego przyjaciela, Stana!"
 
 msgctxt "guysta025"
 msgid "Zzzzzz..."
-msgstr "(chrapie)"
+msgstr " "
 
 msgctxt "stasta066"
 msgid "Hey!  Wake up!"
@@ -28848,11 +28848,11 @@ msgstr "Hej! Wstawaj!"
 
 msgctxt "guysta026"
 msgid "Zzzz... huh, huh?  Oh..."
-msgstr "Zzzzzz...."
+msgstr "Co? "
 
 msgctxt "stasta067"
 msgid "You musta dozed off, pal."
-msgstr "Musiałeś przysnąć nieco."
+msgstr "Trochę się przysnęło."
 
 msgctxt "guysta027"
 msgid "Oh, sorry..."
@@ -28860,19 +28860,19 @@ msgstr "Przepraszam..."
 
 msgctxt "stasta068"
 msgid "Hey, no skin off my nose."
-msgstr "Ale to nie mój problem."
+msgstr "Hej, nie mój problem."
 
 msgctxt "stasta069"
 msgid "I'm not the one that's gonna miss out on this once-in-a-millennium opportunity!"
-msgstr "Nie będę rozmawiał z kimś, kto w taki sposób traci największą szansę w swoim życiu!"
+msgstr "To nie ja przegapię tę jedyną w swoim rodzaju okazję!"
 
 msgctxt "stasta070"
 msgid "Come back when you're ready to hear the whole pitch."
-msgstr "Wróć do mnie kiedy dorośniesz na tyle, by wysłuchać całą ofertę."
+msgstr "Wróć, jak będziesz gotów wysłuchać całej gadki."
 
 msgctxt "stasta071"
 msgid "You know where to find me!"
-msgstr "Wiesz gdzie mnie szukać."
+msgstr "Wiesz, gdzie mnie szukać."
 
 msgctxt "hergom001"
 msgid "Stealing my gold, sonny?"
@@ -28880,19 +28880,19 @@ msgstr "Kradniesz mi złoto, synku?"
 
 msgctxt "hergom002"
 msgid "Heh.  Good luck!  The mine went dry years ago!"
-msgstr "Heh. Powodzenia! Kopalnia już nie ma złota"
+msgstr "Powodzenia! Kopalnia już dawno nie działa!"
 
 msgctxt "hergom003"
 msgid "Drier than a dead monkey!  Heh heh!"
-msgstr "Jest suchsza od martwej małpy! Heh heh!"
+msgstr "Pusto jak w głowie małpy!"
 
 msgctxt "hergom004"
 msgid "Whelp, see ya around, miner-boy!"
-msgstr "No dobra,  do zobaczenia, górniczku!"
+msgstr "Do zobaczenia, górnisiu!"
 
 msgctxt "guygom001"
 msgid "It's too small.  Maybe if I were a monkey I could fit."
-msgstr "Jest za mała. Może gdybym miał małpę do dyspozycji."
+msgstr "Za ciasno. Może gdybym był małpą, to bym wszedł."
 
 msgctxt "guygom002"
 msgid "He got the banana!"
@@ -28900,7 +28900,7 @@ msgstr "On ma banana!"
 
 msgctxt "guygom003"
 msgid "Here monkey monkey monkey!"
-msgstr "Choć tutaj małpeczko!"
+msgstr "Chodź, małpeczko!"
 
 msgctxt "guygom004"
 msgid "The opening is smaller now."
@@ -28908,19 +28908,19 @@ msgstr "Teraz wejście jest jeszcze węższe."
 
 msgctxt "guygom005"
 msgid "The vent is fully open again."
-msgstr "Wywiewka jest zupełnie otwarta."
+msgstr "Wywiewka jest w pełni otwarta."
 
 msgctxt "guygom006"
 msgid "It's dark in there, but I can see the latch for the door."
-msgstr "Jest tu ciemno, jednak widzę zatrzask na drzwiach."
+msgstr "Jest tu ciemno, jednak widzę zatrzask drzwi."
 
 msgctxt "guygom007"
 msgid "It's dark in there, but I can see the latch for the door, and a hungry-looking monkey."
-msgstr "Jest tu ciemno, ale widzę zatrzask na drzwiach oraz głodną małpę."
+msgstr "Jest tu ciemno, ale widzę zatrzask drzwi oraz wygłodniałą małpę."
 
 msgctxt "guygom008"
 msgid "It's dark in there, but I can see the latch for the door, and a banana on the floor."
-msgstr "Jest tu ciemno, ale widzę zatrzask na drzwiach i banana na ziemi."
+msgstr "Jest tu ciemno, ale widzę zatrzask drzwi i banana na ziemi."
 
 msgctxt "guygom009"
 msgid "There's already one in there."
@@ -28928,7 +28928,7 @@ msgstr "Jeden już tam siedzi."
 
 msgctxt "guygom010"
 msgid "Ugh, I can't reach the latch."
-msgstr "Ugh, nie zwolnię zatrzasku."
+msgstr "Nie sięgnę zatrzasku."
 
 msgctxt "guygom011"
 msgid "It's a big metal door."
@@ -28940,19 +28940,19 @@ msgstr "Nie ma opcji, żebym otworzył drzwi z tej strony."
 
 msgctxt "guygom013"
 msgid "That worked like a charm!"
-msgstr "Działa świetnie!"
+msgstr "Działa jak masełko!"
 
 msgctxt "guygom014"
 msgid "There sure are a lot of roots growing through this ceiling."
-msgstr "Ale tutaj dużo korzeni wyrastających z sufitu."
+msgstr "Z pewnością jest tu wiele korzeni wyrastających z sufitu."
 
 msgctxt "guygom015"
 msgid "Without those roots, there'd be only sky left."
-msgstr "Bez tych korzeni, byłoby widać niebo."
+msgstr "Gdyby nie te korzenie, byłoby widać niebo."
 
 msgctxt "guygom016"
 msgid "I don't think I could pull those plants down through the ceiling."
-msgstr "Nie wiem jak miałbym wyciągnąć te rośliny z sufitu."
+msgstr "Nie sądzę, bym mógł ściągnąć te rośliny z sufitu."
 
 msgctxt "guygom017"
 msgid "I can see the sky!"
@@ -28960,35 +28960,35 @@ msgstr "Widzę niebo!"
 
 msgctxt "guyhei001"
 msgid "I'll just put the Gubernatorial Symbol here..."
-msgstr "Włożę tu Symbol Gubernatora...."
+msgstr "Położę tu Symbol Gubernatora...."
 
 msgctxt "guyhei002"
 msgid "Hey!  This place looks like some sort of control room."
-msgstr "Hej! To miejsce przypomina mi jakąś sterownie."
+msgstr "Hej! To miejsce przypomina mi jakąś sterownię."
 
 msgctxt "guyhei003"
 msgid "I wonder what all this stuff does?"
-msgstr "Ciekawe po co te wszystkie rzeczy?"
+msgstr "Ciekawe, do czego służą te rupiecie?"
 
 msgctxt "guyhei004"
 msgid "Who knew a giant monkey head could be so complicated?"
-msgstr "Kto by pomyślał, że gigantyczna małpia głowa może być tak tajemnicza?"
+msgstr "Kto by pomyślał, że wielka małpia głowa może być tak skomplikowana?"
 
 msgctxt "guyhei005"
 msgid "It looks like something important is supposed to go in there."
-msgstr "Chyba tam idą jakieś ważne rzeczy."
+msgstr "Wydaje się, że tam powinno iść coś ważnego."
 
 msgctxt "guyhei006"
 msgid "I can't imagine that this actually steers anything."
-msgstr "Wątpię, żeby taka rzecz wszystkim kierowała."
+msgstr "Trudno uwierzyć, że to faktycznie steruje czymkolwiek."
 
 msgctxt "guyhei007"
 msgid "Steer the giant monkey head?  That just sounds so wrong."
-msgstr "Sterują gigantyczną małpią głową? To brzmi złowrogo."
+msgstr "Sterować wielką małpią głową? To nie brzmi poważnie."
 
 msgctxt "guyhei008"
 msgid "They look like controls of some sort."
-msgstr "To musi być jakiś rodzaj kontroli."
+msgstr "To chyba służy do sterowania."
 
 msgctxt "guyhei009"
 msgid "Nothing happened."
@@ -29004,15 +29004,15 @@ msgstr "Same zera."
 
 msgctxt "guyhei012"
 msgid "The temperature and pressure seem to be rising."
-msgstr "Temperatura rośnie wraz z ciśnieniem."
+msgstr "Temperatura i ciśnienie trochę wzrosły."
 
 msgctxt "guyhei013"
 msgid "Nice view of the clearing from here."
-msgstr "Ale to czysto."
+msgstr "Widać stąd uroczą polanę."
 
 msgctxt "guyhei014"
 msgid "I'm looking, I'm looking."
-msgstr "Patrzę i patrzę."
+msgstr "Patrzę, patrzę."
 
 msgctxt "guyhei015"
 msgid "That leads back outside."
@@ -29020,31 +29020,31 @@ msgstr "Prowadzą na zewnątrz."
 
 msgctxt "herlav001"
 msgid "Nice lava, isn't it?  Doesn't keep the monkeys away, though!"
-msgstr "Fajna lawa. Trzyma małpy z daleka."
+msgstr "Ładna lawa, co? Ale nie odstrasza małp za grosz!"
 
 msgctxt "herlav002"
 msgid "Nothin' like a brisk walk among the lava fields, I always say.  Heh heh heh."
-msgstr "Nie ma to jak energiczny spacer wzdłuż rzeki lawy, prawda? Heh heh heh."
+msgstr "Zawsze powtarzam, że nie ma to jak energiczny spacer wśród pól lawy."
 
 msgctxt "herlav003"
 msgid "Careful there, sonny jim.  It'd be a shame if you accidentally fell into the all-consuming magma.  Heh heh heh heh."
-msgstr "Bądź ostrożny, synku. Byłoby szkoda, gdybyś został zjedzony przez tą gorącą magmę. Heh heh heh heh."
+msgstr "Ostrożnie, synuś. Nie chcielibyśmy, żebyś przypadkiem wpadł do wszech pochłaniającej magmy."
 
 msgctxt "herlav004"
 msgid "That landlubbin' lava melted my hut!"
-msgstr "Przeklęta lawa stopiła mi dom!"
+msgstr "Ta lawa roztopiła mi chatę!"
 
 msgctxt "guylav001"
 msgid "It leads to the rest of the island."
-msgstr "Prowadzi prosto na resztę wyspy."
+msgstr "Prowadzi na drugą część wyspy."
 
 msgctxt "guycgs001"
 msgid "Are you crazy?  You could've killed me!"
-msgstr "Zgłupiałeś? Mogłeś mnie zabić!"
+msgstr "Oszalałeś? Mogłeś mnie zabić!"
 
 msgctxt "cascgs001"
 msgid "Crazy?  I'm not the one flagrantly violating the Rules and Regulations of Knuttin Atoll!"
-msgstr "Kto ja? Ja przynajmniej rażąco nie łamię Zasad Regulaminu Atolu Knutyńskiego!"
+msgstr "Ja? To nie ja rażąco naruszam Regulamin Atolu Nicanic!"
 
 msgctxt "guycgs002"
 msgid "Huh?"
@@ -29056,19 +29056,19 @@ msgstr "Jak cię zwą, żeglarzu?"
 
 msgctxt "guycgs003"
 msgid "Uh, excuse me, sir?"
-msgstr "Uch, przepraszam?"
+msgstr "Przepraszam pana?"
 
 msgctxt "cascgs003"
 msgid "Make it quick, Threepwood."
-msgstr "Szybko, Threepwood."
+msgstr "Ruchy, Threepwood."
 
 msgctxt "cascgs004"
 msgid "I can't afford to let my eternal vigilance slip for even a minute."
-msgstr "Nie mogę pozwolić na chwilę nieuwagi."
+msgstr "Nie mogę pozwolić, by moja wieczna czujność osłabła choćby na chwilę."
 
 msgctxt "guycgs004"
 msgid "Uhhh, yeah.  Anyway..."
-msgstr "Uchhh. Jak chcesz...."
+msgstr "No ta. W każdym razie..."
 
 msgctxt "guycgs005"
 msgid "That's none of your business."
@@ -29076,11 +29076,11 @@ msgstr "To nie twoja sprawa."
 
 msgctxt "guycgs006"
 msgid "Uh, Guybrush Threepwood, sir."
-msgstr "Uhm Guybrush Threepwood.."
+msgstr "Guybrush Threepwood."
 
 msgctxt "cascgs005"
 msgid "Now, Mister Threepwood, what is your business on Knuttin Atoll?"
-msgstr "Tak, panie Threepwood, co ma pan do naszego Atolu Knutyńskiego?"
+msgstr "A więc, panie Threepwood, czego pan szuka na Atolu Nicanic?"
 
 msgctxt "guycgs007"
 msgid "Ivanna Tinkle."
@@ -29088,59 +29088,59 @@ msgstr "Ivanna Tinkle."
 
 msgctxt "guycgs008"
 msgid "Who wants to know?"
-msgstr "A kogo to obchodzi?"
+msgstr "A kto pyta?"
 
 msgctxt "guycgs009"
 msgid "Guybrush Threepwood.  Who the heck are you?"
-msgstr "Guybrush Threepwood. Kim do diabła jesteś?"
+msgstr "Guybrush Threepwood. Kim, do diabła, jesteś?"
 
 msgctxt "guycgs010"
 msgid "None of your darn business, Mister Prissypants!"
-msgstr "To nie pana sprawa, panie nadęte gacie!"
+msgstr "Nie twój interes, panie Siusiumajtek!"
 
 msgctxt "guycgs011"
 msgid "I'm just looking around, sir."
-msgstr "Ja tu tylko sprzątam."
+msgstr "Tylko się rozglądam."
 
 msgctxt "cascgs006"
 msgid "Very good, Mister Threepwood.  Now, before I allow you to pass, do you have any questions?"
-msgstr "No i dobrze, panie Threepwood. Zanim się rozejdziemy, masz do mnie jakieś pytania?"
+msgstr "Bardzo dobrze, panie Threepwood. Zanim pana przepuszczę, czy ma pan do mnie jakieś pytania?"
 
 msgctxt "guycgs012"
 msgid "That's for me to know, and for you to find out."
-msgstr "Może i mam coś o co chciałbym zapytać."
+msgstr "To moja sprawa a ty sam się domyśl."
 
 msgctxt "guycgs013"
 msgid "I'm here to cause trouble.  Lots of it."
-msgstr "Ja tylko powoduje kłopoty. Dużo kłopotów."
+msgstr "Będę sprawiał problemy. Dużo problemów."
 
 msgctxt "guycgs014"
 msgid "I'm on a quest to find the Ultimate Insult, and I'll eviscerate anyone who gets in my way!"
-msgstr "Muszę odnaleźć Talizman Upokorzenia i wypatroszę każdego kto mi wejdzie w drogę!"
+msgstr "Poszukuję Talizman Upokorzenia i wypatroszę każdego, kto stanie mi na drodze!"
 
 msgctxt "guycgs015"
 msgid "Who the heck ARE you?"
-msgstr "Kim do diabła JESTEŚ?"
+msgstr "Kim, do diabła, JESTEŚ?"
 
 msgctxt "cascgs007"
 msgid "My name is Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba the Third."
-msgstr "Moje imię to Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba Trzeci.."
+msgstr "Nazywam się Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba Trzeci."
 
 msgctxt "cascgs008"
 msgid "But you can call me 'Admiral Casaba'."
-msgstr "Ale możesz mnie nazywać \"Admirałem Casaba\""
+msgstr "Ale nazywaj mnie \"Admirałem Casabą\""
 
 msgctxt "guycgs016"
 msgid "How'd you get a name like 'Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba the Third'?"
-msgstr "Skąd wzięło się imię: 'Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba Trzeci?"
+msgstr "Skąd wzięło się imię: '\"Ricardo Luigi Pierre M'Benga Chang Nehru O'Hara Casaba Trzeci\"?"
 
 msgctxt "cascgs009"
 msgid "For generations and throughout the world, the Casaba family has enforced the laws of the seas."
-msgstr "Od pokoleń, na całym świecie, ród Casaba sprawował porządek na morzach."
+msgstr "Od pokoleń i na wszystkich wodach świata rodzina Casaba stała na straży prawa."
 
 msgctxt "cascgs010"
 msgid "As a result, we've picked up an interesting and eclectic variety of in-laws."
-msgstr "W rezultacie czego dzisiaj mamy tak eklektyczny wybór nazwisk."
+msgstr "W efekcie dorobiliśmy się interesującej i dość... różnorodnej rodziny."
 
 msgctxt "guycgs017"
 msgid "What are you doing here?"
@@ -29148,11 +29148,11 @@ msgstr "Co ty tutaj robisz?"
 
 msgctxt "cascgs011"
 msgid "I have been assigned the singular honor of guarding Ozzie Mandrill's commercial interests on Jambalaya Island™."
-msgstr "Mam przydzielone sprawować ochronę interesów handlowych Ozziego Mandrilla na całym terenie Wyspy Jambalaya™"
+msgstr "Przydzielono mi wyjątkowy zaszczyt pilnowania interesów handlowych Ozziego Mandrilla na Wyspie Jambalaya™"
 
 msgctxt "cascgs012"
 msgid "To that end, I have rounded up all of Jambalaya's scrofulous pirate trash and transported them to Knuttin Atoll,"
-msgstr "W tym celu muszę odnajdywać wszystkich piratów-śmieci i transportować je na wysypisko, czyli Atol Knutyński."
+msgstr "W tym celu zebrałem wszystkich łotrzykowatych piratów z Jambalaya i przetransportowałem ich na Atol Nicanic."
 
 msgctxt "cascgs013"
 msgid "Where they will remain until they become productive members of society."
@@ -29160,43 +29160,43 @@ msgstr "Pozostaną tam, aż staną się produktywnymi członkami społeczeństwa
 
 msgctxt "guycgs018"
 msgid "Well, how many of Knuttin's pirates have been allowed to return to Jambalaya?"
-msgstr "A jak dużo piratów kiedykolwiek powróciło z powrotem na Jambalaya?"
+msgstr "A jak wielu piratów kiedykolwiek powróciło z powrotem na Jambalaya?"
 
 msgctxt "cascgs014"
 msgid "Ah, only a handful."
-msgstr "Tylko naparstek.."
+msgstr "Nie za wielu."
 
 msgctxt "cascgs015"
 msgid "It's deucedly slow, re-educating them one at a time."
-msgstr "Proces reedukacji jest diabelnie powolny."
+msgstr "To bardzo powolne, reedukować ich jeden po drugim."
 
 msgctxt "cascgs016"
 msgid "Luckily, I hear that Mister Mandrill has some sort of secret plan to re-educate them all at once!"
-msgstr "Na szczęście, słyszałem że pan Mandrill kończy jakiś plan, który wy-reedukuje ich raz na zawsze."
+msgstr "Na szczęście słyszałem, że Pan Mandrill ma jakiś tajny plan reedukować ich wszystkich naraz!"
 
 msgctxt "guycgs019"
 msgid "Why are you firing cannonballs at innocent pirates?"
-msgstr "A czemu strzelasz z armaty do niewinnych piratów?"
+msgstr "Czemu strzelasz z armaty do niewinnych piratów?"
 
 msgctxt "cascgs017"
 msgid "Mister Threepwood, it is MY experience that there are only two kinds of pirates:"
-msgstr "Panie Threepwood, spotkałem się w życiu tylko z dwoma rodzajami piratów:"
+msgstr "Panie Threepwood, z doświadczenia wiem, że istnieją tylko dwa rodzaje piratów:"
 
 msgctxt "cascgs018"
 msgid "Those who are committing acts of wanton savagery, and those PLANNING to commit acts of wanton savagery!"
-msgstr "Tych, którzy uprawiają barbarzyństwo bezmyślnie, oraz tych, którzy to planują i niszczą wszystko bezsensownie!"
+msgstr "Ci, którzy popełniają akty bezmyślnego zdziczenia i ci, którzy PLANUJĄ popełnić akty bezmyślnego zdziczenia!"
 
 msgctxt "cascgs019"
 msgid "If you allow groups of the latter to congregate for any length of time, they inevitably transform into mobs of the former!"
-msgstr "Każda z tych grup jest równie niebezpieczna i w każdym momencie może zrobić coś zagrażającemu życiu lub zdrowiu!"
+msgstr "Jeśli pozwolić tym drugim gromadzić się przez dłuższy czas, to nieuchronnie przekształcą się oni w tłumy tych pierwszych!"
 
 msgctxt "guycgs020"
 msgid "What was that middle part again?"
-msgstr "Powtórzy pan środek tego zdania?"
+msgstr "Powtórzysz środkową część?"
 
 msgctxt "guycgs021"
 msgid "Do you really fling cannonballs at any group of pirates you happen to spot?"
-msgstr "Czyli ciska pan kulami w każdą grupę piratów którzy się tylko pojawią?"
+msgstr "A więc ciskasz z armaty w każdą grupę piratów, jaką tylko dostrzeżesz?"
 
 msgctxt "cascgs020"
 msgid "Of course."
@@ -29204,27 +29204,27 @@ msgstr "Oczywiście."
 
 msgctxt "cascgs021"
 msgid "It's the only way to stop their infernal plotting...."
-msgstr "Tylko tak powstrzymamy ich piekielny spisek...."
+msgstr "Tylko tak powstrzymam ich piekielne intrygi..."
 
 msgctxt "cascgs022"
 msgid "Even now, I can hear them, contemplating foul deeds against the good and wholesome citizens of Jambalaya..."
-msgstr "Nawet teraz ich słyszę, jak knują kolejne podstępy przeciwko niczemu nie winnych obywateli Jambalaya..."
+msgstr "Nawet teraz słyszę jak knują swe niecne czyny przeciwko przyzwoitym obywatelom Jambalaya..."
 
 msgctxt "guycgs022"
 msgid "Really?  All I can hear are some seagulls."
-msgstr "Serio? Ja tylko słyszę kilka mew."
+msgstr "Serio? Ja słyszę tylko wycie mew."
 
 msgctxt "guycgs023"
 msgid "I think I'll just be on my merry way."
-msgstr "Myślę, że się będę powoli wycofywał."
+msgstr "Chyba czas odpłynąć w swoją stronę."
 
 msgctxt "cascgs023"
 msgid "Good lad.  Remember, I'm watching you!"
-msgstr "Dobry szczeniak. Pamiętaj, że cię obserwuje!"
+msgstr "Dobrze. Pamiętaj, że cię obserwuję!"
 
 msgctxt "pricol001"
 msgid "Please keep all hands and arms inside the vehicle at all times."
-msgstr "Proszę trzymać wszystkie ręce i ramiona wewnątrz swojego pojazdu."
+msgstr "Proszę trzymać wszystkie kończyny wewnątrz pojazdu."
 
 msgctxt "pricol002"
 msgid "Permanascan sentados, por favor."
@@ -29460,7 +29460,7 @@ msgstr "Oh, kiedy małpie oczy się uśmiechają...i...to, eh. Nie, to głupie."
 
 msgctxt "guymoh004"
 msgid "That's where the control room is."
-msgstr "Tutaj mamy pokój kontrolny."
+msgstr "To tam znajduje się sterownia."
 
 msgctxt "guymoh005"
 msgid "Hasn't been cleaned in a while."
@@ -29520,7 +29520,7 @@ msgstr "Nie mam zamiaru bezcześcić grobu tak odważnej małpy."
 
 msgctxt "guymoh019"
 msgid "It leads to the rest of the island."
-msgstr "Prowadzi prosto na resztę wyspy."
+msgstr "Prowadzi na drugą część wyspy."
 
 msgctxt "jojmon001"
 msgid "Greetings."
@@ -32208,7 +32208,7 @@ msgstr "Ee, nie."
 
 msgctxt "guyall202"
 msgid "That wouldn't be very nice."
-msgstr "To nie byłoby zbyt mile."
+msgstr "To nie byłoby zbyt miłe."
 
 msgctxt "guyall203"
 msgid "That would be against the pirate's code."
@@ -33204,7 +33204,7 @@ msgstr "Ewwww ... Nie..."
 
 msgctxt "guypla138"
 msgid "Ewww..."
-msgstr "Ewww..."
+msgstr " "
 
 msgctxt "guypla139"
 msgid "I think the owner of this oil would notice a big piece of bagel sitting in there."
@@ -35260,7 +35260,7 @@ msgstr "Mam moc SzarejMałpy!"
 
 msgctxt "guylav017"
 msgid "It leads to the rest of the island."
-msgstr "Prowadzi prosto na resztę wyspy."
+msgstr "Prowadzi na drugą część wyspy."
 
 msgctxt "guycan001"
 msgid "I wonder how these rocks managed to get stacked this way?"
@@ -44773,7 +44773,7 @@ msgstr "szufladki"
 
 msgctxt "txtsta007"
 msgid "stack of pamphlets"
-msgstr "stos ulotek"
+msgstr "stos broszurek"
 
 msgctxt "txtsta008"
 msgid "island"

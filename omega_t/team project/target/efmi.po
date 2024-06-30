@@ -1036,7 +1036,7 @@ msgstr "A w przysłudze dla przyszłego gubernatora Wyspy Szpady™ radni zawarl
 
 msgctxt "googme014"
 msgid "That's me."
-msgstr "Czyli mną."
+msgstr "To ja."
 
 msgctxt "chagme009"
 msgid "to destroy this outdated bourgeois symbol of the elitist piratocracy."
@@ -2708,7 +2708,7 @@ msgstr " "
 
 msgctxt "guymel068"
 msgid "Heh."
-msgstr " "
+msgstr "Heh. "
 
 msgctxt "guymel069"
 msgid "Well, I guess you had to be there."
@@ -19064,11 +19064,11 @@ msgstr "Talizmanie Upokorzenia?"
 
 msgctxt "hb2cpt014"
 msgid "Never heard of it."
-msgstr "Pierwsze słyszę."
+msgstr "Nigdy o tym nie słyszałem"
 
 msgctxt "guycpt009"
 msgid "But--"
-msgstr "Ale...."
+msgstr "Ale--."
 
 msgctxt "hb2cpt015"
 msgid "I SAID I never heard of it."
@@ -20432,7 +20432,7 @@ msgstr "'radosną' ikonę ich nowej 'przyjaznej rodzinie' Wyspie Jambalaya™."
 
 msgctxt "guykab023"
 msgid "Those jerks!"
-msgstr "To dupki!"
+msgstr "Te dupki!"
 
 msgctxt "guykab024"
 msgid "Are you sure you weren't adopted?"
@@ -29868,11 +29868,11 @@ msgstr "Gdzie?"
 
 msgctxt "guytoc002"
 msgid "Here!  You're Herman Toothrot, the hermit of Monkey Island™!"
-msgstr "Tu! Herman Toothrot, pustelnik Wyspy Małp™!"
+msgstr "Tutaj! Ty jesteś Herman Toothrot, pustelnik z Wyspy Małp™!"
 
 msgctxt "hertoc002"
 msgid "I am?  Who are you?"
-msgstr "Ja? A ty to kto?"
+msgstr "Jestem? A ty to kto?"
 
 msgctxt "guytoc003"
 msgid "Herman?"
@@ -29880,7 +29880,7 @@ msgstr ""
 
 msgctxt "hertoc003"
 msgid "If you say so.  Heh."
-msgstr "Skoro tak mówisz."
+msgstr "Skoro tak mówisz Heh.."
 
 msgctxt "guytoc004"
 msgid "Your memory seems to be slipping."
@@ -29888,15 +29888,15 @@ msgstr "Coś nie tyka z twoją pamięcią."
 
 msgctxt "hertoc004"
 msgid "Is it?  I can't remember."
-msgstr "Tak? Nie pamiętam."
+msgstr "Tak? Nie mogę sobie przypomnieć."
 
 msgctxt "guytoc005"
 msgid "Is your memory getting any better?"
-msgstr "Już u ciebie lepiej z pamięcią?"
+msgstr "Czy już jest lepiej z twoją pamięcią?"
 
 msgctxt "hertoc005"
 msgid "I don't remember.  Heh."
-msgstr "Nie pamiętam w sumie."
+msgstr "Nie pamiętam. Heh."
 
 msgctxt "guytoc006"
 msgid "How're things on Monkey Island™?"
@@ -29912,23 +29912,23 @@ msgstr "Potrzebuję pomocy."
 
 msgctxt "hertoc007"
 msgid "Get him -- I'm the one with no memory, and he wants MY help."
-msgstr "Ja utraciłem pamięć, a on chce MOJEJ pomocy."
+msgstr "Patrzcie go -- To ja straciłem pamięć, a on chce MOJEJ pomocy."
 
 msgctxt "hertoc008"
 msgid "Heh."
-msgstr " "
+msgstr "Heh. "
 
 msgctxt "guytoc008"
 msgid "I could still use some help."
-msgstr "Mogę nadal jakoś pomóc."
+msgstr "Nadal potrzebuję pomocy."
 
 msgctxt "hertoc009"
 msgid "You really must be desperate if you need advice from a brain-damaged hermit.  Heh heh heh."
-msgstr "Musisz być naprawdę zdesperowanym człowiekiem, skoro chcesz porady od pustelnika z uszkodzonym mózgiem."
+msgstr "Musisz być naprawdę zdesperowany, skoro chcesz porady od pustelnika z uszkodzonym mózgiem. Heh heh heh."
 
 msgctxt "guytoc009"
 msgid "See ya later, Herman."
-msgstr "To cześć, Herman."
+msgstr "Do zobaczenia później, Herman."
 
 msgctxt "hertoc010"
 msgid "Who?"
@@ -29940,31 +29940,31 @@ msgstr "Co pamiętasz?"
 
 msgctxt "hertoc011"
 msgid "Mostly a lot of staggering around."
-msgstr "W większości zdumiewające widoki."
+msgstr "W większości to jak się chwiałem."
 
 msgctxt "hertoc012"
 msgid "Then a weird kid named 'Sheepgood' showed up and told me my name was 'Herman.'"
-msgstr "Później dzieciak, jakiś \"Sheepgood\", się pojawił i powiedział że jestem \"Herman\"."
+msgstr "Potem jakiś dziwny dzieciak o imieniu \"Sheepgood\", pojawił się i powiedział że mam na imię \"Herman\"."
 
 msgctxt "guytoc011"
 msgid "Eh, it's nice to see that whatever's scrambled your brain hasn't affected your sense of humor...at all."
-msgstr "Eh, to dobrze, że mimo uszkodzenia mózgu wciąż mam swoje poczucie humoru.."
+msgstr "Eh, miło jest widzieć, że cokolwiek namieszało ci w głowie, nie miało to żadnego wpływu na twoje poczucie humoru... wcale."
 
 msgctxt "guytoc012"
 msgid "Think hard.  Do you remember anything else?"
-msgstr "Pomyśl. Pamiętasz coś jeszcze?"
+msgstr "Pomyśl intensywnie. Czy pamiętasz coś jeszcze?"
 
 msgctxt "hertoc013"
 msgid "I remember being asked a bunch of nosy questions, fancy boy."
-msgstr "Pamiętam, że byłem pytany o kilka wścibskich pytań."
+msgstr "Pamiętam, że zadawano mi mnóstwo wścibskich pytań, chłopcze."
 
 msgctxt "guytoc013"
 msgid "What's the earliest thing you remember?"
-msgstr "Co pamiętasz najwcześniej?"
+msgstr "Jaka jest najwcześniejsza rzecz którą pamiętasz?"
 
 msgctxt "hertoc014"
 msgid "This isn't some sort of regression therapy, is it?"
-msgstr "Czy to jest jakaś terapia regresyjna, czy co?"
+msgstr "To nie jest jakiś rodzaj terapii regresyjnej, prawda?"
 
 msgctxt "guytoc014"
 msgid "Eh, I don't think so."
@@ -29972,11 +29972,11 @@ msgstr "Eh, nie sądzę."
 
 msgctxt "hertoc015"
 msgid "Cause I don't wanna wake up thinking that I'd been kidnapped by aliens or somethin'."
-msgstr "Bo nie chcę się obudzić z myślą, że porwali mnie kosmici, czy coś."
+msgstr "Bo nie chcę się obudzić z myślą, że zostałem porwany przez kosmitów czy coś."
 
 msgctxt "guytoc015"
 msgid "Just try to remember as far back as you can."
-msgstr "Przypomnij sobie coś, co się działo bardzo dawno temu."
+msgstr "Po prostu spróbuj przypomnieć sobie jak najdalej wstecz."
 
 msgctxt "hertoc016"
 msgid "Lessee...uh...eh...umm...ow!"
@@ -30000,7 +30000,7 @@ msgstr "Oh, kilka godzin temu."
 
 msgctxt "guytoc018"
 msgid "You can't remember back more than a couple of hours?"
-msgstr "A możesz sobie przypomnieć coś dalej niż kilka godzin?"
+msgstr "Nie możesz przypomnieć sobie dalej, niż kilka godzin wstecz?"
 
 msgctxt "hertoc019"
 msgid "I guess not.  Is that a bad thing?  I can't remember."
@@ -30008,15 +30008,15 @@ msgstr "Chyba nie. Czy to źle? Nic sobie nie przypominam."
 
 msgctxt "guytoc019"
 msgid "So, your memory still doesn't reach back more than a couple of hours?"
-msgstr "To jak, czy twoja pamięć nadal nie sięga dalej, niż kilka godzin wstecz?"
+msgstr "Więc, twoja pamięć nadal nie sięga dalej, niż kilka godzin wstecz?"
 
 msgctxt "hertoc020"
 msgid "Not since I woke up next to my hammock, no."
-msgstr "Dalej niż obudziłem się na hamaku? Nie."
+msgstr "Nie, odkąd obudziłem się obok hamaka, nie."
 
 msgctxt "guytoc020"
 msgid "I think I'll plumb the murky depths of your memory later."
-msgstr "Chyba zgłębimy mroczne tajemnice twojej pamięci nieco później."
+msgstr "Chyba zgłębimy mroczne odmęty twojej pamięci nieco później."
 
 msgctxt "hertoc021"
 msgid "Whatever.  Heh heh."
@@ -30028,7 +30028,7 @@ msgstr "Pamiętasz gdzie zaparkowałeś statek?"
 
 msgctxt "guytoc022"
 msgid "I really, REALLY need to get back to Męlée Island™."
-msgstr "Al ja NAPRAWDĘ muszę wrócić na Wyspę Szpady™."
+msgstr "Naprawdę, NAPRAWDĘ muszę wrócić na Wyspę Szpady™."
 
 msgctxt "hertoc022"
 msgid "I have a ship?  I thought I was a hermit."
@@ -30036,27 +30036,27 @@ msgstr "Mam statek? Myślałem, że jestem pustelnikiem."
 
 msgctxt "guytoc023"
 msgid "Well, yeah, but--"
-msgstr "No tak, ale..."
+msgstr "Cóż, tak, ale--"
 
 msgctxt "hertoc023"
 msgid "Do I have a cell phone, too?"
-msgstr "A masz komórkę?"
+msgstr "Czy mam także telefon komórkowy?"
 
 msgctxt "guytoc024"
 msgid "But--"
-msgstr "Ale...."
+msgstr "Ale--."
 
 msgctxt "hertoc024"
 msgid "A hermit with a ship...jeez."
-msgstr "Pustelnik i statek...cóż."
+msgstr "Pustelnik ze statkiem...phi."
 
 msgctxt "guytoc025"
 msgid "So, you really don't know where your ship is?"
-msgstr "Więc nie wiesz gdzie masz swój statek?"
+msgstr "Więc naprawdę nie wiesz, gdzie jest twój statek?"
 
 msgctxt "hertoc025"
 msgid "Nope.  Of course, I don't put much stock in this mythical 'hermit ship' of yours."
-msgstr "Nie. Ale nie martw się, i tak bym ci go nie dał, nawet jako pustelnik."
+msgstr "Nie. Oczywiście, że nie przywiązuję dużej wagi do tego twojego mitycznego \"statku pustelnika”."
 
 msgctxt "guytoc026"
 msgid "You probably don't know how to counteract an Ultimate Insult, do you?"
@@ -30068,15 +30068,15 @@ msgstr "A co to?"
 
 msgctxt "guytoc027"
 msgid "It's a big, evil voodoo thingamajig."
-msgstr "Takie duże, voodoo cacko."
+msgstr "Takie duże, złe, voodoo cacko."
 
 msgctxt "hertoc027"
 msgid "Voodoo?  What's that?"
-msgstr "A co to jest voodoo?"
+msgstr "Voodoo? A co to takiego?"
 
 msgctxt "guytoc028"
 msgid "You don't know any secret ways to defeat Ozzie Mandrill and LeChuck, do you?"
-msgstr "Nie znasz żadnych sztuczek, jak pokonać Ozziego Mandrilla i LeChucka, prawda?"
+msgstr "Nie znasz żadnych sekretnych sposobów, jak pokonać Ozziego Mandrilla i LeChucka, prawda?"
 
 msgctxt "hertoc028"
 msgid "Who and who?"
@@ -30088,11 +30088,11 @@ msgstr "Tak myślałem."
 
 msgctxt "guytoc030"
 msgid "This isn't helping.  Let's talk about something else."
-msgstr "Nie pomagasz. Pogadajmy o czymś innym."
+msgstr "To nie pomaga. Porozmawiajmy o czymś innym."
 
 msgctxt "hertoc029"
 msgid "Try to make it something recent, pants boy.  Heh heh heh."
-msgstr "Może o czymś co się działo naprawdę niedawno."
+msgstr "Postaraj się, żeby to było coś świeżego, chłoptasiu. Heh heh heh.."
 
 msgctxt "guytoc031"
 msgid "I'm Guybrush Threepwood, Mighty Pirate."
@@ -30100,15 +30100,15 @@ msgstr "Jestem Guybrush Threepwood, Potężny Pirat."
 
 msgctxt "hertoc030"
 msgid "Guybrush Threepwood?'  Heh heh heh.  And I thought my name was stupid."
-msgstr "Guybrush Threepwood?'  Heh heh heh.  A myślałem, że ja się głupio nazywam."
+msgstr "Guybrush Threepwood?'  Heh heh heh.  A ja myślałem, że moje imie jest głupie."
 
 msgctxt "guytoc032"
 msgid "I'm Guybrush Threepwood, your best friend in the whole world."
-msgstr "Jam Guybrush Threepwood, twój najlepszy kumpel, gdziekolwiek jesteś."
+msgstr "Jam Guybrush Threepwood, twój najlepszy przyjaciel na całym świecie."
 
 msgctxt "hertoc031"
 msgid "If you're my best friend, where were you when I lost my memory?"
-msgstr "Jeśli jesteś moim kumplem, to gdzie byłeś jak straciłem pamięć?"
+msgstr "Jeśli jesteś moim najlepszym przyjacielem, to gdzie byłeś jak straciłem pamięć?"
 
 msgctxt "guytoc033"
 msgid "Ummm."
@@ -30116,7 +30116,7 @@ msgstr "ahmmmm."
 
 msgctxt "guytoc034"
 msgid "I'm Guybrush Threepwood, man, I took a bullet for you in 'Nam."
-msgstr "Jam Guybrush Threepwood,  przyjąłem w Wietnamie pocisk za ciebie."
+msgstr "Jam Guybrush Threepwood, przyjąłem w Wietnamie pocisk za ciebie."
 
 msgctxt "hertoc032"
 msgid "Where'd you take it?"
@@ -30136,11 +30136,11 @@ msgstr "Jestem Herman Toothrot!"
 
 msgctxt "guytoc035"
 msgid "Herman!  You got your memory back!"
-msgstr "Herman! Znowu pamiętasz!"
+msgstr "Herman! Odzyskałeś pamięć!"
 
 msgctxt "hertoc036"
 msgid "Some of it.  I still don't remember you."
-msgstr "Trochę tak. Ale nie do końca."
+msgstr "Trochę tak. Nadal Cię nie pamiętam."
 
 msgctxt "guytoc036"
 msgid "This is gonna be harder than I thought."
@@ -30148,15 +30148,15 @@ msgstr "To będzie trudniejsze niż sądziłem."
 
 msgctxt "hertoc037"
 msgid "That's me."
-msgstr "Czyli mną."
+msgstr "To ja."
 
 msgctxt "guytoc037"
 msgid "How's your memory?"
-msgstr "Jak z pamięcią?"
+msgstr "Jak z twoją pamięcią?"
 
 msgctxt "hertoc038"
 msgid "I don't know.  Ask me something."
-msgstr "Nie wiem. Zapytaj mnie o coś?"
+msgstr "Nie wiem. Zapytaj mnie o coś"
 
 msgctxt "hertoc039"
 msgid "Things?  What things?"
@@ -30172,19 +30172,19 @@ msgstr "Jak chcesz."
 
 msgctxt "hertoc041"
 msgid "I could tell that just by looking at ya."
-msgstr "Powiem tyle, patrząc na ciebie."
+msgstr "Mogłem to stwierdzić po prostu na ciebie patrząc."
 
 msgctxt "hertoc042"
 msgid "I'll bet.  Heh heh heh."
-msgstr "Na pewno."
+msgstr "Założę się. Heh heh heh."
 
 msgctxt "hertoc043"
 msgid "See ya, stranger."
-msgstr "To cześć."
+msgstr "Do zobaczenia, nieznajomy."
 
 msgctxt "hertoc044"
 msgid "Well, I remember building this campground."
-msgstr "Pamiętam budowę tego kempingu.."
+msgstr "Cóż, pamiętam budowę tego kempingu."
 
 msgctxt "hertoc045"
 msgid "And trying to keep the monkeys from stealing my bananas."
@@ -30192,7 +30192,7 @@ msgstr "I jak próbowałem zatrzymać małpy przed kradzieżą moich bananów."
 
 msgctxt "hertoc046"
 msgid "Then some bozo whacked me with a coconut."
-msgstr "Potem jakiś kolo walnął mnie kokosem w głowę."
+msgstr "Potem jakiś głupek walnął mnie kokosem w głowę."
 
 msgctxt "guytoc039"
 msgid "Do you remember anything else?"
@@ -30200,7 +30200,7 @@ msgstr "Pamiętasz coś jeszcze?"
 
 msgctxt "hertoc047"
 msgid "I remember being annoyed by some fancy-pants pirate."
-msgstr "Pamiętam jak przekomarzali się ze mną jacyś kretyńscy piraci."
+msgstr "Pamiętam, że zirytował mnie jakiś piracki piękniś."
 
 msgctxt "hertoc048"
 msgid "Hmmm, let me think..."
@@ -30208,7 +30208,7 @@ msgstr "Hmm, niech pomyślę..."
 
 msgctxt "hertoc049"
 msgid "I remember waking up in the middle of a clearing next to a milk bottle."
-msgstr "Pamiętam jak obudziłem się będąc w połowie pucowania butelki mleka."
+msgstr "Pamiętam, jak obudziłem się na środku polany obok butelki mleka."
 
 msgctxt "guytoc040"
 msgid "A milk bottle?"
@@ -30216,23 +30216,23 @@ msgstr "Butelki mleka?"
 
 msgctxt "hertoc050"
 msgid "Yup.  Probably had something to do with all the explosions going on at the amusement park."
-msgstr "No. Pewnie miało to coś wspólnego z tą eksplozją w parku rozrywki."
+msgstr "No. Prawdopodobnie miało to coś wspólnego z tymi wszystkimi eksplozjami w parku rozrywki."
 
 msgctxt "guytoc041"
 msgid "Explosions?"
-msgstr "Eksplozją?"
+msgstr "Eksplozjami?"
 
 msgctxt "hertoc051"
 msgid "Yup.  Some sort of demon/zombie/ghost pirate blew up the place real good, then sailed off on his ghost ship."
-msgstr "No. Jakiś pirat zombie/ demon/ czy duch wysadził takie fajne miejsce, a później uciekli na statku-widmo."
+msgstr "No. Jakiś pirat zombie/demon czy duch, konkretnie wysadził to miejsce, a później uciekł na swoim statku widmo."
 
 msgctxt "hertoc052"
 msgid "All the explosions activated the island's dormant volcano."
-msgstr "Przez te wybuchy nieczynny wulkan znowu ożył."
+msgstr "Wszystkie te eksplozje aktywowały uśpiony wulkan na wyspie."
 
 msgctxt "guytoc042"
 msgid "When did all this happen?"
-msgstr "Kiedy to było?"
+msgstr "Kiedy to się stało?"
 
 msgctxt "hertoc053"
 msgid "A few months ago."
@@ -30240,11 +30240,11 @@ msgstr "Kilka miesięcy temu."
 
 msgctxt "guytoc043"
 msgid "So, you can only remember the last few months?"
-msgstr "A więc pamiętasz tylko te kilka miesięcy?"
+msgstr "A więc pamiętasz tylko kilka ostatnich miesięcy?"
 
 msgctxt "hertoc054"
 msgid "That's right.  I can't remember a thing before I woke up next to that milk bottle."
-msgstr "To prawda. Nie pamiętam nic, co się działo przed obudzeniem i butelką mleka."
+msgstr "To prawda. Nie pamiętam nic, co działo się przed obudzeniem obok butelki mleka."
 
 msgctxt "guytoc044"
 msgid "Do you remember where you docked your ship?"
@@ -30260,15 +30260,15 @@ msgstr "Nie."
 
 msgctxt "guytoc046"
 msgid "It's a nasty voodoo McGuffin from Heck."
-msgstr "To brzydki voodoo McGuffin z piekła."
+msgstr "To paskudny voodoo McGuffin z piekła."
 
 msgctxt "hertoc056"
 msgid "Never heard of it."
-msgstr "Pierwsze słyszę."
+msgstr "Nigdy o tym nie słyszałem"
 
 msgctxt "guytoc047"
 msgid "Is the Ultimate Insult ringing any bells yet?"
-msgstr "Czy Talizman Upokorzenia jeszcze dzwoni?"
+msgstr "Czy Talizman Upokorzenia już dzwoni?"
 
 msgctxt "guytoc048"
 msgid "You haven't stumbled across any ways to defeat Ozzie and LeChuck, have you?"
@@ -30276,15 +30276,15 @@ msgstr "Nie wymyśliłeś czegoś genialnego, żeby powstrzymać Ozziego i LeChu
 
 msgctxt "hertoc057"
 msgid "Who're they?"
-msgstr "O kim mówisz"
+msgstr "Kim oni są?"
 
 msgctxt "guytoc049"
 msgid "I was afraid of that."
-msgstr "Te się bałem."
+msgstr "Tego się obawiałem."
 
 msgctxt "guytoc050"
 msgid "Have you remembered any ways to defeat Ozzie and LeChuck?"
-msgstr "Pamiętasz jakiś sposób, żeby pokonać Ozziego i LeChucka?"
+msgstr "Czy pamiętasz jakieś sposoby, na pokonanie Ozziego i LeChucka?"
 
 msgctxt "guytoc051"
 msgid "Guess not."
@@ -30292,23 +30292,23 @@ msgstr "Raczej nie."
 
 msgctxt "guytoc052"
 msgid "On second thought, I don't think you'll be too helpful in this state."
-msgstr "Z drugiej strony sądzę, że raczej nie przydasz mi się w tym temacie."
+msgstr "Po namyśle nie sądzę, że będziesz zbyt pomocny w tym stanie."
 
 msgctxt "hertoc058"
 msgid "If you want my help, ask me some questions I can answer."
-msgstr "Jeśli chcesz mojej pomocy, to pytaj o rzeczy na które znam odpowiedź."
+msgstr "Jeśli chcesz mojej pomocy, to zadawaj pytania na które jestem w stanie odpowiedzieć."
 
 msgctxt "guytoc053"
 msgid "Where are all the monkeys?"
-msgstr "Gdzie te wszystkie małpy?"
+msgstr "Gdzie są wszystkie małpy?"
 
 msgctxt "hertoc059"
 msgid "I think they spend most of their time on the other side of the lava field."
-msgstr "Według mnie spędzają większość czasu po drugiej stronie wyspy, za lawą."
+msgstr "Według mnie spędzają większość czasu po drugiej stronie pola lawy."
 
 msgctxt "hertoc060"
 msgid "Dirty little buggers."
-msgstr "Małe gnojki."
+msgstr "Małe, brudne gnojki."
 
 msgctxt "guytoc054"
 msgid "What do you think of Jojo Jr., the talking monkey?"
@@ -30316,7 +30316,7 @@ msgstr "Co uważasz o Jojo Juniorze, gadającej małpie?"
 
 msgctxt "hertoc061"
 msgid "A talking monkey?  Heh heh heh.  Are you sure YOU'RE not the one with the brain damage?"
-msgstr "Gadającej? Heh heh heh. Czy na pewno to ty nie masz uszkodzenia mózgu?"
+msgstr "Gadającej małpie? Heh heh heh. Jesteś pewien, że to nie TY masz uszkodzony mózg?"
 
 msgctxt "hertoc062"
 msgid "A talking monkey...heh heh heh heh."
@@ -30328,7 +30328,7 @@ msgstr "Co robiłeś przez taki szmat czasu?"
 
 msgctxt "hertoc063"
 msgid "Wouldn't you like to know?"
-msgstr "Nie chcesz wiedzieć."
+msgstr "Na pewno chcesz to wiedzieć?"
 
 msgctxt "guytoc056"
 msgid "Yes, yes I would."
@@ -30336,11 +30336,11 @@ msgstr "Tak, chcę."
 
 msgctxt "hertoc064"
 msgid "Oh.  Well, when the volcano erupted, it ripped open the island's southern canyon."
-msgstr "Oh. Po erupcji wulkanu, zacząłem urządzać się na południu wyspy."
+msgstr "Oh. Cóż, kiedy wulkan wybuchł, rozerwał południową część wyspy tworząc kanion."
 
 msgctxt "hertoc065"
 msgid "Guess what I found down there?"
-msgstr "Wiesz co tam znalazłem?"
+msgstr "Zgadnij co tam znalazłem."
 
 msgctxt "guytoc057"
 msgid "How's the mining going?"
@@ -30356,15 +30356,15 @@ msgstr "Czemu?"
 
 msgctxt "hertoc067"
 msgid "I kept hitting a big, metal wall."
-msgstr "Natrafiłem na wielką, metalową ścianę."
+msgstr "Ciągle uderzałem w dużą, metalową ścianę."
 
 msgctxt "guytoc059"
 msgid "There's a big, metal wall under Monkey Island™?"
-msgstr "Pod Wyspą Małp™ jest metalowa ściana?"
+msgstr "Pod Wyspą Małp™ jest duża, metalowa ściana?"
 
 msgctxt "hertoc068"
 msgid "Yup.  Who knew?"
-msgstr "No. Dziwne."
+msgstr "No. Kto by pomyślał?"
 
 msgctxt "guytoc060"
 msgid "About this impenetrable barrier under Monkey Island™..."
@@ -30380,7 +30380,7 @@ msgstr "Całe to złoto, nie do wydobycia."
 
 msgctxt "hertoc071"
 msgid "(sob)"
-msgstr ""
+msgstr "(szloch)"
 
 msgctxt "guytoc061"
 msgid "Do you know there's a crazy ghost building a church on the volcano?"
@@ -30388,7 +30388,7 @@ msgstr "Znasz walniętego ducha budującego kościół na wulkanie?"
 
 msgctxt "hertoc072"
 msgid "No, but hum a few bars and I'll fake it."
-msgstr "Nie, ale daj mi kilka sztabek i go poznam."
+msgstr "Nie znam, ale zaśpiewaj parę taktów, to pociągnę dalej."
 
 msgctxt "hertoc073"
 msgid "BWAH-HA-HAAAAAAAAAAAAH!"
@@ -30396,15 +30396,15 @@ msgstr ""
 
 msgctxt "hertoc074"
 msgid "Get it?"
-msgstr "Łapiesz/"
+msgstr "Łapiesz?"
 
 msgctxt "guytoc062"
 msgid "Herman, that joke's older than you look."
-msgstr "Herman, masz bardzo słabe żarty."
+msgstr "Herman, ten żart jest starszy niż twój wygląd."
 
 msgctxt "hertoc075"
 msgid "Well, it's new to me."
-msgstr "Dawno nie żartowałem."
+msgstr "Cóż, dla mnie jest nowy."
 
 msgctxt "guytoc063"
 msgid "About the ghost priest..."
@@ -30412,11 +30412,11 @@ msgstr "Jeśli chodzi o księdza-ducha...."
 
 msgctxt "hertoc076"
 msgid "Ahh, he's a good kid...for a ghost."
-msgstr "Ahh, to dobry dzieciak...dla duchów."
+msgstr "Ahh, to dobry dzieciak...jak na ducha."
 
 msgctxt "hertoc077"
 msgid "He just needs a new hobby."
-msgstr "Potrzebuje nowych zainteresowań"
+msgstr "Potrzebuje tylko nowych zainteresowań"
 
 msgctxt "guytoc064"
 msgid "So, you think the ghost priest is harmless?"
@@ -30428,7 +30428,7 @@ msgstr "Jasne."
 
 msgctxt "hertoc079"
 msgid "The only thing that seems to cheese him off is that 'Anti-LeChuck' character he keeps rambling about."
-msgstr "Tylko jedna rzecz jest w nim przerażająca - te \"Anty LeChuckowe\" symbole, które wszędzie wywiesza."
+msgstr "Jedyną rzeczą, która wydaje się go drażnić, jest ta postać \"Anty-LeChucka”, o której ciągle gada"
 
 msgctxt "guytoc065"
 msgid "Let's not talk about Monkey Island™ right now."
@@ -30448,11 +30448,11 @@ msgstr "Złoto!"
 
 msgctxt "hertoc082"
 msgid "Buckets of the stuff!"
-msgstr "Mnóstwo!"
+msgstr "Całe wiadra!"
 
 msgctxt "hertoc083"
 msgid "I've been mining ever since."
-msgstr "Wydobywałem wcześniej."
+msgstr "Od tego czasu zajmuję się wydobywaniem."
 
 msgctxt "hertoc084"
 msgid "I even had my banana picker dipped in gold."
@@ -30464,19 +30464,19 @@ msgstr "Po co pustelnikowi złoto?"
 
 msgctxt "hertoc085"
 msgid "Insurance, bucko.  The high-flyin' life of a hermit's fine and dandy now, but I may want to retire someday!"
-msgstr "Dla bezpieczeństwa. Dzięki niemu pustelnik ma życie na wysokim poziomie, nawet jeśli pójdzie na emeryturę!"
+msgstr "Zabezpieczenie, kolego. Podniebne życie pustelnika jest eleganckie i w porządku, ale pewnego dnia może zechcę przejść na emeryturę!"
 
 msgctxt "guytoc068"
 msgid "A creamy, nougat center?"
-msgstr "Nugatowe centrum?"
+msgstr "Kremowy, nugatowy środek?"
 
 msgctxt "guytoc069"
 msgid "The REAL Secret to Monkey Island™?"
-msgstr "PRAWDZIWY Sekret Wyspy Małp™"
+msgstr "PRAWDZIWY Sekret Wyspy Małp™?"
 
 msgctxt "guytoc070"
 msgid "The Script to Episode II?"
-msgstr "Skrypt Drugiego Odcinka?"
+msgstr "Skrypt Drugiego Epizodu?"
 
 msgctxt "hertoc086"
 msgid "Ow!"
@@ -30484,7 +30484,7 @@ msgstr " "
 
 msgctxt "hertoc087"
 msgid "Are ya tryin' to kill me, ya rassin-frassin'--"
-msgstr "Chcesz mnie zabić, rasisto....."
+msgstr "Próbujesz mnie zabić, ty wkurzający, zafajdany--"
 
 msgctxt "hertoc088"
 msgid "Guybrush!"
@@ -30496,7 +30496,7 @@ msgstr "Herman! Pamiętasz mnie?"
 
 msgctxt "hertoc089"
 msgid "Of course.  You're the kid who found my banana picker!"
-msgstr "Jasne. Odnalazłeś mój zbierak bananów!"
+msgstr "Oczywiście. Jesteś tym dzieciakiem, który odnalazł mój zbierak bananów!"
 
 msgctxt "hertoc090"
 msgid "Threepwood?"
@@ -30504,19 +30504,19 @@ msgstr ""
 
 msgctxt "guytoc072"
 msgid "You've gotten all your memory back?"
-msgstr "To ty odzyskałeś mi pamięć?"
+msgstr "Odzyskałeś pamięć w całości?"
 
 msgctxt "hertoc091"
 msgid "I think so.  Quiz me, hotshot."
-msgstr "Chyba tak. Zapytaj mnie!"
+msgstr "Chyba tak. Przepytaj mnie, mądralo."
 
 msgctxt "guytoc073"
 msgid "Are you sure your memory's whole?"
-msgstr "Na pewno masz już całą pamięć?"
+msgstr "Jesteś pewien, że twoja pamięć jest cała?"
 
 msgctxt "hertoc092"
 msgid "Try me, monkey boy!"
-msgstr "Wypróbuj ją!"
+msgstr "Sprawdź mnie, małpoludzie!"
 
 msgctxt "hertoc093"
 msgid "?"
@@ -30524,11 +30524,11 @@ msgstr "?"
 
 msgctxt "hertoc094"
 msgid "Don't ya always?"
-msgstr "Nie zawsze?"
+msgstr "Tak jak zawsze?"
 
 msgctxt "hertoc095"
 msgid "So what else is new?  Heh."
-msgstr "Co tam nowego?"
+msgstr "Co jeszcze nowego? Heh."
 
 msgctxt "guytoc074"
 msgid "Do you remember the cannibals?"
@@ -30536,15 +30536,15 @@ msgstr "Pamiętasz kanibali?"
 
 msgctxt "hertoc096"
 msgid "Those jerks!"
-msgstr "To dupki!"
+msgstr "Te dupki!"
 
 msgctxt "hertoc097"
 msgid "They used to keep stealing my banana picker."
-msgstr "Zwykle kradli mojego zbieraka bananów."
+msgstr "Ciągle kradli mój zbierak bananów."
 
 msgctxt "hertoc098"
 msgid "Boy, was I happy when they moved away."
-msgstr "Ale się ucieszyłem kiedy odeszli."
+msgstr "Ale się ucieszyłem, kiedy się wyprowadzili."
 
 msgctxt "guytoc075"
 msgid "Do you remember LeChuck's amusement park?"
@@ -30552,19 +30552,19 @@ msgstr "Pamiętasz Park Rozrywki LeChucka?"
 
 msgctxt "hertoc099"
 msgid "Yup.  Kinda silly, if ya ask me..."
-msgstr "No. Trochę tam nudno było..."
+msgstr "Tak. Według mnie, trochę to głupie..."
 
 msgctxt "hertoc100"
 msgid "...stickin' an amusement park on a nigh-unreachable, mystically obscured island."
-msgstr "...park rozrywki sterczący na prawie bezludnej wyspie, praktycznie pustka."
+msgstr "...zakładanie parku rozrywki na prawie nieosiągalnej, mistycznie przesłoniętej wyspie."
 
 msgctxt "guytoc076"
 msgid "I kinda wondered about that myself."
-msgstr "Zacząłem się nawet zastanawiać!"
+msgstr "Sam się nad tym zastanawiałem."
 
 msgctxt "hertoc101"
 msgid "Well, that's LeChuck for ya...a nasty piece of work, but not too bright."
-msgstr "Ale to w końcu LeChuck....jego paskudne dzieło, nie za dobre."
+msgstr "Ale to w końcu LeChuck...jego paskudne dzieło, ale nie za dobre."
 
 msgctxt "guytoc077"
 msgid "Do you remember Dinky Island™?"
@@ -30576,43 +30576,43 @@ msgstr "Chciałbym zapomnieć."
 
 msgctxt "hertoc103"
 msgid "I'm still not sure how I ended up there."
-msgstr "Nadal nie wiem jak tam wylądowałem."
+msgstr "Nadal nie jestem pewien, jak tam wylądowałem."
 
 msgctxt "guytoc078"
 msgid "LeChuck told me there was a tunnel between Dinky and Monkey Island™."
-msgstr "LeChuck powiedział mi, że istnieje tunel pomiędzy wyspami Dinky i Małp™."
+msgstr "LeChuck powiedział mi, że istnieje tunel pomiędzy Wyspą Dinky i Wyspą Małp™."
 
 msgctxt "hertoc104"
 msgid "Really?  Well, don't that beat all..."
-msgstr "Tak? Czy coś to przebiję..."
+msgstr "Naprawdę? Cóż, nie przebija to wszystkiego..."
 
 msgctxt "guytoc079"
 msgid "Do you remember the caverns to Heck under the Giant Monkey Head?"
-msgstr "Pamiętasz jaskinię pod Wielką Małpią Głową?"
+msgstr "Pamiętasz jaskinie do piekła pod Wielką Małpią Głową?"
 
 msgctxt "hertoc105"
 msgid "Oh, yeah.  The 'Caverns of Meat.'  Heh heh heh heh."
-msgstr "Tak. \"Mięsna Jaskinia\". Heh heh heh heh."
+msgstr "Oh, tak. \"Mięsne Jaskinie\". Heh heh heh heh."
 
 msgctxt "hertoc106"
 msgid "Those caves mysteriously sealed up after you left."
-msgstr "Jaskinia została ukryta i zapieczętowana jak uciekłeś."
+msgstr "Te jaskinie zostały w tajemniczy sposób zapieczętowane po tym jak odeszłeś."
 
 msgctxt "hertoc107"
 msgid "It's a good thing, too.  We were losing a lot of monkeys down there."
-msgstr "Ale to dobrze. Stracono tam dużo małp."
+msgstr "Ale to dobrze. Straciliśmy tam mnóstwo małp."
 
 msgctxt "hertoc108"
 msgid "I remember lots of stuff."
-msgstr "Dużo pamiętam."
+msgstr "Pamiętam wiele rzeczy."
 
 msgctxt "hertoc109"
 msgid "I especially remember a snot-nosed kid who wouldn't let a hermit have a little peace and quiet."
-msgstr "Szczególnie dobrze jakiegoś smarka, który nie pozwalał biednemu pustelnikowi nacieszyć się spokojem i ciszą."
+msgstr "Szczególnie pamiętam zasmarkanego dzieciaka, który nie pozwolił pustelnikowi na odrobinę spokoju."
 
 msgctxt "hertoc110"
 msgid "That's a long time ago, skippy."
-msgstr "To by dawno."
+msgstr "To było dawno temu."
 
 msgctxt "guytoc080"
 msgid "Try."
@@ -30620,7 +30620,7 @@ msgstr "Spróbuj."
 
 msgctxt "hertoc111"
 msgid "Hmmm...I remember...it's twenty years ago...I'm washing ashore on Monkey Island™."
-msgstr "Hmmm...Pamiętam... jakieś dwadzieścia lat. temu.... Jestem wyrzucany na brzeg Wyspy Małp™."
+msgstr "Hmmm...Pamiętam... to było dwadzieścia lat temu.... Jestem wyrzucany na brzeg Wyspy Małp™."
 
 msgctxt "hertoc112"
 msgid "...my head hurts..."
@@ -30628,7 +30628,7 @@ msgstr "...głowa mnie bolała...."
 
 msgctxt "hertoc113"
 msgid "There's an accordion next to me, on the beach."
-msgstr "Obok mnie na plaży leżał jaki akordeon."
+msgstr "Obok mnie na plaży leżał akordeon."
 
 msgctxt "guytoc081"
 msgid "An accordion?"
@@ -30636,23 +30636,23 @@ msgstr "Akordeon?"
 
 msgctxt "hertoc114"
 msgid "Yup.  I tried to play the thing for a few years, but I wasn't any good, so I threw it into a field of weeds."
-msgstr "No. Nawet starałem się na nim zagrać, ale nie umiałem, więc wyrzuciłem go do chwastów."
+msgstr "No. Nawet próbowałem na nim grać przez kilka lat, ale nie szło mi najlepiej, więc wyrzuciłem go w pole chwastów."
 
 msgctxt "guytoc082"
 msgid "So, you really don't remember anything about your life before you washed up on Monkey Island™?"
-msgstr "Czyli nie pamiętasz nic co się działo przed tym jak wylądowałeś na brzegu Wyspy Małp™?"
+msgstr "Więc naprawdę nie pamiętasz nic ze swojego życia, zanim wylądowałeś na Wyspie Małp™?"
 
 msgctxt "guytoc083"
 msgid "Let's pore over your mental state later."
-msgstr "Przeanalizujmy twój stan umysłu po tym."
+msgstr "Przyjrzymy się później twojemu stanowi psychicznemu."
 
 msgctxt "guytoc084"
 msgid "NOW do you know where your ship is?"
-msgstr "To TERAZ wiesz gdzie masz swój statek?"
+msgstr "Czy TERAZ wiesz gdzie jest swój statek?"
 
 msgctxt "hertoc115"
 msgid "Of course I do."
-msgstr "Teraz tak."
+msgstr "Oczywiście, że wiem."
 
 msgctxt "guytoc085"
 msgid "Great!"
@@ -30664,15 +30664,15 @@ msgstr "Jest na dnie oceanu."
 
 msgctxt "hertoc117"
 msgid "A few months ago I got to thinkin' that a hermit with a ship is like a unicycle with training wheels..."
-msgstr "Kilka miesięcy temu stwierdziłem, że pustelnik ze statkiem jest jak motocyklista z kółeczkami pomocniczymi po bokach..."
+msgstr "Kilka miesięcy temu stwierdziłem, że pustelnik ze statkiem jest jak monocykl z kółkami pomocniczymi..."
 
 msgctxt "hertoc118"
 msgid "...it just doesn't make much sense."
-msgstr "...to nie ma żadnego sensu."
+msgstr "...to po prostu nie ma większego sensu."
 
 msgctxt "hertoc119"
 msgid "So, in the spirit of genuine hermit-idity, I sank it."
-msgstr "Więc, w duchu prawdziwego pustelnika, zatopiłem go."
+msgstr "Zatem w duchu prawdziego pustelnictwa, zatopiłem go."
 
 msgctxt "guytoc086"
 msgid "That's...just...great."
@@ -30680,7 +30680,7 @@ msgstr "No to....eh...super."
 
 msgctxt "guytoc087"
 msgid "Now I'll have to find some OTHER way off this heckhole of a lush, tropical island paradise."
-msgstr "Teraz muszę znaleźć jaki INNY sposób wydostania się z tej bujnie tropikalnej, rajskiej, wyspy."
+msgstr "Teraz będę musiał znaleźć INNE wyjście z tej dziury w postaci bujnej, tropikalnej rajskiej wyspy."
 
 msgctxt "guytoc088"
 msgid "You wouldn't happen to know any OTHER ways off of Monkey Island™, would you?"
@@ -30688,11 +30688,11 @@ msgstr "Nie znasz jakiegoś innego sposobu na wydostanie się z Wyspy Małp™, 
 
 msgctxt "hertoc120"
 msgid "Don't know, and I don't care."
-msgstr "Nie wiem i nie chce wiedzieć."
+msgstr "Nie znam i nie obchodzi mnie to."
 
 msgctxt "hertoc121"
 msgid "I'm a full-time hermit now!"
-msgstr "Teraz mam cały pustelniczy etat!"
+msgstr "Jestem teraz pełnoetatowym pustelnikiem!"
 
 msgctxt "guytoc089"
 msgid "Oy."
@@ -30704,11 +30704,11 @@ msgstr "Wiesz jak walczyć z Talizmanem Upokorzenia?"
 
 msgctxt "hertoc122"
 msgid "That sounds familiar.  Uh, what is it?"
-msgstr "Brzmi znajomo. Ale co to jest?"
+msgstr "Brzmi znajomo. Uh, co to takiego?"
 
 msgctxt "guytoc091"
 msgid "It's a voodoo talisman with the power to crush men's souls!"
-msgstr "To voodoo talizman z mocą miażdżenia duszy ludziom!"
+msgstr "To talizman voodoo mający moc miażdżenia ludzkich dusz!"
 
 msgctxt "hertoc123"
 msgid "Ultimate Insult...Ultimate Insult...nope, never heard of it."
@@ -30720,7 +30720,7 @@ msgstr "Znasz jakieś pustelnicze sztuczki jak pokonać LeChucka i Ozziego Mandr
 
 msgctxt "hertoc124"
 msgid "Why is that name so familiar?"
-msgstr "Te nazwiska brzmią znajomo."
+msgstr "Dlaczego to imię jest tak znajome?"
 
 msgctxt "guytoc093"
 msgid "LeChuck?"
@@ -30728,11 +30728,11 @@ msgstr ""
 
 msgctxt "hertoc125"
 msgid "No, twerpo, the other one!"
-msgstr "Nie, zaraz, ten drugi!"
+msgstr "Nie, głupcze, ten drugi!"
 
 msgctxt "guytoc094"
 msgid "Ozzie Mandrill?  You know Ozzie Mandrill?"
-msgstr "Ozzie Mandrill? Znasz go?"
+msgstr "Ozzie Mandrill? Znasz Ozziego Mandrilla?"
 
 msgctxt "hertoc126"
 msgid "I...don't...know.  I...I think...maybe..."
@@ -30744,31 +30744,31 @@ msgstr "Nie. Niestety nie."
 
 msgctxt "guytoc095"
 msgid "Are you sure you can't help me beat Ozzie and LeChuck?"
-msgstr "Na pewno nie wiesz nic o pokonaniu Ozziego i LeChucka?"
+msgstr "Jesteś pewien, że nie możesz mi pomóc w pokonaniu Ozziego i LeChucka?"
 
 msgctxt "hertoc128"
 msgid "Well, LeChuck you can beat by taking advantage of the fact that he's a big dope."
-msgstr "LeChucka możesz pokonać, wykorzystując fakt, że jest wielkim kretynem."
+msgstr "Cóż, LeChucka możesz pokonać, wykorzystując fakt, że jest wielkim kretynem."
 
 msgctxt "hertoc129"
 msgid "As for Ozzie...Ozzie... <Sigh>  Nope.  Can't help ya."
-msgstr "Jeśli chodzi o Ozziego...<wzdycha> Nie, nic nie wiem."
+msgstr "Jeśli chodzi o Ozziego...Ozziego...<wzdycha> Nie, nie mogę ci pomóc."
 
 msgctxt "guytoc096"
 msgid "On second thought, maybe I'll ask for your help later."
-msgstr "Z drugiej strony, pogadamy na ten temat nieco później."
+msgstr "Po namyśle może poproszę Cię o pomoc później."
 
 msgctxt "hertoc130"
 msgid "Suits me."
-msgstr "To fajnie."
+msgstr "Mnie pasuje."
 
 msgctxt "guytoc097"
 msgid "Her--, I mean, Governor Marley?"
-msgstr "Her...Znaczy, Gubernatorze Marley?"
+msgstr "Her--, Znaczy, Gubernatorze Marley?"
 
 msgctxt "hertoc131"
 msgid "Call me Horatio, kid.  Neptune knows I'M gonna have to get used to it again."
-msgstr "Mów mi Horatio. Będzie trzeba się do tego przyzwyczaić ponownie."
+msgstr "Mów mi Horatio, chłopcze. Muszę się do tego przyzwyczaić ponownie."
 
 msgctxt "guytoc098"
 msgid "Horatio?"
@@ -30780,11 +30780,11 @@ msgstr "No?"
 
 msgctxt "guytoc099"
 msgid "How does it feel to have your memory back?"
-msgstr "Jakie to uczucie mieć znowu pamięć?"
+msgstr "Jakie to uczucie odzyskać pamięć?"
 
 msgctxt "hertoc133"
 msgid "How does it feel?  Let's see..."
-msgstr "Jak to jest? Czekaj..."
+msgstr "Jak to jest? Zobaczmy..."
 
 msgctxt "hertoc134"
 msgid "BEFORE you hit me with that accordion, I was a carefree hermit on a tropical island."
@@ -30792,23 +30792,23 @@ msgstr "ZANIM cisnąłeś we mnie akordeonem, byłem beztroskim pustelnikiem na 
 
 msgctxt "hertoc135"
 msgid "NOW... I've got a dimwit for a grandson-in-law,"
-msgstr "A TERAZ...Pamiętam, że mam wnuka, tępaka."
+msgstr "A TERAZ...Dowiaduję się, że mam wnuka, tępaka."
 
 msgctxt "hertoc136"
 msgid "a granddaughter who's imperiled by not one, but two beings of unspeakable evil,"
-msgstr "....wnusię zagrożoną nie przez jedną, a przez dwie okrutne istoty zła..."
+msgstr "....wnuczkę, której zagraża nie jedna, ale dwie istoty niewypowiedzianego zła,"
 
 msgctxt "hertoc137"
 msgid "and the knowledge that every pirate in the Tri-Island Area might be wiped out by a mistake I made over twenty years ago!"
-msgstr "i wiedzę, że każdy pirat na Trójwyspach może być zniszczony przez pomyłkę, którą zrobiłem ponad dwadzieścia lat temu!"
+msgstr "i świadomość, że każdy pirat na Trójwyspie może zostać unicestwiony w wyniku błędu, który popełniłem ponad dwadzieścia lat temu!"
 
 msgctxt "hertoc138"
 msgid "How do YOU think I feel, Seepgood!?"
-msgstr "Więc myślisz, że jak się czuje, wnusiu?!"
+msgstr "Jak myślisz, jak się czuję, Seepgood!?"
 
 msgctxt "guytoc100"
 msgid "Ummm, cautiously optimistic?"
-msgstr "Ummm, optymistycznie?"
+msgstr "Ummm, ostrożnie optymistycznie?"
 
 msgctxt "hertoc139"
 msgid "Grrrr."
@@ -30820,15 +30820,15 @@ msgstr "Jak mam pokonać Talizman Upokorzenia?"
 
 msgctxt "hertoc140"
 msgid "You shouldn't have to, as long as my granddaughter keeps the Gubernatorial Symbol away from those goons."
-msgstr "Powinieneś trzymać go z daleka od podwładnych mojej wnusi, przynajmniej póki Symbol Gubernatora ona trzyma."
+msgstr "Nie musisz, o ile moja wnuczka będzie trzymać Symbol Gubernatorski z dala od tych zbirów."
 
 msgctxt "guytoc102"
 msgid "Wellll, let's just suppose that something goes wrong.  How would I stop an Ultimate Insult talisman?"
-msgstr "Super, przypuśćmy, że coś pójdzie nie tak. Jak mam powstrzymać Talizman Upokorzenia?"
+msgstr "Więęęc, załóżmy, że coś pójdzie nie tak. Jak mógłbym powstrzymać Talizman Upokorzenia?"
 
 msgctxt "hertoc141"
 msgid "Hmmm, that's tricky.  I suppose you could just build a bigger Ultimate Insult talisman.  That might work.  But--"
-msgstr "Hmm, to nie łatwe. Myślę, że musisz tylko zbudować większy Talizman Upokorzenia. Może zadziałać, ale..."
+msgstr "Hmm, to kłopotliwe. Przypuszczam, że mógłbyś po prostu zbudować większy Talizman Upokorzenia.  To może zadziałać.  Ale--"
 
 msgctxt "guytoc103"
 msgid "But what?"
@@ -30836,43 +30836,43 @@ msgstr "Ale co?"
 
 msgctxt "hertoc142"
 msgid "If you wanted it to generate Ultimate COMEBACKS, you'd have to master the ancient tongue of the Ultimate Insult."
-msgstr "Jeśli chcesz stworzyć Ostateczny ODWET, musisz opanować do perfekcji starożytny język Talizmanu Upokorzenia."
+msgstr "Jeśli chcesz, aby generował Ostateczne RIPOSTY, musiałbyś opanować starożytny język Talizmanu Upokorzenia."
 
 msgctxt "guytoc104"
 msgid "How hard could that be?"
-msgstr "Czy to jest trudne?"
+msgstr "Jak trudne to może być?"
 
 msgctxt "hertoc143"
 msgid "Pretty dang hard.  It's really ancient."
-msgstr "Cholernie trudne. To stara magia."
+msgstr "Cholernie trudne. To starożytna magia."
 
 msgctxt "guytoc105"
 msgid "How ancient?"
-msgstr "Jak stara?"
+msgstr "Jak bardzo starożytna?"
 
 msgctxt "hertoc144"
 msgid "It's monkey jabber."
-msgstr "To małpia paplanina."
+msgstr "To małpi bełkot."
 
 msgctxt "guytoc106"
 msgid "The language of the Ultimate Insult is monkey jabber?"
-msgstr "Język Talizmanu to zwykła małpia paplanina?"
+msgstr "Język Talizmanu Upokorzenia to zwykły małpi bełkot?"
 
 msgctxt "hertoc145"
 msgid "Yup.  Pretty ancient, huh?"
-msgstr "No. Starożytne to, nie?"
+msgstr "No. Całkiem starożytne, nie?"
 
 msgctxt "guytoc107"
 msgid "Eh, it's a good thing we're on Monkey Island™, then."
-msgstr "Eh, więc to dobrze, że jesteś na Wyspie Małp™."
+msgstr "Eh, w takim razie dobrze, że jesteśmy na Wyspie Małp™."
 
 msgctxt "guytoc108"
 msgid "I'm a little unclear on this 'counteracting the Ultimate Insult' thing."
-msgstr "Nie do końca rozumiem jak przeciwdziałać Talizmanowi Upokorzenia."
+msgstr "Nie jestem pewien, co do kwestii \"przeciwdziałania Talizmanowi Upokorzenia\""
 
 msgctxt "hertoc146"
 msgid "Cripes, my granddaughter musta had a lobotomy after I left."
-msgstr "Jezu, moja wnusia musi mieć niezłe piekło z tobą."
+msgstr "Cholera, moja wnuczka musiała chyba przejść lobotomię po moim odejściu."
 
 msgctxt "hertoc147"
 msgid "Listen carefully, spanky:"
@@ -30880,27 +30880,27 @@ msgstr "Słuchaj uważnie, chłopcze:"
 
 msgctxt "hertoc148"
 msgid "First of all, you gotta build a BIG version of the Ultimate Insult..."
-msgstr "Po pierwsze, najpierw zbuduj WIĘKSZĄ wersje Talizmanu Upokorzenia..."
+msgstr "Przede wszystkim musisz zbudować WIĘKSZĄ wersję Talizmanu Upokorzenia..."
 
 msgctxt "hertoc149"
 msgid "You'll use this to generate Ultimate Comebacks."
-msgstr "Dzięki niemu zrobisz Ostateczny Odwet."
+msgstr "Wykorzystasz to do generowania Ostatecznych Ripost."
 
 msgctxt "hertoc150"
 msgid "While you're doing that, find some monkeys, so you can master the ancient language of the Ultimate Insult."
-msgstr "Podczas tego, znajdź jakieś małpy i doskonal swój starożytny język Upokorzenia."
+msgstr "Robiąc to, znajdź kilka małp, abyś mógł opanować starożytny język Talizmanu Upokorzenia"
 
 msgctxt "hertoc151"
 msgid "Lastly, and this is most important..."
-msgstr "Na końcu, to jest najważniejsze..."
+msgstr "Na koniec, najważniejsze..."
 
 msgctxt "hertoc152"
 msgid "Stop bugging me!"
-msgstr "Daj mi spokój!"
+msgstr "Przestań mnie dręczyć!"
 
 msgctxt "guytoc109"
 msgid "How am I supposed to get off this #&$*@'n island?"
-msgstr "Jak mam uciec z tej poje#&$ej wyspy?"
+msgstr "Jak mam się wydostać z tej #&$*@^% wyspy?"
 
 msgctxt "hertoc153"
 msgid "Splinky, I have no idea."
@@ -30908,15 +30908,15 @@ msgstr "Szczerze, nie mam pojęcia."
 
 msgctxt "hertoc154"
 msgid "Right now I'd trade all the gold in my mine to bring back my creaky old ship."
-msgstr "Teraz mógłbym wymienić całe moje złoto by powrócić na mój stary statek."
+msgstr "W tej chwili oddałbym całe złoto, które mam w kopalni, za przywrócenie mojego starego, skrzypiącego statku."
 
 msgctxt "guytoc110"
 msgid "See ya later, Governor."
-msgstr "Do zobaczenie, Gubernatorze."
+msgstr "Do zobaczenia później, Gubernatorze."
 
 msgctxt "hertoc155"
 msgid "Not if I see you first."
-msgstr "Do zobaczenia."
+msgstr "Nie, jeśli zobaczę cię pierwszy."
 
 msgctxt "guymon015"
 msgid "Hello again, Monkey Prince."
@@ -35176,7 +35176,7 @@ msgstr "No dobra, jak?"
 
 msgctxt "guymel156"
 msgid "But--"
-msgstr "Ale...."
+msgstr "Ale--."
 
 msgctxt "guymel157"
 msgid "So this is what it's like being a first lady."

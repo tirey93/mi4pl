@@ -47912,8 +47912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Not if I see you first.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Do zobaczenia.</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20240630T205642Z">
+        <seg>Nie, jeśli zobaczę cię pierwszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55208,8 +55208,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Right now I'd trade all the gold in my mine to bring back my creaky old ship.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Teraz mógłbym wymienić całe moje złoto by powrócić na mój stary statek.</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20240630T205511Z">
+        <seg>W tej chwili oddałbym całe złoto, które mam w kopalni, za przywrócenie mojego starego, skrzypiącego statku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55912,8 +55912,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>See ya later, Governor.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Do zobaczenie, Gubernatorze.</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20240630T205553Z">
+        <seg>Do zobaczenia później, Gubernatorze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60624,8 +60624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That wouldn't be very nice.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To nie byłoby zbyt mile.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240627T120840Z">
+        <seg>To nie byłoby zbyt miłe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79345,8 +79345,6 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Your tofu burger is delivered medium well, despite your explicit request for medium rare. How do you react?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240526T093528Z">
-        <seg>Twój burger z tofu jest średnio wysmażony, mimo wyraźnej prośby o średnio krwisty. Jak zareagujesz?</seg>
       <tuv lang="pl" changeid="damia" changedate="20240526T093528Z">
         <seg>Twój burger z tofu jest średnio wysmażony, mimo wyraźnej prośby o średnio krwisty. Jak zareagujesz?</seg>
       </tuv>

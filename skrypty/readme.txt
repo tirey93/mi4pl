@@ -10,9 +10,9 @@ od guypla028(4909) do parkab063(5793) - retranslacja tirey93, 2024
 od daishi015(5794) do navscu064(6095) - retranslacja tirey93, 2024
 od navluc001(6096) do guymot067(6880) - retranslacja tirey93, 2024
 od guyall155(6881) do cascgs023(7306) - retranslacja tirey93, 2024
-od pricol001(7307) do jojmon019(7465) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
-od guytoc001(7466) do hertoc155(7730) - planowana korekta, Itami, czerwiec 2024
-od guymon015(7731) do jojtow006(8029) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
+od pricol001(7307) do jojmon019(7465) - planowana korekta, Itami, lipiec 2024
+od guytoc001(7466) do hertoc155(7730) - retranslacja, Itami, czerwiec 2024
+od guymon015(7731) do jojtow006(8029) - planowana korekta, tirey93, lipiec 2024
 od guyall179(8030) do navshi033(8402) - retranslacja tirey93, 2023
 od eddpla039(8403) do ptwplt071(9286) - !wymagana korekta, retranslacja - tłumaczenie sprzed 10ciu lat, tirey93
 od guyall443(9287) do guybas092(9379) - retranslacja tirey93, 2024

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -57376,8 +57376,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Some of it.  I still don't remember you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240624T223009Z">
-        <seg>Trochę tak. Nadal Cię nie pamiętam.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240701T132846Z">
+        <seg>Trochę tak. Nadal cię nie pamiętam.</seg>
       </tuv>
     </tu>
     <tu>

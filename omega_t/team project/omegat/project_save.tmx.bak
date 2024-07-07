@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7479,8 +7479,8 @@
       <tuv lang="en-US">
         <seg>Any less nebulous clues about how to get off of Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231130T122315Z">
-        <seg>Masz jakieś mniej mgliste wskazówki, na temat wyjścia z Wyspy Małp™?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141857Z">
+        <seg>Jakieś mniej mgliste wskazówki, jak opuścić Wyspę Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8623,8 +8623,8 @@
       <tuv lang="en-US">
         <seg>As can you.  Imagine that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wyobraź sobie, że tak.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T140433Z">
+        <seg>Jak i ty. Nie do wiary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15207,8 +15207,8 @@
       <tuv lang="en-US">
         <seg>E...everyone who leaves Monkey Island™ finds their own path.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wszyscy opuszczający Wyspę Małp™ odnaleźli swoją drogę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141651Z">
+        <seg>Każdy, kto opuszcza Wyspę Małp™ znajduje swoją własną drogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18991,8 +18991,8 @@
       <tuv lang="en-US">
         <seg>Great Summoning?  What are you talking about?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wielkiego Posiedzenia? O czym ty mówisz?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T143654Z">
+        <seg>Wielkiego Przywołania? O czym ty mówisz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19071,8 +19071,8 @@
       <tuv lang="en-US">
         <seg>Great.  How am I supposed to get back to Męlée without a ship?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Świetnie. Więc jak mam wrócić na Wyspę Szpady™ bez statku?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141601Z">
+        <seg>Świetnie. To jak mam niby wrócić na Wyspę Szpady™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19095,8 +19095,8 @@
       <tuv lang="en-US">
         <seg>Greetings, unenlightened one.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pozdrowienia, ciemna istoto.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T140235Z">
+        <seg>Pozdrowienia, nieoświecony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21073,14 +21073,6 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Hellbeard</seg>
-      </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T122826Z">
-        <seg>Czartobrody</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Hellbeard the Unrepentant is no man's puppet!!!  Arrrrr!!!</seg>
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20240221T112948Z">
@@ -21995,8 +21987,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, neat hat!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ładny kapelusz!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141010Z">
+        <seg>Hej, niezła czapka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25643,8 +25635,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can't stop admiring your hat.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ja ciągle podziwiam ten kapelusz.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141207Z">
+        <seg>Dalej podoba mi się twoja czapka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26099,8 +26091,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I don't have a ship, if that's what you are asking.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie mam łodzi, jeśli o to pytasz.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141520Z">
+        <seg>Nie mam statku, jeśli o to pytasz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27299,8 +27291,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I foresee a unique path for you, of an epic nature.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam przeczucie, że twoja droga będzie wyjątkowa.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141759Z">
+        <seg>Dla ciebie przewiduję drogę o epickiej naturze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29539,8 +29531,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I still can't believe you're a talking monkey.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ciągle nie wierzę, że jesteś gadającą małpą.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T140501Z">
+        <seg>Ciągle jestem w szoku, że możesz gadać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30683,16 +30675,16 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I want off this crazy island.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chce się wydostać z tej wyspy.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141242Z">
+        <seg>Chcę się wydostać z tej wyspy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>I want off this crazy island.  Can you help me or not?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chcę stąd uciec. Pomożesz mi czy nie?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141509Z">
+        <seg>Chcę się stąd wydostać. Pomożesz mi czy nie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -39240,8 +39232,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's good to want things.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobrze jest coś chcieć.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141450Z">
+        <seg>Dobrze jest czegoś chcieć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40312,8 +40304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's your dime, Spanky.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T185341Z">
-        <seg>Jak chcesz.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240701T140757Z">
+        <seg>Mówisz, masz, Ryjku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46200,8 +46192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No details?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Brak danych?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T142001Z">
+        <seg>A konkretniej?</seg>
       </tuv>
     </tu>
     <tu>
@@ -47392,8 +47384,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No.  No details.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak. Nic a nic.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T142014Z">
+        <seg>Nie będzie konkretniej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52248,8 +52240,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Or perhaps I'm hungry again.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ewentualnie, znowu zgłodniałem.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141817Z">
+        <seg>Albo znowu zgłodniałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56456,8 +56448,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Since the Great Summoning.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Od Wielkiego Posiedzenia.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T143648Z">
+        <seg>Od Wielkiego Przywołania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56480,8 +56472,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Since when are there so many monkeys on Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Od kiedy jest tak dużo małp na Wyspie Małp™?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T143628Z">
+        <seg>Od kiedy jest tak wiele małp na Wyspie Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56600,8 +56592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Smear</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T183953Z">
-        <seg>smar</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T125943Z">
+        <seg>Nałóż</seg>
       </tuv>
     </tu>
     <tu>
@@ -57376,8 +57368,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Some of it.  I still don't remember you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240624T223009Z">
-        <seg>Trochę tak. Nadal Cię nie pamiętam.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240701T132846Z">
+        <seg>Trochę tak. Nadal cię nie pamiętam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59368,8 +59360,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Thank you.  It is a hat of honor.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dzięki. To kapelusz honoru.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141024Z">
+        <seg>Dziękuję. To czapka honoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60008,8 +60000,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That is why you fail.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Twoja strata.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T140553Z">
+        <seg>Stąd odnosisz porażkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61656,8 +61648,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's very profound, but I have no idea what you just said.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>TO bardzo głębokie, ale nie wiem co ty do mnie mówisz.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141425Z">
+        <seg>Brzmi głęboko, ale nie wiem, o czym do mnie rozmawiasz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62752,8 +62744,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The question is not, why a talking monkey, but rather, why not a talking monkey?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pytaniem nie jest czemu małpa gada, tylko raczej, czemu małpy nie mówią?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T140909Z">
+        <seg>Pytanie brzmi raczej czemu małpa nie gada, a nie czemu małpa gada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62944,8 +62936,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The want of things is the core of the human experience.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chęć pragnienia jest podstawą doświadczeń człowieka.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141339Z">
+        <seg>Pragnienie świata jest podstawą ludzkiego istnienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86586,8 +86578,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Can I have it?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dasz mi go?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240703T141221Z">
+        <seg>Dasz mi ją?</seg>
       </tuv>
     </tu>
     <tu>

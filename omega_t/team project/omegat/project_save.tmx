@@ -1680,8 +1680,8 @@
       <tuv lang="en-US">
         <seg>...I...I was in the clearing next to the Giant Monkey Head, burying my dearly departed father.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240527T165138Z">
-        <seg>... byłem na pewnej polanie tuż obok Wielkiej Małpiej Głowy, grzebiąc ciało mojego zmarłego ojca.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100533Z">
+        <seg>Byłem na polanie tuż obok Wielkiej Małpiej Głowy, grzebiąc ciało mojego ukochanego ojca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4581,8 +4581,8 @@
       <tuv lang="en-US">
         <seg>A...anyway, my monkey brethren have felt a need, a calling, to amass here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W każdym razie, moi bracia nie czują potrzeby gromadzenia się.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094306Z">
+        <seg>W każdym razie, moi małpi bracia poczuli nagły mus, powołanie, by tu być.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7535,8 +7535,8 @@
       <tuv lang="en-US">
         <seg>Anyway, he hadn't moved in over ten years, and eventually starved.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W każdym razie, nie ruszył się stamtąd  przez 10 lat no i umarł z głodu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T101422Z">
+        <seg>W każdym razie, nie ruszał się tak przez ponad dziesięć lat i umarł z głodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8551,8 +8551,8 @@
       <tuv lang="en-US">
         <seg>As I touched it, a tremendous bolt shot through my body, knocking me unconscious.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kiedy je dotknąłem,  ogromne wyładowanie przeszło przez moje ciało i zemdlałem na miejscu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102336Z">
+        <seg>Gdy ją dotknąłem, przez moje ciało przeszło potężne wyładowanie, pozbawiając mnie przytomności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9847,8 +9847,8 @@
       <tuv lang="en-US">
         <seg>Besides, I have pressing business to attend to.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Poza tym, mam ważną sprawę do załatwienia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095718Z">
+        <seg>Poza tym, mam coś ważnego do załatwienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11615,8 +11615,8 @@
       <tuv lang="en-US">
         <seg>By the look of things, he had been helping someone to get inside the gate, and hadn't been told to stop.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Z jakiegoś powodu, pomagał wtedy komuś przejść przez bramę i nie chciał go powstrzymać.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T101203Z">
+        <seg>Wyglądało na to, że pomógł komuś wejść do środka ale nikt mu nie powiedział, żeby przestał.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12927,8 +12927,8 @@
       <tuv lang="en-US">
         <seg>Could you, uh, cut to the chase?  I... I got an important meeting to get to.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A mógłbyś ich popędzić? Ja... mam ważne spotkanie na którym muszę być.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094051Z">
+        <seg>A mógłbyś... bez owijania? Mam zaraz bardzo ważne spotkanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13919,8 +13919,8 @@
       <tuv lang="en-US">
         <seg>Do any other monkeys talk?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jest jakaś inna gadająca małpa?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102512Z">
+        <seg>Czy inne małpy też gadają?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13999,8 +13999,8 @@
       <tuv lang="en-US">
         <seg>Do you always have to do that?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zawsze musisz tak robić?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095323Z">
+        <seg>Czy zawsze musisz tak robić?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15703,8 +15703,8 @@
       <tuv lang="en-US">
         <seg>Eh, prophecies, shmophecies...are we gonna fight, or what?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Eh, proroctwo-szmoroctwo.....walczysz czy nie?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095244Z">
+        <seg>Proroctwa, szmoctwa... walczysz czy co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16319,8 +16319,8 @@
       <tuv lang="en-US">
         <seg>Every monkey in the Caribbean has gathered here, and yet none of them know why.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Każda małpa na Karaibach się tu zbiera, ale żadna nie wie czemu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094525Z">
+        <seg>Każda małpa na Karaibach po coś tu przybyła, ale żadna nie wie czemu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20627,8 +20627,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>He was very loyal, I am told.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powiedziano mi, że niby był lojalny.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T101244Z">
+        <seg>Ponoć był niezwykle lojalny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21069,6 +21069,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231224T190255Z" creationid="damia" creationdate="20231224T190255Z">
         <seg>Helen B. Janis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hellbeard</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Czartobrodym</seg>
       </tuv>
     </tu>
     <tu>
@@ -23731,8 +23739,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How did this come to pass, oh great one?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jak do tego doszło, wodzu?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100114Z">
+        <seg>Jak do tego doszło, o wielki?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25203,8 +25211,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can only imagine it will be something BIG.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mogę się tylko domyślać, że chodzi o coś DUŻEGO.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094736Z">
+        <seg>Ale podejrzewam, że chodzi o coś DUŻEGO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25299,8 +25307,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I can see you've been training.  Perhaps you are ready to fulfill the prophecies...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiem, że trenowałeś. Być może już czas wypełnić proroctwo.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095104Z">
+        <seg>Wiem, że trenowałeś. Być może już czas na spełnienie proroctwa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25747,8 +25755,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I challenge you to Monkey Kombat!  Again!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wyzywam cię! Znowu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095308Z">
+        <seg>Wyzywam cię na Małpi Kombat! Znowu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27251,8 +27259,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I feel that I cannot help you more at this time.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czuję, że na ten moment nie mogę ci więcej pomóc.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095627Z">
+        <seg>Czuję, że teraz nie mogę ci już więcej pomóc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28963,8 +28971,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I question your readiness to confront me, but very well...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sprawdzę twoje zdolności konfrontacji ze mną, ale dobrze.....</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094941Z">
+        <seg>Kwestionowałbym twoją gotowość na konfrontację, ale dobrze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30907,8 +30915,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I wish you luck and health on your journey.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Życzę szczęścia i zdrowia w trakcie podróży.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095551Z">
+        <seg>Życzę szczęścia i zdrowia w podróży.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46280,8 +46288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No one has any respect for history.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nikt nie ma szacunku dla historii.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094103Z">
+        <seg>Nikt nie ma szacunku do historii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46704,8 +46712,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, I am the only one.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No dobra, tylko ja mówię.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102555Z">
+        <seg>To nie, tylko ja mogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46952,8 +46960,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, but it psyches out my opponents.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, ale tak wykańczam psychicznie wroga.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095513Z">
+        <seg>Nie, ale to wykańcza przeciwników.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49936,8 +49944,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh, being a curious monkey by nature, I cautiously approached the humming Head, and reached out my hand towards its massive mouth.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A że jestem ciekawą małpą z natury, ostrożnie zbliżyłem się do buczącej głowy i wyciągnąłem rękę w kierunku ogromnych ust.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102157Z">
+        <seg>Będąc z natury ciekawską małpą, ostrożnie zbliżyłem się do brzęczącej Głowy i wyciągnąłem rękę w kierunku jej masywnej paszczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50088,8 +50096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh, ha ha!  You mean, do they talk in your language?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oh, ha ha! Masz na myśli, że mówią po twojemu?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102602Z">
+        <seg>Och, chodzi ci o to, czy mówią w twoim języku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -50624,8 +50632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh, that, too.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oh, to też.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102459Z">
+        <seg>To też.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51184,8 +51192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Okay, so why not a talking monkey?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ok, więc czemu małpy nie mówią?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100031Z">
+        <seg>Ok, więc czemu małpa nie gada?</seg>
       </tuv>
     </tu>
     <tu>
@@ -51392,8 +51400,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>On a warm sunny day, much like this one...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W pewien cieplejszy poranek, tak jak dziś...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100142Z">
+        <seg>W ciepły słoneczny dzień, taki jak ten...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54160,8 +54168,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Precisely.  Why not?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>No właśnie. Dlaczego?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100039Z">
+        <seg>No właśnie. Czemu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56328,8 +56336,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Short version, please?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czy to długa historia?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100243Z">
+        <seg>Krótką wersję, proszę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59184,8 +59192,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Tell me again why all the monkeys are here?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powiedz mi jeszcze raz, po co tu tyle małp?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094425Z">
+        <seg>To, jeszcze raz, po co tu te wszystkie małpy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -63432,8 +63440,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>There is a feeling that something wonderful will happen soon.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale mam przeczucie, że coś dobrego coś się wkrótce zdarzy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094357Z">
+        <seg>Mamy przeczucie, że wydarzy się tu coś wspaniałego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66888,8 +66896,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Uh, me too.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To tak jak ja.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095859Z">
+        <seg>Ja też.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68168,8 +68176,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Very well...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dobrze....</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095250Z">
+        <seg>Dobrze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -68816,8 +68824,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>We found him still clutching a branch that operated the gate to the Monkey Head.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Znaleźliśmy go martwego, wciąż trzymającego dźwignię otwierającą bramę do Małpiej Głowy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100714Z">
+        <seg>Znaleźliśmy go wciąż ściskającego gałąź obsługującą bramę do Małpiej Głowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71153,8 +71161,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What I really want to talk about is...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak naprawdę chcę mówić o....</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102630Z">
+        <seg>Tak naprawdę chcę pomówić o....</seg>
       </tuv>
     </tu>
     <tu>
@@ -71793,8 +71801,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>What enlightenment can I bestow upon you?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>W jaki sposób mogę cię oświecić?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T094804Z">
+        <seg>Jakim oświeceniem mogę cię obdarzyć?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73121,8 +73129,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>When I came to, I discovered that I had an enormous understanding of the world around me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kiedy mnie ocucili, odkryłem, że mam ogromne zrozumienie w świecie, który mnie otacza.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102426Z">
+        <seg>Gdy się ocknąłem, odkryłem, że mam ogromne zrozumienie otaczającego mnie świata</seg>
       </tuv>
     </tu>
     <tu>
@@ -76777,8 +76785,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yes.  Well, I was just completing the grim task, and I heard a low humming coming from the Giant Monkey Head.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240527T165133Z">
-        <seg>Tak. I kiedy kończyłem wykonywać to ponure zadanie, usłyszałem cichy szum wydobywający się z Wielkiej Małpiej Głowy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102113Z">
+        <seg>Tak. Kiedy tak kończyłem to ponure zadanie usłyszałem jakiś cichy brzęk dochodzący z Wielkiej Małpiej Głowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77857,8 +77865,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You mean you could talk!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>To znaczy, że gadałeś!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T102453Z">
+        <seg>W sensie, że gadałeś!</seg>
       </tuv>
     </tu>
     <tu>
@@ -77929,8 +77937,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>You must begin the next leg of your journey.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Musisz rozpocząć nowy rozdział w swojej księdze życia.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T095702Z">
+        <seg>Czas rozpocząć kolejny etap twojej podróży.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79201,8 +79209,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Your father?  You mean...?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ojca? To znaczy...?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240707T100550Z">
+        <seg>Ojca? W sensie...</seg>
       </tuv>
     </tu>
     <tu>

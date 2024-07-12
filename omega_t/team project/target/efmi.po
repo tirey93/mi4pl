@@ -29932,7 +29932,7 @@ msgstr "Do zobaczenia później, Herman."
 
 msgctxt "hertoc010"
 msgid "Who?"
-msgstr "Kto?"
+msgstr "Kim?"
 
 msgctxt "guytoc010"
 msgid "What DO you remember?"
@@ -30140,7 +30140,7 @@ msgstr "Herman! Odzyskałeś pamięć!"
 
 msgctxt "hertoc036"
 msgid "Some of it.  I still don't remember you."
-msgstr "Trochę tak. Nadal Cię nie pamiętam."
+msgstr "Trochę tak. Nadal cię nie pamiętam."
 
 msgctxt "guytoc036"
 msgid "This is gonna be harder than I thought."
@@ -30168,7 +30168,7 @@ msgstr "Chciałbym posłuchać więcej o tym, co się dzieje na Wyspie Małp™.
 
 msgctxt "hertoc040"
 msgid "It's your dime, Spanky."
-msgstr "Jak chcesz."
+msgstr "Mówisz, masz, Ryjku."
 
 msgctxt "hertoc041"
 msgid "I could tell that just by looking at ya."
@@ -30924,7 +30924,7 @@ msgstr "Witaj znowu, Książę Małp."
 
 msgctxt "jojmon020"
 msgid "Greetings, unenlightened one."
-msgstr "Pozdrowienia, ciemna istoto."
+msgstr "Pozdrowienia, nieoświecony."
 
 msgctxt "guymon016"
 msgid "Hey hey hey hey!  You can talk!"
@@ -30932,35 +30932,35 @@ msgstr "Hej, hej, hej, hej! Ty gadasz!"
 
 msgctxt "jojmon021"
 msgid "As can you.  Imagine that."
-msgstr "Wyobraź sobie, że tak."
+msgstr "Jak i ty. Nie do wiary."
 
 msgctxt "guymon017"
 msgid "I still can't believe you're a talking monkey."
-msgstr "Ciągle nie wierzę, że jesteś gadającą małpą."
+msgstr "Ciągle jestem w szoku, że możesz gadać."
 
 msgctxt "jojmon022"
 msgid "That is why you fail."
-msgstr "Twoja strata."
+msgstr "Stąd odnosisz porażkę."
 
 msgctxt "jojmon023"
 msgid "The question is not, why a talking monkey, but rather, why not a talking monkey?"
-msgstr "Pytaniem nie jest czemu małpa gada, tylko raczej, czemu małpy nie mówią?"
+msgstr "Pytanie brzmi raczej czemu małpa nie gada, a nie czemu małpa gada."
 
 msgctxt "guymon018"
 msgid "Hey, neat hat!"
-msgstr "Ładny kapelusz!"
+msgstr "Hej, niezła czapka!"
 
 msgctxt "jojmon024"
 msgid "Thank you.  It is a hat of honor."
-msgstr "Dzięki. To kapelusz honoru."
+msgstr "Dziękuję. To czapka honoru."
 
 msgctxt "guymon019"
 msgid "I can't stop admiring your hat."
-msgstr "Ja ciągle podziwiam ten kapelusz."
+msgstr "Dalej podoba mi się twoja czapka."
 
 msgctxt "guymon020"
 msgid "Can I have it?"
-msgstr "Dasz mi go?"
+msgstr "Dasz mi ją?"
 
 msgctxt "jojmon025"
 msgid "No."
@@ -30968,71 +30968,71 @@ msgstr "Nie."
 
 msgctxt "guymon021"
 msgid "I want off this crazy island."
-msgstr "Chce się wydostać z tej wyspy."
+msgstr "Chcę się wydostać z tej wyspy."
 
 msgctxt "jojmon026"
 msgid "The want of things is the core of the human experience."
-msgstr "Chęć pragnienia jest podstawą doświadczeń człowieka."
+msgstr "Pragnienie świata jest podstawą ludzkiego istnienia."
 
 msgctxt "guymon022"
 msgid "That's very profound, but I have no idea what you just said."
-msgstr "TO bardzo głębokie, ale nie wiem co ty do mnie mówisz."
+msgstr "Brzmi głęboko, ale nie wiem, o czym do mnie rozmawiasz."
 
 msgctxt "jojmon027"
 msgid "It's good to want things."
-msgstr "Dobrze jest coś chcieć."
+msgstr "Dobrze jest czegoś chcieć."
 
 msgctxt "guymon023"
 msgid "I want off this crazy island.  Can you help me or not?"
-msgstr "Chcę stąd uciec. Pomożesz mi czy nie?"
+msgstr "Chcę się stąd wydostać. Pomożesz mi czy nie?"
 
 msgctxt "jojmon028"
 msgid "I don't have a ship, if that's what you are asking."
-msgstr "Nie mam łodzi, jeśli o to pytasz."
+msgstr "Nie mam statku, jeśli o to pytasz."
 
 msgctxt "guymon024"
 msgid "Great.  How am I supposed to get back to Męlée without a ship?"
-msgstr "Świetnie. Więc jak mam wrócić na Wyspę Szpady™ bez statku?"
+msgstr "Świetnie. To jak mam niby wrócić na Wyspę Szpady™?"
 
 msgctxt "jojmon029"
 msgid "E...everyone who leaves Monkey Island™ finds their own path."
-msgstr "Wszyscy opuszczający Wyspę Małp™ odnaleźli swoją drogę."
+msgstr "Każdy, kto opuszcza Wyspę Małp™ znajduje swoją własną drogę."
 
 msgctxt "jojmon030"
 msgid "I foresee a unique path for you, of an epic nature."
-msgstr "Mam przeczucie, że twoja droga będzie wyjątkowa."
+msgstr "Dla ciebie przewiduję drogę o epickiej naturze."
 
 msgctxt "jojmon031"
 msgid "Or perhaps I'm hungry again."
-msgstr "Ewentualnie, znowu zgłodniałem."
+msgstr "Albo znowu zgłodniałem."
 
 msgctxt "guymon025"
 msgid "Any less nebulous clues about how to get off of Monkey Island™?"
-msgstr "Masz jakieś mniej mgliste wskazówki, na temat wyjścia z Wyspy Małp™?"
+msgstr "Jakieś mniej mgliste wskazówki, jak opuścić Wyspę Małp™?"
 
 msgctxt "guymon026"
 msgid "No details?"
-msgstr "Brak danych?"
+msgstr "A konkretniej?"
 
 msgctxt "jojmon032"
 msgid "No.  No details."
-msgstr "Tak. Nic a nic."
+msgstr "Nie będzie konkretniej."
 
 msgctxt "guymon027"
 msgid "Since when are there so many monkeys on Monkey Island™?"
-msgstr "Od kiedy jest tak dużo małp na Wyspie Małp™?"
+msgstr "Od kiedy jest tak wiele małp na Wyspie Małp™?"
 
 msgctxt "jojmon033"
 msgid "Since the Great Summoning."
-msgstr "Od Wielkiego Posiedzenia."
+msgstr "Od Wielkiego Przywołania."
 
 msgctxt "guymon028"
 msgid "Great Summoning?  What are you talking about?"
-msgstr "Wielkiego Posiedzenia? O czym ty mówisz?"
+msgstr "Wielkiego Przywołania? O czym ty mówisz?"
 
 msgctxt "jojmon034"
 msgid "Shut your yap, impatient one, and I shall tell you."
-msgstr "Przestań szczekać, niecierpliwcze, to ci powiem."
+msgstr "Zamknij dziób, niecierpliwcze, to ci powiem."
 
 msgctxt "jojmon035"
 msgid "The brotherhood of primates has a unique bond with the whole world that surrounds us."
@@ -31040,19 +31040,19 @@ msgstr "Bractwo naczelnych ma wyjątkową więź z całym otaczającym nas świa
 
 msgctxt "guymon029"
 msgid "Could you, uh, cut to the chase?  I... I got an important meeting to get to."
-msgstr "A mógłbyś ich popędzić? Ja... mam ważne spotkanie na którym muszę być."
+msgstr "A mógłbyś... bez owijania? Mam zaraz bardzo ważne spotkanie."
 
 msgctxt "jojmon036"
 msgid "No one has any respect for history."
-msgstr "Nikt nie ma szacunku dla historii."
+msgstr "Nikt nie ma szacunku do historii."
 
 msgctxt "jojmon037"
 msgid "A...anyway, my monkey brethren have felt a need, a calling, to amass here."
-msgstr "W każdym razie, moi bracia nie czują potrzeby gromadzenia się."
+msgstr "W każdym razie, moi małpi bracia poczuli nagły mus, powołanie, by tu być."
 
 msgctxt "jojmon038"
 msgid "There is a feeling that something wonderful will happen soon."
-msgstr "Ale mam przeczucie, że coś dobrego coś się wkrótce zdarzy."
+msgstr "Mamy przeczucie, że wydarzy się tu coś wspaniałego."
 
 msgctxt "jojmon039"
 msgid "Something BIG."
@@ -31060,7 +31060,7 @@ msgstr "Coś DUŻEGO."
 
 msgctxt "guymon030"
 msgid "Tell me again why all the monkeys are here?"
-msgstr "Powiedz mi jeszcze raz, po co tu tyle małp?"
+msgstr "To, jeszcze raz, po co tu te wszystkie małpy?"
 
 msgctxt "jojmon040"
 msgid "Even I do not know the answers to such questions."
@@ -31068,11 +31068,11 @@ msgstr "Nawet ja nie znam odpowiedzi na takie pytania."
 
 msgctxt "jojmon041"
 msgid "Every monkey in the Caribbean has gathered here, and yet none of them know why."
-msgstr "Każda małpa na Karaibach się tu zbiera, ale żadna nie wie czemu."
+msgstr "Każda małpa na Karaibach po coś tu przybyła, ale żadna nie wie czemu."
 
 msgctxt "jojmon042"
 msgid "I can only imagine it will be something BIG."
-msgstr "Mogę się tylko domyślać, że chodzi o coś DUŻEGO."
+msgstr "Ale podejrzewam, że chodzi o coś DUŻEGO."
 
 msgctxt "guymon031"
 msgid "Tell me more about Monkey Kombat."
@@ -31080,7 +31080,7 @@ msgstr "Powiedz mi więcej o Małpim Kombacie."
 
 msgctxt "jojmon043"
 msgid "What enlightenment can I bestow upon you?"
-msgstr "W jaki sposób mogę cię oświecić?"
+msgstr "Jakim oświeceniem mogę cię obdarzyć?"
 
 msgctxt "guymon032"
 msgid "I challenge you to Monkey Kombat!"
@@ -31088,19 +31088,19 @@ msgstr "Wyzywam cię na Małpi Kombat!"
 
 msgctxt "jojmon044"
 msgid "I question your readiness to confront me, but very well..."
-msgstr "Sprawdzę twoje zdolności konfrontacji ze mną, ale dobrze....."
+msgstr "Kwestionowałbym twoją gotowość na konfrontację, ale dobrze..."
 
 msgctxt "jojmon045"
 msgid "I can see you've been training.  Perhaps you are ready to fulfill the prophecies..."
-msgstr "Wiem, że trenowałeś. Być może już czas wypełnić proroctwo."
+msgstr "Wiem, że trenowałeś. Być może już czas na spełnienie proroctwa..."
 
 msgctxt "guymon033"
 msgid "Eh, prophecies, shmophecies...are we gonna fight, or what?"
-msgstr "Eh, proroctwo-szmoroctwo.....walczysz czy nie?"
+msgstr "Proroctwa, szmoctwa... walczysz czy co?"
 
 msgctxt "jojmon046"
 msgid "Very well..."
-msgstr "Dobrze...."
+msgstr "Dobrze..."
 
 msgctxt "jojmon047"
 msgid "Monkey Koooooombaaaaaat!"
@@ -31108,15 +31108,15 @@ msgstr "Małpi Koooooombaaaaaat!"
 
 msgctxt "guymon034"
 msgid "I challenge you to Monkey Kombat!  Again!"
-msgstr "Wyzywam cię! Znowu!"
+msgstr "Wyzywam cię na Małpi Kombat! Znowu!"
 
 msgctxt "guymon035"
 msgid "Do you always have to do that?"
-msgstr "Zawsze musisz tak robić?"
+msgstr "Czy zawsze musisz tak robić?"
 
 msgctxt "jojmon048"
 msgid "No, but it psyches out my opponents."
-msgstr "Nie, ale tak wykańczam psychicznie wroga."
+msgstr "Nie, ale to wykańcza przeciwników."
 
 msgctxt "guymon036"
 msgid "I really should be going."
@@ -31124,51 +31124,51 @@ msgstr "Chyba muszę już iść."
 
 msgctxt "jojmon049"
 msgid "I wish you luck and health on your journey."
-msgstr "Życzę szczęścia i zdrowia w trakcie podróży."
+msgstr "Życzę szczęścia i zdrowia w podróży."
 
 msgctxt "jojmon050"
 msgid "I feel that I cannot help you more at this time."
-msgstr "Czuję, że na ten moment nie mogę ci więcej pomóc."
+msgstr "Czuję, że teraz nie mogę ci już więcej pomóc."
 
 msgctxt "jojmon051"
 msgid "You must begin the next leg of your journey."
-msgstr "Musisz rozpocząć nowy rozdział w swojej księdze życia."
+msgstr "Czas rozpocząć kolejny etap twojej podróży."
 
 msgctxt "jojmon052"
 msgid "Besides, I have pressing business to attend to."
-msgstr "Poza tym, mam ważną sprawę do załatwienia."
+msgstr "Poza tym, mam coś ważnego do załatwienia."
 
 msgctxt "guymon037"
 msgid "Uh, me too."
-msgstr "To tak jak ja."
+msgstr "Ja też."
 
 msgctxt "guymon038"
 msgid "Okay, so why not a talking monkey?"
-msgstr "Ok, więc czemu małpy nie mówią?"
+msgstr "Ok, więc czemu małpa nie gada?"
 
 msgctxt "jojmon053"
 msgid "Precisely.  Why not?"
-msgstr "No właśnie. Dlaczego?"
+msgstr "No właśnie. Czemu?"
 
 msgctxt "guymon039"
 msgid "How did this come to pass, oh great one?"
-msgstr "Jak do tego doszło, wodzu?"
+msgstr "Jak do tego doszło, o wielki?"
 
 msgctxt "jojmon054"
 msgid "On a warm sunny day, much like this one..."
-msgstr "W pewien cieplejszy poranek, tak jak dziś..."
+msgstr "W ciepły słoneczny dzień, taki jak ten..."
 
 msgctxt "guymon040"
 msgid "Short version, please?"
-msgstr "Czy to długa historia?"
+msgstr "Krótką wersję, proszę."
 
 msgctxt "jojmon055"
 msgid "...I...I was in the clearing next to the Giant Monkey Head, burying my dearly departed father."
-msgstr "... byłem na pewnej polanie tuż obok Wielkiej Małpiej Głowy, grzebiąc ciało mojego zmarłego ojca."
+msgstr "Byłem na polanie tuż obok Wielkiej Małpiej Głowy, grzebiąc ciało mojego ukochanego ojca."
 
 msgctxt "guymon041"
 msgid "Your father?  You mean...?"
-msgstr "Ojca? To znaczy...?"
+msgstr "Ojca? W sensie..."
 
 msgctxt "jojmon056"
 msgid "Jojo Sr."
@@ -31176,47 +31176,47 @@ msgstr "Jojo Senior."
 
 msgctxt "jojmon057"
 msgid "We found him still clutching a branch that operated the gate to the Monkey Head."
-msgstr "Znaleźliśmy go martwego, wciąż trzymającego dźwignię otwierającą bramę do Małpiej Głowy."
+msgstr "Znaleźliśmy go wciąż ściskającego gałąź obsługującą bramę do Małpiej Głowy."
 
 msgctxt "jojmon058"
 msgid "By the look of things, he had been helping someone to get inside the gate, and hadn't been told to stop."
-msgstr "Z jakiegoś powodu, pomagał wtedy komuś przejść przez bramę i nie chciał go powstrzymać."
+msgstr "Wyglądało na to, że pomógł komuś wejść do środka ale nikt mu nie powiedział, żeby przestał."
 
 msgctxt "jojmon059"
 msgid "He was very loyal, I am told."
-msgstr "Powiedziano mi, że niby był lojalny."
+msgstr "Ponoć był niezwykle lojalny."
 
 msgctxt "jojmon060"
 msgid "Anyway, he hadn't moved in over ten years, and eventually starved."
-msgstr "W każdym razie, nie ruszył się stamtąd  przez 10 lat no i umarł z głodu."
+msgstr "W każdym razie, nie ruszał się tak przez ponad dziesięć lat i umarł z głodu."
 
 msgctxt "jojmon061"
 msgid "Yes.  Well, I was just completing the grim task, and I heard a low humming coming from the Giant Monkey Head."
-msgstr "Tak. I kiedy kończyłem wykonywać to ponure zadanie, usłyszałem cichy szum wydobywający się z Wielkiej Małpiej Głowy."
+msgstr "Tak. Kiedy tak kończyłem to ponure zadanie usłyszałem jakiś cichy brzęk dochodzący z Wielkiej Małpiej Głowy."
 
 msgctxt "jojmon062"
 msgid "Oh, being a curious monkey by nature, I cautiously approached the humming Head, and reached out my hand towards its massive mouth."
-msgstr "A że jestem ciekawą małpą z natury, ostrożnie zbliżyłem się do buczącej głowy i wyciągnąłem rękę w kierunku ogromnych ust."
+msgstr "Będąc z natury ciekawską małpą, ostrożnie zbliżyłem się do brzęczącej Głowy i wyciągnąłem rękę w kierunku jej masywnej paszczy."
 
 msgctxt "jojmon063"
 msgid "As I touched it, a tremendous bolt shot through my body, knocking me unconscious."
-msgstr "Kiedy je dotknąłem,  ogromne wyładowanie przeszło przez moje ciało i zemdlałem na miejscu."
+msgstr "Gdy ją dotknąłem, przez moje ciało przeszło potężne wyładowanie, pozbawiając mnie przytomności."
 
 msgctxt "jojmon064"
 msgid "When I came to, I discovered that I had an enormous understanding of the world around me."
-msgstr "Kiedy mnie ocucili, odkryłem, że mam ogromne zrozumienie w świecie, który mnie otacza."
+msgstr "Gdy się ocknąłem, odkryłem, że mam ogromne zrozumienie otaczającego mnie świata"
 
 msgctxt "guymon042"
 msgid "You mean you could talk!"
-msgstr "To znaczy, że gadałeś!"
+msgstr "W sensie, że gadałeś!"
 
 msgctxt "jojmon065"
 msgid "Oh, that, too."
-msgstr "Oh, to też."
+msgstr "To też."
 
 msgctxt "guymon043"
 msgid "Do any other monkeys talk?"
-msgstr "Jest jakaś inna gadająca małpa?"
+msgstr "Czy inne małpy też gadają?"
 
 msgctxt "jojmon066"
 msgid "Of course they do!"
@@ -31224,15 +31224,15 @@ msgstr "No jasne!"
 
 msgctxt "jojmon067"
 msgid "Oh, ha ha!  You mean, do they talk in your language?"
-msgstr "Oh, ha ha! Masz na myśli, że mówią po twojemu?"
+msgstr "Och, chodzi ci o to, czy mówią w twoim języku?"
 
 msgctxt "jojmon068"
 msgid "No, I am the only one."
-msgstr "No dobra, tylko ja mówię."
+msgstr "To nie, tylko ja mogę."
 
 msgctxt "guymon044"
 msgid "What I really want to talk about is..."
-msgstr "Tak naprawdę chcę mówić o...."
+msgstr "Tak naprawdę chcę pomówić o...."
 
 msgctxt "jojmon069"
 msgid "Yes?"
@@ -31240,31 +31240,31 @@ msgstr "Tak?"
 
 msgctxt "jojmon070"
 msgid "As interesting as this may be to you, I feel we might be straying from what is important."
-msgstr "Być może i ciebie to interesuje tak bardzo jak mnie, bo czuję, że możemy odejść od tego co jest ważne."
+msgstr "Jakkolwiek interesujące może ci się to wydawać, czuję, że odchodzimy od tego, co ważne."
 
 msgctxt "jojmon071"
 msgid "Oh, that is a question only the stars and the heavens themselves can answer."
-msgstr "Oh, obawiam się, że na to pytanie tylko gwiazdy i niebiosa znają odpowiedź."
+msgstr "Na to pytanie tylko same gwiazdy i niebo może znać odpowiedź."
 
 msgctxt "guymon045"
 msgid "Um, okay, but can I have your hat?"
-msgstr "Yy, może, a mogę przymierzyć twój kapelusz?"
+msgstr "Okej, a mogę mieć twoją czapkę?"
 
 msgctxt "guymon046"
 msgid "What do you mean 'hat of honor'?"
-msgstr "Masz na myśli \"kapelusz honoru\""
+msgstr "Co to ta \"czapka honoru\"?"
 
 msgctxt "jojmon072"
 msgid "To earn the right to wear this hat, one must become the best at an ancient and noble sport."
-msgstr "Żeby zdobyć prawo do noszenia, musisz zostać najlepszym graczem naszego starożytnego i szlachetnego sportu."
+msgstr "Aby uzyskać prawo, by ją nosić, należy stać się mistrzem w pradawnym i szlachetnym sporcie."
 
 msgctxt "jojmon073"
 msgid "A contest with great and long-standing tradition among the monkey-folk."
-msgstr "Konkurs ma długą tradycję w naszym małpim folklorze."
+msgstr "Ma on wielką i długą tradycję wśród małpiego ludu."
 
 msgctxt "jojmon074"
 msgid "The sport of Monkey Kombat."
-msgstr "Sport zwany Małpi Kombat."
+msgstr "Sport ten to Małpi Kombat."
 
 msgctxt "guymon047"
 msgid "Is it bronze?"
@@ -31272,19 +31272,19 @@ msgstr "Czy to brąz?"
 
 msgctxt "guymon048"
 msgid "From here it looks bronze."
-msgstr "Stąd wygląda jak brąz."
+msgstr "Wygląda jak brąz."
 
 msgctxt "jojmon075"
 msgid "Why yes, yes it is."
-msgstr "No tak, to brąz."
+msgstr "Ależ tak. W rzeczy samej."
 
 msgctxt "jojmon076"
 msgid "It's darn heavy, too."
-msgstr "Cholernie ciężki."
+msgstr "I swoje waży."
 
 msgctxt "guymon049"
 msgid "I'm tired of discussing your hat."
-msgstr "Nie mam siły gada o czapce."
+msgstr "Mam dość gadania o czapce."
 
 msgctxt "jojmon077"
 msgid "Me too."
@@ -31300,15 +31300,15 @@ msgstr "Tylko tyle wiadomo."
 
 msgctxt "jojmon079"
 msgid "And even that is nothing more than a hunch."
-msgstr "Ale to zbyt mało jak widzisz."
+msgstr "A to i tak nic więcej, jak przeczucie."
 
 msgctxt "jojmon080"
 msgid "But it is the only explanation for this impromptu monkey reunion."
-msgstr "Ale to jedyne wyjaśnienie tego kabaretu małp."
+msgstr "Ale tylko to może wytłumaczyć tak nagłe zjednoczenie małp."
 
 msgctxt "guymon051"
 msgid "But how did they know to come here?"
-msgstr "Skąd oni wiedzieli dokąd iść?"
+msgstr "Ale skąd one wiedziały dokąd iść?"
 
 msgctxt "jojmon081"
 msgid "How did YOU know to come here?"
@@ -31316,23 +31316,23 @@ msgstr "A skąd TY wiedziałeś?"
 
 msgctxt "guymon052"
 msgid "I didn't.  I had no choice."
-msgstr "Nie wiem. Nie miałem wyjścia."
+msgstr "Nie miałem wyboru."
 
 msgctxt "jojmon082"
 msgid "And so it is for my monkey brethren."
-msgstr "To pewnie tak jak moi bracia."
+msgstr "Podobnie jak moi małpi pobratymcy."
 
 msgctxt "guymon053"
 msgid "Ozzie Mandrill and LeChuck brought them all here?"
-msgstr "Ozzie Mandrill i LeChuck je tutaj przynieśli?"
+msgstr "Ozzie Mandrill i LeChuck je tu sprowadzili?"
 
 msgctxt "jojmon083"
 msgid "No, they came of their own accord, but they don't know why."
-msgstr "Nie, przyszli tu z własnej woli, jednak nie wiedzą czemu."
+msgstr "Nie, przyszli z własnej woli, jednak nie wiedzą czemu."
 
 msgctxt "jojmon084"
 msgid "I was only trying to illustrate their lack of power to fight it, much like you... ah, oh, forget it."
-msgstr "Ja tylko staram się wyjaśnić ich brak mocy do walki z tym, podobnie jak ty...oh, zapomnij o tym."
+msgstr "Sam starałem się wyjaśnić ich brak oporu, by z tym walczyć, tak jak ty... och, nieważne."
 
 msgctxt "guymon054"
 msgid "How did all these monkeys get here?"
@@ -31340,23 +31340,23 @@ msgstr "Skąd się tu wzięły te wszystkie małpy?"
 
 msgctxt "jojmon085"
 msgid "Various ways."
-msgstr "Różnie bywało."
+msgstr "Wieloma drogami."
 
 msgctxt "jojmon086"
 msgid "Each monkey has found their own path."
-msgstr "Każda małpa odnalazła własną drogę."
+msgstr "Każda znalazła swoją własną ścieżkę."
 
 msgctxt "guymon055"
 msgid "Are any of those paths reversible?"
-msgstr "A na tej drodze można zawrócić?"
+msgstr "Czy którąkolwiek z nich da się zawrócić?"
 
 msgctxt "guymon056"
 msgid "I'd sure like to get off this island."
-msgstr "Bardzo potrzebuję się stąd wydostać."
+msgstr "Poważnie muszę się stąd wydostać."
 
 msgctxt "jojmon087"
 msgid "Your path is yours to find."
-msgstr "Tylko ty znajdziesz swoją drogę."
+msgstr "Twoją ścieżkę znasz tylko ty."
 
 msgctxt "guymon057"
 msgid "Gee, thanks."
@@ -31364,51 +31364,51 @@ msgstr "Dzięki."
 
 msgctxt "guymon058"
 msgid "Eh, never mind the monkeys for a minute."
-msgstr "Eh, nie gadajmy już o małpach."
+msgstr "Dobra, mniejsza o małpy."
 
 msgctxt "jojmon088"
 msgid "Then what would you like to talk about?"
-msgstr "Więc o czym chcesz teraz mówić?"
+msgstr "Więc o czym chciałbyś teraz pomówić?"
 
 msgctxt "jojmon089"
 msgid "I have no more insight for you.  Perhaps you seek knowledge in other areas?"
-msgstr "Już nie mam żadnych spraw u ciebie. Być może szukaj odpowiedzi w innych źródłach?"
+msgstr "Nic już więcej nie wiem. Być może czas poszukać w innych miejscach?"
 
 msgctxt "guymon059"
 msgid "What exactly is Monkey Kombat?"
-msgstr "Co to konkretnie jest Małpi Kombat?"
+msgstr "Co to jest ten Małpi Kombat?"
 
 msgctxt "jojmon090"
 msgid "It was once used to train young monkey warriors in the way of combat."
-msgstr "Kiedyś służył do ćwiczenia małpich wojowników w zwykłych walkach."
+msgstr "Niegdyś szkolono nim małpich wojowników, by mogły walczyć."
 
 msgctxt "jojmon091"
 msgid "In these modern times, it has become a game, albeit a game of supreme honor."
-msgstr "W dzisiejszych czasach, to zwykła gra, choć to gra o najwyższy honor."
+msgstr "Teraz to tylko gra, aczkolwiek gra najwyższego honoru."
 
 msgctxt "jojmon092"
 msgid "Very little has changed over the years."
-msgstr "W ciągu lat niewiele się zmieniło."
+msgstr "Przez lata niewiele się zmieniło."
 
 msgctxt "jojmon093"
 msgid "Much of the ceremony has been dropped, but the flinging of insults and witty monkey repartee has remained."
-msgstr "Choć niektóre obrzędy porzucono, to rzucanie obelgami i dowcipnymi ripostami pozostało niezmienione."
+msgstr "Większość ceremonii porzucono, ale obrzucanie się obelgami i dowcipne małpie riposty wciąż pozostały."
 
 msgctxt "guymon060"
 msgid "Well, how does it work?"
-msgstr "No dobra, jak się w to gra?"
+msgstr "Dobrze, a jak w to grać?"
 
 msgctxt "jojmon094"
 msgid "Pay attention, this may seem complicated to you."
-msgstr "Słuchaj uważnie, bo możesz nie nadążyć."
+msgstr "Słuchaj uważnie, bo może to być trochę pogmatwane."
 
 msgctxt "jojmon095"
 msgid "There are four basic words used in Monkey Kombat."
-msgstr "Mamy cztery podstawowe słowa używane w Małpim Kombacie."
+msgstr "Istnieją cztery podstawowe słowa w Małpim Kombacie."
 
 msgctxt "jojmon096"
 msgid "They are the most ancient of all the words in the monkey language."
-msgstr "To są najstarsze słowa ze wszystkich w małpim języku."
+msgstr "Są to najbardziej pradawne słowa we wszystkich małpich językach."
 
 msgctxt "jojmon097"
 msgid "Learn them well.  Eek, Oop, Ack, and Chee."
@@ -31416,7 +31416,7 @@ msgstr "Zapamiętaj: Eek, Oop, Ack i Chee."
 
 msgctxt "jojmon098"
 msgid "Insults are flung at your opponent by combining these words, as in 'Oop Eek Chee!'"
-msgstr "Obelgi są rzucane na przeciwnika w różnych kolejnościach, na przykład \"Oop Eek Chee!\""
+msgstr "Obelgi rzuca się łącząc je we frazy. Na przykład: \"Oop Eek Chee\"."
 
 msgctxt "jojmon099"
 msgid "Any combination will do."
@@ -31424,11 +31424,11 @@ msgstr "Jest wiele kombinacji."
 
 msgctxt "jojmon100"
 msgid "There are four ways to respond to such insults."
-msgstr "Są cztery sposoby na odpowiedź takiej obelgi."
+msgstr "Istnieją cztery sposoby na odpowiedzieć obeldze."
 
 msgctxt "jojmon101"
 msgid "The Stall, the Deflection, and the Comeback."
-msgstr "Mamy Blok, Unik i Kontrę."
+msgstr "Mamy Zwód, Odparcie i Ripostę."
 
 msgctxt "guymon061"
 msgid "And the fourth?"
@@ -31436,47 +31436,47 @@ msgstr "A czwarty?"
 
 msgctxt "jojmon102"
 msgid "Utter Failure."
-msgstr "Brak danych."
+msgstr "Pełna Porażka."
 
 msgctxt "jojmon103"
 msgid "To Stall, simply repeat the phrase."
-msgstr "Blok, to zwykłe powtarzanie zdań."
+msgstr "By Zwieść wystarczy powtórzyć frazę."
 
 msgctxt "jojmon104"
 msgid "To Deflect, match the pattern of your opponent's insult, and add a word to the end."
-msgstr "Unik, dopasowujesz się do wzorca obelg twojego przeciwnika i dodajesz słowo na koniec."
+msgstr "By Odeprzeć, dopasuj się do obelgi przeciwnika i dodać słowo na koniec."
 
 msgctxt "jojmon105"
 msgid "To make a Comeback, flip the pattern using any word, and add a word to the end."
-msgstr "Żeby zrobić Kontrę, odwróć wzór stosując dowolne słowo i dodaj jedno na koniec."
+msgstr "Żeby Ripostować, odwróć wzór dowolnym słowem i dodaj nowe na koniec."
 
 msgctxt "jojmon106"
 msgid "Contests always start with three words, and grow with each Deflection or Comeback."
-msgstr "Walka zawsze zaczyna się od trzech słów i ma coraz dłuższe zdania z każdym Unikiem i Kontrą."
+msgstr "Walka zawsze zaczyna się od trzech słów, a frazy rosną wraz z każdym Odparciem i Ripostą."
 
 msgctxt "jojmon107"
 msgid "A successful stall starts the contest over."
-msgstr "Blok zawsze kończy walkę."
+msgstr "Poprawny zwód zaczyna walkę od nowa."
 
 msgctxt "jojmon108"
 msgid "The best way to learn is to try it against the monkeys wandering around the island."
-msgstr "Żeby się nauczyć, radzę ci zmierzyć się z małpami spacerującymi po całej wyspie."
+msgstr "Najlepiej ucz się w praktyce wyzywając na obelgi małpy szwendające się po wyspie."
 
 msgctxt "guymon062"
 msgid "How do I Stall?"
-msgstr "Jak zrobić Blok?"
+msgstr "Jak zrobić Zwód?"
 
 msgctxt "jojmon109"
 msgid "For example.  You are insulted with 'Eek Chee Oop Ack'."
-msgstr "Na przykład. Znieważono cię z \"Eek, Chee Oop Ack\""
+msgstr "Na przykład. Znieważono cię z \"Eek Chee Oop Ack\""
 
 msgctxt "jojmon110"
 msgid "The Stall response would be 'Eek Chee Oop Ack'."
-msgstr "Odpowiedź z Blokiem była by \"Eek Chee Oop Ack\"."
+msgstr "By Zwieść odpowiedz \"Eek Chee Oop Ack\"."
 
 msgctxt "guymon063"
 msgid "How do I Deflect?"
-msgstr "Jak zrobić Unik?"
+msgstr "Jak zrobić Odparcie?"
 
 msgctxt "jojmon111"
 msgid "For example.  You are insulted with 'Eek Chee Eek'."
@@ -31484,7 +31484,7 @@ msgstr "Na przykład. Znieważono cię z \"Eek Chee Eek\"."
 
 msgctxt "jojmon112"
 msgid "First, replace each word with another while keeping the pattern."
-msgstr "Najpierw odpowiedz innymi słowami zachowującymi wzór."
+msgstr "Najpierw odpowiedz innymi słowami zachowując wzór."
 
 msgctxt "jojmon113"
 msgid "Like this: 'Oop Ack Oop'."
@@ -31492,19 +31492,19 @@ msgstr "Tak jak: \"Oop Ack Oop\"."
 
 msgctxt "jojmon114"
 msgid "Then, add a word to the end, like, 'Chee'."
-msgstr "I dodaj jakieś słówko na koniec, np. \"Chee\"."
+msgstr "I dodaj jakieś słowo na koniec jak \"Chee\"."
 
 msgctxt "jojmon115"
 msgid "'Oop Ack Oop Chee!'"
-msgstr ""
+msgstr "'Oop Ack Oop Chee!'"
 
 msgctxt "guymon064"
 msgid "How do I make a Comeback?"
-msgstr "A jak zrobić Kontrę?"
+msgstr "A jak zrobić Ripostę?"
 
 msgctxt "jojmon116"
 msgid "To formulate a Comeback, flip the pattern of your opponent's insult, and add a word to the end."
-msgstr "By sformułować Kontrę odwróć wzór swojego przeciwnika i dodaj słowo na koniec."
+msgstr "By sformułować Ripostę odwróć wzór swojego przeciwnika i dodaj słowo na koniec."
 
 msgctxt "jojmon117"
 msgid "For example.  You are insulted with 'Eek Chee Chee'."
@@ -31512,7 +31512,7 @@ msgstr "Na przykład. Znieważono cię z \"Eek Chee Chee\"."
 
 msgctxt "jojmon118"
 msgid "First, reverse the pattern substituting any words."
-msgstr "Najpierw zamień wzór innymi słowami."
+msgstr "Najpierw odwróć wzór zastępując go innymi słowami."
 
 msgctxt "jojmon119"
 msgid "Like this: 'Ack Ack Oop'."
@@ -31520,43 +31520,43 @@ msgstr "Tak jak: \"Ack Ack Oop\"."
 
 msgctxt "jojmon120"
 msgid "Then, add a word to the end, like, 'Eek'."
-msgstr "Na koniec dodaj jedno słowo, jak \"Eek\"."
+msgstr "A potem dodaj jakieś słowo, jak \"Eek\"."
 
 msgctxt "jojmon121"
 msgid "'Ack Ack Oop Eek!'"
-msgstr "'Ak Ak Uup Iik!'"
+msgstr "'Ack Ack Oop Eek!'"
 
 msgctxt "guymon065"
 msgid "If I beat you at Monkey Kombat, can I have your hat?"
-msgstr "Jeśli pokonam cię w Małpim Kombacie, dasz mi ten kapelusz?"
+msgstr "Jeśli cię pokonam w Małpim Kombacie, dasz mi swoją czapkę?"
 
 msgctxt "jojmon122"
 msgid "Yes.  The one who is the best at Monkey Kombat earns the honor of the sacred hat."
-msgstr "Tak. Ten, który nie ma sobie równych w Małpim Kombacie jest godny posiąść święty kapelusz."
+msgstr "Tak. Ten, który nie ma sobie równych w Małpim Kombacie jest godny, by go posiąść."
 
 msgctxt "guymon066"
 msgid "Great!  Let the Kombat begin!"
-msgstr "Spoko! Zróbmy tutaj jakiś bałagan!"
+msgstr "Spoko! To dawaj ten Kombat!"
 
 msgctxt "jojmon123"
 msgid "Easy there.  First, you must prove yourself worthy by defeating some of the others."
-msgstr "Nie tak szybko. Najpierw musisz udowodnić swoją moc, pokonując innych na wyspie."
+msgstr "Nie tak szybko. Najpierw udowodnij swoją siłę, pokonując innych na wyspie."
 
 msgctxt "jojmon124"
 msgid "Only after you've done that will I accept a challenge."
-msgstr "Tylko jeśli skończysz, zmierzę się z tobą."
+msgstr "Wtedy i tylko wtedy zaakceptuję twoje wyzwanie."
 
 msgctxt "jojmon125"
 msgid "And if you are able to defeat me, the champion of Monkey Kombat..."
-msgstr "I tylko jeśli będziesz w stanie pokonać mnie, mistrza Małpiego Kombatu...."
+msgstr "A jeśli uda ci się mnie pokonać, mistrza Małpiego Kombatu..."
 
 msgctxt "jojmon126"
 msgid "...a highly unlikely occurrence..."
-msgstr "...co jest mało prawdopodobne...."
+msgstr "Co jest mało prawdopodobne..."
 
 msgctxt "jojmon127"
 msgid "...then you shall be awarded the Hat of Honor."
-msgstr "...tylko wtedy będziesz godny posiąść Kapelusz Honoru."
+msgstr "Zostaniesz obdarzony Czapką Honoru."
 
 msgctxt "guymon067"
 msgid "This is giving me a headache."
@@ -31564,11 +31564,11 @@ msgstr "Już mnie boli głowa."
 
 msgctxt "jojmon128"
 msgid "Then we shall take a break."
-msgstr "Więc daj sobie przerwę."
+msgstr "Więc dajmy sobie przerwę."
 
 msgctxt "guycol063"
 msgid "Um, your Holiness?"
-msgstr "Um, Wasza Świętobliwość?"
+msgstr "Wasza Świętobliwość?"
 
 msgctxt "pricol012"
 msgid "Yes, my child?"
@@ -31580,19 +31580,19 @@ msgstr "Jejku!"
 
 msgctxt "pricol013"
 msgid "Greetings, my child."
-msgstr "Pozdrowienia, moje dziecko."
+msgstr "Witaj, moje dziecko."
 
 msgctxt "pricol014"
 msgid "Welcome to the First Church of LeChuck, Orthodox."
-msgstr "Witam w Pierwszym Prawosławnym Kościele LeChucka."
+msgstr "Witam w Pierwszym Ortodoksyjnym Kościele LeChucka."
 
 msgctxt "pricol015"
 msgid "I am Father Allegro Rasputin.  How may I help you?"
-msgstr "Jestem Ojciec Allegro Rasputin. W czym mogę pomóc?"
+msgstr "Jestem ojciec Allegro Rasputin. W czym mogę pomóc?"
 
 msgctxt "guycol012"
 msgid "'The First Church of LeChuck?'"
-msgstr "\"Pierwszy Kościół LeChucka?\""
+msgstr "\"Pierwszy Kościół LeChucka\"?"
 
 msgctxt "guycol013"
 msgid "You're kidding, right?"
@@ -31600,11 +31600,11 @@ msgstr "Żartujesz, tak?"
 
 msgctxt "pricol016"
 msgid "Not at all.  This temple is dedicated to worshipping the awe-inspiring perfection that IS LeChuck."
-msgstr "Nie. Ta świątynia jest dedykowana czci inspirującej doskonałości jaką JEST LeChuck."
+msgstr "Wcale nie. Świątynia ta poświęcona jest czci budzącej respekt doskonałości, jaką JEST LeChuck."
 
 msgctxt "guycol014"
 msgid "How could you build a religion around LeChuck?  He's an unholy demon pirate from Heck!"
-msgstr "Jak można łączyć religie razem z LeChuckiem. To w końcu bezbożny pirat zombie z Piekła!"
+msgstr "Jak można łączyć religię razem z LeChuckiem? To w końcu demoniczny pirat zombie z piekła rodem!"
 
 msgctxt "pricol017"
 msgid "I kindly suggest that you mind your tongue, heretic."
@@ -31616,15 +31616,15 @@ msgstr "Takie bluźnierstwa nie będą tolerowane w Domu LeChucka."
 
 msgctxt "guycol015"
 msgid "Well how does the Church of LeChuck compare to other major religions?"
-msgstr "Jak Kościół LeChucka wypada w porównaniu do innych większych religii?"
+msgstr "Jak Kościół LeChucka wypada na tle innych większych religii?"
 
 msgctxt "pricol019"
 msgid "They're remarkably alike,"
-msgstr "Są bardzo podobne,"
+msgstr "Są bardzo podobne."
 
 msgctxt "pricol020"
 msgid "only ours has a lot more screaming, flames, and pointy sticks."
-msgstr "nasz tylko ma więcej krzyków, płomieni i chłosty dla niewierzących."
+msgstr "Nasz tylko ma więcej krzyków, płomieni i spiczastych rózg."
 
 msgctxt "guycol016"
 msgid "Eh, that's kinda what I imagined."
@@ -31632,39 +31632,39 @@ msgstr "Właśnie tak sobie to wyobrażałem."
 
 msgctxt "guycol017"
 msgid "Don't look now, but there's a river of lava flowing through the middle of your church."
-msgstr "Uważaj, bo tu jest jakaś rzeka lawy płynąca przez katedrę, a co jeśli się poparzysz?"
+msgstr "Nie żeby coś, ale przez środek twojego kościoła płynie rzeka pełna lawy."
 
 msgctxt "pricol021"
 msgid "Yes, I know.  We use it for church ceremonies."
-msgstr "Tak, wiem. Używamy jej na uroczystościach kościelnych."
+msgstr "Tak, wiem. Używamy jej podczas ceremonii."
 
 msgctxt "guycol018"
 msgid "How does this stream of lava fit into the church's wedding ceremonies?"
-msgstr "To jak strumień lawy prezentuje się na uroczystościach ślubnych?"
+msgstr "Niby jak strumień lawy ma się do kościelnych ceremonii ślubnych?"
 
 msgctxt "pricol022"
 msgid "Good question, tovarisch.  Here at the Church of LeChuck, we see marriage as a plunge into the unknown."
-msgstr "Dobre pytanie, towarzyszu. Tutaj, w naszym kościele, rozumiemy małżeństwo jako plusk w nieznane."
+msgstr "Dobre pytanie, towarzyszu. W naszym kościele postrzegamy małżeństwo jako skok się w nieznane."
 
 msgctxt "pricol023"
 msgid "As a symbol of that plunge, we send our newlyweds on a harrowing ride down a river of molten lava."
-msgstr "A jako symbol tego plusku, wysyłamy naszych nowożeńców na wstrząsającą jazdę w dół rzeki lawy."
+msgstr "Symbolem tego skoku jest wysłanie naszych nowożeńców na wstrząsającą przejażdżkę w dół rzeki płynnej lawy."
 
 msgctxt "guycol019"
 msgid "Doesn't that kill them?"
-msgstr "A to ich nie zabija."
+msgstr "A to ich aby nie zabija?"
 
 msgctxt "pricol024"
 msgid "Only if the restless Spirit of LeChuck doesn't approve of the union."
-msgstr "Zabija tylko jeśli niespokojny Duch LeChuck nie akceptuje danego związku."
+msgstr "Tylko jeśli niespokojny Duch LeChucka nie zaakceptuje ich związku."
 
 msgctxt "pricol025"
 msgid "Besides, our honeymoon boats are lined with StanTech Voodoo-Enhanced Asbestos, to keep fatalities to an acceptable minimum."
-msgstr "A do tego, nasze łodzie nowożeńców są dodatkowo wyłożone Wzmocnionym Voodoo-Azbestem StanTech, co gwarantuje ludziom minimum zagrożenia."
+msgstr "Poza tym wyłożyliśmy nasze łodzie wzmocnionym voodoo azbestem marki StanTech, aby ograniczyć liczbę ofiar do akceptowalnego minimum."
 
 msgctxt "guycol020"
 msgid "I'd like to try your lava plunge."
-msgstr "Ja też bym się przejechał."
+msgstr "Też bym się przepłynął."
 
 msgctxt "pricol026"
 msgid "Wonderful!"
@@ -31676,23 +31676,23 @@ msgstr "A gdzie narzeczona?"
 
 msgctxt "guycol021"
 msgid "Um, I'm already married.  And my wife is several islands away being harassed by bad guys."
-msgstr "Um, już mam żonę. Bidulka jest teraz kilka wysp stąd, nękana przez złych ludzi."
+msgstr "Ja już po ślubie. Tyle że małżonka jest teraz kilka wysp stąd nękana przez złych ludzi."
 
 msgctxt "pricol028"
 msgid "Well, then, you can't take the plunge."
-msgstr "W takim razie nie możesz plusnąć."
+msgstr "W takim razie nie możesz płynąć."
 
 msgctxt "guycol022"
 msgid "Aw, c'mon, let me ride a boat down a river of molten lava."
-msgstr "No weź! Tylko jedną rundkę, pozwól mi się przejechać po płynnej lawie!"
+msgstr "No weź! Daj mi trochę popływać łódką po rzece płynnej lawy."
 
 msgctxt "guycol023"
 msgid "(What am I saying?)"
-msgstr "(Ja to powiedziałem?)"
+msgstr "(Co ja mówię?)"
 
 msgctxt "pricol029"
 msgid "Welllll, I suppose we could use another test run before LeChuck and Elaine's impending nuptials."
-msgstr "No może i trzeba by zrobić test generalny przed oficjalnym otwarciem łódeczek na zaślubinach LeChucka i Elaine."
+msgstr "Cóż, no może przyda nam się jeszcze jeden mały test przez zbliżającymi się zaślubinami LeChucka i Elaine."
 
 msgctxt "guycol024"
 msgid "What?"
@@ -31704,19 +31704,19 @@ msgstr "Na pokład!"
 
 msgctxt "guycol025"
 msgid "I'd like to take another test ride on your matrimonial lava plunge."
-msgstr "Chce zrobić jeszcze jeden test generalny na łódeczkach małżeńskich."
+msgstr "Chciałbym jeszcze raz przetestować twój małżeński skok w lawę."
 
 msgctxt "pricol031"
 msgid "This is highly unorthodox, but..."
-msgstr "Wiem, że to trochę niezdrowe, ale...."
+msgstr "To wysoce nieortodoksyjne, ale..."
 
 msgctxt "pricol032"
 msgid "What the heck!"
-msgstr "Co do diabła?"
+msgstr "Co tam!"
 
 msgctxt "guycol026"
 msgid "That's the spirit!"
-msgstr "Masz charyzmę."
+msgstr "Masz charyzmę!"
 
 msgctxt "guycol027"
 msgid "Eh, what was that you said about LeChuck and Elaine getting married?"
@@ -31724,55 +31724,55 @@ msgstr "To co mówiłeś o zaślubinach LeChucka i Elaine?"
 
 msgctxt "pricol033"
 msgid "Ah, yes, the prophesized wedding of noble LeChuck and the chaste Elaine."
-msgstr "Ach, tak przepowiedziano największy ślub szlachetnego LeChcuka i czystą Elaine."
+msgstr "Ach, tak. Przepowiedziany ślub szlachetnego LeChcuka i czystej Elaine."
 
 msgctxt "guycol028"
 msgid "'Chaste?'"
-msgstr "\"Czystą\"?"
+msgstr "\"Czystej\"?"
 
 msgctxt "pricol034"
 msgid "All the signs point towards the prophesy being fulfilled any day now."
-msgstr "Wszystkie znaki proroctwa wskazują, że stanie się to dzień lada."
+msgstr "Wszystkie znaki wskazują, że stanie się to lada dzień."
 
 msgctxt "pricol035"
 msgid "I've been working my ghost fingers to the bone trying to get the church ready for their wedding ceremony."
-msgstr "Staram się dopracować każdy cytoplastyczny szczegół, żeby kościół był w pełni gotów do ceremonii ślubu."
+msgstr "Zaharowywałem się na śmierć, żeby doprowadzić kościół do gotowości na ich ceremonię ślubną."
 
 msgctxt "guycol029"
 msgid "Elaine can't marry LeChuck; she's already married!"
-msgstr "Elaine nie poślubi LeChucka, już ma męża!"
+msgstr "Elaine nie poślubi LeChucka. Już ma męża!"
 
 msgctxt "pricol036"
 msgid "The First Church of LeChuck (Orthodox) doesn't recognize Elaine's blasphemous marriage to the...Anti-LeChuck."
-msgstr "Pierwszy Prawosławny Kościół LeChucka nie popiera bluźnierczych małżeństw Elaine...z tym Poza-LeChuckiem"
+msgstr "Pierwszy Ortodoksyjny Kościół LeChucka nie uznaje bluźnierczego małżeństwa Elaine... z tym \"Anty-LeChuckiem\"."
 
 msgctxt "guycol030"
 msgid "Who?"
-msgstr "Kto?"
+msgstr "Kim?"
 
 msgctxt "pricol037"
 msgid "The evil Anti-LeChuck.  'He-Whose-Name- Must-Not-Be-Spoken.'"
-msgstr "Okrutny Poza-LeChuck. \"Ten, którego imię trzeba przemilczeć\""
+msgstr "Okrutnym Anty-LeChuck. \"Ten, którego imienia nie wolno wymawiać.\""
 
 msgctxt "guycol031"
 msgid "Guybrush Threepwood?"
-msgstr ""
+msgstr "Guybrush Threepwood?"
 
 msgctxt "pricol038"
 msgid "Ack, you said the name!  Blasphemer!"
-msgstr "Powiedziałeś to imię! Bluźnierca!"
+msgstr "Wymówiłeś to imię! Bluźnierca!"
 
 msgctxt "guycol032"
 msgid "I'M the Anti-LeChuck?"
-msgstr "Jestem Poza-LeChuckiem?"
+msgstr "Jestem Anty-LeChuckiem?"
 
 msgctxt "pricol039"
 msgid "Hahahaha.  Don't be silly."
-msgstr "Hahahaha. Zdurniał."
+msgstr "Hahahaha. Oszalałeś."
 
 msgctxt "pricol040"
 msgid "The Anti-LeChuck is three meters tall, has a prehensile tail, a forked tongue, and the number '1138' stamped on his forehead."
-msgstr "Poza-LeChuck ma nawet trzy metry wysokości, chwytny ogon, rozwidlony język, a na czole ma umieszczoną liczbę \"1138\"."
+msgstr "Anty-LeChuck ma trzy metry wzrostu, chwytny ogon, rozwidlony język i numer \"1138\" wybity na czole."
 
 msgctxt "guycol033"
 msgid "But his name IS 'Guybrush Threepwood,' right?"
@@ -31784,7 +31784,7 @@ msgstr "Nie wymawiaj tego!"
 
 msgctxt "guycol034"
 msgid "Are you some sort of hologram or something?"
-msgstr "Jesteś jakimś hologramem, czy coś?"
+msgstr "Jesteś jakimś hologramem czy coś?"
 
 msgctxt "pricol042"
 msgid "Of course not.  I'm a ghost."
@@ -31796,7 +31796,7 @@ msgstr "I jesteś księdzem."
 
 msgctxt "pricol043"
 msgid "Da."
-msgstr ""
+msgstr "Da."
 
 msgctxt "guycol036"
 msgid "So, you're sort of a holy ghost, then?"
@@ -31804,87 +31804,87 @@ msgstr "Więc jesteś Duchem Świętym, tak?"
 
 msgctxt "pricol044"
 msgid "Hahahaha.  Very clever, my child.  But let's not go looking for trouble, eh?"
-msgstr "Hahahahaha! Bystry chłopczyk! Ale nie szukajmy kłopotów, ok?"
+msgstr "Hahahaha! Nieźle, moje dziecko! Ale nie szukajmy kłopotów, dobrze?"
 
 msgctxt "guycol037"
 msgid "How'd a ghost like you end up running the First Church of LeChuck?"
-msgstr "Jak to się stało, że takich duch jak ty, skończył otwierając Pierwszy Kościół LeChucka?"
+msgstr "Jak to się stało, że duch, jak ty, otworzył Pierwszy Kościół LeChucka?"
 
 msgctxt "pricol045"
 msgid "That's an interesting story, tovarisch..."
-msgstr "To ciekawa historia, towarzyszu...."
+msgstr "To ciekawa historia, towarzyszu..."
 
 msgctxt "guycol038"
 msgid "Why do I keep asking people their life stories?"
-msgstr "Czemu pytam ludzi o ich życiowe historie?"
+msgstr "Czemu wciąż pytam ludzi o ich życiowe historie?"
 
 msgctxt "pricol046"
 msgid "Many years ago, I was the captain of a stately ship called The Weeping Iguana."
-msgstr "Wiele lat temu, byłem kapitanem okazałego statku o nazwie Łza Iguany."
+msgstr "Wiele lat temu byłem kapitanem okazałego statku o nazwie Płacząca Iguana."
 
 msgctxt "pricol047"
 msgid "It was a good life, hauling contraband plush toys from one island to another."
-msgstr "Dobrze mi się żyło, przewoziłem pluszowe zabawki z wyspy do wyspy."
+msgstr "Dobrze się żyło, przewożąc kontrabandę pluszowych zabawek z jednej wyspy na drugą."
 
 msgctxt "guycol039"
 msgid "And then you met LeChuck?"
-msgstr "I wtedy natrafiłeś na LeChucka?"
+msgstr "I wtedy poznałeś LeChucka?"
 
 msgctxt "pricol048"
 msgid "And then I met LeChuck."
-msgstr "I wtedy spotkałem LeChucka."
+msgstr "I wtedy poznałem LeChucka."
 
 msgctxt "pricol049"
 msgid "His crew of crazed ghost pirates made quick work of my fine ship and her equally-fine crew."
-msgstr "Nim się obejrzałem abordażowali się na mój okręt, zatopili go, a mnie przenieśli na upiorny pokład."
+msgstr "Jego upiorna załoga szybko rozprawiła się z moim wspaniałym statkiem i jego równie wspaniałą załogą."
 
 msgctxt "guycol040"
 msgid "Uh... I hate when that happens."
-msgstr "Nienawidzę takich historii."
+msgstr "Nienawidzę, jak tak się dzieje."
 
 msgctxt "pricol050"
 msgid "LeChuck himself gutted me with his flaming ghost sword, and held my still-beating pancreas in front of my face before I died."
-msgstr "LeChuck, we własnej osobie wypatroszył mnie swoim ognistym mieczem, trzymając mi przed oczami moją własną trzustkę póki nie umarłem."
+msgstr "LeChuck wypatroszył mnie swoim piekielnym mieczem, trzymając mi przed oczami moją wciąż bijącą trzustkę, nim nie umarłem."
 
 msgctxt "guycol041"
 msgid "Eww.  Icky."
-msgstr ""
+msgstr " "
 
 msgctxt "pricol051"
 msgid "When I woke up, I was another member of his obedient ghost crew."
-msgstr "Kiedy się obudziłem, zostałem posłusznym członkiem jego pirackiej rodziny."
+msgstr "Gdy się obudziłem, zostałem kolejnym członkiem jego posłusznej załogi duchów."
 
 msgctxt "guycol042"
 msgid "Well, how'd you go from being a ghost pirate to a ghost PRIEST?"
-msgstr "Aha, a jak to się stało, że z pirackiego ducha stałeś się duchem KSIĘDZA?"
+msgstr "Ale jak to się stało, że z pirata ducha stałeś się KSIĘDZEM duchem?"
 
 msgctxt "pricol052"
 msgid "It was a gradual process."
-msgstr "To był powolny proces."
+msgstr "To był stopniowy proces."
 
 msgctxt "pricol053"
 msgid "At first I resented LeChuck for turning me into a ghost."
-msgstr "Na początku nienawidziłem LeChucka za to, że mnie zabił."
+msgstr "Na początku miałem LeChuckowi za złe, że zmienił mnie w ducha."
 
 msgctxt "pricol054"
 msgid "But the more I thought about it, the more I came to revere him as a god."
-msgstr "Ale im więcej o nim myślałem, ty bardziej zacząłem obdarzać go czcią i ubóstwiać."
+msgstr "Ale im więcej o tym myślałem, tym bardziej czciłem go jako boga."
 
 msgctxt "pricol055"
 msgid "After all, he did bring me back from the dead, which is a pretty neat trick."
-msgstr "Później pozwolił mi odejść z załogi, a ja zająłem się moim marzeniem."
+msgstr "Mimo wszystko wskrzesił mnie z martwych, co jest dość niebywałą sztuczką."
 
 msgctxt "pricol056"
 msgid "So I decided to build this church in his honor."
-msgstr "Zbudowałem kościół poświęcony jego czci."
+msgstr "Postanowiłem zbudować kościół na jego cześć."
 
 msgctxt "guycol043"
 msgid "Well, how do you like being a ghost priest?"
-msgstr "Lubisz bycie księdzem i duchem?"
+msgstr "No i jak podoba ci się bycie księdzem duchem?"
 
 msgctxt "pricol057"
 msgid "The hours are good, but I occasionally miss the high seas."
-msgstr "Tak, ale czasami tęsknie za otwartym morzem,"
+msgstr "Godziny pracy są niezłe, ale brakuje mi czasami otwartego morza."
 
 msgctxt "guycol044"
 msgid "I could use some advice, padre."
@@ -31892,19 +31892,19 @@ msgstr "Potrzebuję porady, ojcze."
 
 msgctxt "pricol058"
 msgid "What's troubling you, my son?"
-msgstr "Co się gryzie, synu?"
+msgstr "Co się gryzie, mój synu?"
 
 msgctxt "guycol045"
 msgid "This is too creepy for words.  I'm outta here."
-msgstr "Trudno mi o tym mówić. Wychodzę."
+msgstr "Trudno mi to ubrać w słowa. Wychodzę."
 
 msgctxt "pricol059"
 msgid "Das Vedanya."
-msgstr ""
+msgstr "Das Vedanya."
 
 msgctxt "guycol046"
 msgid "I need to find a way to get off this fershlugginer island."
-msgstr "Muszę się jakoś wydostać z tej wyspy."
+msgstr "Muszę się jakoś wydostać z tej przeklętej wyspy."
 
 msgctxt "pricol060"
 msgid "There is no Escape from Monkey Island™."
@@ -31916,11 +31916,11 @@ msgstr "Nie prawda. Już uciekałem stąd co najmniej dwa razy."
 
 msgctxt "pricol061"
 msgid "Well then, why don't you just escape it again, Mister Smarty-Pants?"
-msgstr "W takim razie czemu i tym razem nie poradzisz sobie sam, panie Mądralo?"
+msgstr "To czemu i tym razem nie uciekniesz, panie Mądralo?"
 
 msgctxt "guycol048"
 msgid "I, um, can't."
-msgstr "Teraz nie mogę."
+msgstr "Nie mogę."
 
 msgctxt "pricol062"
 msgid "Ha!"
@@ -31932,11 +31932,11 @@ msgstr "Wciąż pragnę Ucieczki z Wyspy Małp™."
 
 msgctxt "pricol063"
 msgid "Like I said, there is no Escape from Monkey Island™."
-msgstr "Już mówiłem, że nie ma Ucieczki z Wyspy Małp™."
+msgstr "Jak mówiłem, nie ma Ucieczki z Wyspy Małp™."
 
 msgctxt "pricol064"
 msgid "Not even in the sweet embrace of death."
-msgstr "Nawet w słodkich objęciach śmierci."
+msgstr "Nawet i w słodkich objęciach śmierci."
 
 msgctxt "guycol050"
 msgid "Jeez, that's discouraging."
@@ -31948,7 +31948,7 @@ msgstr "Szukam antidotum na Talizman Upokorzenia."
 
 msgctxt "pricol065"
 msgid "I've never heard of that.  What is it?"
-msgstr "Nigdy o tym nie słyszałem. Co to jest?"
+msgstr "Pierwsze słyszę. Co to jest?"
 
 msgctxt "guycol052"
 msgid "It's a voodoo talisman that shatters the souls of pirates."
@@ -31956,15 +31956,15 @@ msgstr "To voodoo talizman, który niszczy dusze piratom."
 
 msgctxt "pricol066"
 msgid "Hmmm.  During my travels with LeChuck, I noticed that the easiest way to defeat a voodoo curse was by employing a BIGGER voodoo curse."
-msgstr "Hmmm. Podczas podróży z LeChuckiem zrozumiałem, że najłatwiejszą drogą pokonania voodoo klątwy jest zastosowanie WIĘKSZEJ klątwy."
+msgstr "Podczas moich wojaży z LeChuckiem odkryłem, że najłatwiej pokonać klątwę voodoo używając jeszcze WIĘKSZEJ klątwy voodoo."
 
 msgctxt "pricol067"
 msgid "But perhaps I'm oversimplifying your plight."
-msgstr "Ale może mi się tylko przesłyszało."
+msgstr "Ale może zbyt upraszczam twój przypadek."
 
 msgctxt "guycol053"
 msgid "Well that's okay, my plight could use some simplifying."
-msgstr "No dobra, ale duchowi może się czasami coś przesłyszeć."
+msgstr "W porządku. Mój przypadek wymaga uproszczeń."
 
 msgctxt "guycol054"
 msgid "I'm still looking for an antidote to the Ultimate Insult."
@@ -31972,23 +31972,23 @@ msgstr "Wciąż szukam antidotum na Talizman Upokorzenia."
 
 msgctxt "pricol068"
 msgid "Think big, tovarisch."
-msgstr "Myśl, towarzyszu."
+msgstr "Myśl z rozmachem, towarzyszu."
 
 msgctxt "guycol055"
 msgid "I've got a couple of evil shnooks on my back."
-msgstr "Mam ważniejszych kretynów do obgadania."
+msgstr "Mam kilku imbecyli na karku."
 
 msgctxt "pricol069"
 msgid "You must do as LeChuck does when beset by many enemies at once, my son."
-msgstr "Zrób to tak jak LeChuck tylko silniej, kiedy przeciwnik jest zajęty walką z kimś innym."
+msgstr "Spróbuj postąpić tak, jak LeChuck, gdy nęka cię wielu wrogów naraz, mój synu."
 
 msgctxt "guycol056"
 msgid "Run like a cowardly dog?"
-msgstr "Czyli mam się czaić za plecami?"
+msgstr "Zwiać, gdzie pieprz rośnie?"
 
 msgctxt "pricol070"
 msgid "No, you must turn your enemies' energies against themselves."
-msgstr "Nie, musisz wykorzystać obecność jego wrogów na swoją korzyść."
+msgstr "Nie, skieruj energię wrogów przeciwko nim samym."
 
 msgctxt "guycol057"
 msgid "How?"
@@ -32000,7 +32000,7 @@ msgstr "Skąd mam wiedzieć? Jestem duchem."
 
 msgctxt "guycol058"
 msgid "Eh, on second thought, getting advice from an obsessed ghost priest seems like a bad idea."
-msgstr "Z drugiej strony, słuchanie porad od obsesyjnego ducha-księdza to raczej zły pomysł."
+msgstr "Po namyśle, radzenie się nawiedzonego księdza ducha wydaje się być słabym pomysłem."
 
 msgctxt "pricol072"
 msgid "As you wish."
@@ -32008,51 +32008,51 @@ msgstr "Jak chcesz."
 
 msgctxt "guycol059"
 msgid "Baptisms?"
-msgstr "A chrzest?"
+msgstr "Chrzestów?"
 
 msgctxt "pricol073"
 msgid "Weddings."
-msgstr "Wesela."
+msgstr "Ślubów."
 
 msgctxt "guycol060"
 msgid "Well, I guess that's one way to cure cold feet."
-msgstr "Na pewno na obrzędach jest bardzo gorąco."
+msgstr "Bez wątpienia rozgrzeje to serca wybranków."
 
 msgctxt "guycol061"
 msgid "Funerals?"
-msgstr "A pogrzeby?"
+msgstr "Pogrzebów?"
 
 msgctxt "guycol062"
 msgid "Bar Mitzvahs?"
-msgstr "Bar Mitzva."
+msgstr "Barów Micwa?"
 
 msgctxt "hertow001"
 msgid "What in the name of Poseidon's pig-sticker is that!?"
-msgstr "Co na Posejdona to jest!?"
+msgstr "Co, na trójząb Posejdona, to jest?"
 
 msgctxt "jojtow001"
 msgid "Unless I miss my guess, that's an Ultimate Insult Amplification Tower."
-msgstr "Według mnie to Rozwinięta Wieża Talizmanu Upokorzenia."
+msgstr "Jeśli mnie wzrok nie myli to Wieża Wzmacniacza Talizmanu Upokorzenia."
 
 msgctxt "guytow001"
 msgid "You just made that up, didn't you?"
-msgstr "Sam to zrobiłeś?"
+msgstr "Wymyśliłeś ten termin, prawda?"
 
 msgctxt "hertow002"
 msgid "An amplifier...of course."
-msgstr "Wzmocnienia sam."
+msgstr "Wzmocnienie... tak."
 
 msgctxt "hertow003"
 msgid "Guybrush, this tower is part of Ozzie's fiendish plot!"
-msgstr "Guybrushu, ta wieża jest częścią planu Ozziego!"
+msgstr "Guybrushu, ta wieża to część szatańskiego planu Ozziego!"
 
 msgctxt "guytow002"
 msgid "Ah, I see.  He plans to build really ugly towers all over the Caribbean,"
-msgstr "Rozumiem. Teraz chce wybudować najbrzydsze wieże na Karaibach,"
+msgstr "Rozumiem. On chce pobudować takie brzydkie wieże na całych Karaibach."
 
 msgctxt "guytow003"
 msgid "driving down property values to the point where he can scoop up all the land for a fraction of its real value!"
-msgstr "tak długo, aż nieruchomości spadną do punktu gdzie będzie mógł sprzedawać je innym po realnej wartości!"
+msgstr "Obniżając wartości gruntów do punktu, w którym będzie mógł zgarnąć całą ziemię za ułamek jej wartości!"
 
 msgctxt "guytow004"
 msgid "How ingenious!"
@@ -32060,35 +32060,35 @@ msgstr "Genialne!"
 
 msgctxt "hertow004"
 msgid "What the flimdy-flam are you talking about?"
-msgstr "Co ty bredzisz?"
+msgstr "O czym ty bredzisz?"
 
 msgctxt "hertow005"
 msgid "Ozzie's gonna use that tower to amplify the effects of an Ultimate Insult a millionfold,"
-msgstr "Ozzie chce używać tych wież do wzmocnienia efektu działania Talizmanu Upokorzenia,"
+msgstr "Ozzie chce użyć swej wieży, by wzmocnić efekt działania Talizmanu Upokorzenia miliony razy."
 
 msgctxt "hertow006"
 msgid "so he can simultaneously expose every pirate in the Tri-Island Area to the devastating effects of the Ultimate Insult!"
-msgstr "co doprowadzi do jednoczesnego upokorzenia wszystkich piratów na Trójwyspach!"
+msgstr "Spowoduje to jednoczesne narażenie wszystkich piratów na Trójwyspach na niszczycielskie skutki Talizmanu Upokorzenia!"
 
 msgctxt "guytow005"
 msgid "Are you sure it's not the property values thing?"
-msgstr "Jesteś pewny, że nie chodzi o nieruchomości?"
+msgstr "Na pewno nie chodzi o obniżenie wartości gruntu?"
 
 msgctxt "jojtow002"
 msgid "If you wish to fulfill your destiny and save your pirate friends, you must climb this tower and destroy its devilish machinery."
-msgstr "Jeśli chcesz oszukać przeznaczenie i ocalić piratów, musisz wspiąć się na szczyt wieży i zniszczyć diabelskie maszyny."
+msgstr "Aby wypełnić swoje przeznaczenie i uratować swoich przyjaciół, musisz wspiąć się na tę wieżę i zniszczyć jej diabelski mechanizm."
 
 msgctxt "guytow006"
 msgid "Somehow I knew you were gonna say that..."
-msgstr "Coś mi się widzi że chcesz powiedzieć..."
+msgstr "Skądś wiedziałem, że to zaraz powiesz..."
 
 msgctxt "hertow007"
 msgid "Are ya trying ta get us kilt?"
-msgstr "Jaja sobie ze mnie robisz?"
+msgstr "Chcesz nas pozabijać?"
 
 msgctxt "hertow008"
 msgid "I can't believe my granddaughter married you."
-msgstr "Nie wierzę, że moja wnuczka cię poślubiła."
+msgstr "Nie wierzę, że moja wnuczka za ciebie wyszła."
 
 msgctxt "hertow009"
 msgid "Quit lollygagin'!"
@@ -32096,11 +32096,11 @@ msgstr "Zamknij dziób!"
 
 msgctxt "hertow010"
 msgid "Stop kidding around, and climb the blammed tower!"
-msgstr "Skończ z żartami i wejdź na tą przeklętą wieże!"
+msgstr "Przestań się wydurniać i wskakuj na wieżę!"
 
 msgctxt "jojtow003"
 msgid "Let go, Guybrush.  Not literally, of course."
-msgstr "Spadaj stąd! Nie dosłownie, rzecz jasna."
+msgstr "Leć, Guybrushu! Nie dosłownie, rzecz jasna."
 
 msgctxt "jojtow004"
 msgid "Trust your feelings, Guybrush.  And try not to get us killed."
@@ -32112,7 +32112,7 @@ msgstr "BĄDŹ jak Wielki Małpi Robot, Guybrushu."
 
 msgctxt "jojtow006"
 msgid "To get to the bottom of Ozzie's plan, you must get to the top of his tower."
-msgstr "Aby powstrzymać plan Ozziego, musisz wdrapać się na szczyt wieży."
+msgstr "Aby powstrzymać plan Ozziego, musisz wdrapać się na szczyt tej wieży."
 
 msgctxt "guyall179"
 msgid "I only have this one thing."
@@ -42573,7 +42573,7 @@ msgstr "Mały Guybrush"
 
 msgctxt "txtcpt015"
 msgid "Hellbeard"
-msgstr "Czartobrody"
+msgstr "Czartobrodym"
 
 msgctxt "txtcpt016"
 msgid "nice teacher-lady"
@@ -43849,7 +43849,7 @@ msgstr "Złowrogi Mechaniczny Manat"
 
 msgctxt "txtmig002"
 msgid "Smear"
-msgstr "smar"
+msgstr "Nałóż"
 
 msgctxt "txtmig003"
 msgid "bar"

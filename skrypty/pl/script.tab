@@ -7401,32 +7401,32 @@ hersco006	Trzeba iœæ. I po przerwie.
 guysco011	Ktoœ tutaj zostawi³ sobie kupkê kamieni
 guysco012	A ten chyba nie jest za ciê¿ki.
 guysco013	Prowadzi na dó³ wzgórza.
-guymon001	Ak
-guymon002	Uup
+guymon001	Ack
+guymon002	Oop
 guymon003	Eek
 guymon004	Chee
-mk1mon001	Ak
-mk1mon002	Uup
+mk1mon001	Ack
+mk1mon002	Oop
 mk1mon003	Eek
 mk1mon004	Chee
-mk2mon001	Ak
-mk2mon002	Uup
+mk2mon001	Ack
+mk2mon002	Oop
 mk2mon003	Eek
 mk2mon004	Chee
-mk3mon001	Ak
-mk3mon002	Uup
+mk3mon001	Ack
+mk3mon002	Oop
 mk3mon003	Eek
 mk3mon004	Chee
-mk4mon001	Ak
-mk4mon002	Uup
+mk4mon001	Ack
+mk4mon002	Oop
 mk4mon003	Eek
 mk4mon004	Chee
-jojmon004	Ak
-jojmon005	Uup
+jojmon004	Ack
+jojmon005	Oop
 jojmon006	Eek
 jojmon007	Chee
-lcsmon001	Ak
-lcsmon002	Uup
+lcsmon001	Ack
+lcsmon002	Oop
 lcsmon003	Eek
 lcsmon004	Chee
 guymon005	En garde, ma³po!
@@ -7734,7 +7734,7 @@ guymon016	Hej, hej, hej, hej! Ty gadasz!
 jojmon021	Jak i ty. Nie do wiary.
 guymon017	Ci¹gle jestem w szoku, ¿e mo¿esz gadaæ.
 jojmon022	St¹d odnosisz pora¿kê.
-jojmon023	Pytanie brzmi raczej czemu ma³pa nie gada, a nie czemu ma³pa gada.
+jojmon023	Pytaniem nie jest, czemu ma³pa gada, tylko raczej, czemu ma³pa nie gada?
 guymon018	Hej, niez³a czapka!
 jojmon024	Dziêkujê. To czapka honoru.
 guymon019	Dalej podoba mi siê twoja czapka.
@@ -7765,7 +7765,7 @@ jojmon038	Mamy przeczucie, ¿e wydarzy siê tu coœ wspania³ego.
 jojmon039	Coœ DU¯EGO.
 guymon030	To, jeszcze raz, po co tu te wszystkie ma³py?
 jojmon040	Nawet ja nie znam odpowiedzi na takie pytania.
-jojmon041	Ka¿da ma³pa na Karaibach po coœ tu przyby³a, ale ¿adna nie wie czemu.
+jojmon041	Ka¿da ma³pa na Karaibach po coœ tu przyby³a, ale ¿adna nie wie, czemu.
 jojmon042	Ale podejrzewam, ¿e chodzi o coœ DU¯EGO.
 guymon031	Powiedz mi wiêcej o Ma³pim Kombacie.
 jojmon043	Jakim oœwieceniem mogê ciê obdarzyæ?
@@ -7799,7 +7799,7 @@ jojmon060	W ka¿dym razie, nie rusza³ siê tak przez ponad dziesiêæ lat i umar³ z 
 jojmon061	Tak. Kiedy tak koñczy³em to ponure zadanie us³ysza³em jakiœ cichy brzêk dochodz¹cy z Wielkiej Ma³piej G³owy.
 jojmon062	Bêd¹c z natury ciekawsk¹ ma³p¹, ostro¿nie zbli¿y³em siê do brzêcz¹cej G³owy i wyci¹gn¹³em rêkê w kierunku jej masywnej paszczy.
 jojmon063	Gdy j¹ dotkn¹³em, przez moje cia³o przesz³o potê¿ne wy³adowanie, pozbawiaj¹c mnie przytomnoœci.
-jojmon064	Gdy siê ockn¹³em, odkry³em, ¿e mam ogromne zrozumienie otaczaj¹cego mnie œwiata
+jojmon064	Gdy siê ockn¹³em, odkry³em, ¿e mam ogromne zrozumienie otaczaj¹cego mnie œwiata.
 guymon042	W sensie, ¿e gada³eœ!
 jojmon065	To te¿.
 guymon043	Czy inne ma³py te¿ gadaj¹?
@@ -7809,7 +7809,7 @@ jojmon068	To nie, tylko ja mogê.
 guymon044	Tak naprawdê chcê pomówiæ o....
 jojmon069	Tak?
 jojmon070	Jakkolwiek interesuj¹ce mo¿e ci siê to wydawaæ, czujê, ¿e odchodzimy od tego, co wa¿ne.
-jojmon071	Na to pytanie tylko same gwiazdy i niebo mo¿e znaæ odpowiedŸ.
+jojmon071	Na to pytanie tylko same gwiazdy i niebo mog¹ znaæ odpowiedŸ.
 guymon045	Okej, a mogê mieæ twoj¹ czapkê?
 guymon046	Co to ta "czapka honoru"?
 jojmon072	Aby uzyskaæ prawo, by j¹ nosiæ, nale¿y staæ siê mistrzem w pradawnym i szlachetnym sporcie.
@@ -7830,7 +7830,7 @@ jojmon081	A sk¹d TY wiedzia³eœ?
 guymon052	Nie mia³em wyboru.
 jojmon082	Podobnie jak moi ma³pi pobratymcy.
 guymon053	Ozzie Mandrill i LeChuck je tu sprowadzili?
-jojmon083	Nie, przyszli z w³asnej woli, jednak nie wiedz¹ czemu.
+jojmon083	Nie, przyszli z w³asnej woli, jednak nie wiedz¹, czemu.
 jojmon084	Sam stara³em siê wyjaœniæ ich brak oporu, by z tym walczyæ, tak jak ty... och, niewa¿ne.
 guymon054	Sk¹d siê tu wziê³y te wszystkie ma³py?
 jojmon085	Wieloma drogami.
@@ -8222,7 +8222,7 @@ guymel141	Chcia³by ktoœ kudu precelka?
 guymel142	Chyba jest strasznie zajêta.
 guymel143	Jest trzecia w nocy.
 guystb106	Poproszê dolewkê.
-guystb107	To jest pami¹tka, nie kubek na kawê.
+guystb107	To kufel pami¹tkowy, a nie kubek na kawê.
 guystb108	Uuuhhh...
 guystb109	Proszê moje Groggocino.
 guystb110	No i jest.
@@ -8400,86 +8400,86 @@ navshi030	WIEDZIA£EM, ¿e tak bêdzie jak wyjadê!
 navshi031	Jak to?
 navshi032	AAAAgh!
 navshi033	Aj.
-eddpla039	Czemu nie dasz mi spokoju i nie pójdziesz skakaæ?
-eddpla040	Tak, jestem œwiadomy faktu, ¿e próbujesz mnie zaszanta¿owaæ.
+eddpla039	Mo¿e przestaniesz mnie nêkaæ i pójdziesz skakaæ?
+eddpla040	Tak, jestem ju¿ œwiadomy faktu, ¿e mnie szanta¿ujesz.
 eddpla041	Czy to ³apówka? Jeœli tak, to raczej mnie obra¿a.
 eddpla042	Co siê sta³o? Zmieni³eœ zdanie?
-eddpla043	Mam nadziejê, ¿e siê rozmyœlisz i szybko staniesz na desce, zanim ciê zdyskwalifikujemy.
-eddpla044	W³aŸ na górê albo zdyskwalifikujemy ciê!
+eddpla043	Liczê, ¿e zamierzasz zaraz stan¹æ desce, bo inaczej ciê zdyskwalifikujemy.
+eddpla044	W³aŸ na górê albo dyskwalifikujemy ciê!
 eddpla045	No i masz! Dyskwalifikacja!
 eddpla046	Po co mi to pokazujesz?
-kahpla038	Powinieneœ siê koncentrowaæ na kolejnym skoku zamiast na gadaniu.
-kahpla039	Przykro mi, ale to trofeum jest tylko dla Zwyciêscy Turnieju Skoków do Wody.
-kahpla040	Tak, masz swój certyfikat. Traktuj go jak œwiêtoœæ.
-kahpla041	A teraz Marco de Pollo próbuje pokonaæ skok Guybrusha Threepwooda.
+kahpla038	Lepiej skoncentruj siê na nastêpnym skoku, a nie na gadaniu.
+kahpla039	Przykro mi, ale to trofeum jest tylko dla zwyciêscy Turnieju Skoków do Wody.
+kahpla040	Tak, masz swój certyfikat. Dbaj o niego.
+kahpla041	A teraz Marco de Pollo odpowie na skok Guybrusha Threepwooda.
 kahpla042	Marco de Pollo pozostaje mistrzem!
-kahpla043	To trofeum mo¿e posiadaæ tylko i wy³¹cznie zwyciêzca skoków.
+kahpla043	Przykro mi, ale to trofeum jest dla zwyciêzcy konkursu i dla nikogo innego.
 trppla040	Ziom, twoja kolej. W³aŸ na górê.
-trppla041	Marco de Pollo robi próbê
+trppla041	Marco de Pollo wykonuje...
 trppla042	kombinacjê.
-trppla043	Dajmy mu chwilê ciszy na oddanie skoku. Ciii....
-trppla044	Tak, jesteœ œwietnym skoczkiem.
+trppla043	Dajmy mu chwilê ciszy podczas skoku.
+trppla044	Tak, teraz jesteœ certyfikowanym ziomem.
 trppla045	ZejdŸ z trampoliny, koleœ. To tylko dla zawodników.
-sbcstb053	Ci¹gle cieszysz siê z darmowych dolewek, co?
-sbcstb054	Ok. Zaraz bêdzie.
-sbcstb055	Prawdopodobnie zasta³a pogryziona przez ziarna kawy.
-sbcstb056	Ci¹gle masz pe³no.
-sbcstb057	Hej, czekaj. Zdajesz sobie sprawê, ¿e to jest p³atne?
-sbcstb058	Pyszna mieszanka topionego sera i nutki ³ososia pokryta genialnym kremem cukrowym.
-sbcstb059	Mamy dzisiaj darmow¹ promocje, na spróbowanie, nie ¿a³uj sobie.
+sbcstb053	Coœ nie masz doœæ moich kawowych rozkoszy, co?
+sbcstb054	Pewnie. Zaraz bêdzie.
+sbcstb055	Myœlê, ¿e trochê przesadza pan dzisiaj z t¹ kofein¹.
+sbcstb056	Wci¹¿ masz pe³ny kubek!
+sbcstb057	Hej, czekaj. Wiesz, ¿e bêdziesz musia³ za to zap³aciæ, nie?
+sbcstb058	Pyszna mieszanka sztucznego topionego sera i nutki ³ososia zamkniêta w wygodnej puszce spreju!
+sbcstb059	Rozdajemy dziœ darmowe próbki w ramach promocji wiêc czêstuj siê.
 sbcstb060	Ta "maŸ", o której mówisz, to CudoKrem™ marki StarBukanier™!
-sbcstb061	Ten pyszny mini-bajgiel, któr¹ w³aœnie próbujesz, ma na sobie CudoKrem™ marki StarBukanier™.
-sbcstb062	To jest pami¹tka, nie kubek na kawê.
+sbcstb061	Ten pyszny mini bajgiel jest pokryty CudoKremem™ marki StarBukanier™!
+sbcstb062	To kufel pami¹tkowy, a nie kubek na kawê.
 googme099	Hej! Z drogi!
 googme100	Tak, tak, sekundkê...
-murgpt037	Ha, ha, ha! Nie tym razem, szumowino! Jestem przytwierdzony do sto³ka i nigdzie siê nie ruszê!
-murgpt038	Ale jest NAPRAWDÊ z³a?
-murgpt039	Jest bezu¿yteczna.
-murgpt040	A dlaczego s¹dzisz, ¿e nie mogê spacerowaæ?
-murgpt041	Ale kretyn! Ta ¿erdŸ jest zaczarowana i dziêki niej mogê siê poruszaæ wszêdzie i szerzyæ z³o!
-murgpt042	Poleca³bym ci Sa³atkê z Elaine... z dodatkiem z³a!
+murgpt037	Ha, ha, ha! Nie tym razem, durny œmiertelniku! Jestem przytwierdzony do sto³ka i nic z tym nie mo¿esz zrobiæ!
+murgpt038	Czy jest ona naprawdê Z£A?
+murgpt039	Nie ma wiêc dla niej po¿ytku!
+murgpt040	A sk¹d pomys³, ¿e nie mogê siê st¹d nigdzie ruszaæ?!
+murgpt041	G³upi zdechlak! To moja wszechwidz¹ca grzêda, która pozwala mi mieæ oko na wszystko, co wkrótce znajdzie siê w mojej domenie z³a!
+murgpt042	Polecam nasz¹ morsk¹ sa³atkê Elaine Cezar... z ekstra Z£EM!!! Ma³e chrupniêcia z³a w ka¿dym kêsie.
 murgpt043	MUAHAHAHAHAA!
-murgpt044	Nie potrzeba mi ¿o³¹dka! Moje moce ze¿r¹ was wszystkich bez niego!
-murgpt045	Zabieraj to ode mnie, ty zapluta kanalio!
-murgpt046	Hmm. Chyba siê zgodzê.
-murgpt047	Nie.
-murgpt048	MMurray, demoniczny pirat nigdy nie mia³ serca! Mwahahaha!
+murgpt044	Nie potrzeba mi ¿o³¹dka! Poch³onê was mymi Z£YMI demonicznymi mocami!
+murgpt045	Zabieraj to st¹d, ty zapluta kanalio!
+murgpt046	Chyba masz racjê, ¿e mnie to wyrêczy.
+murgpt047	Nie, paniusiu.
+murgpt048	Murray, demoniczna czaszka nigdy nie bêdzie mia³ serca! MUAHAHAHAHAHAA!
 murgpt049	MUAHAHHAHAHAA!
-murgpt050	Nie mogê piæ kiedy jestem w pracy.
+murgpt050	Nie wolno mi piæ, kiedy jestem w pracy.
 murgpt051	Z£O nigdy nie œpi! MUAHAHAHAHAHAHAA!
 murgpt052	MUAHAHAHAHAHAHAA!
-murgpt053	Eww, to nawet dla mnie jest za z³e.
-murgpt054	Na pewno doœæ by zjeœæ twoj¹ duszê!
+murgpt053	To zbyt okrutne nawet jak dla mnie!
+murgpt054	Jestem tak g³odny, ¿e zjem ci DUSZÊ! MUAHAHAHAHAHA!
 murgpt055	MUAHAHAHAHAH!
 wailua046	ZnajdŸ sobie najpierw wolny sto³ek.
 hb3cpt026	Bêdê tu.
-rivpta087	To nies³ychane, ¿e jesteœ a¿ tak z³ym piratem.
-rivpta088	Wydaje mi siê, ¿e powinieneœ popracowaæ na swoimi zdolnoœciami.
-rivpta089	Na t¹ chwilê, myœlê ¿e powinieneœ...
+rivpta087	To nies³ychane, jak szybko wróci³eœ do swych starych, pirackich nawyków.
+rivpta088	Chyba czas powtórzyæ klasê, by odœwie¿yæ swoje umiejêtnoœci.
+rivpta089	Ale teraz powiem ci tylko...
 rivpta090	Jeœli nie mo¿esz wytrwaæ do koñca egzaminu, to oblewasz.
 rivpta091	Aha!
 rivpta092	Mam ciê!
-rivpta093	Nie tak szybko skarbie!
-rivpta094	Wydaje ci siê, ¿e jesteœ szybszy?
-rivpta095	Myœlisz, ¿e jesteœ ode mnie bystrzejszy?
-rivpta096	Alarm szkolny to nie zabawka, panie Threepwood!
+rivpta093	Nie tak szybko!
+rivpta094	Wydawa³o ci siê, ¿e tak ³atwo mnie wykiwasz?
+rivpta095	Myœlisz, ¿e jesteœ taki bystry, tak?
+rivpta096	Alarm po¿arowy to nie zabawka, panie Threepwood!
 rivpta097	WYNOCHA!
-rivpta098	Uh, uh, uh, panie Threepwood... Nie chcemy dotykaæ z³ych zabawek dla piratów, prawda?
-rivpta099	Panie Threepwood...Ma pan tego NIE ruszaæ!
-rivpta100	Nie karz mi przychodziæ tu jeszcze raz.
-rivpta101	Zwracaj uwagê na s³owa, m³ody cz³owieku.
-rivpta102	Nie, ten certyfikat jest ju¿ nie wa¿ny. Uniewa¿ni³am twoje przeobra¿enie.
-rivpta103	I tak nie bêdziesz mia³ pracy. Nawet z tym papierem.
-rivpta104	Hmmph.
-rivpta105	Hallo, Peepwood.
-rivpta106	Jak sobie radzisz od ostatniego?
+rivpta098	Panie Threepwood... Nie chcemy chyba dotykaæ starych, pirackich zabawek, prawda?
+rivpta099	Panie Threepwood... Prosi³am nie ruszaæ!
+rivpta100	Nie ka¿ mi tam przychodziæ, panie Threepwood.
+rivpta101	Zwa¿aj na s³owa, m³odzieñcze!
+rivpta102	Ten certyfikat nic ju¿ tutaj nie znaczy. Uniewa¿ni³am twoje przeobra¿enie.
+rivpta103	Nigdy do niczego nie dojdziesz, nawet i z certyfikatem!
+rivpta104	 
+rivpta105	No witam, panie Sikwood.
+rivpta106	Jak sobie radzisz po naszej reedukacji?
 rivpta107	Wielkie nieba! Chyba potrzebujesz kursu utrwalaj¹cego.
-rivcpt031	Aaahhh ogieñ! Uciekajcie jeœli wam ¿ycie mi³e!
-rivcpt032	Kolejny po¿ar! Uciekajcie jeœli wam ¿ycie mi³e!
-rivcpt033	Dobrze, mam ju¿ doœæ tej b³azenady.
-rivcpt034	Nie chcia³abym byæ w skórze tego, który jest odpowiedzialny za tego rodzaju zawadiackie przestêpczoœci.
+rivcpt031	Po¿ar! Ludzie, ratujcie swoje ¿ycie!
+rivcpt032	Kolejny po¿ar! Ludzie, ratujcie swoje ¿ycie!
+rivcpt033	Dobrze, doœæ ju¿ mam tej b³azenady.
+rivcpt034	Biada ty³kom zawadiaków, których z³apiê za ten szczeniacki wybryk.
 rivcpt035	 
-rivcpt036	A teraz, m³ody cz³owieku. Ten alarm po¿arowy jest u¿ywany tylko w przypadku zagro¿enia.
+rivcpt036	Pos³uchaj, m³odzieñcze. Ten alarm u¿ywamy tylko w nag³ym wypadku.
 el1gmi067	Tak?
 el1gmi068	To nie czas na przek¹ski, Guybrushu.
 el1all001	Guybrush! Co ja ci mówi³am o piciu grogu!?
@@ -8503,86 +8503,86 @@ el1mel060	(co powinno byæ o wiele ³atwiejsze, gdy wiem, ¿e jest nikczemnym demon
 el1mel061	W miêdzyczasie ty zrób wszystko, co mo¿esz, aby powstrzymaæ Ozziego i LeChucka przed zdobyciem Talizmanu Upokorzenia, czymkolwiek on jest.
 el1mel062	Na twoim miejscu porozmawia³abym z Lady Voodoo.  Ona wie wszystko o takich rzeczach.
 el1mel063	Mi³ej walki ze z³oczyñcami, najdro¿szy!
-mtygpt037	A on zawsze mówi proszê i dziêkuje - dwukrotnie!
-stasta072	Jeœli uwa¿asz, ¿e ³adna jest teraz, to wyobraŸ sobie jak ³adnie bêdzie wygl¹daæ z okna mojej przepiêknej nieruchomoœci!
-stasta073	Ró¿norodnoœæ. Smak ¿ycia. Pusta pla¿a jest tak podniecaj¹ca jak czysty ¿agiel, wiesz o co mi chodzi?
-stasta074	Nie chcesz chyba traciæ klienta z kontem brudnej bielizny, rozumiesz?
-stasta075	Widzê, ¿e zauwa¿y³eœ nasze kolorowe broszurki?
-stasta076	Hej, koleœ! Nie ma po co wchodziæ do œrodka.
-stasta077	Bo jestem tu! Piêkny dzieñ, lepiej zostaæ na dworze!
-mk4mon008	Eek eek.
-mk4mon009	IIIK!  Iip iik!
-mk4mon010	Eep?
-jojmon129	Dziêki. Tak jak mówi³em to Kapelusz Honoru.
-jojmon130	Nie jesteœ na mnie gotowy. Wróæ, kiedy pokonasz jak¹œ s³absz¹ ma³pê.
-jojmon131	Ci¹gle nie mo¿esz siê ze mn¹ zmierzyæ. Rozwal kilka ma³p to zobaczymy ile jesteœ warty.
-jojmon132	Nie widzê, ¿ebyœ trenowa³, Threepwood, wci¹¿ nie jesteœ gotów.
-jojmon133	Widocznie jakiœ lojalny g³upiec prze³¹czy³ kontrolkê otwieraj¹c¹ bramê do Wielkiej Ma³pie G³owy....
-jojmon134	...ale ten sam g³upiec zapomnia³ ju¿ nauczyæ mojego ojca ODWRÓCIÆ ten proces.
-jojmon135	W koñcu mój ojciec umar³ z g³odu, wci¹¿ ko³ysz¹c siê na prze³¹czniku, czekaj¹c na prost¹ komendê której ju¿ nigdy nie us³ysza³.
-jojmon136	Kulawy Gibon
-jojmon137	Nacieraj¹cy Szympans
-jojmon138	Podskakuj¹cy Pawian
-jojmon139	Niespokojny Cz³ekokszta³tny
+mtygpt037	A on zawsze mówi proszê i dziêkuje - dwa razy!
+stasta072	Jak teraz ci siê tak podoba, to wyobraŸ sobie, jak piêknie tu bêdzie po dodaniu trzech tuzinów malowniczo wakacyjnych bungalowów!
+stasta073	Rozmaitoœæ nadaje ¿yciu smak! Pusta pla¿a jest równie ekscytuj¹ca, co bia³e p³ótno, kumasz?
+stasta074	Nikt nie chce traciæ klientów przez brudn¹ bieliznê, kumasz czaczê?
+stasta075	Chyba podobaj¹ ci siê nasze kolorowe broszurki!
+stasta076	Hej, m³ody! Wejœcia nie ma!
+stasta077	Tu jestem! Taki piêkny dzieñ, szkoda nie korzystaæ, okej?
+mk4mon008	 
+mk4mon009	 
+mk4mon010	 
+jojmon129	Dziêki. Tak jak mówi³em oto Czapka Honoru.
+jojmon130	Nie jesteœ na to gotów, smarkaczu. Wróæ, kiedy pokonasz jakieœ s³absze ma³py.
+jojmon131	Ci¹gle nie jesteœ gotów, by stawiæ mi czo³a. Poskrom jeszcze kilka innych ma³p, a zobaczymy, czy jesteœ godzien.
+jojmon132	Widzê, ¿e sporo trenowa³eœ, Threepwood, ale wci¹¿ za ma³o.
+jojmon133	Najwidoczniej ktoœ wytresowa³ tego biednego, lojalnego g³upca, by tak trzyma³ prze³¹cznik kontroluj¹cy bramê do Wielkiej Ma³piej G³owy....
+jojmon134	Po czym sam, w swej durnocie, zapomnia³ wytresowaæ go, aby PUŒCI£ prze³¹cznik.
+jojmon135	W koñcu umar³ z g³odu, zwisaj¹c tak na prze³¹czniku, w oczekiwaniu na prost¹ komendê, której nigdy nie us³ysza³.
+jojmon136	Gibi¹cy Gibon
+jojmon137	Szalej¹cy Szympans
+jojmon138	Podryguj¹cy Pawian
+jojmon139	Czujny Cz³ek
 jojmon140	Pijana Ma³pa
 jojmon141	S³uchaj uwa¿nie: Nie bêdê powtarza³ sto razy.
-jojmon142	S¹ cztery podstawowe techniki walki w Ma³pim Kombacie:
-jojmon143	Utykaj¹cy Gibon...
-jojmon144	£aduj¹cy Szympans
-jojmon145	Szarpi¹cy Pawian....
-jojmon146	Niespokojna Ma³pa...
-jojmon147	i Pijany Cz³ekokszta³tny
-jojmon148	Ka¿da z tych technik jest dominuj¹ca przez dwie nastêpne pozy.
+jojmon142	Jest piêæ Postaw Bojowych w Ma³pim Kombacie:
+jojmon143	Gibi¹cy Gibon...
+jojmon144	Szalej¹cy Szympans...
+jojmon145	Podryguj¹cy Pawian...
+jojmon146	Czujny Cz³ek...
+jojmon147	I Pijana Ma³pa...
+jojmon148	Ka¿da z nich dominuje nad dwiema innymi.
 jojmon149	Na przyk³ad
 jojmon150	zawsze pokona
-jojmon151	Tak, ale do tego jest wiêcej.
-jojmon152	Aby przejœæ z jednego ruchu do innego musisz pewnego rodzaju Tajemne Obrazy Ma³p.
-jojmon153	Takie obrazy budujemy ³¹cz¹c cztery najstarsze s³owa w jêzyku ma³p:
+jojmon151	Tak, ale to nie wszystko.
+jojmon152	Aby przejœæ z jednej Postawy Bojowej do drugiej, musisz wymówiæ pewne Tajemne Ma³pie Obelgi.
+jojmon153	Obelgi te buduje siê przez kombinacje czterech pradawnych s³ów w jêzyku ma³p:
 jojmon154	Eek.
 jojmon155	Ack.
 jojmon156	Oop.
 jojmon157	i Chee.
-jojmon158	Na przyk³ad, ¿eby przejœæ z Pijanego Cz³ekokszta³tnego na Niespokojn¹ Ma³pê, móg³byœ u¿yæ takich s³ów:
+jojmon158	Na przyk³ad, ¿eby przejœæ z postawy Pijanej Ma³py na Czujnego Cz³eka, nale¿y u¿yæ niniejszej obelgi:
 jojmon159	Jakieœ pytania?
-jojmon160	Utykaj¹cy Gibon...
-jojmon161	£aduj¹cy Szympans
-jojmon162	Szarpi¹cy Pawian....
-jojmon163	Niespokojna Ma³pa...
-jojmon164	i Pijany Cz³ekokszta³tny
-jojmon165	Z pewnoœci¹....
-jojmon166	Obawiam siê, ¿e nie. Ka¿dy Ma³pi Kombatant musi posi¹œæ wiedzê œwiêtych ma³p, by doskonaliæ siê w prawdziwym Ma³pim Kombacie.
-jojmon167	Tak...pierwszy jest za darmo.
-jojmon168	Nie da siê opanowaæ Ma³piego Kombatu nie wi¹¿¹c siê z ni¹ na dobre.
-jojmon169	Choæ, kiedy by³em m³odsz¹ ma³p¹, pozna³em technikê "Ma³pa Widzi, Ma³pa Robi", pozwalaj¹c¹ mi na szybko opanowaæ inne prostsze ruchy.
-jojmon170	Równie¿ takie, niszcz¹ce przeciwnika.
-jojmon171	Niestety, jestem na s³u¿bie i nie mogê przyj¹æ twojego banana. Ale dziêkujê za pamiêæ.
-pi5scr003b	Ooph. Agh. Argh. Ugh. Oogh. Urgh.
-pi5scr003c	Oph. Agh. Argh. Ugh. Urgh.
-pi5scr003d	Ooph. Agh. Argh. Ugh. Ha.
-pi5scr003e	Urgh. Agh. Argh. Ugh. Oogh. Urgh. Uh.
-pi5scr008b	Hah. Huh. Eh. Oh.
-pi5scr007b	Huh? Hahhh. Awww.
-DOTI012a	Uup! Iik iik! Chee!
-DOTI012b	Uup! Iik iik! Chee!
-DOTI012c	Uup! Iik iik! Chee!
-EPTI031a	Ooo ooo ooo.
-pi4scr003b	Argh. Ugh. Agh. Urgh.
-pi4scr003c	Argh. Ugh. Agh. Urgh.
-pi4scr003d	Argh. Ugh. Agh. Urgh.
-pi4scr003e	Argh. Ugh. Agh. Umph. Urgh.
-pi4scr008b	Huh? <zrzêdzenie>
-pi4scr007b	Huh? Arr. Eee. Arrr...
-pi4scr006b	Aaaaaaahhhh...
-pi6scr008a	<pant, pant> Oh, oh, oh....
-pi6scr008b	<pant, pant>  Urgh. Ow. Oh oh oh...
-pi6scr008c	Da. Urgh. Ow. Oh oh oh...
-pi6scr004b	Whoaa!
+jojmon160	Gibi¹cy Gibon...
+jojmon161	Szalej¹cy Szympans...
+jojmon162	Podryguj¹cy Pawian...
+jojmon163	Czujny Cz³ek...
+jojmon164	I Pijana Ma³pa...
+jojmon165	Z pewnoœci¹...
+jojmon166	Niestety nie. Ka¿dy Ma³pi Kombatant musi sam zdobyæ wiedzê w sztuce œwiêtych ma³pich obelg poprzez rzeczywisty Ma³pi Kombat.
+jojmon167	Tak... pierwsz¹ masz za darmo.
+jojmon168	Nie da siê opanowaæ Ma³piego Kombatu bez ciê¿kiego treningu.
+jojmon169	Chocia¿, bêd¹c jeszcze m³od¹ ma³p¹, stosowa³em strategiê "Ma³pa widzi, ma³pa robi" i doœæ szybko opanowa³em kilka ³atwiejszych ruchów.
+jojmon170	Irytowa³o to równie¿ przeciwników.
+jojmon171	Niestety jestem na s³u¿bie i nie mogê traciæ czasu na delektowanie siê bananem. Ale dziêkujê za propozycjê.
+pi5scr003b	 
+pi5scr003c	 
+pi5scr003d	 
+pi5scr003e	 
+pi5scr008b	 
+pi5scr007b	 
+DOTI012a	 
+DOTI012b	 
+DOTI012c	 
+EPTI031a	 
+pi4scr003b	 
+pi4scr003c	 
+pi4scr003d	 
+pi4scr003e	 
+pi4scr008b	Co?
+pi4scr007b	Co...?
+pi4scr006b	 
+pi6scr008a	Och, och, och...
+pi6scr008b	A³æ. Och, och, och...
+pi6scr008c	A³æ. Och, och, och...
+pi6scr004b	£oo!
 pi6scr004c	 
-pi6scr003b	Hah. Eogh. Oh. Argh. Urgha.
-pi6scr003c	Argh. Ugh. Ooo. Eogh.
-pi6scr003d	Argh. Ooo. Eogh. Argh. Hah.
-pi6scr003e	Urgh. Argh. Ugh. Eogh. Arrgh.
-guyall224	Nie, w koñcu po coœ powiedzia³em Elaine "tak".
+pi6scr003b	 
+pi6scr003c	 
+pi6scr003d	 
+pi6scr003e	 
+guyall224	Nie, w koñcu po coœ powiedzia³em Elaine "tak". tirey
 guyall225	Ostatnio takim gra³em.
 ptwgpt001	Daj ju¿ spokój, Murray!
 hb2kab001	Chusteczka nie pirat!
@@ -9033,15 +9033,15 @@ guyall317	Co ja bym zrobi³ bez mojego ukochanego zbieraka bananów?
 guyall318	A jak ³atwo mo¿na nim graæ w ró¿ne gry zrêcznoœciowe.
 guyall319	Nie wiem jak to siê sta³o, ¿e wczeœniej nigdy go nie mia³em?
 guymon081	Czemu to brzmi znajomo?
-guymon082	Och nie.....
-guymon083	To...um...straszne.
-guymon084	Wiêc wszystko co muszê zrobiæ, to nauczyæ siê jakie postawy pokonuj¹ innych, tak?
+guymon082	Och nie...
+guymon083	Jej... to straszne.
+guymon084	Wiêc muszê tylko ogarn¹æ, która postawa bije któr¹, tak?
 guymon085	Ba³em siê, ¿e to powiesz.
-guymon086	Jakie s¹ te postawy walki?
-guymon087	Pokarzesz mi Pijanego Cz³ekokszta³tnego - Niespokojn¹ Ma³pê, jeszcze raz?
-guymon088	Nauczysz mnie jakiœ innych zniewag Ma³piego Kombatu?
-guymon089	Ale jedn¹ ju¿ mi powiedzia³eœ!
-guymon090	A masz jakieœ specjalne porady jak zostaæ mistrzem Ma³piego Kombatu?
+guymon086	To jakie s¹ te postawy bojowe?
+guymon087	Poka¿esz mi jeszcze raz ten ruch z Pijanej Ma³py do Czujnego Cz³eka?
+guymon088	Nauczysz mnie jeszcze jakiœ innych obelg Ma³piego Kombatu?
+guymon089	Ale jedn¹ ju¿ mi zdradzi³eœ!
+guymon090	Czy masz jak¹œ tajn¹ poradê, jak opanowaæ Ma³pi Kombat?
 guymon091	Szlag.
 guymib001	Timmy chce banana?
 guymib002	Chyba tak.
@@ -9056,7 +9056,7 @@ guymib010	Biedna, ma³a rozgwiazda pozostawiona na brzegu suchej pla¿y na Wyspie 
 guymib011	To nie m¹drze, przeszkadzaæ zmar³ym.
 guymib012	£a³, dobrze ¿e przypadkowo nie zgniot³em Timmiego.
 guymib013	Œcie¿ka prowadzi w tajemnicz¹ otch³añ Wyspy Ma³p™.
-guymon092	To chyba nie jest takie proste.
+guymon092	To chyba nie takie proste.
 guyall320	Ma³a spakowana g¹bka.
 guyall321	Spakowana g¹bka.
 guyall322	Du¿a spakowana g¹bka.
@@ -9258,7 +9258,7 @@ eddpla050	Rum Beczka
 eddpla051	Wiruj¹cy Szermierz
 eddpla052	Alfa Ma³pa
 eddpla053	kombinacjê.
-eddpla054	A teraz Marco de Pollo próbuje pokonaæ skok Guybrusha Threepwooda.
+eddpla054	A teraz Marco de Pollo odpowie na skok Guybrusha Threepwooda.
 eddpla055	Dajmy mu odrobinê ciszy na skupienie.
 eddpla056	Jasne, ¿e mo¿esz.
 eddpla057	Aj. On jest od krêcenia.
@@ -9475,8 +9475,8 @@ guymon099	Te przyciski i dŸwignie s¹ od Wielkiej Ma³piej G³owy!
 guymon100	Chyba potrzeba mi trochê ma³p.
 guymon101	WskaŸniki wewn¹trz Wielkiej G³owy mówi¹ mi ¿e mam s³aby poziom ma³p.
 guymon102	W³o¿ê czapkê na Wielk¹ Ma³pi¹ G³owê bo ma³py to chyba nie obchodzi.
-guymon103	Czy jest jeszcze jakaœ m¹dra wskazówka na temat Ma³piego Kombatu któr¹ mo¿esz mi przekazaæ?
-guymon104	Jak mam korzystaæ z tej strategii "Ma³pa Widzi, Ma³pa Robi"?
+guymon103	Czy masz jeszcze jakieœ inne wskazówki z Ma³piego Kombatu, mój m¹dry, ma³pi przyjacielu?
+guymon104	Jak mam korzystaæ ze strategii "Ma³pa widzi, ma³pa robi"?
 guymot093	Jeœli naprawdê jesteœ mn¹, to o jakim numerze teraz myœlê?
 guyoze013	Nie podejdê do tej fontanny bli¿ej ni¿ potrzeba. Mo¿e mi odgryŸæ rêkê.
 guyozi194	Lepiej nie... mo¿e mnie wsadziæ do wiêzienia. Ponownie.
@@ -9552,17 +9552,17 @@ guyunc011	Whew! To dobra rzecz umieæ wytrzymaæ na bezdechu 10 minut!
 guyvoo141	Œwidry.
 guyvoo142	Chyba nie s¹ na sprzeda¿.
 jojmon180	Bardzo ciekawe.
-jojmon181	Ma³py wybieraj¹ w³asn¹ œcie¿kê. Nie mam na tym ¿adnej kontroli.
-jojmon182	Choæ, okazuj¹ one wielki szacunek do u¿ytkowania Kapelusza Honoru.
-jojmon183	Przyjd¹, kiedy bêdzie na to czas.
-jojmon184	Mogê te¿ u¿ywaæ tej samej obelgi, aby powracaæ z Niespokojnej Ma³py do Pijanego Cz³ekokszta³tnego.
-jojmon177	Zawsze pamiêtaj ¿e ta sama obelga mo¿e równie¿ odwracaæ ruch.
-jojmon178	Tylko tak mo¿esz zachowaæ pozycjê nie ³ami¹c zasad powtarzania g³ównych s³ów trzy razy z rzêdu.
-jojmon179	Wystarczy kopiowaæ obelgi przeciwnika. Przegrasz wiele walk, ale wygrasz znajomoœæ ruchów.
+jojmon181	Ma³py wybieraj¹ w³asn¹ œcie¿kê. Nie mam nad tym ¿adnej kontroli.
+jojmon182	Choæ, okazuj¹ one wielki szacunek posiadaczowi Czapki Honoru.
+jojmon183	Przyjd¹, kiedy nadejdzie na to czas.
+jojmon184	Mo¿na te¿ u¿ywaæ tej samej obelgi, by wróciæ z postawy Czujnego Cz³eka do Pijanej Ma³py.
+jojmon177	Pamiêtaj: jedna obelga dzia³a w obie strony.
+jojmon178	Tylko taka, ¿e mo¿esz pozostaæ w tej samej pozycji powtarzaj¹c dowolne pierwotne s³owo trzy razy z rzêdu.
+jojmon179	Po prostu kopiuj obelgi przeciwnika. Przegrasz wiele walk, lecz wygrasz wiele ruchów.
 opemig059	Wooohoo! Koniec!
 guyall531	W¹tpiê ¿eby to siê komuœ spodoba³o.
-gmrmon001	Ak
-gmrmon002	Uup
+gmrmon001	Ack
+gmrmon002	Oop
 ingb001	Osobisty dziennik Guybrusha Threepwooda: Czasem, w ciszy, nadal s³yszê ma³py. Trudno uwierzyæ, ¿e to ledwie parê lat, odk¹d ockn¹³em siê na pla¿y Wyspy Szpady™, uzbrojony w durne imiê i chêæ zostania zawadiackim piratem.
 ingb001a	Osobisty dziennik Guybrusha Threepwooda:
 ingb001b	Czasem, w ciszy, nadal s³yszê ma³py.
@@ -10998,10 +10998,10 @@ txtmon003	ma³pi kapelusz
 txtmon004	s³up totemu
 txtmon005	œcie¿ka za miasto
 txtmon006	Pijana Ma³pa
-txtmon007	Kulawy Gibon
-txtmon008	Nacieraj¹cy Szympans
-txtmon009	Podskakuj¹cy Pawian
-txtmon010	Niespokojny Cz³ekokszta³tny
+txtmon007	Gibi¹cy Gibon
+txtmon008	Szalej¹cy Szympans
+txtmon009	Podryguj¹cy Pawian
+txtmon010	Czujny Cz³ek
 txtmon011	uzdolniona muzycznie ma³pa
 txtmon012	ma³pia drabina
 txtmon013	IdŸ do:
@@ -12085,7 +12085,7 @@ txtcdt511	LucasArts Entertainment Company LLC.
 txtcdt512	Wszelkie prawa zastrze¿one.
 txtcdt513	iMuse U.S. Patent No. 5,315,057
 canhoj048	Najjaœniej.
-doti015	Uup! Iik iik! Chee!
+doti015	 
 doti017	Oop oop oop!
 dugb001	Yaarr! Witaj, Lil' LeChuck!  Jak myœlisz, co powinniœmy dzisiaj zrobiæ!
 googme075	45...
@@ -12105,8 +12105,8 @@ navscu120	Mówi³em...
 ozoz047a	Uuugh....ahhhh....ungh...uuungh...omph.
 ozoz047b	Uff!
 ozoz047c	Aaagh!
-ozzmon001	Ak
-ozzmon002	Uup
+ozzmon001	Ack
+ozzmon002	Oop
 ozzmon003	Eek
 ozzmon004	Chee
 ozzozi185	Mówi³em...

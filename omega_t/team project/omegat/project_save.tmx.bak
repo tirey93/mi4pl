@@ -8495,8 +8495,8 @@
       <tuv lang="en-US">
         <seg>Arrr, ahoy there, Big Guybrush!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Arr, ahoj, Wielki Guybrushu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T175045Z">
+        <seg>Arrr, witaj, Duży Guybrushu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15575,8 +15575,8 @@
       <tuv lang="en-US">
         <seg>Effette doily-sniffer!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Chusteczka nie pirat!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T175016Z">
+        <seg>Zniewieściały pedancik!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22491,8 +22491,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hi there, Big Guybrush!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cześć, Wielki Guybrushu!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T175101Z">
+        <seg>Cześć, Duży Guybrushu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27595,8 +27595,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I got the girl in the last game.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ostatnio takim grałem.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T174308Z">
+        <seg>W ostatniej grze miałem dziewczynę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41520,7 +41520,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Knock it off, Murray!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240428T172811Z">
+      <tuv lang="pl" changeid="damia" changedate="20240719T174325Z">
         <seg>Daj już spokój, Murray!</seg>
       </tuv>
     </tu>
@@ -45752,8 +45752,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nah, I think there was something in our marriage vows about that.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240718T122936Z">
-        <seg>Nie, w końcu po coś powiedziałem Elaine "tak". tirey</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240719T151450Z">
+        <seg>Nie, sądzę, że było coś na ten temat w naszej przysiędze małżeńskiej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49056,8 +49056,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Now, boys...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A teraz...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T175321Z">
+        <seg>Chłopcy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53672,8 +53672,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pirate poseur!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Piracki pozer</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240719T175018Z">
+        <seg>Piracki pozer!</seg>
       </tuv>
     </tu>
     <tu>

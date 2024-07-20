@@ -5625,15 +5625,15 @@ caskab001	Ognia!
 jumkab067	Chyba powinieneœ przesun¹æ siê kilka stóp w lewo.
 guykab048	Dziêki.
 jumkab068	Proszê bardzo. A teraz odejdŸ, ¿ebym móg³ dokoñczyæ moj¹ dyskusjê z piêkn¹ pann¹ Daisy.
-guykab049	A teraz...
+guykab049	Ch³opcy...
 guykab050	Bezduszny cham!
 guykab051	Bezrobotny leñ!
 guykab052	Ch³opaki?
 guykab053	Niewychowany trup!
 guykab054	Ach, s¹dzê, ¿e to doœæ g³oœno, by zwróciæ uwagê Casaby...
-guykab057	Có¿, bez w¹tpienia mam tu g³êboko zakorzenione problemy do przepracowania...
+guykab057	Có¿, bez w¹tpienia mamy tu g³êboko zakorzenione problemy do przepracowania...
 guykab059	Witaj, Ma³y Guybrushu!
-guykab060	Czeœæ, Wielki Guybrushu!
+guykab060	Czeœæ, Du¿y Guybrushu!
 guykab061	Witaj, Ma³y LeChucku!
 guykab062	Co ciê gnêbi, Ma³y Guybrushu?
 guykab063	Co ciê gnêbi, Ma³y LeChucku?
@@ -5655,7 +5655,7 @@ guykab078	Myœlê, ¿e Ma³y LeChuck mo¿e mnie cmokn¹æ w ty³ek!
 guykab079	Myœlê, ¿e Ma³y LeChuck jest, mówi¹c klinicznie, œwirem!
 guykab080	Myœlê, ¿e Ma³y Guybrush nie pozna³by pirata, gdyby ten wbi³ mu nó¿ w w¹trobê!
 guykab081	Ach tak?
-guykab082	Myœlê, ¿e Ma³y Guybrush musi siê nauczyæ spaæ z pi³eczkami do ping-ponga!
+guykab082	Myœlê, ¿e Ma³y Guybrush powinien spaæ z okiem otwartym jak pi³eczka pingpongowa!
 guykab083	Myœlê, ¿e LeChuck to obnosz¹cy siê pozer pirata!
 guycpt046	Przepraszam pani¹.
 rivcpt001	W czym mogê pomóc, m³odzieñcze?
@@ -8582,13 +8582,13 @@ pi6scr003b
 pi6scr003c	 
 pi6scr003d	 
 pi6scr003e	 
-guyall224	Nie, w koñcu po coœ powiedzia³em Elaine "tak". tirey
-guyall225	Ostatnio takim gra³em.
+guyall224	Nie, s¹dzê, ¿e by³o coœ na ten temat w naszej przysiêdze ma³¿eñskiej.
+guyall225	W ostatniej grze mia³em dziewczynê.
 ptwgpt001	Daj ju¿ spokój, Murray!
-hb2kab001	Chusteczka nie pirat!
-hb2kab002	Piracki pozer
+hb2kab001	Zniewieœcia³y pedancik!
+hb2kab002	Piracki pozer!
 hb2kab003	Baboch³op!
-hb2kab007	Arr, ahoj, Wielki Guybrushu!
+hb2kab007	Arrr, witaj, Du¿y Guybrushu!
 hb2kab008	Ach tak?
 hb2kab009	Taaak!
 guywed001	Jej! Parzy!
@@ -8596,29 +8596,29 @@ guywed002	Armata gotowa do strza³u.
 guywed003	Gdybym tylko móg³ j¹ odpaliæ.
 guywed004	Nawet gdybym nie by³ przywi¹zany, nie udŸwign¹³bym jej.
 guywed005	Za daleko.
-guywed006	Przewróci³em go. Teraz le¿y tu kupka gor¹cych wêgli.
+guywed006	Przewróci³em go. Teraz le¿y tu kupka gor¹cych wêgielków.
 guywed007	Szczêœcie, ¿e mamy lakierowany przeciw-po¿arowy pok³ad.
-guywed008	Pe³en gor¹cych wêgli.
-guywed009	Nie utrzymam go na stopie.
+guywed008	Pe³en wêgielków.
+guywed009	Jest zbyt nieporêczny, by utrzymaæ go na stopie.
 guywed010	Ju¿ go przewróci³em.
-guywed011	Rozrzucona kupka wêgla.
-guywed012	Szczêœcie, ¿e mamy lakierowany przeciw-po¿arowo pok³ad.
-guywed013	W¹tpiê, by ktokolwiek j¹ prze³adowywa³.
-guywed014	Powinienem jakiœ podnieœæ, jeœli chcê coœ z tym zrobiæ.
+guywed011	Na pok³adzie le¿y kupka roz¿arzonych wêgielków.
+guywed012	Szczêœcie, ¿e mamy lakierowany przeciw-po¿arowy pok³ad.
+guywed013	W¹tpiê, bym ogarn¹³ wiêcej ni¿ jeden na raz.
+guywed014	Najpierw musia³bym jakiœ podnieœæ, ¿eby móc coœ z nim zrobiæ.
 guywed015	W¹tpiê, by ktokolwiek j¹ prze³adowywa³.
-guywed016	To na nic. Byæ mo¿e dlatego, ¿e nie jest nabita.
+guywed016	To na nic. Byæ mo¿e dlatego, ¿e nie jest na³adowana.
 guywed017	Zakratowane wejœcie do ³adowni.
 guywed018	Mam wa¿niejsze sprawy na g³owie, ni¿ pa³êtanie siê po ³adowni.
-guywed019	Oby w œrodku nie by³o nic ³atwopalnego.
-guywed020	Mam G£ÊBOK¥ nadziejê, ¿e nie wypali³o zamszowego baga¿u Elaine. Nie do¿y³bym koñca.
-guywed021	Ich statek jest wiêkszy od naszego! To ³obuzy!
-guywed022	Czêsto tu wpadasz?
-guywed023	Spod jakiego jesteœ znaku?
-guywed024	Postawiæ ci grog?
+guywed019	Oby nie by³o tam nic ³atwopalnego.
+guywed020	Szczerze liczê, ¿e nie wypali³em tym dziury w zamszowym baga¿u Elaine... Swoje bym siê nas³ucha³!
+guywed021	Maj¹ statek wiêkszy od naszego! To ³obuzy!
+guywed022	Czêsto tu bywasz?
+guywed023	Jaki masz znak?
+guywed024	Postawiæ ci grogu?
 guywed025	Móg³bym, gdybym nie by³ przywi¹zany.
-guywed026	Myœlê, ¿e wêgielek nie ma tyle ikry, co kula armatnia.
+guywed026	Myœlê, ¿e wêgielek nie ma tyle si³y ra¿enia, co kula armatnia.
 guywed027	Walczy tam wrogi pirat.
-guywed028	Przepraszam. Móg³byœ nas mo¿e zostawiæ? Dam ci swe kieszonkowe...
+guywed028	Przepraszam. Móg³byœ nas mo¿e zostawiæ w spokoju? Dam ci swoje kieszonkowe...
 guywed029	Ee. Przepraszam?
 guywed030	Chyba nie chce ze mn¹ gadaæ.
 guywed031	Nie, nastêpnym razem mo¿e trafiæ.

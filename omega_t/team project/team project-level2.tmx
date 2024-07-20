@@ -8447,8 +8447,8 @@
       <tuv xml:lang="en-US">
         <seg>Arrr, ahoy there, Big Guybrush!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Arr, ahoj, Wielki Guybrushu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175045Z">
+        <seg>Arrr, witaj, Duży Guybrushu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11791,8 +11791,8 @@
       <tuv xml:lang="en-US">
         <seg>Can I buy you a grog?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Postawić ci grog?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090544Z">
+        <seg>Postawić ci grogu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,8 +12671,8 @@
       <tuv xml:lang="en-US">
         <seg>Come here often?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Często tu wpadasz?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090535Z">
+        <seg>Często tu bywasz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15527,8 +15527,8 @@
       <tuv xml:lang="en-US">
         <seg>Effette doily-sniffer!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Chusteczka nie pirat!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175016Z">
+        <seg>Zniewieściały pedancik!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22427,8 +22427,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>Hi there, Big Guybrush!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Cześć, Wielki Guybrushu!</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175101Z">
+        <seg>Cześć, Duży Guybrushu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24699,8 +24699,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I REALLY hope it didn't burn any holes in Elaine's suede luggage... I'd never hear the end of it!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Mam GŁĘBOKĄ nadzieję, że nie wypaliło zamszowego bagażu Elaine. Nie dożyłbym końca.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090450Z">
+        <seg>Szczerze liczę, że nie wypaliłem tym dziury w zamszowym bagażu Elaine... Swoje bym się nasłuchał!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26643,8 +26643,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I don't think I can safely handle more than one at a time.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wątpię, by ktokolwiek ją przeładowywał.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085609Z">
+        <seg>Wątpię, bym ogarnął więcej niż jeden na raz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27531,8 +27531,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I got the girl in the last game.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ostatnio takim grałem.</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T174308Z">
+        <seg>W ostatniej grze miałem dziewczynę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27627,8 +27627,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I guess a hot coal just doesn't have as much oomph as a cannonball out of a cannon.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Myślę, że węgielek nie ma tyle ikry, co kula armatnia.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090628Z">
+        <seg>Myślę, że węgielek nie ma tyle siły rażenia, co kula armatnia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28203,8 +28203,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I hope there was nothing flammable in the hold.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Oby w środku nie było nic łatwopalnego.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085809Z">
+        <seg>Oby nie było tam nic łatwopalnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28643,8 +28643,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I managed to knock it over.  There's a pile of red hot coals sitting on the deck now.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przewróciłem go. Teraz leży tu kupka gorących węgli.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T083358Z">
+        <seg>Przewróciłem go. Teraz leży tu kupka gorących węgielków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29627,8 +29627,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I should try to pick one up if I wanna try to do something with it.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Powinienem jakiś podnieść, jeśli chcę coś z tym zrobić.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085652Z">
+        <seg>Najpierw musiałbym jakiś podnieść, żeby móc coś z nim zrobić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30043,8 +30043,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv xml:lang="en-US">
         <seg>I think Lil' Guybrush should learn to sleep with one ping-pong ball eye open!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="dapyt" changedate="20240512T080544Z">
-        <seg>Myślę, że Mały Guybrush musi się nauczyć spać z piłeczkami do ping-ponga!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T083229Z">
+        <seg>Myślę, że Mały Guybrush powinien spać z okiem otwartym jak piłeczka pingpongowa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39304,8 +39304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's full of hot coals.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="damia" changedate="20231130T202132Z">
-        <seg>Pełen gorących węgli.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T083417Z">
+        <seg>Pełen węgielków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40320,8 +40320,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>It's too cumbersome to handle with just my feet.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Nie utrzymam go na stopie.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085240Z">
+        <seg>Jest zbyt nieporęczny, by utrzymać go na stopie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41448,7 +41448,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Knock it off, Murray!</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="dapyt" changedate="20240428T172811Z">
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T174325Z">
         <seg>Daj już spokój, Murray!</seg>
       </tuv>
     </tu>
@@ -45680,8 +45680,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Nah, I think there was something in our marriage vows about that.</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="dapyt" changedate="20240718T122936Z">
-        <seg>Nie, w końcu po coś powiedziałem Elaine "tak". tirey</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240719T151450Z">
+        <seg>Nie, sądzę, że było coś na ten temat w naszej przysiędze małżeńskiej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48984,8 +48984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now, boys...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A teraz...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175321Z">
+        <seg>Chłopcy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -53592,8 +53592,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Pirate poseur!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Piracki pozer</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175018Z">
+        <seg>Piracki pozer!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56568,8 +56568,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Sigh, I've obviously got some deep-seated issues to work out here...</seg>
       </tuv>
-      <tuv xml:lang="pl" changeid="dapyt" changedate="20240512T074121Z">
-        <seg>Cóż, bez wątpienia mam tu głęboko zakorzenione problemy do przepracowania...</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240719T175445Z">
+        <seg>Cóż, bez wątpienia mamy tu głęboko zakorzenione problemy do przepracowania...</seg>
       </tuv>
     </tu>
     <tu>
@@ -59808,8 +59808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>That didn't do anything.  I suppose that's probably because it's not loaded.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>To na nic. Być może dlatego, że nie jest nabita.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085730Z">
+        <seg>To na nic. Być może dlatego, że nie jest naładowana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63144,8 +63144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Their ship is bigger than ours.  Those bullies!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ich statek jest większy od naszego! To łobuzy!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090511Z">
+        <seg>Mają statek większy od naszego! To łobuzy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -63808,8 +63808,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>There's a pile of red hot coals simmering on the deck there.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Rozrzucona kupka węgla.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085352Z">
+        <seg>Na pokładzie leży kupka rozżarzonych węgielków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67600,8 +67600,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Um.  Excuse me.  I don't suppose you'd mind just leaving us alone?  I'll give you all my milk money...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przepraszam. Mógłbyś nas może zostawić? Dam ci swe kieszonkowe...</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090718Z">
+        <seg>Przepraszam. Mógłbyś nas może zostawić w spokoju? Dam ci swoje kieszonkowe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -73081,8 +73081,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>What's your sign?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Spod jakiego jesteś znaku?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T090539Z">
+        <seg>Jaki masz znak?</seg>
       </tuv>
     </tu>
     <tu>
@@ -77057,7 +77057,7 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Yikes!  Too hot!</seg>
       </tuv>
-      <tuv xml:lang="pl">
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T083254Z">
         <seg>Jej! Parzy!</seg>
       </tuv>
     </tu>
@@ -86137,8 +86137,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv xml:lang="en-US">
         <seg>Now I'm glad we got the ship with the flame-retardant lacquered deck wood.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Szczęście, że mamy lakierowany przeciw-pożarowo pokład.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240720T085402Z">
+        <seg>Szczęście, że mamy lakierowany przeciw-pożarowy pokład.</seg>
       </tuv>
     </tu>
     <tu>

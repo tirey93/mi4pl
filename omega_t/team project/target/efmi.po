@@ -22508,7 +22508,7 @@ msgstr "Proszę bardzo. A teraz odejdź, żebym mógł dokończyć moją dyskusj
 
 msgctxt "guykab049"
 msgid "Now, boys..."
-msgstr "A teraz..."
+msgstr "Chłopcy..."
 
 msgctxt "guykab050"
 msgid "Amoral lout!"
@@ -22532,7 +22532,7 @@ msgstr "Ach, sądzę, że to dość głośno, by zwrócić uwagę Casaby..."
 
 msgctxt "guykab057"
 msgid "Sigh, I've obviously got some deep-seated issues to work out here..."
-msgstr "Cóż, bez wątpienia mam tu głęboko zakorzenione problemy do przepracowania..."
+msgstr "Cóż, bez wątpienia mamy tu głęboko zakorzenione problemy do przepracowania..."
 
 msgctxt "guykab059"
 msgid "Hi there, Lil' Guybrush!"
@@ -22540,7 +22540,7 @@ msgstr "Witaj, Mały Guybrushu!"
 
 msgctxt "guykab060"
 msgid "Hi there, Big Guybrush!"
-msgstr "Cześć, Wielki Guybrushu!"
+msgstr "Cześć, Duży Guybrushu!"
 
 msgctxt "guykab061"
 msgid "Hi there, Lil' LeChuck!"
@@ -22628,7 +22628,7 @@ msgstr "Ach tak?"
 
 msgctxt "guykab082"
 msgid "I think Lil' Guybrush should learn to sleep with one ping-pong ball eye open!"
-msgstr "Myślę, że Mały Guybrush musi się nauczyć spać z piłeczkami do ping-ponga!"
+msgstr "Myślę, że Mały Guybrush powinien spać z okiem otwartym jak piłeczka pingpongowa!"
 
 msgctxt "guykab083"
 msgid "I think Lil' Guybrush is a preening pirate wannabe!"
@@ -34336,11 +34336,11 @@ msgstr " "
 
 msgctxt "guyall224"
 msgid "Nah, I think there was something in our marriage vows about that."
-msgstr "Nie, w końcu po coś powiedziałem Elaine \"tak\". tirey"
+msgstr "Nie, sądzę, że było coś na ten temat w naszej przysiędze małżeńskiej."
 
 msgctxt "guyall225"
 msgid "I got the girl in the last game."
-msgstr "Ostatnio takim grałem."
+msgstr "W ostatniej grze miałem dziewczynę."
 
 msgctxt "ptwgpt001"
 msgid "Knock it off, Murray!"
@@ -34348,11 +34348,11 @@ msgstr "Daj już spokój, Murray!"
 
 msgctxt "hb2kab001"
 msgid "Effette doily-sniffer!"
-msgstr "Chusteczka nie pirat!"
+msgstr "Zniewieściały pedancik!"
 
 msgctxt "hb2kab002"
 msgid "Pirate poseur!"
-msgstr "Piracki pozer"
+msgstr "Piracki pozer!"
 
 msgctxt "hb2kab003"
 msgid "Girly-man!!"
@@ -34360,7 +34360,7 @@ msgstr "Babochłop!"
 
 msgctxt "hb2kab007"
 msgid "Arrr, ahoy there, Big Guybrush!"
-msgstr "Arr, ahoj, Wielki Guybrushu!"
+msgstr "Arrr, witaj, Duży Guybrushu!"
 
 msgctxt "hb2kab008"
 msgid "Oh yeah?"
@@ -34392,7 +34392,7 @@ msgstr "Za daleko."
 
 msgctxt "guywed006"
 msgid "I managed to knock it over.  There's a pile of red hot coals sitting on the deck now."
-msgstr "Przewróciłem go. Teraz leży tu kupka gorących węgli."
+msgstr "Przewróciłem go. Teraz leży tu kupka gorących węgielków."
 
 msgctxt "guywed007"
 msgid "Now I'm glad we got the ship with the flame-retardant lacquered deck wood."
@@ -34400,11 +34400,11 @@ msgstr "Szczęście, że mamy lakierowany przeciw-pożarowy pokład."
 
 msgctxt "guywed008"
 msgid "It's full of hot coals."
-msgstr "Pełen gorących węgli."
+msgstr "Pełen węgielków."
 
 msgctxt "guywed009"
 msgid "It's too cumbersome to handle with just my feet."
-msgstr "Nie utrzymam go na stopie."
+msgstr "Jest zbyt nieporęczny, by utrzymać go na stopie."
 
 msgctxt "guywed010"
 msgid "I already knocked it over."
@@ -34412,19 +34412,19 @@ msgstr "Już go przewróciłem."
 
 msgctxt "guywed011"
 msgid "There's a pile of red hot coals simmering on the deck there."
-msgstr "Rozrzucona kupka węgla."
+msgstr "Na pokładzie leży kupka rozżarzonych węgielków."
 
 msgctxt "guywed012"
 msgid "Now I'm glad we got the ship with the flame-retardant lacquered deck wood."
-msgstr "Szczęście, że mamy lakierowany przeciw-pożarowo pokład."
+msgstr "Szczęście, że mamy lakierowany przeciw-pożarowy pokład."
 
 msgctxt "guywed013"
 msgid "I don't think I can safely handle more than one at a time."
-msgstr "Wątpię, by ktokolwiek ją przeładowywał."
+msgstr "Wątpię, bym ogarnął więcej niż jeden na raz."
 
 msgctxt "guywed014"
 msgid "I should try to pick one up if I wanna try to do something with it."
-msgstr "Powinienem jakiś podnieść, jeśli chcę coś z tym zrobić."
+msgstr "Najpierw musiałbym jakiś podnieść, żeby móc coś z nim zrobić."
 
 msgctxt "guywed015"
 msgid "I don't think anybody reloaded that cannon."
@@ -34432,7 +34432,7 @@ msgstr "Wątpię, by ktokolwiek ją przeładowywał."
 
 msgctxt "guywed016"
 msgid "That didn't do anything.  I suppose that's probably because it's not loaded."
-msgstr "To na nic. Być może dlatego, że nie jest nabita."
+msgstr "To na nic. Być może dlatego, że nie jest naładowana."
 
 msgctxt "guywed017"
 msgid "It's the grated door to the ship's cargo hold."
@@ -34444,27 +34444,27 @@ msgstr "Mam ważniejsze sprawy na głowie, niż pałętanie się po ładowni."
 
 msgctxt "guywed019"
 msgid "I hope there was nothing flammable in the hold."
-msgstr "Oby w środku nie było nic łatwopalnego."
+msgstr "Oby nie było tam nic łatwopalnego."
 
 msgctxt "guywed020"
 msgid "I REALLY hope it didn't burn any holes in Elaine's suede luggage... I'd never hear the end of it!"
-msgstr "Mam GŁĘBOKĄ nadzieję, że nie wypaliło zamszowego bagażu Elaine. Nie dożyłbym końca."
+msgstr "Szczerze liczę, że nie wypaliłem tym dziury w zamszowym bagażu Elaine... Swoje bym się nasłuchał!"
 
 msgctxt "guywed021"
 msgid "Their ship is bigger than ours.  Those bullies!"
-msgstr "Ich statek jest większy od naszego! To łobuzy!"
+msgstr "Mają statek większy od naszego! To łobuzy!"
 
 msgctxt "guywed022"
 msgid "Come here often?"
-msgstr "Często tu wpadasz?"
+msgstr "Często tu bywasz?"
 
 msgctxt "guywed023"
 msgid "What's your sign?"
-msgstr "Spod jakiego jesteś znaku?"
+msgstr "Jaki masz znak?"
 
 msgctxt "guywed024"
 msgid "Can I buy you a grog?"
-msgstr "Postawić ci grog?"
+msgstr "Postawić ci grogu?"
 
 msgctxt "guywed025"
 msgid "I might if I wasn't tied to the mast."
@@ -34472,7 +34472,7 @@ msgstr "Mógłbym, gdybym nie był przywiązany."
 
 msgctxt "guywed026"
 msgid "I guess a hot coal just doesn't have as much oomph as a cannonball out of a cannon."
-msgstr "Myślę, że węgielek nie ma tyle ikry, co kula armatnia."
+msgstr "Myślę, że węgielek nie ma tyle siły rażenia, co kula armatnia."
 
 msgctxt "guywed027"
 msgid "There's an enemy pirate fighting over there."
@@ -34480,7 +34480,7 @@ msgstr "Walczy tam wrogi pirat."
 
 msgctxt "guywed028"
 msgid "Um.  Excuse me.  I don't suppose you'd mind just leaving us alone?  I'll give you all my milk money..."
-msgstr "Przepraszam. Mógłbyś nas może zostawić? Dam ci swe kieszonkowe..."
+msgstr "Przepraszam. Mógłbyś nas może zostawić w spokoju? Dam ci swoje kieszonkowe..."
 
 msgctxt "guywed029"
 msgid "Um.  Excuse me?"

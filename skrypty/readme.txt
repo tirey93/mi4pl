@@ -16,7 +16,7 @@ od guymon015(7731) do jojtow006(8029) - retranslacja tirey93, 2024
 od guyall179(8030) do navshi033(8402) - retranslacja tirey93, 2023
 od eddpla039(8403) do ptwplt071(9286) - retranslacja tirey93, 2024
 od guyall443(9287) do guybas092(9379) - retranslacja tirey93, 2024
-od guycol081(9380) do gmrmon002(9565) - planowana korekta tirey93, sierpień 2024
+od guycol081(9380) do gmrmon002(9565) - retranslacja tirey93, 2024
 od ingb001(9566) do ozjj090(10146) - korekta tirey93, 2023
 od txtall222(10147) do txtcdt513(12086) - korekta podpisów tirey93, 2023
 od canhoj048(12087) do końca - tłumaczenie dodanych brakujących linii tirey93, 2023

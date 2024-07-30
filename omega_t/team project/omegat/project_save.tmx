@@ -14711,8 +14711,8 @@
       <tuv lang="en-US">
         <seg>Did I say LeChuck?  I meant to say 'Ozzie and his duck.'</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T121704Z">
-        <seg>Powiedziałem LeChuck? Myślałem "Ozzie i jego kaczka".</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T142730Z">
+        <seg>Powiedziałem LeChuck? Myślałem "Ozzie i jego frak".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19183,8 +19183,8 @@
       <tuv lang="en-US">
         <seg>Gadzooks!  Where's my granddaughter?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gadzooks!  Gdzie jest moja wnuczka!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T143405Z">
+        <seg>Święta Anielko! Gdzie jest moja wnuczka?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20447,8 +20447,8 @@
       <tuv lang="en-US">
         <seg>Grandpa?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dziadek?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150021Z">
+        <seg>Dziadku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -23363,8 +23363,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, I just remembered where I left my pants!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120313Z">
-        <seg>Hej, przypomniałem sobie gdzie zostawiłem spodnie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T152403Z">
+        <seg>Hej, przypomniałem sobie, gdzie zostawiłem spodnie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25179,8 +25179,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How ancient?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T203913Z">
-        <seg>Jak bardzo starożytna?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150444Z">
+        <seg>Jak bardzo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25579,8 +25579,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>How hard could that be?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T203549Z">
-        <seg>Jak trudne to może być?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150114Z">
+        <seg>Jak trudne może to być?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27595,8 +27595,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I didn't know whales could stagger, but go ahead.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wiedziałem, że wieloryby mogą schlać się w sztok, ale kontynuuj.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145046Z">
+        <seg>Nie wiedziałem, że wieści mogą dumać, ale kontynuuj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36832,8 +36832,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If by 'involved' you mean 'working hand-in-hand with Ozzie to destroy the pirate lifestyle as we know it,' then, yeah.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T095756Z">
-        <seg>Jeśli przez "zaangażowany" rozumiesz "pracujący ramię w ramię z Ozziem, by zniszczyć piracki styl życia, jaki znamy", to tak.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T143305Z">
+        <seg>Jeśli przez "maczać palce" rozumiesz "pracować ramię w ramię z Ozziem, by zniszczyć piracki styl życia, jaki znamy", to tak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,8 +37288,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you wanted it to generate Ultimate COMEBACKS, you'd have to master the ancient tongue of the Ultimate Insult.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T203524Z">
-        <seg>Jeśli chcesz, aby generował Ostateczne RIPOSTY, musiałbyś opanować starożytny język Talizmanu Upokorzenia.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150421Z">
+        <seg>Jeśli chcesz, aby generował Ostateczne RIPOSTY, musisz opanować pradawny język Talizmanu Upokorzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42064,8 +42064,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It's...THIS!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231029T135954Z">
-        <seg>To TO!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145446Z">
+        <seg>To ON!</seg>
       </tuv>
     </tu>
     <tu>
@@ -51896,8 +51896,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Of course not!  I'm talking about the secret of the fourth piece of the Ultimate Insult!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231029T135949Z">
-        <seg>Jasne, że nie! Mówię o tajemnicy czwartego elementu Talizmanu Upokorzenia!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T143645Z">
+        <seg>Jasne, że nie! Mówię o sekretnym czwartym elemencie Talizmanu Upokorzenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55528,8 +55528,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T121535Z">
-        <seg>Ozzie Mandrill?  Pierwsze słyszę... Czekaj, kojarzę! Och... nie. Na trytońską linię majtek, to straszne!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T144750Z">
+        <seg>Ozzie Mandrillem?  Pierwsze słyszę... Czekaj, kojarzę! Och... nie. Na trytońską linię majtek, to straszne!</seg>
       </tuv>
     </tu>
     <tu>
@@ -57408,8 +57408,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pretty dang hard.  It's really ancient.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T203856Z">
-        <seg>Cholernie trudne. To starożytna magia.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150438Z">
+        <seg>Cholernie trudne. Jest bardzo pradawny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64904,8 +64904,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's no way to talk, sir.  We're gonna have to work together to defeat Ozzie and LeChuck.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T095634Z">
-        <seg>Tak się nie rozmawia. Będziemy musieli współpracować, aby pokonać Ozziego i LeChucka.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T142938Z">
+        <seg>Zbaczamy z tematu. Musimy razem współpracować, aby pokonać Ozziego i LeChucka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65560,8 +65560,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That's, um, great, I guess.  Uh. What about Ozzie Mandrill?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120329Z">
-        <seg>To dobrze, chyba. A co z Ozzie'm?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T144707Z">
+        <seg>To dobrze, chyba. A co z Ozzie Mandrillem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65768,8 +65768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The REAL Secret of Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PRAWDZIWY Sekret Wyspy Małp™?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145311Z">
+        <seg>PRAWDZIWEGO Sekretu Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65824,24 +65824,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The Secret of Monkey Island™?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sekret Wyspy Małp™?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145306Z">
+        <seg>Sekretu Wyspy Małp™?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The Secret of your Missing Pants?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T095828Z">
-        <seg>Sekret Zagubionych Gaci?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145314Z">
+        <seg>Sekretu Braku Twoich Gaci?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The Secret to Milking a Questionably Popular Video Game Franchise?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T095903Z">
-        <seg>Sekret Dojenia Wątpliwie Popularnej Serii Gier Wideo?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T145319Z">
+        <seg>Sekretu Dojenia Wątpliwie Popularnej Serii Gier Wideo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -66408,8 +66408,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>The one that had to do with the Governorship of Męlée Island™?  I was wondering about that.  What is it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T095941Z">
-        <seg>Ten, który miał związek z gubernatorstwem Wyspy Szpady™? Zastanawiałem się nad tym. Czym on jest?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T143841Z">
+        <seg>Tym związanym z gubernatorstwem Wyspy Szpady™? Zastanawiałem się nad tym. Czym on jest?</seg>
       </tuv>
     </tu>
     <tu>
@@ -77641,8 +77641,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>While you're doing that, find some monkeys, so you can master the ancient language of the Ultimate Insult.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T204830Z">
-        <seg>Robiąc to, znajdź kilka małp, abyś mógł opanować starożytny język Talizmanu Upokorzenia</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T142647Z">
+        <seg>Robiąc to, znajdź kilka małp, abyś mógł opanować starożytny język Talizmanu Upokorzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83417,8 +83417,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Yup.  Pretty ancient, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T203949Z">
-        <seg>No. Całkiem starożytne, nie?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T150455Z">
+        <seg>No. Dość pradawny, nie?</seg>
       </tuv>
     </tu>
     <tu>

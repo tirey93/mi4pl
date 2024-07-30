@@ -53,9 +53,9 @@ H2LC037	A ja mówiê, ¿e trza go wypatroszyæ.Przez przeklêt¹ nieudolnoœæ Guybrusha
 HEHN001	Auæ! Co, w imiê...?
 HEGB002	Przepraszam!
 HEHN003	Hej, przypomnia³em sobie gdzie zostawi³em spodnie!
-HEGB004	To dobrze, chyba. A co z Ozzie'm?
+HEGB004	To dobrze, chyba. A co z Ozzie Mandrillem?
 HEGB006	Herman?
-HEGB008	Nie wiedzia³em, ¿e wieloryby mog¹ schlaæ siê w sztok, ale kontynuuj.
+HEGB008	Nie wiedzia³em, ¿e wieœci mog¹ dumaæ, ale kontynuuj.
 HEGB037	Takie gadanie nic nam nie da, gubernatorze. Musimy po³¹czyæ si³y, by ocaliæ Wyspê Szpady™ przed Ozzie'm i LeChuckiem!
 HEHN038	LeChuck te¿ macza³ w tym palce?
 HEGB039	Jest teraz nowym gubernatorem Wyspy Szpady™.
@@ -7707,20 +7707,20 @@ hertoc140	Nie musisz, o ile moja wnuczka bêdzie trzymaæ Symbol Gubernatorski z d
 guytoc102	Wiêc, za³ó¿my, ¿e coœ mo¿e pójœæ nie tak. Jak móg³bym wtedy powstrzymaæ Talizman Upokorzenia?
 hertoc141	Hmm, to k³opotliwe. Przypuszczam, ¿e móg³byœ zbudowaæ wiêkszy Talizman Upokorzenia. Mo¿e zadzia³aæ. Ale...
 guytoc103	Ale co?
-hertoc142	Jeœli chcesz, aby generowa³ Ostateczne RIPOSTY, musia³byœ opanowaæ staro¿ytny jêzyk Talizmanu Upokorzenia.
-guytoc104	Jak trudne to mo¿e byæ?
-hertoc143	Cholernie trudne. To staro¿ytna magia.
-guytoc105	Jak bardzo staro¿ytna?
+hertoc142	Jeœli chcesz, aby generowa³ Ostateczne RIPOSTY, musisz opanowaæ pradawny jêzyk Talizmanu Upokorzenia.
+guytoc104	Jak trudne mo¿e to byæ?
+hertoc143	Cholernie trudne. Jest bardzo pradawny.
+guytoc105	Jak bardzo?
 hertoc144	To ma³pi be³kot.
 guytoc106	Jêzyk Talizmanu Upokorzenia to zwyk³y ma³pi be³kot?
-hertoc145	No. Ca³kiem staro¿ytne, nie?
+hertoc145	No. Doœæ pradawny, nie?
 guytoc107	Eh, w takim razie dobrze, ¿e jesteœmy na Wyspie Ma³p™.
 guytoc108	Nie jestem pewien, co do kwestii "przeciwdzia³ania Talizmanowi Upokorzenia".
 hertoc146	Cholera, moja wnuczka musia³a chyba przejœæ lobotomiê po moim odejœciu.
 hertoc147	S³uchaj uwa¿nie, ch³opcze:
 hertoc148	Przede wszystkim musisz zbudowaæ WIÊKSZ¥ wersjê Talizmanu Upokorzenia...
 hertoc149	Wykorzystasz go do generowania Ostatecznych Ripost.
-hertoc150	Robi¹c to, znajdŸ kilka ma³p, abyœ móg³ opanowaæ staro¿ytny jêzyk Talizmanu Upokorzenia
+hertoc150	Robi¹c to, znajdŸ kilka ma³p, abyœ móg³ opanowaæ staro¿ytny jêzyk Talizmanu Upokorzenia.
 hertoc151	Na koniec, najwa¿niejsze...
 hertoc152	Przestañ mnie drêczyæ!
 guytoc109	Jak mam siê wydostaæ z tej #&$*@^% wyspy?
@@ -8122,10 +8122,10 @@ macpla121	Przygotuj siê na upokorzenie, panie Threepwood.
 artplt036	Masz ju¿ karykaturê. Nie b¹dŸ chciwy.
 artplt037	No tak.
 hertoc156	Nie nazywaj mnie tak!
-hertoc158	Gadzooks!  Gdzie jest moja wnuczka!
+hertoc158	Œwiêta Anielko! Gdzie jest moja wnuczka?
 hertoc159	Z powodu jednego sekretu, którego nie wyjawi³em Ozziemu, zanim próbowa³ mnie zabiæ.
-hertoc160	Jasne, ¿e nie! Mówiê o tajemnicy czwartego elementu Talizmanu Upokorzenia!
-hertoc161	To TO!
+hertoc160	Jasne, ¿e nie! Mówiê o sekretnym czwartym elemencie Talizmanu Upokorzenia!
+hertoc161	To ON!
 hertoc162	To oficjalna Pieczêæ Gubernatora Wyspy Szpady™. Jedna z wielu.
 hertoc163	Dobry gubernator zawsze ma przy sobie zapas na wypadek zgubienia orygina³u.
 hertoc164	Pieczêæ jest kluczem do odblokowania przera¿aj¹cej mocy Talizmanu Upokorzenia; bez niej to tylko zabawne marakasy.
@@ -8343,16 +8343,16 @@ guygpt072	U¿y³by tego w s³u¿bie z³a.
 guygpt073	Wiêcej bajgli dla mnie.
 guygpt074	Myœlê, ¿e zrobi³a co mog³a z tym obrazem.
 guygpt075	Albo "temu obrazowi"?
-guytoc111	Dziadek?
-guytoc112	Tak siê nie rozmawia. Bêdziemy musieli wspó³pracowaæ, aby pokonaæ Ozziego i LeChucka.
-guytoc113	Powiedzia³em LeChuck? Myœla³em "Ozzie i jego kaczka".
-guytoc114	Jeœli przez "zaanga¿owany" rozumiesz "pracuj¹cy ramiê w ramiê z Ozziem, by zniszczyæ piracki styl ¿ycia, jaki znamy", to tak.
+guytoc111	Dziadku?
+guytoc112	Zbaczamy z tematu. Musimy razem wspó³pracowaæ, aby pokonaæ Ozziego i LeChucka.
+guytoc113	Powiedzia³em LeChuck? Myœla³em "Ozzie i jego frak".
+guytoc114	Jeœli przez "maczaæ palce" rozumiesz "pracowaæ ramiê w ramiê z Ozziem, by zniszczyæ piracki styl ¿ycia, jaki znamy", to tak.
 guytoc115	W³aœciwie to nowy gubernator Wyspy Szpady™.
-guytoc116	Sekret Wyspy Ma³p™?
-guytoc117	PRAWDZIWY Sekret Wyspy Ma³p™?
-guytoc118	Sekret Zagubionych Gaci?
-guytoc119	Sekret Dojenia W¹tpliwie Popularnej Serii Gier Wideo?
-guytoc120	Ten, który mia³ zwi¹zek z gubernatorstwem Wyspy Szpady™? Zastanawia³em siê nad tym. Czym on jest?
+guytoc116	Sekretu Wyspy Ma³p™?
+guytoc117	PRAWDZIWEGO Sekretu Wyspy Ma³p™?
+guytoc118	Sekretu Braku Twoich Gaci?
+guytoc119	Sekretu Dojenia W¹tpliwie Popularnej Serii Gier Wideo?
+guytoc120	Tym zwi¹zanym z gubernatorstwem Wyspy Szpady™? Zastanawia³em siê nad tym. Czym on jest?
 guytoc121	Mo¿e potrzebny nam plan awaryjny.
 guyjam001	Aiiee!
 guyjam002	I TO jest miasto piratów!
@@ -11411,7 +11411,7 @@ txtall431	<BAD DATA>
 txtall432	Strona
 txtall433	Uciek³eœ z Wyspy Ma³p™?
 txtall434	Jesteœ pewny, ¿e chcesz wygraæ?
-txtall435	WYGRA£EŒ!
+txtall435	WYGRANA!
 txtall436	Ustawienia Gee Whiz
 txtall437	¯adne
 txtall438	Min.
@@ -11430,8 +11430,8 @@ txtall450	OOP
 txtall451	EEK
 txtall452	CHEE
 txtall453	B£¥D
-txtall454	PRZEGRA£EŒ
-txtall455	WYGRA£EŒ
+txtall454	PRZEGRANA
+txtall455	WYGRANA
 txtall456	REMIS
 txtall457	 przegrywa z
 txtall458	 pokonuje
@@ -11699,7 +11699,7 @@ txtcdt126	STAN WEAVER
 txtcdt127	DAVID LEVISON
 txtcdt128	DAVID WAYNE COLLINS
 txtcdt129	ANDREW CHENEY
-txtcdt130	W ROLACH G£ÓWNYCH WYST¥PILI
+txtcdt130	W ROLACH G£ÓWNYCH
 txtcdt131	Guybrush Threepwood
 txtcdt132	DOMINIC ARMATO
 txtcdt133	Elaine Marley-Threepwood
@@ -12095,7 +12095,7 @@ habshi029	A dok³adniej "G³ówny zastêpca regulatora stoczni, obs³uga portu, Wyspa
 habshi084	Po pierwsze, statek ma wróciæ w tym lub w lepszym stanie ni¿ teraz.
 habshi085	Po drugie, ca³a za³oga oraz pasa¿erowie maj¹ nosiæ kamizelki ratunkowe przez ca³y czas.
 habshi086	Wreszcie, pojazd ten ma byæ u¿ywany wy³¹cznie do celów s³u¿bowych, wiêc....
-hehn005	Ozzie Mandrill?  Pierwsze s³yszê... Czekaj, kojarzê! Och... nie. Na trytoñsk¹ liniê majtek, to straszne!
+hehn005	Ozzie Mandrillem?  Pierwsze s³yszê... Czekaj, kojarzê! Och... nie. Na trytoñsk¹ liniê majtek, to straszne!
 hehn007	Kto? A tak, to ja. Herman. S³uchaj, m³ody, lepiej usi¹dŸ, bo mam dla ciebie zdumiewaj¹ce wieœci.
 hehn052	Ach. To dobrze.  Dopóki Ozzie i LeChuck jej nie znajd¹, nigdy nie uda im siê wykonaæ Talizmanu Upokorzenia.
 madl004	Spójrz na siebie, chodzisz jakbyœ mia³ bukszpryt na... Hej! Co to ma byæ?

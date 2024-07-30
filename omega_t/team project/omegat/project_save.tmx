@@ -12255,8 +12255,8 @@
       <tuv lang="en-US">
         <seg>CAST OF CHARACTERS</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T123147Z" creationid="dapyt" creationdate="20240730T123120Z">
-        <seg>W ROLACH GŁÓWNYCH WYSTĄPILI</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132948Z" creationid="dapyt" creationdate="20240730T123120Z">
+        <seg>W ROLACH GŁÓWNYCH</seg>
       </tuv>
     </tu>
     <tu>
@@ -79721,24 +79721,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>YOU LOSE</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PRZEGRAŁEŚ</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132756Z">
+        <seg>PRZEGRANA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>YOU WIN</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>WYGRAŁEŚ</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132751Z">
+        <seg>WYGRANA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>YOU WIN!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>WYGRAŁEŚ!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132745Z">
+        <seg>WYGRANA!</seg>
       </tuv>
     </tu>
     <tu>

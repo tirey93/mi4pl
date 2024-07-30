@@ -56384,8 +56384,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pirate 3: DARYL KURYLO</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pirat 3: JoRG GILLNER</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T125126Z">
+        <seg>Pirat 3: DARYL KURYLO</seg>
       </tuv>
     </tu>
     <tu>
@@ -56408,8 +56408,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pirate 6: TOM KANE</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pirat 6: MARCO KRoGER</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T125136Z">
+        <seg>Pirat 6: TOM KANE</seg>
       </tuv>
     </tu>
     <tu>
@@ -56432,8 +56432,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Pirate B: WALLY WINGERT</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pirat B: ROLF JuHLICH</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T125145Z">
+        <seg>Pirat B: WALLY WINGERT</seg>
       </tuv>
     </tu>
     <tu>
@@ -79721,24 +79721,24 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>YOU LOSE</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>PRZEGRAŁEŚ</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132756Z">
+        <seg>PRZEGRANA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>YOU WIN</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>WYGRAŁEŚ</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132751Z">
+        <seg>WYGRANA</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>YOU WIN!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>WYGRAŁEŚ!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T132745Z">
+        <seg>WYGRANA!</seg>
       </tuv>
     </tu>
     <tu>

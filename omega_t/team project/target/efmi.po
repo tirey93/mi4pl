@@ -392,7 +392,7 @@ msgstr "Mowy nie ma. Nienawidziłem tej roboty. Myślisz, że po co przebyłem t
 
 msgctxt "EPEL013"
 msgid "Grandfather, please. I can't stand being the Governor. It's no way for a pirate to live. Guybrush and I need to be on the open seas, waving our swords, swashing our buckles! We're too young to become career bureaucrats."
-msgstr "Dziadku, proszę. Mam już dość bycia gubernatorem. To nie jest życie dla pirata.Guybrush i ja musimy być na otwartym morzu, wymachiwać mieczem, zabijać wrogów! Jesteśmy za młodzi by rozpocząć karierę w biukracji!"
+msgstr "Dziadku, proszę. Mam już dość bycia gubernatorem. To nie jest życie dla pirata. Guybrush i ja musimy być na otwartym morzu, wymachiwać mieczem, zabijać wrogów! Jesteśmy za młodzi, by rozpocząć karierę w biurokracji!"
 
 msgctxt "EPHN014"
 msgid "Well. He he he. All right....but you'd better come by to visit!"
@@ -29848,19 +29848,19 @@ msgstr "Ćwicz ze słabszymi małpami i wróć kiedy będziesz gotów."
 
 msgctxt "jojmon017"
 msgid "I cannot believe it.  I had foreseen losing my crown eventually, but not to such an unlikely opponent."
-msgstr "Nie wierzę ci. Nie przewiduje utraty korony z tak słabym przeciwnikiem jak ty."
+msgstr "To nie możliwe. Przewidywałem utratę korony, ale nie z tak niebywałym przeciwnikiem."
 
 msgctxt "jojmon018"
 msgid "The honor of victory is yours, Guybrush, as well as the ceremonial bronze hat."
-msgstr "Cześć zwycięstwa jest twoja, Guybrushu, podobnie jak moja czapka z brązu."
+msgstr "Cześć zwycięstwa jest twoja, Guybrushu. Podobnie, jak moja czapka z brązu."
 
 msgctxt "jojmon019"
 msgid "Please take good care of it; it is very special."
-msgstr "Opiekuj się nim: jest wyjątkowy."
+msgstr "Opiekuj się nią: jest wyjątkowa."
 
 msgctxt "guytoc001"
 msgid "Herman!"
-msgstr ""
+msgstr "Herman!"
 
 msgctxt "hertoc001"
 msgid "Where?"
@@ -30156,7 +30156,7 @@ msgstr "Jak z twoją pamięcią?"
 
 msgctxt "hertoc038"
 msgid "I don't know.  Ask me something."
-msgstr "Nie wiem. Zapytaj mnie o coś"
+msgstr "Nie wiem. Zapytaj mnie o coś."
 
 msgctxt "hertoc039"
 msgid "Things?  What things?"
@@ -30824,11 +30824,11 @@ msgstr "Nie musisz, o ile moja wnuczka będzie trzymać Symbol Gubernatorski z d
 
 msgctxt "guytoc102"
 msgid "Wellll, let's just suppose that something goes wrong.  How would I stop an Ultimate Insult talisman?"
-msgstr "Więęęc, załóżmy, że coś pójdzie nie tak. Jak mógłbym powstrzymać Talizman Upokorzenia?"
+msgstr "Więc, załóżmy, że coś może pójść nie tak. Jak mógłbym wtedy powstrzymać Talizman Upokorzenia?"
 
 msgctxt "hertoc141"
 msgid "Hmmm, that's tricky.  I suppose you could just build a bigger Ultimate Insult talisman.  That might work.  But--"
-msgstr "Hmm, to kłopotliwe. Przypuszczam, że mógłbyś po prostu zbudować większy Talizman Upokorzenia.  To może zadziałać.  Ale--"
+msgstr "Hmm, to kłopotliwe. Przypuszczam, że mógłbyś zbudować większy Talizman Upokorzenia. Może zadziałać. Ale..."
 
 msgctxt "guytoc103"
 msgid "But what?"
@@ -30868,7 +30868,7 @@ msgstr "Eh, w takim razie dobrze, że jesteśmy na Wyspie Małp™."
 
 msgctxt "guytoc108"
 msgid "I'm a little unclear on this 'counteracting the Ultimate Insult' thing."
-msgstr "Nie jestem pewien, co do kwestii \"przeciwdziałania Talizmanowi Upokorzenia\""
+msgstr "Nie jestem pewien, co do kwestii \"przeciwdziałania Talizmanowi Upokorzenia\"."
 
 msgctxt "hertoc146"
 msgid "Cripes, my granddaughter musta had a lobotomy after I left."
@@ -30884,7 +30884,7 @@ msgstr "Przede wszystkim musisz zbudować WIĘKSZĄ wersję Talizmanu Upokorzeni
 
 msgctxt "hertoc149"
 msgid "You'll use this to generate Ultimate Comebacks."
-msgstr "Wykorzystasz to do generowania Ostatecznych Ripost."
+msgstr "Wykorzystasz go do generowania Ostatecznych Ripost."
 
 msgctxt "hertoc150"
 msgid "While you're doing that, find some monkeys, so you can master the ancient language of the Ultimate Insult."
@@ -32296,7 +32296,7 @@ msgstr "Ale możesz nazywać mnie następnym gubernatorem Wyspy Szpady™!"
 
 msgctxt "guyall223"
 msgid "Ah, the lovely Mrs. Threepwood."
-msgstr "Ah, urocza pani Threepwood."
+msgstr "Ach, urocza pani Threepwood."
 
 msgctxt "wailua043"
 msgid "Hey!  Hey!  Don't touch that!"
@@ -33388,7 +33388,7 @@ msgstr "Tak się nie rozmawia. Będziemy musieli współpracować, aby pokonać 
 
 msgctxt "guytoc113"
 msgid "Did I say LeChuck?  I meant to say 'Ozzie and his duck.'"
-msgstr "Powiedziałem LeChuck? Myślałem \"Ozzie i jego kacza\"."
+msgstr "Powiedziałem LeChuck? Myślałem \"Ozzie i jego kaczka\"."
 
 msgctxt "guytoc114"
 msgid "If by 'involved' you mean 'working hand-in-hand with Ozzie to destroy the pirate lifestyle as we know it,' then, yeah."
@@ -34880,11 +34880,11 @@ msgstr "Chyba powinienem usiąść."
 
 msgctxt "guyplt121"
 msgid "Whoa!  Look at the size of her..."
-msgstr "Łoo! Patrzcie, jakie wielkie..."
+msgstr "Łoo! Patrzcie, jaki ma wielki..."
 
 msgctxt "guyplt122"
 msgid "Ponytail!"
-msgstr "Oczy!"
+msgstr "Warkocz!"
 
 msgctxt "guyplt123"
 msgid "Imitation may be the sincerest form of flattery, but it sure hasn't flattened this wage slave."
@@ -35832,7 +35832,7 @@ msgstr "Ale malutki stolik."
 
 msgctxt "guypta107"
 msgid "No way.  I'm not cramming my body into those until it's absolutely necessary."
-msgstr "Nigdy. Nie założę tego na siebie dopóki nie będzie to absolutnie konieczne."
+msgstr "Nigdy. Nie wpełznę do tego dopóki nie będzie to absolutnie konieczne."
 
 msgctxt "guypta108"
 msgid "She reminds me of my dear old granny..."
@@ -36352,7 +36352,7 @@ msgstr "Ciekawe, czy beczka wybuchnie, jeśli w nią strzelę."
 
 msgctxt "guygom024"
 msgid "I don't have anything to shoot with."
-msgstr "Nie mam czy w nią strzelić."
+msgstr "Nie mam czym w nią strzelić."
 
 msgctxt "guygom025"
 msgid "It can't be safe to store cloth sacks of gunpowder so close to open flames."
@@ -36360,7 +36360,7 @@ msgstr "Niebezpiecznym byłoby trzymanie worków z prochem tak blisko ognia."
 
 msgctxt "guygom026"
 msgid "Those look too heavy to be carrying around."
-msgstr "Wydaje się za ciężkie, by to nosić."
+msgstr "Wydają się za ciężkie, by je nosić."
 
 msgctxt "guygom027"
 msgid "It's the lever that controls the track switch."
@@ -36368,7 +36368,7 @@ msgstr "To dźwignia kontrolująca zwrotnicę."
 
 msgctxt "guygom028"
 msgid "It's probably stuck."
-msgstr "Chyba się zacięła."
+msgstr "Pewnie zacięta."
 
 msgctxt "guygom029"
 msgid "There's a hole in this bucket."
@@ -37464,7 +37464,7 @@ msgstr "Nie podniosę tego gołymi rękoma."
 
 msgctxt "guyall523"
 msgid "That needs a coconut like it needs a big, frilly hat."
-msgstr "To potrzebuje kokosa równie bardzo jak czapki z falbankami."
+msgstr "Potrzeba tu kokosa jak czapki z falbankami."
 
 msgctxt "guyall524"
 msgid "This hat really doesn't GO with that."
@@ -37520,7 +37520,7 @@ msgstr "To chyba najbardziej grzeszna z biblii."
 
 msgctxt "guycol072"
 msgid "No way.  I'd probably turn into a crazed undead zombie pirate even if I just looked at the pictures."
-msgstr "Bez szans. Zamieniłbym się w nieumarłego pirata zombie, nawet przez samo patrzenie na obrazy."
+msgstr "Bez szans. Zamieniłbym się w nieumarłego pirata zombie, nawet przez samo patrzenie na obrazki."
 
 msgctxt "guycol073"
 msgid "This place must fuel LeChuck's ego like gas on a fire."
@@ -37536,7 +37536,7 @@ msgstr "Jest to witraż z wizerunkiem LeChucka w jego najbardziej przerażające
 
 msgctxt "guycol076"
 msgid "It's a stained glass window with a picture of LeChuck in his flaming demon ghost form."
-msgstr "jes to witraż z wizerunkiem LeChucka w formie demona z piekła rodem."
+msgstr "Jest to witraż z wizerunkiem LeChucka w formie demona z piekła rodem."
 
 msgctxt "guycol077"
 msgid "'You must be this tall to ride this ride.'"
@@ -37852,7 +37852,7 @@ msgstr "Teraz siodło się klei równie mocno, co podłoga w Scumm Barze!"
 
 msgctxt "guymoh024"
 msgid "Wow!  It's effectively a gigantic Ultimate Insult!"
-msgstr "Łał! Na prawdę gigantyczny Talizman Upokorzenia!"
+msgstr "Łał! To naprawdę gigantyczny Talizman Upokorzenia!"
 
 msgctxt "guymoh025"
 msgid "Now if I can somehow manage to stick this huuuge head onto a golden man, I'll have a giant Ultimate Insult!"
@@ -39580,11 +39580,11 @@ msgstr "od pozostałych liter na moim akordeonie... \"H.T.\"."
 
 msgctxt "hegb030"
 msgid "'H.T.?'  Wait a minute, you're not telling me that you're really-"
-msgstr "H.T.? Czekaj, chyba nie chcesz mi wmówić że tak na prawdę jesteś..."
+msgstr "H.T.? Czekaj, chyba nie chcesz mi wmówić że tak naprawdę jesteś..."
 
 msgctxt "hehn031"
 msgid "That's right. My real name is Horatio...Torquemeda...Marley!"
-msgstr "Tak jest. Na prawdę nazywam się Horatio... Torquemeda... Marley!"
+msgstr "Tak jest. Naprawdę nazywam się Horatio... Torquemeda... Marley!"
 
 msgctxt "hegb032"
 msgid "B-b-b-but you can't be Governor Marley! I mean. Everyone knows that H.T. Marley died over 20 years ago...off the coast of Australia...in a boat race..."
@@ -41005,7 +41005,7 @@ msgstr "Użyj klawiszy lewo/prawo do zmiany opcji"
 
 msgctxt "txtall105"
 msgid "Off"
-msgstr "Brak"
+msgstr "Wył."
 
 msgctxt "txtall106"
 msgid "Low"
@@ -41045,31 +41045,31 @@ msgstr "Wł."
 
 msgctxt "txtall115"
 msgid "Camera-Relative"
-msgstr "zależny od kamery"
+msgstr "Wg kamery"
 
 msgctxt "txtall116"
 msgid "Character-Relative"
-msgstr "zależny od postaci"
+msgstr "Wg postaci"
 
 msgctxt "txtall117"
 msgid "Normal"
-msgstr "Normalny"
+msgstr "Zwykła"
 
 msgctxt "txtall118"
 msgid "Brighter"
-msgstr "Jaśniejszy"
+msgstr "Jasna"
 
 msgctxt "txtall119"
 msgid "Brightest"
-msgstr "Najjaśniejszy"
+msgstr "Jaśniejsza"
 
 msgctxt "txtall120"
 msgid "Darker"
-msgstr "Ciemniejszy"
+msgstr "Ciemna"
 
 msgctxt "txtall121"
 msgid "Darkest"
-msgstr "Najciemniejszy"
+msgstr "Ciemniejsza"
 
 msgctxt "txtall122"
 msgid "Enabled"
@@ -41085,7 +41085,7 @@ msgstr "&Muzyka"
 
 msgctxt "txtall125"
 msgid "Sound Effects Vol&ume"
-msgstr "Efekty Audio"
+msgstr "Efekty audio"
 
 msgctxt "txtall126"
 msgid "Vo&ice Volume"
@@ -44085,7 +44085,7 @@ msgstr "wielka rura"
 
 msgctxt "txtmrb002"
 msgid "Crawl into"
-msgstr "Płyń na:"
+msgstr "Czołgaj się przez:"
 
 msgctxt "txtmrb003"
 msgid "ladder"
@@ -45245,7 +45245,7 @@ msgstr "Herman Toothrot"
 
 msgctxt "txttoc002"
 msgid "Swing"
-msgstr "huśtawka"
+msgstr "Walnij:"
 
 msgctxt "txttoc003"
 msgid "at"
@@ -45257,7 +45257,7 @@ msgstr "Użyj:"
 
 msgctxt "txttoc005"
 msgid "to wonk"
-msgstr "do pracusia"
+msgstr "by przywalić:"
 
 msgctxt "txttoc006"
 msgid "campfire"
@@ -45901,7 +45901,7 @@ msgstr "w połowie pełna puszka grogu"
 
 msgctxt "txtall479"
 msgid "Configure &Gamepad/Joystick Buttons..."
-msgstr "Konfiguracje Gamepad/Joystick..."
+msgstr "Konfiguracja Gamepada/Joysticka..."
 
 msgctxt "txtall480"
 msgid "Mo&vie Quality"
@@ -45937,7 +45937,7 @@ msgstr "Guybrush"
 
 msgctxt "txtact017"
 msgid "Kicks"
-msgstr "Kopnij"
+msgstr "Kopie"
 
 msgctxt "txtact018"
 msgid "Unusually"
@@ -45981,7 +45981,7 @@ msgstr "Wczytywanie..."
 
 msgctxt "txtall486"
 msgid "A&nalog Joystick Mode"
-msgstr "Tryb joysticka analogowego"
+msgstr "&Tryb joysticka"
 
 msgctxt "txtall487"
 msgid "PGUP and PGDOWN"
@@ -46149,15 +46149,15 @@ msgstr "przedstawia"
 
 msgctxt "txtopc003"
 msgid "Starring Dominic Armato"
-msgstr "Dominic Armani"
+msgstr "Dominica Armani"
 
 msgctxt "txtopc004"
 msgid "as Guybrush Marley-Threepwood"
-msgstr "jako Guybrush Marley-Threepwood"
+msgstr "jako Guybrusha Marley-Threepwooda"
 
 msgctxt "txtopc005"
 msgid "Lead Tester"
-msgstr "Główny tester"
+msgstr "Lead Tester"
 
 msgctxt "txtopc006"
 msgid "John 'Buzz' Buzolich"
@@ -46165,7 +46165,7 @@ msgstr "John 'Buzz' Buzolich"
 
 msgctxt "txtopc007"
 msgid "Principal Music Composers"
-msgstr "Muzyka"
+msgstr "Principal Music Composers"
 
 msgctxt "txtopc008"
 msgid "Clint Bajakian"
@@ -46181,7 +46181,7 @@ msgstr "Peter McConnell"
 
 msgctxt "txtopc011"
 msgid "Voice Producer and Director"
-msgstr "Produkcja i reżyseria głosów"
+msgstr "Voice Producer and Director"
 
 msgctxt "txtopc012"
 msgid "Darragh O' Farrell"
@@ -46189,7 +46189,7 @@ msgstr "Darragh O' Farrell"
 
 msgctxt "txtopc013"
 msgid "Senior Sound Designer"
-msgstr "Kierownik dźwięku"
+msgstr "Senior Sound Designer"
 
 msgctxt "txtopc014"
 msgid "Nick Peck"
@@ -46197,7 +46197,7 @@ msgstr "Nick Peck"
 
 msgctxt "txtopc015"
 msgid "Sound Supervisor"
-msgstr "Udźwiękowienie"
+msgstr "Sound Supervisor"
 
 msgctxt "txtopc016"
 msgid "Larry the O"
@@ -46205,7 +46205,7 @@ msgstr "Larry the O"
 
 msgctxt "txtopc017"
 msgid "Lead Animator"
-msgstr "Główny animator"
+msgstr "Lead Animator"
 
 msgctxt "txtopc018"
 msgid "Marc Overney"
@@ -46213,7 +46213,7 @@ msgstr "Marc Overney"
 
 msgctxt "txtopc019"
 msgid "Lead Technical Artist"
-msgstr "Główny grafik"
+msgstr "Lead Technical Artist"
 
 msgctxt "txtopc020"
 msgid "Alisha Piccirillo"
@@ -46221,7 +46221,7 @@ msgstr "Alisha Piccirillo"
 
 msgctxt "txtopc021"
 msgid "Lead Artist"
-msgstr "Grafika"
+msgstr "Lead Artist"
 
 msgctxt "txtopc022"
 msgid "Chris Miles"
@@ -46229,7 +46229,7 @@ msgstr "Chris Miles"
 
 msgctxt "txtopc023"
 msgid "Lead Programmer"
-msgstr "Główny programista"
+msgstr "Lead Programmer"
 
 msgctxt "txtopc024"
 msgid "Michelle Hinners"
@@ -46237,7 +46237,7 @@ msgstr "Michelle Hinners"
 
 msgctxt "txtopc025"
 msgid "Production Manager"
-msgstr "Kierownik produkcji"
+msgstr "Production Manager"
 
 msgctxt "txtopc026"
 msgid "Linda Villalobos Grisanti"
@@ -46245,7 +46245,7 @@ msgstr "Linda Villalobos Grisanti"
 
 msgctxt "txtopc027"
 msgid "Production Coordinator"
-msgstr "Koordynator produkcji"
+msgstr "Production Coordinator"
 
 msgctxt "txtopc028"
 msgid "Christopher Tuite"
@@ -46253,11 +46253,11 @@ msgstr "Christopher Tuite"
 
 msgctxt "txtopc029"
 msgid "Project Leaders"
-msgstr "Kierownictwo projektu"
+msgstr "Project Leaders"
 
 msgctxt "txtopc030"
 msgid "Sean Clark & Mike Stemmle"
-msgstr "Sean Clark & Mike Stemmle                                                                              wersja polska: tirey93, twig, ManualCzaszka, Johnny, Zagadka, Rael, dziab i tirey93"
+msgstr "Sean Clark & Mike Stemmle"
 
 msgctxt "txtcdt001"
 msgid "LucasArts Entertainment Company™"
@@ -46273,7 +46273,7 @@ msgstr "UCIECZKA Z WYSPY MAŁP™"
 
 msgctxt "txtcdt004"
 msgid "Story, Game Design and Project Leads"
-msgstr "Story, Game Design and Project Leads"
+msgstr "*Nowa polska wersja*"
 
 msgctxt "txtcdt517"
 msgid "GARRETT JAMES"
@@ -46281,7 +46281,7 @@ msgstr "GARRETT JAMES"
 
 msgctxt "txtcdt005"
 msgid "SEAN CLARK & MICHAEL STEMMLE"
-msgstr "SEAN CLARK & MICHAEL STEMMLE"
+msgstr "*GrajPoPolsku.pl *"
 
 msgctxt "txtcdt006"
 msgid "MICHAEL STEMMLE"
@@ -46289,7 +46289,7 @@ msgstr "MICHAEL STEMMLE"
 
 msgctxt "txtcdt007"
 msgid "Lead Programmer"
-msgstr "Główny programista"
+msgstr "Lead Programmer"
 
 msgctxt "txtcdt008"
 msgid "MICHELLE HINNERS"
@@ -46301,227 +46301,227 @@ msgstr "Systems Programmer and Additional Design"
 
 msgctxt "txtcdt516"
 msgid "Audio Programmers"
-msgstr ""
+msgstr "Audio Programmers"
 
 msgctxt "txtcdt010"
 msgid "RANDY STEVENSON"
-msgstr ""
+msgstr "RANDY STEVENSON"
 
 msgctxt "txtcdt011"
 msgid "Game Scripting, Additional Design and Dialogue"
-msgstr ""
+msgstr "Game Scripting, Additional Design and Dialogue"
 
 msgctxt "txtcdt518"
 msgid "JASON PATNODE"
-msgstr ""
+msgstr "JASON PATNODE"
 
 msgctxt "txtcdt012"
 msgid "RYAN DANZ"
-msgstr ""
+msgstr "RYAN DANZ"
 
 msgctxt "txtcdt013"
 msgid "RICHARD \"SCRiTCH\" SUN"
-msgstr ""
+msgstr "RICHARD \"SCRiTCH\" SUN"
 
 msgctxt "txtcdt014"
 msgid "Game Scripting"
-msgstr ""
+msgstr "Game Scripting"
 
 msgctxt "txtcdt015"
 msgid "KAREN PETERSEN"
-msgstr ""
+msgstr "KAREN PETERSEN"
 
 msgctxt "txtcdt016"
 msgid "DAVID GRAHAM McDERMOTT"
-msgstr ""
+msgstr "DAVID GRAHAM McDERMOTT"
 
 msgctxt "txtcdt017"
 msgid "Audio Programmer"
-msgstr ""
+msgstr "Audio Programmer"
 
 msgctxt "txtcdt018"
 msgid "GEOFF GATES"
-msgstr ""
+msgstr "GEOFF GATES"
 
 msgctxt "txtcdt019"
 msgid "Lead Artist"
-msgstr "Grafika"
+msgstr "Lead Artist"
 
 msgctxt "txtcdt020"
 msgid "CHRIS MILES"
-msgstr ""
+msgstr "CHRIS MILES"
 
 msgctxt "txtcdt021"
 msgid "3D Backgrounds"
-msgstr ""
+msgstr "3D Backgrounds"
 
 msgctxt "txtcdt022"
 msgid "KIM BALESTRERI"
-msgstr ""
+msgstr "KIM BALESTRERI"
 
 msgctxt "txtcdt023"
 msgid "EDDIE DEL RIO"
-msgstr ""
+msgstr "EDDIE DEL RIO"
 
 msgctxt "txtcdt024"
 msgid "BERNARD \"CIRCUS fRe@k\" ERAL"
-msgstr ""
+msgstr "BERNARD \"CIRCUS fRe@k\" ERAL"
 
 msgctxt "txtcdt025"
 msgid "SHAYNE HERRERA"
-msgstr ""
+msgstr "SHAYNE HERRERA"
 
 msgctxt "txtcdt026"
 msgid "KATHY HSIEH"
-msgstr ""
+msgstr "KATHY HSIEH"
 
 msgctxt "txtcdt027"
 msgid "PAUL PIERCE"
-msgstr ""
+msgstr "PAUL PIERCE"
 
 msgctxt "txtcdt028"
 msgid "JACOB STEPHENS"
-msgstr ""
+msgstr "JACOB STEPHENS"
 
 msgctxt "txtcdt029"
 msgid "3D Backgrounds and Cinematic Lighting"
-msgstr ""
+msgstr "3D Backgrounds and Cinematic Lighting"
 
 msgctxt "txtcdt030"
 msgid "KRISTEN RUSSELL"
-msgstr ""
+msgstr "KRISTEN RUSSELL"
 
 msgctxt "txtcdt031"
 msgid "Cinematic Lighting and Art Tool Specialist"
-msgstr ""
+msgstr "Cinematic Lighting and Art Tool Specialist"
 
 msgctxt "txtcdt032"
 msgid "DANIEL COLON, JR."
-msgstr ""
+msgstr "DANIEL COLON, JR."
 
 msgctxt "txtcdt033"
 msgid "Lead Animator and 3D Animation"
-msgstr ""
+msgstr "Lead Animator and 3D Animation"
 
 msgctxt "txtcdt519"
 msgid "ANDY ALAMANO"
-msgstr ""
+msgstr "ANDY ALAMANO"
 
 msgctxt "txtcdt034"
 msgid "MARC OVERNEY"
-msgstr ""
+msgstr "MARC OVERNEY"
 
 msgctxt "txtcdt035"
 msgid "3D Animation, Character Models"
-msgstr ""
+msgstr "3D Animation, Character Models"
 
 msgctxt "txtcdt036"
 msgid "and Animation Set Up"
-msgstr ""
+msgstr "and Animation Set Up"
 
 msgctxt "txtcdt037"
 msgid "CHRISTINA BOYLE"
-msgstr ""
+msgstr "CHRISTINA BOYLE"
 
 msgctxt "txtcdt038"
 msgid "LISA WONG"
-msgstr ""
+msgstr "LISA WONG"
 
 msgctxt "txtcdt039"
 msgid "3D Animation"
-msgstr ""
+msgstr "3D Animation"
 
 msgctxt "txtcdt040"
 msgid "YANG-JA (YOKO) BALLARD"
-msgstr ""
+msgstr "YANG-JA (YOKO) BALLARD"
 
 msgctxt "txtcdt041"
 msgid "DAVID BOGAN"
-msgstr ""
+msgstr "DAVID BOGAN"
 
 msgctxt "txtcdt042"
 msgid "SANDY CHRISTENSEN"
-msgstr ""
+msgstr "SANDY CHRISTENSEN"
 
 msgctxt "txtcdt043"
 msgid "CATHY FERADAY"
-msgstr ""
+msgstr "CATHY FERADAY"
 
 msgctxt "txtcdt044"
 msgid "RYAN GONG"
-msgstr ""
+msgstr "RYAN GONG"
 
 msgctxt "txtcdt045"
 msgid "ROGER LIU"
-msgstr ""
+msgstr "ROGER LIU"
 
 msgctxt "txtcdt046"
 msgid "ARMANDO LLUCH"
-msgstr ""
+msgstr "ARMANDO LLUCH"
 
 msgctxt "txtcdt047"
 msgid "RAZMIG MAVLIAN"
-msgstr ""
+msgstr "RAZMIG MAVLIAN"
 
 msgctxt "txtcdt048"
 msgid "YUHON NG"
-msgstr ""
+msgstr "YUHON NG"
 
 msgctxt "txtcdt049"
 msgid "REBECCA PEREZ"
-msgstr ""
+msgstr "REBECCA PEREZ"
 
 msgctxt "txtcdt050"
 msgid "CHARLIE RAMOS"
-msgstr ""
+msgstr "CHARLIE RAMOS"
 
 msgctxt "txtcdt051"
 msgid "CHRIS SCHULTZ"
-msgstr ""
+msgstr "CHRIS SCHULTZ"
 
 msgctxt "txtcdt052"
 msgid "DAVID WEINSTEIN"
-msgstr ""
+msgstr "DAVID WEINSTEIN"
 
 msgctxt "txtcdt053"
 msgid "JOE WHITE"
-msgstr ""
+msgstr "JOE WHITE"
 
 msgctxt "txtcdt054"
 msgid "KAMERON GATES"
-msgstr ""
+msgstr "KAMERON GATES"
 
 msgctxt "txtcdt055"
 msgid "3D Object Models and Textures"
-msgstr ""
+msgstr "3D Object Models and Textures"
 
 msgctxt "txtcdt056"
 msgid "TIM TAO"
-msgstr ""
+msgstr "TIM TAO"
 
 msgctxt "txtcdt057"
 msgid "Textures"
-msgstr ""
+msgstr "Textures"
 
 msgctxt "txtcdt058"
 msgid "NATHAN STAPLEY"
-msgstr ""
+msgstr "NATHAN STAPLEY"
 
 msgctxt "txtcdt059"
 msgid "MOLLY MENDOZA"
-msgstr ""
+msgstr "MOLLY MENDOZA"
 
 msgctxt "txtcdt060"
 msgid "MICHELLE SULLIVAN"
-msgstr ""
+msgstr "MICHELLE SULLIVAN"
 
 msgctxt "txtcdt061"
 msgid "Post-Production Visual Effects"
-msgstr ""
+msgstr "Post-Production Visual Effects"
 
 msgctxt "txtcdt520"
 msgid "ALEX NEUSE"
-msgstr ""
+msgstr "ALEX NEUSE"
 
 msgctxt "txtcdt062"
 msgid "JOSEF \"BLÜDDY STIXX\" RICHARDSON"
@@ -46529,307 +46529,307 @@ msgstr "JOSEF \"BLuDDY STIXX\" RICHARDSON"
 
 msgctxt "txtcdt063"
 msgid "MIKE TERPSTRA"
-msgstr ""
+msgstr "MIKE TERPSTRA"
 
 msgctxt "txtcdt064"
 msgid "Lead Technical Artist"
-msgstr "Główny grafik"
+msgstr "Lead Technical Artist"
 
 msgctxt "txtcdt065"
 msgid "ALISHA PICCIRILLO"
-msgstr ""
+msgstr "ALISHA PICCIRILLO"
 
 msgctxt "txtcdt066"
 msgid "Technical Artists"
-msgstr ""
+msgstr "Technical Artists"
 
 msgctxt "txtcdt067"
 msgid "SEAN MARR"
-msgstr ""
+msgstr "SEAN MARR"
 
 msgctxt "txtcdt068"
 msgid "DARYL SMOLEN"
-msgstr ""
+msgstr "DARYL SMOLEN"
 
 msgctxt "txtcdt069"
 msgid "Concept Art"
-msgstr "Grafika koncepcyjna"
+msgstr "Concept Art"
 
 msgctxt "txtcdt070"
 msgid "YANG-JA (YOKO) BALLARD"
-msgstr ""
+msgstr "YANG-JA (YOKO) BALLARD"
 
 msgctxt "txtcdt071"
 msgid "EDDIE DEL RIO"
-msgstr ""
+msgstr "EDDIE DEL RIO"
 
 msgctxt "txtcdt072"
 msgid "KATHY HSIEH"
-msgstr ""
+msgstr "KATHY HSIEH"
 
 msgctxt "txtcdt073"
 msgid "CHRIS MILES"
-msgstr ""
+msgstr "CHRIS MILES"
 
 msgctxt "txtcdt074"
 msgid "NATHAN STAPLEY"
-msgstr ""
+msgstr "NATHAN STAPLEY"
 
 msgctxt "txtcdt075"
 msgid "Production Manager"
-msgstr "Kierownik produkcji"
+msgstr "Production Manager"
 
 msgctxt "txtcdt076"
 msgid "LINDA VILLALOBOS GRISANTI"
-msgstr ""
+msgstr "LINDA VILLALOBOS GRISANTI"
 
 msgctxt "txtcdt077"
 msgid "Production Coordinator"
-msgstr "Koordynator produkcji"
+msgstr "Production Coordinator"
 
 msgctxt "txtcdt078"
 msgid "CHRISTOPHER TUITE"
-msgstr ""
+msgstr "CHRISTOPHER TUITE"
 
 msgctxt "txtcdt079"
 msgid "Installer and Launcher Programmer"
-msgstr ""
+msgstr "Installer and Launcher Programmer"
 
 msgctxt "txtcdt521"
 msgid "HUGH MOORE"
-msgstr ""
+msgstr "HUGH MOORE"
 
 msgctxt "txtcdt080"
 msgid "JOE LIGMAN"
-msgstr ""
+msgstr "JOE LIGMAN"
 
 msgctxt "txtcdt081"
 msgid "Tools Programmers"
-msgstr ""
+msgstr "Tools Programmers"
 
 msgctxt "txtcdt082"
 msgid "STEVE DYKES"
-msgstr ""
+msgstr "STEVE DYKES"
 
 msgctxt "txtcdt083"
 msgid "CHARLIE SMITH"
-msgstr ""
+msgstr "CHARLIE SMITH"
 
 msgctxt "txtcdt084"
 msgid "Additional Programming"
-msgstr ""
+msgstr "Additional Programming"
 
 msgctxt "txtcdt085"
 msgid "MARK BLATTEL"
-msgstr ""
+msgstr "MARK BLATTEL"
 
 msgctxt "txtcdt086"
 msgid "KEVIN BRUNER"
-msgstr ""
+msgstr "KEVIN BRUNER"
 
 msgctxt "txtcdt087"
 msgid "ERIC JOHNSTON"
-msgstr ""
+msgstr "ERIC JOHNSTON"
 
 msgctxt "txtcdt088"
 msgid "BRET MOGILEFSKY"
-msgstr ""
+msgstr "BRET MOGILEFSKY"
 
 msgctxt "txtcdt089"
 msgid "Additional Post-Production Visual Effects"
-msgstr ""
+msgstr "Additional Post-Production Visual Effects"
 
 msgctxt "txtcdt522"
 msgid "BRYAN ERCK"
-msgstr ""
+msgstr "BRYAN ERCK"
 
 msgctxt "txtcdt090"
 msgid "JEFFREY KEMBER"
-msgstr ""
+msgstr "JEFFREY KEMBER"
 
 msgctxt "txtcdt091"
 msgid "JEFF WOZNIAK"
-msgstr ""
+msgstr "JEFF WOZNIAK"
 
 msgctxt "txtcdt092"
 msgid "Additional 3D Models"
-msgstr ""
+msgstr "Additional 3D Models"
 
 msgctxt "txtcdt093"
 msgid "PAUL DAVIES"
-msgstr ""
+msgstr "PAUL DAVIES"
 
 msgctxt "txtcdt094"
 msgid "LEA MAI NGUYEN"
-msgstr ""
+msgstr "LEA MAI NGUYEN"
 
 msgctxt "txtcdt095"
 msgid "JIM RICE"
-msgstr ""
+msgstr "JIM RICE"
 
 msgctxt "txtcdt096"
 msgid "Additional Technical Art"
-msgstr ""
+msgstr "Additional Technical Art"
 
 msgctxt "txtcdt097"
 msgid "DIANE DYBALSKI"
-msgstr ""
+msgstr "DIANE DYBALSKI"
 
 msgctxt "txtcdt098"
 msgid "Voice Producer and Director"
-msgstr "Produkcja i reżyseria głosów"
+msgstr "Voice Producer and Director"
 
 msgctxt "txtcdt099"
 msgid "DARRAGH O'FARRELL"
-msgstr ""
+msgstr "DARRAGH O'FARRELL"
 
 msgctxt "txtcdt100"
 msgid "Voice Production Supervisor"
-msgstr ""
+msgstr "Voice Production Supervisor"
 
 msgctxt "txtcdt101"
 msgid "PEGGY BARTLETT"
-msgstr ""
+msgstr "PEGGY BARTLETT"
 
 msgctxt "txtcdt102"
 msgid "Voice Editors"
-msgstr ""
+msgstr "Voice Editors"
 
 msgctxt "txtcdt103"
 msgid "CINDY WONG"
-msgstr ""
+msgstr "CINDY WONG"
 
 msgctxt "txtcdt104"
 msgid "HANS LARSON"
-msgstr ""
+msgstr "HANS LARSON"
 
 msgctxt "txtcdt105"
 msgid "COYA ELLIOTT"
-msgstr ""
+msgstr "COYA ELLIOTT"
 
 msgctxt "txtcdt106"
 msgid "Music Supervisor"
-msgstr ""
+msgstr "Music Supervisor"
 
 msgctxt "txtcdt107"
 msgid "CLINT BAJAKIAN, C.B. STUDIOS, INC."
-msgstr ""
+msgstr "CLINT BAJAKIAN, C.B. STUDIOS, INC."
 
 msgctxt "txtcdt108"
 msgid "Music Composers"
-msgstr ""
+msgstr "Music Composers"
 
 msgctxt "txtcdt109"
 msgid "CLINT BAJAKIAN"
-msgstr ""
+msgstr "CLINT BAJAKIAN"
 
 msgctxt "txtcdt110"
 msgid "MICHAEL LAND"
-msgstr ""
+msgstr "MICHAEL LAND"
 
 msgctxt "txtcdt111"
 msgid "PETER McCONNELL"
-msgstr ""
+msgstr "PETER McCONNELL"
 
 msgctxt "txtcdt112"
 msgid "ANNA KARNEY"
-msgstr ""
+msgstr "ANNA KARNEY"
 
 msgctxt "txtcdt113"
 msgid "MICHAEL LANDE"
-msgstr ""
+msgstr "MICHAEL LANDE"
 
 msgctxt "txtcdt114"
 msgid "Sound Department Manager"
-msgstr ""
+msgstr "Sound Department Manager"
 
 msgctxt "txtcdt115"
 msgid "JEFF KLIMENT"
-msgstr ""
+msgstr "JEFF KLIMENT"
 
 msgctxt "txtcdt116"
 msgid "Sound Department Supervisor"
-msgstr ""
+msgstr "Sound Department Supervisor"
 
 msgctxt "txtcdt117"
 msgid "LARRY THE O"
-msgstr ""
+msgstr "LARRY THE O"
 
 msgctxt "txtcdt118"
 msgid "Sound Department Coordinator"
-msgstr ""
+msgstr "Sound Department Coordinator"
 
 msgctxt "txtcdt119"
 msgid "MALENA SLETTOM"
-msgstr ""
+msgstr "MALENA SLETTOM"
 
 msgctxt "txtcdt120"
 msgid "Senior Sound Designer"
-msgstr "Kierownik dźwięku"
+msgstr "Senior Sound Designer"
 
 msgctxt "txtcdt121"
 msgid "NICK PECK"
-msgstr ""
+msgstr "NICK PECK"
 
 msgctxt "txtcdt122"
 msgid "Sound Designers"
-msgstr ""
+msgstr "Sound Designers"
 
 msgctxt "txtcdt123"
 msgid "J. WHITE"
-msgstr ""
+msgstr "J. WHITE"
 
 msgctxt "txtcdt124"
 msgid "JORY K. PRUM"
-msgstr ""
+msgstr "JORY K. PRUM"
 
 msgctxt "txtcdt125"
 msgid "MICHAEL FRAYNE"
-msgstr ""
+msgstr "MICHAEL FRAYNE"
 
 msgctxt "txtcdt126"
 msgid "STAN WEAVER"
-msgstr ""
+msgstr "STAN WEAVER"
 
 msgctxt "txtcdt127"
 msgid "DAVID LEVISON"
-msgstr ""
+msgstr "DAVID LEVISON"
 
 msgctxt "txtcdt128"
 msgid "DAVID WAYNE COLLINS"
-msgstr ""
+msgstr "DAVID WAYNE COLLINS"
 
 msgctxt "txtcdt129"
 msgid "ANDREW CHENEY"
-msgstr ""
+msgstr "ANDREW CHENEY"
 
 msgctxt "txtcdt130"
 msgid "CAST OF CHARACTERS"
-msgstr ""
+msgstr "W ROLACH GŁÓWNYCH WYSTĄPILI"
 
 msgctxt "txtcdt131"
 msgid "Guybrush Threepwood"
-msgstr ""
+msgstr "Guybrush Threepwood"
 
 msgctxt "txtcdt132"
 msgid "DOMINIC ARMATO"
-msgstr ""
+msgstr "DOMINIC ARMATO"
 
 msgctxt "txtcdt133"
 msgid "Elaine Marley-Threepwood"
-msgstr ""
+msgstr "Elaine Marley-Threepwood"
 
 msgctxt "txtcdt134"
 msgid "CHARITY JAMES"
-msgstr ""
+msgstr "CHARITY JAMES"
 
 msgctxt "txtcdt135"
 msgid "Charles L. Charles/LeChuck"
-msgstr ""
+msgstr "Charles L. Charles/LeChuck"
 
 msgctxt "txtcdt136"
 msgid "EARL BOEN"
-msgstr ""
+msgstr "EARL BOEN"
 
 msgctxt "txtcdt137"
 msgid "Ozzie Mandrill"
@@ -46837,63 +46837,63 @@ msgstr "Ozzie Mandrill"
 
 msgctxt "txtcdt138"
 msgid "NICK TATE"
-msgstr "ROLF JuHLICH"
+msgstr "NICK TATE"
 
 msgctxt "txtcdt139"
 msgid "Admiral Ricardo Casaba: DARYL KURYLO"
-msgstr "Admiral Ricardo Casaba: ACHIM SCHuLKE"
+msgstr "Admirał Ricardo Casaba: DARYL KURYLO"
 
 msgctxt "txtcdt140"
 msgid "Bagel the LUA Bar Patron: TOM KANE"
-msgstr "Bagel, der Wirt der LUA-Bar: MARCO KRoGER"
+msgstr "Bagel, klient w LUA Barze: TOM KANE"
 
 msgctxt "txtcdt141"
 msgid "Bank Manager: PAUL EIDING"
-msgstr ""
+msgstr "Menadżer banku: PAUL EIDING"
 
 msgctxt "txtcdt142"
 msgid "Brittany the Bank Teller: MARIA BAMFORD"
-msgstr ""
+msgstr "Kasjerka Brittany: MARIA BAMFORD"
 
 msgctxt "txtcdt143"
 msgid "Caricature Artist: PETER LURIE"
-msgstr ""
+msgstr "Artysta karykatur: PETER LURIE"
 
 msgctxt "txtcdt144"
 msgid "Carla the Swordmaster: PAMELA TYSON"
-msgstr ""
+msgstr "Carla Fechmistrzyni: PAMELA TYSON"
 
 msgctxt "txtcdt145"
 msgid "Castaneda the Chessplayer: ROB PAULSEN"
-msgstr ""
+msgstr "Gracz w szachy, Castaneda: ROB PAULSEN"
 
 msgctxt "txtcdt146"
 msgid "Clive the Tourist: CAM CLARKE"
-msgstr ""
+msgstr "Turysta Clive: CAM CLARKE"
 
 msgctxt "txtcdt147"
 msgid "Dainty Lady Figurehead: PAMELA SEGALL"
-msgstr ""
+msgstr "Galion, Drobna Dama: PAMELA SEGALL"
 
 msgctxt "txtcdt148"
 msgid "Daisy: TRESS MacNEILLE"
-msgstr ""
+msgstr "Daisy: TRESS MacNEILLE"
 
 msgctxt "txtcdt149"
 msgid "Deadeye Dave: TOM KENNY"
-msgstr ""
+msgstr "Martwooki Dave: TOM KENNY"
 
 msgctxt "txtcdt150"
 msgid "Digg the Lucre Lawyer: JOE ALASKEY"
-msgstr "Digg, der Anwalt: JoRG GILLNER"
+msgstr "Digg, prawnik: Lawyer: JOE ALASKEY"
 
 msgctxt "txtcdt151"
 msgid "Drunk: JIM WARD"
-msgstr ""
+msgstr "Pijak: JIM WARD"
 
 msgctxt "txtcdt152"
 msgid "Duck: DOMINIC ARMATO"
-msgstr ""
+msgstr "Kaczka: DOMINIC ARMATO"
 
 msgctxt "txtcdt153"
 msgid "Estaban: JESS HARNELL"
@@ -46901,1059 +46901,1059 @@ msgstr "Estaban: ERIK SCHaFFLER"
 
 msgctxt "txtcdt154"
 msgid "Freddie: LEWIS ARQUETTE"
-msgstr ""
+msgstr "Freddie: LEWIS ARQUETTE"
 
 msgctxt "txtcdt155"
 msgid "George: PAT FRALEY"
-msgstr ""
+msgstr "George: PAT FRALEY"
 
 msgctxt "txtcdt156"
 msgid "Gunner Simkins: PAUL EIDING"
-msgstr ""
+msgstr "Działonowy Simkins: PAUL EIDING"
 
 msgctxt "txtcdt157"
 msgid "Harbor Mistress: LAURI JOHNSON"
-msgstr ""
+msgstr "Pani Stocznia: LAURI JOHNSON"
 
 msgctxt "txtcdt159"
 msgid "Hellbeard: NICK JAMESON"
-msgstr ""
+msgstr "Hellbeard: NICK JAMESON"
 
 msgctxt "txtcdt160"
 msgid "Herman Toothrot: WALLY WINGERT"
-msgstr "Herman Toothrot: GuNTER LuDKE"
+msgstr "Herman Toothrot: WALLY WINGERT"
 
 msgctxt "txtcdt161"
 msgid "Ignatius Cheese: W. MORGAN SHEPPARD"
-msgstr ""
+msgstr "Ignatius Ser: W. MORGAN SHEPPARD"
 
 msgctxt "txtcdt162"
 msgid "Inspector Canard: PETER JESSOP"
-msgstr ""
+msgstr "Inspektor Canard: PETER JESSOP"
 
 msgctxt "txtcdt163"
 msgid "Jojo Jr: JOHN MARIANO"
-msgstr ""
+msgstr "Jojo Jr: JOHN MARIANO"
 
 msgctxt "txtcdt164"
 msgid "Judge Edd: JOE ALASKEY"
-msgstr "Richter Edd: ACHIM SCHuLKE"
+msgstr "Sędzia Edd: JOE ALASKEY"
 
 msgctxt "txtcdt165"
 msgid "Judge Kahuna: ROB PAULSEN"
-msgstr ""
+msgstr "Sędzia Kahuna: ROB PAULSEN"
 
 msgctxt "txtcdt166"
 msgid "Judge Tripps: JESS HARNELL"
-msgstr ""
+msgstr "Sędzia Tripps: JESS HARNELL"
 
 msgctxt "txtcdt167"
 msgid "Jumbeaux LaFeet: CHARLES ADLER"
-msgstr ""
+msgstr "Jumbeaux LaFeet: CHARLES ADLER"
 
 msgctxt "txtcdt168"
 msgid "LUA Bar Chef: JESS HARNELL"
-msgstr ""
+msgstr "Szef LUA Baru: JESS HARNELL"
 
 msgctxt "txtcdt169"
 msgid "LUA Bar Waitress: DEBI DERRYBERRY"
-msgstr ""
+msgstr "Kelnerka LUA Bar: DEBI DERRYBERRY"
 
 msgctxt "txtcdt170"
 msgid "Mabel the Tourist: TRESS MacNEILLE"
-msgstr ""
+msgstr "Turystka Mabel: TRESS MacNEILLE"
 
 msgctxt "txtcdt171"
 msgid "Manatee Operator: JIM WISE"
-msgstr ""
+msgstr "Operator Manata: JIM WISE"
 
 msgctxt "txtcdt172"
 msgid "Marco de Pollo: JEFF GLEN BENNETT"
-msgstr "Marco de Pollo: ERIK SCHaFFLER"
+msgstr "Marco de Pollo: JEFF GLEN BENNETT"
 
 msgctxt "txtcdt173"
 msgid "Meathook: CAM CLARKE"
-msgstr ""
+msgstr "Meathook: CAM CLARKE"
 
 msgctxt "txtcdt174"
 msgid "Monty the Tourist: PHIL PROCTOR"
-msgstr ""
+msgstr "Turysta Monty: PHIL PROCTOR"
 
 msgctxt "txtcdt175"
 msgid "Miss Rivers: EDIE McCLURG"
-msgstr ""
+msgstr "Pani Rivers: EDIE McCLURG"
 
 msgctxt "txtcdt176"
 msgid "Mungle: CHARLES ADLER"
-msgstr ""
+msgstr "Mungle: CHARLES ADLER"
 
 msgctxt "txtcdt177"
 msgid "Murray: DENNY DELK"
-msgstr ""
+msgstr "Murray: DENNY DELK"
 
 msgctxt "txtcdt178"
 msgid "Ned: PETER LURIE"
-msgstr ""
+msgstr "Ned: PETER LURIE"
 
 msgctxt "txtcdt179"
 msgid "Otis: S. SCOTT BULLOCK"
-msgstr ""
+msgstr "Otis: S. SCOTT BULLOCK"
 
 msgctxt "txtcdt180"
 msgid "Parrot: ROB PAULSEN"
-msgstr ""
+msgstr "Papuga: ROB PAULSEN"
 
 msgctxt "txtcdt181"
 msgid "Pegnose Pete: TOM KANE"
-msgstr ""
+msgstr "Kołkonosy Pete: TOM KANE"
 
 msgctxt "txtcdt182"
 msgid "Perfume Spritzer: NEIL ROSS"
-msgstr ""
+msgstr "Perfumiarz: NEIL ROSS"
 
 msgctxt "txtcdt183"
 msgid "Planet Threepw. Waitress: HEIDI SHANNON"
-msgstr "Kellnerin im Planeta Threepwood: MARION von STENGEL"
+msgstr "Kelnerka w Planecie Threepwood: HEIDI SHANNON"
 
 msgctxt "txtcdt184"
 msgid "Reverend Rasputin: KEITH SZARABAJKA"
-msgstr ""
+msgstr "Ojciec Rasputin: KEITH SZARABAJKA"
 
 msgctxt "txtcdt185"
 msgid "Salty the Bait Shoppe Owner: JOHN MARIANO"
-msgstr ""
+msgstr "Salty, sprzedawca w sklepie z przynętami: JOHN MARIANO"
 
 msgctxt "txtcdt186"
 msgid "Santiago the Chessplayer: DENNY DELK"
-msgstr ""
+msgstr "Santiago, gracz w szachy: DENNY DELK"
 
 msgctxt "txtcdt187"
 msgid "SCUMM Bartender: ROB PAULSEN"
-msgstr ""
+msgstr "Barman w SCUMM Barze: ROB PAULSEN"
 
 msgctxt "txtcdt188"
 msgid "Stan: PAT FRALEY"
-msgstr ""
+msgstr "Stan: PAT FRALEY"
 
 msgctxt "txtcdt189"
 msgid "StarBuccaneer's™ Clerk: JIM WISE"
-msgstr "StarBuccaneer's Clerk: JIM WISE"
+msgstr "Sprzedawca w Starbukanierze™ : JIM WISE"
 
 msgctxt "txtcdt190"
 msgid "Thrawtle the Lucre Lawyer: TOM KENNY"
-msgstr ""
+msgstr "Thrawtle, prawnik: TOM KENNY"
 
 msgctxt "txtcdt191"
 msgid "Three-Headed Monkey: PHIL PROCTOR"
-msgstr ""
+msgstr "Trójgłowa Małpa: PHIL PROCTOR"
 
 msgctxt "txtcdt192"
 msgid "Timmy the Monkey: DEBI DERRYBERRY"
-msgstr ""
+msgstr "Małpka Timmy: DEBI DERRYBERRY"
 
 msgctxt "txtcdt193"
 msgid "Tony the Catapult Operator: JAMES WARD"
-msgstr ""
+msgstr "Tony, operator katapulty: JAMES WARD"
 
 msgctxt "txtcdt194"
 msgid "Voodoo Lady: LEILANI JONES WILMORE"
-msgstr ""
+msgstr "Lady Voodoo: LEILANI JONES WILMORE"
 
 msgctxt "txtcdt195"
 msgid "Whipp the Lucre Lawyer: BOB BERGEN"
-msgstr ""
+msgstr "Whipp, prawnik: BOB BERGEN"
 
 msgctxt "txtcdt196"
 msgid "Yangja the Pirate Student: GREY DELISLE"
-msgstr ""
+msgstr "Yangja, uczennica: GREY DELISLE"
 
 msgctxt "txtcdt197"
 msgid "Yoshen the LUA Bar Patron: GREY DELISLE"
-msgstr ""
+msgstr "Yoshen, klient w LUA Barze: GREY DELISLE"
 
 msgctxt "txtcdt198"
 msgid "Monkey: S. SCOTT BULLOCK"
-msgstr ""
+msgstr "Małpa: S. SCOTT BULLOCK"
 
 msgctxt "txtcdt199"
 msgid "Monkey 3: DARRYL KURYLO"
-msgstr ""
+msgstr "Małpa 3: DARRYL KURYLO"
 
 msgctxt "txtcdt200"
 msgid "Monkey 4: DOMINIC ARMATO"
-msgstr ""
+msgstr "Małpa 4: DOMINIC ARMATO"
 
 msgctxt "txtcdt201"
 msgid "Pirate 1: JESS HARNELL"
-msgstr ""
+msgstr "Pirat 1: JESS HARNELL"
 
 msgctxt "txtcdt202"
 msgid "Pirate 2: WALLY WINGERT"
-msgstr ""
+msgstr "Pirat 2: WALLY WINGERT"
 
 msgctxt "txtcdt203"
 msgid "Pirate 3: DARYL KURYLO"
-msgstr "Pirat 3: JoRG GILLNER"
+msgstr "Pirat 3: DARYL KURYLO"
 
 msgctxt "txtcdt204"
 msgid "Pirate 4: NEIL ROSS"
-msgstr ""
+msgstr "Pirat 4: NEIL ROSS"
 
 msgctxt "txtcdt205"
 msgid "Pirate 5: PAUL EIDING"
-msgstr ""
+msgstr "Pirat 5: PAUL EIDING"
 
 msgctxt "txtcdt206"
 msgid "Pirate 6: TOM KANE"
-msgstr "Pirat 6: MARCO KRoGER"
+msgstr "Pirat 6: TOM KANE"
 
 msgctxt "txtcdt207"
 msgid "Pirate A: S. SCOTT BULLOCK"
-msgstr ""
+msgstr "Pirat A: S. SCOTT BULLOCK"
 
 msgctxt "txtcdt208"
 msgid "Pirate B: WALLY WINGERT"
-msgstr "Pirat B: ROLF JuHLICH"
+msgstr "Pirat B: WALLY WINGERT"
 
 msgctxt "txtcdt209"
 msgid "Pirate C: EARL BOEN"
-msgstr ""
+msgstr "Pirat C: EARL BOEN"
 
 msgctxt "txtcdt210"
 msgid "Lead Tester"
-msgstr "Glówny tester"
+msgstr "Lead Tester"
 
 msgctxt "txtcdt211"
 msgid "JOHN \"BUZZ\"BUZOLICH"
-msgstr ""
+msgstr "JOHN \"BUZZ\"BUZOLICH"
 
 msgctxt "txtcdt212"
 msgid "Testers"
-msgstr ""
+msgstr "Testers"
 
 msgctxt "txtcdt213"
 msgid "JO \"CAPT. TRIPPS\" ASHBURN"
-msgstr ""
+msgstr "JO \"CAPT. TRIPPS\" ASHBURN"
 
 msgctxt "txtcdt214"
 msgid "MICHAEL BLAIR"
-msgstr ""
+msgstr "MICHAEL BLAIR"
 
 msgctxt "txtcdt215"
 msgid "LOUIS BLIEMEISTER"
-msgstr ""
+msgstr "LOUIS BLIEMEISTER"
 
 msgctxt "txtcdt216"
 msgid "LEYTON \"HULA KING\" CHEW"
-msgstr ""
+msgstr "LEYTON \"HULA KING\" CHEW"
 
 msgctxt "txtcdt217"
 msgid "BRANDY M. \"LILY\" CHILDS"
-msgstr ""
+msgstr "BRANDY M. \"LILY\" CHILDS"
 
 msgctxt "txtcdt218"
 msgid "STEPHEN HANCOCK"
-msgstr ""
+msgstr "STEPHEN HANCOCK"
 
 msgctxt "txtcdt219"
 msgid "PETER LIM"
-msgstr ""
+msgstr "PETER LIM"
 
 msgctxt "txtcdt220"
 msgid "RICARDO LIU"
-msgstr ""
+msgstr "RICARDO LIU"
 
 msgctxt "txtcdt221"
 msgid "CHRIS SNYDER"
-msgstr ""
+msgstr "CHRIS SNYDER"
 
 msgctxt "txtcdt222"
 msgid "CHRIS SUSEN"
-msgstr ""
+msgstr "CHRIS SUSEN"
 
 msgctxt "txtcdt223"
 msgid "JOSEPH JOHN TALAVERA II"
-msgstr ""
+msgstr "JOSEPH JOHN TALAVERA II"
 
 msgctxt "txtcdt224"
 msgid "QUENTIN \"HE WHO IS Q\" WESTCOTT"
-msgstr ""
+msgstr "QUENTIN \"HE WHO IS Q\" WESTCOTT"
 
 msgctxt "txtcdt225"
 msgid "International Lead Tester"
-msgstr ""
+msgstr "International Lead Tester"
 
 msgctxt "txtcdt226"
 msgid "JEFF \"COLONEL\" SANDERS"
-msgstr ""
+msgstr "JEFF \"COLONEL\" SANDERS"
 
 msgctxt "txtcdt227"
 msgid "Compatibility Supervisor"
-msgstr ""
+msgstr "Compatibility Supervisor"
 
 msgctxt "txtcdt228"
 msgid "CHIP HINNENBERG"
-msgstr ""
+msgstr "CHIP HINNENBERG"
 
 msgctxt "txtcdt229"
 msgid "Senior Compatibility Technician"
-msgstr ""
+msgstr "Senior Compatibility Technician"
 
 msgctxt "txtcdt230"
 msgid "LYNN TAYLOR"
-msgstr ""
+msgstr "LYNN TAYLOR"
 
 msgctxt "txtcdt231"
 msgid "Compatibility Technicians"
-msgstr ""
+msgstr "Compatibility Technicians"
 
 msgctxt "txtcdt232"
 msgid "G.W. CHILDS"
-msgstr ""
+msgstr "G.W. CHILDS"
 
 msgctxt "txtcdt233"
 msgid "DARRYL COBB"
-msgstr ""
+msgstr "DARRYL COBB"
 
 msgctxt "txtcdt234"
 msgid "JIM DAVISON"
-msgstr ""
+msgstr "JIM DAVISON"
 
 msgctxt "txtcdt235"
 msgid "DOYLE GILSTRAP"
-msgstr ""
+msgstr "DOYLE GILSTRAP"
 
 msgctxt "txtcdt236"
 msgid "DAN MARTINEZ"
-msgstr ""
+msgstr "DAN MARTINEZ"
 
 msgctxt "txtcdt237"
 msgid "JOHN VON EICHHORN"
-msgstr ""
+msgstr "JOHN VON EICHHORN"
 
 msgctxt "txtcdt238"
 msgid "Technical Writers"
-msgstr ""
+msgstr "Technical Writers"
 
 msgctxt "txtcdt239"
 msgid "LYNN TAYLOR"
-msgstr ""
+msgstr "LYNN TAYLOR"
 
 msgctxt "txtcdt240"
 msgid "CHIP HINNENBERG"
-msgstr ""
+msgstr "CHIP HINNENBERG"
 
 msgctxt "txtcdt241"
 msgid "DOYLE GILSTRAP"
-msgstr ""
+msgstr "DOYLE GILSTRAP"
 
 msgctxt "txtcdt242"
 msgid "Strategy Guide"
-msgstr ""
+msgstr "Strategy Guide"
 
 msgctxt "txtcdt243"
 msgid "JO \"CAPT. TRIPPS\" ASHBURN"
-msgstr ""
+msgstr "JO \"CAPT. TRIPPS\" ASHBURN"
 
 msgctxt "txtcdt244"
 msgid "CD Burning Goddesses"
-msgstr ""
+msgstr "CD Burning Goddesses"
 
 msgctxt "txtcdt245"
 msgid "WENDY \"CUPCAKE\" KAPLAN"
-msgstr ""
+msgstr "WENDY \"CUPCAKE\" KAPLAN"
 
 msgctxt "txtcdt246"
 msgid "KELLIE \"TWINKIE\" WALKER"
-msgstr ""
+msgstr "KELLIE \"TWINKIE\" WALKER"
 
 msgctxt "txtcdt247"
 msgid "Product Support Manager"
-msgstr ""
+msgstr "Product Support Manager"
 
 msgctxt "txtcdt248"
 msgid "PAUL PURDY"
-msgstr ""
+msgstr "PAUL PURDY"
 
 msgctxt "txtcdt249"
 msgid "Product Support Point Person"
-msgstr ""
+msgstr "Product Support Point Person"
 
 msgctxt "txtcdt250"
 msgid "KIM MASHBURN"
-msgstr ""
+msgstr "KIM MASHBURN"
 
 msgctxt "txtcdt251"
 msgid "Hint Line Specialist"
-msgstr ""
+msgstr "Hint Line Specialist"
 
 msgctxt "txtcdt252"
 msgid "TABITHA TOSTI"
-msgstr ""
+msgstr "TABITHA TOSTI"
 
 msgctxt "txtcdt253"
 msgid "Manager of International Production"
-msgstr ""
+msgstr "Manager of International Production"
 
 msgctxt "txtcdt254"
 msgid "DARREN HEDGES"
-msgstr ""
+msgstr "DARREN HEDGES"
 
 msgctxt "txtcdt255"
 msgid "Localization Coordinator"
-msgstr ""
+msgstr "Localization Coordinator"
 
 msgctxt "txtcdt256"
 msgid "SHARA MILLER"
-msgstr ""
+msgstr "SHARA MILLER"
 
 msgctxt "txtcdt257"
 msgid "Director of Product Marketing"
-msgstr ""
+msgstr "Director of Product Marketing"
 
 msgctxt "txtcdt258"
 msgid "TOM BYRON"
-msgstr ""
+msgstr "TOM BYRON"
 
 msgctxt "txtcdt259"
 msgid "Internet Manager"
-msgstr ""
+msgstr "Internet Manager"
 
 msgctxt "txtcdt260"
 msgid "JIM PASSALACQUA"
-msgstr ""
+msgstr "JIM PASSALACQUA"
 
 msgctxt "txtcdt261"
 msgid "Web Master"
-msgstr ""
+msgstr "Web Master"
 
 msgctxt "txtcdt262"
 msgid "SCOTT BARRETT"
-msgstr ""
+msgstr "SCOTT BARRETT"
 
 msgctxt "txtcdt263"
 msgid "Creative Services Manager"
-msgstr ""
+msgstr "Creative Services Manager"
 
 msgctxt "txtcdt264"
 msgid "PATTY HILL"
-msgstr ""
+msgstr "PATTY HILL"
 
 msgctxt "txtcdt265"
 msgid "Graphic Designer"
-msgstr ""
+msgstr "Graphic Designer"
 
 msgctxt "txtcdt266"
 msgid "CHRIS INCLENROCK"
-msgstr ""
+msgstr "CHRIS INCLENROCK"
 
 msgctxt "txtcdt267"
 msgid "Marketing Project Specialist"
-msgstr ""
+msgstr "Marketing Project Specialist"
 
 msgctxt "txtcdt268"
 msgid "and Documentation Editor"
-msgstr ""
+msgstr "and Documentation Editor"
 
 msgctxt "txtcdt269"
 msgid "MOLLIE BOERO"
-msgstr ""
+msgstr "MOLLIE BOERO"
 
 msgctxt "txtcdt270"
 msgid "Manual Writer"
-msgstr ""
+msgstr "Manual Writer"
 
 msgctxt "txtcdt271"
 msgid "JO \"CAPT. TRIPPS\" ASHBURN"
-msgstr ""
+msgstr "JO \"CAPT. TRIPPS\" ASHBURN"
 
 msgctxt "txtcdt272"
 msgid "Marketing Coordinator"
-msgstr ""
+msgstr "Marketing Coordinator"
 
 msgctxt "txtcdt514"
 msgid "KARINA HALLUM"
-msgstr ""
+msgstr "KARINA HALLUM"
 
 msgctxt "txtcdt273"
 msgid "Package Design"
-msgstr ""
+msgstr "Package Design"
 
 msgctxt "txtcdt274"
 msgid "BLIND MICE STUDIO"
-msgstr ""
+msgstr "BLIND MICE STUDIO"
 
 msgctxt "txtcdt275"
 msgid "Public Relations Director"
-msgstr ""
+msgstr "Public Relations Director"
 
 msgctxt "txtcdt515"
 msgid "TOM SARRIS"
-msgstr ""
+msgstr "TOM SARRIS"
 
 msgctxt "txtcdt276"
 msgid "Public Relations Manager"
-msgstr ""
+msgstr "Public Relations Manager"
 
 msgctxt "txtcdt277"
 msgid "HEATHER TWIST PHILLIPS"
-msgstr ""
+msgstr "HEATHER TWIST PHILLIPS"
 
 msgctxt "txtcdt278"
 msgid "Public Relations Coordinator"
-msgstr ""
+msgstr "Public Relations Coordinator"
 
 msgctxt "txtcdt279"
 msgid "THEA CROSBY-LEVINE"
-msgstr ""
+msgstr "THEA CROSBY-LEVINE"
 
 msgctxt "txtcdt280"
 msgid "Public Relations Assistant"
-msgstr ""
+msgstr "Public Relations Assistant"
 
 msgctxt "txtcdt281"
 msgid "ALEXIS MERVIN"
-msgstr ""
+msgstr "ALEXIS MERVIN"
 
 msgctxt "txtcdt282"
 msgid "International Business and Operations Manager"
-msgstr ""
+msgstr "International Business and Operations Manager"
 
 msgctxt "txtcdt283"
 msgid "LISA STAR"
-msgstr ""
+msgstr "LISA STAR"
 
 msgctxt "txtcdt284"
 msgid "International Business and Sales Analyst"
-msgstr ""
+msgstr "International Business and Sales Analyst"
 
 msgctxt "txtcdt285"
 msgid "ANDREA DUNNING"
-msgstr ""
+msgstr "ANDREA DUNNING"
 
 msgctxt "txtcdt286"
 msgid "International Assistant"
-msgstr ""
+msgstr "International Assistant"
 
 msgctxt "txtcdt287"
 msgid "KRISTI KAUFMAN"
-msgstr ""
+msgstr "KRISTI KAUFMAN"
 
 msgctxt "txtcdt288"
 msgid "International Marketing Manager"
-msgstr ""
+msgstr "International Marketing Manager"
 
 msgctxt "txtcdt289"
 msgid "SIMON ETCHELLS"
-msgstr ""
+msgstr "SIMON ETCHELLS"
 
 msgctxt "txtcdt290"
 msgid "International Public Relations Coordinator"
-msgstr ""
+msgstr "International Public Relations Coordinator"
 
 msgctxt "txtcdt291"
 msgid "KATHY APOSTOLI"
-msgstr ""
+msgstr "KATHY APOSTOLI"
 
 msgctxt "txtcdt292"
 msgid "Director of Sales"
-msgstr ""
+msgstr "Director of Sales"
 
 msgctxt "txtcdt293"
 msgid "MEREDITH CAHILL"
-msgstr ""
+msgstr "MEREDITH CAHILL"
 
 msgctxt "txtcdt294"
 msgid "Channel Marketing Manager"
-msgstr ""
+msgstr "Channel Marketing Manager"
 
 msgctxt "txtcdt295"
 msgid "TIM MOORE"
-msgstr ""
+msgstr "TIM MOORE"
 
 msgctxt "txtcdt296"
 msgid "Channel Marketing Specialist"
-msgstr ""
+msgstr "Channel Marketing Specialist"
 
 msgctxt "txtcdt297"
 msgid "KATY WALDEN"
-msgstr ""
+msgstr "KATY WALDEN"
 
 msgctxt "txtcdt298"
 msgid "Sales Coordinator"
-msgstr ""
+msgstr "Sales Coordinator"
 
 msgctxt "txtcdt299"
 msgid "MIKE MAGUIRE"
-msgstr ""
+msgstr "MIKE MAGUIRE"
 
 msgctxt "txtcdt300"
 msgid "Sales Analyst"
-msgstr ""
+msgstr "Sales Analyst"
 
 msgctxt "txtcdt301"
 msgid "GREG ROBLES"
-msgstr ""
+msgstr "GREG ROBLES"
 
 msgctxt "txtcdt302"
 msgid "Director of Sales Operations"
-msgstr ""
+msgstr "Director of Sales Operations"
 
 msgctxt "txtcdt303"
 msgid "JASON HORSTMAN"
-msgstr ""
+msgstr "JASON HORSTMAN"
 
 msgctxt "txtcdt304"
 msgid "Sales Operations"
-msgstr ""
+msgstr "Sales Operations"
 
 msgctxt "txtcdt305"
 msgid "DONALD AGO"
-msgstr ""
+msgstr "DONALD AGO"
 
 msgctxt "txtcdt306"
 msgid "JUDY ALLEN"
-msgstr ""
+msgstr "JUDY ALLEN"
 
 msgctxt "txtcdt307"
 msgid "EVELYNE BOLLING"
-msgstr ""
+msgstr "EVELYNE BOLLING"
 
 msgctxt "txtcdt308"
 msgid "SCOTT FRY"
-msgstr ""
+msgstr "SCOTT FRY"
 
 msgctxt "txtcdt309"
 msgid "SEON LEE"
-msgstr ""
+msgstr "SEON LEE"
 
 msgctxt "txtcdt310"
 msgid "EMERY LOW"
-msgstr ""
+msgstr "EMERY LOW"
 
 msgctxt "txtcdt311"
 msgid "JASON PERIERA"
-msgstr ""
+msgstr "JASON PERIERA"
 
 msgctxt "txtcdt312"
 msgid "TRISH YOUNG"
-msgstr ""
+msgstr "TRISH YOUNG"
 
 msgctxt "txtcdt313"
 msgid "Direct Sales"
-msgstr ""
+msgstr "Direct Sales"
 
 msgctxt "txtcdt314"
 msgid "LOGAN PARR"
-msgstr ""
+msgstr "LOGAN PARR"
 
 msgctxt "txtcdt315"
 msgid "EMILY DUVAL"
-msgstr ""
+msgstr "EMILY DUVAL"
 
 msgctxt "txtcdt316"
 msgid "President"
-msgstr ""
+msgstr "President"
 
 msgctxt "txtcdt317"
 msgid "SIMON JEFFERY"
-msgstr ""
+msgstr "SIMON JEFFERY"
 
 msgctxt "txtcdt318"
 msgid "Vice President of Development"
-msgstr ""
+msgstr "Vice President of Development"
 
 msgctxt "txtcdt319"
 msgid "RANDY BREEN"
-msgstr ""
+msgstr "RANDY BREEN"
 
 msgctxt "txtcdt320"
 msgid "Vice President of Worldwide Sales and Marketing"
-msgstr ""
+msgstr "Vice President of Worldwide Sales and Marketing"
 
 msgctxt "txtcdt321"
 msgid "MARY BIHR"
-msgstr ""
+msgstr "MARY BIHR"
 
 msgctxt "txtcdt322"
 msgid "Director of Technology"
-msgstr ""
+msgstr "Director of Technology"
 
 msgctxt "txtcdt323"
 msgid "MALCOLM JOHNSON"
-msgstr ""
+msgstr "MALCOLM JOHNSON"
 
 msgctxt "txtcdt324"
 msgid "Director of Art"
-msgstr ""
+msgstr "Director of Art"
 
 msgctxt "txtcdt325"
 msgid "KAREN CHELINI"
-msgstr ""
+msgstr "KAREN CHELINI"
 
 msgctxt "txtcdt326"
 msgid "Director of Production Services"
-msgstr ""
+msgstr "Director of Production Services"
 
 msgctxt "txtcdt327"
 msgid "CAMELA MARTIN"
-msgstr ""
+msgstr "CAMELA MARTIN"
 
 msgctxt "txtcdt328"
 msgid "Vice President of Finance and Administration"
-msgstr ""
+msgstr "Vice President of Finance and Administration"
 
 msgctxt "txtcdt329"
 msgid "MIKE NELSON"
-msgstr ""
+msgstr "MIKE NELSON"
 
 msgctxt "txtcdt330"
 msgid "Controller"
-msgstr ""
+msgstr "Controller"
 
 msgctxt "txtcdt331"
 msgid "TOM McCARTHY"
-msgstr ""
+msgstr "TOM McCARTHY"
 
 msgctxt "txtcdt332"
 msgid "Director of Business Affairs"
-msgstr ""
+msgstr "Director of Business Affairs"
 
 msgctxt "txtcdt333"
 msgid "SETH J. STEINBERG"
-msgstr ""
+msgstr "SETH J. STEINBERG"
 
 msgctxt "txtcdt334"
 msgid "Art Department Manager"
-msgstr ""
+msgstr "Art Department Manager"
 
 msgctxt "txtcdt335"
 msgid "MATT WHITE"
-msgstr ""
+msgstr "MATT WHITE"
 
 msgctxt "txtcdt336"
 msgid "Manager of Level Design"
-msgstr ""
+msgstr "Manager of Level Design"
 
 msgctxt "txtcdt337"
 msgid "MARK CARTWRIGHT"
-msgstr ""
+msgstr "MARK CARTWRIGHT"
 
 msgctxt "txtcdt338"
 msgid "Manager of Technical Art"
-msgstr ""
+msgstr "Manager of Technical Art"
 
 msgctxt "txtcdt339"
 msgid "SCOT BREW"
-msgstr ""
+msgstr "SCOT BREW"
 
 msgctxt "txtcdt340"
 msgid "Manager of Quality Assurance"
-msgstr ""
+msgstr "Manager of Quality Assurance"
 
 msgctxt "txtcdt341"
 msgid "DAN PETTIT"
-msgstr ""
+msgstr "DAN PETTIT"
 
 msgctxt "txtcdt342"
 msgid "Quality Assurance Supervisor"
-msgstr ""
+msgstr "Quality Assurance Supervisor"
 
 msgctxt "txtcdt343"
 msgid "THERESA O'CONNOR"
-msgstr ""
+msgstr "THERESA O'CONNOR"
 
 msgctxt "txtcdt344"
 msgid "Manager of Tools Development"
-msgstr ""
+msgstr "Manager of Tools Development"
 
 msgctxt "txtcdt345"
 msgid "ANDRE BREMER"
-msgstr ""
+msgstr "ANDRE BREMER"
 
 msgctxt "txtcdt346"
 msgid "Senior Manager of Information Services"
-msgstr ""
+msgstr "Senior Manager of Information Services"
 
 msgctxt "txtcdt347"
 msgid "JEFF WAGONER"
-msgstr ""
+msgstr "JEFF WAGONER"
 
 msgctxt "txtcdt348"
 msgid "Business Affairs"
-msgstr ""
+msgstr "Business Affairs"
 
 msgctxt "txtcdt349"
 msgid "MATTHEW J. FILLBRANDT"
-msgstr ""
+msgstr "MATTHEW J. FILLBRANDT"
 
 msgctxt "txtcdt350"
 msgid "JANNETT L. SHIRLEY-PAUL"
-msgstr ""
+msgstr "JANNETT L. SHIRLEY-PAUL"
 
 msgctxt "txtcdt351"
 msgid "ANNE N. BARKER"
-msgstr ""
+msgstr "ANNE N. BARKER"
 
 msgctxt "txtcdt352"
 msgid "Art Department Administration"
-msgstr ""
+msgstr "Art Department Administration"
 
 msgctxt "txtcdt353"
 msgid "ALLISON PURDY"
-msgstr ""
+msgstr "ALLISON PURDY"
 
 msgctxt "txtcdt354"
 msgid "LISA SWART"
-msgstr ""
+msgstr "LISA SWART"
 
 msgctxt "txtcdt355"
 msgid "Administrative Services"
-msgstr ""
+msgstr "Administrative Services"
 
 msgctxt "txtcdt356"
 msgid "CLEOPATRA BOXILL-CLARK"
-msgstr ""
+msgstr "CLEOPATRA BOXILL-CLARK"
 
 msgctxt "txtcdt357"
 msgid "CATHERINE DURAND"
-msgstr ""
+msgstr "CATHERINE DURAND"
 
 msgctxt "txtcdt358"
 msgid "VICTOR FAJARDO"
-msgstr ""
+msgstr "VICTOR FAJARDO"
 
 msgctxt "txtcdt359"
 msgid "DENISE GOLLAHER"
-msgstr ""
+msgstr "DENISE GOLLAHER"
 
 msgctxt "txtcdt360"
 msgid "CHRIS HOWARD"
-msgstr ""
+msgstr "CHRIS HOWARD"
 
 msgctxt "txtcdt361"
 msgid "JOHN KNOWLES"
-msgstr ""
+msgstr "JOHN KNOWLES"
 
 msgctxt "txtcdt362"
 msgid "SUSAN LEVIN"
-msgstr ""
+msgstr "SUSAN LEVIN"
 
 msgctxt "txtcdt363"
 msgid "SANDI MANESIS"
-msgstr ""
+msgstr "SANDI MANESIS"
 
 msgctxt "txtcdt364"
 msgid "GABRIEL McDONALD"
-msgstr ""
+msgstr "GABRIEL McDONALD"
 
 msgctxt "txtcdt365"
 msgid "Information Services"
-msgstr ""
+msgstr "Information Services"
 
 msgctxt "txtcdt366"
 msgid "CHRIS BRODY"
-msgstr ""
+msgstr "CHRIS BRODY"
 
 msgctxt "txtcdt367"
 msgid "JOHN DOAK"
-msgstr ""
+msgstr "JOHN DOAK"
 
 msgctxt "txtcdt368"
 msgid "JOHN \"GRANDPA\" HANNON"
-msgstr ""
+msgstr "JOHN \"GRANDPA\" HANNON"
 
 msgctxt "txtcdt369"
 msgid "DARYLL JACOBSON"
-msgstr ""
+msgstr "DARYLL JACOBSON"
 
 msgctxt "txtcdt370"
 msgid "CHRIS McALLISTER"
-msgstr ""
+msgstr "CHRIS McALLISTER"
 
 msgctxt "txtcdt371"
 msgid "ANDY TOMASELLO"
-msgstr ""
+msgstr "ANDY TOMASELLO"
 
 msgctxt "txtcdt372"
 msgid "CHAD WILLIAMS"
-msgstr ""
+msgstr "CHAD WILLIAMS"
 
 msgctxt "txtcdt373"
 msgid "Product Support"
-msgstr ""
+msgstr "Product Support"
 
 msgctxt "txtcdt374"
 msgid "BRIAN CARLSON"
-msgstr ""
+msgstr "BRIAN CARLSON"
 
 msgctxt "txtcdt375"
 msgid "BRANDY M. \"LILY\" CHILDS"
-msgstr ""
+msgstr "BRANDY M. \"LILY\" CHILDS"
 
 msgctxt "txtcdt376"
 msgid "JAY GERACI"
-msgstr ""
+msgstr "JAY GERACI"
 
 msgctxt "txtcdt377"
 msgid "BRAD GRANTHAM"
-msgstr ""
+msgstr "BRAD GRANTHAM"
 
 msgctxt "txtcdt378"
 msgid "ERIC KNUDSON"
-msgstr ""
+msgstr "ERIC KNUDSON"
 
 msgctxt "txtcdt379"
 msgid "JASON LEE"
-msgstr ""
+msgstr "JASON LEE"
 
 msgctxt "txtcdt380"
 msgid "KIM MASHBURN"
-msgstr ""
+msgstr "KIM MASHBURN"
 
 msgctxt "txtcdt381"
 msgid "BOB McGEHEE"
-msgstr ""
+msgstr "BOB McGEHEE"
 
 msgctxt "txtcdt382"
 msgid "ALICE McKINNEY"
-msgstr ""
+msgstr "ALICE McKINNEY"
 
 msgctxt "txtcdt383"
 msgid "ERIC RAUCH"
-msgstr ""
+msgstr "ERIC RAUCH"
 
 msgctxt "txtcdt384"
 msgid "JASON SMITH"
-msgstr ""
+msgstr "JASON SMITH"
 
 msgctxt "txtcdt385"
 msgid "SCOTT TAYLOR"
-msgstr ""
+msgstr "SCOTT TAYLOR"
 
 msgctxt "txtcdt386"
 msgid "JAY TYE"
-msgstr ""
+msgstr "JAY TYE"
 
 msgctxt "txtcdt387"
 msgid "QUENTIN \"HE WHO IS Q\" WESTCOTT"
-msgstr ""
+msgstr "QUENTIN \"HE WHO IS Q\" WESTCOTT"
 
 msgctxt "txtcdt388"
 msgid "Director of Human Resources"
-msgstr ""
+msgstr "Director of Human Resources"
 
 msgctxt "txtcdt389"
 msgid "ANDREA YELLE"
-msgstr ""
+msgstr "ANDREA YELLE"
 
 msgctxt "txtcdt390"
 msgid "Human Resources"
-msgstr ""
+msgstr "Human Resources"
 
 msgctxt "txtcdt391"
 msgid "CARRIE GALAVIZ"
-msgstr ""
+msgstr "CARRIE GALAVIZ"
 
 msgctxt "txtcdt392"
 msgid "JENNIFER JIGALIN"
-msgstr ""
+msgstr "JENNIFER JIGALIN"
 
 msgctxt "txtcdt393"
 msgid "STEPHANIE LYMAN"
-msgstr ""
+msgstr "STEPHANIE LYMAN"
 
 msgctxt "txtcdt394"
 msgid "DANIELLE SCHOFIELD"
-msgstr ""
+msgstr "DANIELLE SCHOFIELD"
 
 msgctxt "txtcdt395"
 msgid "CARREN RUSSO"
-msgstr ""
+msgstr "CARREN RUSSO"
 
 msgctxt "txtcdt396"
 msgid "Finance"
-msgstr ""
+msgstr "Finance"
 
 msgctxt "txtcdt397"
 msgid "LAURIE BAGGS"
-msgstr ""
+msgstr "LAURIE BAGGS"
 
 msgctxt "txtcdt398"
 msgid "GEMMA BAIOCCHI"
-msgstr ""
+msgstr "GEMMA BAIOCCHI"
 
 msgctxt "txtcdt399"
 msgid "NEENA BONETTI"
-msgstr ""
+msgstr "NEENA BONETTI"
 
 msgctxt "txtcdt400"
 msgid "DEBBIE EPIDENDIO"
-msgstr ""
+msgstr "DEBBIE EPIDENDIO"
 
 msgctxt "txtcdt401"
 msgid "MELISSA GALICIA"
-msgstr ""
+msgstr "MELISSA GALICIA"
 
 msgctxt "txtcdt402"
 msgid "KATHLEEN GALLAGHER"
-msgstr ""
+msgstr "KATHLEEN GALLAGHER"
 
 msgctxt "txtcdt403"
 msgid "TEENA GAULKE"
-msgstr ""
+msgstr "TEENA GAULKE"
 
 msgctxt "txtcdt404"
 msgid "MOIRA HOGUE"
-msgstr ""
+msgstr "MOIRA HOGUE"
 
 msgctxt "txtcdt405"
 msgid "MICHELLE LESSLEY"
-msgstr ""
+msgstr "MICHELLE LESSLEY"
 
 msgctxt "txtcdt406"
 msgid "DAN NYSTROM"
-msgstr ""
+msgstr "DAN NYSTROM"
 
 msgctxt "txtcdt407"
 msgid "CHRISTINE PRICE"
-msgstr ""
+msgstr "CHRISTINE PRICE"
 
 msgctxt "txtcdt408"
 msgid "MARY BETH RATTO"
-msgstr ""
+msgstr "MARY BETH RATTO"
 
 msgctxt "txtcdt409"
 msgid "CYNTHIA RODRIGUEZ"
-msgstr ""
+msgstr "CYNTHIA RODRIGUEZ"
 
 msgctxt "txtcdt410"
 msgid "DAN TYE"
-msgstr ""
+msgstr "DAN TYE"
 
 msgctxt "txtcdt411"
 msgid "MATT URBAN"
-msgstr ""
+msgstr "MATT URBAN"
 
 msgctxt "txtcdt412"
 msgid "ROBIN VISAYA"
-msgstr ""
+msgstr "ROBIN VISAYA"
 
 msgctxt "txtcdt413"
 msgid "Purchasing"
-msgstr ""
+msgstr "Purchasing"
 
 msgctxt "txtcdt414"
 msgid "RICHARD QUIŃONES"
-msgstr ""
+msgstr "RICHARD QUIŃONES"
 
 msgctxt "txtcdt415"
 msgid "Based on Characters By"
-msgstr ""
+msgstr "Na podstawie postaci autorstwa "
 
 msgctxt "txtcdt416"
 msgid "RON GILBERT"
-msgstr ""
+msgstr "RON GILBERT"
 
 msgctxt "txtcdt417"
 msgid "iMUSE™ System"
@@ -47961,63 +47961,63 @@ msgstr "iMUSE System"
 
 msgctxt "txtcdt418"
 msgid "MICHAEL LAND"
-msgstr ""
+msgstr "MICHAEL LAND"
 
 msgctxt "txtcdt419"
 msgid "PETER McCONNELL"
-msgstr ""
+msgstr "PETER McCONNELL"
 
 msgctxt "txtcdt420"
 msgid "MICHAEL McMAHON"
-msgstr ""
+msgstr "MICHAEL McMAHON"
 
 msgctxt "txtcdt421"
 msgid "Audio Engineers"
-msgstr ""
+msgstr "Audio Engineers"
 
 msgctxt "txtcdt422"
 msgid "ERNIE SHEESLEY"
-msgstr ""
+msgstr "ERNIE SHEESLEY"
 
 msgctxt "txtcdt423"
 msgid "MIKE DRAGHI"
-msgstr ""
+msgstr "MIKE DRAGHI"
 
 msgctxt "txtcdt424"
 msgid "LARRY THE O"
-msgstr ""
+msgstr "LARRY THE O"
 
 msgctxt "txtcdt425"
 msgid "Assistant Audio Engineers"
-msgstr ""
+msgstr "Assistant Audio Engineers"
 
 msgctxt "txtcdt426"
 msgid "CHRISTINA CORNEJO"
-msgstr ""
+msgstr "CHRISTINA CORNEJO"
 
 msgctxt "txtcdt427"
 msgid "LISA CARLON"
-msgstr ""
+msgstr "LISA CARLON"
 
 msgctxt "txtcdt428"
 msgid "Voice Recording Locations"
-msgstr ""
+msgstr "Voice Recording Locations"
 
 msgctxt "txtcdt429"
 msgid "ScreenMusic Studios,"
-msgstr ""
+msgstr "ScreenMusic Studios,"
 
 msgctxt "txtcdt430"
 msgid "Studio City, California"
-msgstr ""
+msgstr "Studio City, California"
 
 msgctxt "txtcdt431"
 msgid "LucasArts Entertainment Company LLC,"
-msgstr ""
+msgstr "LucasArts Entertainment Company LLC,"
 
 msgctxt "txtcdt432"
 msgid "San Rafael, California"
-msgstr ""
+msgstr "San Rafael, California"
 
 msgctxt "txtcdt433"
 msgid "Special Thanks To"
@@ -48025,55 +48025,55 @@ msgstr "Specjalne podziękowania"
 
 msgctxt "txtcdt434"
 msgid "THE GRIM FANDANGO TEAM"
-msgstr ""
+msgstr "THE GRIM FANDANGO TEAM"
 
 msgctxt "txtcdt435"
 msgid "THE OBI-WAN TEAM"
-msgstr ""
+msgstr "THE OBI-WAN TEAM"
 
 msgctxt "txtcdt436"
 msgid "ERIC BERMENDER"
-msgstr ""
+msgstr "ERIC BERMENDER"
 
 msgctxt "txtcdt437"
 msgid "ANDY HENDRICKSON"
-msgstr ""
+msgstr "ANDY HENDRICKSON"
 
 msgctxt "txtcdt438"
 msgid "KEN BEYER"
-msgstr ""
+msgstr "KEN BEYER"
 
 msgctxt "txtcdt439"
 msgid "JEFF KING"
-msgstr ""
+msgstr "JEFF KING"
 
 msgctxt "txtcdt440"
 msgid "TAMLYNN NIGLIO"
-msgstr ""
+msgstr "TAMLYNN NIGLIO"
 
 msgctxt "txtcdt441"
 msgid "HANS WINOLD"
-msgstr ""
+msgstr "HANS WINOLD"
 
 msgctxt "txtcdt442"
 msgid "WENDY CLARK"
-msgstr ""
+msgstr "WENDY CLARK"
 
 msgctxt "txtcdt443"
 msgid "THE NICE FOLKS AT"
-msgstr ""
+msgstr "THE NICE FOLKS AT"
 
 msgctxt "txtcdt444"
 msgid "THE GOLD HILL MARKET & DELI,"
-msgstr ""
+msgstr "THE GOLD HILL MARKET & DELI,"
 
 msgctxt "txtcdt445"
 msgid "GOLD HILL, OREGON"
-msgstr ""
+msgstr "GOLD HILL, OREGON"
 
 msgctxt "txtcdt446"
 msgid "THE FOLSOM CLARKS"
-msgstr ""
+msgstr "THE FOLSOM CLARKS"
 
 msgctxt "txtcdt447"
 msgid "JAY, JANET, PAULA AND KEN"
@@ -48089,67 +48089,67 @@ msgstr "EDWARD M. BEAUX I COMPANY"
 
 msgctxt "txtcdt450"
 msgid "ORLANDO, CECILIA Y WILFRIDO LLUCH"
-msgstr ""
+msgstr "ORLANDO, CECILIA Y WILFRIDO LLUCH"
 
 msgctxt "txtcdt451"
 msgid "MICHAEL GRISANTI"
-msgstr ""
+msgstr "MICHAEL GRISANTI"
 
 msgctxt "txtcdt452"
 msgid "THE VILLALOBI"
-msgstr ""
+msgstr "THE VILLALOBI"
 
 msgctxt "txtcdt453"
 msgid "TANGO"
-msgstr ""
+msgstr "TANGO"
 
 msgctxt "txtcdt454"
 msgid "BELKYS BARBARA PEREZ"
-msgstr ""
+msgstr "BELKYS BARBARA PEREZ"
 
 msgctxt "txtcdt455"
 msgid "CASSIA DOMINGUEZ"
-msgstr ""
+msgstr "CASSIA DOMINGUEZ"
 
 msgctxt "txtcdt456"
 msgid "CHRIS GATES"
-msgstr ""
+msgstr "CHRIS GATES"
 
 msgctxt "txtcdt457"
 msgid "PAMELA TUITE"
-msgstr ""
+msgstr "PAMELA TUITE"
 
 msgctxt "txtcdt458"
 msgid "BILLY HINNERS"
-msgstr ""
+msgstr "BILLY HINNERS"
 
 msgctxt "txtcdt459"
 msgid "LEE BALLARD"
-msgstr ""
+msgstr "LEE BALLARD"
 
 msgctxt "txtcdt460"
 msgid "JOHN LYONS"
-msgstr ""
+msgstr "JOHN LYONS"
 
 msgctxt "txtcdt461"
 msgid "GIDGET"
-msgstr ""
+msgstr "GIDGET"
 
 msgctxt "txtcdt462"
 msgid "PAT PIDGE"
-msgstr ""
+msgstr "PAT PIDGE"
 
 msgctxt "txtcdt463"
 msgid "JOHN PIDGE"
-msgstr ""
+msgstr "JOHN PIDGE"
 
 msgctxt "txtcdt464"
 msgid "BUNKER"
-msgstr ""
+msgstr "BUNKER"
 
 msgctxt "txtcdt465"
 msgid "DAVID JENSON"
-msgstr ""
+msgstr "DAVID JENSON"
 
 msgctxt "txtcdt466"
 msgid "DAVID AND MELINDA CRUZ"
@@ -48161,11 +48161,11 @@ msgstr "BERNARD I SILVINA ERAL"
 
 msgctxt "txtcdt468"
 msgid "DEE & ANNA MAEVE OVERNEY"
-msgstr ""
+msgstr "DEE & ANNA MAEVE OVERNEY"
 
 msgctxt "txtcdt469"
 msgid "MARI DANZ"
-msgstr ""
+msgstr "MARI DANZ"
 
 msgctxt "txtcdt470"
 msgid "SCRITCH'S HOMIES AND HOMETTES"
@@ -48173,19 +48173,19 @@ msgstr "SCRITCH'S HOMIES I HOMETTES"
 
 msgctxt "txtcdt471"
 msgid "S.P.I. OF LONDON"
-msgstr ""
+msgstr "S.P.I. OF LONDON"
 
 msgctxt "txtcdt472"
 msgid "BECCA, MOM & POPS TERPSTRA"
-msgstr ""
+msgstr "BECCA, MOM & POPS TERPSTRA"
 
 msgctxt "txtcdt473"
 msgid "ANJANI DEVI STEVENSON"
-msgstr ""
+msgstr "ANJANI DEVI STEVENSON"
 
 msgctxt "txtcdt474"
 msgid "FEATHER"
-msgstr ""
+msgstr "FEATHER"
 
 msgctxt "txtcdt475"
 msgid "HEXTOR AND LALORB"
@@ -48193,119 +48193,119 @@ msgstr "HEXTOR I LALORB"
 
 msgctxt "txtcdt476"
 msgid "JOHN BALLACK"
-msgstr ""
+msgstr "JOHN BALLACK"
 
 msgctxt "txtcdt477"
 msgid "ELBERT RAY LYONS"
-msgstr ""
+msgstr "ELBERT RAY LYONS"
 
 msgctxt "txtcdt478"
 msgid "BABY FALLA"
-msgstr ""
+msgstr "BABY FALLA"
 
 msgctxt "txtcdt479"
 msgid "ALEX SAYMO"
-msgstr ""
+msgstr "ALEX SAYMO"
 
 msgctxt "txtcdt480"
 msgid "BERNARD SAYMO"
-msgstr ""
+msgstr "BERNARD SAYMO"
 
 msgctxt "txtcdt481"
 msgid "ANNA HOLT"
-msgstr ""
+msgstr "ANNA HOLT"
 
 msgctxt "txtcdt482"
 msgid "SHAWNA HOLT"
-msgstr ""
+msgstr "SHAWNA HOLT"
 
 msgctxt "txtcdt483"
 msgid "AUBREY WRIGHT"
-msgstr ""
+msgstr "AUBREY WRIGHT"
 
 msgctxt "txtcdt484"
 msgid "EMILY GUDEMAN"
-msgstr ""
+msgstr "EMILY GUDEMAN"
 
 msgctxt "txtcdt485"
 msgid "STEPHANIE AND MARISSA COLON"
-msgstr ""
+msgstr "STEPHANIE AND MARISSA COLON"
 
 msgctxt "txtcdt486"
 msgid "MICHAEL SHATTO III"
-msgstr ""
+msgstr "MICHAEL SHATTO III"
 
 msgctxt "txtcdt487"
 msgid "SHOTZIEE AND MAGIE"
-msgstr ""
+msgstr "SHOTZIEE AND MAGIE"
 
 msgctxt "txtcdt488"
 msgid "KAREN, MIRANDA AND NADIA LUI"
-msgstr ""
+msgstr "KAREN, MIRANDA AND NADIA LUI"
 
 msgctxt "txtcdt489"
 msgid "SANDRA DEL RIO"
-msgstr ""
+msgstr "SANDRA DEL RIO"
 
 msgctxt "txtcdt490"
 msgid "KAYLENA DEL RIO"
-msgstr ""
+msgstr "KAYLENA DEL RIO"
 
 msgctxt "txtcdt491"
 msgid "NICHOLAS HERNANDEZ"
-msgstr ""
+msgstr "NICHOLAS HERNANDEZ"
 
 msgctxt "txtcdt492"
 msgid "NOAH TANNER"
-msgstr ""
+msgstr "NOAH TANNER"
 
 msgctxt "txtcdt493"
 msgid "ELIZABETH HERNANDEZ"
-msgstr ""
+msgstr "ELIZABETH HERNANDEZ"
 
 msgctxt "txtcdt494"
 msgid "ALICIA TRAVIS"
-msgstr ""
+msgstr "ALICIA TRAVIS"
 
 msgctxt "txtcdt495"
 msgid "NEVILLE AND BARBARA"
-msgstr ""
+msgstr "NEVILLE AND BARBARA"
 
 msgctxt "txtcdt496"
 msgid "KALANI AND MARGARETTE JOSE"
-msgstr ""
+msgstr "KALANI AND MARGARETTE JOSE"
 
 msgctxt "txtcdt497"
 msgid "HO'OKUKANE JOSE"
-msgstr ""
+msgstr "HO'OKUKANE JOSE"
 
 msgctxt "txtcdt498"
 msgid "MARIA ELENA, PEDRO,"
-msgstr ""
+msgstr "MARIA ELENA, PEDRO,"
 
 msgctxt "txtcdt499"
 msgid "AND PEDRO LUIS PEREZ"
-msgstr ""
+msgstr "AND PEDRO LUIS PEREZ"
 
 msgctxt "txtcdt500"
 msgid "EMMANUEL SHIU"
-msgstr ""
+msgstr "EMMANUEL SHIU"
 
 msgctxt "txtcdt501"
 msgid "PEGGY STOK"
-msgstr ""
+msgstr "PEGGY STOK"
 
 msgctxt "txtcdt502"
 msgid "THE PRODUCTION GANG"
-msgstr ""
+msgstr "THE PRODUCTION GANG"
 
 msgctxt "txtcdt503"
 msgid "Very Special Thanks To"
-msgstr "Specjlane podziękowania"
+msgstr "Bardzo specjalne podziękowania"
 
 msgctxt "txtcdt504"
 msgid "GEORGE LUCAS"
-msgstr ""
+msgstr "GEORGE LUCAS"
 
 msgctxt "txtcdt505"
 msgid "© 2001 LucasArts Entertainment Company"
@@ -48313,15 +48313,15 @@ msgstr "2001 LucasArts Entertainment Company"
 
 msgctxt "txtcdt506"
 msgid "LLC.  The LucasArts logo is a registered"
-msgstr ""
+msgstr "LLC.  Logo LucasArts jest zarejestrowanym"
 
 msgctxt "txtcdt507"
 msgid "trademark of Lucasfilm Ltd."
-msgstr ""
+msgstr "znakiem towarowym Lucasfilm Ltd."
 
 msgctxt "txtcdt508"
 msgid "Escape from Monkey Island™ and its characters,"
-msgstr "Ucieczka z Wyspy Małp™, postacie,"
+msgstr "Ucieczka z Wyspy Małp™, i wszystkie postacie z gry,"
 
 msgctxt "txtcdt509"
 msgid "iMuse, and the iMuse System logo are each"
@@ -48329,7 +48329,7 @@ msgstr "iMuse, i logo iMuse System są"
 
 msgctxt "txtcdt510"
 msgid "trademarks or registered trademarks"
-msgstr "zarejstrowanymi znakami towarowymi"
+msgstr "zarejestrowanymi znakami towarowymi"
 
 msgctxt "txtcdt511"
 msgid "of LucasArts Entertainment Company LLC."
@@ -48341,7 +48341,7 @@ msgstr "Wszelkie prawa zastrzeżone."
 
 msgctxt "txtcdt513"
 msgid "iMuse U.S. Patent No. 5,315,057"
-msgstr ""
+msgstr "iMuse U.S. Patent No. 5,315,057"
 
 msgctxt "canhoj048"
 msgid "Crystal.  Ulp."
@@ -48389,15 +48389,15 @@ msgstr "Wreszcie, pojazd ten ma być używany wyłącznie do celów służbowych
 
 msgctxt "hehn005"
 msgid "Ozzie Mandrill?  Never heard of him...Huh! Wait, now I remember!  Oh...no.  By Triton's panty line, this is horrible!"
-msgstr "Ozzie Mandrill?  Pierwsze słyszę... Huh! Czekaj, teraz pamiętam!  Och...nie.  Przez linię majtek Tritona, to jest okropne!"
+msgstr "Ozzie Mandrill?  Pierwsze słyszę... Czekaj, kojarzę! Och... nie. Na trytońską linię majtek, to straszne!"
 
 msgctxt "hehn007"
 msgid "Who?  Oh yeah, that's me.  'Herman.'  Heh. Heh. Heh. Listen, junior, you'd better take a seat, because I've got some whale-staggering news to lay on you."
-msgstr "Kto?  A tak, to ja.  Herman.  Heh. Heh. Heh. Słuchaj, młody, lepiej usiądź, bo mam dla ciebie zdumiewające wieści."
+msgstr "Kto? A tak, to ja. Herman. Słuchaj, młody, lepiej usiądź, bo mam dla ciebie zdumiewające wieści."
 
 msgctxt "hehn052"
 msgid "Ah. That's good.  As long as Ozzie and LeChuck don't find her, they'll never be able to make the Ultimate Insult work."
-msgstr "Ah. To dobrze.  Dopóki Ozzie i LeChuck jej nie znajdą, nigdy nie będą w stanie wykonać Talizmanu Upokorzenia."
+msgstr "Ach. To dobrze.  Dopóki Ozzie i LeChuck jej nie znajdą, nigdy nie uda im się wykonać Talizmanu Upokorzenia."
 
 msgctxt "madl004"
 msgid "Look at you, walking around like you've got a bowsprit up your... Hey!  What's this now?"
@@ -48981,7 +48981,7 @@ msgstr "Bonusy"
 
 msgctxt "txtall588"
 msgid "Concept Art"
-msgstr "Grafika koncepcyjna"
+msgstr "Concept Art"
 
 msgctxt "txtall589"
 msgid "MurrayBall!"

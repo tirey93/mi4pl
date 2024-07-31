@@ -42021,7 +42021,7 @@ msgstr "Zamknij inwentarz z przedmiotem"
 
 msgctxt "txtall360"
 msgid "Exit inventory holding nothing"
-msgstr "Zamknij inwentarz bez przedm."
+msgstr "Zamknij inwentarz bez przedmiotu"
 
 msgctxt "txtall361"
 msgid "Choose a slot to SAVE your game and press Enter"
@@ -46149,11 +46149,11 @@ msgstr "przedstawia"
 
 msgctxt "txtopc003"
 msgid "Starring Dominic Armato"
-msgstr "Dominica Armato"
+msgstr "W roli głównej Dominic Armato"
 
 msgctxt "txtopc004"
 msgid "as Guybrush Marley-Threepwood"
-msgstr "jako Guybrusha Marleya-Threepwooda"
+msgstr "jako Guybrush Marley-Threepwood"
 
 msgctxt "txtopc005"
 msgid "Lead Tester"
@@ -46181,7 +46181,7 @@ msgstr "Peter McConnell"
 
 msgctxt "txtopc011"
 msgid "Voice Producer and Director"
-msgstr "Voice Producer and Director"
+msgstr "cVoice Producer and Director"
 
 msgctxt "txtopc012"
 msgid "Darragh O' Farrell"
@@ -46677,7 +46677,7 @@ msgstr "DIANE DYBALSKI"
 
 msgctxt "txtcdt098"
 msgid "Voice Producer and Director"
-msgstr "Voice Producer and Director"
+msgstr "cVoice Producer and Director"
 
 msgctxt "txtcdt099"
 msgid "DARRAGH O'FARRELL"

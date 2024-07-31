@@ -18071,8 +18071,8 @@
       <tuv lang="en-US">
         <seg>Exit inventory holding nothing</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240731T075021Z">
-        <seg>Zamknij inwentarz bez przedm.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075449Z">
+        <seg>Zamknij inwentarz bez przedmiotu</seg>
       </tuv>
     </tu>
     <tu>
@@ -72144,8 +72144,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Voice Producer and Director</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T123106Z">
-        <seg>Voice Producer and Director</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T081039Z">
+        <seg>cVoice Producer and Director</seg>
       </tuv>
     </tu>
     <tu>

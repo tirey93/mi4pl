@@ -10503,7 +10503,7 @@ txtall356	Wyci¹gnij nastêpny przedmiot
 txtall357	Zbadaj trzymany przedmiot
 txtall358	Enter lub U
 txtall359	Zamknij inwentarz z przedmiotem
-txtall360	Zamknij inwentarz bez przedm.
+txtall360	Zamknij inwentarz bez przedmiotu
 txtall361	Wybierz slot do zapisania i naciœnij Enter
 txtall362	Wybierz zapis do wczytania i naciœnij Enter
 txtall363	Wybierz zapis do usuniêcia i naciœnij Enter
@@ -11535,15 +11535,15 @@ txtact022	AKT III
 txtall519	Czy na pewno chcesz wczytaæ?
 txtopc001	LucasArts Entertainment Company
 txtopc002	przedstawia
-txtopc003	Dominica Armato
-txtopc004	jako Guybrusha Marleya-Threepwooda
+txtopc003	W roli g³ównej Dominic Armato
+txtopc004	jako Guybrush Marley-Threepwood
 txtopc005	*Nowa polska wersja*
 txtopc006	*GrajPoPolsku.pl *
 txtopc007	Principal Music Composers
 txtopc008	Clint Bajakian
 txtopc009	Michael Land
 txtopc010	Peter McConnell
-txtopc011	Voice Producer and Director
+txtopc011	cVoice Producer and Director
 txtopc012	Darragh O' Farrell
 txtopc013	Senior Sound Designer
 txtopc014	Nick Peck
@@ -11667,7 +11667,7 @@ txtcdt094	LEA MAI NGUYEN
 txtcdt095	JIM RICE
 txtcdt096	Additional Technical Art
 txtcdt097	DIANE DYBALSKI
-txtcdt098	Voice Producer and Director
+txtcdt098	cVoice Producer and Director
 txtcdt099	DARRAGH O'FARRELL
 txtcdt100	Voice Production Supervisor
 txtcdt101	PEGGY BARTLETT

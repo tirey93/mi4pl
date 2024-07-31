@@ -1504,8 +1504,8 @@
       <tuv lang="en-US">
         <seg>... and no hotseat multiplayer support either!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T104001Z">
-        <seg>... nie ma też wsparcia dla trybu multiplayer z hotseatem!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075102Z">
+        <seg>...nie ma też wsparcia dla trybu multiplayer z hotseatem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8335,8 +8335,8 @@
       <tuv lang="en-US">
         <seg>Are you sure you want to ERASE this saved game?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T112130Z">
-        <seg>Czy na pewno chcesz USUNĄĆ zapis?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074306Z">
+        <seg>Czy na pewno chcesz usunąć zapis?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13255,16 +13255,16 @@
       <tuv lang="en-US">
         <seg>Choose a game to ERASE and press Enter</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T112018Z">
-        <seg>Wybierz slot do USUNIĘCIA gry i naciśnij Enter</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074214Z">
+        <seg>Wybierz zapis do usunięcia i naciśnij Enter</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Choose a game to LOAD and press Enter</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T111959Z">
-        <seg>Wybierz slot do WCZYTANIA gry i naciśnij Enter</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074251Z">
+        <seg>Wybierz zapis do wczytania i naciśnij Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -13279,8 +13279,8 @@
       <tuv lang="en-US">
         <seg>Choose a slot to SAVE your game and press Enter</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T111950Z">
-        <seg>Wybierz slot do ZAPISANIA gry i naciśnij Enter</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074254Z">
+        <seg>Wybierz slot do zapisania i naciśnij Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -16231,8 +16231,8 @@
       <tuv lang="en-US">
         <seg>Down</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dol</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074743Z">
+        <seg>Dół</seg>
       </tuv>
     </tu>
     <tu>
@@ -18063,16 +18063,16 @@
       <tuv lang="en-US">
         <seg>Exit inventory holding current item</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T111919Z">
-        <seg>Zamknij inwentarz trzymając przedmiot</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075000Z">
+        <seg>Zamknij inwentarz z przedmiotem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Exit inventory holding nothing</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T111928Z">
-        <seg>Zamknij inwentarz nic nie trzymając</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075021Z">
+        <seg>Zamknij inwentarz bez przedm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19215,8 +19215,8 @@
       <tuv lang="en-US">
         <seg>Gamepad/Joystick Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T110559Z">
-        <seg>pomoc Gamepad-/Joystick</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074900Z">
+        <seg>Pomoc - Gamepad/Joystick</seg>
       </tuv>
     </tu>
     <tu>
@@ -23363,8 +23363,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>Hey, I just remembered where I left my pants!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T120313Z">
-        <seg>Hej, przypomniałem sobie gdzie zostawiłem spodnie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240730T152403Z">
+        <seg>Hej, przypomniałem sobie, gdzie zostawiłem spodnie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37856,8 +37856,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Inventory Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T110624Z">
-        <seg>pomoc Inwentarz</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074817Z">
+        <seg>Pomoc - Inwentarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -42624,8 +42624,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>John 'Buzz' Buzolich</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T142205Z" creationid="damia" creationdate="20231101T142205Z">
-        <seg>John 'Buzz' Buzolich</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T073408Z" creationid="damia" creationdate="20231101T142205Z">
+        <seg>*GrajPoPolsku.pl *</seg>
       </tuv>
     </tu>
     <tu>
@@ -43448,8 +43448,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Keyboard Help</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Klawiatura - pomoc</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074933Z">
+        <seg>Pomoc - Klawiatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -44096,8 +44096,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Lead Tester</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T124612Z">
-        <seg>Lead Tester</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T073405Z">
+        <seg>*Nowa polska wersja*</seg>
       </tuv>
     </tu>
     <tu>
@@ -49552,8 +49552,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>No, I don't wanna!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie, nie chcę!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075040Z">
+        <seg>Nie, nie ma!</seg>
       </tuv>
     </tu>
     <tu>
@@ -57368,8 +57368,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Press right for Gamepad/Joystick Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T110552Z">
-        <seg>Naciśnij w prawo: pomoc Joystick/Gamepad</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074907Z">
+        <seg>Naciśnij w prawo: Pomoc - Joystick/Gamepad</seg>
       </tuv>
     </tu>
     <tu>
@@ -57384,8 +57384,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Press right for Keyboard Help</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T110643Z">
-        <seg>Naciśnij w prawo - pomoc klawiatura</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T074842Z">
+        <seg>Naciśnij w prawo: Pomoc - Klawiatura</seg>
       </tuv>
     </tu>
     <tu>
@@ -59024,8 +59024,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>STOP ASKING ALREADY!  NO MULTIPLAYER!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231101T104029Z">
-        <seg>PRZESTAŃ PYTAĆ! NIE MA MULTIPLAYERA!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T075225Z">
+        <seg>PRZESTAŃ! NIE MA MULTIPLAYERA!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61768,8 +61768,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Starring Dominic Armato</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T124600Z">
-        <seg>Dominica Armani</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T073528Z">
+        <seg>Dominica Armato</seg>
       </tuv>
     </tu>
     <tu>
@@ -83873,8 +83873,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>as Guybrush Marley-Threepwood</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240730T124607Z">
-        <seg>jako Guybrusha Marley-Threepwooda</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240731T073710Z">
+        <seg>jako Guybrusha Marleya-Threepwooda</seg>
       </tuv>
     </tu>
     <tu>

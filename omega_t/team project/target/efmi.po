@@ -216,7 +216,7 @@ msgstr "Przepraszam!"
 
 msgctxt "HEHN003"
 msgid "Hey, I just remembered where I left my pants!"
-msgstr "Hej, przypomniałem sobie gdzie zostawiłem spodnie!"
+msgstr "Hej, przypomniałem sobie, gdzie zostawiłem spodnie!"
 
 msgctxt "HEGB004"
 msgid "That's, um, great, I guess.  Uh. What about Ozzie Mandrill?"
@@ -41169,15 +41169,15 @@ msgstr "&Wróć do ustawień"
 
 msgctxt "txtall146"
 msgid "Keyboard Help"
-msgstr "Klawiatura - pomoc"
+msgstr "Pomoc - Klawiatura"
 
 msgctxt "txtall147"
 msgid "Press right for Gamepad/Joystick Help"
-msgstr "Naciśnij w prawo: pomoc Joystick/Gamepad"
+msgstr "Naciśnij w prawo: Pomoc - Joystick/Gamepad"
 
 msgctxt "txtall148"
 msgid "Gamepad/Joystick Help"
-msgstr "pomoc Gamepad-/Joystick"
+msgstr "Pomoc - Gamepad/Joystick"
 
 msgctxt "txtall149"
 msgid "Press right for Inventory Help"
@@ -41185,11 +41185,11 @@ msgstr "Naciśnij w prawo - pomoc Inwentarz"
 
 msgctxt "txtall150"
 msgid "Inventory Help"
-msgstr "pomoc Inwentarz"
+msgstr "Pomoc - Inwentarz"
 
 msgctxt "txtall151"
 msgid "Press right for Keyboard Help"
-msgstr "Naciśnij w prawo - pomoc klawiatura"
+msgstr "Naciśnij w prawo: Pomoc - Klawiatura"
 
 msgctxt "txtall152"
 msgid "Press Enter to return to the main menu"
@@ -41961,7 +41961,7 @@ msgstr "W prawo"
 
 msgctxt "txtall345"
 msgid "Down"
-msgstr "Dol"
+msgstr "Dół"
 
 msgctxt "txtall346"
 msgid "Move Backward"
@@ -42017,23 +42017,23 @@ msgstr "Enter lub U"
 
 msgctxt "txtall359"
 msgid "Exit inventory holding current item"
-msgstr "Zamknij inwentarz trzymając przedmiot"
+msgstr "Zamknij inwentarz z przedmiotem"
 
 msgctxt "txtall360"
 msgid "Exit inventory holding nothing"
-msgstr "Zamknij inwentarz nic nie trzymając"
+msgstr "Zamknij inwentarz bez przedm."
 
 msgctxt "txtall361"
 msgid "Choose a slot to SAVE your game and press Enter"
-msgstr "Wybierz slot do ZAPISANIA gry i naciśnij Enter"
+msgstr "Wybierz slot do zapisania i naciśnij Enter"
 
 msgctxt "txtall362"
 msgid "Choose a game to LOAD and press Enter"
-msgstr "Wybierz slot do WCZYTANIA gry i naciśnij Enter"
+msgstr "Wybierz zapis do wczytania i naciśnij Enter"
 
 msgctxt "txtall363"
 msgid "Choose a game to ERASE and press Enter"
-msgstr "Wybierz slot do USUNIĘCIA gry i naciśnij Enter"
+msgstr "Wybierz zapis do usunięcia i naciśnij Enter"
 
 msgctxt "txtall364"
 msgid "Type a name for your game and press Enter"
@@ -42065,7 +42065,7 @@ msgstr "Usunięcie gry jest nieodwracalne."
 
 msgctxt "txtall371"
 msgid "Are you sure you want to ERASE this saved game?"
-msgstr "Czy na pewno chcesz USUNĄĆ zapis?"
+msgstr "Czy na pewno chcesz usunąć zapis?"
 
 msgctxt "txtall372"
 msgid "&Erase"
@@ -44865,7 +44865,7 @@ msgstr "taca z bezpłatnymi mini bajglami z CudoKremem™"
 
 msgctxt "txtsys001"
 msgid "No, I don't wanna!"
-msgstr "Nie, nie chcę!"
+msgstr "Nie, nie ma!"
 
 msgctxt "txtsys002"
 msgid "No, tag team adventure gaming is just too easy."
@@ -44881,11 +44881,11 @@ msgstr "To nie jest gra sieciowa, ok?!"
 
 msgctxt "txtsys005"
 msgid "... and no hotseat multiplayer support either!"
-msgstr "... nie ma też wsparcia dla trybu multiplayer z hotseatem!"
+msgstr "...nie ma też wsparcia dla trybu multiplayer z hotseatem!"
 
 msgctxt "txtsys006"
 msgid "STOP ASKING ALREADY!  NO MULTIPLAYER!"
-msgstr "PRZESTAŃ PYTAĆ! NIE MA MULTIPLAYERA!"
+msgstr "PRZESTAŃ! NIE MA MULTIPLAYERA!"
 
 msgctxt "txtsys007"
 msgid "/sytx375/"
@@ -46149,19 +46149,19 @@ msgstr "przedstawia"
 
 msgctxt "txtopc003"
 msgid "Starring Dominic Armato"
-msgstr "Dominica Armani"
+msgstr "Dominica Armato"
 
 msgctxt "txtopc004"
 msgid "as Guybrush Marley-Threepwood"
-msgstr "jako Guybrusha Marley-Threepwooda"
+msgstr "jako Guybrusha Marleya-Threepwooda"
 
 msgctxt "txtopc005"
 msgid "Lead Tester"
-msgstr "Lead Tester"
+msgstr "*Nowa polska wersja*"
 
 msgctxt "txtopc006"
 msgid "John 'Buzz' Buzolich"
-msgstr "John 'Buzz' Buzolich"
+msgstr "*GrajPoPolsku.pl *"
 
 msgctxt "txtopc007"
 msgid "Principal Music Composers"

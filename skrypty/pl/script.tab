@@ -52,7 +52,7 @@ H2OZ036	No, to mamy ustalone. Bêdziemy musieli trzymaæ tu tego têpego przyg³upa 
 H2LC037	A ja mówiê, ¿e trza go wypatroszyæ.Przez przeklêt¹ nieudolnoœæ Guybrusha trzy z moich najnikczemniejszych planów posz³y na dno. Nie chcia³bym, by twoje równie¿.
 HEHN001	Auæ! Co, w imiê...?
 HEGB002	Przepraszam!
-HEHN003	Hej, przypomnia³em sobie gdzie zostawi³em spodnie!
+HEHN003	Hej, przypomnia³em sobie, gdzie zostawi³em spodnie!
 HEGB004	To dobrze, chyba. A co z Ozzie Mandrillem?
 HEGB006	Herman?
 HEGB008	Nie wiedzia³em, ¿e wieœci mog¹ dumaæ, ale kontynuuj.
@@ -10290,12 +10290,12 @@ txtall142	&Wróæ do opcji
 txtall143	Naciœnij Enter, by zmieniæ
 txtall144	Resetuj zmiany
 txtall145	&Wróæ do ustawieñ
-txtall146	Klawiatura - pomoc
-txtall147	Naciœnij w prawo: pomoc Joystick/Gamepad
-txtall148	pomoc Gamepad-/Joystick
+txtall146	Pomoc - Klawiatura
+txtall147	Naciœnij w prawo: Pomoc - Joystick/Gamepad
+txtall148	Pomoc - Gamepad/Joystick
 txtall149	Naciœnij w prawo - pomoc Inwentarz
-txtall150	pomoc Inwentarz
-txtall151	Naciœnij w prawo - pomoc klawiatura
+txtall150	Pomoc - Inwentarz
+txtall151	Naciœnij w prawo: Pomoc - Klawiatura
 txtall152	Naciœnij Enter, by wróciæ do menu
 txtall153	Brak dostêpnej pomocy. Naciœnij ESC, by kontynuowaæ.
 txtall154	karykatura
@@ -10488,7 +10488,7 @@ txtall341	Lewo
 txtall342	W lewo
 txtall343	Prawo
 txtall344	W prawo
-txtall345	Dol
+txtall345	Dó³
 txtall346	Do ty³u
 txtall347	Przycisk 1
 txtall348	Przycisk 2
@@ -10502,11 +10502,11 @@ txtall355	Wyci¹gnij poprzedni¹ przedmiot
 txtall356	Wyci¹gnij nastêpny przedmiot
 txtall357	Zbadaj trzymany przedmiot
 txtall358	Enter lub U
-txtall359	Zamknij inwentarz trzymaj¹c przedmiot
-txtall360	Zamknij inwentarz nic nie trzymaj¹c
-txtall361	Wybierz slot do ZAPISANIA gry i naciœnij Enter
-txtall362	Wybierz slot do WCZYTANIA gry i naciœnij Enter
-txtall363	Wybierz slot do USUNIÊCIA gry i naciœnij Enter
+txtall359	Zamknij inwentarz z przedmiotem
+txtall360	Zamknij inwentarz bez przedm.
+txtall361	Wybierz slot do zapisania i naciœnij Enter
+txtall362	Wybierz zapis do wczytania i naciœnij Enter
+txtall363	Wybierz zapis do usuniêcia i naciœnij Enter
 txtall364	Wpisz nazwê gry i wciœnij Enter
 txtall365	Gra NIE zosta³a zapisana!
 txtall366	Nie mo¿na wczytaæ postêpów!
@@ -10514,7 +10514,7 @@ txtall367	Nie znaleziono ¿adnych zapisów
 txtall368	Naciœnij Enter by kontynuowaæ
 txtall369	Dysk pe³ny! Proszê wykasowaæ zapisy gry lub w inny sposób stworzyæ miejsce na dysku twardym.
 txtall370	Usuniêcie gry jest nieodwracalne.
-txtall371	Czy na pewno chcesz USUN¥Æ zapis?
+txtall371	Czy na pewno chcesz usun¹æ zapis?
 txtall372	&Usuñ
 txtall373	W tym slocie graj jest ju¿ zapisana.
 txtall374	Czy na pewno chcesz zast¹piæ?
@@ -11214,12 +11214,12 @@ txtstb014	dziwna pani
 txtstb015	taca z mini bajglami
 txtstb016	taca z mini bajglami z CudoKremem™
 txtstb017	taca z bezp³atnymi mini bajglami z CudoKremem™
-txtsys001	Nie, nie chcê!
+txtsys001	Nie, nie ma!
 txtsys002	Nie, przygodowe gry zespo³owe s¹ po prostu zbyt ³atwe.
 txtsys003	Gniazdo TCP nie dzia³a.
 txtsys004	To nie jest gra sieciowa, ok?!
-txtsys005	... nie ma te¿ wsparcia dla trybu multiplayer z hotseatem!
-txtsys006	PRZESTAÑ PYTAÆ! NIE MA MULTIPLAYERA!
+txtsys005	...nie ma te¿ wsparcia dla trybu multiplayer z hotseatem!
+txtsys006	PRZESTAÑ! NIE MA MULTIPLAYERA!
 txtsys007	/sytx375/
 txtsys008	/sytx376/
 txtsys009	/sytx377/
@@ -11535,10 +11535,10 @@ txtact022	AKT III
 txtall519	Czy na pewno chcesz wczytaæ?
 txtopc001	LucasArts Entertainment Company
 txtopc002	przedstawia
-txtopc003	Dominica Armani
-txtopc004	jako Guybrusha Marley-Threepwooda
-txtopc005	Lead Tester
-txtopc006	John 'Buzz' Buzolich
+txtopc003	Dominica Armato
+txtopc004	jako Guybrusha Marleya-Threepwooda
+txtopc005	*Nowa polska wersja*
+txtopc006	*GrajPoPolsku.pl *
 txtopc007	Principal Music Composers
 txtopc008	Clint Bajakian
 txtopc009	Michael Land

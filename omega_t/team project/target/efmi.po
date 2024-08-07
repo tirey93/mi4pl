@@ -41717,11 +41717,11 @@ msgstr "Joystick 16"
 
 msgctxt "txtall284"
 msgid "Please insert Disc 1 to continue!"
-msgstr "Aby kontynuować włóż CD1!"
+msgstr "Wstaw Dysk 1, a aby kontynuowac!"
 
 msgctxt "txtall285"
 msgid "Please insert Disc 2 to continue!"
-msgstr "Aby kontynuować włóż CD2!"
+msgstr "Wstaw Dysk 2, a aby kontynuowac!"
 
 msgctxt "txtall286"
 msgid "Default Action"
@@ -48407,7 +48407,7 @@ msgctxt "murgpt025"
 msgid "(Planet Threepwood is a wholly-owned subsidiary of Ozzie Mandrill Enterprises.)"
 msgstr "(Planeta Threepwood jest spółką zależną należącą w całości do Ozzie Mandrill Enterprises)"
 
-msgctxt "navgpt029"
+msgctxt "navgpt019"
 msgid "This old ship is in need of some major fixin' before it goes shovin' off again."
 msgstr "Ten stary statek wymaga poważnych napraw, zanim znów wyruszy w podróż."
 

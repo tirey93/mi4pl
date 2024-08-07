@@ -56560,16 +56560,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Please insert Disc 1 to continue!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aby kontynuować włóż CD1!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240807T071018Z">
+        <seg>Wstaw Dysk 1, a aby kontynuowac!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Please insert Disc 2 to continue!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aby kontynuować włóż CD2!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240807T071022Z">
+        <seg>Wstaw Dysk 2, a aby kontynuowac!</seg>
       </tuv>
     </tu>
     <tu>

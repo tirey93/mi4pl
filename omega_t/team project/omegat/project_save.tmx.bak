@@ -48816,8 +48816,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Nice effort, but you need more discipline.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Widzę efekty pracy, ale potrzebujesz więcej dyscypliny.</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20240804T205255Z">
+        <seg>Niezły wysiłek, ale potrzeba więcej dyscypliny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57224,8 +57224,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Practice with the lesser monkeys, then come see me again.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ćwicz ze słabszymi małpami i wróć kiedy będziesz gotów.</seg>
+      <tuv lang="pl" changeid="Itami" changedate="20240804T205428Z">
+        <seg>Poćwicz ze słabszymi małpami, a potem przyjdź do mnie ponownie.</seg>
       </tuv>
     </tu>
     <tu>

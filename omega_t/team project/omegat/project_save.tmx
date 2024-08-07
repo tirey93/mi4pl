@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="paragraph" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -56640,16 +56640,16 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Please insert Disc 1 to continue!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aby kontynuować włóż CD1!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240807T071018Z">
+        <seg>Wstaw Dysk 1, a aby kontynuowac!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Please insert Disc 2 to continue!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aby kontynuować włóż CD2!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240807T071022Z">
+        <seg>Wstaw Dysk 2, a aby kontynuowac!</seg>
       </tuv>
     </tu>
     <tu>

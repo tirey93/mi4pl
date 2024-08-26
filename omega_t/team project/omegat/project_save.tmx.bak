@@ -88665,8 +88665,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>ship's wheel</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>kierownica</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240826T123854Z">
+        <seg>ster</seg>
       </tuv>
     </tu>
     <tu>
@@ -89089,8 +89089,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>steering wheel</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T122746Z">
-        <seg>kierownica</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240826T123900Z">
+        <seg>ster</seg>
       </tuv>
     </tu>
     <tu>

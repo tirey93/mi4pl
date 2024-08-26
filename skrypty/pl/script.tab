@@ -716,8 +716,8 @@ guymel085	Jaka barwna metafora. To jak ZARABIACIE na ¿ycie?
 otimel036	¯ebrz¹c, przewa¿nie.
 otimel037	Zdziwi³byœ siê, jak wielu zap³aci za historiê "Niewinnych piratów, których zdradzi³ ich idiotyczny kapitan".
 guymel086	Co siê sta³o z kapitanem Smirkiem, trenerem miecza?
-clamel051	Sprzeda dom zagranicznemu inwestorowi!
-otimel038	Mimo ¿e nie chcia³!
+clamel051	Sprzeda³ dom zagranicznemu inwestorowi!
+otimel038	Mimo, ¿e nie chcia³!
 clamel052	Inwestor zmierzy³ siê z nim w Remiku Zniewa¿anym i POKONA£ GO!
 otimel039	Smirk tak siê zawstydzi³, ¿e przepisa³ wszystko, co mia³ na miejscu i wyp³yn¹³ pierwszym statkiem ze Szpady.
 clamel053	Ta sama historia zdarza³a siê wielokrotnie na Wyspie Szpady™...
@@ -1077,7 +1077,7 @@ voovoo106	W geœcie ratowania twarzy dzia³acze zjednoczonych voodoo na Trójwyspac
 voovoo107	Widzê, ¿e chcesz wiedzieæ, GDZIE szukaæ elementów Talizmanu Upokorzenia.
 guyvoo107	Dobrze by by³o wiedzieæ, gdzie zacz¹æ.
 guyvoo108	Niezupe³nie...
-voovoo108	Jak mówi³am instrukcja wytworzenia Talizmanu Upokorzenia zosta³a zniszczona.
+voovoo108	Jak mówi³am, instrukcja wytworzenia Talizmanu Upokorzenia zosta³a zniszczona.
 voovoo109	Jednak¿e pamiêtam, ¿e pojedyncze czêœci talizmanu mo¿na odnaleŸæ tylko na jednej wyspie.
 guyvoo109	Wyspie Ma³p™?
 voovoo110	Nie, zbyt oczywiste.
@@ -1783,7 +1783,7 @@ meamhi045	Zdech³a.
 guymhi037	Z g³odu?
 meamhi046	Z samotnoœci. Papuga, co nie ma do kogo otworzyæ dzioba to smutna papuga.
 guymhi038	Czy nadal umiesz robiæ, co robi³eœ?
-meamhi047	Nie wiem, o czy mówisz.
+meamhi047	Nie wiem, o czym mówisz.
 guymhi039	No wiesz, tamten zabawny trik!
 guymhi040	No weŸ, zrób tamto œmieszne!
 meamhi048	Nadal nie wiem, o czym bredzisz.
@@ -1916,7 +1916,7 @@ diglaw010	Myœlcie nieszablonowo, moi szanowni koledzy.
 diglaw011	Moglibyœmy zostaæ "Oficjalnymi Prawnikami Obszaru Trójwysp™"!
 whilaw010	Tak, "Dedykowany Zespó³ Prawny Biura Gubernatora™".
 thrlaw012	Czego od nas potrzebujesz, m³odzieñcze?
-guylaw014	No, nie wiem... rozwi¹zaliœcie problem nieruchomoœci dziadka Marleya, tak?
+guylaw014	No, nie wiem... zajmowaliœcie siê sprawami dziadka Marleya, tak?
 whilaw011	Tak.
 thrlaw013	Tak.
 diglaw012	Tak.
@@ -2033,8 +2033,8 @@ guylaw043	To drzwi.
 guybas001	Fiuu!
 guybas002	Œmierdzi tu zdech³¹ ryb¹!
 baibas001	Mamy dziewiêæ rodzajów!
-baibas002	Hej! Nie widzia³eœ jeszcze moich termitów?
-baibas003	Chyba gdzieœ mi znik³y.
+baibas002	Hej! Nie widzia³eœ gdzieœ moich termitów?
+baibas003	Chyba gdzieœ zniknê³y.
 guybas003	Mo¿e zwia³y do innego cyrku?
 baibas004	Pierwotnie ciê o to podejrzewa³em.
 baibas005	Ale teraz wiem, ¿e nie masz na tyle rozumu, ¿eby to zrobiæ.
@@ -2277,7 +2277,7 @@ frehos023	I nie przestawa³bym, dopóki jego mózg nie rozla³by siê po mojej rustyk
 guyhos025	Ale jesteœ pokojowo nastawiony, tak?
 ozzhos005	Freddie! Lepiej ¿eby moja laska by³a gotowa!
 frehos024	Oczywiœcie, panie Mandrill.
-frehos025	Jest... tutaj na pó³ce.
+frehos025	Jest... tutaj, przy pó³ce.
 ozzhos006	Creepwod? Myœlisz o kupieniu w³asnej laski, co?
 ozzhos007	Mo¿e sprawi, ¿e bêdziesz wygl¹da³ bardziej wytwornie.
 ozzhos008	Zupe³nie jak ma³pa w kapeluszu.
@@ -2550,7 +2550,7 @@ canban001	Wezmê go, panie Threepwood.
 guyban004	 
 guyban005	Co pan tutaj robi?
 canban002	Mia³em zapytaæ o to samo.
-canban003	Po prostu wezmê to jako dowód w sprawie.
+canban003	Zamiast tego rekwirujê to jako dowód.
 guyban006	SprawdŸmy go Ko³konosym!
 canban004	Nie. To za ma³o, by go skazaæ.
 canban005	Œwietny pomys³, ale nikt nie wie, gdzie on jest.
@@ -2808,8 +2808,8 @@ guyluc064	To kto wygrywa?
 cdaluc021	Ciê¿ko powiedzieæ...
 cdaluc022	Wygl¹da na to, ¿e Pan Santiago stosuje wariant Obrony Barbarino.
 cdaluc023	A jeœli tak, to mój Manewr Kaplana powinien zd³awiæ jego wie¿e.
-cdaluc024	Odcina³em siê od materia³u Mister Santiago poprzez subtelny atak chwiejnego kroku Yeltsina.
-cdaluc025	Ale chyba podwa¿a to moje wysi³ki poprzez zmodyfikowan¹ obronê pochówku Chruszczewa.
+cdaluc024	Odci¹³em siê od materia³u Pana Santiago poprzez subtelny atak chwiejnego kroku Jelcena.
+cdaluc025	Ale moje wysi³ki spe³z³y na niczym przez jego zmodyfikowan¹ obronê pochówku Chruszczewa.
 guyluc065	No tak, jasne.
 guyluc066	Kto teraz wygrywa?
 cdaluc026	Nie wiem. Jeszcze tego nie rozpracowa³em.
@@ -2840,7 +2840,7 @@ mtygpt010	Jak chcesz, staruszku.
 guygpt008	Niez³e wdzianko.
 mtygpt011	Nieprawda¿? ¯ona mi go wybra³a.
 guygpt047	Wygl¹da, jakby wózek na zakupy eksplodowa³ ci na ramiona.
-guygpt010	Wiesz gdzie odnajdê czêœci Talizmanu Upokorzenia?
+guygpt010	Wiesz, gdzie odnajdê czêœci Talizmanu Upokorzenia?
 mtygpt012	Czy to ten owocowy napój z Planety Threepwood?
 guygpt011	Nie, to niebezpieczny talizman voodoo o niewyt³umaczalnej mia¿d¿¹cej duszê mocy!
 guygpt012	Jego czêœci powinny znajdowaæ siê gdzieœ na Wyspie Jambalaya™.
@@ -3417,7 +3417,7 @@ guyhoj103	Racja.
 guyhoj104	Co powiesz na oryginalne pami¹tki z Planety Threepwood?
 otihoj033	Czy nie mam ciebie ju¿ za du¿o w moim ¿yciu?
 guyhoj105	Widzia³em piêkne kwiaty na skraju doków.
-otihoj034	Szalony.
+otihoj034	Zabawne.
 guyhoj106	Wiesz, i tak nie mogê wymyœliæ niczego, co byœ chcia³.
 preluc001	Witaj w Woniach i Wra¿liwoœciach.
 preluc002	Gdzie subtelne...
@@ -3537,7 +3537,7 @@ guyluc142	Mo¿e by mi pan pomóg³ z czêœciami Talizmanu Upokorzenia?
 claluc036	Coœ ci powiem, Buygrushu ... Brushguyu, Theepgoodzie ...
 claluc037	Bêdê tu czekaæ i obserwowaæ, a¿ którakolwiek z czêœci Talizmanu Upokorzenia siê pojawi, ok?
 guyluc143	 
-claluc038	Ok. Barman! Daj mi wiêcej grogu!
+claluc038	Dobra. Barman! Wiêcej grogu, ty ¿³osny kundlu!
 guyluc144	Podoba ci siê tutaj?
 claluc039	Jest orkropnie!
 claluc040	Maj¹ tutaj s³abszy grog ni¿ mój ma³y palec...
@@ -4311,7 +4311,7 @@ mblstb014	A ponoæ miejsce jest ju¿ wolne od piratów!
 guystb010	Skarbie, twoje wdzianko mnie pobudza.
 mblstb015	Nie przystawiaj siê!
 guystb011	Sorka.
-guystb012	Wiesz gdzie odnajdê czêœci Talizmanu Upokorzenia?
+guystb012	Wiesz, gdzie odnajdê czêœci Talizmanu Upokorzenia?
 mblstb016	Czy to jakiœ nowy ekspres do kawy?
 guystb013	Nie, to z³owrogi voodoo talizman z moc¹ rozrywania wnêtrznoœci!
 guystb014	Próbujê powstrzymaæ okrutnego zombie pirata, by go nie zdoby³.
@@ -4674,7 +4674,7 @@ guystb069	W przeciwieñstwie do kufli w SCUMM Barze, te kubki wydaj¹ siê byæ CZYS
 guystb070	Dok¹d ten œwiat zmierza?!
 guystb071	Nie siêgnê.
 guystb072	Turystyczne badziewia.
-guystb073	Du¿o kawy i kubków z logiem Starbukaniera™.
+guystb073	Du¿o kawy i kubek z logiem Starbukaniera™.
 guystb074	Maj¹ wyprzeda¿ ziaren kawy!
 mblstb038	Nie wierzê! Gdzie?
 guystb075	Ups. Mój b³¹d.
@@ -6094,9 +6094,9 @@ navscu063	... zrzêdzenie.
 guyscu276	Nie mam pojêcia.
 navscu064	Wiêc daj mi znaæ, kiedy bêdziesz mia³.
 navluc001	No i jesteœmy, panie Marley. Wyspa Mamony™.
-guyluc001	Dziêki, panie Serze. Czy nastêpnym razem uda nam siê dotrzeæ na miejsce z troszkê mniejszym dramatyzmem?
+guyluc001	Dziêki, panie Serze. Czy nastêpnym razem dotrzemy na miejsce z mniejszym dramatyzmem?
 otiluc001	Och, nie. Nie bêdzie ju¿ nastêpnego razu, prawda?
-claluc053	Lepiej nie. O jeden za du¿o.
+claluc053	Lepiej nie. Jeden wystarczy!
 guyluc002	Okej. Idê do miasta. Wy tu stójcie i pilnujcie statku.
 otiluc002	No tak. Rozumiem sytuacjê. Kapitan podejmuje wszystkie decyzje.
 guyluc003	Czas wyruszaæ w drogê, koledzy!
@@ -6751,7 +6751,7 @@ deapop272	S¹ zapisane gdzieœ w bazie mojego PlikoMatu.
 guypop212	No to dawaj mi je!
 deapop273	Nie mogê.
 deapop274	Pongo, moja ksiêgowa ma³pa, gdzieœ uciek³a. Tylko on wiedzia³, jak dzia³a PlikoMat.
-deapop275	W efekcie nie mam pojêcia jak wyci¹gn¹æ tê mapê.
+deapop275	W efekcie nie mam pojêcia, jak wyci¹gn¹æ jego mapê.
 deapop276	Ale jeœli tobie siê uda, to droga wolna.
 deapop277	Sterowanie jest tu obok.
 guypop213	Co za przypadek! Ju¿ mam mam akta Ko³konosa.
@@ -7306,7 +7306,7 @@ guycgs023	Chyba czas odp³yn¹æ w swoj¹ stronê.
 cascgs023	Dobrze. Pamiêtaj, ¿e ciê obserwujê!
 pricol001	Proszê trzymaæ wszystkie koñczyny wewn¹trz pojazdu.
 pricol002	Permanascan sentados, por favor.
-pricol003	Nie martw siê, jeœli poczujesz mrowienie w stopach… to po prostu oznacza, ¿e ??dzia³a.
+pricol003	Nie martw siê, jeœli poczujesz mrowienie w stopach. To oznacza, ¿e dzia³a.
 pricol004	Mam nadziejê, ¿e to nie ta ³ódŸ przecieka.  A heh heh.
 pricol005	Jeœli ³ódŸ utknie, po prostu sprzedaj jej mocnego kopa!
 pricol006	Wiesz, jesteœ naszym pierwszym obiektem testów na ludziach.
@@ -10427,8 +10427,8 @@ txtall280	Joystick 13
 txtall281	Joystick 14
 txtall282	Joystick 15
 txtall283	Joystick 16
-txtall284	Aby kontynuowaæ w³ó¿ CD1!
-txtall285	Aby kontynuowaæ w³ó¿ CD2!
+txtall284	Wstaw Dysk 1, a aby kontynuowac!
+txtall285	Wstaw Dysk 2, a aby kontynuowac!
 txtall286	Akcja Domyœlna
 txtall287	Pomiñ dialog
 txtall288	Obróæ obiekt do góry
@@ -11537,13 +11537,13 @@ txtopc001	LucasArts Entertainment Company
 txtopc002	przedstawia
 txtopc003	W roli g³ównej Dominic Armato
 txtopc004	jako Guybrush Marley-Threepwood
-txtopc005	*Nowa polska wersja*
+txtopc005	*Wersja polska*
 txtopc006	*GrajPoPolsku.pl *
 txtopc007	Principal Music Composers
 txtopc008	Clint Bajakian
 txtopc009	Michael Land
 txtopc010	Peter McConnell
-txtopc011	cVoice Producer and Director
+txtopc011	Voice Producer and Director
 txtopc012	Darragh O' Farrell
 txtopc013	Senior Sound Designer
 txtopc014	Nick Peck
@@ -11566,7 +11566,7 @@ txtopc030	Sean Clark & Mike Stemmle
 txtcdt001	LucasArts Entertainment Company™
 txtcdt002	przedstawia
 txtcdt003	UCIECZKA Z WYSPY MA£P™
-txtcdt004	*Nowa polska wersja*
+txtcdt004	*Wersja polska*
 txtcdt517	GARRETT JAMES
 txtcdt005	*GrajPoPolsku.pl *
 txtcdt006	MICHAEL STEMMLE
@@ -11667,7 +11667,7 @@ txtcdt094	LEA MAI NGUYEN
 txtcdt095	JIM RICE
 txtcdt096	Additional Technical Art
 txtcdt097	DIANE DYBALSKI
-txtcdt098	cVoice Producer and Director
+txtcdt098	Voice Producer and Director
 txtcdt099	DARRAGH O'FARRELL
 txtcdt100	Voice Production Supervisor
 txtcdt101	PEGGY BARTLETT

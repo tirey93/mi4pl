@@ -4349,8 +4349,8 @@
       <tuv lang="en-US">
         <seg>A hermit with a ship...jeez.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240630T165929Z">
-        <seg>Pustelnik ze statkiem...phi.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T120730Z">
+        <seg>Pustelnik ze statkiem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23033,6 +23033,14 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Herman?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115728Z" creationid="dapyt" creationdate="20240910T115728Z">
+        <seg>Herman?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey Guybrush!  I need your help!</seg>
       </tuv>
       <tuv lang="pl" changeid="dapyt" changedate="20240729T075106Z">
@@ -26451,8 +26459,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I am?  Who are you?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240619T151202Z">
-        <seg>Jestem? A ty to kto?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115643Z">
+        <seg>Jestem? A ty, to kto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29043,8 +29051,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I got news for ya, ya grimy son of a bilge; I don't give a rat's barnacled butt.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Rael" changedate="20130801T084602Z">
-        <seg>Mam ci coś do przekazania, synu ciemnej zęzy - obchodzi mnie to tyle co funt  szczurzych kłaków!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115207Z">
+        <seg>Mam ci coś do przekazania, synu ciemnej zęzy - obchodzi mnie to tyle, co funt szczurzych kłaków!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32691,8 +32699,8 @@ I vt ponownie po|łączyć [family]; ponownie z|jednoczyć [country, party]; he 
       <tuv lang="en-US">
         <seg>I wonder what a sweet little old lady like that is doing in this dirty, pirate town.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240721T154026Z">
-        <seg>Ciekawe co taka słodka staruszka robi w takim brudnym mieście jak to.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T114700Z">
+        <seg>Ciekawe, co taka słodka staruszka robi w takim brudnym mieście jak to.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36384,8 +36392,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I, er, inform the captain of my misgivings, and hope he listens?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240524T174104Z">
-        <seg>Informuję kapitana o wątpliwościach, licząc że posłucha?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115508Z">
+        <seg>Informuję kapitana o wątpliwościach, licząc, że posłucha?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36504,8 +36512,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>I... I wasn't that bad, was I?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie poszło mi źle, co nie?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115223Z">
+        <seg>Nie poszło mi tak źle, co nie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -37248,8 +37256,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>If you say so.  Heh.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Itami" changedate="20240619T151221Z">
-        <seg>Skoro tak mówisz Heh..</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T120705Z">
+        <seg>Skoro tak mówisz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38976,8 +38984,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It seems to have fallen into the machinery.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240729T093214Z">
-        <seg>Wydaje się, że wpadł kiedyś do tej machiny.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T121018Z">
+        <seg>Wydaje się, że wpadło do tego mechanizmu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39296,8 +39304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>It wouldn't have anything to do with being beaten in Insult Arm Wrestling by a spaghetti-armed pirate-wannabe, would it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231031T101219Z">
-        <seg>Nie miałoby to nic wspólnego z byciu pokonanym w Znieważanie na Rękę przez uzbrojonego w spaghetti pirata, prawda?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T114853Z">
+        <seg>Nie miałoby to nic wspólnego z byciu pokonanym w Znieważanie na Rękę przez pirata z ramionami jak spaghetti, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -44456,8 +44464,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Let's see what you got.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pokaż na co cię stać.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115736Z">
+        <seg>Pokaż, na co cię stać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44698,6 +44706,14 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20240213T190053Z">
         <seg>Na przykład?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Like what?3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T114525Z">
+        <seg>Jakie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -44960,8 +44976,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Look, junior, we're diving judges.  We know as much about voodoo as you do about astrophysics.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240405T195655Z">
-        <seg>Słuchaj, młody. Jesteśmy sędziami. O voodoo talizmanach wiemy mniej więcej tyle co o astrofizyce.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115151Z">
+        <seg>Słuchaj, młody. Jesteśmy sędziami. O voodoo talizmanach wiemy mniej więcej tyle, co o astrofizyce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53856,8 +53872,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Oh?  Well, you try to snatch the grass out of a manatee's mouth and see how menacing it gets.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240426T151339Z">
-        <seg>Tak? To spróbuj wyrwać trawę z ich pyska a zobaczysz, jak groźne się stają.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115558Z">
+        <seg>Tak? To spróbuj wyrwać trawę z ich pyska, a zobaczysz, jak groźne się stają.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54638,10 +54654,42 @@ US informal a man or boy considered as childish, lacking in courage, etc.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oo Ooo Ooo Eeee Eeee Eeee!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110810Z" creationid="dapyt" creationdate="20240912T110810Z">
+        <seg>Oo Ooo Ooo Eeee Eeee Eeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oof!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>oOfF!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110724Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ooh ooh aah ooh ooh ack.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110812Z" creationid="dapyt" creationdate="20240912T110812Z">
+        <seg>Ooh ooh aah ooh ooh ack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ooh ooh ack.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110811Z" creationid="dapyt" creationdate="20240912T110811Z">
+        <seg>Ooh ooh ack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ooh ooh ooh ack.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110813Z" creationid="dapyt" creationdate="20240912T110813Z">
+        <seg>Ooh ooh ooh ack.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55256,8 +55304,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Otis is in jail!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jest w więzieniu!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T114615Z">
+        <seg>Otis jest w więzieniu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -65584,8 +65632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>That, my friend, is the Menacing Mechanical Manatee!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240220T124135Z">
-        <seg>To, mój kolego, nasza Złowrogi Mechaniczny Manat!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115521Z">
+        <seg>To, mój kolego, nasz Złowrogi Mechaniczny Manat!</seg>
       </tuv>
     </tu>
     <tu>
@@ -71432,8 +71480,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Ummm.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>ahmmmm.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T120633Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -71992,8 +72040,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Very well, the gauntlet has been thrown.  I suppose you have been certified by the Judging Committee?</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240427T174656Z">
-        <seg>No dobrze, kości zostały rzucone. Zakładam, że otrzymałeś już certyfikat od komisji sędziowskiej?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115122Z">
+        <seg>No dobrze, wyzwanie zostało rzucone. Zakładam, że otrzymałeś już certyfikat od komisji sędziowskiej?</seg>
       </tuv>
     </tu>
     <tu>
@@ -73584,8 +73632,8 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       <tuv lang="en-US">
         <seg>Well then...let's see what you've got!</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20231028T191010Z">
-        <seg>A więc... pokaż na co cię stać!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240910T115731Z">
+        <seg>A więc... pokaż, na co cię stać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -78155,6 +78203,30 @@ US informal a man or boy considered as childish, lacking in courage, etc.
       </tuv>
       <tuv lang="pl" changeid="damia" changedate="20231013T102346Z" creationid="damia" creationdate="20231013T102346Z">
         <seg>Whoo Eeee Eeee Eeee Eeee Eeee! Eeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoo oooh ooh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110808Z" creationid="dapyt" creationdate="20240912T110808Z">
+        <seg>Whoo oooh ooh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoo oooh ooh!  Whoo oooh ooh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110809Z" creationid="dapyt" creationdate="20240912T110809Z">
+        <seg>Whoo oooh ooh!  Whoo oooh ooh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoo oooh ooh!  Whooh oooh ooh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T110809Z" creationid="dapyt" creationdate="20240912T110809Z">
+        <seg>Whoo oooh ooh!  Whooh oooh ooh!</seg>
       </tuv>
     </tu>
     <tu>

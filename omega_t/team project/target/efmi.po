@@ -160,7 +160,7 @@ msgstr "Skąd do rufy-pupy mam wiedzieć?"
 
 msgctxt "MADL002"
 msgid "I got news for ya, ya grimy son of a bilge; I don't give a rat's barnacled butt."
-msgstr "Mam ci coś do przekazania, synu ciemnej zęzy - obchodzi mnie to tyle co funt  szczurzych kłaków!"
+msgstr "Mam ci coś do przekazania, synu ciemnej zęzy - obchodzi mnie to tyle, co funt szczurzych kłaków!"
 
 msgctxt "MADL003"
 msgid "Get a load a this guy. Thinks just 'cuz I'm attached to a ship I know where every little two-bit piece of dirt of an island is.  Whatta scupper licker. Ooh, look at meee. I'm Guybrush Threepnard. I'm a mighty STOOPID pirate!"
@@ -224,7 +224,7 @@ msgstr "To dobrze, chyba. A co z Ozzie Mandrillem?"
 
 msgctxt "HEGB006"
 msgid "Herman?"
-msgstr ""
+msgstr "Herman?"
 
 msgctxt "HEGB008"
 msgid "I didn't know whales could stagger, but go ahead."
@@ -3243,8 +3243,8 @@ msgid "I've got troubles."
 msgstr "Mam kłopoty."
 
 msgctxt "barscu031"
-msgid "Like what?"
-msgstr "O czym?"
+msgid "Like what?3"
+msgstr "Jakie?"
 
 msgctxt "guyscu059"
 msgid "I've still got troubles."
@@ -10428,7 +10428,7 @@ msgstr "WhoOOOaaa!"
 
 msgctxt "guyban021"
 msgid "Oof!"
-msgstr "oOfF!"
+msgstr " "
 
 msgctxt "guyban022"
 msgid "That pudgy guy must be the bank manager."
@@ -13888,7 +13888,7 @@ msgstr "Wyszedł na ląd."
 
 msgctxt "guyluc112"
 msgid "Otis is in jail!"
-msgstr "Jest w więzieniu!"
+msgstr "Otis jest w więzieniu!"
 
 msgctxt "claluc003"
 msgid "That figures.  He always gets in trouble when he's on shore leave."
@@ -18108,7 +18108,7 @@ msgstr "Dobrze."
 
 msgctxt "guypla005"
 msgid "I... I wasn't that bad, was I?"
-msgstr "Nie poszło mi źle, co nie?"
+msgstr "Nie poszło mi tak źle, co nie?"
 
 msgctxt "guypla006"
 msgid "What does this guy have against me?"
@@ -19780,7 +19780,7 @@ msgstr "Nie, to starożytny talizman voodoo o nieopisanie piekielnej mocy!"
 
 msgctxt "eddpla022"
 msgid "Look, junior, we're diving judges.  We know as much about voodoo as you do about astrophysics."
-msgstr "Słuchaj, młody. Jesteśmy sędziami. O voodoo talizmanach wiemy mniej więcej tyle co o astrofizyce."
+msgstr "Słuchaj, młody. Jesteśmy sędziami. O voodoo talizmanach wiemy mniej więcej tyle, co o astrofizyce."
 
 msgctxt "guypla043"
 msgid "Are you guys sure you can't help me find the Ultimate Insult?"
@@ -20744,7 +20744,7 @@ msgstr "To o co chodzi z tym osiodłanym czymś?"
 
 msgctxt "opemig042"
 msgid "That, my friend, is the Menacing Mechanical Manatee!"
-msgstr "To, mój kolego, nasza Złowrogi Mechaniczny Manat!"
+msgstr "To, mój kolego, nasz Złowrogi Mechaniczny Manat!"
 
 msgctxt "guymig032"
 msgid "So what's the deal with that Manatee thing again?"
@@ -20816,7 +20816,7 @@ msgstr "Bardziej jak pływająca krowa."
 
 msgctxt "opemig051"
 msgid "Oh?  Well, you try to snatch the grass out of a manatee's mouth and see how menacing it gets."
-msgstr "Tak? To spróbuj wyrwać trawę z ich pyska a zobaczysz, jak groźne się stają."
+msgstr "Tak? To spróbuj wyrwać trawę z ich pyska, a zobaczysz, jak groźne się stają."
 
 msgctxt "guymig041"
 msgid "What is this mechanical manatee here for?"
@@ -21120,7 +21120,7 @@ msgstr "Zaraz po mnie."
 
 msgctxt "macpla073"
 msgid "Very well, the gauntlet has been thrown.  I suppose you have been certified by the Judging Committee?"
-msgstr "No dobrze, kości zostały rzucone. Zakładam, że otrzymałeś już certyfikat od komisji sędziowskiej?"
+msgstr "No dobrze, wyzwanie zostało rzucone. Zakładam, że otrzymałeś już certyfikat od komisji sędziowskiej?"
 
 msgctxt "guypla111"
 msgid "Sure.  Check it out."
@@ -24344,7 +24344,7 @@ msgstr "Zgoda."
 
 msgctxt "navscu059"
 msgid "Well then...let's see what you've got!"
-msgstr "A więc... pokaż na co cię stać!"
+msgstr "A więc... pokaż, na co cię stać!"
 
 msgctxt "guyscu274"
 msgid "I was kind of hoping that you'd cave in due to my incessant nagging."
@@ -28116,7 +28116,7 @@ msgstr "Robię sobie żarty z jego rozrastającego się od grogu brzucha?"
 
 msgctxt "munpta018"
 msgid "I, er, inform the captain of my misgivings, and hope he listens?"
-msgstr "Informuję kapitana o wątpliwościach, licząc że posłucha?"
+msgstr "Informuję kapitana o wątpliwościach, licząc, że posłucha?"
 
 msgctxt "munpta019"
 msgid "I, uh, accept the drink, but pour it in a bush when he isn't looking?"
@@ -29732,7 +29732,7 @@ msgstr "Czas na walkę!"
 
 msgctxt "guymon007"
 msgid "Let's see what you got."
-msgstr "Pokaż na co cię stać."
+msgstr "Pokaż, na co cię stać."
 
 msgctxt "guymon008"
 msgid "Uh, never mind."
@@ -29764,19 +29764,19 @@ msgstr "Jesteś dobry, ale czy wystarczająco dobry?"
 
 msgctxt "mk1mon005"
 msgid "Whoo oooh ooh!"
-msgstr ""
+msgstr "Whoo oooh ooh!"
 
 msgctxt "mk2mon005"
 msgid "Whoo oooh ooh!"
-msgstr ""
+msgstr "Whoo oooh ooh!"
 
 msgctxt "mk3mon005"
 msgid "Whoo oooh ooh!  Whooh oooh ooh!"
-msgstr ""
+msgstr "Whoo oooh ooh!  Whooh oooh ooh!"
 
 msgctxt "mk4mon005"
 msgid "Whoo oooh ooh!  Whoo oooh ooh!"
-msgstr ""
+msgstr "Whoo oooh ooh!  Whoo oooh ooh!"
 
 msgctxt "mk1mon006"
 msgid "Eeee Eeee Eeee!"
@@ -29792,23 +29792,23 @@ msgstr "Whoo Eeee Eeee Eeee Eeee Eeee! Eeee!"
 
 msgctxt "mk4mon006"
 msgid "Oo Ooo Ooo Eeee Eeee Eeee!"
-msgstr ""
+msgstr "Oo Ooo Ooo Eeee Eeee Eeee!"
 
 msgctxt "mk1mon007"
 msgid "Ooh ooh ack."
-msgstr ""
+msgstr "Ooh ooh ack."
 
 msgctxt "mk2mon007"
 msgid "Ooh ooh ack."
-msgstr ""
+msgstr "Ooh ooh ack."
 
 msgctxt "mk3mon007"
 msgid "Ooh ooh aah ooh ooh ack."
-msgstr ""
+msgstr "Ooh ooh aah ooh ooh ack."
 
 msgctxt "mk4mon007"
 msgid "Ooh ooh ooh ack."
-msgstr ""
+msgstr "Ooh ooh ooh ack."
 
 msgctxt "guymon011"
 msgid "Rats.  I lost again."
@@ -29872,15 +29872,15 @@ msgstr "Tutaj! Ty jesteś Herman Toothrot, pustelnik z Wyspy Małp™!"
 
 msgctxt "hertoc002"
 msgid "I am?  Who are you?"
-msgstr "Jestem? A ty to kto?"
+msgstr "Jestem? A ty, to kto?"
 
 msgctxt "guytoc003"
 msgid "Herman?"
-msgstr ""
+msgstr "Herman?"
 
 msgctxt "hertoc003"
 msgid "If you say so.  Heh."
-msgstr "Skoro tak mówisz Heh.."
+msgstr "Skoro tak mówisz."
 
 msgctxt "guytoc004"
 msgid "Your memory seems to be slipping."
@@ -30048,7 +30048,7 @@ msgstr "Ale--."
 
 msgctxt "hertoc024"
 msgid "A hermit with a ship...jeez."
-msgstr "Pustelnik ze statkiem...phi."
+msgstr "Pustelnik ze statkiem..."
 
 msgctxt "guytoc025"
 msgid "So, you really don't know where your ship is?"
@@ -30112,7 +30112,7 @@ msgstr "Jeśli jesteś moim najlepszym przyjacielem, to gdzie byłeś jak straci
 
 msgctxt "guytoc033"
 msgid "Ummm."
-msgstr "ahmmmm."
+msgstr " "
 
 msgctxt "guytoc034"
 msgid "I'm Guybrush Threepwood, man, I took a bullet for you in 'Nam."
@@ -33556,7 +33556,7 @@ msgstr "Żartujesz sobie? To było jasne od początku."
 
 msgctxt "navshi021"
 msgid "It wouldn't have anything to do with being beaten in Insult Arm Wrestling by a spaghetti-armed pirate-wannabe, would it?"
-msgstr "Nie miałoby to nic wspólnego z byciu pokonanym w Znieważanie na Rękę przez uzbrojonego w spaghetti pirata, prawda?"
+msgstr "Nie miałoby to nic wspólnego z byciu pokonanym w Znieważanie na Rękę przez pirata z ramionami jak spaghetti, prawda?"
 
 msgctxt "navshi022"
 msgid "Then I don't know nuthin' about it."
@@ -35460,7 +35460,7 @@ msgstr "Wątpię, żeby podobała mu się mapa Wyspy Jambalaya™."
 
 msgctxt "guycpt099"
 msgid "I wonder what a sweet little old lady like that is doing in this dirty, pirate town."
-msgstr "Ciekawe co taka słodka staruszka robi w takim brudnym mieście jak to."
+msgstr "Ciekawe, co taka słodka staruszka robi w takim brudnym mieście jak to."
 
 msgctxt "guyuch028"
 msgid "This button practically screams 'Push Me.'"
@@ -35996,7 +35996,7 @@ msgstr "To małe drzwiczki."
 
 msgctxt "guyall285"
 msgid "It seems to have fallen into the machinery."
-msgstr "Wydaje się, że wpadł kiedyś do tej machiny."
+msgstr "Wydaje się, że wpadło do tego mechanizmu."
 
 msgctxt "guyall286"
 msgid "It's a StanCo brand weed whipper."

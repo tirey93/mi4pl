@@ -38,7 +38,7 @@ MEGB001	To powinno mu zabiæ æwieka!
 MELU002	Voila! Teraz powinno œmigaæ jak nowe. Eee? Có¿ tho? Statki! Nie rhuszaj¹ siê! Takh nie mo¿e byæ!
 MEGB004	Wosk - prawdziwy œrodek wyrazu Meathooka.
 MADL001	Sk¹d do rufy-pupy mam wiedzieæ?
-MADL002	Mam ci coœ do przekazania, synu ciemnej zêzy - obchodzi mnie to tyle co funt  szczurzych k³aków!
+MADL002	Mam ci coœ do przekazania, synu ciemnej zêzy - obchodzi mnie to tyle, co funt szczurzych k³aków!
 MADL003	Patrzcie go! Myœli, ¿e skoro jestem przymocowana do statku, to znam ka¿dy skrawek tej wyspy. Co za szczur œciekowy. Och, patrzcie na mnie. Jam Guybrush Threepnard – potê¿nie G£UPI pirat!
 UIGB001	Mo¿e przypadkiem wiesz coœ o Talizmanie Upokorzenia?
 UIDL002	Mam ten twój Talizman w³aœnie tu!
@@ -809,7 +809,7 @@ barscu029	Chêtnie... ale najpierw oka¿ dowodzik.
 guyscu057	Nie, serio, daj grogu!
 barscu030	Nie, serio, dowodzik!
 guyscu058	Mam k³opoty.
-barscu031	O czym?
+barscu031	Jakie?
 guyscu059	Wci¹¿ mam k³opoty.
 barscu032	Mów.
 guyscu060	Muszê lecieæ.
@@ -2605,7 +2605,7 @@ guyban018	Jest trochê niewygodny, poluzuje mi pan?
 canban025	W tym jest ca³y jego sens, prawda? Bêdzie tylko gorzej, kiedy spróbuje pan opuœciæ wyspê.
 guyban019	Przynajmniej nie jestem w wiêzieniu.
 guyban020	WhoOOOaaa!
-guyban021	oOfF!
+guyban021	 
 guyban022	Ten pulchniak musi byæ kierownikiem banku.
 guyban023	Przepraszam...
 manban003	Proszê do pani obok.
@@ -3470,7 +3470,7 @@ guyluc110	Hej, Carla.
 claluc001	Czego chcesz?
 guyluc111	Gdzie jest Otis?
 claluc002	Wyszed³ na l¹d.
-guyluc112	Jest w wiêzieniu!
+guyluc112	Otis jest w wiêzieniu!
 claluc003	To zrozumia³e.  Zawsze wpada w k³opoty, kiedy wychodzi na l¹d.
 guyluc113	A czemu ty gdzieœ nie pójdziesz?
 claluc004	Ktoœ musi zostaæ i pilnowaæ statku, podczas gdy Wielki Ser naprawia wszystkie wyrz¹dzone przez ciebie szkody.
@@ -4525,7 +4525,7 @@ guypla001	NieŸle.
 guypla002	Szlag.
 guypla003	Dobrze wiedzieæ, ¿e stary dobry szanta¿ wci¹¿ dzia³a w niektórych czêœciach "nowoczesnego" œwiata.
 guypla004	Dobrze.
-guypla005	Nie posz³o mi Ÿle, co nie?
+guypla005	Nie posz³o mi tak Ÿle, co nie?
 guypla006	Co ten koleœ do mnie ma?
 guypla007	 
 guypla008	Oœla czapka chyba zadzia³a³a.
@@ -4943,7 +4943,7 @@ guypla041	Szukam Talizmanu Upokorzenia.
 trppla014	Czy to jakiœ skoczek do wody?
 kahpla015	Albo rodzaj trampoliny?
 guypla042	Nie, to staro¿ytny talizman voodoo o nieopisanie piekielnej mocy!
-eddpla022	S³uchaj, m³ody. Jesteœmy sêdziami. O voodoo talizmanach wiemy mniej wiêcej tyle co o astrofizyce.
+eddpla022	S³uchaj, m³ody. Jesteœmy sêdziami. O voodoo talizmanach wiemy mniej wiêcej tyle, co o astrofizyce.
 guypla043	Na pewno nie wiecie jak mi pomóc w poszukiwaniach Talizmanu?
 eddpla023	Nie.
 trppla015	Bez szans, ziom.
@@ -5184,7 +5184,7 @@ guymig029	A co ze zwyk³ym starym, dobrym grogiem?
 opemig041	A ty co, jakiœ prostolinijny wieœniak?
 guymig030	Opowiedz mi jeszcze raz o wspania³oœci waszej mikrogrogerii?
 guymig031	To o co chodzi z tym osiod³anym czymœ?
-opemig042	To, mój kolego, nasza Z³owrogi Mechaniczny Manat!
+opemig042	To, mój kolego, nasz Z³owrogi Mechaniczny Manat!
 guymig032	To o co chodzi³o z tym Manatem?
 opemig043	Nazywamy go Z³owrogim Mechanicznym Manatem.
 guymig033	Dlaczego ta wyspa wygl¹da tak... przyzwoicie?
@@ -5202,7 +5202,7 @@ opemig049	Manaty to morskie ssaki, ¿ywi¹ce siê traw¹ morsk¹ i innymi roœlinami w
 opemig050	Zwykle rosn¹ w granicach 9, 10 stóp i wa¿¹ coœ ko³o 1000 funtów.
 guymig039	Ale to nie brzmi byt "z³owrogo"!
 guymig040	Bardziej jak p³ywaj¹ca krowa.
-opemig051	Tak? To spróbuj wyrwaæ trawê z ich pyska a zobaczysz, jak groŸne siê staj¹.
+opemig051	Tak? To spróbuj wyrwaæ trawê z ich pyska, a zobaczysz, jak groŸne siê staj¹.
 guymig041	Ale po co wam tutaj mechaniczny manat?
 opemig052	G³ównie dla rozrywki.
 opemig053	Ale w ramach promocji rozdajemy kupon Planety Threepwood na bezp³atny posi³ek z Ma³pim Kuflem dla ka¿dego, kto ujedzie Manata na najwy¿szym ustawieniu.
@@ -5278,7 +5278,7 @@ macpla071	Ty nie mówisz powa¿nie?
 guypla109	Powa¿nie jak szkorbut, nurkusiu!
 macpla072	Lepiej mnie nie lekcewa¿yæ, panie Threepwood. Jestem najwiêkszym skoczkiem na œwiecie.
 guypla110	Zaraz po mnie.
-macpla073	No dobrze, koœci zosta³y rzucone. Zak³adam, ¿e otrzyma³eœ ju¿ certyfikat od komisji sêdziowskiej?
+macpla073	No dobrze, wyzwanie zosta³o rzucone. Zak³adam, ¿e otrzyma³eœ ju¿ certyfikat od komisji sêdziowskiej?
 guypla111	Jasne. SprawdŸ sam.
 macpla074	Widzia³em ju¿ staruszkê z pora¿eniem z lepszymi wynikami.
 macpla075	Ale chêtnie poka¿ê ci twoje miejsce w szeregu. Czas na poni¿enie, panie Threepwood.
@@ -6084,7 +6084,7 @@ navscu057	Mo¿e tak: jeœli pokonasz mnie, bêdê twoim nawigatorem...
 guyscu272	Œwietnie!
 navscu058	Ale tylko jeœli nauczysz mnie jakichœ nowych obelg.
 guyscu273	Zgoda.
-navscu059	A wiêc... poka¿ na co ciê staæ!
+navscu059	A wiêc... poka¿, na co ciê staæ!
 guyscu274	Mia³em nadziejê, ¿e podda siê pan przez to moje nieustanne zrzêdzenie.
 navscu060	Dziecko. By³em ¿onaty przez trzydzieœci lat.
 guyscu275	No i?
@@ -7027,7 +7027,7 @@ munpta014	Piszê o niej œwiñskie wierszyki na œcianie w ubikacji!
 munpta015	Odsy³am burgera z powrotem do kuchni formu³uj¹c kilka mocnych s³ów do kelnerki.
 munpta016	Przep³ywam obok, opieraj¹c siê chêci ataku?
 munpta017	Robiê sobie ¿arty z jego rozrastaj¹cego siê od grogu brzucha?
-munpta018	Informujê kapitana o w¹tpliwoœciach, licz¹c ¿e pos³ucha?
+munpta018	Informujê kapitana o w¹tpliwoœciach, licz¹c, ¿e pos³ucha?
 munpta019	Przyjmujê drinka, ale wylewam go w krzaki, kiedy on nie patrzy?
 yanpta008	Grzecznie podajê nieznajomemu prawid³ow¹ godzinê i kierujê go w stronê sklepu z zegarkami.
 yanpta009	Notujê w pamiêci wygl¹d napastnika i szukam najbli¿szego stró¿a prawa.
@@ -7431,7 +7431,7 @@ lcsmon003	Eek
 lcsmon004	Chee
 guymon005	En garde, ma³po!
 guymon006	Czas na walkê!
-guymon007	Poka¿ na co ciê staæ.
+guymon007	Poka¿, na co ciê staæ.
 guymon008	Niewa¿ne.
 guymon009	Zatrzyma³em ciê.
 guymon010	Zajmij siê swoimi sprawami.
@@ -7466,9 +7466,9 @@ jojmon019	Opiekuj siê ni¹: jest wyj¹tkowa.
 guytoc001	Herman!
 hertoc001	Gdzie?
 guytoc002	Tutaj! Ty jesteœ Herman Toothrot, pustelnik z Wyspy Ma³p™!
-hertoc002	Jestem? A ty to kto?
+hertoc002	Jestem? A ty, to kto?
 guytoc003	Herman?
-hertoc003	Skoro tak mówisz Heh..
+hertoc003	Skoro tak mówisz.
 guytoc004	Coœ nie tyka z twoj¹ pamiêci¹.
 hertoc004	Tak? Nie mogê sobie przypomnieæ.
 guytoc005	Czy ju¿ jest lepiej z twoj¹ pamiêci¹?
@@ -7510,7 +7510,7 @@ hertoc022	Mam statek? Myœla³em, ¿e jestem pustelnikiem.
 guytoc023	Có¿, tak, ale--
 hertoc023	Czy mam tak¿e telefon komórkowy?
 guytoc024	Ale--.
-hertoc024	Pustelnik ze statkiem...phi.
+hertoc024	Pustelnik ze statkiem...
 guytoc025	Wiêc naprawdê nie wiesz, gdzie jest twój statek?
 hertoc025	Nie. Oczywiœcie, ¿e nie przywi¹zujê du¿ej wagi do tego twojego mitycznego "statku pustelnika”.
 guytoc026	Pewnie nie wiesz, jak powstrzymaæ Talizman Upokorzenia, prawda?
@@ -7526,7 +7526,7 @@ guytoc031	Jestem Guybrush Threepwood, Potê¿ny Pirat.
 hertoc030	Guybrush Threepwood?'  Heh heh heh.  A ja myœla³em, ¿e moje imie jest g³upie.
 guytoc032	Jam Guybrush Threepwood, twój najlepszy przyjaciel na ca³ym œwiecie.
 hertoc031	Jeœli jesteœ moim najlepszym przyjacielem, to gdzie by³eœ jak straci³em pamiêæ?
-guytoc033	ahmmmm.
+guytoc033	 
 guytoc034	Jam Guybrush Threepwood, przyj¹³em w Wietnamie pocisk za ciebie.
 hertoc032	Na co go przyj¹³eœ?
 hertoc033	 
@@ -8387,7 +8387,7 @@ navshi017	Tak, przez kolejne dwa akty.
 navshi018	Co?
 navshi019	Hmm... coœ takiego.
 navshi020	¯artujesz sobie? To by³o jasne od pocz¹tku.
-navshi021	Nie mia³oby to nic wspólnego z byciu pokonanym w Zniewa¿anie na Rêkê przez uzbrojonego w spaghetti pirata, prawda?
+navshi021	Nie mia³oby to nic wspólnego z byciu pokonanym w Zniewa¿anie na Rêkê przez pirata z ramionami jak spaghetti, prawda?
 navshi022	W takim razie nic o tym nie wiem.
 navshi023	Myœlê, ¿e mog³aby walczyæ za mnie we wszystkich meczach Zniewa¿ania na Rêkê.
 navshi024	Robota? Tak to nazywasz?
@@ -8863,7 +8863,7 @@ guycpt095	Lalkom tego nie trzeba.
 guycpt096	Przystojny, ma³y koleœ.
 guycpt097	A myœla³em, ¿e ja mam nerwicê.
 guycpt098	W¹tpiê, ¿eby podoba³a mu siê mapa Wyspy Jambalaya™.
-guycpt099	Ciekawe co taka s³odka staruszka robi w takim brudnym mieœcie jak to.
+guycpt099	Ciekawe, co taka s³odka staruszka robi w takim brudnym mieœcie jak to.
 guyuch028	Ten przycisk jakby krzyczy do mnie "Naciœnij"!
 guyall273	To jedna z wielu dumnych ma³p z Wyspy Ma³p™.
 guyall274	Masz, weŸ banana...
@@ -8997,7 +8997,7 @@ guyall282	Ju¿ za mn¹ idzie.
 guyall283	Nie chcê by siê rozchorowa³.
 guyall284	W¹tpiê, ¿eby Timmiemu siê to podoba³o.
 guyoze012	To ma³e drzwiczki.
-guyall285	Wydaje siê, ¿e wpad³ kiedyœ do tej machiny.
+guyall285	Wydaje siê, ¿e wpad³o do tego mechanizmu.
 guyall286	To wypielacz marki StanCo.
 guyall287	"Zrobi mizeriê nawet z najmocniejszych chwastów w ogródku."
 guyall288	Mam!

@@ -8,6 +8,6 @@ W katalogu "czcionki_pl" znajdują się spolszczone czcionki do gry oraz narzęd
 W katalogu "dumper" znajduje się program(nie mojego autorstwa) który potrafi eksportować i importować do pliku m4b. W oddzielnym pliku dołączyłem stary filmik na YT z instrukcją obsługi
 W katalogu "omega_t" znajduje się projekt do programu Omega-T ułatwiający tłumaczenie
 W katalogach "po2_tab_converter"(source) znajduje się mój autorski program konwersji plików .po generowanych przez Omega-T do pliku .tab który umieszczamy wewnątrz artAll.m4b
-W katalogu "skrypty" umieściłem skrypty (pliki .tab) w wersji różnych wersjach językowych. Należy je zdumpować dumperem do pliku artAll.m4b w celu aktualizacji wersji językowej
+W katalogu "skrypty" umieściłem skrypty (pliki .tab) w różnych wersjach językowych. Należy je zdumpować dumperem do pliku artAll.m4b w celu aktualizacji wersji językowej
 
 Kontakt: tirey93.pay@gmail.com lub Discord: tirey93
